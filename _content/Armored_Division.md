@@ -6,12 +6,7 @@ title: Armored_Division
 Armored Division Statistics
 ---------------------------
 
-| Model | Default ORG | Morale | Air Attack | Air Def. | Soft Attack | Hard Attack | Tough-  
-ness | Defens-  
-iveness | Soft-  
-ness |  | Cost | Build-  
-time | Man-  
-power | Max Speed | Supply Cons. | Fuel Cons. | Supp. | Transp. Weight | Upgrade Time Factor | Upgrade Cost Factor | Speed Cap Art | Speed Cap Eng | Speed Cap AT | Speed Cap AA |
+| Model | Default ORG | Morale | Air Attack | Air Def. | Soft Attack | Hard Attack | Tough-ness | Defens-iveness | Soft-ness |  | Cost | Build-time | Man-power | Max Speed | Supply Cons. | Fuel Cons. | Supp. | Transp. Weight | Upgrade Time Factor | Upgrade Cost Factor | Speed Cap Art | Speed Cap Eng | Speed Cap AT | Speed Cap AA |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Great War Tank | 30 | 30 | 1 | 1 | 8 | 2 | 7 | 5 | 30 |  | 16 | 180 | 7 | 4 | 2 | 4 | 1 | 30 | 1.0 | 1.0 | 5 | 5 | 5 | 5 |
 | Early Tank | 30 | 30 | 2 | 1 | 8 | 3 | 12 | 8 | 30 |  | 20 | 185 | 7 | 8 | 2.2 | 5 | 1 | 30 | 0.5 | 1.0 | 9 | 9 | 9 | 9 |

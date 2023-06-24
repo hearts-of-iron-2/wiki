@@ -6,12 +6,7 @@ title: Mechanized_Division
 Machanized Division Statistics
 ------------------------------
 
-| Model | Default ORG | Morale | Air Attack | Air Def. | Soft Attack | Hard Attack | Tough-  
-ness | Defens-  
-iveness | Soft-  
-ness |  | Cost | Build-  
-time | Man-  
-power | Max Speed | Supply Cons. | Fuel Cons. | Supp. | Transp. Weight | Upgrade Time Factor | Upgrade Cost Factor | Speed Cap Art | Speed Cap Eng | Speed Cap AT | Speed Cap AA |
+| Model | Default ORG | Morale | Air Attack | Air Def. | Soft Attack | Hard Attack | Tough-ness | Defens-iveness | Soft-ness |  | Cost | Build-time | Man-power | Max Speed | Supply Cons. | Fuel Cons. | Supp. | Transp. Weight | Upgrade Time Factor | Upgrade Cost Factor | Speed Cap Art | Speed Cap Eng | Speed Cap AT | Speed Cap AA |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Mechanized Infantry '42 | 30 | 30 | 4 | 5 | 14 | 5 | 20 | 20 | 60 |  | 14 | 125 | 10 | 10 | 1.3 | 4.5 | 2 | 30 | 0.5 | 1.0 | 11 | 11 | 11 | 11 |
 | Mechanized Infantry '43 | 30 | 30 | 4 | 6 | 16 | 6 | 25 | 25 | 60 |  | 14 | 125 | 10 | 10 | 1.4 | 4.5 | 2 | 30 | 0.5 | 1.0 | 11 | 11 | 11 | 11 |

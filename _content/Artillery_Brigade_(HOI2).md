@@ -3,12 +3,7 @@ title: Artillery_Brigade_(HOI2)
 ---
  Artillery pieces will increase the 'Soft Attack' capability of your units, inflicting more damage on Infantry and Motorized units.
 
-| Model | Default ORG | Morale | Air Attack | Air Def. | Soft Attack | Hard Attack | Tough-  
-ness | Defens-  
-iveness | Soft-  
-ness |  | Cost | Build-  
-time | Man-  
-power | Max Speed | Supply Cons. | Fuel Cons. | Supp. | Transp. Weight | Upgrade Time Factor | Upgrade Cost Factor | Speed Cap Art | Speed Cap Eng | Speed Cap AT | Speed Cap AA |
+| Model | Default ORG | Morale | Air Attack | Air Def. | Soft Attack | Hard Attack | Tough-ness | Defens-iveness | Soft-ness |  | Cost | Build-time | Man-power | Max Speed | Supply Cons. | Fuel Cons. | Supp. | Transp. Weight | Upgrade Time Factor | Upgrade Cost Factor | Speed Cap Art | Speed Cap Eng | Speed Cap AT | Speed Cap AA |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | I. Great War Light Artillery |  |  |  |  | 2 | 1 |  | 2 |  |  | 5 | 45 | 2 | \-1 | 0.6 |  |  |  | 0.5 | 1.0 |  |  |  |  |
 | II. Great War Medium Artillery |  |  |  |  | 3 | 1 |  | 2 |  |  | 5 | 60 | 2 | \-1 | 0.8 |  |  |  | 0.5 | 1.0 |  |  |  |  |

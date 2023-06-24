@@ -39,9 +39,7 @@ Close Air Support is the key to the blitzkrieg tactic. These planes have the abi
 
 Escort Fighters are long-range fighters, designed to escort bombers and keep enemy interceptors from the bombers. They are drilled in tactics to achieve this mission and receive a bonus when escorting bombers. In Air Superiority missions, they are less effective.
 
-| Model | Default ORG | Morale | Air Attack | Air Def. | Soft Attack | Hard Attack | Naval Attack | Strat Attack | Surface Def | Air Detect | Surface Detect |  | Cost | Build-  
-time | Man-  
-power | Max Speed | Supply Cons. | Fuel Cons. | Range | Trans Cap. | Upgrade Time Factor | Upgrade Cost Factor |
+| Model | Default ORG | Morale | Air Attack | Air Def. | Soft Attack | Hard Attack | Naval Attack | Strat Attack | Surface Def | Air Detect | Surface Detect |  | Cost | Build-time | Man-power | Max Speed | Supply Cons. | Fuel Cons. | Range | Trans Cap. | Upgrade Time Factor | Upgrade Cost Factor |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Basic Escort Fighter | 30 | 30 | 5 | 8 | 0 | 0 | 0 | 0 | 8 | 2 | 3 |  | 15 | 150 | 1 | 500 | 1 | 2 | 800 |  | 0.5 | 1.0 |
 | Improved Escort Fighter | 30 | 30 | 6 | 12 | 0 | 0 | 0 | 0 | 12 | 3 | 3 |  | 18 | 150 | 1 | 600 | 1.2 | 2 | 1000 |  | 0.5 | 1.0 |
@@ -57,9 +55,7 @@ While a specialized air force is ideal, these craft are all-rounders. Intercepto
 
 In a ground attack role, note that the hard attack capability of fighters is particularly high, comparable to that of CAS and TAC bombers. After air superiority has been achieved, fighters are ideal for giving bombing runs an extra punch against armoured targets. These units can also be effective against soft targets, but to a lesser extent.
 
-| Model | Default ORG | Morale | Air Attack | Air Def. | Soft Attack | Hard Attack | Naval Attack | Strat Attack | Surface Def | Air Detect | Surface Detect |  | Cost | Build-  
-time | Man-  
-power | Max Speed | Supply Cons. | Fuel Cons. | Range | Trans Cap. | Upgrade Time Factor | Upgrade Cost Factor |
+| Model | Default ORG | Morale | Air Attack | Air Def. | Soft Attack | Hard Attack | Naval Attack | Strat Attack | Surface Def | Air Detect | Surface Detect |  | Cost | Build-time | Man-power | Max Speed | Supply Cons. | Fuel Cons. | Range | Trans Cap. | Upgrade Time Factor | Upgrade Cost Factor |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Basic Fighter | 30 | 30 | 9 | 4 | 1 | 2 | 0 | 0 | 6 | 3 | 4 |  | 14 | 150 | 1 | 500 | 1.1 | 2 | 350 |  | 0.5 | 1.0 |
 | Improved Fighter | 30 | 30 | 12 | 5 | 2 | 3 | 1 | 0 | 8 | 6 | 6 |  | 18 | 150 | 1 | 600 | 1.2 | 2.2 | 400 |  | 0.5 | 1.0 |
@@ -71,9 +67,7 @@ power | Max Speed | Supply Cons. | Fuel Cons. | Range | Trans Cap. | Upgrade Tim
 
 The Flying Bomb (e.g. the German V1) is a pilotless aircraft powered by an early jet engine, designed to deliver a payload of explosives to an area target. It is slower than a rocket or missile, which means that it can be intercepted and shot down by enemy fighters.
 
-| Model | Default ORG | Morale | Air Attack | Air Def. | Soft Attack | Hard Attack | Naval Attack | Strat Attack | Surface Def | Air Detect | Surface Detect |  | Cost | Build-  
-time | Man-  
-power | Max Speed | Supply Cons. | Fuel Cons. | Range | Trans Cap. | Upgrade Time Factor | Upgrade Cost Factor |
+| Model | Default ORG | Morale | Air Attack | Air Def. | Soft Attack | Hard Attack | Naval Attack | Strat Attack | Surface Def | Air Detect | Surface Detect |  | Cost | Build-time | Man-power | Max Speed | Supply Cons. | Fuel Cons. | Range | Trans Cap. | Upgrade Time Factor | Upgrade Cost Factor |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Flying Bomb | 100 | 100 |  | 15 | 0 | 0 |  | 90 | 30 |  |  |  | 1 | 30 | 0 | 650 | 0.5 | 1.5 | 300 |  |  |  |
 
@@ -81,9 +75,7 @@ power | Max Speed | Supply Cons. | Fuel Cons. | Range | Trans Cap. | Upgrade Tim
 
 Interceptors are short-range fighters designed to destroy enemy bombers. They have high speed and good manouverability to make them agile enough to evade the machine guns of the bombers, while having the firepower needed to disable a heavy, armoured bomber. Against enemy fighters, they are less effective yet they still put up a good fight.
 
-| Model | Default ORG | Morale | Air Attack | Air Def. | Soft Attack | Hard Attack | Naval Attack | Strat Attack | Surface Def | Air Detect | Surface Detect |  | Cost | Build-  
-time | Man-  
-power | Max Speed | Supply Cons. | Fuel Cons. | Range | Trans Cap. | Upgrade Time Factor | Upgrade Cost Factor |
+| Model | Default ORG | Morale | Air Attack | Air Def. | Soft Attack | Hard Attack | Naval Attack | Strat Attack | Surface Def | Air Detect | Surface Detect |  | Cost | Build-time | Man-power | Max Speed | Supply Cons. | Fuel Cons. | Range | Trans Cap. | Upgrade Time Factor | Upgrade Cost Factor |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Interwar Fighter | 30 | 30 | 3 | 1 | 0 | 0 | 0 | 0 | 4 | 1 | 2 |  | 10 | 140 | 1 | 300 | 0.7 | 1.5 | 200 |  | 1.0 | 1.0 |
 | Early Fighter | 30 | 30 | 4 | 2 | 0 | 0 | 0 | 0 | 6 | 1 | 3 |  | 12 | 150 | 1 | 350 | 0.9 | 2 | 200 |  | 0.5 | 1.0 |
@@ -103,9 +95,7 @@ power | Max Speed | Supply Cons. | Fuel Cons. | Range | Trans Cap. | Upgrade Tim
 
 The Naval Bomber is designed for use over water and make accurate tactical strikes against enemy surface vessels using torpedoes or armour-piercing bombs. They have a limited dog-fighting capability, which makes them vulnerable if intercepted by fighters.
 
-| Model | Default ORG | Morale | Air Attack | Air Def. | Soft Attack | Hard Attack | Naval Attack | Strat Attack | Surface Def | Air Detect | Surface Detect |  | Cost | Build-  
-time | Man-  
-power | Max Speed | Supply Cons. | Fuel Cons. | Range | Trans Cap. | Upgrade Time Factor | Upgrade Cost Factor |
+| Model | Default ORG | Morale | Air Attack | Air Def. | Soft Attack | Hard Attack | Naval Attack | Strat Attack | Surface Def | Air Detect | Surface Detect |  | Cost | Build-time | Man-power | Max Speed | Supply Cons. | Fuel Cons. | Range | Trans Cap. | Upgrade Time Factor | Upgrade Cost Factor |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Basic Naval Bomber | 30 | 30 | 1 | 2 | 1 | 1 | 7 | 0 | 8 | 0 | 1 |  | 13 | 180 | 2 | 200 | 1.0 | 3 | 800 |  | 0.5 | 1.0 |
 | Improved Naval Bomber | 30 | 30 | 2 | 3 | 1 | 2 | 10 | 0 | 12 | 1 | 2 |  | 16 | 180 | 2 | 300 | 1.2 | 3 | 1000 |  | 0.5 | 1.0 |
@@ -116,9 +106,7 @@ power | Max Speed | Supply Cons. | Fuel Cons. | Range | Trans Cap. | Upgrade Tim
 
 Strategic Bombers are the heaviest type of aircraft, designed to deliver a large payload of bombs to enemy provinces, with the aim of crippling his industry, infrastructure, and defensive installations. However, the Strategic Bomber is slow despite its long range, which can make it vulnerable to attack by fighters.
 
-| Model | Default ORG | Morale | Air Attack | Air Def. | Soft Attack | Hard Attack | Naval Attack | Strat Attack | Surface Def | Air Detect | Surface Detect |  | Cost | Build-  
-time | Man-  
-power | Max Speed | Supply Cons. | Fuel Cons. | Range | Trans Cap. | Upgrade Time Factor | Upgrade Cost Factor |
+| Model | Default ORG | Morale | Air Attack | Air Def. | Soft Attack | Hard Attack | Naval Attack | Strat Attack | Surface Def | Air Detect | Surface Detect |  | Cost | Build-time | Man-power | Max Speed | Supply Cons. | Fuel Cons. | Range | Trans Cap. | Upgrade Time Factor | Upgrade Cost Factor |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Basic Strategic Bomber | 30 | 30 | 1 | 8 | 2 | 1 | 2 | 10 | 5 | 2 | 3 |  | 22 | 208 | 2 | 250 | 3 | 4 | 800 |  | 0.5 | 1.0 |
 | Improved Strategic Bomber | 30 | 30 | 2 | 12 | 3 | 2 | 3 | 15 | 6 | 3 | 4 |  | 22 | 220 | 2 | 300 | 3.3 | 4.5 | 1000 |  | 0.5 | 1.0 |
@@ -129,9 +117,7 @@ power | Max Speed | Supply Cons. | Fuel Cons. | Range | Trans Cap. | Upgrade Tim
 
 The Rocket or Ballistic Missile (e.g. the German V2) is designed to deliver a payload of explosives to a distant target. Its high speed makes it almost impossible to intercept but it is an expensive way of destroying the enemy with conventional explosives. Nuclear weapons are needed to give it more than psychological effect.
 
-| Model | Default ORG | Morale | Air Attack | Air Def. | Soft Attack | Hard Attack | Naval Attack | Strat Attack | Surface Def | Air Detect | Surface Detect |  | Cost | Build-  
-time | Man-  
-power | Max Speed | Supply Cons. | Fuel Cons. | Range | Trans Cap. | Upgrade Time Factor | Upgrade Cost Factor |
+| Model | Default ORG | Morale | Air Attack | Air Def. | Soft Attack | Hard Attack | Naval Attack | Strat Attack | Surface Def | Air Detect | Surface Detect |  | Cost | Build-time | Man-power | Max Speed | Supply Cons. | Fuel Cons. | Range | Trans Cap. | Upgrade Time Factor | Upgrade Cost Factor |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Strategic Rocket | 100 | 100 |  | 100 | 0 | 0 |  | 126 | 100 |  |  |  | 1 | 40 | 0 | 5000 | 0.5 | 2 | 380 |  | 0.5 | 1.0 |
 | Ballistic Missile | 100 | 100 |  | 100 | 0 | 0 |  | 180 | 100 |  |  |  | 1 | 60 | 0 | 6000 | 1 | 2.5 | 2400 |  | 0.5 | 1.0 |
@@ -141,9 +127,7 @@ power | Max Speed | Supply Cons. | Fuel Cons. | Range | Trans Cap. | Upgrade Tim
 
 Tactical Bombers are medium-sized aircraft, larger than Fighters, yet smaller than Strategic Bombers, which are used primarily for delivering attacks against enemy ground units such as Armour and Infantry. Unlike close air support aircraft, it is also capable of taking up limited strategic bombardment roles, such as runway cratering or strikes against defensive installations. Although they have a limited dog-fighting capability, they can be easily outmatched by Fighters in air combat.
 
-| Model | Default ORG | Morale | Air Attack | Air Def. | Soft Attack | Hard Attack | Naval Attack | Strat Attack | Surface Def | Air Detect | Surface Detect |  | Cost | Build-  
-time | Man-  
-power | Max Speed | Supply Cons. | Fuel Cons. | Range | rans Cap. | Upgrade Time Factor | Upgrade Cost Factor |
+| Model | Default ORG | Morale | Air Attack | Air Def. | Soft Attack | Hard Attack | Naval Attack | Strat Attack | Surface Def | Air Detect | Surface Detect |  | Cost | Build-time | Man-power | Max Speed | Supply Cons. | Fuel Cons. | Range | rans Cap. | Upgrade Time Factor | Upgrade Cost Factor |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Interwar Tactical Bomber | 30 | 30 | 1 | 1 | 4 | 0 | 1 | 3 | 3 | 0 | 1 |  | 11 | 160 | 2 | 180 | 1.5 | 3 | 400 |  | 1.0 | 1.0 |
 | Early Tactical Bomber | 30 | 30 | 1 | 2 | 6 | 2 | 2 | 3 | 4 | 0 | 1 |  | 13 | 180 | 2 | 200 | 1.7 | 3 | 500 |  | 0.5 | 1.0 |
@@ -156,9 +140,7 @@ power | Max Speed | Supply Cons. | Fuel Cons. | Range | rans Cap. | Upgrade Time
 
 Transport Planes are designed to ferry men and materials over long distances quickly. Paratroops need Transport Planes in order to make a paradrop.
 
-| Model | Default ORG | Morale | Air Attack | Air Def. | Soft Attack | Hard Attack | Naval Attack | Strat Attack | Surface Def | Air Detect | Surface Detect |  | Cost | Build-  
-time | Man-  
-power | Max Speed | Supply Cons. | Fuel Cons. | Range | Trans Cap. | Upgrade Time Factor | Upgrade Cost Factor |
+| Model | Default ORG | Morale | Air Attack | Air Def. | Soft Attack | Hard Attack | Naval Attack | Strat Attack | Surface Def | Air Detect | Surface Detect |  | Cost | Build-time | Man-power | Max Speed | Supply Cons. | Fuel Cons. | Range | Trans Cap. | Upgrade Time Factor | Upgrade Cost Factor |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Basic Transport Plane | 20 | 30 | 0 | 1 | 0 | 0 | 0 | 0 | 4 | 1 | 3 |  | 40 | 150 | 4 | 250 | 1 | 2 | 800 | 1 | 0.5 | 1.0 |
 | Improved Transport Plane | 20 | 30 | 0 | 1 | 0 | 0 | 0 | 0 | 6 | 1 | 3 |  | 32 | 150 | 4 | 300 | 0.8 | 1.6 | 1000 | 1 | 0.5 | 1.0 |

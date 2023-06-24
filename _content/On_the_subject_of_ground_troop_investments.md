@@ -17,12 +17,7 @@ Introduction
 
 The subject of this analysis is to recommend what type of division should make up the bulk of your Ground Self-Defense forces. For this, different types of infantry were selected for analysis. However, since motorized and mechanized infantry divisions are not available until around 1940, the earlier forms of Infantry divisions were dropped from the analysis. The later division types, mid-1940's, have also been dropped since they make a rather late appearance.
 
-| Model | Default ORG | Morale | Air Attack | Air Def. | Soft Attack | Hard Attack | Tough-  
-ness | Defens-  
-iveness | Soft-  
-ness |  | Cost | Build-  
-time | Man-  
-power | Max Speed | Supply Cons. | Fuel Cons. | Supp. |
+| Model | Default ORG | Morale | Air Attack | Air Def. | Soft Attack | Hard Attack | Tough-ness | Defens-iveness | Soft-ness |  | Cost | Build-time | Man-power | Max Speed | Supply Cons. | Fuel Cons. | Supp. |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Infantry '39 | 30 | 30 | 3 | 4 | 12 | 2 | 18 | 18 | 100 |  | 7 | 95 | 10 | 5 | 1 | 0 | 2 |
 | Infantry '41 | 30 | 30 | 4 | 5 | 14 | 4 | 24 | 24 | 100 |  | 7 | 95 | 10 | 5 | 1 | 0 | 2 |
@@ -55,12 +50,7 @@ My conclusion is that although mechanized infantry should be strongly favored wh
 Divisional models not included in analysis
 ------------------------------------------
 
-| Model | Default ORG | Morale | Air Attack | Air Def. | Soft Attack | Hard Attack | Tough-  
-ness | Defens-  
-iveness | Soft-  
-ness |  | Cost | Build-  
-time | Man-  
-power | Max Speed | Supply Cons. | Fuel Cons. | Supp. |
+| Model | Default ORG | Morale | Air Attack | Air Def. | Soft Attack | Hard Attack | Tough-ness | Defens-iveness | Soft-ness |  | Cost | Build-time | Man-power | Max Speed | Supply Cons. | Fuel Cons. | Supp. |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Infantry '36 | 30 | 30 | 2 | 3 | 10 | 1 | 12 | 15 | 100 |  | 7 | 95 | 10 | 5 | 1 | 0 | 2 |
 | Infantry '45 | 30 | 30 | 6 | 6 | 18 | 6 | 35 | 35 | 100 |  | 7 | 95 | 10 | 6 | 1.1 | 0.1 | 2 |

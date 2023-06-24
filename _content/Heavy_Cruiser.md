@@ -6,10 +6,7 @@ title: Heavy_Cruiser
 Heavy Cruiser Statistics
 ------------------------
 
-| Model | Year | Air Attack | Air Def. | Sea Attack | Sub Attack | Sea Def | Shore Bombard | Distance | Visi-  
-bility | Surface Detect | Sub Detect | Air Detect | Cost | Build-  
-time | Man-  
-power | Max Speed | Supply Cons. | Fuel Cons. | Range |
+| Model | Year | Air Attack | Air Def. | Sea Attack | Sub Attack | Sea Def | Shore Bombard | Distance | Visi-bility | Surface Detect | Sub Detect | Air Detect | Cost | Build-time | Man-power | Max Speed | Supply Cons. | Fuel Cons. | Range |
 | :-- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Great War Heavy Cruiser | 1936 | 0 | 1 | 8 | 0 | 5 | 3 | 0.24 | 70 | 1 | 2 | 1 | 4.0 | 300 | 0.5 | 20 | 0.40 | 0.50 | 2500 |
 | Early Heavy Cruiser | 1936 | 1 | 1 | 9 | 0 | 5 | 4 | 0.26 | 70 | 1 | 4 | 1 | 5.0 | 310 | 1.0 | 23 | 0.50 | 0.50 | 2500 |

@@ -6,10 +6,7 @@ title: Light_Cruiser
 Light Cruiser Statistics
 ------------------------
 
-| Model | Year | Air Attack | Air Def. | Sea Attack | Sub Attack | Sea Def | Shore Bombard | Distance | Visi-  
-bility | Surface Detect | Sub Detect | Air Detect | Cost | Build-  
-time | Man-  
-power | Max Speed | Supply Cons. | Fuel Cons. | Range |
+| Model | Year | Air Attack | Air Def. | Sea Attack | Sub Attack | Sea Def | Shore Bombard | Distance | Visi-bility | Surface Detect | Sub Detect | Air Detect | Cost | Build-time | Man-power | Max Speed | Supply Cons. | Fuel Cons. | Range |
 | :-- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Great War Light Cruiser | 1936 | 1 | 2 | 4 | 1 | 3 | 1 | 0.18 | 60 | 2 | 3 | 2 | 3.0 | 200 | 0.5 | 22 | 0.36 | 0.38 | 1500 |
 | Early Light Cruiser | 1936 | 2 | 2 | 6 | 1 | 4 | 2 | 0.22 | 60 | 2 | 4 | 3 | 4.0 | 220 | 0.5 | 25 | 0.36 | 0.38 | 2000 |

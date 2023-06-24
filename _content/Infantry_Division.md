@@ -6,12 +6,7 @@ title: Infantry_Division
 Infantry Division Statistics
 ----------------------------
 
-| Model | Default ORG | Morale | Air Attack | Air Def. | Soft Attack | Hard Attack | Tough-  
-ness | Defens-  
-iveness | Soft-  
-ness |  | Cost | Build-  
-time | Man-  
-power | Max Speed | Supply Cons. | Fuel Cons. | Supp. |
+| Model | Default ORG | Morale | Air Attack | Air Def. | Soft Attack | Hard Attack | Tough-ness | Defens-iveness | Soft-ness |  | Cost | Build-time | Man-power | Max Speed | Supply Cons. | Fuel Cons. | Supp. |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Infantry '36 | 30 | 30 | 2 | 3 | 10 | 1 | 12 | 15 | 100 |  | 7 | 95 | 10 | 5 | 1 | 0 | 2 |
 | Infantry '39 | 30 | 30 | 3 | 4 | 12 | 2 | 18 | 18 | 100 |  | 7 | 95 | 10 | 5 | 1 | 0 | 2 |

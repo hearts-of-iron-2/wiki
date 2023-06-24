@@ -6,10 +6,7 @@ title: Carrier_Air_Group
 Carrier Air Group Statistics
 ----------------------------
 
-| Model | Year | Air Attack | Air Def. | Sea Attack | Sub Attack | Sea Def | Shore Bombard | Distance | Visi-  
-bility | Surface Detect | Sub Detect | Air Detect | Cost | Build-  
-time | Man-  
-power | Max Speed | Supply Cons. | Fuel Cons. | Range |
+| Model | Year | Air Attack | Air Def. | Sea Attack | Sub Attack | Sea Def | Shore Bombard | Distance | Visi-bility | Surface Detect | Sub Detect | Air Detect | Cost | Build-time | Man-power | Max Speed | Supply Cons. | Fuel Cons. | Range |
 | :-- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Great War Carrier Air Group | 1936 | 3 | 3 | 2 | 0 |  | 5 | 1.00 |  | 7 | 1 | 3 | 2.0 | 190 | 0.2 |  | 0.40 | 1.00 | 0.5 |
 | Early Carrier Air Group | 1936 | 6 | 5 | 4 | 0 |  | 7 | 1.20 |  | 9 | 1 | 4 | 2.5 | 190 | 0.2 |  | 0.40 | 1.00 | 0.5 |

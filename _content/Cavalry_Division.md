@@ -6,12 +6,7 @@ title: Cavalry_Division
 Cavalry Division Statistics
 ---------------------------
 
-| Model | Default ORG | Morale | Air Attack | Air Def. | Soft Attack | Hard Attack | Tough-  
-ness | Defens-  
-iveness | Soft-  
-ness |  | Cost | Build-  
-time | Man-  
-power | Max Speed | Supply Cons. | Fuel Cons. | Supp. | Transp. Weight | Upgrade Time Factor | Upgrade Cost Factor | Speed Cap Art | Speed Cap Eng | Speed Cap AT | Speed Cap AA |
+| Model | Default ORG | Morale | Air Attack | Air Def. | Soft Attack | Hard Attack | Tough-ness | Defens-iveness | Soft-ness |  | Cost | Build-time | Man-power | Max Speed | Supply Cons. | Fuel Cons. | Supp. | Transp. Weight | Upgrade Time Factor | Upgrade Cost Factor | Speed Cap Art | Speed Cap Eng | Speed Cap AT | Speed Cap AA |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | I. Great War Cavalry | 30 | 30 | 1 | 2 | 4 | 0 | 10 | 10 | 100 |  | 8 | 95 | 9 | 7 | 1.2 | 0 | 4 | 30 | 1.0 | 1.0 | 7 | 7 | 7 | 7 |
 | II. Early Cavalry | 30 | 30 | 2 | 3 | 8 | 1 | 10 | 10 | 100 |  | 8 | 95 | 9 | 7 | 1.2 | 0 | 4 | 30 | 0.5 | 1.0 | 7 | 7 | 7 | 7 |

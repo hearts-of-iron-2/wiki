@@ -6,12 +6,7 @@ title: Mountain_Division
 Mountain Division Statistics
 ----------------------------
 
-| Model | Default ORG | Morale | Air Attack | Air Def. | Soft Attack | Hard Attack | Tough-  
-ness | Defens-  
-iveness | Soft-  
-ness |  | Cost | Build-  
-time | Man-  
-power | Max Speed | Supply Cons. | Fuel Cons. | Supp. | Transp. Weight | Upgrade Time Factor | Upgrade Cost Factor | Speed Cap Art | Speed Cap Eng | Speed Cap AT | Speed Cap AA |
+| Model | Default ORG | Morale | Air Attack | Air Def. | Soft Attack | Hard Attack | Tough-ness | Defens-iveness | Soft-ness |  | Cost | Build-time | Man-power | Max Speed | Supply Cons. | Fuel Cons. | Supp. | Transp. Weight | Upgrade Time Factor | Upgrade Cost Factor | Speed Cap Art | Speed Cap Eng | Speed Cap AT | Speed Cap AA |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Mountain '36 | 40 | 40 | 2 | 3 | 8 | 1 | 12 | 15 | 100 |  | 8 | 120 | 10 | 4 | 0.8 | 0 | 3 | 8 | 0.5 | 1.0 | 5 | 5 | 5 | 5 |
 | Mountain '39 | 40 | 40 | 3 | 4 | 10 | 2 | 18 | 18 | 100 |  | 8 | 120 | 10 | 5 | 0.8 | 0 | 3 | 8 | 0.5 | 1.0 | 5 | 5 | 5 | 5 |

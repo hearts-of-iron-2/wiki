@@ -6,12 +6,7 @@ title: Paratroop_Division
 Paratroop Division Statistics
 -----------------------------
 
-| Model | Default ORG | Morale | Air Attack | Air Def. | Soft Attack | Hard Attack | Tough-  
-ness | Defens-  
-iveness | Soft-  
-ness |  | Cost | Build-  
-time | Man-  
-power | Max Speed | Supply Cons. | Fuel Cons. | Supp. | Transp. Weight | Upgrade Time Factor | Upgrade Cost Factor | Speed Cap Art | Speed Cap Eng | Speed Cap AT | Speed Cap AA |
+| Model | Default ORG | Morale | Air Attack | Air Def. | Soft Attack | Hard Attack | Tough-ness | Defens-iveness | Soft-ness |  | Cost | Build-time | Man-power | Max Speed | Supply Cons. | Fuel Cons. | Supp. | Transp. Weight | Upgrade Time Factor | Upgrade Cost Factor | Speed Cap Art | Speed Cap Eng | Speed Cap AT | Speed Cap AA |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Airborne '39 | 40 | 40 | 2 | 3 | 8 | 1 | 16 | 11 | 100 |  | 12 | 180 | 15 | 4 | 1.4 | 0 | 3 | 10 | 0.5 | 1.0 | 5 | 5 | 5 | 5 |
 | Airborne '41 | 40 | 40 | 3 | 4 | 10 | 2 | 20 | 16 | 100 |  | 12 | 180 | 15 | 5 | 1.5 | 0 | 3 | 8 | 0.5 | 1.0 | 6 | 6 | 6 | 6 |

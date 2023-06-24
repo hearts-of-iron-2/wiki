@@ -24,10 +24,7 @@ Sea Units
 
 Battlecruisers are very heavy cruisers that combine large main guns and good armor with reasonable speed and a good range. They are mainly used against enemy shipping lanes, able to outrun enemy battleships and able to outfight convoy escorts.
 
-| Model | Default ORG | Morale | Air Attack | Air Def. | Sea Attack | Sub Attack | Sea Def | Shore Bombard | Distance | Visi-  
-bility | Surface Detect | Sub Detect | Air Detect |  | Cost | Build-  
-time | Man-  
-power | Max Speed | Supply Cons. | Fuel Cons. | Range | Trans Cap. |
+| Model | Default ORG | Morale | Air Attack | Air Def. | Sea Attack | Sub Attack | Sea Def | Shore Bombard | Distance | Visi-bility | Surface Detect | Sub Detect | Air Detect |  | Cost | Build-time | Man-power | Max Speed | Supply Cons. | Fuel Cons. | Range | Trans Cap. |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Great War Battlecruiser | 30 | 30 | 1 | 1 | 12 | 0 | 8 | 5 | 0.3 | 80 | 1 | 4 | 1 |  | 6 | 615 | 1 | 18 | 0.4 | 0.8 | 2500 | 0 |
 | Early Battlecruiser | 30 | 30 | 1 | 2 | 14 | 0 | 9 | 6 | 0.31 | 80 | 1 | 4 | 1 |  | 7 | 615 | 1 | 21 | 0.5 | 0.8 | 2700 | 0 |
@@ -41,10 +38,7 @@ power | Max Speed | Supply Cons. | Fuel Cons. | Range | Trans Cap. |
 
 The Battleship is the Queen of the Sea. It is a massive floating gun platform, designed primarily to engage enemy capital ships at long range and send them to the bottom of the ocean. However, they are now vulnerable to air or submarine torpedo attacks, and the advent of the Aircraft Carrier has started to number their days.
 
-| Model | Default ORG | Morale | Air Attack | Air Def. | Sea Attack | Sub Attack | Sea Def | Shore Bombard | Distance | Visi-  
-bility | Surface Detect | Sub Detect | Air Detect |  | Cost | Build-  
-time | Man-  
-power | Max Speed | Supply Cons. | Fuel Cons. | Range | Trans Cap. |
+| Model | Default ORG | Morale | Air Attack | Air Def. | Sea Attack | Sub Attack | Sea Def | Shore Bombard | Distance | Visi-bility | Surface Detect | Sub Detect | Air Detect |  | Cost | Build-time | Man-power | Max Speed | Supply Cons. | Fuel Cons. | Range | Trans Cap. |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Great War Battleship | 30 | 30 | 1 | 1 | 14 | 0 | 12 | 6 | 0.32 | 90 | 1 | 2 | 1 |  | 7 | 730 | 1 | 15 | 0.7 | 1 | 2500 | 0 |
 | Early Battleship | 30 | 30 | 1 | 1 | 16 | 0 | 14 | 8 | 0.34 | 90 | 1 | 3 | 1 |  | 8 | 730 | 1 | 20 | 0.7 | 1 | 2800 | 0 |
@@ -59,10 +53,7 @@ power | Max Speed | Supply Cons. | Fuel Cons. | Range | Trans Cap. |
 
 The Aircraft Carrier is rapidly becoming the most important naval vessel. Its ability to project power through the aircraft it carries makes it dangerous to other capital ships and land forces. However, the ship itself is only lightly armed and must rely on other naval units, as well as its own aircraft, to afford it protection.
 
-| Model | Default ORG | Morale | Air Attack | Air Def. | Sea Attack | Sub Attack | Sea Def | Shore Bombard | Distance | Visi-  
-bility | Surface Detect | Sub Detect | Air Detect |  | Cost | Build-  
-time | Man-  
-power | Max Speed | Supply Cons. | Fuel Cons. | Range | Trans Cap. |
+| Model | Default ORG | Morale | Air Attack | Air Def. | Sea Attack | Sub Attack | Sea Def | Shore Bombard | Distance | Visi-bility | Surface Detect | Sub Detect | Air Detect |  | Cost | Build-time | Man-power | Max Speed | Supply Cons. | Fuel Cons. | Range | Trans Cap. |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Great War Carrier | 30 | 30 | 1 | 1 | 1 | 1 | 8 | 0 | 0.14 | 100 | 1 | 1 | 2 |  | 5 | 547 | 1 | 18 | 0.9 | 1 | 2000 | 0 |
 | Early Carrier | 30 | 30 | 1 | 1 | 1 | 1 | 9 | 0 | 0.16 | 100 | 1 | 1 | 2 |  | 5 | 650 | 1 | 18 | 1.1 | 1 | 2500 | 0 |
@@ -78,10 +69,7 @@ power | Max Speed | Supply Cons. | Fuel Cons. | Range | Trans Cap. |
 
 The Destroyer is the smallest and the fastest of the surface ships. It is lightly armed in comparison with the battleship, but its speed and maneuvrability allow it to provide a good first line of defence away from the main capital ships of a fleet, and its light guns are useful for engaging aircraft. Destroyers are usually combined in groups and used for convoy escort and anti-submarine duties.
 
-| Model | Default ORG | Morale | Air Attack | Air Def. | Sea Attack | Sub Attack | Sea Def | Shore Bombard | Distance | Visi-  
-bility | Surface Detect | Sub Detect | Air Detect |  | Cost | Build-  
-time | Man-  
-power | Max Speed | Supply Cons. | Fuel Cons. | Range | Trans Cap. |
+| Model | Default ORG | Morale | Air Attack | Air Def. | Sea Attack | Sub Attack | Sea Def | Shore Bombard | Distance | Visi-bility | Surface Detect | Sub Detect | Air Detect |  | Cost | Build-time | Man-power | Max Speed | Supply Cons. | Fuel Cons. | Range | Trans Cap. |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Great War Destroyer | 30 | 30 | 0 | 2 | 3 | 3 | 1 | 0 | 0.14 | 50 | 3 | 7 | 2 |  | 2 | 95 | 0.5 | 24 | 0.25 | 0.25 | 1200 | 0 |
 | Early Destroyer | 30 | 30 | 1 | 3 | 4 | 5 | 2 | 0 | 0.16 | 50 | 3 | 8 | 3 |  | 2 | 120 | 0.5 | 28 | 0.25 | 0.25 | 1500 | 0 |
@@ -94,10 +82,7 @@ power | Max Speed | Supply Cons. | Fuel Cons. | Range | Trans Cap. |
 
 Heavy Cruisers are larger and more heavily armored than their lighter counterparts. They have larger main guns, giving them the ability to bombard enemy units on land. They are effective against enemy surface ships, especially destroyers and light cruisers, but are susceptible to air and submarine attacks.
 
-| Model | Default ORG | Morale | Air Attack | Air Def. | Sea Attack | Sub Attack | Sea Def | Shore Bombard | Distance | Visi-  
-bility | Surface Detect | Sub Detect | Air Detect |  | Cost | Build-  
-time | Man-  
-power | Max Speed | Supply Cons. | Fuel Cons. | Range | Trans Cap. |
+| Model | Default ORG | Morale | Air Attack | Air Def. | Sea Attack | Sub Attack | Sea Def | Shore Bombard | Distance | Visi-bility | Surface Detect | Sub Detect | Air Detect |  | Cost | Build-time | Man-power | Max Speed | Supply Cons. | Fuel Cons. | Range | Trans Cap. |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Great War Heavy Cruiser | 30 | 30 | 0 | 1 | 8 | 0 | 5 | 3 | 0.24 | 70 | 1 | 2 | 1 |  | 4 | 300 | 0.5 | 20 | 0.4 | 0.5 | 2500 | 0 |
 | Early Heavy Cruiser | 30 | 30 | 1 | 1 | 9 | 0 | 5 | 4 | 0.26 | 70 | 1 | 4 | 2 |  | 5 | 310 | 1 | 23 | 0.5 | 0.5 | 2500 | 0 |
@@ -111,10 +96,7 @@ power | Max Speed | Supply Cons. | Fuel Cons. | Range | Trans Cap. |
 
 Light Cruisers are little more than large destroyers. They are usually lightly armored to give good speed and range. They are normally used in an escort role for capital ships like battleships or carriers, granting protection mainly from enemy air attacks, but also from enemy submarines.
 
-| Model | Default ORG | Morale | Air Attack | Air Def. | Sea Attack | Sub Attack | Sea Def | Shore Bombard | Distance | Visi-  
-bility | Surface Detect | Sub Detect | Air Detect |  | Cost | Build-  
-time | Man-  
-power | Max Speed | Supply Cons. | Fuel Cons. | Range | Trans Cap. |
+| Model | Default ORG | Morale | Air Attack | Air Def. | Sea Attack | Sub Attack | Sea Def | Shore Bombard | Distance | Visi-bility | Surface Detect | Sub Detect | Air Detect |  | Cost | Build-time | Man-power | Max Speed | Supply Cons. | Fuel Cons. | Range | Trans Cap. |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Great War Light Cruiser | 30 | 30 | 1 | 2 | 4 | 1 | 3 | 1 | 0.18 | 60 | 2 | 4 | 2 |  | 3 | 200 | 0.5 | 22 | 0.36 | 0.38 | 1500 | 0 |
 | Early Light Cruiser | 30 | 30 | 2 | 2 | 6 | 2 | 4 | 2 | 0.22 | 60 | 2 | 5 | 3 |  | 4 | 220 | 0.5 | 25 | 0.36 | 0.38 | 2000 | 0 |
@@ -127,10 +109,7 @@ power | Max Speed | Supply Cons. | Fuel Cons. | Range | Trans Cap. |
 
 The Submarine is designed to travel underwater allowing it to operate clandestinely against other naval units. Its main armament consists of torpedoes which are deadly against all other types of vessel, be they Carrier, Battleship, Naval Transport or another Submarine. However, the Submarine can be handicapped by a short range and new technologies to improve them can be expensive.
 
-| Model | Default ORG | Morale | Air Attack | Air Def. | Sea Attack | Sub Attack | Sea Def | Shore Bombard | Distance | Visi-  
-bility | Surface Detect | Sub Detect | Air Detect |  | Cost | Build-  
-time | Man-  
-power | Max Speed | Supply Cons. | Fuel Cons. | Range | Trans Cap. |
+| Model | Default ORG | Morale | Air Attack | Air Def. | Sea Attack | Sub Attack | Sea Def | Shore Bombard | Distance | Visi-bility | Surface Detect | Sub Detect | Air Detect |  | Cost | Build-time | Man-power | Max Speed | Supply Cons. | Fuel Cons. | Range | Trans Cap. |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Dive Boat | 30 | 30 | 0 | 5 | 3 | 1 | 1 | 0 | 0.15 | 5 | 2 | 1 | 1 |  | 2 | 90 | 0.5 | 10 | 0.3 | 0.5 | 500 | 0 |
 | Short Range Submarine | 30 | 30 | 0 | 6 | 5 | 2 | 2 | 0 | 0.16 | 4 | 3 | 1 | 1 |  | 2 | 110 | 0.5 | 12 | 0.4 | 0.5 | 2500 | 0 |
@@ -144,10 +123,7 @@ power | Max Speed | Supply Cons. | Fuel Cons. | Range | Trans Cap. |
 
 Naval Transports are used for moving supplies and resources around the world. They can also be used to ferry land units across stretches of water. They are completely unarmed and, unless well protected, will be vulnerable to attack by other naval units or aircraft.
 
-| Model | Default ORG | Morale | Air Attack | Air Def. | Sea Attack | Sub Attack | Sea Def | Shore Bombard | Distance | Visi-  
-bility | Surface Detect | Sub Detect | Air Detect |  | Cost | Build-  
-time | Man-  
-power | Max Speed | Supply Cons. | Fuel Cons. | Range | Trans Cap. |
+| Model | Default ORG | Morale | Air Attack | Air Def. | Sea Attack | Sub Attack | Sea Def | Shore Bombard | Distance | Visi-bility | Surface Detect | Sub Detect | Air Detect |  | Cost | Build-time | Man-power | Max Speed | Supply Cons. | Fuel Cons. | Range | Trans Cap. |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Transport | 30 | 30 | 0 | 0 | 0 | 0 | 0 | 0 | 0.1 | 90 | 0 | 0 | 0 |  | 5 | 90 | 1 | 18 | 0.3 | 1 | 3000 | 40 |
 
@@ -158,10 +134,7 @@ Seabrigade Units
 
 Carrier Air Groups represent the complement of planes stationed on carriers. They are usually a mix of fighters, torpedo and dive bombers which provide both protection for the carrier and allow it to strike enemy ships at a large distance.
 
-| Model | Default ORG | Morale | Air Attack | Air Def. | Sea Attack | Sub Attack | Sea Def | Shore Bombard | Distance | Visi-  
-bility | Surface Detect | Sub Detect | Air Detect |  | Cost | Build-  
-time | Man-  
-power | Max Speed | Supply Cons. | Fuel Cons. | Range | Trans Cap. | Upgrade Time Factor | Upgrade Cost Factor |
+| Model | Default ORG | Morale | Air Attack | Air Def. | Sea Attack | Sub Attack | Sea Def | Shore Bombard | Distance | Visi-bility | Surface Detect | Sub Detect | Air Detect |  | Cost | Build-time | Man-power | Max Speed | Supply Cons. | Fuel Cons. | Range | Trans Cap. | Upgrade Time Factor | Upgrade Cost Factor |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Great War Carrier Air Group |  |  | 3 | 3 | 2 | 0 |  | 5 | 1.0 |  | 10 | 2 | 3 |  | 2 | 190 | 0.2 |  | 0.4 | 1 |  |  | 0.5 | 1.0 |
 | Early Carrier Air Group |  |  | 6 | 5 | 4 | 0 |  | 7 | 1.2 |  | 11 | 3 | 4 |  | 2.5 | 190 | 0.2 |  | 0.4 | 1 |  |  | 0.5 | 1.0 |

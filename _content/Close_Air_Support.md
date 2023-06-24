@@ -6,9 +6,7 @@ title: Close_Air_Support
 Close-Air Support Statistics
 ----------------------------
 
-| Model | Default ORG | Morale | Air Attack | Air Def. | Soft Attack | Hard Attack | Naval Attack | Strat Attack | Surface Def | Air Detect | Surface Detect |  | Cost | Build-  
-time | Man-  
-power | Max Speed | Supply Cons. | Fuel Cons. | Range | Trans Cap. | Upgrade Time Factor | Upgrade Cost Factor |
+| Model | Default ORG | Morale | Air Attack | Air Def. | Soft Attack | Hard Attack | Naval Attack | Strat Attack | Surface Def | Air Detect | Surface Detect |  | Cost | Build-time | Man-power | Max Speed | Supply Cons. | Fuel Cons. | Range | Trans Cap. | Upgrade Time Factor | Upgrade Cost Factor |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | I. Basic CAS | 30 | 30 | 1 | 1 | 8 | 4 | 1 |  | 3 |  |  |  | 6 | 180 | 2 | 200 | 0.8 | 4 | 200 |  | 0.5 | 1.0 |
 | II. Improved CAS | 30 | 30 | 2 | 1 | 12 | 6 | 2 |  | 4 |  |  |  | 7 | 180 | 2 | 200 | 1.0 | 4 | 250 |  | 0.5 | 1.0 |

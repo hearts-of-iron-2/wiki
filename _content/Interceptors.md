@@ -6,9 +6,7 @@ title: Interceptors
 Interceptor Statistics
 ----------------------
 
-| Model | Default ORG | Morale | Air Attack | Air Def. | Soft Attack | Hard Attack | Naval Attack | Strat Attack | Surface Def | Air Detect | Surface Detect |  | Cost | Build-  
-time | Man-  
-power | Max Speed | Supply Cons. | Fuel Cons. | Range | Trans Cap. | Upgrade Time Factor | Upgrade Cost Factor |
+| Model | Default ORG | Morale | Air Attack | Air Def. | Soft Attack | Hard Attack | Naval Attack | Strat Attack | Surface Def | Air Detect | Surface Detect |  | Cost | Build-time | Man-power | Max Speed | Supply Cons. | Fuel Cons. | Range | Trans Cap. | Upgrade Time Factor | Upgrade Cost Factor |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Interwar Fighter | 30 | 30 | 3 | 1 | 0 | 0 | 0 | 0 | 4 | 1 | 2 |  | 10 | 140 | 1 | 300 | 0.7 | 1.5 | 200 |  | 1.0 | 1.0 |
 | Early Fighter | 30 | 30 | 4 | 2 | 0 | 0 | 0 | 0 | 6 | 1 | 3 |  | 12 | 150 | 1 | 350 | 0.9 | 2 | 200 |  | 0.5 | 1.0 |

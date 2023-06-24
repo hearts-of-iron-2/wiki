@@ -6,9 +6,7 @@ title: Transport_Planes
 Transport Plane Statistics
 --------------------------
 
-| Model | Default ORG | Morale | Air Attack | Air Def. | Soft Attack | Hard Attack | Naval Attack | Strat Attack | Surface Def | Air Detect | Surface Detect |  | Cost | Build-  
-time | Man-  
-power | Max Speed | Supply Cons. | Fuel Cons. | Range | Trans Cap. | Upgrade Time Factor | Upgrade Cost Factor |
+| Model | Default ORG | Morale | Air Attack | Air Def. | Soft Attack | Hard Attack | Naval Attack | Strat Attack | Surface Def | Air Detect | Surface Detect |  | Cost | Build-time | Man-power | Max Speed | Supply Cons. | Fuel Cons. | Range | Trans Cap. | Upgrade Time Factor | Upgrade Cost Factor |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Basic Transport Plane | 20 | 30 | 0 | 1 | 0 | 0 | 0 | 0 | 4 | 1 | 3 |  | 40 | 150 | 4 | 250 | 1 | 2 | 800 | 1 | 0.5 | 1.0 |
 | Improved Transport Plane | 20 | 30 | 0 | 1 | 0 | 0 | 0 | 0 | 6 | 1 | 3 |  | 32 | 150 | 4 | 300 | 0.8 | 1.6 | 1000 | 1 | 0.5 | 1.0 |

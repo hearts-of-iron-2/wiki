@@ -6,10 +6,7 @@ title: Destroyer
 Destroyer Statistics
 --------------------
 
-| Model | Year | Air Attack | Air Def. | Sea Attack | Sub Attack | Sea Def | Shore Bombard | Distance | Visi-  
-bility | Surface Detect | Sub Detect | Air Detect | Cost | Build-  
-time | Man-  
-power | Max Speed | Supply Cons. | Fuel Cons. | Range |
+| Model | Year | Air Attack | Air Def. | Sea Attack | Sub Attack | Sea Def | Shore Bombard | Distance | Visi-bility | Surface Detect | Sub Detect | Air Detect | Cost | Build-time | Man-power | Max Speed | Supply Cons. | Fuel Cons. | Range |
 | :-- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Great War Destroyer | 1936 | 0 | 2 | 3 | 3 | 1 | 0 | 0.14 | 50 | 3 | 7 | 2 | 2.0 | 95 | 0.5 | 24 | 0.25 | 0.25 | 1500 |
 | Early Destroyer | 1936 | 1 | 3 | 4 | 5 | 2 | 0 | 0.16 | 50 | 3 | 8 | 3 | 2.0 | 120 | 0.5 | 28 | 0.25 | 0.25 | 2000 |

@@ -5,12 +5,7 @@ title: Light_Armored_Division
 
 _Light armored divisions upgrade to basic medium armor divisions. The advanced light armor tech allows you to build a light armor brigade which can be added to almost every kind of division._
 
-| Model | Default ORG | Morale | Air Attack | Air Def. | Soft Attack | Hard Attack | Tough-  
-ness | Defens-  
-iveness | Soft-  
-ness |  | Cost | Build-  
-time | Man-  
-power | Max Speed | Supply Cons. | Fuel Cons. | Supp. | Transp. Weight | Upgrade Time Factor | Upgrade Cost Factor | Speed Cap Art | Speed Cap Eng | Speed Cap AT | Speed Cap AA |
+| Model | Default ORG | Morale | Air Attack | Air Def. | Soft Attack | Hard Attack | Tough-ness | Defens-iveness | Soft-ness |  | Cost | Build-time | Man-power | Max Speed | Supply Cons. | Fuel Cons. | Supp. | Transp. Weight | Upgrade Time Factor | Upgrade Cost Factor | Speed Cap Art | Speed Cap Eng | Speed Cap AT | Speed Cap AA |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Tankette | 30 | 30 | 2 | 1 | 6 | 2 | 10 | 8 | 30 |  | 17 | 150 | 7 | 8 | 1.6 | 3 | 1 | 30 | 1.0 | 1.0 | 9 | 9 | 9 | 9 |
 | Basic Light Tank | 30 | 30 | 2 | 2 | 7 | 5 | 15 | 10 | 30 |  | 20 | 155 | 7 | 10 | 1.8 | 4 | 1 | 30 | 0.5 | 1.0 | 11 | 11 | 11 | 11 |

@@ -6,10 +6,7 @@ title: Battlecruiser
 Battlecruiser Statistics
 ------------------------
 
-| Model | Year | Air Attack | Air Def. | Sea Attack | Sub Attack | Sea Def | Shore Bombard | Distance | Visi-  
-bility | Surface Detect | Sub Detect | Air Detect | Cost | Build-  
-time | Man-  
-power | Max Speed | Supply Cons. | Fuel Cons. | Range |
+| Model | Year | Air Attack | Air Def. | Sea Attack | Sub Attack | Sea Def | Shore Bombard | Distance | Visi-bility | Surface Detect | Sub Detect | Air Detect | Cost | Build-time | Man-power | Max Speed | Supply Cons. | Fuel Cons. | Range |
 | :-- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Great War Battlecruiser | 1936 | 1 | 1 | 12 | 0 | 8 | 5 | 0.30 | 80 | 1 | 2 | 1 | 6.0 | 615 | 1.0 | 18 | 0.40 | 0.80 | 2500 |
 | Early Battlecruiser | 1936 | 1 | 2 | 14 | 0 | 9 | 6 | 0.31 | 80 | 1 | 2 | 1 | 7.0 | 615 | 1.0 | 21 | 0.50 | 0.80 | 2700 |

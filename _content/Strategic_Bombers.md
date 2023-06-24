@@ -6,9 +6,7 @@ title: Strategic_Bombers
 Strategic Bomber Statistics
 ---------------------------
 
-| Model | Default ORG | Morale | Air Attack | Air Def. | Soft Attack | Hard Attack | Naval Attack | Strat Attack | Surface Def | Air Detect | Surface Detect |  | Cost | Build-  
-time | Man-  
-power | Max Speed | Supply Cons. | Fuel Cons. | Range | Trans Cap. | Upgrade Time Factor | Upgrade Cost Factor |
+| Model | Default ORG | Morale | Air Attack | Air Def. | Soft Attack | Hard Attack | Naval Attack | Strat Attack | Surface Def | Air Detect | Surface Detect |  | Cost | Build-time | Man-power | Max Speed | Supply Cons. | Fuel Cons. | Range | Trans Cap. | Upgrade Time Factor | Upgrade Cost Factor |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Basic Strategic Bomber | 30 | 30 | 1 | 8 | 2 | 1 | 2 | 10 | 5 | 2 | 3 |  | 22 | 208 | 2 | 250 | 3 | 4 | 800 |  | 0.5 | 1.0 |
 | Improved Strategic Bomber | 30 | 30 | 2 | 12 | 3 | 2 | 3 | 15 | 6 | 3 | 4 |  | 22 | 220 | 2 | 300 | 3.3 | 4.5 | 1000 |  | 0.5 | 1.0 |

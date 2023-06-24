@@ -6,9 +6,7 @@ title: Naval_Bombers
 Naval Bomber Statistics
 -----------------------
 
-| Model | Default ORG | Morale | Air Attack | Air Def. | Soft Attack | Hard Attack | Naval Attack | Strat Attack | Surface Def | Air Detect | Surface Detect |  | Cost | Build-  
-time | Man-  
-power | Max Speed | Supply Cons. | Fuel Cons. | Range | Trans Cap. | Upgrade Time Factor | Upgrade Cost Factor |
+| Model | Default ORG | Morale | Air Attack | Air Def. | Soft Attack | Hard Attack | Naval Attack | Strat Attack | Surface Def | Air Detect | Surface Detect |  | Cost | Build-time | Man-power | Max Speed | Supply Cons. | Fuel Cons. | Range | Trans Cap. | Upgrade Time Factor | Upgrade Cost Factor |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Basic Naval Bomber | 30 | 30 | 1 | 2 | 1 | 1 | 4 | 0 | 6 | 0 | 1 |  | 13 | 180 | 2 | 200 | 1.0 | 3 | 800 |  | 0.5 | 1.0 |
 | Improved Naval Bomber | 30 | 30 | 2 | 3 | 1 | 2 | 7 | 0 | 7 | 1 | 2 |  | 16 | 180 | 2 | 300 | 1.2 | 3 | 1000 |  | 0.5 | 1.0 |

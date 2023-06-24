@@ -6,10 +6,7 @@ title: Carrier
 Carrier Statistics
 ------------------
 
-| Model | Year | Air Attack | Air Def. | Sea Attack | Sub Attack | Sea Def | Shore Bombard | Distance | Visi-  
-bility | Surface Detect | Sub Detect | Air Detect | Cost | Build-  
-time | Man-  
-power | Max Speed | Supply Cons. | Fuel Cons. | Range |
+| Model | Year | Air Attack | Air Def. | Sea Attack | Sub Attack | Sea Def | Shore Bombard | Distance | Visi-bility | Surface Detect | Sub Detect | Air Detect | Cost | Build-time | Man-power | Max Speed | Supply Cons. | Fuel Cons. | Range |
 | :-- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Great War Carrier | 1936 | 0 | 0 | 0 | 1 | 8 | 0 | 0.05 | 100 | 1 | 1 | 2 | 5.0 | 547 | 1.0 | 18 | 0.90 | 1.00 | 2000 |
 | Early Carrier | 1936 | 1 | 0 | 0 | 1 | 9 | 0 | 0.05 | 100 | 1 | 1 | 2 | 5.0 | 650 | 1.0 | 18 | 1.10 | 1.00 | 2500 |

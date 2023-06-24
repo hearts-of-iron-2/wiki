@@ -6,10 +6,7 @@ title: Transport
 Transports Statistics
 ---------------------
 
-| Model | Default ORG | Morale | Air Attack | Air Def. | Sea Attack | Sub Attack | Sea Def | Shore Bombard | Distance | Visi-  
-bility | Surface Detect | Sub Detect | Air Detect |  | Cost | Build-  
-time | Man-  
-power | Max Speed | Supply Cons. | Fuel Cons. | Range | Trans Cap. |
+| Model | Default ORG | Morale | Air Attack | Air Def. | Sea Attack | Sub Attack | Sea Def | Shore Bombard | Distance | Visi-bility | Surface Detect | Sub Detect | Air Detect |  | Cost | Build-time | Man-power | Max Speed | Supply Cons. | Fuel Cons. | Range | Trans Cap. |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Transport | 30 | 30 | 0 | 0 | 0 | 0 | 0 | 0 | 0.1 | 90 | 0 | 0 | 0 |  | 5 | 90 | 1 | 18 | 0.3 | 1 | 3000 | 40 |
 

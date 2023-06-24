@@ -6,9 +6,7 @@ title: Tactical_Bombers
 Tactical Bombers Statistics
 ---------------------------
 
-| Model | Default ORG | Morale | Air Attack | Air Def. | Soft Attack | Hard Attack | Naval Attack | Strat Attack | Surface Def | Air Detect | Surface Detect |  | Cost | Build-  
-time | Man-  
-power | Max Speed | Supply Cons. | Fuel Cons. | Range | rans Cap. | Upgrade Time Factor | Upgrade Cost Factor |
+| Model | Default ORG | Morale | Air Attack | Air Def. | Soft Attack | Hard Attack | Naval Attack | Strat Attack | Surface Def | Air Detect | Surface Detect |  | Cost | Build-time | Man-power | Max Speed | Supply Cons. | Fuel Cons. | Range | rans Cap. | Upgrade Time Factor | Upgrade Cost Factor |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Interwar Tactical Bomber | 30 | 30 | 1 | 1 | 4 | 0 | 1 | 3 | 3 | 0 | 1 |  | 11 | 160 | 2 | 180 | 1.5 | 3 | 400 |  | 1.0 | 1.0 |
 | Early Tactical Bomber | 30 | 30 | 1 | 2 | 6 | 2 | 2 | 3 | 4 | 0 | 1 |  | 13 | 180 | 2 | 200 | 1.7 | 3 | 500 |  | 0.5 | 1.0 |

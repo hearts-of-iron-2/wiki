@@ -6,12 +6,7 @@ title: Garrison_Division
 Garrison Division Statistics
 ----------------------------
 
-| Model | Default ORG | Morale | Air Attack | Air Def. | Soft Attack | Hard Attack | Tough-  
-ness | Defens-  
-iveness | Soft-  
-ness |  | Cost | Build-  
-time | Man-  
-power | Max Speed | Supply Cons. | Fuel Cons. | Supp. | Transp. Weight | Upgrade Time Factor | Upgrade Cost Factor | Speed Cap Art | Speed Cap Eng | Speed Cap AT | Speed Cap AA |
+| Model | Default ORG | Morale | Air Attack | Air Def. | Soft Attack | Hard Attack | Tough-ness | Defens-iveness | Soft-ness |  | Cost | Build-time | Man-power | Max Speed | Supply Cons. | Fuel Cons. | Supp. | Transp. Weight | Upgrade Time Factor | Upgrade Cost Factor | Speed Cap Art | Speed Cap Eng | Speed Cap AT | Speed Cap AA |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | I. Garrison '18 | 30 | 30 | 1 | 3 | 5 | 1 | 2 | 10 | 100 |  | 5 | 60 | 10 | 1 | 0.5 | 0 | 6 | 10 | 1.0 | 1.0 | 3 | 3 | 3 | 3 |
 | II. Garrison '39 | 30 | 30 | 3 | 4 | 12 | 2 | 7 | 15 | 95 |  | 5 | 60 | 10 | 1 | 0.6 | 0 | 8 | 10 | 0.5 | 1.0 | 3 | 3 | 3 | 3 |

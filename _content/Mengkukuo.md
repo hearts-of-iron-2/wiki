@@ -1,10 +1,7 @@
 ---
 title: Mengkukuo
 ---
- | Country  
-Tag | Country  
-Name | Province  
-ID | Name | Captital | Required |
+ | CountryTag | CountryName | ProvinceID | Name | Captital | Required |
 | --- | --- | --- | --- | --- | --- |
 | MEN | Mengkukuo | 1208 | [Hohhot](/wiki/index.php?title=Hohhot&action=edit&redlink=1 "Hohhot (page does not exist)") | C | Y |
 |  |  | 1385 | [Bayan Tumen](/wiki/index.php?title=Bayan_Tumen&action=edit&redlink=1 "Bayan Tumen (page does not exist)") |  | N |

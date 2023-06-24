@@ -12,12 +12,7 @@ title: HQ_Division
 HQ Division Statistics
 ----------------------
 
-| Model | Default ORG | Morale | Air Attack | Air Def. | Soft Attack | Hard Attack | Tough-  
-ness | Defens-  
-iveness | Soft-  
-ness |  | Cost | Build-  
-time | Man-  
-power | Max Speed | Supply Cons. | Fuel Cons. | Supp. | Transp. Weight | Upgrade Time Factor | Upgrade Cost Factor | Speed Cap Art | Speed Cap Eng | Speed Cap AT | Speed Cap AA |
+| Model | Default ORG | Morale | Air Attack | Air Def. | Soft Attack | Hard Attack | Tough-ness | Defens-iveness | Soft-ness |  | Cost | Build-time | Man-power | Max Speed | Supply Cons. | Fuel Cons. | Supp. | Transp. Weight | Upgrade Time Factor | Upgrade Cost Factor | Speed Cap Art | Speed Cap Eng | Speed Cap AT | Speed Cap AA |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | HQ '36 | 30 | 30 | 1 | 3 | 1 | 1 | 25 | 25 | 100 |  | 16 | 270 | 5 | 2 | 0.5 | 0 | 2 | 10 | 1.0 | 1.0 | 2 |  | 2 | 2 |
 | HQ '39 | 30 | 30 | 3 | 4 | 2 | 1 | 30 | 30 | 95 |  | 18 | 250 | 5 | 5 | 0.6 | 2 | 2 | 10 | 0.5 | 1.0 | 5 |  | 5 | 5 |

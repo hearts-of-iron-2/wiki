@@ -6,9 +6,7 @@ title: Fighters
 Fighter Statistics
 ------------------
 
-| Model | Default ORG | Morale | Air Attack | Air Def. | Soft Attack | Hard Attack | Naval Attack | Strat Attack | Surface Def | Air Detect | Surface Detect |  | Cost | Build-  
-time | Man-  
-power | Max Speed | Supply Cons. | Fuel Cons. | Range | Trans Cap. | Upgrade Time Factor | Upgrade Cost Factor |
+| Model | Default ORG | Morale | Air Attack | Air Def. | Soft Attack | Hard Attack | Naval Attack | Strat Attack | Surface Def | Air Detect | Surface Detect |  | Cost | Build-time | Man-power | Max Speed | Supply Cons. | Fuel Cons. | Range | Trans Cap. | Upgrade Time Factor | Upgrade Cost Factor |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | I. Basic Fighter | 30 | 30 | 9 | 4 | 1 | 2 | 0 | 0 | 6 | 3 | 4 |  | 14 | 150 | 1 | 500 | 1.1 | 2 | 350 |  | 0.5 | 1.0 |
 | II. Improved Fighter | 30 | 30 | 12 | 5 | 2 | 3 | 1 | 0 | 8 | 6 | 6 |  | 18 | 150 | 1 | 600 | 1.2 | 2.2 | 400 |  | 0.5 | 1.0 |

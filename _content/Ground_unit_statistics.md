@@ -44,12 +44,7 @@ HOI versions 1.0 - 1.3
 
 Armoured units allow real projection of power on the battlefield. Their speed and firepower make them lethal against all but the best entrenched Infantry. However, as tanks became heaver, their speeds would reduce accordingly. They also required a constant supply of fuel to remain in the field, and if this vital supply was severed, the armoured unit would be next to useless.
 
-| Model | Total Cost | Default ORG | Morale | Air Attack | Air Def. | Soft Attack | Hard Attack | Tough-  
-ness | Defens-  
-iveness | Soft-  
-ness |  | Cost | Build-  
-time | Man-  
-power | Max Speed | Supply Cons. | Fuel Cons. | Supp. | Transp. Weight | Upgrade Time Factor | Upgrade Cost Factor | Speed Cap Art | Speed Cap Eng | Speed Cap AT | Speed Cap AA |
+| Model | Total Cost | Default ORG | Morale | Air Attack | Air Def. | Soft Attack | Hard Attack | Tough-ness | Defens-iveness | Soft-ness |  | Cost | Build-time | Man-power | Max Speed | Supply Cons. | Fuel Cons. | Supp. | Transp. Weight | Upgrade Time Factor | Upgrade Cost Factor | Speed Cap Art | Speed Cap Eng | Speed Cap AT | Speed Cap AA |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Great War Tank | 2880 | 30 | 30 | 1 | 1 | 8 | 2 | 7 | 5 | 30 |  | 16 | 180 | 7 | 4 | 2 | 4 | 1 | 30 | 1.0 | 1.0 | 5 | 5 | 5 | 5 |
 | Early Tank | 3700 | 30 | 30 | 2 | 1 | 8 | 3 | 12 | 8 | 30 |  | 20 | 185 | 7 | 8 | 2.2 | 5 | 1 | 30 | 0.5 | 1.0 | 9 | 9 | 9 | 9 |
@@ -66,12 +61,7 @@ power | Max Speed | Supply Cons. | Fuel Cons. | Supp. | Transp. Weight | Upgrade
 
 Cavalry are able to move fairly rapidly over most types of terrain and do not require a supply of fuel to operate, but they are lightly armed when compared with Armoured units, and the automatic weapons of the time can inflict devastating casualties to both men and horses. That is not to say that Cavalry can't prove useful in some instances as a mobile reserve.
 
-| Model | Default ORG | Morale | Air Attack | Air Def. | Soft Attack | Hard Attack | Tough-  
-ness | Defens-  
-iveness | Soft-  
-ness |  | Cost | Build-  
-time | Man-  
-power | Max Speed | Supply Cons. | Fuel Cons. | Supp. | Transp. Weight | Upgrade Time Factor | Upgrade Cost Factor | Speed Cap Art | Speed Cap Eng | Speed Cap AT | Speed Cap AA |
+| Model | Default ORG | Morale | Air Attack | Air Def. | Soft Attack | Hard Attack | Tough-ness | Defens-iveness | Soft-ness |  | Cost | Build-time | Man-power | Max Speed | Supply Cons. | Fuel Cons. | Supp. | Transp. Weight | Upgrade Time Factor | Upgrade Cost Factor | Speed Cap Art | Speed Cap Eng | Speed Cap AT | Speed Cap AA |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Cavalry '18 | 30 | 30 | 1 | 2 | 4 | 0 | 10 | 10 | 100 |  | 8 | 95 | 9 | 7 | 1.2 | 0 | 4 | 30 | 1.0 | 1.0 | 7 | 7 | 7 | 7 |
 | Cavalry '36 | 30 | 30 | 2 | 3 | 8 | 1 | 10 | 10 | 100 |  | 8 | 95 | 9 | 7 | 1.2 | 0 | 4 | 30 | 0.5 | 1.0 | 7 | 7 | 7 | 7 |
@@ -88,12 +78,7 @@ power | Max Speed | Supply Cons. | Fuel Cons. | Supp. | Transp. Weight | Upgrade
 
 Garrison Divisions are second line troops used to safeguard valuable objectives far from the front lines. They lack heavy equipment and transportation, making them immobile except for [strategic redeployment](/wiki/index.php?title=Strategic_redeployment&action=edit&redlink=1 "Strategic redeployment (page does not exist)") . They have limited fighting capability but can be used to free more capable troops for frontline use.
 
-| Model | Default ORG | Morale | Air Attack | Air Def. | Soft Attack | Hard Attack | Tough-  
-ness | Defens-  
-iveness | Soft-  
-ness |  | Cost | Build-  
-time | Man-  
-power | Max Speed | Supply Cons. | Fuel Cons. | Supp. | Transp. Weight | Upgrade Time Factor | Upgrade Cost Factor | Speed Cap Art | Speed Cap Eng | Speed Cap AT | Speed Cap AA |
+| Model | Default ORG | Morale | Air Attack | Air Def. | Soft Attack | Hard Attack | Tough-ness | Defens-iveness | Soft-ness |  | Cost | Build-time | Man-power | Max Speed | Supply Cons. | Fuel Cons. | Supp. | Transp. Weight | Upgrade Time Factor | Upgrade Cost Factor | Speed Cap Art | Speed Cap Eng | Speed Cap AT | Speed Cap AA |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Garrison '18 | 30 | 30 | 1 | 3 | 5 | 1 | 2 | 10 | 100 |  | 5 | 60 | 10 | 1 | 0.5 | 0 | 6 | 10 | 1.0 | 1.0 | 3 | 3 | 3 | 3 |
 | Garrison '39 | 30 | 30 | 3 | 4 | 12 | 2 | 7 | 15 | 95 |  | 5 | 60 | 10 | 1 | 0.6 | 0 | 8 | 10 | 0.5 | 1.0 | 3 | 3 | 3 | 3 |
@@ -107,12 +92,7 @@ power | Max Speed | Supply Cons. | Fuel Cons. | Supp. | Transp. Weight | Upgrade
 
 Headquarters are the brains of your armed forces. They contain the staff that keeps your army running, such as logistics and planning staff. They give a bonus to the units fighting in the vicinity but it is advisable to guard them, as their own fighting ability is poor.
 
-| Model | Default ORG | Morale | Air Attack | Air Def. | Soft Attack | Hard Attack | Tough-  
-ness | Defens-  
-iveness | Soft-  
-ness |  | Cost | Build-  
-time | Man-  
-power | Max Speed | Supply Cons. | Fuel Cons. | Supp. | Transp. Weight | Upgrade Time Factor | Upgrade Cost Factor | Speed Cap Art | Speed Cap Eng | Speed Cap AT | Speed Cap AA |
+| Model | Default ORG | Morale | Air Attack | Air Def. | Soft Attack | Hard Attack | Tough-ness | Defens-iveness | Soft-ness |  | Cost | Build-time | Man-power | Max Speed | Supply Cons. | Fuel Cons. | Supp. | Transp. Weight | Upgrade Time Factor | Upgrade Cost Factor | Speed Cap Art | Speed Cap Eng | Speed Cap AT | Speed Cap AA |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | HQ '36 | 30 | 30 | 1 | 3 | 1 | 1 | 25 | 25 | 100 |  | 16 | 270 | 5 | 2 | 0.5 | 0 | 2 | 10 | 1.0 | 1.0 | 2 |  | 2 | 2 |
 | HQ '39 | 30 | 30 | 3 | 4 | 2 | 1 | 30 | 30 | 95 |  | 18 | 250 | 5 | 5 | 0.6 | 2 | 2 | 10 | 0.5 | 1.0 | 5 |  | 5 | 5 |
@@ -126,12 +106,7 @@ power | Max Speed | Supply Cons. | Fuel Cons. | Supp. | Transp. Weight | Upgrade
 
 Infantry will most likely make up the bulk of your army. They are relatively cheap to build and require no regular fuel supply to manoeuvre, but their lack of motorized transport means their speed of advance is limited. However, Infantry are able to occupy large areas of land, securing ground captured by other forces.
 
-| Model | Default ORG | Morale | Air Attack | Air Def. | Soft Attack | Hard Attack | Tough-  
-ness | Defens-  
-iveness | Soft-  
-ness |  | Cost | Build-  
-time | Man-  
-power | Max Speed | Supply Cons. | Fuel Cons. | Supp. | Transp. Weight | Upgrade Time Factor | Upgrade Cost Factor | Speed Cap Art | Speed Cap Eng | Speed Cap AT | Speed Cap AA |
+| Model | Default ORG | Morale | Air Attack | Air Def. | Soft Attack | Hard Attack | Tough-ness | Defens-iveness | Soft-ness |  | Cost | Build-time | Man-power | Max Speed | Supply Cons. | Fuel Cons. | Supp. | Transp. Weight | Upgrade Time Factor | Upgrade Cost Factor | Speed Cap Art | Speed Cap Eng | Speed Cap AT | Speed Cap AA |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Infantry '18 | 30 | 30 | 1 | 3 | 5 | 1 | 10 | 13 | 100 |  | 7 | 95 | 10 | 4 | 0.9 | 0 | 2 | 10 | 1.0 | 1.0 | 6 | 6 | 6 | 6 |
 | Infantry '36 | 30 | 30 | 2 | 3 | 10 | 1 | 12 | 15 | 100 |  | 7 | 95 | 10 | 5 | 1 | 0 | 2 | 10 | 0.5 | 1.0 | 6 | 6 | 6 | 6 |
@@ -150,12 +125,7 @@ Armoured units allow real projection of power on the battlefield. Their speed an
 
 _Light armored divisions upgrade to basic medium armor divisions. The advanced light armor tech allows you to build a light armor brigade which can be added to almost every kind of division._
 
-| Model | Default ORG | Morale | Air Attack | Air Def. | Soft Attack | Hard Attack | Tough-  
-ness | Defens-  
-iveness | Soft-  
-ness |  | Cost | Build-  
-time | Man-  
-power | Max Speed | Supply Cons. | Fuel Cons. | Supp. | Transp. Weight | Upgrade Time Factor | Upgrade Cost Factor | Speed Cap Art | Speed Cap Eng | Speed Cap AT | Speed Cap AA |
+| Model | Default ORG | Morale | Air Attack | Air Def. | Soft Attack | Hard Attack | Tough-ness | Defens-iveness | Soft-ness |  | Cost | Build-time | Man-power | Max Speed | Supply Cons. | Fuel Cons. | Supp. | Transp. Weight | Upgrade Time Factor | Upgrade Cost Factor | Speed Cap Art | Speed Cap Eng | Speed Cap AT | Speed Cap AA |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Tankette | 30 | 30 | 2 | 1 | 6 | 2 | 10 | 8 | 30 |  | 17 | 150 | 7 | 8 | 1.6 | 3 | 1 | 30 | 1.0 | 1.0 | 9 | 9 | 9 | 9 |
 | Basic Light Tank | 30 | 30 | 2 | 2 | 7 | 5 | 15 | 10 | 30 |  | 20 | 155 | 7 | 10 | 1.8 | 4 | 1 | 30 | 0.5 | 1.0 | 11 | 11 | 11 | 11 |
@@ -169,12 +139,7 @@ power | Max Speed | Supply Cons. | Fuel Cons. | Supp. | Transp. Weight | Upgrade
 
 Marines are an elite branch of the Infantry, specifically trained for assaulting beaches and other naval operations. They make use of specialised equipment and tactics to give them an edge over regular Infantry in such an environment.
 
-| Model | Default ORG | Morale | Air Attack | Air Def. | Soft Attack | Hard Attack | Tough-  
-ness | Defens-  
-iveness | Soft-  
-ness |  | Cost | Build-  
-time | Man-  
-power | Max Speed | Supply Cons. | Fuel Cons. | Supp. | Transp. Weight | Upgrade Time Factor | Upgrade Cost Factor | Speed Cap Art | Speed Cap Eng | Speed Cap AT | Speed Cap AA |
+| Model | Default ORG | Morale | Air Attack | Air Def. | Soft Attack | Hard Attack | Tough-ness | Defens-iveness | Soft-ness |  | Cost | Build-time | Man-power | Max Speed | Supply Cons. | Fuel Cons. | Supp. | Transp. Weight | Upgrade Time Factor | Upgrade Cost Factor | Speed Cap Art | Speed Cap Eng | Speed Cap AT | Speed Cap AA |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Marines '36 | 40 | 40 | 2 | 3 | 8 | 1 | 12 | 15 | 100 |  | 9 | 160 | 10 | 4 | 0.8 | 0 | 3 | 10 | 0.5 | 1.0 | 5 | 5 | 5 | 5 |
 | Marines '39 | 40 | 40 | 3 | 4 | 10 | 2 | 18 | 18 | 100 |  | 9 | 160 | 10 | 5 | 0.8 | 0 | 3 | 10 | 0.5 | 1.0 | 6 | 6 | 6 | 6 |
@@ -189,12 +154,7 @@ power | Max Speed | Supply Cons. | Fuel Cons. | Supp. | Transp. Weight | Upgrade
 
 Mechanized Infantry are equipped with all-terrain vehicles, such as the halftrack, which does not limit them to roads as with Motorized Infantry and allows them to work well with armoured units. However, the specialist equipment they require means their cost is high.
 
-| Model | Default ORG | Morale | Air Attack | Air Def. | Soft Attack | Hard Attack | Tough-  
-ness | Defens-  
-iveness | Soft-  
-ness |  | Cost | Build-  
-time | Man-  
-power | Max Speed | Supply Cons. | Fuel Cons. | Supp. | Transp. Weight | Upgrade Time Factor | Upgrade Cost Factor | Speed Cap Art | Speed Cap Eng | Speed Cap AT | Speed Cap AA |
+| Model | Default ORG | Morale | Air Attack | Air Def. | Soft Attack | Hard Attack | Tough-ness | Defens-iveness | Soft-ness |  | Cost | Build-time | Man-power | Max Speed | Supply Cons. | Fuel Cons. | Supp. | Transp. Weight | Upgrade Time Factor | Upgrade Cost Factor | Speed Cap Art | Speed Cap Eng | Speed Cap AT | Speed Cap AA |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Mechanized Infantry '42 | 30 | 30 | 4 | 5 | 14 | 5 | 20 | 20 | 60 |  | 14 | 125 | 10 | 10 | 1.3 | 4.5 | 2 | 30 | 0.5 | 1.0 | 11 | 11 | 11 | 11 |
 | Mechanized Infantry '43 | 30 | 30 | 4 | 6 | 16 | 6 | 25 | 25 | 60 |  | 14 | 125 | 10 | 10 | 1.4 | 4.5 | 2 | 30 | 0.5 | 1.0 | 11 | 11 | 11 | 11 |
@@ -209,12 +169,7 @@ power | Max Speed | Supply Cons. | Fuel Cons. | Supp. | Transp. Weight | Upgrade
 
 Militia are a cheap and rapidly formed Infantry unit. Their hurried training and poor equipment mean they are of little use in combat, although they can be useful for controlling territory and as a last line of defence when no other units are available.
 
-| Model | Default ORG | Morale | Air Attack | Air Def. | Soft Attack | Hard Attack | Tough-  
-ness | Defens-  
-iveness | Soft-  
-ness |  | Cost | Build-  
-time | Man-  
-power | Max Speed | Supply Cons. | Fuel Cons. | Supp. | Transp. Weight | Upgrade Time Factor | Upgrade Cost Factor | Speed Cap Art | Speed Cap Eng | Speed Cap AT | Speed Cap AA |
+| Model | Default ORG | Morale | Air Attack | Air Def. | Soft Attack | Hard Attack | Tough-ness | Defens-iveness | Soft-ness |  | Cost | Build-time | Man-power | Max Speed | Supply Cons. | Fuel Cons. | Supp. | Transp. Weight | Upgrade Time Factor | Upgrade Cost Factor | Speed Cap Art | Speed Cap Eng | Speed Cap AT | Speed Cap AA |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Militia '36 | 30 | 30 | 1 | 2 | 2 | 0 | 1 | 8 | 100 |  | 4 | 50 | 5 | 4 | 0.2 | 0 | 1 | 10 | 0.5 | 1.0 | 4 | 6 | 4 | 4 |
 | Militia '43 | 30 | 30 | 1 | 3 | 6 | 3 | 5 | 15 | 100 |  | 4 | 55 | 5 | 4 | 0.5 | 0 | 1 | 10 | 0.5 | 1.0 | 4 | 4 | 4 | 4 |
@@ -227,12 +182,7 @@ power | Max Speed | Supply Cons. | Fuel Cons. | Supp. | Transp. Weight | Upgrade
 
 Motorized Infantry make use of wheeled vehicles, such as trucks, to manoeuvre more rapidly than basic Infantry. But they are limited to roads and so their performance may suffer in provinces with low infrastructure levels.
 
-| Model | Default ORG | Morale | Air Attack | Air Def. | Soft Attack | Hard Attack | Tough-  
-ness | Defens-  
-iveness | Soft-  
-ness |  | Cost | Build-  
-time | Man-  
-power | Max Speed | Supply Cons. | Fuel Cons. | Supp. | Transp. Weight | Upgrade Time Factor | Upgrade Cost Factor | Speed Cap Art | Speed Cap Eng | Speed Cap AT | Speed Cap AA |
+| Model | Default ORG | Morale | Air Attack | Air Def. | Soft Attack | Hard Attack | Tough-ness | Defens-iveness | Soft-ness |  | Cost | Build-time | Man-power | Max Speed | Supply Cons. | Fuel Cons. | Supp. | Transp. Weight | Upgrade Time Factor | Upgrade Cost Factor | Speed Cap Art | Speed Cap Eng | Speed Cap AT | Speed Cap AA |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Motorized Infantry '40 | 30 | 30 | 3 | 4 | 12 | 2 | 15 | 15 | 80 |  | 14 | 100 | 10 | 8 | 1.2 | 3.5 | 2 | 30 | 0.5 | 1.0 | 10 | 10 | 10 | 10 |
 | Motorized Infantry '42 | 30 | 30 | 4 | 5 | 14 | 4 | 20 | 25 | 80 |  | 12 | 100 | 10 | 9 | 1.3 | 3.5 | 2 | 30 | 0.5 | 1.0 | 10 | 10 | 10 | 10 |
@@ -246,12 +196,7 @@ power | Max Speed | Supply Cons. | Fuel Cons. | Supp. | Transp. Weight | Upgrade
 
 Mountain Troops are an elite branch of the Infantry, specifically trained for operations in mountainous terrain. They make use of specialised equipment and tactics to give them an edge over regular Infantry in such an environment.
 
-| Model | Default ORG | Morale | Air Attack | Air Def. | Soft Attack | Hard Attack | Tough-  
-ness | Defens-  
-iveness | Soft-  
-ness |  | Cost | Build-  
-time | Man-  
-power | Max Speed | Supply Cons. | Fuel Cons. | Supp. | Transp. Weight | Upgrade Time Factor | Upgrade Cost Factor | Speed Cap Art | Speed Cap Eng | Speed Cap AT | Speed Cap AA |
+| Model | Default ORG | Morale | Air Attack | Air Def. | Soft Attack | Hard Attack | Tough-ness | Defens-iveness | Soft-ness |  | Cost | Build-time | Man-power | Max Speed | Supply Cons. | Fuel Cons. | Supp. | Transp. Weight | Upgrade Time Factor | Upgrade Cost Factor | Speed Cap Art | Speed Cap Eng | Speed Cap AT | Speed Cap AA |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Mountain '36 | 40 | 40 | 2 | 3 | 8 | 1 | 12 | 15 | 100 |  | 8 | 120 | 10 | 4 | 0.8 | 0 | 3 | 8 | 0.5 | 1.0 | 5 | 5 | 5 | 5 |
 | Mountain '39 | 40 | 40 | 3 | 4 | 10 | 2 | 18 | 18 | 100 |  | 8 | 120 | 10 | 5 | 0.8 | 0 | 3 | 8 | 0.5 | 1.0 | 5 | 5 | 5 | 5 |
@@ -266,12 +211,7 @@ power | Max Speed | Supply Cons. | Fuel Cons. | Supp. | Transp. Weight | Upgrade
 
 Paratroopers are an elite branch of the Infantry, specifically trained to either parachute to the ground or be ferried to a battle in gliders. Their rapid deployment capability makes them ideal for use as a mobile reserve or for use in capturing a strategic asset behind enemy lines. However, they are handicapped by a lack of heavy equipment due to their mode of travel, and when they are in action it is advisable to move other units to their support.
 
-| Model | Default ORG | Morale | Air Attack | Air Def. | Soft Attack | Hard Attack | Tough-  
-ness | Defens-  
-iveness | Soft-  
-ness |  | Cost | Build-  
-time | Man-  
-power | Max Speed | Supply Cons. | Fuel Cons. | Supp. | Transp. Weight | Upgrade Time Factor | Upgrade Cost Factor | Speed Cap Art | Speed Cap Eng | Speed Cap AT | Speed Cap AA |
+| Model | Default ORG | Morale | Air Attack | Air Def. | Soft Attack | Hard Attack | Tough-ness | Defens-iveness | Soft-ness |  | Cost | Build-time | Man-power | Max Speed | Supply Cons. | Fuel Cons. | Supp. | Transp. Weight | Upgrade Time Factor | Upgrade Cost Factor | Speed Cap Art | Speed Cap Eng | Speed Cap AT | Speed Cap AA |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Airborne '39 | 40 | 40 | 2 | 3 | 8 | 1 | 16 | 11 | 100 |  | 12 | 180 | 15 | 4 | 1.4 | 0 | 3 | 10 | 0.5 | 1.0 | 5 | 5 | 5 | 5 |
 | Airborne '41 | 40 | 40 | 3 | 4 | 10 | 2 | 20 | 16 | 100 |  | 12 | 180 | 15 | 5 | 1.5 | 0 | 3 | 8 | 0.5 | 1.0 | 6 | 6 | 6 | 6 |
@@ -290,12 +230,7 @@ Brigade Unit effects apply only to the division to which they are attached. They
 
 Anti-Aircraft weapons will increase the 'Air Attack' capability of your units, so that they inflict more damage on Aircraft.
 
-| Model | Default ORG | Morale | Air Attack | Air Def. | Soft Attack | Hard Attack | Tough-  
-ness | Defens-  
-iveness | Soft-  
-ness |  | Cost | Build-  
-time | Man-  
-power | Max Speed | Supply Cons. | Fuel Cons. | Supp. | Transp. Weight | Upgrade Time Factor | Upgrade Cost Factor | Speed Cap Art | Speed Cap Eng | Speed Cap AT | Speed Cap AA |
+| Model | Default ORG | Morale | Air Attack | Air Def. | Soft Attack | Hard Attack | Tough-ness | Defens-iveness | Soft-ness |  | Cost | Build-time | Man-power | Max Speed | Supply Cons. | Fuel Cons. | Supp. | Transp. Weight | Upgrade Time Factor | Upgrade Cost Factor | Speed Cap Art | Speed Cap Eng | Speed Cap AT | Speed Cap AA |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Basic Anti–Air |  |  | 1 | 2 |  | 1 |  | 1 |  |  | 5 | 40 | 2 | \-1 | 0.3 |  |  |  | 0.5 | 1.0 |  |  |  |  |
 | Improved Anti–Air |  |  | 2 | 3 |  | 1 |  | 1 |  |  | 5 | 40 | 2 |  | 0.35 |  |  |  | 0.5 | 1.0 |  |  |  |  |
@@ -306,12 +241,7 @@ power | Max Speed | Supply Cons. | Fuel Cons. | Supp. | Transp. Weight | Upgrade
 
 Anti-Tank weapons will increase the 'Hard Attack' capability of your units, making them more effective against Armoured and Mechanized units.
 
-| Model | Default ORG | Morale | Air Attack | Air Def. | Soft Attack | Hard Attack | Tough-  
-ness | Defens-  
-iveness | Soft-  
-ness |  | Cost | Build-  
-time | Man-  
-power | Max Speed | Supply Cons. | Fuel Cons. | Supp. | Transp. Weight | Upgrade Time Factor | Upgrade Cost Factor | Speed Cap Art | Speed Cap Eng | Speed Cap AT | Speed Cap AA |
+| Model | Default ORG | Morale | Air Attack | Air Def. | Soft Attack | Hard Attack | Tough-ness | Defens-iveness | Soft-ness |  | Cost | Build-time | Man-power | Max Speed | Supply Cons. | Fuel Cons. | Supp. | Transp. Weight | Upgrade Time Factor | Upgrade Cost Factor | Speed Cap Art | Speed Cap Eng | Speed Cap AT | Speed Cap AA |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Early Anti–Tank |  |  |  |  |  | 2 |  | 1 |  |  | 4 | 60 | 2 | \-1 | 0.3 |  |  |  | 0.5 | 1.0 |  |  |  |  |
 | Basic Anti–Tank |  |  |  |  |  | 3 |  | 2 |  |  | 5 | 60 | 2 | \-1 | 0.35 |  |  |  | 0.5 | 1.0 |  |  |  |  |
@@ -323,12 +253,7 @@ power | Max Speed | Supply Cons. | Fuel Cons. | Supp. | Transp. Weight | Upgrade
 
 Armored Cars are wheeled vehicles, typically with light armour and modest weaponry. They give your units an added capability against soft targets, being most effective against supply trucks and rear area troops.
 
-| Model | Default ORG | Morale | Air Attack | Air Def. | Soft Attack | Hard Attack | Tough-  
-ness | Defens-  
-iveness | Soft-  
-ness |  | Cost | Build-  
-time | Man-  
-power | Max Speed | Supply Cons. | Fuel Cons. | Supp. | Transp. Weight | Upgrade Time Factor | Upgrade Cost Factor | Speed Cap Art | Speed Cap Eng | Speed Cap AT | Speed Cap AA |
+| Model | Default ORG | Morale | Air Attack | Air Def. | Soft Attack | Hard Attack | Tough-ness | Defens-iveness | Soft-ness |  | Cost | Build-time | Man-power | Max Speed | Supply Cons. | Fuel Cons. | Supp. | Transp. Weight | Upgrade Time Factor | Upgrade Cost Factor | Speed Cap Art | Speed Cap Eng | Speed Cap AT | Speed Cap AA |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Basic Armored Car | 3 |  |  |  | 2 |  | 1 | 1 | \-5 |  | 3 | 60 | 2 |  | 1 | 0.4 |  |  | 0.5 | 1.0 |  |  |  |  |
 | Improved Armored Car | 6 |  |  |  | 3 | 1 | 2 | 2 | \-5 |  | 3 | 60 | 2 |  | 1 | 0.45 |  |  | 0.5 | 1.0 |  |  |  |  |
@@ -337,12 +262,7 @@ power | Max Speed | Supply Cons. | Fuel Cons. | Supp. | Transp. Weight | Upgrade
 
 Artillery pieces will increase the 'Soft Attack' capability of your units, inflicting more damage on Infantry and Motorized units.
 
-| Model | Default ORG | Morale | Air Attack | Air Def. | Soft Attack | Hard Attack | Tough-  
-ness | Defens-  
-iveness | Soft-  
-ness |  | Cost | Build-  
-time | Man-  
-power | Max Speed | Supply Cons. | Fuel Cons. | Supp. | Transp. Weight | Upgrade Time Factor | Upgrade Cost Factor | Speed Cap Art | Speed Cap Eng | Speed Cap AT | Speed Cap AA |
+| Model | Default ORG | Morale | Air Attack | Air Def. | Soft Attack | Hard Attack | Tough-ness | Defens-iveness | Soft-ness |  | Cost | Build-time | Man-power | Max Speed | Supply Cons. | Fuel Cons. | Supp. | Transp. Weight | Upgrade Time Factor | Upgrade Cost Factor | Speed Cap Art | Speed Cap Eng | Speed Cap AT | Speed Cap AA |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Great War Light Artillery |  |  |  |  | 2 | 1 |  | 2 |  |  | 5 | 45 | 2 | \-1 | 0.6 |  |  |  | 0.5 | 1.0 |  |  |  |  |
 | Great War Medium Artillery |  |  |  |  | 3 | 1 |  | 2 |  |  | 5 | 60 | 2 | \-1 | 0.8 |  |  |  | 0.5 | 1.0 |  |  |  |  |
@@ -357,12 +277,7 @@ power | Max Speed | Supply Cons. | Fuel Cons. | Supp. | Transp. Weight | Upgrade
 
 Engineer Brigades help crossing rivers, making the process quicker and reducing disorganisation. The combat bonus is a +20 combat modifier for the engineering brigade.
 
-| Model | Default ORG | Morale | Air Attack | Air Def. | Soft Attack | Hard Attack | Tough-  
-ness | Defens-  
-iveness | Soft-  
-ness |  | Cost | Build-  
-time | Man-  
-power | Max Speed | Supply Cons. | Fuel Cons. | Supp. | Transp. Weight | Upgrade Time Factor | Upgrade Cost Factor | Speed Cap Art | Speed Cap Eng | Speed Cap AT | Speed Cap AA |
+| Model | Default ORG | Morale | Air Attack | Air Def. | Soft Attack | Hard Attack | Tough-ness | Defens-iveness | Soft-ness |  | Cost | Build-time | Man-power | Max Speed | Supply Cons. | Fuel Cons. | Supp. | Transp. Weight | Upgrade Time Factor | Upgrade Cost Factor | Speed Cap Art | Speed Cap Eng | Speed Cap AT | Speed Cap AA |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Engineer |  |  |  |  |  |  | 3 | 5 |  |  | 4 | 45 | 2 | 1 | 0.3 |  |  |  | 0.5 | 1.0 |  |  |  |  |
 
@@ -370,12 +285,7 @@ power | Max Speed | Supply Cons. | Fuel Cons. | Supp. | Transp. Weight | Upgrade
 
 Heavy Armor gives your units a considerable boost in both hard and soft attack. Heavy Tanks are used when breaking enemy lines, being extremely hard to kill. But they slow your units down and require considerable amounts of supplies and fuel.
 
-| Model | Default ORG | Morale | Air Attack | Air Def. | Soft Attack | Hard Attack | Tough-  
-ness | Defens-  
-iveness | Soft-  
-ness |  | Cost | Build-  
-time | Man-  
-power | Max Speed | Supply Cons. | Fuel Cons. | Supp. | Transp. Weight | Upgrade Time Factor | Upgrade Cost Factor | Speed Cap Art | Speed Cap Eng | Speed Cap AT | Speed Cap AA |
+| Model | Default ORG | Morale | Air Attack | Air Def. | Soft Attack | Hard Attack | Tough-ness | Defens-iveness | Soft-ness |  | Cost | Build-time | Man-power | Max Speed | Supply Cons. | Fuel Cons. | Supp. | Transp. Weight | Upgrade Time Factor | Upgrade Cost Factor | Speed Cap Art | Speed Cap Eng | Speed Cap AT | Speed Cap AA |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Basic Heavy Tank |  |  |  |  | 2 | 2 | 2 | 2 | \-10 |  | 8 | 80 | 2 | \-1 | 0.7 | 2.5 |  |  | 0.5 | 1.0 |  |  |  |  |
 | Improved Heavy Tank |  |  |  |  | 4 | 4 | 4 | 4 | \-12 |  | 9 | 80 | 2 | \-1 | 0.8 | 3.0 |  |  | 0.5 | 1.0 |  |  |  |  |
@@ -385,12 +295,7 @@ power | Max Speed | Supply Cons. | Fuel Cons. | Supp. | Transp. Weight | Upgrade
 
 Armoured units allow real projection of power on the battlefield. Their speed and firepower make them lethal against all but the best entrenched Infantry. However, as tanks become heavier, their speeds will reduce accordingly. They also require a constant supply of fuel to remain in the field and if this vital supply is severed, the armoured unit will be almost useless.
 
-| Model | Default ORG | Morale | Air Attack | Air Def. | Soft Attack | Hard Attack | Tough-  
-ness | Defens-  
-iveness | Soft-  
-ness |  | Cost | Build-  
-time | Man-  
-power | Max Speed | Supply Cons. | Fuel Cons. | Supp. | Transp. Weight | Upgrade Time Factor | Upgrade Cost Factor | Speed Cap Art | Speed Cap Eng | Speed Cap AT | Speed Cap AA |
+| Model | Default ORG | Morale | Air Attack | Air Def. | Soft Attack | Hard Attack | Tough-ness | Defens-iveness | Soft-ness |  | Cost | Build-time | Man-power | Max Speed | Supply Cons. | Fuel Cons. | Supp. | Transp. Weight | Upgrade Time Factor | Upgrade Cost Factor | Speed Cap Art | Speed Cap Eng | Speed Cap AT | Speed Cap AA |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Light Tank | 8 |  |  |  | 2 | 3 | 3 | 3 | \-8 |  | 5 | 60 | 2 |  | 0.7 | 1.5 |  |  | 0.5 | 1.0 |  |  |  |  |
 
@@ -398,12 +303,7 @@ power | Max Speed | Supply Cons. | Fuel Cons. | Supp. | Transp. Weight | Upgrade
 
 Police Brigades are good at suppressing partisans and rebels.
 
-| Model | Default ORG | Morale | Air Attack | Air Def. | Soft Attack | Hard Attack | Tough-  
-ness | Defens-  
-iveness | Soft-  
-ness |  | Cost | Build-  
-time | Man-  
-power | Max Speed | Supply Cons. | Fuel Cons. | Supp. | Transp. Weight | Upgrade Time Factor | Upgrade Cost Factor | Speed Cap Art | Speed Cap Eng | Speed Cap AT | Speed Cap AA |
+| Model | Default ORG | Morale | Air Attack | Air Def. | Soft Attack | Hard Attack | Tough-ness | Defens-iveness | Soft-ness |  | Cost | Build-time | Man-power | Max Speed | Supply Cons. | Fuel Cons. | Supp. | Transp. Weight | Upgrade Time Factor | Upgrade Cost Factor | Speed Cap Art | Speed Cap Eng | Speed Cap AT | Speed Cap AA |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Police | 3 |  |  |  |  |  |  |  |  |  | 2 | 35 | 2 |  | 0.1 |  | 3 |  | 0.5 | 1.0 |  |  |  |  |
 
@@ -411,12 +311,7 @@ power | Max Speed | Supply Cons. | Fuel Cons. | Supp. | Transp. Weight | Upgrade
 
 Rocket Artillery gives your units an added capability against soft units. Rockets are an area weapon, saturating an area with explosions, and are thus most effective against Infantry concentrations.
 
-| Model | Default ORG | Morale | Air Attack | Air Def. | Soft Attack | Hard Attack | Tough-  
-ness | Defens-  
-iveness | Soft-  
-ness |  | Cost | Build-  
-time | Man-  
-power | Max Speed | Supply Cons. | Fuel Cons. | Supp. | Transp. Weight | Upgrade Time Factor | Upgrade Cost Factor | Speed Cap Art | Speed Cap Eng | Speed Cap AT | Speed Cap AA |
+| Model | Default ORG | Morale | Air Attack | Air Def. | Soft Attack | Hard Attack | Tough-ness | Defens-iveness | Soft-ness |  | Cost | Build-time | Man-power | Max Speed | Supply Cons. | Fuel Cons. | Supp. | Transp. Weight | Upgrade Time Factor | Upgrade Cost Factor | Speed Cap Art | Speed Cap Eng | Speed Cap AT | Speed Cap AA |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Basic Rocket Artillery |  |  |  |  | 5 | 1 |  | 2 |  |  | 4 | 45 | 2 | \-1 | 1.5 |  |  |  | 0.5 | 1.0 |  |  |  |  |
 | Improved Rocket Artillery |  |  |  |  | 6 | 1 |  | 3 |  |  | 5 | 45 | 2 | \-1 | 1.5 |  |  |  | 0.5 | 1.0 |  |  |  |  |
@@ -426,12 +321,7 @@ power | Max Speed | Supply Cons. | Fuel Cons. | Supp. | Transp. Weight | Upgrade
 
 SP, or Self-Propelled, Artillery gives your armored and mechanized units an additional punch against enemy infantry while not reducing the speed of those units as much as normal artillery.
 
-| Model | Default ORG | Morale | Air Attack | Air Def. | Soft Attack | Hard Attack | Tough-  
-ness | Defens-  
-iveness | Soft-  
-ness |  | Cost | Build-  
-time | Man-  
-power | Max Speed | Supply Cons. | Fuel Cons. | Supp. | Transp. Weight | Upgrade Time Factor | Upgrade Cost Factor | Speed Cap Art | Speed Cap Eng | Speed Cap AT | Speed Cap AA |
+| Model | Default ORG | Morale | Air Attack | Air Def. | Soft Attack | Hard Attack | Tough-ness | Defens-iveness | Soft-ness |  | Cost | Build-time | Man-power | Max Speed | Supply Cons. | Fuel Cons. | Supp. | Transp. Weight | Upgrade Time Factor | Upgrade Cost Factor | Speed Cap Art | Speed Cap Eng | Speed Cap AT | Speed Cap AA |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Early SP Artillery |  |  |  |  | 4 | 2 | 3 | 3 | \-5 |  | 6 | 70 | 2 |  | 1.3 | 1 |  |  | 0.5 | 1.0 |  |  |  |  |
 | Basic SP Artillery |  |  |  |  | 5 | 2 | 4 | 4 | \-6 |  | 7 | 70 | 2 |  | 1.4 | 1 |  |  | 0.5 | 1.0 |  |  |  |  |
@@ -442,12 +332,7 @@ power | Max Speed | Supply Cons. | Fuel Cons. | Supp. | Transp. Weight | Upgrade
 
 SP, or Self-Propelled, Rocket Artillery gives your armored and mechanized units added capability against soft units such as infantry. They are very effective against enemy infantry, and do not reduce the speed of your fast units like normal rocket artillery.
 
-| Model | Default ORG | Morale | Air Attack | Air Def. | Soft Attack | Hard Attack | Tough-  
-ness | Defens-  
-iveness | Soft-  
-ness |  | Cost | Build-  
-time | Man-  
-power | Max Speed | Supply Cons. | Fuel Cons. | Supp. | Transp. Weight | Upgrade Time Factor | Upgrade Cost Factor | Speed Cap Art | Speed Cap Eng | Speed Cap AT | Speed Cap AA |
+| Model | Default ORG | Morale | Air Attack | Air Def. | Soft Attack | Hard Attack | Tough-ness | Defens-iveness | Soft-ness |  | Cost | Build-time | Man-power | Max Speed | Supply Cons. | Fuel Cons. | Supp. | Transp. Weight | Upgrade Time Factor | Upgrade Cost Factor | Speed Cap Art | Speed Cap Eng | Speed Cap AT | Speed Cap AA |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Basic SP Rct Artillery |  |  |  |  | 5 | 1 | 4 | 4 | \-6 |  | 6 | 60 | 2 |  | 1.5 | 1 |  |  | 0.5 | 1.0 |  |  |  |  |
 | Improved SP Rct Artillery |  |  |  |  | 6 | 1 | 4 | 4 | \-7 |  | 7 | 60 | 2 |  | 1.5 | 1 |  |  | 0.5 | 1.0 |  |  |  |  |
@@ -457,12 +342,7 @@ power | Max Speed | Supply Cons. | Fuel Cons. | Supp. | Transp. Weight | Upgrade
 
 Super Heavy Armor is the ultimate shock weapon. Nearly impossible to kill, they give horrendous bonuses to your units' hard and soft attack values. They also consume enormous amounts of supplies and fuel, and slow your units to a crawl.
 
-| Model | Default ORG | Morale | Air Attack | Air Def. | Soft Attack | Hard Attack | Tough-  
-ness | Defens-  
-iveness | Soft-  
-ness |  | Cost | Build-  
-time | Man-  
-power | Max Speed | Supply Cons. | Fuel Cons. | Supp. | Transp. Weight | Upgrade Time Factor | Upgrade Cost Factor | Speed Cap Art | Speed Cap Eng | Speed Cap AT | Speed Cap AA |
+| Model | Default ORG | Morale | Air Attack | Air Def. | Soft Attack | Hard Attack | Tough-ness | Defens-iveness | Soft-ness |  | Cost | Build-time | Man-power | Max Speed | Supply Cons. | Fuel Cons. | Supp. | Transp. Weight | Upgrade Time Factor | Upgrade Cost Factor | Speed Cap Art | Speed Cap Eng | Speed Cap AT | Speed Cap AA |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Super–Heavy Tank |  |  |  |  | 7 | 8 | 2 | 8 | \-20 |  | 10 | 120 | 2 | \-4 | 1.5 | 5 |  |  | 0.5 | 1.0 |  |  |  |  |
 
@@ -470,12 +350,7 @@ power | Max Speed | Supply Cons. | Fuel Cons. | Supp. | Transp. Weight | Upgrade
 
 Tank Destroyers are similar to normal Tanks. The difference is that they don't have a rotating turret, and mount most of their armor to the front. They give your units an added capability against hard targets such as enemy armor.
 
-| Model | Default ORG | Morale | Air Attack | Air Def. | Soft Attack | Hard Attack | Tough-  
-ness | Defens-  
-iveness | Soft-  
-ness |  | Cost | Build-  
-time | Man-  
-power | Max Speed | Supply Cons. | Fuel Cons. | Supp. | Transp. Weight | Upgrade Time Factor | Upgrade Cost Factor | Speed Cap Art | Speed Cap Eng | Speed Cap AT | Speed Cap AA |
+| Model | Default ORG | Morale | Air Attack | Air Def. | Soft Attack | Hard Attack | Tough-ness | Defens-iveness | Soft-ness |  | Cost | Build-time | Man-power | Max Speed | Supply Cons. | Fuel Cons. | Supp. | Transp. Weight | Upgrade Time Factor | Upgrade Cost Factor | Speed Cap Art | Speed Cap Eng | Speed Cap AT | Speed Cap AA |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Early Tank Destroyer |  |  |  |  |  | 2 | 1 | 1 | \-5 |  | 7 | 70 | 2 |  | 0.5 | 1 |  |  | 0.5 | 1.0 |  |  |  |  |
 | Basic Tank Destroyer |  |  |  |  |  | 3 | 2 | 2 | \-6 |  | 7 | 70 | 2 |  | 0.6 | 1 |  |  | 0.5 | 1.0 |  |  |  |  |
