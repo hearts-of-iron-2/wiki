@@ -6,7 +6,7 @@ type Props = {
 const Layout = ({ preview, children }: Props) => {
   return (
     <>
-      <div className="min-h-screen max-h-screen">
+      <div className="min-h-screen max-h-screen h-screen">
         <main>{children}</main>
       </div>
     </>
