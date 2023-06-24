@@ -8,5 +8,5 @@ module.exports = {
       },
     ];
   },
-  output: "out",
+  distDir: "out",
 };
