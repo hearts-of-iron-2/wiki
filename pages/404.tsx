@@ -1,12 +1,17 @@
 import { getPostSlugs } from "../lib/api";
 import PostSearch from "../components/post-search";
+import Layout from "../components/layout";
 
 type Props = {
   articles: string[];
 };
 
 const NotFound = ({ articles }: Props) => {
-  return <PostSearch articles={articles} />;
+  return (
+    <Layout>
+      <PostSearch articles={articles} />
+    </Layout>
+  );
 };
 
 export async function getStaticProps() {
