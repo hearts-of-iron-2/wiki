@@ -1,7 +1,3 @@
----
-title: "Other_mineral_production_by_country"
----
-
 Source: Edgar Mowrer & Marthe Raichman, Global War : An Atlas of World
 Strategy.
 
@@ -75,21 +71,21 @@ Strategy.
 
 #####    Tungsten production (\~ May 1942) 
 
-|                                     |                      |
-|-------------------------------------|----------------------|
-|                                     | Share of world total |
-| China                               | 38%                  |
-| USA                                 | 8%                   |
-| Bolivia                             | 5%                   |
-| Other South America                 | 5%                   |
-| Other Allied                        | 9%                   |
-| Burma                               | 13%                  |
-| Korea                               | 4%                   |
-| Portugal                            | 6%                   |
-| Malaya                              | 3%                   |
-| [Indochina](/Indochina "Indochina") | 1%                   |
-| Thailand                            | .5%                  |
-| Other (Axis)                        | 5%                   |
+|                                          |                      |
+|------------------------------------------|----------------------|
+|                                          | Share of world total |
+| China                                    | 38%                  |
+| USA                                      | 8%                   |
+| Bolivia                                  | 5%                   |
+| Other South America                      | 5%                   |
+| Other Allied                             | 9%                   |
+| Burma                                    | 13%                  |
+| Korea                                    | 4%                   |
+| Portugal                                 | 6%                   |
+| Malaya                                   | 3%                   |
+| [Indochina](/wiki/Indochina "Indochina") | 1%                   |
+| Thailand                                 | .5%                  |
+| Other (Axis)                             | 5%                   |
 
   
 

@@ -1,12 +1,8 @@
----
-title: "Apocalypse"
----
-
 ***Apocalypse*** is a set of mini-mods for Arsenal of Democracy
-expanding the [Armageddon](/Armageddon "Armageddon") Scenarios with a
-later start date, allowing the players to jump straight into the action
-with the new motorized and mechanized troops and generally a greater
-variety of units. The start situations are more balanced and the
+expanding the [Armageddon](/wiki/Armageddon "Armageddon") Scenarios with
+a later start date, allowing the players to jump straight into the
+action with the new motorized and mechanized troops and generally a
+greater variety of units. The start situations are more balanced and the
 gameplay is much faster and more aggressive (at least that's one of the
 developing goals).
 
@@ -37,6 +33,6 @@ Even on "normal" it usually takes less than a year until the wars start.
 
 ###  **Download** 
 
-[File:Apocalypse42.zip](/index.php?title=Special:Upload&wpDestFile=Apocalypse42.zip "File:Apocalypse42.zip")
+[File:Apocalypse42.zip](/wiki/index.php?title=Special:Upload&wpDestFile=Apocalypse42.zip "File:Apocalypse42.zip")
 
-[File:Apocalypse45.zip](/index.php?title=Special:Upload&wpDestFile=Apocalypse45.zip "File:Apocalypse45.zip")
+[File:Apocalypse45.zip](/wiki/index.php?title=Special:Upload&wpDestFile=Apocalypse45.zip "File:Apocalypse45.zip")

@@ -1,8 +1,4 @@
----
-title: "Effective_Use_of_Airpower"
----
-
-[Template:Anthology](/index.php?title=Template:Anthology&action=edit&redlink=1 "Template:Anthology (page does not exist)")
+[Template:Anthology](/wiki/index.php?title=Template:Anthology&action=edit&redlink=1 "Template:Anthology (page does not exist)")
 
 ## Contents
 
@@ -37,24 +33,25 @@ air force will not be effective.
 There are four types of bombers in HOI2:
 
 -   [Tactical
-    Bombers](/index.php?title=Tactical_Bomber&action=edit&redlink=1 "Tactical Bomber (page does not exist)")
+    Bombers](/wiki/index.php?title=Tactical_Bomber&action=edit&redlink=1 "Tactical Bomber (page does not exist)")
     (TAC)
 -   [Strategic
-    Bombers](/index.php?title=Strategic_Bomber&action=edit&redlink=1 "Strategic Bomber (page does not exist)")
+    Bombers](/wiki/index.php?title=Strategic_Bomber&action=edit&redlink=1 "Strategic Bomber (page does not exist)")
     (STR)
--   [Naval Bombers](/Naval_Bomber "Naval Bomber") (NAV)
--   [Close Air Support](/Close_Air_Support "Close Air Support") (CAS)
+-   [Naval Bombers](/wiki/Naval_Bomber "Naval Bomber") (NAV)
+-   [Close Air Support](/wiki/Close_Air_Support "Close Air Support")
+    (CAS)
 
 There are three types of fighters in HOI2:
 
--   [Fighters](/Fighter "Fighter") (FTR)
--   [Escort Fighters](/Escort_Fighter "Escort Fighter") (ESC)
--   [Interceptors](/Interceptor "Interceptor") (INT)
+-   [Fighters](/wiki/Fighter "Fighter") (FTR)
+-   [Escort Fighters](/wiki/Escort_Fighter "Escort Fighter") (ESC)
+-   [Interceptors](/wiki/Interceptor "Interceptor") (INT)
 
 Finally, in a category of its own, there is the [Transport
-Planes](/index.php?title=Transport_Plane&action=edit&redlink=1 "Transport Plane (page does not exist)")
+Planes](/wiki/index.php?title=Transport_Plane&action=edit&redlink=1 "Transport Plane (page does not exist)")
 (TRA). For technology requirements for these, see the
-[Aircraft_Tech_Tree](/Aircraft_Tech_Tree "Aircraft Tech Tree") .
+[Aircraft_Tech_Tree](/wiki/Aircraft_Tech_Tree "Aircraft Tech Tree") .
 
 ###  Version Changes 
 

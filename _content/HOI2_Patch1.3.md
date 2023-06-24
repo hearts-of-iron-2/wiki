@@ -1,7 +1,3 @@
----
-title: "HOI2_Patch1.3"
----
-
 Hearts of Iron 2 patch 1.3 ^([\[1\]](#cite_note-1)) was released on
 2005-11-11.
 
@@ -874,7 +870,8 @@ Hearts of Iron 2 patch 1.3 ^([\[1\]](#cite_note-1)) was released on
 -   Nomonhan Incident (event 22) now has a small chance the Japanese AI
     will delcare war on the USSR
 -   Reworked the Surrender of Japan events a tiny bit. They should now
-    properly cede [Indochina](/Indochina "Indochina") to France again.
+    properly cede [Indochina](/wiki/Indochina "Indochina") to France
+    again.
 -   Edited the badly used add_corps and add_division commands in the
     Operation Zet event(s).
 -   There now is a nice event series concerning peace between China and

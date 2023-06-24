@@ -1,7 +1,3 @@
----
-title: "Manchukuo"
----
-
 ## Contents
 
 -   [ 1 Provinces ](#Provinces)
@@ -43,13 +39,13 @@ title: "Manchukuo"
 #  Technical Details 
 
 -   TAG =\>
-    [MAN](/index.php?title=MAN&action=edit&redlink=1 "MAN (page does not exist)")
+    [MAN](/wiki/index.php?title=MAN&action=edit&redlink=1 "MAN (page does not exist)")
 
 #  Events 
 
 #  Scenerios 
 
-[Manchukuo strategy](/Manchukuo_strategy "Manchukuo strategy")
+[Manchukuo strategy](/wiki/Manchukuo_strategy "Manchukuo strategy")
 
 ##  1936 
 

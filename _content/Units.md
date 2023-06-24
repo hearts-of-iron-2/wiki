@@ -1,13 +1,9 @@
----
-title: "Units"
----
-
 [TABLE]
 
   
 **Units** refers to military units in the game. There are three types of
-units: [air units](/Air_units "Air units") , [naval
-units](/Naval_units "Naval units") and [land
-units](/Land_units "Land units") .
+units: [air units](/wiki/Air_units "Air units") , [naval
+units](/wiki/Naval_units "Naval units") and [land
+units](/wiki/Land_units "Land units") .
 
-See also: [Unit FAQ](/Unit_FAQ "Unit FAQ")
+See also: [Unit FAQ](/wiki/Unit_FAQ "Unit FAQ")

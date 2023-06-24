@@ -1,7 +1,3 @@
----
-title: "Modding_inc_files"
----
-
 Like all modding - **Make Backups**
 
 Okay, now on to the .inc files. For the purposes of this page, I'll be
@@ -216,5 +212,5 @@ useful, I'll edit this. And feel free to edit this yourself. I know
 there are things I've missed. Hope this helps!
 
 --
-[Tux](/index.php?title=User:Tux_the_Penguin&action=edit&redlink=1 "User:Tux the Penguin (page does not exist)")
+[Tux](/wiki/index.php?title=User:Tux_the_Penguin&action=edit&redlink=1 "User:Tux the Penguin (page does not exist)")
 03:46, 5 May 2005 (CEST)

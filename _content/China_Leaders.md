@@ -1,7 +1,3 @@
----
-title: "China_Leaders"
----
-
 ## Contents
 
 -   [ 1 Nationalist China ](#Nationalist_China)
@@ -162,7 +158,7 @@ title: "China_Leaders"
 -   [ 8 Tibet ](#Tibet)
 -   [ 9 Sources ](#Sources)
 
-#  [![Chi.gif](/images/b/be/Chi.gif)](/File:Chi.gif) Nationalist China 
+#  [![Chi.gif](/images/b/be/Chi.gif)](/wiki/File:Chi.gif) Nationalist China 
 
 ##  unplaced as of yet 
 
@@ -1129,7 +1125,7 @@ and equipped armies of the pre-Nationalist era.
 
 -   army which was shipped from Haiphong of Vietnam during civil war
 
-#  [![Chc.gif](/images/0/01/Chc.gif)](/File:Chc.gif) Communist China 
+#  [![Chc.gif](/images/0/01/Chc.gif)](/wiki/File:Chc.gif) Communist China 
 
 ####  Zhang Guotao 
 

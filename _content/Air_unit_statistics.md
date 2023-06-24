@@ -1,7 +1,3 @@
----
-title: "Air_unit_statistics"
----
-
 ## Contents
 
 -   [ 1 HOI v 1.0 - 1.3 ](#HOI_v_1.0_-_1.3)
@@ -22,7 +18,7 @@ title: "Air_unit_statistics"
 
 ###  Air Units 
 
-####  [Close Air Support](/Close_Air_Support "Close Air Support") 
+####  [Close Air Support](/wiki/Close_Air_Support "Close Air Support") 
 
 Close Air Support is the key to the blitzkrieg tactic. These planes have
 the ability to strike precisely at enemy units, enabling your ground
@@ -31,7 +27,7 @@ this makes them an easy target for enemy fighters.
 
 [TABLE]
 
-####  [Escort Fighters](/Escort_Fighters "Escort Fighters") 
+####  [Escort Fighters](/wiki/Escort_Fighters "Escort Fighters") 
 
 Escort Fighters are long-range fighters, designed to escort bombers and
 keep enemy interceptors from the bombers. They are drilled in tactics to
@@ -44,7 +40,7 @@ Superiority missions, they are less effective.
     A major change in HOI2:DD is that Escort fighters are brigade type units attached to bombers.
     This results in better values for the bomber when intercepted by enemy planes, but also a lower range.
 
-####  [Fighters](/Fighters "Fighters") 
+####  [Fighters](/wiki/Fighters "Fighters") 
 
 Fighters are the backbone of any air force. The have moderate range,
 have the best air attack capability (without bonuses), and can be
@@ -65,7 +61,7 @@ can also be effective against soft targets, but to a lesser extent.
 
 [TABLE]
 
-####  [Flying Bomb](/Flying_Bomb "Flying Bomb") 
+####  [Flying Bomb](/wiki/Flying_Bomb "Flying Bomb") 
 
 The Flying Bomb (e.g. the German V1) is a pilotless aircraft powered by
 an early jet engine, designed to deliver a payload of explosives to an
@@ -74,7 +70,7 @@ can be intercepted and shot down by enemy fighters.
 
 [TABLE]
 
-####  [Interceptors](/Interceptors "Interceptors") 
+####  [Interceptors](/wiki/Interceptors "Interceptors") 
 
 Interceptors are short-range fighters designed to destroy enemy bombers.
 They have high speed and good manouverability to make them agile enough
@@ -89,7 +85,7 @@ are less effective yet they still put up a good fight.
 
   
 
-####  [Naval Bomber](/Naval_Bomber "Naval Bomber") 
+####  [Naval Bomber](/wiki/Naval_Bomber "Naval Bomber") 
 
 The Naval Bomber is designed for use over water and make accurate
 tactical strikes against enemy surface vessels using torpedoes or
@@ -98,7 +94,7 @@ which makes them vulnerable if intercepted by fighters.
 
 [TABLE]
 
-####  [Strategic Bombers](/Strategic_Bombers "Strategic Bombers") 
+####  [Strategic Bombers](/wiki/Strategic_Bombers "Strategic Bombers") 
 
 Strategic Bombers are the heaviest type of aircraft, designed to deliver
 a large payload of bombs to enemy provinces, with the aim of crippling
@@ -108,7 +104,7 @@ vulnerable to attack by fighters.
 
 [TABLE]
 
-####  [Strategic Rocket](/Strategic_Rocket "Strategic Rocket") 
+####  [Strategic Rocket](/wiki/Strategic_Rocket "Strategic Rocket") 
 
 The Rocket or Ballistic Missile (e.g. the German V2) is designed to
 deliver a payload of explosives to a distant target. Its high speed
@@ -118,7 +114,7 @@ needed to give it more than psychological effect.
 
 [TABLE]
 
-####  [Tactical Bombers](/Tactical_Bombers "Tactical Bombers") 
+####  [Tactical Bombers](/wiki/Tactical_Bombers "Tactical Bombers") 
 
 Tactical Bombers are medium-sized aircraft, larger than Fighters, yet
 smaller than Strategic Bombers, which are used primarily for delivering
@@ -130,7 +126,7 @@ capability, they can be easily outmatched by Fighters in air combat.
 
 [TABLE]
 
-####  [Transport Planes](/Transport_Planes "Transport Planes") 
+####  [Transport Planes](/wiki/Transport_Planes "Transport Planes") 
 
 Transport Planes are designed to ferry men and materials over long
 distances quickly. Paratroops need Transport Planes in order to make a
@@ -141,6 +137,6 @@ paradrop.
 ##  Doomsday 1.0 - 1.3 
 
 Available as a PDF file: [Air Unit
-Statistics](/index.php?title=Special:Upload&wpDestFile=UnitStats_DD12_Air.pdf "UnitStats DD12 Air.pdf")
+Statistics](/wiki/index.php?title=Special:Upload&wpDestFile=UnitStats_DD12_Air.pdf "UnitStats DD12 Air.pdf")
 . Also, a complete Excel file is available: [DD UnitStats v1.2 Excel
 File](http://joe-s.home.insightbb.com/hoi2dd.htm)

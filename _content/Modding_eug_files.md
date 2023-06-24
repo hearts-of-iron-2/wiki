@@ -1,7 +1,3 @@
----
-title: "Modding_eug_files"
----
-
 ## Contents
 
 -   [ 1 Introduction ](#Introduction)
@@ -135,8 +131,8 @@ alliances, and when the scenario starts and finishes.
 
 The *startdate* field defines when the scenario begins and the *enddate*
 field when the scenario ends. Unless you have installed a [no-time limit
-patch](/Utilities "Utilities") , these can only be between January 1st
-1936 and December 30th 1947.
+patch](/wiki/Utilities "Utilities") , these can only be between January
+1st 1936 and December 30th 1947.
 
 Below those you should see the *allies* , *axis* , and *comintern*
 fields. By adding tags inbetween the sets or brackets, you can add new

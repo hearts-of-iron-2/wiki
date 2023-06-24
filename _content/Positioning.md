@@ -1,8 +1,4 @@
----
-title: "Positioning"
----
-
-[Template:Anthology](/index.php?title=Template:Anthology&action=edit&redlink=1 "Template:Anthology (page does not exist)")
+[Template:Anthology](/wiki/index.php?title=Template:Anthology&action=edit&redlink=1 "Template:Anthology (page does not exist)")
 
 ###  Positioning 
 
@@ -120,27 +116,31 @@ it became possible for an SAG with CVLs to close distance.
 **Combat Range** in Naval battles has an optimal value. This value is
 believed to be calculated as described below
 
--   [CV](/CV "CV") is the highest class in calculating optimal range.
--   [Capital Ship](/Capital_Ship "Capital Ship") or [CVL](/CVL "CVL") is
-    the second highest class in calculating optimal range.
--   [Screen Ship](/Screen_Ship "Screen Ship") is the lowest class in
-    calulating optimal range.
+-   [CV](/wiki/CV "CV") is the highest class in calculating optimal
+    range.
+-   [Capital Ship](/wiki/Capital_Ship "Capital Ship") or
+    [CVL](/wiki/CVL "CVL") is the second highest class in calculating
+    optimal range.
+-   [Screen Ship](/wiki/Screen_Ship "Screen Ship") is the lowest class
+    in calulating optimal range.
 -   **Unique class's**
-    -   [Submarine](/Submarine "Submarine") ONLY fleets will attempt to
-        be at 90% of the maximum range of the shortest range submarine
-    -   [Transport](/Transport "Transport") ONLY fleets will attempt to
-        be at 450+ km and then flee.
+    -   [Submarine](/wiki/Submarine "Submarine") ONLY fleets will
+        attempt to be at 90% of the maximum range of the shortest range
+        submarine
+    -   [Transport](/wiki/Transport "Transport") ONLY fleets will
+        attempt to be at 450+ km and then flee.
 
 **Optimal Range** will always be **90%** of the **maximum** range of the
 **shortest** range of the **highest** ship class.
 
-i.e. If you have two [Capital Ship](/Capital_Ship "Capital Ship") 's in
-a fleet. One with a range of 30 and the other with a range of 28, the
-optimal range will be 90% of 28.
+i.e. If you have two [Capital Ship](/wiki/Capital_Ship "Capital Ship")
+'s in a fleet. One with a range of 30 and the other with a range of 28,
+the optimal range will be 90% of 28.
 
 *NOTE* , Range of a lower class is ignored. If you have a [Capital
-Ship](/Capital_Ship "Capital Ship") in a fleet with a range of 28 and
-the rest of the fleet is [Screen Ship](/Screen_Ship "Screen Ship") 's
-with ranges of 32 the optimal range will be 90% of the range of the
-[Capital Ship](/Capital_Ship "Capital Ship") (i.e. 90% of 28) The range
-of the [Screen Ship](/Screen_Ship "Screen Ship") 's is ignored.
+Ship](/wiki/Capital_Ship "Capital Ship") in a fleet with a range of 28
+and the rest of the fleet is [Screen
+Ship](/wiki/Screen_Ship "Screen Ship") 's with ranges of 32 the optimal
+range will be 90% of the range of the [Capital
+Ship](/wiki/Capital_Ship "Capital Ship") (i.e. 90% of 28) The range of
+the [Screen Ship](/wiki/Screen_Ship "Screen Ship") 's is ignored.

@@ -1,7 +1,3 @@
----
-title: "Modding_colorscales.csv"
----
-
 ## Contents
 
 -   [ 1 Introduction ](#Introduction)
@@ -75,7 +71,7 @@ Let's see what the Red used for the Soviet Union's values are:
 
 Which will produce this red:
 
-[File:Darkred.png](/index.php?title=Special:Upload&wpDestFile=Darkred.png "File:Darkred.png")
+[File:Darkred.png](/wiki/index.php?title=Special:Upload&wpDestFile=Darkred.png "File:Darkred.png")
 
 Notice that the first column of values are very high, from 76-255, while
 the values in the green column are all 0, and the value in the blue
@@ -97,7 +93,7 @@ line all has numbers above 170. When red, green and blue are all very
 high numbers, this produces a very light colour. Since blue is the
 highest, however, it will predominate:
 
-[File:Blue.png](/index.php?title=Special:Upload&wpDestFile=Blue.png "File:Blue.png")
+[File:Blue.png](/wiki/index.php?title=Special:Upload&wpDestFile=Blue.png "File:Blue.png")
 
 Another example will be brown, as found in Austria and Sinkiang:
 
@@ -116,7 +112,7 @@ produces a pale brown. Therefore at the edges of the province we expect
 to see a pronounced brown colour, while in the middle is a much more
 pale shade of brown:
 
-[File:Brown.png](/index.php?title=Special:Upload&wpDestFile=Brown.png "File:Brown.png")
+[File:Brown.png](/wiki/index.php?title=Special:Upload&wpDestFile=Brown.png "File:Brown.png")
 
 ##  Colour Palette 
 

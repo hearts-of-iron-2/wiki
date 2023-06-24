@@ -1,7 +1,3 @@
----
-title: "CORE"
----
-
 CORE is the Community Open Resource Exchange. CORE aims to make Hearts
 of Iron 2 a more historically accurate and involving game, through
 expanded and more detailed tech trees, corresponding units, tech teams
@@ -34,4 +30,5 @@ available, such as country-specific model graphics and tech imagery.
     1.2
 -   Last Update: July, 2009
 -   Popularity: *over 10,000 posts*
--   Compatibility: [HOI2, DD, ARMA](/Abbreviations#H "Abbreviations")
+-   Compatibility: [HOI2, DD,
+    ARMA](/wiki/Abbreviations#H "Abbreviations")

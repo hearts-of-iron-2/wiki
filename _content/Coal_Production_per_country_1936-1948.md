@@ -1,7 +1,3 @@
----
-title: "Coal_Production_per_country_1936 1948"
----
-
 Note that lignite has about 40% of the energy value of Hard Coal,
 Anthracite has about 10% more energy compared to normal Bituminous coal.
 Hard coal is in this case both Anthracite and Bituminous. These numbers

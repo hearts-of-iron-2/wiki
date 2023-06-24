@@ -1,16 +1,12 @@
----
-title: "Paradox_Interactive"
----
-
-This article is [timeless](/Category:Timeless "Category:Timeless") and
-should be accurate for any version of the game.
+This article is [timeless](/wiki/Category:Timeless "Category:Timeless")
+and should be accurate for any version of the game.
 
 [TABLE]
 
 **Paradox Interactive**
 
 *For wiki support please visit the [contact
-us](/index.php?title=Contact_us&action=edit&redlink=1 "Contact us (page does not exist)")
+us](/wiki/index.php?title=Contact_us&action=edit&redlink=1 "Contact us (page does not exist)")
 page.*  
 
 **Paradox** Interactive is a Swedish video game publisher based in

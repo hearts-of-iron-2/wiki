@@ -1,7 +1,3 @@
----
-title: "EIR"
----
-
 ##    **The East is Red -- Goering's Delay** 
 
 *The East is Red -- Goering's Delay is an evolution of a long term
@@ -51,7 +47,8 @@ losing the main lines of the historical event train* .
     Ederon's](http://forums.ederon.net/default.aspx?g=topics&f=55)
 -   Current Version: Goering's Delay 1936 Scenario for HOI2 DDA 1.3b
 -   Last Update: October, 2009
--   Compatibility: [HOI2, DD, ARMA](/Abbreviations#H "Abbreviations")
+-   Compatibility: [HOI2, DD,
+    ARMA](/wiki/Abbreviations#H "Abbreviations")
 -   EIR "Q&A": [Answers to "WTF is with these TP's?" and other
     questions.](http://forums.ederon.net/default.aspx?g=posts&t=1707EIR:)
 

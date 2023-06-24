@@ -1,8 +1,4 @@
----
-title: "Germany_Early_Annexations"
----
-
-[Template:GermanyStrategyGuides](/index.php?title=Template:GermanyStrategyGuides&action=edit&redlink=1 "Template:GermanyStrategyGuides (page does not exist)")
+[Template:GermanyStrategyGuides](/wiki/index.php?title=Template:GermanyStrategyGuides&action=edit&redlink=1 "Template:GermanyStrategyGuides (page does not exist)")
 
 ## Contents
 
@@ -21,7 +17,7 @@ title: "Germany_Early_Annexations"
 
 Several nations around Germany can be annexed without provoking a DOW
 from the major powers in the [1936
-Scenario](/index.php?title=Germany_Strategy-_1936_Scenario&action=edit&redlink=1 "Germany Strategy- 1936 Scenario (page does not exist)")
+Scenario](/wiki/index.php?title=Germany_Strategy-_1936_Scenario&action=edit&redlink=1 "Germany Strategy- 1936 Scenario (page does not exist)")
 unless you are playing on the highest difficulty/aggression settings.
 
 -   Luxembourg is by far the easiest nation to annex early. It is a

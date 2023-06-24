@@ -1,7 +1,3 @@
----
-title: "Japan_Conquering_the_world_ _In_Very_Hard_difficulty_level"
----
-
 ## Contents
 
 -   [ 1 Japan Conquering the world - in Very Hard difficulty level
@@ -14,9 +10,9 @@ title: "Japan_Conquering_the_world_ _In_Very_Hard_difficulty_level"
     -   [ 1.6 Germany - or the Soviet Union
         ](#Germany_-_or_the_Soviet_Union)
 
-#  [Japan](/Japan "Japan") Conquering the world - in [Very Hard](/index.php?title=Very_Hard&action=edit&redlink=1 "Very Hard (page does not exist)") difficulty level 
+#  [Japan](/wiki/Japan "Japan") Conquering the world - in [Very Hard](/wiki/index.php?title=Very_Hard&action=edit&redlink=1 "Very Hard (page does not exist)") difficulty level 
 
-##  The conquest of the [USA](/USA "USA") 
+##  The conquest of the [USA](/wiki/USA "USA") 
 
 Have you noticed that poor USA has just 4+1 non-garrison divisions at
 1936, while Japan has more than 40? This means that you can gain about
@@ -38,24 +34,24 @@ there, conquering the US is quite easy, just have some 6-10 divisions in
 reserve for the time when USA deploys some 3-6 militias and infantry. By
 1937 summer, you can annex the USA.
 
-##  Next step: [America](/index.php?title=America&action=edit&redlink=1 "America (page does not exist)") 
+##  Next step: [America](/wiki/index.php?title=America&action=edit&redlink=1 "America (page does not exist)") 
 
 This is an easy task: just follow the coast, and use your navy wisely.
-You will conquer America (except [Canada](/Canada "Canada") ) by the end
-of 1938.
+You will conquer America (except [Canada](/wiki/Canada "Canada") ) by
+the end of 1938.
 
-##  A tough fight: [China](/index.php?title=China&action=edit&redlink=1 "China (page does not exist)") 
+##  A tough fight: [China](/wiki/index.php?title=China&action=edit&redlink=1 "China (page does not exist)") 
 
 When the [Marco Polo bridge
-incident](/index.php?title=Marco_Polo_bridge_incident&action=edit&redlink=1 "Marco Polo bridge incident (page does not exist)")
+incident](/wiki/index.php?title=Marco_Polo_bridge_incident&action=edit&redlink=1 "Marco Polo bridge incident (page does not exist)")
 triggers, choose fight. That 1 Interventionism level worths the loss of
-[Manchukuo](/Manchukuo "Manchukuo") and
-[Korea](/index.php?title=Korea&action=edit&redlink=1 "Korea (page does not exist)")
+[Manchukuo](/wiki/Manchukuo "Manchukuo") and
+[Korea](/wiki/index.php?title=Korea&action=edit&redlink=1 "Korea (page does not exist)")
 . As soon as you have researched Armor type III, build as much as you
 can. With your victorious army, and your newly deployed \>10 Armor
 divisions, you can defeat the Chinese by around early 1941.
 
-##  [Allies](/Allies "Allies") or [Comintern](/Comintern "Comintern") 
+##  [Allies](/wiki/Allies "Allies") or [Comintern](/wiki/Comintern "Comintern") 
 
 Now you must make a severe decision: either attack the Allies or Soviet
 Union. When I first tried this strategy, it was mid-1942 when I finished
@@ -70,7 +66,7 @@ divisions now. Instead, initiate operations in India and in the Middle
 East. There you can destroy the major part of UK army, and easily annex
 UK.
 
-##  [Germany](/Germany "Germany") - or the [Soviet Union](/Soviet_Union "Soviet Union") 
+##  [Germany](/wiki/Germany "Germany") - or the [Soviet Union](/wiki/Soviet_Union "Soviet Union") 
 
 Here comes the biggest fight: if the Soviet Union conquered Germany, she
 must have more than 600 divisions by now. Not a big problem though, for

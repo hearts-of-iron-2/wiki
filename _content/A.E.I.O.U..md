@@ -1,7 +1,3 @@
----
-title: "A.E.I.O.U."
----
-
 The end of the Great War brought with it the end of the age of
 monarchies. In Russia, Germany, Austria-Hungary, Turkey, and Serbia,
 ruling houses were overthrown and new governments installed in their

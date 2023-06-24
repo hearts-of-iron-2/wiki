@@ -1,7 +1,3 @@
----
-title: "Battle_mechanics_and_formulas"
----
-
 ## Contents
 
 -   [ 1 Evaluation of battle ](#Evaluation_of_battle)

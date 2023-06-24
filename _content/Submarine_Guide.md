@@ -1,8 +1,4 @@
----
-title: "Submarine_Guide"
----
-
-[Template:Anthology](/index.php?title=Template:Anthology&action=edit&redlink=1 "Template:Anthology (page does not exist)")
+[Template:Anthology](/wiki/index.php?title=Template:Anthology&action=edit&redlink=1 "Template:Anthology (page does not exist)")
 
 **Submarines** are a powerful unit in HOI2, which the AI finds very
 difficult to use. Some players consider optimal use of submarines to be
@@ -85,7 +81,7 @@ cruiser screens. Note that this is not true in Doomsday, where sub
 surface attack values have been nerfed and a convoy attack value has
 been added.
 
-##  Submarines in [Doomsday](/Doomsday "Doomsday") 
+##  Submarines in [Doomsday](/wiki/Doomsday "Doomsday") 
 
 Doomsday has seriously crippled the surface attack rating of submarines,
 and has introduced the convoy attack rating to offset this. The convoy
@@ -101,7 +97,7 @@ subs are engaged by a surface fleet. All in all, I have found Naval and
 Tac bombers (flying from Spain) to be a better option for convoy raiding
 in DD.
 
-##  Submarines in [Armageddon](/Armageddon "Armageddon") 
+##  Submarines in [Armageddon](/wiki/Armageddon "Armageddon") 
 
 ###  Version 1.1 
 
@@ -111,13 +107,13 @@ Functionality essentially unchanged from Doomsday.
 
 The Amageddon patch v1.2 changed submarine behavior from v1.1
 
--   Submarines do not remove [FOW](/FOW "FOW") in adjacent
-    [land](/index.php?title=Land&action=edit&redlink=1 "Land (page does not exist)")
+-   Submarines do not remove [FOW](/wiki/FOW "FOW") in adjacent
+    [land](/wiki/index.php?title=Land&action=edit&redlink=1 "Land (page does not exist)")
     areas
 -   Small units (1 to 3) of submarines *seem* more vulnerable.
 -   Large units (24+) of submarines *seem* more powerful.
 
-In reviewing [Combat range](/Combat_range "Combat range") it becomes
-apparent that submarines should be grouped into singular models.
+In reviewing [Combat range](/wiki/Combat_range "Combat range") it
+becomes apparent that submarines should be grouped into singular models.
 Combining different model submarines will result in the whole fleet
 attempting to fight at the range of the shortest range submarine.

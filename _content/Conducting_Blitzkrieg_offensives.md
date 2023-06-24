@@ -1,8 +1,4 @@
----
-title: "Conducting_Blitzkrieg_offensives"
----
-
-[Template:Anthology](/index.php?title=Template:Anthology&action=edit&redlink=1 "Template:Anthology (page does not exist)")
+[Template:Anthology](/wiki/index.php?title=Template:Anthology&action=edit&redlink=1 "Template:Anthology (page does not exist)")
 
 [TABLE]
 
@@ -111,8 +107,8 @@ mechanized infantry should be the backbone of your forces. Cavalry may
 look rubbish (and the game’s description makes it sound it, to boot),
 but it’s actually quite good as fast reinforcements for your tanks. HQs
 are essential; consult the excellent guide [HQ Units in
-Action](/HQ_Units_in_Action "HQ Units in Action") for their effects and
-deployment.
+Action](/wiki/HQ_Units_in_Action "HQ Units in Action") for their effects
+and deployment.
 
 Your air force should consist of a good number of close air support
 (CAS) and tactical bombers (TAC). They require escort fighters (ESC)!

@@ -1,27 +1,24 @@
----
-title: "General_Modding_FAQ"
----
-
 **Q** : What do I need to edit to make a new Country?  
 **A** : Making a new country from scratch is alot of work. First you
 would need to **Hearts of Iron 2\config\world_names.csv** and make
 change the entry for one of the userdefined countries (U00 - U19) to
 what you want your new country to be called. Now you take the tag for
 the country you just named and place it in the list of selectable
-nations in the [Scenario File](/Modding_eug_files "Modding eug files")
-you wish to use it in. Now you must make a [.inc
-File](/Modding_inc_files "Modding inc files") for that nation. You must
-also place an entry for that nation **Hearts of Iron 2\db\revolt.txt**
-that lists core provinces and the nations Capital. Finally you must
-place a sheild in **Hearts of Iron 2\GFX\map\shields** and a flag in
-**Hearts of Iron 2\GFX\map\flags**  
+nations in the [Scenario
+File](/wiki/Modding_eug_files "Modding eug files") you wish to use it
+in. Now you must make a [.inc
+File](/wiki/Modding_inc_files "Modding inc files") for that nation. You
+must also place an entry for that nation **Hearts of Iron
+2\db\revolt.txt** that lists core provinces and the nations Capital.
+Finally you must place a sheild in **Hearts of Iron 2\GFX\map\shields**
+and a flag in **Hearts of Iron 2\GFX\map\flags**  
   
 **Q** : What about Ministers and Leaders?  
 **A** : You must make a [Minister
-File](/Modding_minister_files "Modding minister files") and [Leader
-File](/Modding_leader_files "Modding leader files") for that country.
-Your tag is the User-Defined tag that you changed into your country in
-world_names.csv  
+File](/wiki/Modding_minister_files "Modding minister files") and [Leader
+File](/wiki/Modding_leader_files "Modding leader files") for that
+country. Your tag is the User-Defined tag that you changed into your
+country in world_names.csv  
   
 **Q** : Where do the pictures for events go?  
 **A** : Hearts of Iron 2\GFX\events_pics  
@@ -69,7 +66,7 @@ Mint-white.
 **Q** : I made an Event Picture/Minister Photo/Leader Photo and it's all
 streched out!  
 **A** : It's too big. See [Modding
-Graphics](/Modding_graphics "Modding graphics")  
+Graphics](/wiki/Modding_graphics "Modding graphics")  
   
 **Q** : How do you add a new unit type?  
 **A** : You don't. Unit types are hardcoded, apparently.

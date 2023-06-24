@@ -1,7 +1,3 @@
----
-title: "Light_aircraft_models_1939 1950"
----
-
 This page has the major power plane designs with their requirements.
 They are broken down by major power and year.
 

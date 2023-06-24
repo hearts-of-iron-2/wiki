@@ -1,8 +1,4 @@
----
-title: "Nuclear_Weapons"
----
-
-[Template:Anthology](/index.php?title=Template:Anthology&action=edit&redlink=1 "Template:Anthology (page does not exist)")
+[Template:Anthology](/wiki/index.php?title=Template:Anthology&action=edit&redlink=1 "Template:Anthology (page does not exist)")
 
 Nuclear weapons have been available in HOI2 since the game was first
 released. In the Doomsday expansion, Nukes became very noticeable in the
@@ -43,12 +39,12 @@ least **six reactor levels** . To help you with that, reactors can be
 built in only one province: so be sure to place your first reactor in
 the proper place. Each successive technology allows building one
 additional reactor level. More advanced reactors provide [research
-bonuses](/Research#Effect_of_Nuclear_Reactors "Research") . The "Nuclear
-Waste Bomb" secret technology enables a reactor size of 6, which is the
-minimum reactor size necessary for the production of nuclear weapons.
-This technology also enables the strategic bombardment mission "nuke".
-Reaching this stage requires an investment of 54,000 IC-days in reactor
-building.
+bonuses](/wiki/Research#Effect_of_Nuclear_Reactors "Research") . The
+"Nuclear Waste Bomb" secret technology enables a reactor size of 6,
+which is the minimum reactor size necessary for the production of
+nuclear weapons. This technology also enables the strategic bombardment
+mission "nuke". Reaching this stage requires an investment of 54,000
+IC-days in reactor building.
 
 Once your reactor has reached level six, nuclear bombs will be produced
 automatically. Hover the mouse cursor over the "Atom" symbol in the
@@ -189,7 +185,7 @@ difficult to cause 100% dissent (thus triggering civil war) through
 nuclear strikes.
 
 [Top Ten Nuclear
-Targets](/index.php?title=Special:Upload&wpDestFile=Nuke-targets.png "File:Nuke-targets.png")
+Targets](/wiki/index.php?title=Special:Upload&wpDestFile=Nuke-targets.png "File:Nuke-targets.png")
 
   
 
@@ -229,9 +225,9 @@ Nukes based on rockets such as the ICBM *cannot be defended against* .
 ##  Game shortfalls 
 
 HOI2 modeling of nuclear weapons is not perfect, and it is one of
-several notable [AI flaws](/AI_Behaviour#Weaknesses "AI Behaviour") . In
-particular, the AI reacts so poorly to the use of nuclear weapons that
-many consider their use gamey:
+several notable [AI flaws](/wiki/AI_Behaviour#Weaknesses "AI Behaviour")
+. In particular, the AI reacts so poorly to the use of nuclear weapons
+that many consider their use gamey:
 
 -   Non-use: The AI usually will not research/build nuclear weapons.
     This is particularly ahistorical. The AI will only use them in the

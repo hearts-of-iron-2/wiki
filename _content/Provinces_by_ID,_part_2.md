@@ -1,12 +1,8 @@
----
-title: "Provinces_by_ID,_part_2"
----
-
 This overview shows provinces with IDs ranging from **850** to **1699**
 sorted numerically. Continued in [Part 3 ( **1700** to
-**2601**](/Provinces_by_ID,_part_3 "Provinces by ID, part 3") , Lower ID
-in [Part 1 ( **1** to **849**
-)](/Provinces_by_ID,_part_1 "Provinces by ID, part 1")
+**2601**](/wiki/Provinces_by_ID,_part_3 "Provinces by ID, part 3") ,
+Lower ID in [Part 1 ( **1** to **849**
+)](/wiki/Provinces_by_ID,_part_1 "Provinces by ID, part 1")
 
 ## Contents
 

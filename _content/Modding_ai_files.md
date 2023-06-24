@@ -1,7 +1,3 @@
----
-title: "Modding_ai_files"
----
-
 ##    Hints & Warnings 
 
 An ai file does not need to include all variables. Only the variables

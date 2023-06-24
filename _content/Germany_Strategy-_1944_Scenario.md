@@ -1,8 +1,4 @@
----
-title: "Germany_Strategy _1944_Scenario"
----
-
-[Template:GermanyStrategyGuides](/index.php?title=Template:GermanyStrategyGuides&action=edit&redlink=1 "Template:GermanyStrategyGuides (page does not exist)")
+[Template:GermanyStrategyGuides](/wiki/index.php?title=Template:GermanyStrategyGuides&action=edit&redlink=1 "Template:GermanyStrategyGuides (page does not exist)")
 
 ## Contents
 

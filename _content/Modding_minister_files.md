@@ -1,7 +1,3 @@
----
-title: "Modding_minister_files"
----
-
 ## Contents
 
 -   [ 1 Introduction ](#Introduction)
@@ -157,7 +153,7 @@ Example:
 This is the trait the minister has, Here you assign them what trait you
 think best fits them(or not). Below is a list of traits, You can find
 their effects on the wiki:
-[Minister_Traits](/Minister_Traits "Minister Traits")
+[Minister_Traits](/wiki/Minister_Traits "Minister Traits")
 
 Head of state Example:
 

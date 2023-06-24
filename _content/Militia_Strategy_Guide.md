@@ -1,14 +1,10 @@
----
-title: "Militia_Strategy_Guide"
----
-
-[Template:Anthology](/index.php?title=Template:Anthology&action=edit&redlink=1 "Template:Anthology (page does not exist)")
+[Template:Anthology](/wiki/index.php?title=Template:Anthology&action=edit&redlink=1 "Template:Anthology (page does not exist)")
 At first glance, the [Militia
-Division](/Militia_Division "Militia Division") seems to be a worthless
-unit. When comparing the statistics of Militia to any other land unit,
-they are clearly inferior. Yet, Militia is so valuable and important to
-your army that every nation in the game should use Militia when they are
-able to do so.
+Division](/wiki/Militia_Division "Militia Division") seems to be a
+worthless unit. When comparing the statistics of Militia to any other
+land unit, they are clearly inferior. Yet, Militia is so valuable and
+important to your army that every nation in the game should use Militia
+when they are able to do so.
 
 ## Contents
 
@@ -47,17 +43,18 @@ combat unit, it "should" cost more, right? Yet, combat isn't only about
 statistics! In particular, there is more to combat in HOI2 than attack
 ratings, and this will be explained in detail by the following analysis.
 Further comparison is available at
-[Ground_unit_statistics](/Ground_unit_statistics "Ground unit statistics")
+[Ground_unit_statistics](/wiki/Ground_unit_statistics "Ground unit statistics")
 .
 
 ###  Value 
 
 Considering that every unit in game requires: "IC to build x Days to
-build", also known as [IC days](/IC_days "IC days") (ICd), consider the
-following scenario. You are a nation with 22 IC available for production
-and you need to build an army. How do you get the most army for your
-production? What will you build over the next 3 months? Considering this
-time frame and the IC you are using, this equates to 2,000 ICd.
+build", also known as [IC days](/wiki/IC_days "IC days") (ICd), consider
+the following scenario. You are a nation with 22 IC available for
+production and you need to build an army. How do you get the most army
+for your production? What will you build over the next 3 months?
+Considering this time frame and the IC you are using, this equates to
+2,000 ICd.
 
 According to the [findings made by
 Theokrat](http://forum.paradoxplaza.com/forum/showthread.php?t=296740) ,
@@ -154,11 +151,11 @@ their capabilities to turn out units because of limited IC, rather than
 limited manpower.
 
 States which will always fall in this category are the [Soviet
-Union](/Soviet_Union "Soviet Union") , the Chinese states (cliques,
-[Nationalist China](/Nationalist_China "Nationalist China") and
-[Communist China](/Communist_China "Communist China") ),
-[Japan](/Japan "Japan") and minor powers like [Brazil](/Brazil "Brazil")
-.
+Union](/wiki/Soviet_Union "Soviet Union") , the Chinese states (cliques,
+[Nationalist China](/wiki/Nationalist_China "Nationalist China") and
+[Communist China](/wiki/Communist_China "Communist China") ),
+[Japan](/wiki/Japan "Japan") and minor powers like
+[Brazil](/wiki/Brazil "Brazil") .
 
 States which will fall under this category if their slider settings
 (Hawk), research (Agriculture) and cabinet choices (ministers which

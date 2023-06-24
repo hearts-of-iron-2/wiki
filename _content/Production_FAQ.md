@@ -1,7 +1,3 @@
----
-title: "Production_FAQ"
----
-
 #  Production 
 
 ###    Why doesn't the build time/cost change when I change ministers or research a new tech? 
@@ -16,4 +12,4 @@ change.
 ###    Why do I have a red number in my factory information display? 
 
 A red number indicates you have some [wasted industrial
-capacity](/Wasted_IC "Wasted IC") .
+capacity](/wiki/Wasted_IC "Wasted IC") .

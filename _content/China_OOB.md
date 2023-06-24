@@ -1,7 +1,3 @@
----
-title: "China_OOB"
----
-
 [TABLE]
 
   
@@ -11,7 +7,7 @@ Organization](http://forum.paradoxplaza.com/forum/showthread.php?t=410861)
 in China](http://www.tecom.usmc.mil/utm/kogun.txt) [Interview with Zhang
 Xueliang](http://www.sinorama.com.tw/en/show_issue.php3?id=1997128612137E.TXT&page=1)
 
-[China 1927-1937](/China_1927-1937 "China 1927-1937")
+[China 1927-1937](/wiki/China_1927-1937 "China 1927-1937")
 
 ## Contents
 
@@ -906,7 +902,7 @@ total of 105 fighters plus 30 medium and 12 heavy bombers
     -   defeat the enemy air forces utterly in China
     -   cripple all Japanese rail and river communications in China
     -   sweep Japanese shiping off the China seas between French
-        [Indochina](/Indochina "Indochina") and Korea
+        [Indochina](/wiki/Indochina "Indochina") and Korea
     -   commenced bombing the Japanese islands
 -   although he did not even receive the minimum supplies for which he
     asked, he nevertheless succeeded in realizing the better part of
@@ -1569,7 +1565,7 @@ capture in the "initial Japanese assault"
     Chinese divisions, however remained untouched. (3.151)
 
 [See China OOB Civil
-War](/See_China_OOB_Civil_War "See China OOB Civil War")
+War](/wiki/See_China_OOB_Civil_War "See China OOB Civil War")
 
 #  References 
 

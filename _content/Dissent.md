@@ -1,13 +1,10 @@
----
-title: "Dissent"
----
-
 Dissent is a value to show the unrest in your population. A dissent of
 0% means that you have no problems at all, while any other/higher value
 has negative impact on:
 
--   Partisan activity in conquered territory (and so [TC](/TC "TC") )
--   Effective [IC](/IC "IC") (and so [TC](/TC "TC") )
+-   Partisan activity in conquered territory (and so [TC](/wiki/TC "TC")
+    )
+-   Effective [IC](/wiki/IC "IC") (and so [TC](/wiki/TC "TC") )
 -   Combat
 
 The value rises when

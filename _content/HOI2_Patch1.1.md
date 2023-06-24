@@ -1,7 +1,3 @@
----
-title: "HOI2_Patch1.1"
----
-
 [TABLE]
 
   

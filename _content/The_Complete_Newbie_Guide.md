@@ -1,8 +1,4 @@
----
-title: "The_Complete_Newbie_Guide"
----
-
-[Template:Anthology](/index.php?title=Template:Anthology&action=edit&redlink=1 "Template:Anthology (page does not exist)")
+[Template:Anthology](/wiki/index.php?title=Template:Anthology&action=edit&redlink=1 "Template:Anthology (page does not exist)")
 
 ## Contents
 
@@ -19,18 +15,18 @@ title: "The_Complete_Newbie_Guide"
 
 ##  Game Versions 
 
-Hearts of Iron 2 has had many [versions](/Versioning "Versioning") . The
-original game is referred to as HoI2, or "vanilla" and was released in
-2005. This game had a series of patches that ended with version 1.3. An
-expansion pack called Doomsday or "DD" was released in 2006, and also
-had a series of patches that ended in version 1.3. Doomsday is a
-standalone and thus does not require the original HoI2 to be installed.
-Finally, [Armageddon](/Armageddon "Armageddon") or "ARMA", is a booster
-pack for Doomsday that was released in 2007, and has had a series of
-patches that have ended in version 1.2. Since early 2009, there is a
-1.3(beta) patch for Armageddon which fixes all known bugs and introduces
-a new espionage system. It is being developed by the community but with
-the blessing of Paradox.
+Hearts of Iron 2 has had many [versions](/wiki/Versioning "Versioning")
+. The original game is referred to as HoI2, or "vanilla" and was
+released in 2005. This game had a series of patches that ended with
+version 1.3. An expansion pack called Doomsday or "DD" was released in
+2006, and also had a series of patches that ended in version 1.3.
+Doomsday is a standalone and thus does not require the original HoI2 to
+be installed. Finally, [Armageddon](/wiki/Armageddon "Armageddon") or
+"ARMA", is a booster pack for Doomsday that was released in 2007, and
+has had a series of patches that have ended in version 1.2. Since early
+2009, there is a 1.3(beta) patch for Armageddon which fixes all known
+bugs and introduces a new espionage system. It is being developed by the
+community but with the blessing of Paradox.
 
 Armageddon is the latest game version and includes all features of the
 previous two. In the Anthology pack, Armageddon is a standalone (and
@@ -49,14 +45,15 @@ most sense for your learning style.
     Armageddon.
 -   Battle Scenarios: These are good for limiting complexity, and
     learning the basics. The [Spanish Civil
-    War](/Spanish_Civil_War "Spanish Civil War") scenario which is a
-    fun, eventful little package that will introduce you to all the
+    War](/wiki/Spanish_Civil_War "Spanish Civil War") scenario which is
+    a fun, eventful little package that will introduce you to all the
     fundamentals.
 -   1936 campaign:
     -   For a peaceful, simple game of just the basics,
-        [Brazil](/Brazil_strategy "Brazil strategy") is a good choice.
-    -   For a start at war, [USSR](/USSR_strategy "USSR strategy") is an
-        excellent choice because it is possible to defeat Germany
+        [Brazil](/wiki/Brazil_strategy "Brazil strategy") is a good
+        choice.
+    -   For a start at war, [USSR](/wiki/USSR_strategy "USSR strategy")
+        is an excellent choice because it is possible to defeat Germany
         without much skill.
     -   As a general rule, trying to reverse history (German or Japanese
         victory) is more challenging gameplay than a victory with the
@@ -93,36 +90,36 @@ Available in HoI2, Doomsday:
 
 ###  Technology 
 
--   Always use as many [research slots](/Research_Slot "Research Slot")
-    as possible.
+-   Always use as many [research
+    slots](/wiki/Research_Slot "Research Slot") as possible.
 -   Avoid researching technologies whose historical year is in the
     future due to penalties to research time.
 -   Match the specialties of the selected tech team with whatever you
     intend to research.
--   See the [Research](/Research "Research") guide for more information
-    on how to maximize research.
+-   See the [Research](/wiki/Research "Research") guide for more
+    information on how to maximize research.
 
 ###  Production 
 
 -   Serial runs provide bonuses to time to complete due to the
-    [Gearing_Bonus](/Gearing_Bonus "Gearing Bonus") . Thus, a serial run
-    of 10 infantry is much quicker to produce, and is much easier to
-    manage as a player. Since cancelling an ongoing serial yields no
-    negative consequences, it is even feasible to order each build as a
-    99 serial and simply abort it once you've produced enough. That way
-    you'll get your builds done the quickest.
+    [Gearing_Bonus](/wiki/Gearing_Bonus "Gearing Bonus") . Thus, a
+    serial run of 10 infantry is much quicker to produce, and is much
+    easier to manage as a player. Since cancelling an ongoing serial
+    yields no negative consequences, it is even feasible to order each
+    build as a 99 serial and simply abort it once you've produced
+    enough. That way you'll get your builds done the quickest.
 
 ###  Diplomacy 
 
 -   Take a look at the [Domestic Policy
-    FAQ](/Domestic_Policy_FAQ "Domestic Policy FAQ") for advice on
+    FAQ](/wiki/Domestic_Policy_FAQ "Domestic Policy FAQ") for advice on
     changing your domestic policy sliders. There are definite directions
     you want to move your nation to accomplish certain goals.
 -   Examine your resource situation carefully, and if you are tight in
     anything, scour the world for trades to build up stockpiles in it.
-    Italy and [Japan](/Japan "Japan") have a particular need for this
-    monitoring. Once war starts your national trade with nations who are
-    non-neighbours will drop sharply in efficiency, so build up
+    Italy and [Japan](/wiki/Japan "Japan") have a particular need for
+    this monitoring. Once war starts your national trade with nations
+    who are non-neighbours will drop sharply in efficiency, so build up
     stockpiles while the world is at peace.
 
 ##  Military Basics 

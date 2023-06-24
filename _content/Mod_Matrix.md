@@ -1,7 +1,3 @@
----
-title: "Mod_Matrix"
----
-
 ## Contents
 
 -   [ 1 Overview ](#Overview)
@@ -22,33 +18,33 @@ armor for slower tanks, etc)).
 
 ##  WW2 Mods 
 
-|                                                                            |                   |                      |            |                    |                   |              |           |                |
-|----------------------------------------------------------------------------|-------------------|----------------------|------------|--------------------|-------------------|--------------|-----------|----------------|
-| Mod                                                                        | [GIP](/GIP "GIP") | [SKIF](/SKIF "SKIF") | AI Changes | Technology Changes | Territory Changes | Added Events | New Units | Game Mechanics |
-| [CORE](/CORE "CORE")                                                       | Yes               | Yes                  | Yes        | Yes                | No                | Yes          | Yes       | No             |
-| [Total Realism Project](/TRP "TRP")                                        | No                | No                   | Yes        | Yes                | ?                 | Yes          | ?         | ?              |
-| [Mod34](/Mod34 "Mod34")                                                    | Yes               | Yes                  | Yes        | Yes                | Yes               | Yes          | Yes       | No             |
-| [World in Flames](/WIF "WIF")                                              | Yes               | Yes                  | Yes        | Yes                | Yes               | Yes          | Yes       | Yes            |
-| [Historical Improvement](/Historical_Improvement "Historical Improvement") | No                | No                   | Yes        | Yes                | Yes               | Yes          | Yes       | No             |
-| [Stony Road](/Stony_Road "Stony Road")                                     | No                | No                   | Yes        | No                 | No                | Yes          | Yes       | Yes            |
+|                                                                                 |                        |                           |            |                    |                   |              |           |                |
+|---------------------------------------------------------------------------------|------------------------|---------------------------|------------|--------------------|-------------------|--------------|-----------|----------------|
+| Mod                                                                             | [GIP](/wiki/GIP "GIP") | [SKIF](/wiki/SKIF "SKIF") | AI Changes | Technology Changes | Territory Changes | Added Events | New Units | Game Mechanics |
+| [CORE](/wiki/CORE "CORE")                                                       | Yes                    | Yes                       | Yes        | Yes                | No                | Yes          | Yes       | No             |
+| [Total Realism Project](/wiki/TRP "TRP")                                        | No                     | No                        | Yes        | Yes                | ?                 | Yes          | ?         | ?              |
+| [Mod34](/wiki/Mod34 "Mod34")                                                    | Yes                    | Yes                       | Yes        | Yes                | Yes               | Yes          | Yes       | No             |
+| [World in Flames](/wiki/WIF "WIF")                                              | Yes                    | Yes                       | Yes        | Yes                | Yes               | Yes          | Yes       | Yes            |
+| [Historical Improvement](/wiki/Historical_Improvement "Historical Improvement") | No                     | No                        | Yes        | Yes                | Yes               | Yes          | Yes       | No             |
+| [Stony Road](/wiki/Stony_Road "Stony Road")                                     | No                     | No                        | Yes        | No                 | No                | Yes          | Yes       | Yes            |
 
 ##  Alternative WW2 
 
-|                                                                            |                   |                      |            |                    |                   |              |           |                |
-|----------------------------------------------------------------------------|-------------------|----------------------|------------|--------------------|-------------------|--------------|-----------|----------------|
-| Mod                                                                        | [GIP](/GIP "GIP") | [SKIF](/SKIF "SKIF") | AI Changes | Technology Changes | Territory Changes | Added Events | New Units | Game Mechanics |
-| [Kaiserreich](/Kaiserreich "Kaiserreich")                                  | Yes               | Yes                  | ?          | ?                  | Yes               | Yes          | ?         | ?              |
-| [Peace to end all Peace](/Peace_to_end_all_Peace "Peace to end all Peace") | No                | No                   | No         | No                 | Yes               | Yes          | No        | No             |
-| [A.E.I.O.U.](/A.E.I.O.U. "A.E.I.O.U.")                                     |                   |                      |            |                    |                   |              |           |                |
-| [Turtledove](/Turtledove "Turtledove")                                     |                   |                      |            |                    |                   |              |           |                |
+|                                                                                 |                        |                           |            |                    |                   |              |           |                |
+|---------------------------------------------------------------------------------|------------------------|---------------------------|------------|--------------------|-------------------|--------------|-----------|----------------|
+| Mod                                                                             | [GIP](/wiki/GIP "GIP") | [SKIF](/wiki/SKIF "SKIF") | AI Changes | Technology Changes | Territory Changes | Added Events | New Units | Game Mechanics |
+| [Kaiserreich](/wiki/Kaiserreich "Kaiserreich")                                  | Yes                    | Yes                       | ?          | ?                  | Yes               | Yes          | ?         | ?              |
+| [Peace to end all Peace](/wiki/Peace_to_end_all_Peace "Peace to end all Peace") | No                     | No                        | No         | No                 | Yes               | Yes          | No        | No             |
+| [A.E.I.O.U.](/wiki/A.E.I.O.U. "A.E.I.O.U.")                                     |                        |                           |            |                    |                   |              |           |                |
+| [Turtledove](/wiki/Turtledove "Turtledove")                                     |                        |                           |            |                    |                   |              |           |                |
 
 ##  Specific History 
 
-|                                                                            |                   |                      |            |                    |                   |              |           |                |
-|----------------------------------------------------------------------------|-------------------|----------------------|------------|--------------------|-------------------|--------------|-----------|----------------|
-| Mod                                                                        | [GIP](/GIP "GIP") | [SKIF](/SKIF "SKIF") | AI Changes | Technology Changes | Territory Changes | Added Events | New Units | Game Mechanics |
-| [Anatolian Wars](/Anatolian_Wars "Anatolian Wars")                         | No                | No                   | Yes        | No                 | Yes               | Yes          | No        | No             |
-| [China Improvement Pack](/China_Improvement_Pack "China Improvement Pack") |                   |                      |            |                    |                   |              |           |                |
-| [Confederate Armageddon](/Confederate_Armageddon "Confederate Armageddon") | No                | Yes                  | Yes        | No                 | Yes               | Yes          | No        | No             |
-| [Vietnam War](/Vietnam_War "Vietnam War")                                  | Yes               | No                   | Yes        | Yes                | Yes               | Yes          | Yes       | No             |
-| [WERS](/WERS "WERS")                                                       |                   |                      |            |                    |                   |              |           |                |
+|                                                                                 |                        |                           |            |                    |                   |              |           |                |
+|---------------------------------------------------------------------------------|------------------------|---------------------------|------------|--------------------|-------------------|--------------|-----------|----------------|
+| Mod                                                                             | [GIP](/wiki/GIP "GIP") | [SKIF](/wiki/SKIF "SKIF") | AI Changes | Technology Changes | Territory Changes | Added Events | New Units | Game Mechanics |
+| [Anatolian Wars](/wiki/Anatolian_Wars "Anatolian Wars")                         | No                     | No                        | Yes        | No                 | Yes               | Yes          | No        | No             |
+| [China Improvement Pack](/wiki/China_Improvement_Pack "China Improvement Pack") |                        |                           |            |                    |                   |              |           |                |
+| [Confederate Armageddon](/wiki/Confederate_Armageddon "Confederate Armageddon") | No                     | Yes                       | Yes        | No                 | Yes               | Yes          | No        | No             |
+| [Vietnam War](/wiki/Vietnam_War "Vietnam War")                                  | Yes                    | No                        | Yes        | Yes                | Yes               | Yes          | Yes       | No             |
+| [WERS](/wiki/WERS "WERS")                                                       |                        |                           |            |                    |                   |              |           |                |

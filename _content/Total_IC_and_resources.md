@@ -1,7 +1,3 @@
----
-title: "Total_IC_and_resources"
----
-
 Because the strategic aim of warfare in Hoi2 is to secure your own
 country's place in the world by conquering provinces with high IC and
 resources, it might be interesting to know how many of them are out

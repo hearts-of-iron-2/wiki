@@ -1,7 +1,3 @@
----
-title: "Modding_battle_scenarios"
----
-
 ## Contents
 
 -   [ 1 Introduction ](#Introduction)
@@ -62,7 +58,7 @@ flag.
 Any country with **bottom = yes** will appear on far right of the
 screen. This is used in most battle scenarios so the two/more countries
 fighting are on opposite ends(See Below)
-[![Scenarioheaderexample.gif](/images/d/d1/Scenarioheaderexample.gif)](/File:Scenarioheaderexample.gif)
+[![Scenarioheaderexample.gif](/images/d/d1/Scenarioheaderexample.gif)](/wiki/File:Scenarioheaderexample.gif)
 
   
 

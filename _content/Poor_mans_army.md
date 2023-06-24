@@ -1,9 +1,5 @@
----
-title: "Poor_mans_army"
----
-
 [Template:HOI2
-v1.3](/index.php?title=Template:HOI2_v1.3&action=edit&redlink=1 "Template:HOI2 v1.3 (page does not exist)")
+v1.3](/wiki/index.php?title=Template:HOI2_v1.3&action=edit&redlink=1 "Template:HOI2 v1.3 (page does not exist)")
 
 ## Contents
 
@@ -48,18 +44,18 @@ want to.
 It is still possible for relatively small powers to attain a capable
 military force. In most cases, however, this will only be limited to a
 ground force with light equipment. Although different types of
-[Infantry](/Infantry "Infantry") is discussed in [On the subject of
+[Infantry](/wiki/Infantry "Infantry") is discussed in [On the subject of
 ground troop
-investments](/On_the_subject_of_ground_troop_investments "On the subject of ground troop investments")
+investments](/wiki/On_the_subject_of_ground_troop_investments "On the subject of ground troop investments")
 , the units discussed there are of less interest for the minor or micro
 powers, since Infantry is the only real viable option with its
 versatility and affordability.
 
-[Minor power](/Minor_power "Minor power") 's and [Micro
-power](/Micro_power "Micro power") 's will probably be more focused on
-analysing the different aspects of [Infantry versus
-Militia](/Militia_Strategy_Guide "Militia Strategy Guide") or
-[Garrison](/Garrison_Division "Garrison Division") troops.
+[Minor power](/wiki/Minor_power "Minor power") 's and [Micro
+power](/wiki/Micro_power "Micro power") 's will probably be more focused
+on analysing the different aspects of [Infantry versus
+Militia](/wiki/Militia_Strategy_Guide "Militia Strategy Guide") or
+[Garrison](/wiki/Garrison_Division "Garrison Division") troops.
 
 ###  A discussion on Footsoldiers 
 
@@ -101,22 +97,22 @@ an option might thus be to add a component mostly dismissed by Major
 powers: Cavalry.
 
 For minor and micro powers,
-[Cavalry](/Cavalry_Division "Cavalry Division") can be vital, since its
-basically just as tough as Infantry, but almost twice as fast, and thus
-capable of penetrating into enemy territory much faster. On the
+[Cavalry](/wiki/Cavalry_Division "Cavalry Division") can be vital, since
+its basically just as tough as Infantry, but almost twice as fast, and
+thus capable of penetrating into enemy territory much faster. On the
 economical side, there isn't much difference, but Cavalry consume 20 %
 more supplies and take a whole extra IC when in training!
 
 ###  A discussion on Brigades 
 
 As a result of the economic restrictions [Minor
-power](/Minor_power "Minor power") 's and [Micro
-power](/Micro_power "Micro power") 's (MMPs) have, and the effect this
-has on research, it might be fair to state that the
-[Brigades](/Brigade_Strategy_Guide "Brigade Strategy Guide") available
-to there states will generally not be of the self propelled ones, with
-the exception of Armored Cars. To this one can assume that the stats
-will at most get Basic or Improved kit.
+power](/wiki/Minor_power "Minor power") 's and [Micro
+power](/wiki/Micro_power "Micro power") 's (MMPs) have, and the effect
+this has on research, it might be fair to state that the
+[Brigades](/wiki/Brigade_Strategy_Guide "Brigade Strategy Guide")
+available to there states will generally not be of the self propelled
+ones, with the exception of Armored Cars. To this one can assume that
+the stats will at most get Basic or Improved kit.
 
 **Engineers** - This is probably one of the most cost effective Brigades
 one can acquire as a MMP. It increases both Defence (5), Toughness (3)
@@ -164,8 +160,8 @@ decent one that is up to date is probably more of a problem. One has to
 evaluate what type and what role the air force is to play. Also, with
 the limited industrial capacity your country has, every IC put into the
 air force has to count. See the [Effective Use of
-Airpower](/Effective_Use_of_Airpower "Effective Use of Airpower") posted
-in the associated guides section.
+Airpower](/wiki/Effective_Use_of_Airpower "Effective Use of Airpower")
+posted in the associated guides section.
 
 Since the country only has a limited amount of ICs and thus only a few
 research slots (with probably lousy tech teams), you should carefully
@@ -195,8 +191,8 @@ interest however in keeping your bombers safe.
 
 ##  Navy 
 
-See the [Naval Primer](/Naval_Primer "Naval Primer") in the Associated
-Guides section.
+See the [Naval Primer](/wiki/Naval_Primer "Naval Primer") in the
+Associated Guides section.
 
 Yes, a navy is possible but the same rule applies to the air force - one
 needs to trim the tree. Every navy needs a capital ship and a support
@@ -222,10 +218,10 @@ doctrine).
 
 ###  Research Basics 
 
-Everything that is explained on the [research](/Research "Research")
-page obviously applies to smaller nation research too, so reading that
-is a very good start. Research for small nations in a short version
-looks a lot like this:
+Everything that is explained on the
+[research](/wiki/Research "Research") page obviously applies to smaller
+nation research too, so reading that is a very good start. Research for
+small nations in a short version looks a lot like this:
 
 -   Never research ahead of time. Bigger nations can do that, as they
     usually have the more tech slots and better tech teams. You however,
@@ -296,6 +292,6 @@ weapons, or very advanced doctrines or units.
 
 ##  Definitions for this text 
 
-[Minor Power](/Minor_Power "Minor Power") - Less than 40 ICs  
-[Micro Power](/Micro_Power "Micro Power") - Less than 10 ICs  
+[Minor Power](/wiki/Minor_Power "Minor Power") - Less than 40 ICs  
+[Micro Power](/wiki/Micro_Power "Micro Power") - Less than 10 ICs  
 MMP - Minor and Micro powers  

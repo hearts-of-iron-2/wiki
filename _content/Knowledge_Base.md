@@ -1,7 +1,3 @@
----
-title: "Knowledge_Base"
----
-
 [TABLE]
 
 This page contains links to information and research that may be useful
@@ -77,52 +73,53 @@ and potential copyright infringement.
 #  Historical Information and Reference 
 
 -   [Tech Teams Historical
-    Reference](/Tech_Teams_Historical_Reference "Tech Teams Historical Reference")
--   [National Security](/National_Security "National Security") - lists
-    Spheres of Interest and etc.
+    Reference](/wiki/Tech_Teams_Historical_Reference "Tech Teams Historical Reference")
+-   [National Security](/wiki/National_Security "National Security") -
+    lists Spheres of Interest and etc.
 
 #  Historical Data and Statistics 
 
 -   [Population counts 1936 by
-    country](/Population_counts_1936_by_country "Population counts 1936 by country")
+    country](/wiki/Population_counts_1936_by_country "Population counts 1936 by country")
 -   [Population average 1936-1948 by
-    country](/Population_average_1936-1948_by_country "Population average 1936-1948 by country")
+    country](/wiki/Population_average_1936-1948_by_country "Population average 1936-1948 by country")
 -   [Casualty Statistics for WW2 by
-    country](/Casualty_Statistics_for_WW2_by_country "Casualty Statistics for WW2 by country")
+    country](/wiki/Casualty_Statistics_for_WW2_by_country "Casualty Statistics for WW2 by country")
 -   [Coal Production per country
-    1936-1948](/Coal_Production_per_country_1936-1948 "Coal Production per country 1936-1948")
+    1936-1948](/wiki/Coal_Production_per_country_1936-1948 "Coal Production per country 1936-1948")
 -   [Other Coal
-    Statistics](/Other_Coal_Statistics "Other Coal Statistics")
+    Statistics](/wiki/Other_Coal_Statistics "Other Coal Statistics")
 -   [Oil Production per country
-    1936-1948](/Oil_Production_per_country_1936-1948 "Oil Production per country 1936-1948")
--   [Other Oil Statistics](/Other_Oil_Statistics "Other Oil Statistics")
+    1936-1948](/wiki/Oil_Production_per_country_1936-1948 "Oil Production per country 1936-1948")
+-   [Other Oil
+    Statistics](/wiki/Other_Oil_Statistics "Other Oil Statistics")
 -   [Iron Production per country 1936-1948 (Fe content of
-    ore)](/Iron_Production_per_country_1936-1948_(Fe_content_of_ore) "Iron Production per country 1936-1948 (Fe content of ore)")
+    ore)](/wiki/Iron_Production_per_country_1936-1948_(Fe_content_of_ore) "Iron Production per country 1936-1948 (Fe content of ore)")
 -   [Bauxite Production per country 1936-1948 (Al content of
-    ore)](/Bauxite_Production_per_country_1936-1948_(Al_content_of_ore) "Bauxite Production per country 1936-1948 (Al content of ore)")
+    ore)](/wiki/Bauxite_Production_per_country_1936-1948_(Al_content_of_ore) "Bauxite Production per country 1936-1948 (Al content of ore)")
 -   [Tin Production per country 1936-1948 (Sn content of
-    ore)](/Tin_Production_per_country_1936-1948_(Sn_content_of_ore) "Tin Production per country 1936-1948 (Sn content of ore)")
+    ore)](/wiki/Tin_Production_per_country_1936-1948_(Sn_content_of_ore) "Tin Production per country 1936-1948 (Sn content of ore)")
 -   [Copper Production per country 1936-1948 (Cu content of
-    ore)](/Copper_Production_per_country_1936-1948_(Cu_content_of_ore) "Copper Production per country 1936-1948 (Cu content of ore)")
+    ore)](/wiki/Copper_Production_per_country_1936-1948_(Cu_content_of_ore) "Copper Production per country 1936-1948 (Cu content of ore)")
 -   [Zinc Production per country 1936-1948 (Zn content of
-    ore)](/Zinc_Production_per_country_1936-1948_(Zn_content_of_ore) "Zinc Production per country 1936-1948 (Zn content of ore)")
+    ore)](/wiki/Zinc_Production_per_country_1936-1948_(Zn_content_of_ore) "Zinc Production per country 1936-1948 (Zn content of ore)")
 -   [Natural Rubber Production per country
-    1936-1948](/Natural_Rubber_Production_per_country_1936-1948 "Natural Rubber Production per country 1936-1948")
+    1936-1948](/wiki/Natural_Rubber_Production_per_country_1936-1948 "Natural Rubber Production per country 1936-1948")
 -   [Potash Production per country
-    1936-1948](/Potash_Production_per_country_1936-1948 "Potash Production per country 1936-1948")
+    1936-1948](/wiki/Potash_Production_per_country_1936-1948 "Potash Production per country 1936-1948")
 -   [Phosphates Production per country
-    1936-1948](/Phosphates_Production_per_country_1936-1948 "Phosphates Production per country 1936-1948")
+    1936-1948](/wiki/Phosphates_Production_per_country_1936-1948 "Phosphates Production per country 1936-1948")
 -   [Sulphur Production per country
-    1936-1948](/Sulphur_Production_per_country_1936-1948 "Sulphur Production per country 1936-1948")
+    1936-1948](/wiki/Sulphur_Production_per_country_1936-1948 "Sulphur Production per country 1936-1948")
 -   [Heavy aircraft models
-    1939-1950](/Heavy_aircraft_models_1939-1950 "Heavy aircraft models 1939-1950")
+    1939-1950](/wiki/Heavy_aircraft_models_1939-1950 "Heavy aircraft models 1939-1950")
 -   [Light aircraft models
-    1939-1950](/Light_aircraft_models_1939-1950 "Light aircraft models 1939-1950")
+    1939-1950](/wiki/Light_aircraft_models_1939-1950 "Light aircraft models 1939-1950")
 -   [Assorted information on Soviet
-    RKKA](/Assorted_information_on_Soviet_RKKA "Assorted information on Soviet RKKA")
--   [Food](/Food "Food")
+    RKKA](/wiki/Assorted_information_on_Soviet_RKKA "Assorted information on Soviet RKKA")
+-   [Food](/wiki/Food "Food")
 -   [Other mineral production by
-    country](/Other_mineral_production_by_country "Other mineral production by country")
+    country](/wiki/Other_mineral_production_by_country "Other mineral production by country")
 -   [Italian Aircraft Production
     1935-1945](http://en.wikipedia.org/wiki/Italian_aircraft_production_1935_to_1945)
 -   [Assorted WW2
@@ -132,14 +129,14 @@ and potential copyright infringement.
 -   [GDP numbers](http://www.nber.org/databases/jones-obstfeld/)
 -   [GDP numbers for
     1931](http://www.imf.org/external/pubs/ft/weo/2002/01/pdf/chapter3.pdf)
--   [GDP statistics](/GDP_statistics "GDP statistics")
+-   [GDP statistics](/wiki/GDP_statistics "GDP statistics")
 -   [Exchange Rates
     1915-](http://www.ssb.no/emner/historisk_statistikk/tabeller/24-24-28.txt)
 -   [CBI Theatre
-    Statistics](/CBI_Theatre_Statistics "CBI Theatre Statistics") -
+    Statistics](/wiki/CBI_Theatre_Statistics "CBI Theatre Statistics") -
     Statistics on the China-Burma-India Theatre
 -   [PTO Theatre
-    Statistics](/PTO_Theatre_Statistics "PTO Theatre Statistics") -
+    Statistics](/wiki/PTO_Theatre_Statistics "PTO Theatre Statistics") -
     Statistics on the Pacific Theatre of Operations
 
 #  Links to Historical Reference Material 

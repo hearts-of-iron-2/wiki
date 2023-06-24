@@ -1,7 +1,3 @@
----
-title: "Modding_tech_teams"
----
-
 ## Contents
 
 -   [ 1 Introduction ](#Introduction)
@@ -74,10 +70,10 @@ on January 1st of the endyear.
 ###  Specialities 
 
 The next columns are filled with the [component
-types](/List_of_Component_Types "List of Component Types") that the team
-is specialized in. Only the first five are actually used by the game.
-These specializations half the time need for developping a component of
-this type.
+types](/wiki/List_of_Component_Types "List of Component Types") that the
+team is specialized in. Only the first five are actually used by the
+game. These specializations half the time need for developping a
+component of this type.
 
 When you are making new research teams for an unmodded tech tree you
 should notice a few things:

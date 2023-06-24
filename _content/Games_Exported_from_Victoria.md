@@ -1,7 +1,3 @@
----
-title: "Games_Exported_from_Victoria"
----
-
 Note: the Following is a Copy-pasting of the page on exporting games
 from the Victoria: Empire Under the Sun wiki.
 
@@ -96,9 +92,9 @@ information:
 ###  Technology 
 
 Doctrines in HoI2 correspond to inventions in Victoria. See [Army
-Inventions](/index.php?title=Army_Inventions&action=edit&redlink=1 "Army Inventions (page does not exist)")
+Inventions](/wiki/index.php?title=Army_Inventions&action=edit&redlink=1 "Army Inventions (page does not exist)")
 and [Navy
-Inventions](/index.php?title=Navy_Inventions&action=edit&redlink=1 "Navy Inventions (page does not exist)")
+Inventions](/wiki/index.php?title=Navy_Inventions&action=edit&redlink=1 "Navy Inventions (page does not exist)")
 .
 
 ###  Units 

@@ -1,7 +1,3 @@
----
-title: "Population_counts_1936_by_country"
----
-
 This page contains populations of the major countries starting in 1936.
 These numbers are going to be used as a base for manpower calculations
 for Super AI Bundle. The bullet signifies the main body of the country.
@@ -168,7 +164,7 @@ their historical division sizes.
 -   Liberia 1 million
 -   Libya 1 million
 -   Malawi 2 million
--   [Madagascar](/Madagascar "Madagascar") 4 million
+-   [Madagascar](/wiki/Madagascar "Madagascar") 4 million
 -   Mali 4 million
 -   Mauritania 0
 -   Mauritius 0

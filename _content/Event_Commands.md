@@ -1,7 +1,3 @@
----
-title: "Event_Commands"
----
-
 [TABLE]
 
   
@@ -351,23 +347,23 @@ Adds "off map" transport capacity to the nation which the event targets.
 
 ###  Diplomatic commands 
 
-type = alliance which = \[ [Nation Tag](/Tag_List "Tag List") \]  
+type = alliance which = \[ [Nation Tag](/wiki/Tag_List "Tag List") \]  
 Creates an alliance between the nation that the event targets and the
-nation signified in the \[ [Nation Tag](/Tag_List "Tag List") \]
+nation signified in the \[ [Nation Tag](/wiki/Tag_List "Tag List") \]
 parameter. if -1 is used, an alliance will be formed with a random
 nation.
 
 &nbsp;
 
-type = inherit which = \[ [Nation Tag](/Tag_List "Tag List") \]  
+type = inherit which = \[ [Nation Tag](/wiki/Tag_List "Tag List") \]  
 Causes the nation that is triggering the event to completely take over
-the nation specified in the \[ [Nation Tag](/Tag_List "Tag List") \]
-parameter. if -1 is used, the nation triggering the event will inherit a
-random nation.
+the nation specified in the \[ [Nation Tag](/wiki/Tag_List "Tag List")
+\] parameter. if -1 is used, the nation triggering the event will
+inherit a random nation.
 
 &nbsp;
 
-type = country which = \[ [Nation Tag](/Tag_List "Tag List") \]  
+type = country which = \[ [Nation Tag](/wiki/Tag_List "Tag List") \]  
 Changes the tag of the country.
 
 &nbsp;
@@ -384,10 +380,11 @@ specified in \[provence id\].
 
 &nbsp;
 
-type = secedeprovince which = \[ [Nation Tag](/Tag_List "Tag List") \] value = \[province id\]  
+type = secedeprovince which = \[ [Nation Tag](/wiki/Tag_List "Tag List") \] value = \[province id\]  
 The nation which is running the event secedes a province specified in
-the [province id](/Provinces_by_ID,_part_1 "Provinces by ID, part 1") to
-the nation specified in the [Nation Tag](/Tag_List "Tag List")
+the [province
+id](/wiki/Provinces_by_ID,_part_1 "Provinces by ID, part 1") to the
+nation specified in the [Nation Tag](/wiki/Tag_List "Tag List")
 parameter.
 
 type = control which = \[tag\] value = \[province id\]
@@ -883,7 +880,7 @@ Show the probability of the Ai of select this option.
 type = ai_prepare_warwhich = \[tag\]  
 Tells the AI to move troops to the border with a country.
 
-[Weather](/Weather "Weather") event commands
+[Weather](/wiki/Weather "Weather") event commands
 
 type = start_pattern which = \[id type\] value = \[id id\] where = \[provence id\] when = \[raining/snowing/storm/blizzard\]  
 Start a new weather pattern centered on a given province

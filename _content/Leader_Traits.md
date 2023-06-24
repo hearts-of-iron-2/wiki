@@ -1,8 +1,4 @@
----
-title: "Leader_Traits"
----
-
-[Template:Anthology](/index.php?title=Template:Anthology&action=edit&redlink=1 "Template:Anthology (page does not exist)")
+[Template:Anthology](/wiki/index.php?title=Template:Anthology&action=edit&redlink=1 "Template:Anthology (page does not exist)")
 
 Generals can have distinct traits that offer various benefits on the
 units he commands.
@@ -15,9 +11,9 @@ traits, the value would be 136 (8+128).
 
 It is possible to modify leaders names to include details of their
 traits so a sort on names brings all of a type together.
-[Here](/index.php?title=Special:Upload&wpDestFile=Soviet.rar "Soviet.rar")
+[Here](/wiki/index.php?title=Special:Upload&wpDestFile=Soviet.rar "Soviet.rar")
 a sample file for the Soviets with [an
-explanation](/index.php?title=File:Soviet.rar&action=edit&redlink=1 "File:Soviet.rar (page does not exist)")
+explanation](/wiki/index.php?title=File:Soviet.rar&action=edit&redlink=1 "File:Soviet.rar (page does not exist)")
 on how to do it.
 
 ## Contents
@@ -242,9 +238,9 @@ Desert Fox
 Bonus in Desert
 
 -   **+10%** Combat in
-    [deserts](/index.php?title=Desert&action=edit&redlink=1 "Desert (page does not exist)")
+    [deserts](/wiki/index.php?title=Desert&action=edit&redlink=1 "Desert (page does not exist)")
 -   +5% movement speed in
-    [deserts](/index.php?title=Desert&action=edit&redlink=1 "Desert (page does not exist)")
+    [deserts](/wiki/index.php?title=Desert&action=edit&redlink=1 "Desert (page does not exist)")
     (this is for the 1.3beta Armageddon patch)
 
 Bitvalue: 262144
@@ -252,12 +248,12 @@ Bitvalue: 262144
 Jungle Rat
 
 Bonus in
-[Jungle](/index.php?title=Jungle&action=edit&redlink=1 "Jungle (page does not exist)")
+[Jungle](/wiki/index.php?title=Jungle&action=edit&redlink=1 "Jungle (page does not exist)")
 
 -   **+10%** Combat in
-    [jungles](/index.php?title=Jungle&action=edit&redlink=1 "Jungle (page does not exist)")
+    [jungles](/wiki/index.php?title=Jungle&action=edit&redlink=1 "Jungle (page does not exist)")
 -   +5% movement speed in
-    [jungles](/index.php?title=Jungle&action=edit&redlink=1 "Jungle (page does not exist)")
+    [jungles](/wiki/index.php?title=Jungle&action=edit&redlink=1 "Jungle (page does not exist)")
     (this is for the 1.3beta Armageddon patch)
 
 Bitvalue: 524288
@@ -265,7 +261,7 @@ Bitvalue: 524288
 Urban Warfare Specialist
 
 Bonus in
-[Urban](/index.php?title=Urban&action=edit&redlink=1 "Urban (page does not exist)")
+[Urban](/wiki/index.php?title=Urban&action=edit&redlink=1 "Urban (page does not exist)")
 Areas
 
 Bitvalue: 1048576
@@ -275,9 +271,9 @@ Ranger
 Bonus in Forests
 
 -   **+10%** Combat in
-    [forest](/index.php?title=Forest&action=edit&redlink=1 "Forest (page does not exist)")
+    [forest](/wiki/index.php?title=Forest&action=edit&redlink=1 "Forest (page does not exist)")
 -   +5% movement speed in
-    [forests](/index.php?title=Forest&action=edit&redlink=1 "Forest (page does not exist)")
+    [forests](/wiki/index.php?title=Forest&action=edit&redlink=1 "Forest (page does not exist)")
     (this is for the 1.3beta Armageddon patch)
 
 Bitvalue: 2097152
@@ -285,12 +281,12 @@ Bitvalue: 2097152
 Mountaineer
 
 Bonus in
-[Mountains](/index.php?title=Mountain&action=edit&redlink=1 "Mountain (page does not exist)")
+[Mountains](/wiki/index.php?title=Mountain&action=edit&redlink=1 "Mountain (page does not exist)")
 
 -   **+10%** Combat in
-    [mountains](/index.php?title=Mountain&action=edit&redlink=1 "Mountain (page does not exist)")
+    [mountains](/wiki/index.php?title=Mountain&action=edit&redlink=1 "Mountain (page does not exist)")
 -   +5% movement speed in
-    [mountains](/index.php?title=Mountain&action=edit&redlink=1 "Mountain (page does not exist)")
+    [mountains](/wiki/index.php?title=Mountain&action=edit&redlink=1 "Mountain (page does not exist)")
     (this is for the 1.3beta Armageddon patch)
 
 Bitvalue: 4194304
@@ -298,18 +294,18 @@ Bitvalue: 4194304
 Hills Fighter
 
 Bonus in
-[Hills](/index.php?title=Hill&action=edit&redlink=1 "Hill (page does not exist)")
+[Hills](/wiki/index.php?title=Hill&action=edit&redlink=1 "Hill (page does not exist)")
 
 -   **+10%** Combat in
-    [hills](/index.php?title=Hill&action=edit&redlink=1 "Hill (page does not exist)")
+    [hills](/wiki/index.php?title=Hill&action=edit&redlink=1 "Hill (page does not exist)")
 -   +5% movement speed in
-    [hills](/index.php?title=Hill&action=edit&redlink=1 "Hill (page does not exist)")
+    [hills](/wiki/index.php?title=Hill&action=edit&redlink=1 "Hill (page does not exist)")
     (this is for the 1.3beta Armageddon patch)
 
   
 Bitvalue: 8388608
 
-###  Traits with increased chance for [combat events](/Combat_event "Combat event") 
+###  Traits with increased chance for [combat events](/wiki/Combat_event "Combat event") 
 
 Counter Attacker
 

@@ -1,13 +1,9 @@
----
-title: "Strategy_for_Fall_Weiß"
----
-
 [Template:Scenario
-guides](/index.php?title=Template:Scenario_guides&action=edit&redlink=1 "Template:Scenario guides (page does not exist)")
+guides](/wiki/index.php?title=Template:Scenario_guides&action=edit&redlink=1 "Template:Scenario guides (page does not exist)")
 
-[![Shieldger.jpg](/images/7/71/Shieldger.jpg)](/File:Shieldger.jpg)
-[![Vs.jpg](/images/9/93/Vs.jpg)](/File:Vs.jpg)
-[File:Shieldpol.jpg](/index.php?title=Special:Upload&wpDestFile=Shieldpol.jpg "File:Shieldpol.jpg")
+[![Shieldger.jpg](/images/7/71/Shieldger.jpg)](/wiki/File:Shieldger.jpg)
+[![Vs.jpg](/images/9/93/Vs.jpg)](/wiki/File:Vs.jpg)
+[File:Shieldpol.jpg](/wiki/index.php?title=Special:Upload&wpDestFile=Shieldpol.jpg "File:Shieldpol.jpg")
 
 ##    Fall Weiß Strategy for Germany 
 

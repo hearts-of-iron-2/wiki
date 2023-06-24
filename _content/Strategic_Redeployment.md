@@ -1,7 +1,3 @@
----
-title: "Strategic_Redeployment"
----
-
 ####    How do I strategically redeploy units? 
 
 The following requirements must be satisfied for Strategic Redeployment

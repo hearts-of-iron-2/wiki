@@ -1,8 +1,4 @@
----
-title: "AI_Behaviour"
----
-
-[Template:Anthology](/index.php?title=Template:Anthology&action=edit&redlink=1 "Template:Anthology (page does not exist)")
+[Template:Anthology](/wiki/index.php?title=Template:Anthology&action=edit&redlink=1 "Template:Anthology (page does not exist)")
 
 ## Contents
 
@@ -65,7 +61,7 @@ result, in addition to single HQ units sure to being bombed.
     effect](http://en.wikipedia.org/wiki/Battle_of_Verdun)
 7.  General Tactics: Does not use nuclear weapons, build reactors, nor
     respond to their use appropriately ( [Further
-    Reading](/Nuclear_Weapons#Game_shortfalls "Nuclear Weapons") )
+    Reading](/wiki/Nuclear_Weapons#Game_shortfalls "Nuclear Weapons") )
 8.  Air Force: Rebases most aircraft immediately after a game is loaded
 9.  Air Force: Does not properly defend bombers
 10. Air Force: Uses fighters only for perimeter defense. Does not use
@@ -79,9 +75,9 @@ result, in addition to single HQ units sure to being bombed.
 ##  AI Houserules 
 
 Exploiting AI weaknesses is known as being
-[gamey](/Gamey_tactics "Gamey tactics") or unfair to the AI. For this
-reason, some players use "house rules" to ensure better gameplay balance
-and challenge:
+[gamey](/wiki/Gamey_tactics "Gamey tactics") or unfair to the AI. For
+this reason, some players use "house rules" to ensure better gameplay
+balance and challenge:
 
 -   Save/Reload: No matter how badly a battle unfolds, refrain from
     going back to a saved game.

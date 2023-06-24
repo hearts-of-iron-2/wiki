@@ -1,8 +1,4 @@
----
-title: "Transport_Capacity_and_Supply_Efficiency_FAQ"
----
-
-[Template:Anthology](/index.php?title=Template:Anthology&action=edit&redlink=1 "Template:Anthology (page does not exist)")
+[Template:Anthology](/wiki/index.php?title=Template:Anthology&action=edit&redlink=1 "Template:Anthology (page does not exist)")
 
 ## Contents
 
@@ -53,11 +49,11 @@ title: "Transport_Capacity_and_Supply_Efficiency_FAQ"
 
 ##    What is Transport Capacity? 
 
-[Transport Capacity](/Transport_Capacity "Transport Capacity") (TC) is
-described in the TC tooltip rollover as *trucks trains and river barges
-which are used to supply your armed forces with fuel and supply.* TC is
-an abstract number as it is primarily based upon Industrial Capacity.
-The various modifiers that affect TC are shown in the tooltip:
+[Transport Capacity](/wiki/Transport_Capacity "Transport Capacity") (TC)
+is described in the TC tooltip rollover as *trucks trains and river
+barges which are used to supply your armed forces with fuel and supply.*
+TC is an abstract number as it is primarily based upon Industrial
+Capacity. The various modifiers that affect TC are shown in the tooltip:
 
 *TC is a direct function of IC – each point of IC gives you 1.5 TC*
 

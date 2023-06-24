@@ -1,7 +1,3 @@
----
-title: "HQ_Division"
----
-
 Those units are special divisions, equipped with modern communications
 equipment and designed to act as a mobile command centre during the
 battle. When staffed with a General or a Field Marshall, HQ units bestow
@@ -21,7 +17,7 @@ the following benefits:
 -   All divisions present on the battlefield receive a small
     attack/defence bonus.
 -   There is greater chance for [Combat
-    Events](/Combat_Events "Combat Events") to happen.
+    Events](/wiki/Combat_Events "Combat Events") to happen.
 -   There is a small increase to a corps' Effective Supply Efficiency if
     a HQ is in the province or adjacent to the province. Pause over the
     ESE information to get the rollover which explains how this is
@@ -36,20 +32,20 @@ the following benefits:
 ##  Brigades allowed 
 
 -   [Anti-aircraft
-    Brigade](/Anti-aircraft_Brigade "Anti-aircraft Brigade")
--   [Artillery Brigade](/Artillery_Brigade "Artillery Brigade")
--   [Engineer Brigade](/Engineer_Brigade "Engineer Brigade")
--   [Police Brigade](/Police_Brigade "Police Brigade")
+    Brigade](/wiki/Anti-aircraft_Brigade "Anti-aircraft Brigade")
+-   [Artillery Brigade](/wiki/Artillery_Brigade "Artillery Brigade")
+-   [Engineer Brigade](/wiki/Engineer_Brigade "Engineer Brigade")
+-   [Police Brigade](/wiki/Police_Brigade "Police Brigade")
 -   [Rocket Artillery
-    Brigade](/Rocket_Artillery_Brigade "Rocket Artillery Brigade")
+    Brigade](/wiki/Rocket_Artillery_Brigade "Rocket Artillery Brigade")
 -   [Self-Propelled Artillery
-    Brigade](/Self-Propelled_Artillery_Brigade "Self-Propelled Artillery Brigade")
+    Brigade](/wiki/Self-Propelled_Artillery_Brigade "Self-Propelled Artillery Brigade")
 -   [Self-Propelled Rocket Artillery
-    Brigade](/Self-Propelled_Rocket_Artillery_Brigade "Self-Propelled Rocket Artillery Brigade")
+    Brigade](/wiki/Self-Propelled_Rocket_Artillery_Brigade "Self-Propelled Rocket Artillery Brigade")
 
 ##  Notes 
 
 -   HQ divisions are considered soft units.
--   [HQ Units in Action](/HQ_Units_in_Action "HQ Units in Action") - For
-    more information and examples regarding the use of headquarters
-    units.
+-   [HQ Units in
+    Action](/wiki/HQ_Units_in_Action "HQ Units in Action") - For more
+    information and examples regarding the use of headquarters units.

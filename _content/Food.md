@@ -1,7 +1,3 @@
----
-title: "Food"
----
-
 Source: Edgar Mowrer & Marthe Rajchman, Global War: An Atlas of World
 Strategy.
 
@@ -10,24 +6,24 @@ Strategy.
 Numbers are 1000s of quintals. Both China and Japan are net importers,
 with China relying on Indochina.
 
-|                                        |      |
-|----------------------------------------|------|
-|                                        | 1935 |
-| USA                                    | 7    |
-| Brazil                                 | 12   |
-| Italy                                  | 6    |
-| Egypt                                  | 7    |
-| [Madagascar](/Madagascar "Madagascar") | 7    |
-| India                                  | 422  |
-| China                                  | 520  |
-| Indonesia                              | 56   |
-| Malaya                                 | 5    |
-| Thailand                               | 47   |
-| [Indochina](/Indochina "Indochina")    | 52   |
-| Philippines                            | 23   |
-| Taiwan                                 | 16   |
-| Korea                                  | 33   |
-| Japan                                  | 106  |
+|                                             |      |
+|---------------------------------------------|------|
+|                                             | 1935 |
+| USA                                         | 7    |
+| Brazil                                      | 12   |
+| Italy                                       | 6    |
+| Egypt                                       | 7    |
+| [Madagascar](/wiki/Madagascar "Madagascar") | 7    |
+| India                                       | 422  |
+| China                                       | 520  |
+| Indonesia                                   | 56   |
+| Malaya                                      | 5    |
+| Thailand                                    | 47   |
+| [Indochina](/wiki/Indochina "Indochina")    | 52   |
+| Philippines                                 | 23   |
+| Taiwan                                      | 16   |
+| Korea                                       | 33   |
+| Japan                                       | 106  |
 
 #####  Wheat production 
 

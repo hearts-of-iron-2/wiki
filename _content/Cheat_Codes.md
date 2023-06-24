@@ -1,7 +1,3 @@
----
-title: "Cheat_Codes"
----
-
 The following is an *incomplete* listing of the cheat codes available
 within the game.
 
@@ -72,7 +68,7 @@ the same command again.
 -   **alienattack \[province ID\]** - will create a new country called
     *"Alien Invaders"* which will declare war on whichever country
     formally controlled the province with the *\[province ID\]* . For
-    more info see [Aliens](/Aliens "Aliens") .
+    more info see [Aliens](/wiki/Aliens "Aliens") .
 -   **fullcontrol** - toggles full control of all armies, allowing the
     player to control other countries' armies.
 -   **nofog** - toggles the fog of war on/off.
@@ -126,7 +122,7 @@ loaded)*
     at the time you fire it will leave it's alliance (Like Germany
     leaving the Axis)
 
-[Event Cheats](/Event_Cheats "Event Cheats") , if you don't mind
+[Event Cheats](/wiki/Event_Cheats "Event Cheats") , if you don't mind
 creating your own events for an even greater effect.
 
 ##  Unexplained cheats 

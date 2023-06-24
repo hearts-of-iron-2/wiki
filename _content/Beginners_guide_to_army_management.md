@@ -1,8 +1,4 @@
----
-title: "Beginners_guide_to_army_management"
----
-
-[Template:Anthology](/index.php?title=Template:Anthology&action=edit&redlink=1 "Template:Anthology (page does not exist)")
+[Template:Anthology](/wiki/index.php?title=Template:Anthology&action=edit&redlink=1 "Template:Anthology (page does not exist)")
 
 ## Contents
 
@@ -162,13 +158,13 @@ formations of just one division. This has two major advantages:
 Since there is a bonus for mixing hard and soft units within one
 formation, and since only motorized infantry operate at a similar speed
 as the armored divisions do, it is a common practise to set up [combined
-arms formations](/Combined_Arms "Combined Arms") of 1 Arm and 2 Mot or
-vice versa.
+arms formations](/wiki/Combined_Arms "Combined Arms") of 1 Arm and 2 Mot
+or vice versa.
 
 Commando units (mountaineers, paratroopers and marines) are used
 differently than infantry or tanks, so they should be kept in separate
 formations for each type, preferably commanded by a [commando
-trait](/Leader_Traits "Leader Traits") leader.
+trait](/wiki/Leader_Traits "Leader Traits") leader.
 
 Headquarters (HQ) play an important role in command limits on attack, so
 it's important to have some near the active front lines. You can either
@@ -267,7 +263,7 @@ A few notes on popular "newbie"-mistakes regarding brigades:
     attack stat.
 
 For further information, see the [brigade strategy
-guide](/Brigade_Strategy_Guide "Brigade Strategy Guide") .
+guide](/wiki/Brigade_Strategy_Guide "Brigade Strategy Guide") .
 
 ##  Leader management 
 
@@ -333,9 +329,9 @@ highest possible rank is the Field Marshal, but even he has a command
 capacity of 12 which would be vastly exceeded by the 24 divisions in our
 example. A more thorough discussion on that subject can be found in the
 [article about command
-penalty](/Command_Penalty_Capacity "Command Penalty Capacity") , which
-is also highlighting the usefulness of HQ divisions in regard to this
-issue, which will be explained in the paragraph below.
+penalty](/wiki/Command_Penalty_Capacity "Command Penalty Capacity") ,
+which is also highlighting the usefulness of HQ divisions in regard to
+this issue, which will be explained in the paragraph below.
 
 This is where three important lessons are to be learned:
 
@@ -367,15 +363,15 @@ number of divisions and all featuring a field marshal to lead the
 stacks, you would now be able to field a staggering 72 divisions against
 the enemy without invoking any penalties. Isn't that great?
 
-See [HQ units in action](/HQ_Units_in_Action "HQ Units in Action") for a
-picture-rich illustration of the usage of HQ.
+See [HQ units in action](/wiki/HQ_Units_in_Action "HQ Units in Action")
+for a picture-rich illustration of the usage of HQ.
 
 ###  Choosing the right traits 
 
-The wiki page on [leader traits](/Leader_Traits "Leader Traits") will
-provide a detailed overview over the exact benefits of all the different
-specialities your leaders can feature. Here you will be given a short,
-neat rule of thumb as a starting point:
+The wiki page on [leader traits](/wiki/Leader_Traits "Leader Traits")
+will provide a detailed overview over the exact benefits of all the
+different specialities your leaders can feature. Here you will be given
+a short, neat rule of thumb as a starting point:
 
 As long as you're at peace, your units will not need to fight and thus
 it is a good idea to assign them leaders with the *logistics wizard*
@@ -486,18 +482,18 @@ the war. For that, have a look at the following guides and reference
 articles:
 
 -   [Land Combat
-    Efficiency](/Land_Combat_Efficiency "Land Combat Efficiency") - A
-    very in-depth explanation of what effects combat performance and how
-    the exact numbers are derived.
+    Efficiency](/wiki/Land_Combat_Efficiency "Land Combat Efficiency") -
+    A very in-depth explanation of what effects combat performance and
+    how the exact numbers are derived.
 -   [Transport Capacity and Supply Efficiency
-    FAQ](/Transport_Capacity_and_Supply_Efficiency_FAQ "Transport Capacity and Supply Efficiency FAQ") -
+    FAQ](/wiki/Transport_Capacity_and_Supply_Efficiency_FAQ "Transport Capacity and Supply Efficiency FAQ") -
     A very good source of information about these important concepts.
     Especially the smaller countries have to watch out for TC, although
     it can also be a problem for Germany during Barbarossa.
--   [Country Guides](/Country_guides "Country guides") - A huge list of
-    country-specific strategy guides. Not all of them are up to date,
-    but for beginners they will still provide useful orientation.
+-   [Country Guides](/wiki/Country_guides "Country guides") - A huge
+    list of country-specific strategy guides. Not all of them are up to
+    date, but for beginners they will still provide useful orientation.
 -   [Conducting Blitzkrieg
-    Offensives](/Conducting_Blitzkrieg_offensives "Conducting Blitzkrieg offensives") -
+    Offensives](/wiki/Conducting_Blitzkrieg_offensives "Conducting Blitzkrieg offensives") -
     A good article about Blitzkrieg warfare in the game, although it is
     a bit biased towards pure armored corps.

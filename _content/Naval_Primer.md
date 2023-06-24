@@ -1,15 +1,11 @@
----
-title: "Naval_Primer"
----
-
-[Template:Anthology](/index.php?title=Template:Anthology&action=edit&redlink=1 "Template:Anthology (page does not exist)")
+[Template:Anthology](/wiki/index.php?title=Template:Anthology&action=edit&redlink=1 "Template:Anthology (page does not exist)")
 Reflecting its historical roots, land warfare is the most important
-aspect of [HoI2](/HoI2 "HoI2") : both [air
-combat](/Effective_Use_of_Airpower "Effective Use of Airpower") and
+aspect of [HoI2](/wiki/HoI2 "HoI2") : both [air
+combat](/wiki/Effective_Use_of_Airpower "Effective Use of Airpower") and
 naval combat have more limited roles. Naval power is most important for
 nations that require naval supremacy in order to achieve their land
-warfare objectives: [Japan](/Japan_strategy "Japan strategy") and the
-[USA](/US_Strategy "US Strategy") .
+warfare objectives: [Japan](/wiki/Japan_strategy "Japan strategy") and
+the [USA](/wiki/US_Strategy "US Strategy") .
 
 ## Contents
 
@@ -75,7 +71,7 @@ warfare objectives: [Japan](/Japan_strategy "Japan strategy") and the
 Selecting an appropriate naval strategy from the beginning of the game,
 and consistently following that strategy throughout the game, is
 essential. Navies take an extraordinarily large amount of industry and
-time ( [IC days](/IC_days "IC days") ) to build and cannot upgrade
+time ( [IC days](/wiki/IC_days "IC days") ) to build and cannot upgrade
 (except for naval brigades added in \[Armageddon\]), thus changing
 directions on a whim is not possible.
 
@@ -91,25 +87,25 @@ will, and this requires complete naval supremacy.
 
 ####  Home Defence 
 
-The [UK](/UK_strategy "UK strategy") ,
-[Italy](/Italy_strategy "Italy strategy") , and
-[Germany](/Germany_Strategy_Guide "Germany Strategy Guide") all require
-a Navy for the primary role of defending their territories. Although the
-UK begins with a powerful Navy, both Germany and Italy begin with
-relatively weak navies. While force projection requires naval supremacy
-in order to safely transport troops, the key component to home defence
-is a guerilla warfare style of naval interdiction. Germany has the
-ability to personify this strategy through the use of submarine warfare.
-Ultimately, however, guerilla strategy can never be successful in the
-long term without supporting conventional forces.
+The [UK](/wiki/UK_strategy "UK strategy") ,
+[Italy](/wiki/Italy_strategy "Italy strategy") , and
+[Germany](/wiki/Germany_Strategy_Guide "Germany Strategy Guide") all
+require a Navy for the primary role of defending their territories.
+Although the UK begins with a powerful Navy, both Germany and Italy
+begin with relatively weak navies. While force projection requires naval
+supremacy in order to safely transport troops, the key component to home
+defence is a guerilla warfare style of naval interdiction. Germany has
+the ability to personify this strategy through the use of submarine
+warfare. Ultimately, however, guerilla strategy can never be successful
+in the long term without supporting conventional forces.
 
 ###  Starting Navies 
 
 Each strategy guide will go into more depth regarding how to handle
 starting navies. As a general rule, the player should first reorganize
 all navies into appropriate fleet groups (see
-[below](/Naval_Primer#Task_Forces "Naval Primer") ). Once accomplished,
-three basic methods are often suggested:
+[below](/wiki/Naval_Primer#Task_Forces "Naval Primer") ). Once
+accomplished, three basic methods are often suggested:
 
 -   Retain navy: Use existing navy for limited roles according to fleet
     composition (see below).
@@ -125,16 +121,17 @@ three basic methods are often suggested:
     time required.
 -   Quantity is more important than quality: It is far better to have
     four 1938 Battleships, than two 1941 Battleships.
--   [Carriers](/CV "CV") are a special unit due to the carrier air
+-   [Carriers](/wiki/CV "CV") are a special unit due to the carrier air
     group: these will upgrade as technology advances. The carrier level
     is far less important in combat than the level of the CAG.
 -   Naval doctrines are very important for effective combat. For more
-    information see [Naval Doctrine](/Naval_Doctrine "Naval Doctrine") .
+    information see [Naval
+    Doctrine](/wiki/Naval_Doctrine "Naval Doctrine") .
 -   Only the United States has the capability to research every naval
     technology, and even then they won't get them in time to be ready
     for hostilities.
--   See the [Research](/Research "Research") guide for general research
-    advice.
+-   See the [Research](/wiki/Research "Research") guide for general
+    research advice.
 
 ##    Ship Strengths & Weaknesses 
 
@@ -225,7 +222,7 @@ Weaknesses:
 Strengths:
 
 -   Decent combat effectiveness, toughest screen
--   Good [Combat Range](/Combat_Range "Combat Range") , can support
+-   Good [Combat Range](/wiki/Combat_Range "Combat Range") , can support
     Heavy Cruisers in combat
 
 Weaknesses:
@@ -246,13 +243,13 @@ Weaknesses:
 
 ##  Task Forces 
 
-###    [Carrier Task Force](/Carrier_Task_Force "Carrier Task Force") (CTF) 
+###    [Carrier Task Force](/wiki/Carrier_Task_Force "Carrier Task Force") (CTF) 
 
 The **Carrier Task Force** (CTF) is quite different to the [Surface
-Action Group](/Surface_Action_Group "Surface Action Group") (SAG). The
-CTF relies on driving its enemy from the area rather than killing its
-enemy. When properly used, a CTF is the most potent surface combatant
-group in the game.
+Action Group](/wiki/Surface_Action_Group "Surface Action Group") (SAG).
+The CTF relies on driving its enemy from the area rather than killing
+its enemy. When properly used, a CTF is the most potent surface
+combatant group in the game.
 
 ####  CTF Composition 
 
@@ -269,16 +266,16 @@ HoI2, this was the ideal soaking ship, as the CVL didn't exist. For
 Doomsday and Armageddon, however, a CVL is better suited, as it has a
 far better detection/visibility ratio than a CA.
 
-###    [Surface Action Group](/Surface_Action_Group "Surface Action Group") (SAG) 
+###    [Surface Action Group](/wiki/Surface_Action_Group "Surface Action Group") (SAG) 
 
 The **Surface Action Group** is quite different to the [Carrier Task
-Force](/Carrier_Task_Force "Carrier Task Force") (CTF). The SAG relies
-on killing its enemy, rather than driving it from the area. A SAG is a
-task force of surface ships whose primary duty is to attack and sink
-other surface ships. It relies on *Gun Ships* to do direct damage to the
-Strength of other ships. A SAG also excels in its secondary duty of
-providing Shore Bombardment support to friendly land units fighting in
-coastal areas.
+Force](/wiki/Carrier_Task_Force "Carrier Task Force") (CTF). The SAG
+relies on killing its enemy, rather than driving it from the area. A SAG
+is a task force of surface ships whose primary duty is to attack and
+sink other surface ships. It relies on *Gun Ships* to do direct damage
+to the Strength of other ships. A SAG also excels in its secondary duty
+of providing Shore Bombardment support to friendly land units fighting
+in coastal areas.
 
 ####  Fleet Composition 
 
@@ -289,28 +286,28 @@ cost effective, since 3 BBs can be built for every 2 SHBBs. Finally,
 Heavy Cruisers (CA) can be used, for a cheap, yet still reasonably
 strong SAG.
 
--   6 [Super Heavy Battleships](/Battleship "Battleship") (SHBB) (or
-    normal Battleships)
--   2 [Light Carriers](/Escort_Carrier "Escort Carrier") (CVL)
--   10 [Destroyers](/Destroyer "Destroyer") (DD)
+-   6 [Super Heavy Battleships](/wiki/Battleship "Battleship") (SHBB)
+    (or normal Battleships)
+-   2 [Light Carriers](/wiki/Escort_Carrier "Escort Carrier") (CVL)
+-   10 [Destroyers](/wiki/Destroyer "Destroyer") (DD)
 
 ####  Zerg Fleets 
 
-Zerg fleets are considered a [gamey](/Gamey_tactics "Gamey tactics")
-exploit of the flawed naval combat engine. This exploit was tested and
-made popular by [Blue
-Emu](/index.php?title=User:Blue_Emu&action=edit&redlink=1 "User:Blue Emu (page does not exist)")
+Zerg fleets are considered a
+[gamey](/wiki/Gamey_tactics "Gamey tactics") exploit of the flawed naval
+combat engine. This exploit was tested and made popular by [Blue
+Emu](/wiki/index.php?title=User:Blue_Emu&action=edit&redlink=1 "User:Blue Emu (page does not exist)")
 , and features a fleet that uses a single [Combat
-Range](/Combat_Range "Combat Range") as a way of ensuring as many guns
-as possible are brought to bear on the opposing fleet. Zerg fleets are
-based on the simple fact that the naval model means that the more ships
-in combat, the more damage can be done. The Zerg fleet is feasible only
-if it can close in on its preferred range. Before the Armageddon 1.3beta
-patch, this was possible due to the amazing strength of the light
-carriers which ensure closing to within range of the shortest range
-capital vessel in the fleet. With the Armageddon 1.3beta patch, CVLs
-still help in closing the range, but no longer magically do so. Having
-up-to-date doctrines and good leadership and positioning is now
+Range](/wiki/Combat_Range "Combat Range") as a way of ensuring as many
+guns as possible are brought to bear on the opposing fleet. Zerg fleets
+are based on the simple fact that the naval model means that the more
+ships in combat, the more damage can be done. The Zerg fleet is feasible
+only if it can close in on its preferred range. Before the Armageddon
+1.3beta patch, this was possible due to the amazing strength of the
+light carriers which ensure closing to within range of the shortest
+range capital vessel in the fleet. With the Armageddon 1.3beta patch,
+CVLs still help in closing the range, but no longer magically do so.
+Having up-to-date doctrines and good leadership and positioning is now
 impervious for a zerg fleet. Zerg fleets have two basic forms. The
 original form is less gamey, while the DD zerg is widely considered an
 exploit.
@@ -336,9 +333,9 @@ cost](http://forum.paradoxplaza.com/forum/showpost.php?p=9092898&postcount=9)
 #####  DD Zerg Fleet 
 
 A zerg fleet based on destroyers is an example of hopelessly [gamey
-tactics](/Gamey_tactics "Gamey tactics") , but is certainly an effective
-killing machine. Usually, plain DD-fleets can close in to 5km range by
-the second hour of battle.
+tactics](/wiki/Gamey_tactics "Gamey tactics") , but is certainly an
+effective killing machine. Usually, plain DD-fleets can close in to 5km
+range by the second hour of battle.
 
 -   60 - 90 DD
 
@@ -395,16 +392,16 @@ For later naval warfare:
 
 The engagement range here is 36 and has better firepower.
 
-###    [Marine Amphibious Force](/Marine_Amphibious_Force "Marine Amphibious Force") (MAF) 
+###    [Marine Amphibious Force](/wiki/Marine_Amphibious_Force "Marine Amphibious Force") (MAF) 
 
 A **Marine Amphibious Force** is a limited [Surface Action
-Group](/Surface_Action_Group "Surface Action Group") (SAG) with
-[Transports](/Transport "Transport") (TP) attached to it for the purpose
-of ferrying troops and executing amphibious assaults. Shore bombardment
-will automatically occur during an amphibious assault by all capable
-ships in an adjacent sea zone.
+Group](/wiki/Surface_Action_Group "Surface Action Group") (SAG) with
+[Transports](/wiki/Transport "Transport") (TP) attached to it for the
+purpose of ferrying troops and executing amphibious assaults. Shore
+bombardment will automatically occur during an amphibious assault by all
+capable ships in an adjacent sea zone.
 
-**[Amphibious assault](/Amphibious_assault "Amphibious assault")
+**[Amphibious assault](/wiki/Amphibious_assault "Amphibious assault")
 mission:** This must be issued when the fleet is already located in its
 home port. Otherwise, it will likely result in the entire fleet
 returning to its home port. Alternatively, troops can simply disembark
@@ -421,7 +418,7 @@ Three philosophies are debated, currently.
 1.  *TP-only fleets* : This playstyle argues that TPs should be left in
     TP-only fleets. The reason is that TP-only fleets have a optimal
     [combat
-    range](/index.php?title=Naval_primer&action=edit&redlink=1 "Naval primer (page does not exist)")
+    range](/wiki/index.php?title=Naval_primer&action=edit&redlink=1 "Naval primer (page does not exist)")
     of 450+km and then flee. Adding even a single warship will decrease
     this and let the TPs participate in combat, where they can only
     lose.
@@ -432,16 +429,16 @@ Three philosophies are debated, currently.
 3.  *Surface fleet* : This is the "old-school" version of a MAF: combine
     your TPs with a sufficiently strong SAG to defend the transports.
 
-###    [Anti-Submarine Warfare Group](/Anti-Submarine_Warfare_Group "Anti-Submarine Warfare Group") (ASW Group) 
+###    [Anti-Submarine Warfare Group](/wiki/Anti-Submarine_Warfare_Group "Anti-Submarine Warfare Group") (ASW Group) 
 
 An **Anti-Submarine Warfare Group** is a group of ships whose role is to
-hunt and sink enemy [subs](/Submarine "Submarine") . Since the primary
-anti-sub vessel is the DD, this is the core of any ASW group. An escort
-carrier is also very deadly for subs. In HoI2 and ARMA, ASW fleets are
-quite useful, while in Doomsday, the ASW fleet was largely ineffective.
-The Armageddon 1.3beta patch has solved all remaining bugs with the ASW
-mission order, and it will now work as intended. Especially late-game,
-it is very deadly.
+hunt and sink enemy [subs](/wiki/Submarine "Submarine") . Since the
+primary anti-sub vessel is the DD, this is the core of any ASW group. An
+escort carrier is also very deadly for subs. In HoI2 and ARMA, ASW
+fleets are quite useful, while in Doomsday, the ASW fleet was largely
+ineffective. The Armageddon 1.3beta patch has solved all remaining bugs
+with the ASW mission order, and it will now work as intended. Especially
+late-game, it is very deadly.
 
 ####  ASW Fleet Composition 
 
@@ -451,9 +448,9 @@ Best is smaller numbers for increased range:
 -   2 CLs
 -   4 DDs (possibly with ASW naval brigade)
 
-###  Submarine [Wolfpack](/Wolfpack "Wolfpack") 
+###  Submarine [Wolfpack](/wiki/Wolfpack "Wolfpack") 
 
-Any group of [submarines](/Submarine "Submarine") that includes no
+Any group of [submarines](/wiki/Submarine "Submarine") that includes no
 surface ships forms a **wolfpack** . Large groups are good for naval
 combat in HoI2 and ARMA, but considered ahistorical and gamey.
 
@@ -507,7 +504,7 @@ war years.
 
 ##  Tactics 
 
-[Template:Anthology](/index.php?title=Template:Anthology&action=edit&redlink=1 "Template:Anthology (page does not exist)")
+[Template:Anthology](/wiki/index.php?title=Template:Anthology&action=edit&redlink=1 "Template:Anthology (page does not exist)")
 
 ###  Positioning 
 
@@ -598,8 +595,8 @@ in the mission.
 ###  Combat Range 
 
 Combat range is a factor in determining
-[positioning](/Positioning "Positioning") . Each fleet has an optimum
-combat range it wants to achieve when entering combat, and if it
+[positioning](/wiki/Positioning "Positioning") . Each fleet has an
+optimum combat range it wants to achieve when entering combat, and if it
 achieves surprise it will have a good chance that its positioning will
 be high enough to start the battle at that range. For example, Transport
 Fleets will have their goal to escape, so their optimum range is 450 km.
@@ -626,30 +623,34 @@ it became possible for an SAG with CVLs to close distance.
 **Combat Range** in Naval battles has an optimal value. This value is
 believed to be calculated as described below
 
--   [CV](/CV "CV") is the highest class in calculating optimal range.
--   [Capital Ship](/Capital_Ship "Capital Ship") or [CVL](/CVL "CVL") is
-    the second highest class in calculating optimal range.
--   [Screen Ship](/Screen_Ship "Screen Ship") is the lowest class in
-    calulating optimal range.
+-   [CV](/wiki/CV "CV") is the highest class in calculating optimal
+    range.
+-   [Capital Ship](/wiki/Capital_Ship "Capital Ship") or
+    [CVL](/wiki/CVL "CVL") is the second highest class in calculating
+    optimal range.
+-   [Screen Ship](/wiki/Screen_Ship "Screen Ship") is the lowest class
+    in calulating optimal range.
 -   **Unique class's**
-    -   [Submarine](/Submarine "Submarine") ONLY fleets will attempt to
-        be at 90% of the maximum range of the shortest range submarine
-    -   [Transport](/Transport "Transport") ONLY fleets will attempt to
-        be at 450+ km and then flee.
+    -   [Submarine](/wiki/Submarine "Submarine") ONLY fleets will
+        attempt to be at 90% of the maximum range of the shortest range
+        submarine
+    -   [Transport](/wiki/Transport "Transport") ONLY fleets will
+        attempt to be at 450+ km and then flee.
 
 **Optimal Range** will always be **90%** of the **maximum** range of the
 **shortest** range of the **highest** ship class.
 
-i.e. If you have two [Capital Ship](/Capital_Ship "Capital Ship") 's in
-a fleet. One with a range of 30 and the other with a range of 28, the
-optimal range will be 90% of 28.
+i.e. If you have two [Capital Ship](/wiki/Capital_Ship "Capital Ship")
+'s in a fleet. One with a range of 30 and the other with a range of 28,
+the optimal range will be 90% of 28.
 
 *NOTE* , Range of a lower class is ignored. If you have a [Capital
-Ship](/Capital_Ship "Capital Ship") in a fleet with a range of 28 and
-the rest of the fleet is [Screen Ship](/Screen_Ship "Screen Ship") 's
-with ranges of 32 the optimal range will be 90% of the range of the
-[Capital Ship](/Capital_Ship "Capital Ship") (i.e. 90% of 28) The range
-of the [Screen Ship](/Screen_Ship "Screen Ship") 's is ignored.
+Ship](/wiki/Capital_Ship "Capital Ship") in a fleet with a range of 28
+and the rest of the fleet is [Screen
+Ship](/wiki/Screen_Ship "Screen Ship") 's with ranges of 32 the optimal
+range will be 90% of the range of the [Capital
+Ship](/wiki/Capital_Ship "Capital Ship") (i.e. 90% of 28) The range of
+the [Screen Ship](/wiki/Screen_Ship "Screen Ship") 's is ignored.
 
 ###  Leadership 
 
@@ -661,22 +662,22 @@ consider all of these when assigning leaders.
     simultaneously command without suffering command penalties. This
     works pretty much like land combat command limits except that the
     number of units allowed is different per rank level, ranging from 6
-    to 30 instead of from 1 to 12. Also, [HQs](/HQ "HQ") have no effect
-    on naval command, so there is no naval equivalent of the HQ unit's
-    "doubling" effect on command limits as seen in land combat. When a
-    leader ends up in a position where he has more ships under his
-    command than his command limit allows, all ships beyond the limit
-    get no benefits from his leadership traits and suffer a 25% penalty
-    to their effectiveness to boot. Finally, just like land combat, one
-    leader must command *all* the friendly forces in a particular
-    battle, even if they come from multiple fleets, or even from
-    different allied nationalities.
+    to 30 instead of from 1 to 12. Also, [HQs](/wiki/HQ "HQ") have no
+    effect on naval command, so there is no naval equivalent of the HQ
+    unit's "doubling" effect on command limits as seen in land combat.
+    When a leader ends up in a position where he has more ships under
+    his command than his command limit allows, all ships beyond the
+    limit get no benefits from his leadership traits and suffer a 25%
+    penalty to their effectiveness to boot. Finally, just like land
+    combat, one leader must command *all* the friendly forces in a
+    particular battle, even if they come from multiple fleets, or even
+    from different allied nationalities.
 
 &nbsp;
 
 -   -   **Transports & Large Fleets:** Unlike HoI 1, there is no free
         ride for Transports. Every
-        [TP](/index.php?title=TP&action=edit&redlink=1 "TP (page does not exist)")
+        [TP](/wiki/index.php?title=TP&action=edit&redlink=1 "TP (page does not exist)")
         in the fleet counts against the command limit of the fleet's
         leader. There is a loophole here, though. Since the game engine
         ranks all combat vessels ahead of TPs when it arranges them for
@@ -693,8 +694,8 @@ consider all of these when assigning leaders.
         severely handicap the fleet's positioning value as a result,
         plus non-TPs ships over the limit would still increase the
         stacking penalty for *all* ships in the group (see
-        [stacking](/Naval_Primer#stacking "Naval Primer") , below); so
-        you don't want to play fast and loose with the command limit.
+        [stacking](/wiki/Naval_Primer#stacking "Naval Primer") , below);
+        so you don't want to play fast and loose with the command limit.
         Finally, large task forces are very likely to be surprised, and
         thus suffer positioning penalties.
 
@@ -710,10 +711,10 @@ to retreat early as a result. And don't forget that,
     rating, the better chance his force will enjoy better positioning at
     the start of a battle. This effect is eclipsed, however, by
     detection and visibility. For example, a skill 5 leader commanding a
-    fleet of [BBs](/BB "BB") will still be disadvantaged in positioning
-    when encountering a skill 1 leader commanding a couple of
-    [CVs](/CV "CV") and [DDs](/DD "DD") . Fleet composition is far more
-    important in that regard. But don't ignore it, either!
+    fleet of [BBs](/wiki/BB "BB") will still be disadvantaged in
+    positioning when encountering a skill 1 leader commanding a couple
+    of [CVs](/wiki/CV "CV") and [DDs](/wiki/DD "DD") . Fleet composition
+    is far more important in that regard. But don't ignore it, either!
 
 &nbsp;
 

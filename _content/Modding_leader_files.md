@@ -1,7 +1,3 @@
----
-title: "Modding_leader_files"
----
-
 ## Contents
 
 -   [ 1 Introduction ](#Introduction)
@@ -113,7 +109,7 @@ Example:
 ###  Traits 
 
 This field contains the traits of the leader. Please read [leader
-traits](/Leader_Traits "Leader Traits") for more information.
+traits](/wiki/Leader_Traits "Leader Traits") for more information.
 
 Example:
 

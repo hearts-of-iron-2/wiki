@@ -1,7 +1,3 @@
----
-title: "Oil_Production_per_country_1936 1948"
----
-
 Source: BR Mitchell
 
 |                 |        |        |        |        |        |        |        |        |        |        |        |        |        |

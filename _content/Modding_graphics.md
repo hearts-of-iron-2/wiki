@@ -1,7 +1,3 @@
----
-title: "Modding_graphics"
----
-
 ## Contents
 
 -   [ 1 Grayscale pictures in HoI2 ](#Grayscale_pictures_in_HoI2)
@@ -20,7 +16,7 @@ grayscale palette were the first two colours are reserved for
 transparency.
 
 [Same picture without and with correct
-palette](/index.php?title=Special:Upload&wpDestFile=Greyscale_transparency.png "File:Greyscale transparency.png")
+palette](/wiki/index.php?title=Special:Upload&wpDestFile=Greyscale_transparency.png "File:Greyscale transparency.png")
 
 The easiest way to handle transparency problems is by just using one
 picture which comes with the vanilla game (and thus has the right
@@ -61,14 +57,14 @@ funny colours!**
     change these palettes or adopt them yourself in order to get your
     graphics looking right.
 
-See [Modding Palettes](/Modding_Palettes "Modding Palettes") for more
-detail.
+See [Modding Palettes](/wiki/Modding_Palettes "Modding Palettes") for
+more detail.
 
 **In-game, my graphic is in all random coloured dots and looks NOTHING
 like the graphic that i made!**
 
 [Screwed up Image
-File](/index.php?title=Special:Upload&wpDestFile=Problem1.gif "File:Problem1.gif")
+File](/wiki/index.php?title=Special:Upload&wpDestFile=Problem1.gif "File:Problem1.gif")
 
 -   If it looks something like the picture above, then your issue is
     that the size is incorrect. You'll need to change the graphic to the

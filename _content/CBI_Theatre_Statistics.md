@@ -1,7 +1,3 @@
----
-title: "CBI_Theatre_Statistics"
----
-
 ## Contents
 
 -   [ 1 Manpower ](#Manpower)
@@ -496,7 +492,7 @@ employed at least 30 workers.
 -   700 000 tons reached \[Hankou\] before that city fell into Japanese
     hands
 -   2 000 tons a month came in though French
-    [Indochina](/Indochina "Indochina")
+    [Indochina](/wiki/Indochina "Indochina")
 -   Burma Road supplied about 7 500 tons of American lend-lease goods
     per month
     -   before this, Germany provided about 60% of Chinese imports and
@@ -567,8 +563,8 @@ Princeton University Press: New Jersey, 1956, ISBN 0313230129, p. 157
 
 -   Pre-1941 Loans to China from other countries: (3.144)
     -   French loaned USD$5 000 000 to China for the construction of a
-        railway from the [Indochina](/Indochina "Indochina") border to
-        Nanning in Guangxi
+        railway from the [Indochina](/wiki/Indochina "Indochina") border
+        to Nanning in Guangxi
     -   US purchased Chinese silver to increase China's purchasing power
         on the domestic market valued at USD$ 157 000 000
     -   In Dec 1938, US and Britain granted loans of US $25 000 000 and
@@ -822,4 +818,4 @@ for a monthly goal of 5,000 tons, even this supplement was unrealized."
 -   There was another railway line from Hanoi to Kunmin which also
     became occupied by the Japanese in the late 1940s.
 
-[China Leaders](/China_Leaders "China Leaders")
+[China Leaders](/wiki/China_Leaders "China Leaders")

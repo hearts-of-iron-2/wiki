@@ -1,8 +1,4 @@
----
-title: "Do_I_build_Factories?"
----
-
-[Template:Anthology](/index.php?title=Template:Anthology&action=edit&redlink=1 "Template:Anthology (page does not exist)")
+[Template:Anthology](/wiki/index.php?title=Template:Anthology&action=edit&redlink=1 "Template:Anthology (page does not exist)")
 
 There is a wide variety of views on whether or not to build factories.
 It depends on which nation you are playing and how you are playing them.
@@ -10,8 +6,8 @@ It depends on which nation you are playing and how you are playing them.
 The increased Industrial Capacity for building more factories is
 relatively less important in HOI2 than HOI1. However, increasing your
 Industrial Capacity can have an effect on
-[Research](/Research "Research") , and your [Transport
-Capacity](/Transport_Capacity_and_Supply_Efficiency_FAQ "Transport Capacity and Supply Efficiency FAQ")
+[Research](/wiki/Research "Research") , and your [Transport
+Capacity](/wiki/Transport_Capacity_and_Supply_Efficiency_FAQ "Transport Capacity and Supply Efficiency FAQ")
 , which can also be crucial.
 
 ## Contents

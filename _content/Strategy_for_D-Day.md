@@ -1,13 +1,9 @@
----
-title: "Strategy_for_D Day"
----
-
 [Template:Scenario
-guides](/index.php?title=Template:Scenario_guides&action=edit&redlink=1 "Template:Scenario guides (page does not exist)")
+guides](/wiki/index.php?title=Template:Scenario_guides&action=edit&redlink=1 "Template:Scenario guides (page does not exist)")
 
-[![Shieldals.jpg](/images/5/57/Shieldals.jpg)](/File:Shieldals.jpg)
-[![Vs.jpg](/images/9/93/Vs.jpg)](/File:Vs.jpg)
-[![Shieldger.jpg](/images/7/71/Shieldger.jpg)](/File:Shieldger.jpg)
+[![Shieldals.jpg](/images/5/57/Shieldals.jpg)](/wiki/File:Shieldals.jpg)
+[![Vs.jpg](/images/9/93/Vs.jpg)](/wiki/File:Vs.jpg)
+[![Shieldger.jpg](/images/7/71/Shieldger.jpg)](/wiki/File:Shieldger.jpg)
 
 ##  German Strategy 
 

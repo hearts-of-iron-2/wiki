@@ -1,7 +1,3 @@
----
-title: "Unit_FAQ"
----
-
 ## Contents
 
 -   [ 1 Units ](#Units)
@@ -83,7 +79,8 @@ must be at war to use an ally's bases.
 ####    How do I strategically redeploy units? 
 
 The following requirements must be satisfied for [Strategic
-Redeployment](/Strategic_Redeployment "Strategic Redeployment") (SR):
+Redeployment](/wiki/Strategic_Redeployment "Strategic Redeployment")
+(SR):
 
 -   Rear Area Supply Dumps (an Infantry tech) is researched.
 -   There is a land connection between the current location of division
@@ -112,8 +109,8 @@ conditions must be satisfied:
 -   The paratrooper and transport must be in the same province. Load the
     paratrooper just before the mission begins. Use offensive supply for
     the para if you can afford it.
--   [Weather](/Weather "Weather") must not be stormy (stormy weather
-    grounds all air operations).
+-   [Weather](/wiki/Weather "Weather") must not be stormy (stormy
+    weather grounds all air operations).
 -   Also note that flying divisions around with air transports is not
     allowed in the game. Historically divisions in WW2 moved around by
     land or sea. Gliders also were a component of every air transport
@@ -141,9 +138,10 @@ HQ must be commanded by a General or Field Marshall in an adjacent
 province to have any effect. HQ allow you to have more div attacking,
 but they do not allow you to exceed the rank formation capacities of 1,
 3, 9, and 12 div. For more information on HQ range, please refer to this
-[guide](/HQ_Units_in_Action "HQ Units in Action") . For a comprehensive
-review of land combat and HQ, review [Land Combat Efficiency
-FAQ](/Land_Combat_Efficiency_FAQ "Land Combat Efficiency FAQ") .
+[guide](/wiki/HQ_Units_in_Action "HQ Units in Action") . For a
+comprehensive review of land combat and HQ, review [Land Combat
+Efficiency
+FAQ](/wiki/Land_Combat_Efficiency_FAQ "Land Combat Efficiency FAQ") .
 
 ####    How to select more than one air groups? 
 

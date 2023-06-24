@@ -1,9 +1,5 @@
----
-title: "Map_(Utilities)"
----
-
-These are [Utilities](/Utilities "Utilities") that enable you to view
-with the map
+These are [Utilities](/wiki/Utilities "Utilities") that enable you to
+view with the map
 
 ## Contents
 

@@ -1,116 +1,112 @@
----
-title: "Germany_Strategy_Guide"
----
-
 [TABLE]
 
-[File:Ger-topbar.JPG](/index.php?title=Special:Upload&wpDestFile=Ger-topbar.JPG "File:Ger-topbar.JPG")
+[File:Ger-topbar.JPG](/wiki/index.php?title=Special:Upload&wpDestFile=Ger-topbar.JPG "File:Ger-topbar.JPG")
 
-[Country guides](/Country_guides "Country guides")
+[Country guides](/wiki/Country_guides "Country guides")
 
-[Major powers](/Major_power "Major power")
+[Major powers](/wiki/Major_power "Major power")
 
 ------------------------------------------------------------------------
 
-[France](/France "France")  
-[Germany](/Germany "Germany")  
-[Italy](/Italy "Italy")  
-[Japan](/Japan "Japan")  
-[Soviet Union](/Soviet_Union "Soviet Union")  
-[United Kingdom](/United_Kingdom "United Kingdom")  
-[USA](/USA "USA")
+[France](/wiki/France "France")  
+[Germany](/wiki/Germany "Germany")  
+[Italy](/wiki/Italy "Italy")  
+[Japan](/wiki/Japan "Japan")  
+[Soviet Union](/wiki/Soviet_Union "Soviet Union")  
+[United Kingdom](/wiki/United_Kingdom "United Kingdom")  
+[USA](/wiki/USA "USA")
 
 Regional powers
 
 ------------------------------------------------------------------------
 
-[Argentina](/Argentina "Argentina")  
-[Australia](/Australia "Australia")  
-[Belgium](/Belgium "Belgium")  
-[Bulgaria](/Bulgaria "Bulgaria")  
-[Brazil](/Brazil "Brazil")  
-[Canada](/Canada "Canada")  
-[Czechoslovakia](/Czechoslovakia "Czechoslovakia")  
-[Guangxi Clique](/Guangxi_Clique "Guangxi Clique")  
-[Hungary](/Hungary "Hungary")  
-[Manchukuo](/Manchukuo "Manchukuo")  
-[Nationalist China](/Nationalist_China "Nationalist China")  
-[Nationalist Spain](/Nationalist_Spain "Nationalist Spain")  
-[Netherlands](/Netherlands "Netherlands")  
-[Poland](/Poland "Poland")  
-[Republican Spain](/Republican_Spain "Republican Spain")  
-[Romania](/Romania "Romania")  
-[Sweden](/Sweden "Sweden")  
-[Turkey](/Turkey "Turkey")  
-[Yugoslavia](/Yugoslavia "Yugoslavia")
+[Argentina](/wiki/Argentina "Argentina")  
+[Australia](/wiki/Australia "Australia")  
+[Belgium](/wiki/Belgium "Belgium")  
+[Bulgaria](/wiki/Bulgaria "Bulgaria")  
+[Brazil](/wiki/Brazil "Brazil")  
+[Canada](/wiki/Canada "Canada")  
+[Czechoslovakia](/wiki/Czechoslovakia "Czechoslovakia")  
+[Guangxi Clique](/wiki/Guangxi_Clique "Guangxi Clique")  
+[Hungary](/wiki/Hungary "Hungary")  
+[Manchukuo](/wiki/Manchukuo "Manchukuo")  
+[Nationalist China](/wiki/Nationalist_China "Nationalist China")  
+[Nationalist Spain](/wiki/Nationalist_Spain "Nationalist Spain")  
+[Netherlands](/wiki/Netherlands "Netherlands")  
+[Poland](/wiki/Poland "Poland")  
+[Republican Spain](/wiki/Republican_Spain "Republican Spain")  
+[Romania](/wiki/Romania "Romania")  
+[Sweden](/wiki/Sweden "Sweden")  
+[Turkey](/wiki/Turkey "Turkey")  
+[Yugoslavia](/wiki/Yugoslavia "Yugoslavia")
 
-[Minor powers](/Minor_power "Minor power")
-
-------------------------------------------------------------------------
-
-[Austria](/Austria "Austria")  
-[Chile](/index.php?title=Chile&action=edit&redlink=1 "Chile (page does not exist)")  
-[Colombia](/index.php?title=Colombia&action=edit&redlink=1 "Colombia (page does not exist)")  
-[Denmark](/Denmark "Denmark")  
-[Finland](/Finland "Finland")  
-[Greece](/Greece "Greece")  
-[Ireland](/Ireland "Ireland")  
-[Mexico](/Mexico "Mexico")  
-[Norway](/index.php?title=Norway&action=edit&redlink=1 "Norway (page does not exist)")  
-[Peru](/Peru "Peru")  
-[Portugal](/Portugal "Portugal")  
-[Shanxi](/Shanxi "Shanxi")  
-[South Africa](/South_Africa "South Africa")  
-[Switzerland](/Switzerland "Switzerland")
-
-[Micro powers](/Micro_power "Micro power")
+[Minor powers](/wiki/Minor_power "Minor power")
 
 ------------------------------------------------------------------------
 
-[Afghanistan](/Afghanistan "Afghanistan")  
-[Albania](/Albania "Albania")  
-[Bhutan](/Bhutan "Bhutan")  
-[Bolivia](/index.php?title=Bolivia&action=edit&redlink=1 "Bolivia (page does not exist)")  
-[Communist China](/Communist_China "Communist China")  
+[Austria](/wiki/Austria "Austria")  
+[Chile](/wiki/index.php?title=Chile&action=edit&redlink=1 "Chile (page does not exist)")  
+[Colombia](/wiki/index.php?title=Colombia&action=edit&redlink=1 "Colombia (page does not exist)")  
+[Denmark](/wiki/Denmark "Denmark")  
+[Finland](/wiki/Finland "Finland")  
+[Greece](/wiki/Greece "Greece")  
+[Ireland](/wiki/Ireland "Ireland")  
+[Mexico](/wiki/Mexico "Mexico")  
+[Norway](/wiki/index.php?title=Norway&action=edit&redlink=1 "Norway (page does not exist)")  
+[Peru](/wiki/Peru "Peru")  
+[Portugal](/wiki/Portugal "Portugal")  
+[Shanxi](/wiki/Shanxi "Shanxi")  
+[South Africa](/wiki/South_Africa "South Africa")  
+[Switzerland](/wiki/Switzerland "Switzerland")
+
+[Micro powers](/wiki/Micro_power "Micro power")
+
+------------------------------------------------------------------------
+
+[Afghanistan](/wiki/Afghanistan "Afghanistan")  
+[Albania](/wiki/Albania "Albania")  
+[Bhutan](/wiki/Bhutan "Bhutan")  
+[Bolivia](/wiki/index.php?title=Bolivia&action=edit&redlink=1 "Bolivia (page does not exist)")  
+[Communist China](/wiki/Communist_China "Communist China")  
 [Costa
-Rica](/index.php?title=Costa_Rica&action=edit&redlink=1 "Costa Rica (page does not exist)")  
-[Cuba](/Cuba "Cuba")  
-[Dominican Republic](/Dominican_Republic "Dominican Republic")  
-[Ecuador](/index.php?title=Ecuador&action=edit&redlink=1 "Ecuador (page does not exist)")  
+Rica](/wiki/index.php?title=Costa_Rica&action=edit&redlink=1 "Costa Rica (page does not exist)")  
+[Cuba](/wiki/Cuba "Cuba")  
+[Dominican Republic](/wiki/Dominican_Republic "Dominican Republic")  
+[Ecuador](/wiki/index.php?title=Ecuador&action=edit&redlink=1 "Ecuador (page does not exist)")  
 [El
-Salvador](/index.php?title=El_Salvador&action=edit&redlink=1 "El Salvador (page does not exist)")  
-[Estonia](/Estonia "Estonia")  
-[Ethiopia](/Ethiopia "Ethiopia")  
-[Guatemala](/Guatemala "Guatemala")  
-[Haiti](/index.php?title=Haiti&action=edit&redlink=1 "Haiti (page does not exist)")  
-[Honduras](/index.php?title=Honduras&action=edit&redlink=1 "Honduras (page does not exist)")  
-[Iraq](/Iraq "Iraq")  
-[Latvia](/Latvia "Latvia")  
-[Liberia](/Liberia "Liberia")  
-[Lithuania](/Lithuania "Lithuania")  
-[Luxemburg](/Luxemburg "Luxemburg")  
-[Mongolia](/Mongolia "Mongolia")  
-[New Zealand](/New_Zealand "New Zealand")  
-[Nepal](/index.php?title=Nepal&action=edit&redlink=1 "Nepal (page does not exist)")  
-[Nicaragua](/index.php?title=Nicaragua&action=edit&redlink=1 "Nicaragua (page does not exist)")  
-[Oman](/index.php?title=Oman&action=edit&redlink=1 "Oman (page does not exist)")  
-[Panama](/index.php?title=Panama&action=edit&redlink=1 "Panama (page does not exist)")  
-[Paraguay](/index.php?title=Paraguay&action=edit&redlink=1 "Paraguay (page does not exist)")  
-[Persia](/Persia "Persia")  
-[Philippines](/index.php?title=Philippines&action=edit&redlink=1 "Philippines (page does not exist)")  
+Salvador](/wiki/index.php?title=El_Salvador&action=edit&redlink=1 "El Salvador (page does not exist)")  
+[Estonia](/wiki/Estonia "Estonia")  
+[Ethiopia](/wiki/Ethiopia "Ethiopia")  
+[Guatemala](/wiki/Guatemala "Guatemala")  
+[Haiti](/wiki/index.php?title=Haiti&action=edit&redlink=1 "Haiti (page does not exist)")  
+[Honduras](/wiki/index.php?title=Honduras&action=edit&redlink=1 "Honduras (page does not exist)")  
+[Iraq](/wiki/Iraq "Iraq")  
+[Latvia](/wiki/Latvia "Latvia")  
+[Liberia](/wiki/Liberia "Liberia")  
+[Lithuania](/wiki/Lithuania "Lithuania")  
+[Luxemburg](/wiki/Luxemburg "Luxemburg")  
+[Mongolia](/wiki/Mongolia "Mongolia")  
+[New Zealand](/wiki/New_Zealand "New Zealand")  
+[Nepal](/wiki/index.php?title=Nepal&action=edit&redlink=1 "Nepal (page does not exist)")  
+[Nicaragua](/wiki/index.php?title=Nicaragua&action=edit&redlink=1 "Nicaragua (page does not exist)")  
+[Oman](/wiki/index.php?title=Oman&action=edit&redlink=1 "Oman (page does not exist)")  
+[Panama](/wiki/index.php?title=Panama&action=edit&redlink=1 "Panama (page does not exist)")  
+[Paraguay](/wiki/index.php?title=Paraguay&action=edit&redlink=1 "Paraguay (page does not exist)")  
+[Persia](/wiki/Persia "Persia")  
+[Philippines](/wiki/index.php?title=Philippines&action=edit&redlink=1 "Philippines (page does not exist)")  
 [Saudi
-Arabia](/index.php?title=Saudi_Arabia&action=edit&redlink=1 "Saudi Arabia (page does not exist)")  
-[Siam](/Siam "Siam")  
-[Sinkiang](/index.php?title=Sinkiang&action=edit&redlink=1 "Sinkiang (page does not exist)")  
-[Tannu Tuva](/Tannu_Tuva "Tannu Tuva")  
-[Tibet](/index.php?title=Tibet&action=edit&redlink=1 "Tibet (page does not exist)")  
-[Venezuela](/index.php?title=Venezuela&action=edit&redlink=1 "Venezuela (page does not exist)")  
-[Uruguay](/index.php?title=Uruguay&action=edit&redlink=1 "Uruguay (page does not exist)")  
-[Xibei San Ma](/Xibei_San_Ma "Xibei San Ma")  
-[Yemen](/index.php?title=Yemen&action=edit&redlink=1 "Yemen (page does not exist)")  
-[Yunnan](/Yunnan "Yunnan")
+Arabia](/wiki/index.php?title=Saudi_Arabia&action=edit&redlink=1 "Saudi Arabia (page does not exist)")  
+[Siam](/wiki/Siam "Siam")  
+[Sinkiang](/wiki/index.php?title=Sinkiang&action=edit&redlink=1 "Sinkiang (page does not exist)")  
+[Tannu Tuva](/wiki/Tannu_Tuva "Tannu Tuva")  
+[Tibet](/wiki/index.php?title=Tibet&action=edit&redlink=1 "Tibet (page does not exist)")  
+[Venezuela](/wiki/index.php?title=Venezuela&action=edit&redlink=1 "Venezuela (page does not exist)")  
+[Uruguay](/wiki/index.php?title=Uruguay&action=edit&redlink=1 "Uruguay (page does not exist)")  
+[Xibei San Ma](/wiki/Xibei_San_Ma "Xibei San Ma")  
+[Yemen](/wiki/index.php?title=Yemen&action=edit&redlink=1 "Yemen (page does not exist)")  
+[Yunnan](/wiki/Yunnan "Yunnan")
 
-[Template:GermanyStrategyGuides](/index.php?title=Template:GermanyStrategyGuides&action=edit&redlink=1 "Template:GermanyStrategyGuides (page does not exist)")
+[Template:GermanyStrategyGuides](/wiki/index.php?title=Template:GermanyStrategyGuides&action=edit&redlink=1 "Template:GermanyStrategyGuides (page does not exist)")
 
 ## Contents
 
@@ -273,7 +269,7 @@ January, 1942.
 ###  Ministers 
 
 Germany's starting ministers have fairly good
-[traits](/Minister_Traits "Minister Traits") , but the setup can be
+[traits](/wiki/Minister_Traits "Minister Traits") , but the setup can be
 improved. A few obvious changes should be made before occupation of the
 Rhineland: Minster of Security: Gurtner; and Armaments Minister: Schacht
 (10% IC bonus). Also Head of Intelligence to Oskar von Hindenburg is a
@@ -302,8 +298,8 @@ Blomberg, will improve the supply and TC situation.
 For Naval Minister, the best pick depends on the naval policy:
 
 -   **Decisive Naval Battle** is best for conventional [Surface Action
-    Groups](/Surface_Action_Group "Surface Action Group") and
-    [Cruizerg](/Surface_Action_Group#Cruizergs "Surface Action Group")
+    Groups](/wiki/Surface_Action_Group "Surface Action Group") and
+    [Cruizerg](/wiki/Surface_Action_Group#Cruizergs "Surface Action Group")
     fleets, but hurts carriers, available at start.
 -   **Open Seas** is best for convoy defense, but makes subs more
     vulnerable, available at start.
@@ -324,7 +320,7 @@ Envenlopment** and **Naval Aviation** ministers are gained in 1944 and
 1945.
 
 See also a complete list of [German
-Ministers](/German_Ministers "German Ministers") .
+Ministers](/wiki/German_Ministers "German Ministers") .
 
 ##  Intelligence 
 
@@ -375,7 +371,7 @@ new players.
 ###  Army 
 
 The majority of the German Army (Wehrmacht) should consist of infantry.
-[Militia](/Militia "Militia") can also be helpful if used properly,
+[Militia](/wiki/Militia "Militia") can also be helpful if used properly,
 since Germany has a need for defensive divisions to hold front lines
 (especially against the Soviet Union). An efficient Infantry/Militia mix
 for defensive lines is a 9 division army of 4 militia and 5 infantry.
@@ -404,13 +400,13 @@ The German Navy (Kriegsmarine) has two practical/realistic options:
     are more powerful, and when serving in large wolf packs (30 sub
     stacks), they can seriously damage nearly any opposing fleet.
 -   Surface Fleet: Germany can abandon the [Sealane
-    Interdiction](/Sealane_Interdiction "Sealane Interdiction") doctrine
-    favored by submarines, and go for the
-    [Fleet-in-Being](/Fleet-in-Being "Fleet-in-Being") doctrine. On this
-    route, Germany can build Battleships (SHBB & BB) and use destroyers
-    as screens. This requires considerable time and investment, but when
-    combined with light carriers, Germany will be a formidable Naval
-    power.
+    Interdiction](/wiki/Sealane_Interdiction "Sealane Interdiction")
+    doctrine favored by submarines, and go for the
+    [Fleet-in-Being](/wiki/Fleet-in-Being "Fleet-in-Being") doctrine. On
+    this route, Germany can build Battleships (SHBB & BB) and use
+    destroyers as screens. This requires considerable time and
+    investment, but when combined with light carriers, Germany will be a
+    formidable Naval power.
 
 ###  Air Force 
 
@@ -501,8 +497,8 @@ Since Germany is the most event driven nation of the game, most players
 (noob and veteran alike) conduct war on the basis of events. Since
 Germany is a major power, however, early war is a possibility, including
 [early
-annexations](/Germany_Early_Annexations "Germany Early Annexations") .
-Generally, however, early war is viewed as gamey and too easy for
+annexations](/wiki/Germany_Early_Annexations "Germany Early Annexations")
+. Generally, however, early war is viewed as gamey and too easy for
 Germany.
 
 ###  Condor Legion: Spanish Civil War 
@@ -514,7 +510,7 @@ direct intervention of the German Army, which means war with Republican
 Spain. A friendly Spain serves two strategic goals for Germany:
 
 -   Access to Gibraltar, which allows Germany to help seize control of
-    the Mediterranean Sea for [Italy](/Italy "Italy") .
+    the Mediterranean Sea for [Italy](/wiki/Italy "Italy") .
 -   A soft underbelly to France, making the invasion of France easier.
 
 Historically, Nationalist Spain was neutral in the war and German
@@ -545,7 +541,7 @@ On 1 September 1939, the war with Poland and the Allies begins by event.
 Germany will need enough troops (around 6 divisions each) in the three
 provinces bordering France to protect her Western front. Defeating
 Poland is possible within two weeks. The [HQ Units in
-Action](/HQ_Units_in_Action "HQ Units in Action") strategy guide
+Action](/wiki/HQ_Units_in_Action "HQ Units in Action") strategy guide
 provides an excellent guide in the effective use of HQ units, combined
 with armor and motorized infantry, in order to quickly annex Poland.
 
@@ -615,7 +611,7 @@ There is 99% chance that Denmark will ask for cease fire and then a few
 days later Denmark is annexed “peacefully” by Germany. Unfortunately if
 you take this path, you will lose Greenland and Iceland to USA. See the
 method on how to prevent it in
-[tricks](/Germany_Strategy_Guide#Annexing_Denmark_with_Greenland_and_Iceland "Germany Strategy Guide")
+[tricks](/wiki/Germany_Strategy_Guide#Annexing_Denmark_with_Greenland_and_Iceland "Germany Strategy Guide")
 section.
 
 Revisiting Norway, a simple and low-risk means of capturing it is by
@@ -646,7 +642,7 @@ neutralized UK’s navy.
 ###  Operation Barbarossa: Taming the Bear 
 
 -   *See the article [Germany Strategy- Taming the
-    Bear](/Germany_Strategy-_Taming_the_Bear "Germany Strategy- Taming the Bear")*
+    Bear](/wiki/Germany_Strategy-_Taming_the_Bear "Germany Strategy- Taming the Bear")*
 
 ####  The Bitter Peace 
 
@@ -718,11 +714,11 @@ partisan levels with a dissent reduction of 50%.
 If enough provinces in the vicinity of Sverdlovsk can be captured, you
 might be able to create the puppet state of Transural Republic before
 the Bitter Peace fires. In like manner you can create some puppet states
-in the southern region of central Asia near [Persia](/Persia "Persia") .
-If you still have these states when the Bitter Peace fires, they will
-remain in the Axis. If you later declare war on Persia it may annex some
-of the central Asian puppets, but when you then annex Persia you get the
-whole thing!
+in the southern region of central Asia near
+[Persia](/wiki/Persia "Persia") . If you still have these states when
+the Bitter Peace fires, they will remain in the Axis. If you later
+declare war on Persia it may annex some of the central Asian puppets,
+but when you then annex Persia you get the whole thing!
 
 ###  Gibraltar 
 
@@ -803,7 +799,7 @@ easily strike at the heart of England.
 
 It may be a good idea if you combine operation Sealion with invasion in
 Ireland and Iceland (if you did not try to
-[keep](/Germany_Strategy_Guide#Annexing_Denmark_with_Greenland_and_Iceland "Germany Strategy Guide")
+[keep](/wiki/Germany_Strategy_Guide#Annexing_Denmark_with_Greenland_and_Iceland "Germany Strategy Guide")
 it). Iceland will serve as a good launch pad for further invasion on
 Greenland and America.
 
@@ -813,10 +809,10 @@ With British island gone, African possessions ransacked, only India left
 for UK. The best attack route is from Persia. You can create a puppet
 Pakistan if you capture enough provinces in western India, and from
 there you can annex
-[Nepal](/index.php?title=Nepal&action=edit&redlink=1 "Nepal (page does not exist)")
-and [Bhutan](/Bhutan "Bhutan") , though the infrastructure (Himalayas)
-may be challenging. There is an event 13 that can lead to UK's
-surrender. The conditions are:
+[Nepal](/wiki/index.php?title=Nepal&action=edit&redlink=1 "Nepal (page does not exist)")
+and [Bhutan](/wiki/Bhutan "Bhutan") , though the infrastructure
+(Himalayas) may be challenging. There is an event 13 that can lead to
+UK's surrender. The conditions are:
 
 -   Paris is in German hand or Germany is not at war with France
 -   London is captured by Germany
@@ -862,7 +858,7 @@ USA.
 ###    What's next? 
 
 Conquer the world! If you need more time, use the no time limit mod in
-[utilities](/Utilities "Utilities") section.
+[utilities](/wiki/Utilities "Utilities") section.
 
 ##  Miscellaneous 
 
@@ -968,8 +964,8 @@ teams**
 **Poor Raw Materials production pre-war**
 
 -   Peacetime trading strategy must be focused on acquiring [rare
-    materials](/Rare_Materials "Rare Materials") , usually at the price
-    of supplies (i.e. purchased with IC).
+    materials](/wiki/Rare_Materials "Rare Materials") , usually at the
+    price of supplies (i.e. purchased with IC).
 -   After expanding throughout Europe, less of a problem. Especially
     after extensive stockpiling of resources during peacetime.
 
@@ -987,8 +983,8 @@ teams**
 
 ##  Gamey Tactics 
 
-Germany has a variety of [gamey tactics](/Gamey_tactics "Gamey tactics")
-possible.
+Germany has a variety of [gamey
+tactics](/wiki/Gamey_tactics "Gamey tactics") possible.
 
 ###  Germanic Ireland: Totally Optional 
 

@@ -1,7 +1,3 @@
----
-title: "DAIM"
----
-
 DAIM stands for "Determined AI Modification" and is a mod that solely
 focuses on improving the AI. This is accomplished by ensuring the AI
 researches and builds the most effective units possible, rather than
@@ -16,4 +12,5 @@ files.
 -   Current Version: (does not use versioning)
 -   Last Update: April, 2007
 -   Popularity: *1,000 - 5,000 posts*
--   Compatibility: [HOI2, DD, ARMA](/Abbreviations#H "Abbreviations")
+-   Compatibility: [HOI2, DD,
+    ARMA](/wiki/Abbreviations#H "Abbreviations")

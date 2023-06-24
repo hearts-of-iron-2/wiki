@@ -1,14 +1,10 @@
----
-title: "Strategy_for_Desert_Fox"
----
-
 [Template:Scenario
-guides](/index.php?title=Template:Scenario_guides&action=edit&redlink=1 "Template:Scenario guides (page does not exist)")
+guides](/wiki/index.php?title=Template:Scenario_guides&action=edit&redlink=1 "Template:Scenario guides (page does not exist)")
 
-[![Shieldger.jpg](/images/7/71/Shieldger.jpg)](/File:Shieldger.jpg)
-[![Shieldita.jpg](/images/2/23/Shieldita.jpg)](/File:Shieldita.jpg)
-[![Vs.jpg](/images/9/93/Vs.jpg)](/File:Vs.jpg)
-[![Shieldeng.jpg](/images/c/c2/Shieldeng.jpg)](/File:Shieldeng.jpg)
+[![Shieldger.jpg](/images/7/71/Shieldger.jpg)](/wiki/File:Shieldger.jpg)
+[![Shieldita.jpg](/images/2/23/Shieldita.jpg)](/wiki/File:Shieldita.jpg)
+[![Vs.jpg](/images/9/93/Vs.jpg)](/wiki/File:Vs.jpg)
+[![Shieldeng.jpg](/images/c/c2/Shieldeng.jpg)](/wiki/File:Shieldeng.jpg)
 
 ##  German Strategy 
 

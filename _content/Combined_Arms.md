@@ -1,15 +1,12 @@
----
-title: "Combined_Arms"
----
-
 **Combined Arms** is a [combat
-modifier](/index.php?title=Combat_modifier&action=edit&redlink=1 "Combat modifier (page does not exist)")
+modifier](/wiki/index.php?title=Combat_modifier&action=edit&redlink=1 "Combat modifier (page does not exist)")
 that can be acheaved via mixed formations (refer [Land Combat Efficiency
-FAQ](/Land_Combat_Efficiency_FAQ "Land Combat Efficiency FAQ") )
+FAQ](/wiki/Land_Combat_Efficiency_FAQ "Land Combat Efficiency FAQ") )
 
 -   when units number \<= [Command Penalty
-    Capacity](/Command_Penalty_Capacity "Command Penalty Capacity") (
-    [CPC](/index.php?title=CPC&action=edit&redlink=1 "CPC (page does not exist)")
+    Capacity](/wiki/Command_Penalty_Capacity "Command Penalty Capacity")
+    (
+    [CPC](/wiki/index.php?title=CPC&action=edit&redlink=1 "CPC (page does not exist)")
     )(not double),
 -   To get the Combined Arms bonus, the mix of hard vs soft divisions
     has to be within a range of 1/3 to 2/3. Typically that would be 1:2

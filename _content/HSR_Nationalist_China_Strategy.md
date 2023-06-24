@@ -1,7 +1,3 @@
----
-title: "HSR_Nationalist_China_Strategy"
----
-
 If you're playing with a mod such as Historical Stony Road (which I
 personally recommend), you will experience a slightly different and much
 more challenging gameplay as Nationalist China. Although the idea

@@ -1,10 +1,6 @@
----
-title: "Wolfpack"
----
-
 ###  Submarine Wolfpack 
 
-Any group of [submarines](/Submarine "Submarine") that includes no
+Any group of [submarines](/wiki/Submarine "Submarine") that includes no
 surface ships forms a **wolfpack** . Large groups are good for naval
 combat in HoI2 and ARMA, but considered ahistorical and gamey.
 

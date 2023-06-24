@@ -1,7 +1,3 @@
----
-title: "Modding_Palettes"
----
-
 This file is accurate as of version 1.2
 
 Just a quick table for which palette files are attached to which

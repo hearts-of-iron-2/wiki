@@ -1,7 +1,3 @@
----
-title: "Kaiserreich"
----
-
 ##  Introduction 
 
 Kaiserrech: Legacy of the Weltkrieg is an Ahistorical Modification to
@@ -20,21 +16,21 @@ American War to name a few.
 -   Current Version: Beta 4
 -   Last Update: May, 2008
 -   Popularity: **Major Mod** (independent forum and wiki)
--   Compatibility: [HOI2](/HOI2 "HOI2") , [DD](/DD "DD") ,
-    [ARMA](/ARMA "ARMA")
+-   Compatibility: [HOI2](/wiki/HOI2 "HOI2") , [DD](/wiki/DD "DD") ,
+    [ARMA](/wiki/ARMA "ARMA")
 
 [World
-Map](/index.php?title=Special:Upload&wpDestFile=Kaiserrech-world.jpg "File:Kaiserrech-world.jpg")
+Map](/wiki/index.php?title=Special:Upload&wpDestFile=Kaiserrech-world.jpg "File:Kaiserrech-world.jpg")
 
 ##  Features 
 
-|                  |                                                     |
-|------------------|-----------------------------------------------------|
-| Feature          | Description                                         |
-| Graphics & Sound | [GIP](/GIP "GIP") , [SKIF](/SKIF "SKIF") included.  |
-| AI               |                                                     |
-| Technology       |                                                     |
-| Territory        | Map reflects a victory by the Central Powers in WW1 |
-| Events           |                                                     |
-| New Units        |                                                     |
-| Game Mechanics   |                                                     |
+|                  |                                                              |
+|------------------|--------------------------------------------------------------|
+| Feature          | Description                                                  |
+| Graphics & Sound | [GIP](/wiki/GIP "GIP") , [SKIF](/wiki/SKIF "SKIF") included. |
+| AI               |                                                              |
+| Technology       |                                                              |
+| Territory        | Map reflects a victory by the Central Powers in WW1          |
+| Events           |                                                              |
+| New Units        |                                                              |
+| Game Mechanics   |                                                              |

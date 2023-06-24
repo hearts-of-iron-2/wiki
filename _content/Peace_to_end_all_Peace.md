@@ -1,7 +1,3 @@
----
-title: "Peace_to_end_all_Peace"
----
-
 This mod will give you the possibility to play as Imperial Germany,
 Austria-Hungary, Russian Empire, Ottoman Empire, etc in 1936, with the
 main idea than WWI never happened. The turning point? Here again Serbia
@@ -31,7 +27,8 @@ resources.
 -   Current Version: 0.6.1
 -   Last Update: July, 2008
 -   Popularity: *1,000 posts*
--   Compatibility: [HOI2, DD, ARMA](/Abbreviations#H "Abbreviations")
+-   Compatibility: [HOI2, DD,
+    ARMA](/wiki/Abbreviations#H "Abbreviations")
 
 **Features Explained:**
 

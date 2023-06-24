@@ -1,8 +1,4 @@
----
-title: "US_Strategy_ _Fascist_US_Scenario"
----
-
-[Template:USAStrategyGuides](/index.php?title=Template:USAStrategyGuides&action=edit&redlink=1 "Template:USAStrategyGuides (page does not exist)")
+[Template:USAStrategyGuides](/wiki/index.php?title=Template:USAStrategyGuides&action=edit&redlink=1 "Template:USAStrategyGuides (page does not exist)")
 Paradox Interactive has included an entire alternate history fascist USA
 scenario, with fascist "elections" and the like, in the Hearts of Iron
 II game, for those who choose to take the US this route.

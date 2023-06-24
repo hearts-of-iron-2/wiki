@@ -1,7 +1,3 @@
----
-title: "PTO_Theatre_Statistics"
----
-
 [Japan economic
 statistics](http://www.fischer-tropsch.org/primary_documents/presentations/AIChE%202003%20Spring%20National%20Meeting/Paper%2080d%20Stranges%20Japan.pdf)
 

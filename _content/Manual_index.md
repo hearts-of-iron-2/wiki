@@ -1,7 +1,3 @@
----
-title: "Manual_index"
----
-
 A correction note: The page numbers in the below list differ by +2 in
 relation to the printed manual. So for example "Industrial Capacity" is
 shown as being on page 7, but it actually is on page 5 in the manual. So
@@ -9,7 +5,7 @@ mentally adjust the numbers accordingly.
 
   
 [Download the index as Excel
-file](/index.php?title=Special:Upload&wpDestFile=HOI2_manual_index_csv-xls.zip "HOI2 manual index csv-xls.zip")
+file](/wiki/index.php?title=Special:Upload&wpDestFile=HOI2_manual_index_csv-xls.zip "HOI2 manual index csv-xls.zip")
 
 |                                                                       |          |
 |-----------------------------------------------------------------------|----------|

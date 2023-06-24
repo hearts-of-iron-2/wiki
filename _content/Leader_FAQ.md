@@ -1,7 +1,3 @@
----
-title: "Leader_FAQ"
----
-
 ## Contents
 
 -   [ 1 Leaders ](#Leaders)
@@ -20,7 +16,7 @@ title: "Leader_FAQ"
 
 #  Leaders 
 
-###    Why isn't [Rommel](/Rommel "Rommel") in the game in 1936? 
+###    Why isn't [Rommel](/wiki/Rommel "Rommel") in the game in 1936? 
 
 Before being promoted to the rank of Major General in September, 1939,
 [Erwin Rommel](http://en.wikipedia.org/wiki/Erwin_Rommel) was first an
@@ -32,7 +28,7 @@ the game engine acknowledges.
 
 A leader can be killed if he is involved in a battle and the current
 year is his death year. A leader's death year is contained in the leader
-files. There are a few tools in [utilities](/Utilities "Utilities")
+files. There are a few tools in [utilities](/wiki/Utilities "Utilities")
 section that can remove the death date, but they will only affect future
 games, not any saved games you may be playing.
 

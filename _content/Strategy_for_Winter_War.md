@@ -1,13 +1,9 @@
----
-title: "Strategy_for_Winter_War"
----
-
 [Template:Scenario
-guides](/index.php?title=Template:Scenario_guides&action=edit&redlink=1 "Template:Scenario guides (page does not exist)")
+guides](/wiki/index.php?title=Template:Scenario_guides&action=edit&redlink=1 "Template:Scenario guides (page does not exist)")
 
-[![Shieldsov.jpg](/images/1/1c/Shieldsov.jpg)](/File:Shieldsov.jpg)
-[![Vs.jpg](/images/9/93/Vs.jpg)](/File:Vs.jpg)
-[![Shieldfin.jpg](/images/0/05/Shieldfin.jpg)](/File:Shieldfin.jpg)
+[![Shieldsov.jpg](/images/1/1c/Shieldsov.jpg)](/wiki/File:Shieldsov.jpg)
+[![Vs.jpg](/images/9/93/Vs.jpg)](/wiki/File:Vs.jpg)
+[![Shieldfin.jpg](/images/0/05/Shieldfin.jpg)](/wiki/File:Shieldfin.jpg)
 
 ##  Winter War Strategy for Soviet Union 
 

@@ -1,7 +1,3 @@
----
-title: "National_Security"
----
-
 An overview of what various nations would consider tolerable
 international conduct, 1936-41.
 
@@ -32,7 +28,7 @@ from alarm to a declaration of war depending on the relative power of
 the interferer and the extent of their action.
 
 **Great Britain** - most of the world, barring perhaps Mongolia/ [Tannu
-Tuva](/Tannu_Tuva "Tannu Tuva") /Siberia/Xinjiang.
+Tuva](/wiki/Tannu_Tuva "Tannu Tuva") /Siberia/Xinjiang.
 
 **France** - countries neighboring French territories, Central & Eastern
 Europe.
@@ -50,8 +46,8 @@ Southeast Asia.
 Asia.
 
 **China** - territories composing former Chinese Empire, including
-Manchuria, Mongolia, [Tannu Tuva](/Tannu_Tuva "Tannu Tuva") , Xinjiang,
-and Tibet.
+Manchuria, Mongolia, [Tannu Tuva](/wiki/Tannu_Tuva "Tannu Tuva") ,
+Xinjiang, and Tibet.
 
 **Small countries** - immediate neighbors.
 
@@ -155,17 +151,18 @@ to Xinjiang, recognising the "independence" of a Far Eastern republic
 extending from Irkutsk or Baikal to perhaps Kamchatka and Chukotsk,
 recognising an "independent" Yakutia, and/or accepting Japanese
 influence over an enlarged Mongolia (Inner, Outer, [Tannu
-Tuva](/Tannu_Tuva "Tannu Tuva") , ...?). Historically, a few of these
-cessions would probably have been enough to satisfy Japan. It's main aim
-was to protect the home islands and Manchuria - once a suitable buffer
-had been established, it would probably have been more interested in
-preserving a weakened but independent Russia than in conquering Siberia.
+Tuva](/wiki/Tannu_Tuva "Tannu Tuva") , ...?). Historically, a few of
+these cessions would probably have been enough to satisfy Japan. It's
+main aim was to protect the home islands and Manchuria - once a suitable
+buffer had been established, it would probably have been more interested
+in preserving a weakened but independent Russia than in conquering
+Siberia.
 
 ###  Integrity of China 
 
-Tibet, Xinjiang, [Tannu Tuva](/Tannu_Tuva "Tannu Tuva") , Mongolia, and
-Manchuria were considered integral parts of China by both the KMT and
-the CCP. While a Great Power might have intervened in these areas
+Tibet, Xinjiang, [Tannu Tuva](/wiki/Tannu_Tuva "Tannu Tuva") , Mongolia,
+and Manchuria were considered integral parts of China by both the KMT
+and the CCP. While a Great Power might have intervened in these areas
 without creating a war with China, any such act would have resulted in
 Chinese resentment (and probable denouncement by the US).
 
@@ -180,8 +177,8 @@ maintain the status quo in Southeast Asia.
 With the exception of granting colonies independence, the US frowned
 upon any attempts to alter the 1922 status quo. Even the perfectly
 reasonable attempt by Siam to renegotiate its borders with \[Vichy\]
-French [Indochina](/Indochina "Indochina") was met with unflinching US
-opposition, even though the British made efforts to persuade them
+French [Indochina](/wiki/Indochina "Indochina") was met with unflinching
+US opposition, even though the British made efforts to persuade them
 otherwise.
 
 Despite this attitude, the US refused to make any solid security

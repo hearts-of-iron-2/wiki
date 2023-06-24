@@ -1,8 +1,4 @@
----
-title: "Escort_Fighters_(HOI2)"
----
-
-###  [Escort Fighters](/Escort_Fighters "Escort Fighters") 
+###  [Escort Fighters](/wiki/Escort_Fighters "Escort Fighters") 
 
 Escort Fighters are long-range fighters, designed to escort bombers and
 keep enemy interceptors from the bombers. They are drilled in tactics to

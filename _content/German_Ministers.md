@@ -1,7 +1,3 @@
----
-title: "German_Ministers"
----
-
 Only Fascists, Paternal Autocrats, and National Socialist leaders are
 listed below.
 

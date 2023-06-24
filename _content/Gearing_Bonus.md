@@ -1,10 +1,6 @@
----
-title: "Gearing_Bonus"
----
-
 When producing units for your nation, you will receive a **Gearing
 Bonus** for each unit you produce in
-[serial](/index.php?title=Serial_Production&action=edit&redlink=1 "Serial Production (page does not exist)")
+[serial](/wiki/index.php?title=Serial_Production&action=edit&redlink=1 "Serial Production (page does not exist)")
 . This represents the specialization and tooling of factories to produce
 large production runs of a given type. As you produce more units of the
 same type, the amount of time required to produce each consecutive unit
@@ -15,12 +11,13 @@ needed; this will ensure that you have the option to keep on getting the
 gearing bonus.
 
 The gearing bonus only affects time to producing units, not the
-[Industrial Capacity](/Industrial_Capacity "Industrial Capacity") cost
-associated with the unit. It also does not apply to non deployable
-[province improvements](/Province_improvements "Province improvements")
+[Industrial Capacity](/wiki/Industrial_Capacity "Industrial Capacity")
+cost associated with the unit. It also does not apply to non deployable
+[province
+improvements](/wiki/Province_improvements "Province improvements")
 produced in serial. [Province
-improvements](/Province_improvements "Province improvements") than can
-be deployed such as province AA benefit from the gearing bonus;
+improvements](/wiki/Province_improvements "Province improvements") than
+can be deployed such as province AA benefit from the gearing bonus;
 improvements like factories than can not be moved do NOT benefit from
 the gearing bonus.
 

@@ -1,7 +1,3 @@
----
-title: "Moddir"
----
-
 ##  Introduction 
 
 Moddir is a function where HOI2 will load information from a user
@@ -22,8 +18,8 @@ containing the modification you wish to load at the end of the command
 line then press "Apply" then "OK". Doubble click the shortcut you
 created and the modification will load. Enjoy the game.
 
-[File:Moddir.JPG](/index.php?title=Special:Upload&wpDestFile=Moddir.JPG "File:Moddir.JPG")
+[File:Moddir.JPG](/wiki/index.php?title=Special:Upload&wpDestFile=Moddir.JPG "File:Moddir.JPG")
 
 --
-[Kruz](/index.php?title=User:Kruz&action=edit&redlink=1 "User:Kruz (page does not exist)")
+[Kruz](/wiki/index.php?title=User:Kruz&action=edit&redlink=1 "User:Kruz (page does not exist)")
 13:16, 22 September 2007 (CEST)

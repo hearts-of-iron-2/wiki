@@ -1,7 +1,3 @@
----
-title: "Bauxite_Production_per_country_1936 1948_(Al_content_of_ore)"
----
-
 Source: BR Mitchell.
 
 Numbers are 1000s of metric tons, note the US production spike

@@ -1,7 +1,3 @@
----
-title: "Sealane_Interdiction"
----
-
 ###  Sealane Interdiction 
 
 SLI is the least popular doctrine, with Germany as its sole worshiper.

@@ -1,7 +1,3 @@
----
-title: "CDCP"
----
-
 ##  Introduction 
 
 The Community Database Cleanup Project (CDCP) is a mod which sole
@@ -16,7 +12,8 @@ download it.
 -   Current Version: 1.0 ("absolutely final version")
 -   Last Update: October, 2008
 -   Popularity: *1,000 - 5,000 posts*
--   Compatibility: [HOI2, DD, ARMA](/Abbreviations#H "Abbreviations")
+-   Compatibility: [HOI2, DD,
+    ARMA](/wiki/Abbreviations#H "Abbreviations")
 
 ##  Features 
 

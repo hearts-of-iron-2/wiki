@@ -1,28 +1,25 @@
----
-title: "Infantry_Tech_Tree"
----
-
-[Tech Tree](/Tech_Tree "Tech Tree")
+[Tech Tree](/wiki/Tech_Tree "Tech Tree")
 
 Regular
 
 ------------------------------------------------------------------------
 
-[Aircraft](/Aircraft_Tech_Tree "Aircraft Tech Tree")  
+[Aircraft](/wiki/Aircraft_Tech_Tree "Aircraft Tech Tree")  
 [Armor and
-Artillery](/Armor_and_Artillery_Tech_Tree "Armor and Artillery Tech Tree")  
-[Industry](/Industry_Tech_Tree "Industry Tech Tree")  
+Artillery](/wiki/Armor_and_Artillery_Tech_Tree "Armor and Artillery Tech Tree")  
+[Industry](/wiki/Industry_Tech_Tree "Industry Tech Tree")  
 Infantry  
-[Naval](/Naval_Tech_Tree "Naval Tech Tree")  
-[Secret Weapons](/Secret_Weapons_Tech_Tree "Secret Weapons Tech Tree")
+[Naval](/wiki/Naval_Tech_Tree "Naval Tech Tree")  
+[Secret
+Weapons](/wiki/Secret_Weapons_Tech_Tree "Secret Weapons Tech Tree")
 
 Doctrines
 
 ------------------------------------------------------------------------
 
-[Land](/Land_Doctrine_Tech_Tree "Land Doctrine Tech Tree")  
-[Air](/Air_Doctrine_Tech_Tree "Air Doctrine Tech Tree")  
-[Naval](/Naval_Doctrine_Tech_Tree "Naval Doctrine Tech Tree")
+[Land](/wiki/Land_Doctrine_Tech_Tree "Land Doctrine Tech Tree")  
+[Air](/wiki/Air_Doctrine_Tech_Tree "Air Doctrine Tech Tree")  
+[Naval](/wiki/Naval_Doctrine_Tech_Tree "Naval Doctrine Tech Tree")
 
 ## Contents
 

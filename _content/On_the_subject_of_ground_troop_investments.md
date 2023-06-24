@@ -1,9 +1,5 @@
----
-title: "On_the_subject_of_ground_troop_investments"
----
-
 [Template:HOI2
-v1.3](/index.php?title=Template:HOI2_v1.3&action=edit&redlink=1 "Template:HOI2 v1.3 (page does not exist)")
+v1.3](/wiki/index.php?title=Template:HOI2_v1.3&action=edit&redlink=1 "Template:HOI2 v1.3 (page does not exist)")
 
 ## Contents
 

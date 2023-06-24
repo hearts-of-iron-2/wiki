@@ -1,7 +1,3 @@
----
-title: "Naval_unit_statistics"
----
-
 ## Contents
 
 -   [ 1 Sea Units ](#Sea_Units)
@@ -19,7 +15,7 @@ title: "Naval_unit_statistics"
 
 ##  Sea Units 
 
-###  [Battlecruiser](/Battlecruiser "Battlecruiser") 
+###  [Battlecruiser](/wiki/Battlecruiser "Battlecruiser") 
 
 Battlecruisers are very heavy cruisers that combine large main guns and
 good armor with reasonable speed and a good range. They are mainly used
@@ -28,7 +24,7 @@ to outfight convoy escorts.
 
 [TABLE]
 
-###  [Battleship](/Battleship "Battleship") 
+###  [Battleship](/wiki/Battleship "Battleship") 
 
 The Battleship is the Queen of the Sea. It is a massive floating gun
 platform, designed primarily to engage enemy capital ships at long range
@@ -38,7 +34,7 @@ Aircraft Carrier has started to number their days.
 
 [TABLE]
 
-###  [Carrier](/Carrier "Carrier") 
+###  [Carrier](/wiki/Carrier "Carrier") 
 
 The Aircraft Carrier is rapidly becoming the most important naval
 vessel. Its ability to project power through the aircraft it carries
@@ -48,7 +44,7 @@ well as its own aircraft, to afford it protection.
 
 [TABLE]
 
-###  [Destroyers](/Destroyers "Destroyers") 
+###  [Destroyers](/wiki/Destroyers "Destroyers") 
 
 The Destroyer is the smallest and the fastest of the surface ships. It
 is lightly armed in comparison with the battleship, but its speed and
@@ -59,7 +55,7 @@ used for convoy escort and anti-submarine duties.
 
 [TABLE]
 
-###  [Heavy Cruiser](/Heavy_Cruiser "Heavy Cruiser") 
+###  [Heavy Cruiser](/wiki/Heavy_Cruiser "Heavy Cruiser") 
 
 Heavy Cruisers are larger and more heavily armored than their lighter
 counterparts. They have larger main guns, giving them the ability to
@@ -69,7 +65,7 @@ air and submarine attacks.
 
 [TABLE]
 
-###  [Light Cruiser](/Light_Cruiser "Light Cruiser") 
+###  [Light Cruiser](/wiki/Light_Cruiser "Light Cruiser") 
 
 Light Cruisers are little more than large destroyers. They are usually
 lightly armored to give good speed and range. They are normally used in
@@ -79,7 +75,7 @@ submarines.
 
 [TABLE]
 
-###  [Submarines](/Submarine "Submarine") 
+###  [Submarines](/wiki/Submarine "Submarine") 
 
 The Submarine is designed to travel underwater allowing it to operate
 clandestinely against other naval units. Its main armament consists of
@@ -90,7 +86,7 @@ improve them can be expensive.
 
 [TABLE]
 
-###  [Transports](/Transport "Transport") 
+###  [Transports](/wiki/Transport "Transport") 
 
 Naval Transports are used for moving supplies and resources around the
 world. They can also be used to ferry land units across stretches of
@@ -101,7 +97,7 @@ vulnerable to attack by other naval units or aircraft.
 
 ##  Seabrigade Units 
 
-###  [Carrier Air Group](/Carrier_Air_Group "Carrier Air Group") 
+###  [Carrier Air Group](/wiki/Carrier_Air_Group "Carrier Air Group") 
 
 Carrier Air Groups represent the complement of planes stationed on
 carriers. They are usually a mix of fighters, torpedo and dive bombers
@@ -113,6 +109,6 @@ enemy ships at a large distance.
 #  Doomsday 1.0 - 1.3 
 
 Available as a PDF file: [Sea Unit
-Statistics](/index.php?title=Special:Upload&wpDestFile=UnitStats_DD12_Sea.pdf "UnitStats DD12 Sea.pdf")
+Statistics](/wiki/index.php?title=Special:Upload&wpDestFile=UnitStats_DD12_Sea.pdf "UnitStats DD12 Sea.pdf")
 . Also, a complete Excel file is available: [DD UnitStats v1.2 Excel
 File](http://joe-s.home.insightbb.com/hoi2dd.htm)

@@ -1,11 +1,7 @@
----
-title: "Amphibious_assault"
----
-
-[Template:Anthology](/index.php?title=Template:Anthology&action=edit&redlink=1 "Template:Anthology (page does not exist)")
+[Template:Anthology](/wiki/index.php?title=Template:Anthology&action=edit&redlink=1 "Template:Anthology (page does not exist)")
 
 An amphibious assault is an attack by units borded on [transport
-ships](/Transport "Transport") on a coastal province. To be able to
+ships](/wiki/Transport "Transport") on a coastal province. To be able to
 start an amphibious assault, the coastal province attacked needs to have
 a beach suitable for a landing party -- this can be checked by looking
 at the terrain map in the game. A province will have a small beach line
@@ -30,9 +26,9 @@ miserably. An amphibious landing requires much preparation and
 coordination. This is why, in-game, an additional amphibious landing
 stacking limit exists. For Doomsday, the limit is 3 divisions, for
 Armageddon, the limit depends on your naval doctrines and can be between
-3 and 8 (for the [Base Strike](/Base_Strike "Base Strike") 1952 tech).
-Every unit over this limit will decrease the combat effectiveness of
-*all units* by 10%, cumulatively. For example, let's say the command
+3 and 8 (for the [Base Strike](/wiki/Base_Strike "Base Strike") 1952
+tech). Every unit over this limit will decrease the combat effectiveness
+of *all units* by 10%, cumulatively. For example, let's say the command
 limit is 3. If you attack with 3 divisions, all attack with 100%
 efficiency. If you attack with 4, all four will attack at 90%
 efficiency. If you should chose to attack with 12 divisions, all units
@@ -69,18 +65,18 @@ of total combat effectiveness deployed.
 
 ###  Best units for a landing 
 
-Obviously, [marines](/Marines "Marines") are the best divisions for an
-amphibious landing. They get the lowest combat penalty in an attack.
-Second best are [mountaineers](/Mountaineers "Mountaineers") . These are
-also very well suited for an amphibious landing and can clear a beach
-that is not so heavily defended and are more versatile as well as
-cheaper to build. [Paratroopers](/Paratroopers "Paratroopers") also have
-less difficulty participating in a landing. But consider, if you have
-paratroopers, these would be better used to stage a simultaneous
-drop-off over the beachhead for extra efficiency. Plain vanilla leg
-infantry will also be capable of an amphibious invasion. Do *not* use
-Mechs, Mots, Arms or HQs, as these divisions have excessive amphibious
-landing penalties.
+Obviously, [marines](/wiki/Marines "Marines") are the best divisions for
+an amphibious landing. They get the lowest combat penalty in an attack.
+Second best are [mountaineers](/wiki/Mountaineers "Mountaineers") .
+These are also very well suited for an amphibious landing and can clear
+a beach that is not so heavily defended and are more versatile as well
+as cheaper to build. [Paratroopers](/wiki/Paratroopers "Paratroopers")
+also have less difficulty participating in a landing. But consider, if
+you have paratroopers, these would be better used to stage a
+simultaneous drop-off over the beachhead for extra efficiency. Plain
+vanilla leg infantry will also be capable of an amphibious invasion. Do
+*not* use Mechs, Mots, Arms or HQs, as these divisions have excessive
+amphibious landing penalties.
 
 The amphibious landing penalties are reduced for each Marines tech
 researched. Even if you never plan to build marines and want to use Mnt
@@ -101,11 +97,11 @@ of marines attack again, until the defences wear out. It's very costly,
 but taking land by amphibious assault always was.
 
 Lastly, remember that having a capable [surface action
-group](/Surface_action_group "Surface action group") (or
-[MAF](/Marine_Amphibious_Force "Marine Amphibious Force") ) in the sea
-zone adjacent to the province attacked. Not only will these ships
+group](/wiki/Surface_action_group "Surface action group") (or
+[MAF](/wiki/Marine_Amphibious_Force "Marine Amphibious Force") ) in the
+sea zone adjacent to the province attacked. Not only will these ships
 protect your transports, but the [shore
-bombardment](/index.php?title=Shore_bombardment&action=edit&redlink=1 "Shore bombardment (page does not exist)")
+bombardment](/wiki/index.php?title=Shore_bombardment&action=edit&redlink=1 "Shore bombardment (page does not exist)")
 they can provide is another (max) 25% combat penalty for the defender of
 the province. Also note that the shore bombardment will help your
 marines once they have occupied the province, giving the same penalty to

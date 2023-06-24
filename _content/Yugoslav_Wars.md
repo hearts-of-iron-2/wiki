@@ -1,7 +1,3 @@
----
-title: "Yugoslav_Wars"
----
-
 \[ [\[1\]](http://img38.imageshack.us/img38/9817/logojx.png) \]
 
 \[ [\[2\]](http://img690.imageshack.us/img690/1423/selectionbutton.jpg)

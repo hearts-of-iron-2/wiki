@@ -1,7 +1,3 @@
----
-title: "Vietnam_War"
----
-
 **The Vietnam War version 5.0 by FRVP with Map, Final Version**  
 compatable with all versions! new map \~ new units \~ new music \~ new
 sprites

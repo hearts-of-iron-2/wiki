@@ -1,7 +1,3 @@
----
-title: "Europe"
----
-
 [TABLE]
 
   

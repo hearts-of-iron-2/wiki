@@ -1,13 +1,9 @@
----
-title: "Strategy_for_Platinean_War"
----
-
 [Template:Scenario
-guides](/index.php?title=Template:Scenario_guides&action=edit&redlink=1 "Template:Scenario guides (page does not exist)")
+guides](/wiki/index.php?title=Template:Scenario_guides&action=edit&redlink=1 "Template:Scenario guides (page does not exist)")
 
-[![Shieldarg.jpg](/images/2/26/Shieldarg.jpg)](/File:Shieldarg.jpg)
-[![Vs.jpg](/images/9/93/Vs.jpg)](/File:Vs.jpg)
-[![Shieldbra.jpg](/images/e/ec/Shieldbra.jpg)](/File:Shieldbra.jpg)
+[![Shieldarg.jpg](/images/2/26/Shieldarg.jpg)](/wiki/File:Shieldarg.jpg)
+[![Vs.jpg](/images/9/93/Vs.jpg)](/wiki/File:Vs.jpg)
+[![Shieldbra.jpg](/images/e/ec/Shieldbra.jpg)](/wiki/File:Shieldbra.jpg)
 
 ## Contents
 

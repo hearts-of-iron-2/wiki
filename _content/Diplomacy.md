@@ -1,7 +1,3 @@
----
-title: "Diplomacy"
----
-
 [TABLE]
 
   
@@ -14,4 +10,4 @@ Some functions are locked based on sliders and economy. For instance,
 you need certain amounts of money to **Join Alliance** - and if you're
 democratic, or too isolationist, it will not allow you.
 
-See also: [Diplomacy FAQ](/Diplomacy_FAQ "Diplomacy FAQ")
+See also: [Diplomacy FAQ](/wiki/Diplomacy_FAQ "Diplomacy FAQ")

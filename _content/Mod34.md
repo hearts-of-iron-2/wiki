@@ -1,7 +1,3 @@
----
-title: "Mod34"
----
-
 This mod begins in October of 1934 and features a completely new
 technology tree (without historical year), improved AI, new units,
 events (over 6000 new events), and new countries (for example:Vatican
@@ -16,15 +12,15 @@ every nation is sure to field different units.
 -   Current Version: 1.11
 -   Last Update: October 27, 2009
 -   Popularity: *1,000 - 5,000 posts*
--   Compatibility: [HOI2](/HOI2 "HOI2") , [DD](/DD "DD") ,
-    [ARMA](/ARMA "ARMA")
+-   Compatibility: [HOI2](/wiki/HOI2 "HOI2") , [DD](/wiki/DD "DD") ,
+    [ARMA](/wiki/ARMA "ARMA")
 
 **Features Explained:**
 
 |                  |                                                                                                                                                                                     |
 |------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Feature          | Description                                                                                                                                                                         |
-| Graphics & Sound | Includes [GIP](/GIP "GIP") , [SKIF](/SKIF "SKIF") .                                                                                                                                 |
+| Graphics & Sound | Includes [GIP](/wiki/GIP "GIP") , [SKIF](/wiki/SKIF "SKIF") .                                                                                                                       |
 | AI               | Tweaks to AI, including invasion AI.                                                                                                                                                |
 | Technology       | An entirely new technology tree in all areas; removes the historical year for technologies; allows for unit specialization through tradeoffs (thicker armor for slower tanks, etc). |
 | Territory        | League of Nations and Vatican City added.                                                                                                                                           |

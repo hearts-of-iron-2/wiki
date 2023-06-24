@@ -1,7 +1,3 @@
----
-title: "Colonial_Empire_An_Alternative_Strategy_for_Japan"
----
-
 ## Contents
 
 -   [ 1 Colonial Empire An Alternative Strategy for Japan
@@ -148,14 +144,14 @@ French Equatorial Africa. Ditto for UK. With most of their African
 Legion in Rhodesia and South Africa, Italy can steamroll Egypt and
 Sudan.
 
-###  Annexation of French [Indochina](/Indochina "Indochina") 
+###  Annexation of French [Indochina](/wiki/Indochina "Indochina") 
 
 When France falls the vichy event will be triggered. After Vichy France
 forms, you will receive an event to request
-[Indochina](/Indochina "Indochina") . Choose ask for
-[Indochina](/Indochina "Indochina") and Vichy will usually accept. Don't
-ask for [Madagascar](/Madagascar "Madagascar") since the chance of
-suceeding is very small.
+[Indochina](/wiki/Indochina "Indochina") . Choose ask for
+[Indochina](/wiki/Indochina "Indochina") and Vichy will usually accept.
+Don't ask for [Madagascar](/wiki/Madagascar "Madagascar") since the
+chance of suceeding is very small.
 
 ###    Allies or Axis, that's the Problem 
 
@@ -179,10 +175,10 @@ you do not take Batavia in your previous campaign, because in that case
 you need to grab every small island piece by piece or Germany will get
 the lion's share of them. Also attack and take Malaya. Don't bother to
 lean on Siam, they will be a good buffer state between Burma and your
-[Indochina](/Indochina "Indochina") possession. Don't bother to attack
-Burma either. Just move your troops quickly into India and occupy it. By
-this time most of the Indian army should be in the Middle East so this
-will not be hard.
+[Indochina](/wiki/Indochina "Indochina") possession. Don't bother to
+attack Burma either. Just move your troops quickly into India and occupy
+it. By this time most of the Indian army should be in the Middle East so
+this will not be hard.
 
 What to do next depends on your preference. You can try fighting the
 Royal Navy in the North Atlantic Ocean, where your carriers and

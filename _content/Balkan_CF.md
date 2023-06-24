@@ -1,9 +1,5 @@
----
-title: "Balkan_CF"
----
-
 [Template:ARMA
-v1.2](/index.php?title=Template:ARMA_v1.2&action=edit&redlink=1 "Template:ARMA v1.2 (page does not exist)")
+v1.2](/wiki/index.php?title=Template:ARMA_v1.2&action=edit&redlink=1 "Template:ARMA v1.2 (page does not exist)")
 
 A Balkan CF is when a series of war declarations by minor powers in the
 Balkan areas causes the war to go non-historical. These war declarations

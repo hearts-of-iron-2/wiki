@@ -1,12 +1,8 @@
----
-title: "US_Strategy _1939_Scenario"
----
-
 [TABLE]
 
-[Template:NonVanilla](/index.php?title=Template:NonVanilla&action=edit&redlink=1 "Template:NonVanilla (page does not exist)")
-[Template:VersionSpecific](/index.php?title=Template:VersionSpecific&action=edit&redlink=1 "Template:VersionSpecific (page does not exist)")
-[Template:USAStrategyGuides](/index.php?title=Template:USAStrategyGuides&action=edit&redlink=1 "Template:USAStrategyGuides (page does not exist)")
+[Template:NonVanilla](/wiki/index.php?title=Template:NonVanilla&action=edit&redlink=1 "Template:NonVanilla (page does not exist)")
+[Template:VersionSpecific](/wiki/index.php?title=Template:VersionSpecific&action=edit&redlink=1 "Template:VersionSpecific (page does not exist)")
+[Template:USAStrategyGuides](/wiki/index.php?title=Template:USAStrategyGuides&action=edit&redlink=1 "Template:USAStrategyGuides (page does not exist)")
 I am relatively new to HOI2, but since no-one else has done the 1939
 scenario, I figured I would give it a whirl. I don't claim to be an
 expert at the game, and other people may well have different approaches
@@ -338,9 +334,9 @@ submarines forward to Manila or Clark in fall of '41. A word to the
 wise, though: don't bother putting them into the Straits of Tsushima
 immediately when war is declared. The Japanese fleet has a tendency to
 come through there at the outset, and they will steamroller your poor
-subs. I put mine off of [Indochina](/Indochina "Indochina") for a month
-or two, and \*then\* move them up to the Japanese coastlines a little
-bit later.
+subs. I put mine off of [Indochina](/wiki/Indochina "Indochina") for a
+month or two, and \*then\* move them up to the Japanese coastlines a
+little bit later.
 
 ###  Defend our Pacific holdings 
 

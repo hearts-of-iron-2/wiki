@@ -1,7 +1,3 @@
----
-title: "Gamey_tactics"
----
-
 *Gamey tactics* are shorthand for "game the system", or put in another
 way, "cheat the system" by means of design flaws or poor AI. Gamey
 tactics almost always lead to ahistorical and extremely unrealistic
@@ -20,4 +16,4 @@ results. Classic gamey tactics in HoI2 include:
     country, then save the game, and return to the game as another
     country. You can pretty much always be where the action is.
 
-See also: [AI Behaviour‎](/AI_Behaviour "AI Behaviour")
+See also: [AI Behaviour‎](/wiki/AI_Behaviour "AI Behaviour")

@@ -1,14 +1,10 @@
----
-title: "Strategy_for_Operation_Downfall:_Invasion_of_Japan"
----
-
 [Template:Scenario
-guides](/index.php?title=Template:Scenario_guides&action=edit&redlink=1 "Template:Scenario guides (page does not exist)")
+guides](/wiki/index.php?title=Template:Scenario_guides&action=edit&redlink=1 "Template:Scenario guides (page does not exist)")
 
-[![Shieldjap.jpg](/images/c/cd/Shieldjap.jpg)](/File:Shieldjap.jpg)
-[![Vs.jpg](/images/9/93/Vs.jpg)](/File:Vs.jpg)
-[![Shieldsov.jpg](/images/1/1c/Shieldsov.jpg)](/File:Shieldsov.jpg)
-[![Shieldals.jpg](/images/5/57/Shieldals.jpg)](/File:Shieldals.jpg)
+[![Shieldjap.jpg](/images/c/cd/Shieldjap.jpg)](/wiki/File:Shieldjap.jpg)
+[![Vs.jpg](/images/9/93/Vs.jpg)](/wiki/File:Vs.jpg)
+[![Shieldsov.jpg](/images/1/1c/Shieldsov.jpg)](/wiki/File:Shieldsov.jpg)
+[![Shieldals.jpg](/images/5/57/Shieldals.jpg)](/wiki/File:Shieldals.jpg)
 
 ##  Operation Downfall: Strategy for the Allies 
 

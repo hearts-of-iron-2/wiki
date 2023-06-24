@@ -1,8 +1,4 @@
----
-title: "General_Gameplay_FAQ"
----
-
-[Template:Anthology](/index.php?title=Template:Anthology&action=edit&redlink=1 "Template:Anthology (page does not exist)")
+[Template:Anthology](/wiki/index.php?title=Template:Anthology&action=edit&redlink=1 "Template:Anthology (page does not exist)")
 **General Gameplay FAQ**
 
 ## Contents
@@ -170,9 +166,9 @@ title: "General_Gameplay_FAQ"
         ](#How_much_of_a_province_resources_and_industry_do_you_get_when_you_occupy_a_province.3F_And_what_do_you_gain_by_annexing_the_former_owner_of_the_province.3F)
     -   [ 9.10 How do Convoys work? ](#How_do_Convoys_work.3F)
 
-#  [Leaders](/Leader_FAQ "Leader FAQ") 
+#  [Leaders](/wiki/Leader_FAQ "Leader FAQ") 
 
-###    Why isn't [Rommel](/Rommel "Rommel") in the game in 1936? 
+###    Why isn't [Rommel](/wiki/Rommel "Rommel") in the game in 1936? 
 
 Before being promoted to the rank of Major General in September, 1939,
 [Erwin Rommel](http://en.wikipedia.org/wiki/Erwin_Rommel) was first an
@@ -184,7 +180,7 @@ the game engine acknowledges.
 
 A leader can be killed if he is involved in a battle and the current
 year is his death year. A leader's death year is contained in the leader
-files. There are a few tools in [utilities](/Utilities "Utilities")
+files. There are a few tools in [utilities](/wiki/Utilities "Utilities")
 section that can remove the death date, but they will only affect future
 games, not any saved games you may be playing.
 
@@ -212,7 +208,7 @@ leader's skill is reduced by one point as well with a promotion.
 No, it only determines the starting rank of leaders when the scenario
 starts.
 
-#  [Units](/Unit_FAQ "Unit FAQ") 
+#  [Units](/wiki/Unit_FAQ "Unit FAQ") 
 
 ###  General Unit Questions 
 
@@ -250,7 +246,8 @@ must be at war to use an ally's bases.
 ####    How do I strategically redeploy units? 
 
 The following requirements must be satisfied for [Strategic
-Redeployment](/Strategic_Redeployment "Strategic Redeployment") (SR):
+Redeployment](/wiki/Strategic_Redeployment "Strategic Redeployment")
+(SR):
 
 -   Rear Area Supply Dumps (an Infantry tech) is researched.
 -   There is a land connection between the current location of division
@@ -279,8 +276,8 @@ conditions must be satisfied:
 -   The paratrooper and transport must be in the same province. Load the
     paratrooper just before the mission begins. Use offensive supply for
     the para if you can afford it.
--   [Weather](/Weather "Weather") must not be stormy (stormy weather
-    grounds all air operations).
+-   [Weather](/wiki/Weather "Weather") must not be stormy (stormy
+    weather grounds all air operations).
 -   Also note that flying divisions around with air transports is not
     allowed in the game. Historically divisions in WW2 moved around by
     land or sea. Gliders also were a component of every air transport
@@ -308,9 +305,10 @@ HQ must be commanded by a General or Field Marshall in an adjacent
 province to have any effect. HQ allow you to have more div attacking,
 but they do not allow you to exceed the rank formation capacities of 1,
 3, 9, and 12 div. For more information on HQ range, please refer to this
-[guide](/HQ_Units_in_Action "HQ Units in Action") . For a comprehensive
-review of land combat and HQ, review [Land Combat Efficiency
-FAQ](/Land_Combat_Efficiency_FAQ "Land Combat Efficiency FAQ") .
+[guide](/wiki/HQ_Units_in_Action "HQ Units in Action") . For a
+comprehensive review of land combat and HQ, review [Land Combat
+Efficiency
+FAQ](/wiki/Land_Combat_Efficiency_FAQ "Land Combat Efficiency FAQ") .
 
 ####    How to select more than one air groups? 
 
@@ -389,7 +387,7 @@ it is a bug that can by circumvented by stopping reinforcements during
 winter. The attrition damage will be much lower and the troops can
 survive the winter.
 
-#  [Technology and Research](/Technology_and_Research_FAQ "Technology and Research FAQ") 
+#  [Technology and Research](/wiki/Technology_and_Research_FAQ "Technology and Research FAQ") 
 
 ###    How many tech teams slots can a country have? 
 
@@ -438,12 +436,12 @@ e.g. 20.
 
 The sub-topic that uses that matching specialty will have the research
 time halved. There is much more information available in the
-[Research](/Research "Research") guide.
+[Research](/wiki/Research "Research") guide.
 
 ###    What's the deal with oil conversion techs? 
 
 See the primer on
-[Energy_to_Oil_Conversion](/Energy_to_Oil_Conversion "Energy to Oil Conversion")
+[Energy_to_Oil_Conversion](/wiki/Energy_to_Oil_Conversion "Energy to Oil Conversion")
 .
 
 ###    What do Encryption/Decryption technologies actually do? 
@@ -464,7 +462,7 @@ game, such as stealing blueprints, sabotage events, and assassination
 attempts. The true mechanism for triggering these events remains a
 mystery.
 
-#  [Province Improvement](/Province_Improvement_FAQ "Province Improvement FAQ") 
+#  [Province Improvement](/wiki/Province_Improvement_FAQ "Province Improvement FAQ") 
 
 ###    Where is the best place to build a new factory? 
 
@@ -503,7 +501,7 @@ size of the base determines how fast those units regain organization and
 strength. Units based in a facility above its size capacity will regain
 organization and strength at a much lower rate.
 
-###    What is the purpose of [radar](/Radar "Radar") station? 
+###    What is the purpose of [radar](/wiki/Radar "Radar") station? 
 
 The functions are:
 
@@ -544,10 +542,10 @@ research in those fields. In addition, a nuclear reactor of sufficient
 size is needed to build an atomic bomb.
 
 More information on the effects (including a statistical breakdown)
-these facilities can be found in the [Research](/Research "Research")
-guide.
+these facilities can be found in the
+[Research](/wiki/Research "Research") guide.
 
-#  [Diplomacy](/Diplomacy_FAQ "Diplomacy FAQ") 
+#  [Diplomacy](/wiki/Diplomacy_FAQ "Diplomacy FAQ") 
 
 ###    Where is the option to puppet a nation? 
 
@@ -632,7 +630,7 @@ Croatia, Austria, Hungary, Czechoslovakia, Slovakia, USSR.
     Czechs decide to fight against Germany then Hungary will side with
     Germany.
 
-#  [Production](/Production_FAQ "Production FAQ") 
+#  [Production](/wiki/Production_FAQ "Production FAQ") 
 
 ###    Why doesn't the build time/cost change when I change ministers or research a new tech? 
 
@@ -646,7 +644,7 @@ change.
 ###    Why do I have a red number in my factory information display? 
 
 A red number indicates you have some [wasted industrial
-capacity](/Wasted_IC "Wasted IC") .
+capacity](/wiki/Wasted_IC "Wasted IC") .
 
 #  Transport Capacity 
 
@@ -684,44 +682,44 @@ The net effect of these modifiers are calculated and shown as:
 Also note that convoys used for oversea resources and units are NOT part
 of the TC calculation. TC is very abstract as it is primarily based upon
 Industrial capacity. If convoys were used for countries like
-[Japan](/Japan "Japan") ,
-[UK](/index.php?title=UK&action=edit&redlink=1 "UK (page does not exist)")
-, and [USA](/USA "USA") as part of the TC calculation, that would also
-severely handicap those countries that have to operate overseas and make
-a difficult situation almost impossible to handle within the game.
+[Japan](/wiki/Japan "Japan") ,
+[UK](/wiki/index.php?title=UK&action=edit&redlink=1 "UK (page does not exist)")
+, and [USA](/wiki/USA "USA") as part of the TC calculation, that would
+also severely handicap those countries that have to operate overseas and
+make a difficult situation almost impossible to handle within the game.
 
 ##  Technologies 
 
 Each of the following technology's has a positive +10% TC modifier:
 
 -   [Rear Area Supply
-    Dumps](/Infantry_Tech_Tree#Rear_Area_Supply_Dumps "Infantry Tech Tree") (1936)
+    Dumps](/wiki/Infantry_Tech_Tree#Rear_Area_Supply_Dumps "Infantry Tech Tree") (1936)
     *note; some contries have this at the beginning of the 1936
     scenerio*
 -   [Deep Logistic
-    Organization](/Infantry_Tech_Tree#Deep_Logistic_Organization "Infantry Tech Tree")
+    Organization](/wiki/Infantry_Tech_Tree#Deep_Logistic_Organization "Infantry Tech Tree")
     (1940)
 -   [Frontline Supply
-    Service](/Infantry_Tech_Tree#Frontline_Supply_Service "Infantry Tech Tree")
+    Service](/wiki/Infantry_Tech_Tree#Frontline_Supply_Service "Infantry Tech Tree")
     (1942)
 -   [Advanced Logistic
-    Organization](/index.php?title=Advanced_Logistic_Organization&action=edit&redlink=1 "Advanced Logistic Organization (page does not exist)") (1945)
+    Organization](/wiki/index.php?title=Advanced_Logistic_Organization&action=edit&redlink=1 "Advanced Logistic Organization (page does not exist)") (1945)
     -Armageddon-
 
 ##    What happen if my TC is overloaded (displayed in red)? 
 
 Your troops will have lower [supply
-efficiency](/index.php?title=Supply_efficiency&action=edit&redlink=1 "Supply efficiency (page does not exist)")
+efficiency](/wiki/index.php?title=Supply_efficiency&action=edit&redlink=1 "Supply efficiency (page does not exist)")
 , they gain
-[org](/index.php?title=Org&action=edit&redlink=1 "Org (page does not exist)")
+[org](/wiki/index.php?title=Org&action=edit&redlink=1 "Org (page does not exist)")
 slower and thier
-[speed](/index.php?title=Speed&action=edit&redlink=1 "Speed (page does not exist)")
+[speed](/wiki/index.php?title=Speed&action=edit&redlink=1 "Speed (page does not exist)")
 will be reduced.
 
 ##  Further Information 
 
 Refer to the [Transport Capacity and Supply Efficiency
-FAQ](/Transport_Capacity_and_Supply_Efficiency_FAQ "Transport Capacity and Supply Efficiency FAQ")
+FAQ](/wiki/Transport_Capacity_and_Supply_Efficiency_FAQ "Transport Capacity and Supply Efficiency FAQ")
 for more information.
 
 ###  Transport Capacity in HOI2 v1.3 
@@ -757,7 +755,7 @@ for more information.
 -   Dissent is about a 1.5x multiplier for partisans. Get rid of dissent
     immediately in order to reduce partisan effects on your TC.
 
-#  [Partisan and Dissent](/Partisan_and_Dissent_FAQ "Partisan and Dissent FAQ") 
+#  [Partisan and Dissent](/wiki/Partisan_and_Dissent_FAQ "Partisan and Dissent FAQ") 
 
 ###    Why do I have a high dissent level? 
 
@@ -798,12 +796,13 @@ levels.
 In previous versions of the game (1 thru 1.2), partisan levels in
 annexed territory would gradually reduce to 2%.
 
-#  [Game Play](/Game_Play_FAQ "Game Play FAQ") 
+#  [Game Play](/wiki/Game_Play_FAQ "Game Play FAQ") 
 
 ###    Does the game have to end on January 1, 1948? 
 
-No. There is [a utility](/Utilities#No_Time_Limit_Mod_Tool "Utilities")
-to remove the end date.
+No. There is [a
+utility](/wiki/Utilities#No_Time_Limit_Mod_Tool "Utilities") to remove
+the end date.
 
 ###    Can I turn off fog of war? 
 

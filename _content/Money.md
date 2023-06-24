@@ -1,7 +1,3 @@
----
-title: "Money"
----
-
 Money can be gained from putting more IC into the consumer goods slider
 and moving more towards dove lobby. The most effective way to make money
 is to trade for it.
