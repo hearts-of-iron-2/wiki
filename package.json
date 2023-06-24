@@ -3,6 +3,7 @@
   "scripts": {
     "dev": "next",
     "build": "next build",
+    "static": "next build && next export && touch ./out/.nojekyll && echo 'wiki.artificialstupidity.uk' > ./out/CNAME",
     "start": "next start",
     "typecheck": "tsc"
   },
