@@ -28,7 +28,7 @@ const PostSearch = ({ articles }: Props) => {
       />
       {visibleArticles.map((a, i) => (
         <li key={i}>
-          <a href={a}>{humanizeString(a)}</a>
+          <a href={"/wiki/" + a}>{humanizeString(a)}</a>
         </li>
       ))}
     </ul>
