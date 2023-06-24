@@ -1,57 +1,39 @@
 ---
 title: Mods
 ---
-Visit the **[Mod Matrix](/wiki/Mod_Matrix "Mod Matrix")** for a
-comparison of mods. Note - none of the mods listed below are being
-updated anymore (many have not been updated for years) and for a
-majority of these mods, the download location is a dead link. Your only
-way to obtain the mod would be to contact the person who made the mod
-via the forums, if they are still active.
+ Visit the **[Mod Matrix](/wiki/Mod_Matrix "Mod Matrix")** for a comparison of mods. Note - none of the mods listed below are being updated anymore (many have not been updated for years) and for a majority of these mods, the download location is a dead link. Your only way to obtain the mod would be to contact the person who made the mod via the forums, if they are still active.
 
-[TABLE]
+<table><tbody><tr valign="top"><td><div aria-labelledby="mw-toc-heading" class="toc" id="toc" role="navigation"><input class="toctogglecheckbox" id="toctogglecheckbox" role="button" style="display:none" type="checkbox"><div class="toctitle" dir="ltr" lang="en"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div><ul><li class="toclevel-1 tocsection-1"><a href="#WW2_Mods"><span class="tocnumber">1 </span><span class="toctext">WW2 Mods</span></a></li><li class="toclevel-1 tocsection-2"><a href="#Specialized_Mods"><span class="tocnumber">2 </span><span class="toctext">Specialized Mods</span></a></li><li class="toclevel-1 tocsection-3"><a href="#Alternative_WW2"><span class="tocnumber">3 </span><span class="toctext">Alternative WW2</span></a></li><li class="toclevel-1 tocsection-4"><a href="#Specific_Historical_Mods"><span class="tocnumber">4 </span><span class="toctext">Specific Historical Mods</span></a></li><li class="toclevel-1 tocsection-5"><a href="#Grand_Historical_Mods"><span class="tocnumber">5 </span><span class="toctext">Grand Historical Mods</span></a></li><li class="toclevel-1 tocsection-6"><a href="#Obsolete_Mods"><span class="tocnumber">6 </span><span class="toctext">Obsolete Mods</span></a></li><li class="toclevel-1 tocsection-7"><a href="#Miscellaneous_Resources"><span class="tocnumber">7 </span><span class="toctext">Miscellaneous Resources</span></a></li><li class="toclevel-1 tocsection-8"><a href="#General_modding_guides"><span class="tocnumber">8 </span><span class="toctext">General modding guides</span></a></li></ul></div><h2><span class="mw-headline" id="WW2_Mods">WW2 Mods</span></h2><ul><li><a href="/wiki/CORE" title="CORE">CORE</a></li><li><a href="/wiki/TRP" title="TRP">Total Realism Project</a></li><li><a href="/wiki/Mod34" title="Mod34">Mod34</a></li><li><a href="/wiki/WIF" title="WIF">The World in Flames</a></li><li><a href="/wiki/EIR" title="EIR">The East is Red</a></li></ul></td><td width="100"></td><td><h2><span class="mw-headline" id="Specialized_Mods">Specialized Mods</span></h2><ul><li><a href="/wiki/DAIM" title="DAIM">Determined AI Modification </a>AI improvement</li><li><a href="/wiki/GIP" title="GIP">Graphic Improvement Project </a>All graphics except for unit icons</li><li><a href="/wiki/SKIF" title="SKIF">SKIF </a>Unit Icon Graphics</li><li><a href="/wiki/Japanese_Graphic_Pack" title="Japanese Graphic Pack">Japanese Graphic Pack </a>Many graphics for Japan</li><li><a href="/wiki/SMEP" title="SMEP">SMEP </a>Added events</li><li><a href="/wiki/CDCP" title="CDCP">CDCP </a>"Unofficial patch" to cleanup minor errors</li><li><a href="/wiki/Cold_War_Tech_Tree_Extension_Project" title="Cold War Tech Tree Extension Project">Cold War Tech Tree Extension Project </a>extends the vanilla tech tree to include the early cold war era</li></ul></td></tr><tr valign="top"><td><h2><span class="mw-headline" id="Alternative_WW2">Alternative WW2</span></h2><ul><li><a href="/wiki/Kaiserreich" title="Kaiserreich">Kaiserreich </a>: The Central Powers won WWI</li><li><a href="/wiki/Confederate_Armageddon" title="Confederate Armageddon">Confederate Armageddon </a>: Adds the Confederacy to the standard game</li><li><a href="/wiki/Peace_to_end_all_Peace" title="Peace to end all Peace">Peace to end all Peace </a>: WWI never occured</li><li><a href="/wiki/A.E.I.O.U." title="A.E.I.O.U.">A.E.I.O.U. </a>: The Central Powers lost WWI, but the nations remained</li><li><a href="/wiki/Turtledove" title="Turtledove">Turtledove </a>: The Central Powers won WWI, Confederacy exists</li></ul></td><td width="100"></td><td><h2><span class="mw-headline" id="Specific_Historical_Mods">Specific Historical Mods</span></h2><ul><li><a href="/wiki/Afghan_Wars" title="Afghan Wars">Afghan Wars </a>: Afghanistan 1988-2003</li><li><a href="/wiki/Anatolian_Wars" title="Anatolian Wars">Anatolian Wars </a>: Greek-Turkey war of 1922 (scenario)</li><li><a href="/wiki/China_Improvement_Pack" title="China Improvement Pack">China Improvement Pack </a>: Significant improvements to Chinese events</li><li><a href="/wiki/Vietnam_War" title="Vietnam War">Vietnam War </a>: The American war in Vietnam 1963-1975</li><li><a href="/wiki/WERS" title="WERS">WERS </a>Polish-Soviet War of 1920 (scenario)</li></ul></td></tr><tr valign="top"><td><h2><span class="mw-headline" id="Grand_Historical_Mods">Grand Historical Mods</span></h2><ul><li><a href="/wiki/1914" title="1914">1914 </a>: Play WW1</li><li><a href="/wiki/Modern_Day_Scenario_2" title="Modern Day Scenario 2">Modern Day Scenario 2</a></li><li><a href="/wiki/Fatherland" title="Fatherland">Fatherland </a>- Alternate history Cold War</li><li><a href="/wiki/Fallout" title="Fallout">Fallout </a>: Sci-Fi 167 years after nuclear war</li><li><a href="/wiki/Domination_of_the_Draka" title="Domination of the Draka">Domination of the Draka </a>: based on the Stirling books</li><li><a href="/wiki/Napoleon" title="Napoleon">Napoleon</a></li><li><a href="/wiki/Yugoslav_Wars" title="Yugoslav Wars">Yugoslav Wars </a>for Doomsday Amragedon Mod</li></ul></td><td width="100"></td><td><h2><span class="mw-headline" id="Obsolete_Mods">Obsolete Mods</span></h2><ul><li><a href="/wiki/Historical_Improvement" title="Historical Improvement">Historical Improvement </a>WW2 Mod: New tech tree with historical focus</li><li><a href="/wiki/Stony_Road" title="Stony Road">Stony Road </a>WW2 Mod: Historical realism &amp; tougher AI</li><li><a href="/wiki/Starfire" title="Starfire">Starfire </a>Specialized Mod: Longer combat</li><li><a href="/wiki/Cold_War" title="Cold War">Cold War </a>WW3 Mod: Never properly released</li></ul></td></tr></tbody></table>
 
-##  Miscellaneous Resources 
+Miscellaneous Resources
+-----------------------
 
--   [Baylox' event syntax
-    overview](http://web.telia.com/~u87538946/event_commands.htm)
--   [Instructions for using
-    mods](/wiki/index.php?title=Mod-howto&action=edit&redlink=1 "Mod-howto (page does not exist)")
--   [Mod Matrix](/wiki/Mod_Matrix "Mod Matrix") : A matrix comparison of
-    features between mods
--   Historical References [Knowledge
-    Base](/wiki/Knowledge_Base "Knowledge Base")
--   [Links](/wiki/Links "Links") to mod forums and sites
+*   [Baylox' event syntax overview](http://web.telia.com/~u87538946/event_commands.htm)
+*   [Instructions for using mods](/wiki/index.php?title=Mod-howto&action=edit&redlink=1 "Mod-howto (page does not exist)")
+*   [Mod Matrix](/wiki/Mod_Matrix "Mod Matrix") : A matrix comparison of features between mods
+*   Historical References [Knowledge Base](/wiki/Knowledge_Base "Knowledge Base")
+*   [Links](/wiki/Links "Links") to mod forums and sites
 
-##  General modding guides 
+General modding guides
+----------------------
 
--   Install your mods with JSGME ( [JoneSoft Generic Mod
-    Enabler](http://www.mediafire.com/?fjfkayyniyy%7C) )
--   [General Modding
-    FAQ](/wiki/General_Modding_FAQ "General Modding FAQ") Can't find it
-    elsewhere? Check here.
--   [Patches](/wiki/Patches "Patches")
--   [Reference Materials](/wiki/Reference_Material "Reference Material")
--   [Modding tech files](/wiki/Modding_tech_files "Modding tech files")
--   [Modding tech teams](/wiki/Modding_tech_teams "Modding tech teams")
--   [Modding scenarios](/wiki/Modding_scenarios "Modding scenarios")
--   [Modding events](/wiki/Modding_events "Modding events")
--   [Modding leader
-    files](/wiki/Modding_leader_files "Modding leader files")
--   [Modding minister
-    files](/wiki/Modding_minister_files "Modding minister files")
--   [Modding difficulty
-    levels](/wiki/Modding_difficulty_levels "Modding difficulty levels")
--   [Modding unit
-    statistics](/wiki/Modding_unit_statistics "Modding unit statistics")
--   [Modding building
-    costs](/wiki/Modding_building_costs "Modding building costs")
--   [Modding misc.txt](/wiki/Modding_misc.txt "Modding misc.txt")
--   [Modding
-    province.csv](/wiki/Modding_province.csv "Modding province.csv")
--   [Modding ai files](/wiki/Modding_ai_files "Modding ai files")
--   [Modding
-    colorscales.csv](/wiki/Modding_colorscales.csv "Modding colorscales.csv")
--   [Modding graphics](/wiki/Modding_graphics "Modding graphics")
--   [Modding in-game
-    music](/wiki/Modding_in-game_music "Modding in-game music")
--   [Modding models.csv](/wiki/Modding_models.csv "Modding models.csv")
+*   Install your mods with JSGME ( [JoneSoft Generic Mod Enabler](http://www.mediafire.com/?fjfkayyniyy%7C) )
+*   [General Modding FAQ](/wiki/General_Modding_FAQ "General Modding FAQ") Can't find it elsewhere? Check here.
+*   [Patches](/wiki/Patches "Patches")
+*   [Reference Materials](/wiki/Reference_Material "Reference Material")
+*   [Modding tech files](/wiki/Modding_tech_files "Modding tech files")
+*   [Modding tech teams](/wiki/Modding_tech_teams "Modding tech teams")
+*   [Modding scenarios](/wiki/Modding_scenarios "Modding scenarios")
+*   [Modding events](/wiki/Modding_events "Modding events")
+*   [Modding leader files](/wiki/Modding_leader_files "Modding leader files")
+*   [Modding minister files](/wiki/Modding_minister_files "Modding minister files")
+*   [Modding difficulty levels](/wiki/Modding_difficulty_levels "Modding difficulty levels")
+*   [Modding unit statistics](/wiki/Modding_unit_statistics "Modding unit statistics")
+*   [Modding building costs](/wiki/Modding_building_costs "Modding building costs")
+*   [Modding misc.txt](/wiki/Modding_misc.txt "Modding misc.txt")
+*   [Modding province.csv](/wiki/Modding_province.csv "Modding province.csv")
+*   [Modding ai files](/wiki/Modding_ai_files "Modding ai files")
+*   [Modding colorscales.csv](/wiki/Modding_colorscales.csv "Modding colorscales.csv")
+*   [Modding graphics](/wiki/Modding_graphics "Modding graphics")
+*   [Modding in-game music](/wiki/Modding_in-game_music "Modding in-game music")
+*   [Modding models.csv](/wiki/Modding_models.csv "Modding models.csv")

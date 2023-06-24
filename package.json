@@ -12,7 +12,6 @@
     "date-fns": "^2.30.0",
     "fuse.js": "^6.6.2",
     "gray-matter": "^4.0.3",
-    "humanize-string": "^3.0.0",
     "next": "latest",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",

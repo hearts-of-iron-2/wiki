@@ -1,11 +1,11 @@
 ---
 title: Lithuania
 ---
-[Country guides](/wiki/Country_guides "Country guides")
+ [Country guides](/wiki/Country_guides "Country guides")
 
 [Major powers](/wiki/Major_power "Major power")
 
-------------------------------------------------------------------------
+* * *
 
 [France](/wiki/France "France")  
 [Germany](/wiki/Germany "Germany")  
@@ -17,7 +17,7 @@ title: Lithuania
 
 Regional powers
 
-------------------------------------------------------------------------
+* * *
 
 [Argentina](/wiki/Argentina "Argentina")  
 [Australia](/wiki/Australia "Australia")  
@@ -41,7 +41,7 @@ Regional powers
 
 [Minor powers](/wiki/Minor_power "Minor power")
 
-------------------------------------------------------------------------
+* * *
 
 [Austria](/wiki/Austria "Austria")  
 [Chile](/wiki/index.php?title=Chile&action=edit&redlink=1 "Chile (page does not exist)")  
@@ -60,20 +60,18 @@ Regional powers
 
 [Micro powers](/wiki/Micro_power "Micro power")
 
-------------------------------------------------------------------------
+* * *
 
 [Afghanistan](/wiki/Afghanistan "Afghanistan")  
 [Albania](/wiki/Albania "Albania")  
 [Bhutan](/wiki/Bhutan "Bhutan")  
 [Bolivia](/wiki/index.php?title=Bolivia&action=edit&redlink=1 "Bolivia (page does not exist)")  
 [Communist China](/wiki/Communist_China "Communist China")  
-[Costa
-Rica](/wiki/index.php?title=Costa_Rica&action=edit&redlink=1 "Costa Rica (page does not exist)")  
+[Costa Rica](/wiki/index.php?title=Costa_Rica&action=edit&redlink=1 "Costa Rica (page does not exist)")  
 [Cuba](/wiki/Cuba "Cuba")  
 [Dominican Republic](/wiki/Dominican_Republic "Dominican Republic")  
 [Ecuador](/wiki/index.php?title=Ecuador&action=edit&redlink=1 "Ecuador (page does not exist)")  
-[El
-Salvador](/wiki/index.php?title=El_Salvador&action=edit&redlink=1 "El Salvador (page does not exist)")  
+[El Salvador](/wiki/index.php?title=El_Salvador&action=edit&redlink=1 "El Salvador (page does not exist)")  
 [Estonia](/wiki/Estonia "Estonia")  
 [Ethiopia](/wiki/Ethiopia "Ethiopia")  
 [Guatemala](/wiki/Guatemala "Guatemala")  
@@ -93,8 +91,7 @@ Lithuania
 [Paraguay](/wiki/index.php?title=Paraguay&action=edit&redlink=1 "Paraguay (page does not exist)")  
 [Persia](/wiki/Persia "Persia")  
 [Philippines](/wiki/index.php?title=Philippines&action=edit&redlink=1 "Philippines (page does not exist)")  
-[Saudi
-Arabia](/wiki/index.php?title=Saudi_Arabia&action=edit&redlink=1 "Saudi Arabia (page does not exist)")  
+[Saudi Arabia](/wiki/index.php?title=Saudi_Arabia&action=edit&redlink=1 "Saudi Arabia (page does not exist)")  
 [Siam](/wiki/Siam "Siam")  
 [Sinkiang](/wiki/index.php?title=Sinkiang&action=edit&redlink=1 "Sinkiang (page does not exist)")  
 [Tannu Tuva](/wiki/Tannu_Tuva "Tannu Tuva")  
@@ -105,16 +102,4 @@ Arabia](/wiki/index.php?title=Saudi_Arabia&action=edit&redlink=1 "Saudi Arabia (
 [Yemen](/wiki/index.php?title=Yemen&action=edit&redlink=1 "Yemen (page does not exist)")  
 [Yunnan](/wiki/Yunnan "Yunnan")
 
-Lithuania's strategy is based purely on a defensive doctrine. One of her
-strengths is the good generals she has, the low point is the mere 5 IC
-the game starts with. To build up IC declare war on Estonia and annex
-them before they can fight back. Always research Infantry Doctrines to
-help the defense or Agrichemistry to build up manpower. One should be
-sure to produce an efficient army and build a few land forts and
-concentrate them in one province,then when the Soviets attack they will
-encircle Vilnius but they won't attack it. The Soviets will remain
-around Vilnius until the Germans arrive and drive them out. Choose an
-efficient Foreign Minister and keep giving Germany rare materials, this
-will maintain good relations with Germany and they won't annex
-Lithuania. If this has worked properly Germany should annex Soviet Union
-in three years and Lithuania will be free from aggressors.
+Lithuania's strategy is based purely on a defensive doctrine. One of her strengths is the good generals she has, the low point is the mere 5 IC the game starts with. To build up IC declare war on Estonia and annex them before they can fight back. Always research Infantry Doctrines to help the defense or Agrichemistry to build up manpower. One should be sure to produce an efficient army and build a few land forts and concentrate them in one province,then when the Soviets attack they will encircle Vilnius but they won't attack it. The Soviets will remain around Vilnius until the Germans arrive and drive them out. Choose an efficient Foreign Minister and keep giving Germany rare materials, this will maintain good relations with Germany and they won't annex Lithuania. If this has worked properly Germany should annex Soviet Union in three years and Lithuania will be free from aggressors.

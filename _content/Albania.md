@@ -1,11 +1,11 @@
 ---
 title: Albania
 ---
-[Country guides](/wiki/Country_guides "Country guides")
+ [Country guides](/wiki/Country_guides "Country guides")
 
 [Major powers](/wiki/Major_power "Major power")
 
-------------------------------------------------------------------------
+* * *
 
 [France](/wiki/France "France")  
 [Germany](/wiki/Germany "Germany")  
@@ -17,7 +17,7 @@ title: Albania
 
 Regional powers
 
-------------------------------------------------------------------------
+* * *
 
 [Argentina](/wiki/Argentina "Argentina")  
 [Australia](/wiki/Australia "Australia")  
@@ -41,7 +41,7 @@ Regional powers
 
 [Minor powers](/wiki/Minor_power "Minor power")
 
-------------------------------------------------------------------------
+* * *
 
 [Austria](/wiki/Austria "Austria")  
 [Chile](/wiki/index.php?title=Chile&action=edit&redlink=1 "Chile (page does not exist)")  
@@ -60,20 +60,18 @@ Regional powers
 
 [Micro powers](/wiki/Micro_power "Micro power")
 
-------------------------------------------------------------------------
+* * *
 
 [Afghanistan](/wiki/Afghanistan "Afghanistan")  
 Albania  
 [Bhutan](/wiki/Bhutan "Bhutan")  
 [Bolivia](/wiki/index.php?title=Bolivia&action=edit&redlink=1 "Bolivia (page does not exist)")  
 [Communist China](/wiki/Communist_China "Communist China")  
-[Costa
-Rica](/wiki/index.php?title=Costa_Rica&action=edit&redlink=1 "Costa Rica (page does not exist)")  
+[Costa Rica](/wiki/index.php?title=Costa_Rica&action=edit&redlink=1 "Costa Rica (page does not exist)")  
 [Cuba](/wiki/Cuba "Cuba")  
 [Dominican Republic](/wiki/Dominican_Republic "Dominican Republic")  
 [Ecuador](/wiki/index.php?title=Ecuador&action=edit&redlink=1 "Ecuador (page does not exist)")  
-[El
-Salvador](/wiki/index.php?title=El_Salvador&action=edit&redlink=1 "El Salvador (page does not exist)")  
+[El Salvador](/wiki/index.php?title=El_Salvador&action=edit&redlink=1 "El Salvador (page does not exist)")  
 [Estonia](/wiki/Estonia "Estonia")  
 [Ethiopia](/wiki/Ethiopia "Ethiopia")  
 [Guatemala](/wiki/Guatemala "Guatemala")  
@@ -93,8 +91,7 @@ Salvador](/wiki/index.php?title=El_Salvador&action=edit&redlink=1 "El Salvador (
 [Paraguay](/wiki/index.php?title=Paraguay&action=edit&redlink=1 "Paraguay (page does not exist)")  
 [Persia](/wiki/Persia "Persia")  
 [Philippines](/wiki/index.php?title=Philippines&action=edit&redlink=1 "Philippines (page does not exist)")  
-[Saudi
-Arabia](/wiki/index.php?title=Saudi_Arabia&action=edit&redlink=1 "Saudi Arabia (page does not exist)")  
+[Saudi Arabia](/wiki/index.php?title=Saudi_Arabia&action=edit&redlink=1 "Saudi Arabia (page does not exist)")  
 [Siam](/wiki/Siam "Siam")  
 [Sinkiang](/wiki/index.php?title=Sinkiang&action=edit&redlink=1 "Sinkiang (page does not exist)")  
 [Tannu Tuva](/wiki/Tannu_Tuva "Tannu Tuva")  
@@ -105,34 +102,22 @@ Arabia](/wiki/index.php?title=Saudi_Arabia&action=edit&redlink=1 "Saudi Arabia (
 [Yemen](/wiki/index.php?title=Yemen&action=edit&redlink=1 "Yemen (page does not exist)")  
 [Yunnan](/wiki/Yunnan "Yunnan")
 
-##  Background 
+Background
+----------
 
-**Albania** is a small country, 2 provinces, no army at all, no ability
-to produce one, and of course -30 manpower. They have about 15 leaders
-for their army, 5 for their airforce, and 4 for their navy. You are also
-definitely gonna get attacked by Italy.
+**Albania** is a small country, 2 provinces, no army at all, no ability to produce one, and of course -30 manpower. They have about 15 leaders for their army, 5 for their airforce, and 4 for their navy. You are also definitely gonna get attacked by Italy.
 
   
 
-##  1936-1939 
+1936-1939
+---------
 
-**Technology** You should focus on manpower. Agriculture and so on. '36
-INF divisions are good too. I suggest you get to the third agri
-technology as fast as possible. This should be done by 1938, so you will
-gain \~0.06 manpower a day. Good progress, as you had 0.03 a day.
+**Technology** You should focus on manpower. Agriculture and so on. '36 INF divisions are good too. I suggest you get to the third agri technology as fast as possible. This should be done by 1938, so you will gain ~0.06 manpower a day. Good progress, as you had 0.03 a day.
 
-**Politics** Your moves should be: 1936: 1 step to Free Market 1937: 1
-step to Hawk Lobby 1938: One step Authoritian (less dissent after
-declaring war, will help later) 1939: Standing Army Also, it is
-important to get relations with Yugoslavia as up as humanly possible.
-Then demand Pristina and Skopje.
+**Politics** Your moves should be: 1936: 1 step to Free Market 1937: 1 step to Hawk Lobby 1938: One step Authoritian (less dissent after declaring war, will help later) 1939: Standing Army Also, it is important to get relations with Yugoslavia as up as humanly possible. Then demand Pristina and Skopje.
 
-**Ministers** 1936: Replace armaments minister to Haxhi Lleshi(Consumer
-Goods need: -20%), and Foreign Minister to Llazar Fundua(Great
-Compromiser)
+**Ministers** 1936: Replace armaments minister to Haxhi Lleshi(Consumer Goods need: -20%), and Foreign Minister to Llazar Fundua(Great Compromiser)
 
 **Army**
 
-By 1939 you should have about 13 MP. If you have succeded with getting
-Pristina and Skopje, you are going well. 3 militias in a serial build,
-then put them in Tirana. Should be enough for the Italians.
+By 1939 you should have about 13 MP. If you have succeded with getting Pristina and Skopje, you are going well. 3 militias in a serial build, then put them in Tirana. Should be enough for the Italians.

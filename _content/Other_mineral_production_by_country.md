@@ -1,122 +1,50 @@
 ---
 title: Other_mineral_production_by_country
 ---
-Source: Edgar Mowrer & Marthe Raichman, Global War : An Atlas of World
-Strategy.
+ Source: Edgar Mowrer & Marthe Raichman, Global War : An Atlas of World Strategy.
 
-## Contents
+Contents
+--------
 
--   [ 1 Manganese production (\~ May 1942)
-    ](#Manganese_production_.28.7E_May_1942.29)
--   [ 2 Nickel production (\~ May 1942)
-    ](#Nickel_production_.28.7E_May_1942.29)
--   [ 3 Chrome production (\~ May 1942)
-    ](#Chrome_production_.28.7E_May_1942.29)
--   [ 4 Tungsten production (\~ May 1942)
-    ](#Tungsten_production_.28.7E_May_1942.29)
--   [ 5 Antimony production (\~ May 1942)
-    ](#Antimony_production_.28.7E_May_1942.29)
--   [ 6 Uranium production (\~ Aug 1939)
-    ](#Uranium_production_.28.7E_Aug_1939.29)
+*   [1 Manganese production (~ May 1942)](#Manganese_production_.28.7E_May_1942.29)
+*   [2 Nickel production (~ May 1942)](#Nickel_production_.28.7E_May_1942.29)
+*   [3 Chrome production (~ May 1942)](#Chrome_production_.28.7E_May_1942.29)
+*   [4 Tungsten production (~ May 1942)](#Tungsten_production_.28.7E_May_1942.29)
+*   [5 Antimony production (~ May 1942)](#Antimony_production_.28.7E_May_1942.29)
+*   [6 Uranium production (~ Aug 1939)](#Uranium_production_.28.7E_Aug_1939.29)
 
-#####    Manganese production (\~ May 1942) 
+##### Manganese production (~ May 1942)
 
-|                   |                      |
-|-------------------|----------------------|
-|                   | Share of world total |
-| USSR              | 40%                  |
-| Ghana             | 10%                  |
-| South Africa      | 10%                  |
-| Egypt             | 2%                   |
-| Belgian Congo     | 1%                   |
-| China             | 1%                   |
-| India             | 16%                  |
-| Portuguese India  | 1.5%                 |
-| Japan             | 1.5%                 |
-| Other Asia        | 1%                   |
-| French Morocco    | 2%                   |
-| Germany & Austria | 9%                   |
-| Other Europe      | 2%                   |
+<table border="1"><tbody><tr><td></td><td>Share of world total</td></tr><tr><td>USSR</td><td>40%</td></tr><tr><td>Ghana</td><td>10%</td></tr><tr><td>South Africa</td><td>10%</td></tr><tr><td>Egypt</td><td>2%</td></tr><tr><td>Belgian Congo</td><td>1%</td></tr><tr><td>China</td><td>1%</td></tr><tr><td>India</td><td>16%</td></tr><tr><td>Portuguese India</td><td>1.5%</td></tr><tr><td>Japan</td><td>1.5%</td></tr><tr><td>Other Asia</td><td>1%</td></tr><tr><td>French Morocco</td><td>2%</td></tr><tr><td>Germany &amp; Austria</td><td>9%</td></tr><tr><td>Other Europe</td><td>2%</td></tr></tbody></table>
 
   
 
-#####    Nickel production (\~ May 1942) 
+##### Nickel production (~ May 1942)
 
-|               |                      |
-|---------------|----------------------|
-|               | Share of world total |
-| Canada        | 88%                  |
-| New Caledonia | 6%                   |
-| USSR          | 2%                   |
-| Burma         | 1%                   |
-| Norway        | 1%                   |
-| Greece        | 1%                   |
+<table border="1"><tbody><tr><td></td><td>Share of world total</td></tr><tr><td>Canada</td><td>88%</td></tr><tr><td>New Caledonia</td><td>6%</td></tr><tr><td>USSR</td><td>2%</td></tr><tr><td>Burma</td><td>1%</td></tr><tr><td>Norway</td><td>1%</td></tr><tr><td>Greece</td><td>1%</td></tr></tbody></table>
 
   
 
-#####    Chrome production (\~ May 1942) 
+##### Chrome production (~ May 1942)
 
-|               |                      |
-|---------------|----------------------|
-|               | Share of world total |
-| Zimbabwe      | 22%                  |
-| South Africa  | 13%                  |
-| USSR          | 15%                  |
-| Caribbean     | 5%                   |
-| New Caledonia | 4%                   |
-| Turkey        | 18%                  |
-| India         | 5%                   |
-| Philippines   | 6%                   |
-| Yugoslavia    | 5%                   |
-| Greece        | 3%                   |
+<table border="1"><tbody><tr><td></td><td>Share of world total</td></tr><tr><td>Zimbabwe</td><td>22%</td></tr><tr><td>South Africa</td><td>13%</td></tr><tr><td>USSR</td><td>15%</td></tr><tr><td>Caribbean</td><td>5%</td></tr><tr><td>New Caledonia</td><td>4%</td></tr><tr><td>Turkey</td><td>18%</td></tr><tr><td>India</td><td>5%</td></tr><tr><td>Philippines</td><td>6%</td></tr><tr><td>Yugoslavia</td><td>5%</td></tr><tr><td>Greece</td><td>3%</td></tr></tbody></table>
 
   
 
-#####    Tungsten production (\~ May 1942) 
+##### Tungsten production (~ May 1942)
 
-|                                          |                      |
-|------------------------------------------|----------------------|
-|                                          | Share of world total |
-| China                                    | 38%                  |
-| USA                                      | 8%                   |
-| Bolivia                                  | 5%                   |
-| Other South America                      | 5%                   |
-| Other Allied                             | 9%                   |
-| Burma                                    | 13%                  |
-| Korea                                    | 4%                   |
-| Portugal                                 | 6%                   |
-| Malaya                                   | 3%                   |
-| [Indochina](/wiki/Indochina "Indochina") | 1%                   |
-| Thailand                                 | .5%                  |
-| Other (Axis)                             | 5%                   |
+<table border="1"><tbody><tr><td></td><td>Share of world total</td></tr><tr><td>China</td><td>38%</td></tr><tr><td>USA</td><td>8%</td></tr><tr><td>Bolivia</td><td>5%</td></tr><tr><td>Other South America</td><td>5%</td></tr><tr><td>Other Allied</td><td>9%</td></tr><tr><td>Burma</td><td>13%</td></tr><tr><td>Korea</td><td>4%</td></tr><tr><td>Portugal</td><td>6%</td></tr><tr><td>Malaya</td><td>3%</td></tr><tr><td><a href="/wiki/Indochina" title="Indochina">Indochina</a></td><td>1%</td></tr><tr><td>Thailand</td><td>.5%</td></tr><tr><td>Other (Axis)</td><td>5%</td></tr></tbody></table>
 
   
 
-#####    Antimony production (\~ May 1942) 
+##### Antimony production (~ May 1942)
 
-|                   |                      |
-|-------------------|----------------------|
-|                   | Share of world total |
-| China             | 36%                  |
-| South America     | 21%                  |
-| Mexico            | 19%                  |
-| North America     | 1%                   |
-| Czechoslovakia    | 4%                   |
-| Yugoslavia        | 3%                   |
-| Other Axis Europe | 11%                  |
-| Other (Axis)      | 1%                   |
+<table border="1"><tbody><tr><td></td><td>Share of world total</td></tr><tr><td>China</td><td>36%</td></tr><tr><td>South America</td><td>21%</td></tr><tr><td>Mexico</td><td>19%</td></tr><tr><td>North America</td><td>1%</td></tr><tr><td>Czechoslovakia</td><td>4%</td></tr><tr><td>Yugoslavia</td><td>3%</td></tr><tr><td>Other Axis Europe</td><td>11%</td></tr><tr><td>Other (Axis)</td><td>1%</td></tr></tbody></table>
 
   
 
-#####    Uranium production (\~ Aug 1939) 
+##### Uranium production (~ Aug 1939)
 
-This information comes from Einstein's Letter to Franklin D. Roosevelt
-(dated August 2, 1939).
+This information comes from Einstein's Letter to Franklin D. Roosevelt (dated August 2, 1939).
 
-|                |                                       |
-|----------------|---------------------------------------|
-|                | Value of Source                       |
-| USA            | Very poor ores in moderate quantities |
-| Canada         | Some good ores                        |
-| Czechoslovakia | Some good ores                        |
-| Belgian Congo  | The most important source             |
+<table border="1"><tbody><tr><td></td><td>Value of Source</td></tr><tr><td>USA</td><td>Very poor ores in moderate quantities</td></tr><tr><td>Canada</td><td>Some good ores</td></tr><tr><td>Czechoslovakia</td><td>Some good ores</td></tr><tr><td>Belgian Congo</td><td>The most important source</td></tr></tbody></table>

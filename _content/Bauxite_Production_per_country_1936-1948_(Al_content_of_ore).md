@@ -1,53 +1,21 @@
 ---
 title: Bauxite_Production_per_country_1936-1948_(Al_content_of_ore)
 ---
-Source: BR Mitchell.
+ Source: BR Mitchell.
 
 Numbers are 1000s of metric tons, note the US production spike
 
-|            |      |      |      |      |      |      |      |      |      |      |      |      |      |
-|------------|------|------|------|------|------|------|------|------|------|------|------|------|------|
-|            | 1936 | 1937 | 1938 | 1939 | 1940 | 1941 | 1942 | 1943 | 1944 | 1945 | 1946 | 1947 | 1948 |
-| Australia  | 1    | 7    | 2    | 3    | 4    | 5    | 3    | 3    | 3    | 3    | 4    | 5    | 6    |
-| Brazil     | 0    | 0    | 0    | 0    | 6    | 13   | 30   | 69   | 15   | 20   | 4    | 7    | 15   |
-| France     | 650  | 691  | 684  | 709  | 489  | 587  | 640  | 946  | 666  | 258  | 449  | 680  | 804  |
-| Ghana      | 0    | 0    | 0    | 0    | 0    | 2    | 49   | 107  | 109  | 149  | 116  | 97   | 142  |
-| Guyana     | 213  | 367  | 455  | 478  | 614  | 1112 | 1178 | 1973 | 928  | 680  | 1134 | 1381 | 1996 |
-| Hungary    | 329  | 533  | 540  | 496  | 558  | 781  | 889  | 998  | ?    | 44   | 101  | 340  | 446  |
-| India      | 4    | 15   | 15   | 9    | 8    | 13   | 19   | 25   | 12   | 14   | 17   | 19   | 21   |
-| Indonesia  | 134  | 199  | 245  | 231  | 275  | 172  | 298  | 650  | 275  | 164  | ?    | 25   | 438  |
-| Malaya     | 0    | 19   | 56   | 94   | 64   | 52   | ?    | ?    | ?    | ?    | ?    | ?    | ?    |
-| Surinam    | 235  | 392  | 377  | 512  | 614  | 1116 | 1230 | 1694 | 762  | 747  | 1020 | 1742 | 1983 |
-| USA        | 386  | 432  | 316  | 381  | 446  | 952  | 2644 | 6333 | 2869 | 997  | 1122 | 1221 | 1480 |
-| Yugoslavia | 292  | 354  | 406  | 319  | 283  | ?    | ?    | ?    | ?    | ?    | 71   | 88   | 144  |
+<table border="1"><tbody><tr><td></td><td>1936</td><td>1937</td><td>1938</td><td>1939</td><td>1940</td><td>1941</td><td>1942</td><td>1943</td><td>1944</td><td>1945</td><td>1946</td><td>1947</td><td>1948</td></tr><tr><td>Australia</td><td>1</td><td>7</td><td>2</td><td>3</td><td>4</td><td>5</td><td>3</td><td>3</td><td>3</td><td>3</td><td>4</td><td>5</td><td>6</td></tr><tr><td>Brazil</td><td>0</td><td>0</td><td>0</td><td>0</td><td>6</td><td>13</td><td>30</td><td>69</td><td>15</td><td>20</td><td>4</td><td>7</td><td>15</td></tr><tr><td>France</td><td>650</td><td>691</td><td>684</td><td>709</td><td>489</td><td>587</td><td>640</td><td>946</td><td>666</td><td>258</td><td>449</td><td>680</td><td>804</td></tr><tr><td>Ghana</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>2</td><td>49</td><td>107</td><td>109</td><td>149</td><td>116</td><td>97</td><td>142</td></tr><tr><td>Guyana</td><td>213</td><td>367</td><td>455</td><td>478</td><td>614</td><td>1112</td><td>1178</td><td>1973</td><td>928</td><td>680</td><td>1134</td><td>1381</td><td>1996</td></tr><tr><td>Hungary</td><td>329</td><td>533</td><td>540</td><td>496</td><td>558</td><td>781</td><td>889</td><td>998</td><td>?</td><td>44</td><td>101</td><td>340</td><td>446</td></tr><tr><td>India</td><td>4</td><td>15</td><td>15</td><td>9</td><td>8</td><td>13</td><td>19</td><td>25</td><td>12</td><td>14</td><td>17</td><td>19</td><td>21</td></tr><tr><td>Indonesia</td><td>134</td><td>199</td><td>245</td><td>231</td><td>275</td><td>172</td><td>298</td><td>650</td><td>275</td><td>164</td><td>?</td><td>25</td><td>438</td></tr><tr><td>Malaya</td><td>0</td><td>19</td><td>56</td><td>94</td><td>64</td><td>52</td><td>?</td><td>?</td><td>?</td><td>?</td><td>?</td><td>?</td><td>?</td></tr><tr><td>Surinam</td><td>235</td><td>392</td><td>377</td><td>512</td><td>614</td><td>1116</td><td>1230</td><td>1694</td><td>762</td><td>747</td><td>1020</td><td>1742</td><td>1983</td></tr><tr><td>USA</td><td>386</td><td>432</td><td>316</td><td>381</td><td>446</td><td>952</td><td>2644</td><td>6333</td><td>2869</td><td>997</td><td>1122</td><td>1221</td><td>1480</td></tr><tr><td>Yugoslavia</td><td>292</td><td>354</td><td>406</td><td>319</td><td>283</td><td>?</td><td>?</td><td>?</td><td>?</td><td>?</td><td>71</td><td>88</td><td>144</td></tr></tbody></table>
 
-#####  Aluminium production in the USSR. 
+##### Aluminium production in the USSR.
 
-|              |      |      |      |      |      |      |      |      |      |      |      |      |      |
-|--------------|------|------|------|------|------|------|------|------|------|------|------|------|------|
-|              | 1936 | 1937 | 1938 | 1939 | 1940 | 1941 | 1942 | 1943 | 1944 | 1945 | 1946 | 1947 | 1948 |
-| Soviet Union | ?    | ?    | ?    | ?    | 257+ | 280+ | 670  | 707+ | 830+ | 830+ | ?    | ?    | ?    |
+<table border="1"><tbody><tr><td></td><td>1936</td><td>1937</td><td>1938</td><td>1939</td><td>1940</td><td>1941</td><td>1942</td><td>1943</td><td>1944</td><td>1945</td><td>1946</td><td>1947</td><td>1948</td></tr><tr><td>Soviet Union</td><td>?</td><td>?</td><td>?</td><td>?</td><td>257+</td><td>280+</td><td>670</td><td>707+</td><td>830+</td><td>830+</td><td>?</td><td>?</td><td>?</td></tr></tbody></table>
 
-All data below is compiled from a lot of online and offline sources.
-Some numbers are approximations and are denoted as such. Note the
-numbers provided are not for bauxite, but for pure aluminium and for
-alumina. Bauxite amount can be calculated using coefficients 3 for
-alumina and 6 for aluminium. All numbers are in thousands of metric
-tons.
+All data below is compiled from a lot of online and offline sources. Some numbers are approximations and are denoted as such. Note the numbers provided are not for bauxite, but for pure aluminium and for alumina. Bauxite amount can be calculated using coefficients 3 for alumina and 6 for aluminium. All numbers are in thousands of metric tons.
 
--   1940\. Uralsky Aluminievy Zavod (UAZ): 12.3 to 13.3 aluminium, 31.2
-    alumina. It's aluminium production was about 45% of whole country
-    production, so Tikhvinsky and Dneprovsky plants have produced
-    approx. 15 to 16 aluminium. So far I have not found data for
-    alumina.
--   1941\. UAZ - 31.1 aluminium, no data for alumina. Other two plants
-    are evacuated. No data for their production in the first half of the
-    year.
--   1942\. From this year on, UAZ (Sverdlovskaya oblast) is the only
-    factory in USSR producing aluminium. 51.7 aluminium, approx. 120
-    alumina.
--   1943\. 57.9 aluminium.
--   1944\. 72.4 aluminium, 111% alumina compared to 1943. Unfortunately,
-    no data for 1943. :-)
--   1945\. 71.5 aluminium (less amount, but of higher quality), in this
-    year some other plants have started producing aluminium.
+*   1940\. Uralsky Aluminievy Zavod (UAZ): 12.3 to 13.3 aluminium, 31.2 alumina. It's aluminium production was about 45% of whole country production, so Tikhvinsky and Dneprovsky plants have produced approx. 15 to 16 aluminium. So far I have not found data for alumina.
+*   1941\. UAZ - 31.1 aluminium, no data for alumina. Other two plants are evacuated. No data for their production in the first half of the year.
+*   1942\. From this year on, UAZ (Sverdlovskaya oblast) is the only factory in USSR producing aluminium. 51.7 aluminium, approx. 120 alumina.
+*   1943\. 57.9 aluminium.
+*   1944\. 72.4 aluminium, 111% alumina compared to 1943. Unfortunately, no data for 1943. :-)
+*   1945\. 71.5 aluminium (less amount, but of higher quality), in this year some other plants have started producing aluminium.

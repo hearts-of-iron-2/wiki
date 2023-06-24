@@ -11,7 +11,6 @@ import {
 import markdownToHtml from "../../lib/markdownToHtml";
 import type ArticleType from "../../interfaces/article";
 import PostSearch from "../../components/post-search";
-import humanizeString from "humanize-string";
 
 type Props = {
   article: ArticleType;
@@ -30,14 +29,12 @@ export default function Post({ article, allArticles }: Props) {
         {router.isFallback
           ? <h1 className="text-4xl mx-auto max-w-2xl">Loading…</h1>
           : (
-            <>
-              <article className="mb-32 h-screen overflow-scroll min-w-[70vw]">
-                <h1 className="text-4xl mx-auto max-w-2xl">
-                  {humanizeString("" + article.title)}
-                </h1>
-                <PostBody content={article.content} />
-              </article>
-            </>
+            <article className="mb-32 h-screen min-w-[70vw] max-w-[70vw] overflow-x-scroll">
+              <h1 className="text-4xl mx-auto max-w-2xl">
+                {("" + article.title).replace(/_/gm, " ")}
+              </h1>
+              <PostBody content={article.content} />
+            </article>
           )}
       </Container>
     </Layout>

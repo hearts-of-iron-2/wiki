@@ -1,6 +1,5 @@
-import { useEffect, useState } from "react";
+import { useState } from "react";
 import Fuse from "fuse.js";
-import humanizeString from "humanize-string";
 
 type Props = {
   articles: string[];
@@ -28,7 +27,7 @@ const PostSearch = ({ articles }: Props) => {
       />
       {visibleArticles.map((a, i) => (
         <li key={i}>
-          <a href={"/wiki/" + a}>{humanizeString(a)}</a>
+          <a href={"/wiki/" + a}>{a.replace(/_/gm, " ")}</a>
         </li>
       ))}
     </ul>

@@ -1,11 +1,11 @@
 ---
 title: Liberia
 ---
-[Country guides](/wiki/Country_guides "Country guides")
+ [Country guides](/wiki/Country_guides "Country guides")
 
 [Major powers](/wiki/Major_power "Major power")
 
-------------------------------------------------------------------------
+* * *
 
 [France](/wiki/France "France")  
 [Germany](/wiki/Germany "Germany")  
@@ -17,7 +17,7 @@ title: Liberia
 
 Regional powers
 
-------------------------------------------------------------------------
+* * *
 
 [Argentina](/wiki/Argentina "Argentina")  
 [Australia](/wiki/Australia "Australia")  
@@ -41,7 +41,7 @@ Regional powers
 
 [Minor powers](/wiki/Minor_power "Minor power")
 
-------------------------------------------------------------------------
+* * *
 
 [Austria](/wiki/Austria "Austria")  
 [Chile](/wiki/index.php?title=Chile&action=edit&redlink=1 "Chile (page does not exist)")  
@@ -60,20 +60,18 @@ Regional powers
 
 [Micro powers](/wiki/Micro_power "Micro power")
 
-------------------------------------------------------------------------
+* * *
 
 [Afghanistan](/wiki/Afghanistan "Afghanistan")  
 [Albania](/wiki/Albania "Albania")  
 [Bhutan](/wiki/Bhutan "Bhutan")  
 [Bolivia](/wiki/index.php?title=Bolivia&action=edit&redlink=1 "Bolivia (page does not exist)")  
 [Communist China](/wiki/Communist_China "Communist China")  
-[Costa
-Rica](/wiki/index.php?title=Costa_Rica&action=edit&redlink=1 "Costa Rica (page does not exist)")  
+[Costa Rica](/wiki/index.php?title=Costa_Rica&action=edit&redlink=1 "Costa Rica (page does not exist)")  
 [Cuba](/wiki/Cuba "Cuba")  
 [Dominican Republic](/wiki/Dominican_Republic "Dominican Republic")  
 [Ecuador](/wiki/index.php?title=Ecuador&action=edit&redlink=1 "Ecuador (page does not exist)")  
-[El
-Salvador](/wiki/index.php?title=El_Salvador&action=edit&redlink=1 "El Salvador (page does not exist)")  
+[El Salvador](/wiki/index.php?title=El_Salvador&action=edit&redlink=1 "El Salvador (page does not exist)")  
 [Estonia](/wiki/Estonia "Estonia")  
 [Ethiopia](/wiki/Ethiopia "Ethiopia")  
 [Guatemala](/wiki/Guatemala "Guatemala")  
@@ -93,8 +91,7 @@ Liberia
 [Paraguay](/wiki/index.php?title=Paraguay&action=edit&redlink=1 "Paraguay (page does not exist)")  
 [Persia](/wiki/Persia "Persia")  
 [Philippines](/wiki/index.php?title=Philippines&action=edit&redlink=1 "Philippines (page does not exist)")  
-[Saudi
-Arabia](/wiki/index.php?title=Saudi_Arabia&action=edit&redlink=1 "Saudi Arabia (page does not exist)")  
+[Saudi Arabia](/wiki/index.php?title=Saudi_Arabia&action=edit&redlink=1 "Saudi Arabia (page does not exist)")  
 [Siam](/wiki/Siam "Siam")  
 [Sinkiang](/wiki/index.php?title=Sinkiang&action=edit&redlink=1 "Sinkiang (page does not exist)")  
 [Tannu Tuva](/wiki/Tannu_Tuva "Tannu Tuva")  
@@ -105,90 +102,77 @@ Arabia](/wiki/index.php?title=Saudi_Arabia&action=edit&redlink=1 "Saudi Arabia (
 [Yemen](/wiki/index.php?title=Yemen&action=edit&redlink=1 "Yemen (page does not exist)")  
 [Yunnan](/wiki/Yunnan "Yunnan")
 
-## Contents
+Contents
+--------
 
--   [ 1 Overview ](#Overview)
--   [ 2 Technology ](#Technology)
--   [ 3 Diplomacy ](#Diplomacy)
-    -   [ 3.1 Potential Allies ](#Potential_Allies)
--   [ 4 Economy ](#Economy)
--   [ 5 Intelligence ](#Intelligence)
--   [ 6 Armed forces ](#Armed_forces)
-    -   [ 6.1 Army ](#Army)
-    -   [ 6.2 Navy ](#Navy)
-    -   [ 6.3 Air force ](#Air_force)
--   [ 7 Strategy ](#Strategy)
--   [ 8 Pro's ](#Pro.27s)
--   [ 9 Con's ](#Con.27s)
+*   [1 Overview](#Overview)
+*   [2 Technology](#Technology)
+*   [3 Diplomacy](#Diplomacy)
+    *   [3.1 Potential Allies](#Potential_Allies)
+*   [4 Economy](#Economy)
+*   [5 Intelligence](#Intelligence)
+*   [6 Armed forces](#Armed_forces)
+    *   [6.1 Army](#Army)
+    *   [6.2 Navy](#Navy)
+    *   [6.3 Air force](#Air_force)
+*   [7 Strategy](#Strategy)
+*   [8 Pro's](#Pro.27s)
+*   [9 Con's](#Con.27s)
 
-##  Overview 
+Overview
+--------
 
-Liberia is a small one province country on the southwestern coast of
-Africa. Like all other micro-powers it starts with a small outdated
-force. It is also limited in expansion prospects and has limited
-technical capabilities. However, It has one big thing going for it, and
-thats the US of A.
+Liberia is a small one province country on the southwestern coast of Africa. Like all other micro-powers it starts with a small outdated force. It is also limited in expansion prospects and has limited technical capabilities. However, It has one big thing going for it, and thats the US of A.
 
-##  Technology 
+Technology
+----------
 
-Like all micro's Liberia only has one tech slot. However, Liberia only
-has two tech teams at the beginning, so it isn't that bad. The best
-thing to do it research IC techs with the Liberian Rubber Company. It
-also helps to get as many blueprints as possible from the USA.
+Like all micro's Liberia only has one tech slot. However, Liberia only has two tech teams at the beginning, so it isn't that bad. The best thing to do it research IC techs with the Liberian Rubber Company. It also helps to get as many blueprints as possible from the USA.
 
-##  Diplomacy 
+Diplomacy
+---------
 
-You start out as a puppet government of the USA. In your position, you
-are surrounded by the colonial holdings of France and the Untied
-Kingdom.
+You start out as a puppet government of the USA. In your position, you are surrounded by the colonial holdings of France and the Untied Kingdom.
 
-###  Potential Allies 
+### Potential Allies
 
-##  Economy 
+Economy
+-------
 
-You start off with 2 IC, and the energy and metal to keep those two IC
-running. A few extra rare materials can be traded for supplies, but
-that's about it. Your manpower gain is 11 per year, but there's simply
-not enough IC to use all of it.
+You start off with 2 IC, and the energy and metal to keep those two IC running. A few extra rare materials can be traded for supplies, but that's about it. Your manpower gain is 11 per year, but there's simply not enough IC to use all of it.
 
-##  Intelligence 
+Intelligence
+------------
 
-It's not worth it to use the intelligence system, since you need the
-money for more important things.
+It's not worth it to use the intelligence system, since you need the money for more important things.
 
-##  Armed forces 
+Armed forces
+------------
 
-###  Army 
+### Army
 
-You start out with 2 1918 infantry divisions in your one province. Your
-best bet is to build only infantry, since your entire country is jungle.
+You start out with 2 1918 infantry divisions in your one province. Your best bet is to build only infantry, since your entire country is jungle.
 
-###  Navy 
+### Navy
 
-You start with 1 transport flottila. This is fine for your little
-transporting needs. It isn't necessary to build an extensive navy
-because as a puppet of America, if you get in wars, then America gets in
-the wars too, and America is much more capable of guarding the seas then
-you can.
+You start with 1 transport flottila. This is fine for your little transporting needs. It isn't necessary to build an extensive navy because as a puppet of America, if you get in wars, then America gets in the wars too, and America is much more capable of guarding the seas then you can.
 
-###  Air force 
+### Air force
 
-It's best not to build an air force, since you don't have the manpower
-or IC to spare to make planes. Also, your location in Africa means that
-you are pretty far away from most action, and your single research slot
-is much better used on industrial, infantry and doctrine techs.
+It's best not to build an air force, since you don't have the manpower or IC to spare to make planes. Also, your location in Africa means that you are pretty far away from most action, and your single research slot is much better used on industrial, infantry and doctrine techs.
 
-##  Strategy 
+Strategy
+--------
 
-Try for a land grab near the end of the SCW, to get their reachable
-African colonies. Then, when war with Vichy comes, take as much of
-Africa as you can.
+Try for a land grab near the end of the SCW, to get their reachable African colonies. Then, when war with Vichy comes, take as much of Africa as you can.
 
-##    Pro's 
+Pro's
+-----
 
 Powerful Ally-USA
 
-##    Con's 
+Con's
+-----
 
 1.Bad tech teams
 

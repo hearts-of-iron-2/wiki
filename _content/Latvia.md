@@ -1,11 +1,11 @@
 ---
 title: Latvia
 ---
-[Country guides](/wiki/Country_guides "Country guides")
+ [Country guides](/wiki/Country_guides "Country guides")
 
 [Major powers](/wiki/Major_power "Major power")
 
-------------------------------------------------------------------------
+* * *
 
 [France](/wiki/France "France")  
 [Germany](/wiki/Germany "Germany")  
@@ -17,7 +17,7 @@ title: Latvia
 
 Regional powers
 
-------------------------------------------------------------------------
+* * *
 
 [Argentina](/wiki/Argentina "Argentina")  
 [Australia](/wiki/Australia "Australia")  
@@ -41,7 +41,7 @@ Regional powers
 
 [Minor powers](/wiki/Minor_power "Minor power")
 
-------------------------------------------------------------------------
+* * *
 
 [Austria](/wiki/Austria "Austria")  
 [Chile](/wiki/index.php?title=Chile&action=edit&redlink=1 "Chile (page does not exist)")  
@@ -60,20 +60,18 @@ Regional powers
 
 [Micro powers](/wiki/Micro_power "Micro power")
 
-------------------------------------------------------------------------
+* * *
 
 [Afghanistan](/wiki/Afghanistan "Afghanistan")  
 [Albania](/wiki/Albania "Albania")  
 [Bhutan](/wiki/Bhutan "Bhutan")  
 [Bolivia](/wiki/index.php?title=Bolivia&action=edit&redlink=1 "Bolivia (page does not exist)")  
 [Communist China](/wiki/Communist_China "Communist China")  
-[Costa
-Rica](/wiki/index.php?title=Costa_Rica&action=edit&redlink=1 "Costa Rica (page does not exist)")  
+[Costa Rica](/wiki/index.php?title=Costa_Rica&action=edit&redlink=1 "Costa Rica (page does not exist)")  
 [Cuba](/wiki/Cuba "Cuba")  
 [Dominican Republic](/wiki/Dominican_Republic "Dominican Republic")  
 [Ecuador](/wiki/index.php?title=Ecuador&action=edit&redlink=1 "Ecuador (page does not exist)")  
-[El
-Salvador](/wiki/index.php?title=El_Salvador&action=edit&redlink=1 "El Salvador (page does not exist)")  
+[El Salvador](/wiki/index.php?title=El_Salvador&action=edit&redlink=1 "El Salvador (page does not exist)")  
 [Estonia](/wiki/Estonia "Estonia")  
 [Ethiopia](/wiki/Ethiopia "Ethiopia")  
 [Guatemala](/wiki/Guatemala "Guatemala")  
@@ -93,8 +91,7 @@ Latvia
 [Paraguay](/wiki/index.php?title=Paraguay&action=edit&redlink=1 "Paraguay (page does not exist)")  
 [Persia](/wiki/Persia "Persia")  
 [Philippines](/wiki/index.php?title=Philippines&action=edit&redlink=1 "Philippines (page does not exist)")  
-[Saudi
-Arabia](/wiki/index.php?title=Saudi_Arabia&action=edit&redlink=1 "Saudi Arabia (page does not exist)")  
+[Saudi Arabia](/wiki/index.php?title=Saudi_Arabia&action=edit&redlink=1 "Saudi Arabia (page does not exist)")  
 [Siam](/wiki/Siam "Siam")  
 [Sinkiang](/wiki/index.php?title=Sinkiang&action=edit&redlink=1 "Sinkiang (page does not exist)")  
 [Tannu Tuva](/wiki/Tannu_Tuva "Tannu Tuva")  
@@ -105,18 +102,8 @@ Arabia](/wiki/index.php?title=Saudi_Arabia&action=edit&redlink=1 "Saudi Arabia (
 [Yemen](/wiki/index.php?title=Yemen&action=edit&redlink=1 "Yemen (page does not exist)")  
 [Yunnan](/wiki/Yunnan "Yunnan")
 
-Latvia's strategy is based on a defensive doctrine. Her entire military
-should focus on just defending Latvia against the Soviet invasion in
-1940. One should also strive to ally with other Baltic countries and
-Finland when that becomes possible or even ally with Germany, though
-that may mess up her invasion of France and the Low Countries. If the
-former allies are chosen instead of Germany, be sure to keep good
-relations with Germany in order to avoid being invaded by them.
+Latvia's strategy is based on a defensive doctrine. Her entire military should focus on just defending Latvia against the Soviet invasion in 1940. One should also strive to ally with other Baltic countries and Finland when that becomes possible or even ally with Germany, though that may mess up her invasion of France and the Low Countries. If the former allies are chosen instead of Germany, be sure to keep good relations with Germany in order to avoid being invaded by them.
 
-Latvia starts the game already allied with Estonia, so should try and
-trade blueprints with each other as often as possible to boost the
-chance of surviving.
+Latvia starts the game already allied with Estonia, so should try and trade blueprints with each other as often as possible to boost the chance of surviving.
 
-It is unlikely the other two Baltic states (unless human controlled)
-will do anything other than bow to Soviet pressure starting September
-1939, so you cannot count on them to buy you any time at all.
+It is unlikely the other two Baltic states (unless human controlled) will do anything other than bow to Soviet pressure starting September 1939, so you cannot count on them to buy you any time at all.

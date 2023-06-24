@@ -1,11 +1,11 @@
 ---
 title: Shanxi
 ---
-[Country guides](/wiki/Country_guides "Country guides")
+ [Country guides](/wiki/Country_guides "Country guides")
 
 [Major powers](/wiki/Major_power "Major power")
 
-------------------------------------------------------------------------
+* * *
 
 [France](/wiki/France "France")  
 [Germany](/wiki/Germany "Germany")  
@@ -17,7 +17,7 @@ title: Shanxi
 
 Regional powers
 
-------------------------------------------------------------------------
+* * *
 
 [Argentina](/wiki/Argentina "Argentina")  
 [Australia](/wiki/Australia "Australia")  
@@ -41,7 +41,7 @@ Regional powers
 
 [Minor powers](/wiki/Minor_power "Minor power")
 
-------------------------------------------------------------------------
+* * *
 
 [Austria](/wiki/Austria "Austria")  
 [Chile](/wiki/index.php?title=Chile&action=edit&redlink=1 "Chile (page does not exist)")  
@@ -60,20 +60,18 @@ Shanxi
 
 [Micro powers](/wiki/Micro_power "Micro power")
 
-------------------------------------------------------------------------
+* * *
 
 [Afghanistan](/wiki/Afghanistan "Afghanistan")  
 [Albania](/wiki/Albania "Albania")  
 [Bhutan](/wiki/Bhutan "Bhutan")  
 [Bolivia](/wiki/index.php?title=Bolivia&action=edit&redlink=1 "Bolivia (page does not exist)")  
 [Communist China](/wiki/Communist_China "Communist China")  
-[Costa
-Rica](/wiki/index.php?title=Costa_Rica&action=edit&redlink=1 "Costa Rica (page does not exist)")  
+[Costa Rica](/wiki/index.php?title=Costa_Rica&action=edit&redlink=1 "Costa Rica (page does not exist)")  
 [Cuba](/wiki/Cuba "Cuba")  
 [Dominican Republic](/wiki/Dominican_Republic "Dominican Republic")  
 [Ecuador](/wiki/index.php?title=Ecuador&action=edit&redlink=1 "Ecuador (page does not exist)")  
-[El
-Salvador](/wiki/index.php?title=El_Salvador&action=edit&redlink=1 "El Salvador (page does not exist)")  
+[El Salvador](/wiki/index.php?title=El_Salvador&action=edit&redlink=1 "El Salvador (page does not exist)")  
 [Estonia](/wiki/Estonia "Estonia")  
 [Ethiopia](/wiki/Ethiopia "Ethiopia")  
 [Guatemala](/wiki/Guatemala "Guatemala")  
@@ -93,8 +91,7 @@ Salvador](/wiki/index.php?title=El_Salvador&action=edit&redlink=1 "El Salvador (
 [Paraguay](/wiki/index.php?title=Paraguay&action=edit&redlink=1 "Paraguay (page does not exist)")  
 [Persia](/wiki/Persia "Persia")  
 [Philippines](/wiki/index.php?title=Philippines&action=edit&redlink=1 "Philippines (page does not exist)")  
-[Saudi
-Arabia](/wiki/index.php?title=Saudi_Arabia&action=edit&redlink=1 "Saudi Arabia (page does not exist)")  
+[Saudi Arabia](/wiki/index.php?title=Saudi_Arabia&action=edit&redlink=1 "Saudi Arabia (page does not exist)")  
 [Siam](/wiki/Siam "Siam")  
 [Sinkiang](/wiki/index.php?title=Sinkiang&action=edit&redlink=1 "Sinkiang (page does not exist)")  
 [Tannu Tuva](/wiki/Tannu_Tuva "Tannu Tuva")  
@@ -105,97 +102,69 @@ Arabia](/wiki/index.php?title=Saudi_Arabia&action=edit&redlink=1 "Saudi Arabia (
 [Yemen](/wiki/index.php?title=Yemen&action=edit&redlink=1 "Yemen (page does not exist)")  
 [Yunnan](/wiki/Yunnan "Yunnan")
 
-## Contents
+Contents
+--------
 
--   [ 1 Overview ](#Overview)
--   [ 2 Technology ](#Technology)
--   [ 3 Diplomacy ](#Diplomacy)
--   [ 4 Sliders ](#Sliders)
--   [ 5 Economy ](#Economy)
-    -   [ 5.1 Trading ](#Trading)
-    -   [ 5.2 Industrial Production ](#Industrial_Production)
--   [ 6 Military ](#Military)
-    -   [ 6.1 Army ](#Army)
-    -   [ 6.2 Navy ](#Navy)
-    -   [ 6.3 Air Force ](#Air_Force)
--   [ 7 Walkthrough ](#Walkthrough)
+*   [1 Overview](#Overview)
+*   [2 Technology](#Technology)
+*   [3 Diplomacy](#Diplomacy)
+*   [4 Sliders](#Sliders)
+*   [5 Economy](#Economy)
+    *   [5.1 Trading](#Trading)
+    *   [5.2 Industrial Production](#Industrial_Production)
+*   [6 Military](#Military)
+    *   [6.1 Army](#Army)
+    *   [6.2 Navy](#Navy)
+    *   [6.3 Air Force](#Air_Force)
+*   [7 Walkthrough](#Walkthrough)
 
-##  Overview 
+Overview
+--------
 
-Shanxi is a minor power, a warlord state controlling the north of China,
-bordering Communist and Nationalist China, Japan, Mongolia and Xibei San
-Ma. Thus it is threatened on almost all sides. However one's main
-concern is the looming Japanese invasion. Playing as Shanxi is no more
-than a pure fight for survival, and defence is your number one priority.
+Shanxi is a minor power, a warlord state controlling the north of China, bordering Communist and Nationalist China, Japan, Mongolia and Xibei San Ma. Thus it is threatened on almost all sides. However one's main concern is the looming Japanese invasion. Playing as Shanxi is no more than a pure fight for survival, and defence is your number one priority.
 
-##  Technology 
+Technology
+----------
 
-Shanxi is awful for technology. There is only one team and one slot. The
-best thing to do is to research land doctrine, following Mobility Focus
-Doctrine through to Blitzkrieg. This ensures a high Organisation for
-defence against Japan.
+Shanxi is awful for technology. There is only one team and one slot. The best thing to do is to research land doctrine, following Mobility Focus Doctrine through to Blitzkrieg. This ensures a high Organisation for defence against Japan.
 
-##  Diplomacy 
+Diplomacy
+---------
 
-Shanxi is friendly with all Chinese nations bar the Communists and thus
-a chance of joining the Nationalists and Xibei is very high. However the
-Japanese and Manchukuo are not your friends and they will be your
-nemesis throughout the game.
+Shanxi is friendly with all Chinese nations bar the Communists and thus a chance of joining the Nationalists and Xibei is very high. However the Japanese and Manchukuo are not your friends and they will be your nemesis throughout the game.
 
-##  Sliders 
+Sliders
+-------
 
-With a fairly small IC of around 10 you must try to reach Central
-Planning as soon as possible to attain your 25% IC increase.
+With a fairly small IC of around 10 you must try to reach Central Planning as soon as possible to attain your 25% IC increase.
 
-##  Economy 
+Economy
+-------
 
-###  Trading 
+### Trading
 
-Shanxi will need to use its money or supplies to pay for natural
-resources, which are fairly scarce. Alliance with Nationalist China will
-result in handouts.
+Shanxi will need to use its money or supplies to pay for natural resources, which are fairly scarce. Alliance with Nationalist China will result in handouts.
 
-###  Industrial Production 
+### Industrial Production
 
-As before, you must have a high production of either supplies or
-consumer goods. Remember to not let dissent get over 3.50% or you will
-start losing precious IC.
+As before, you must have a high production of either supplies or consumer goods. Remember to not let dissent get over 3.50% or you will start losing precious IC.
 
-##  Military 
+Military
+--------
 
-###  Army 
+### Army
 
-Militia is the key to Shanxi military development, they are cheap and
-quick to build. Continue to build on your already fairly large army with
-militia and infantry to ensure safety when the Japanese DOW you. You
-should be able to survive with about 30 divisions.
+Militia is the key to Shanxi military development, they are cheap and quick to build. Continue to build on your already fairly large army with militia and infantry to ensure safety when the Japanese DOW you. You should be able to survive with about 30 divisions.
 
-###  Navy 
+### Navy
 
 You have no navy and should have no interest in getting one.
 
-###  Air Force 
+### Air Force
 
-There is no need for an air force. Ally with Nationalist China and let
-their planes do the work.
+There is no need for an air force. Ally with Nationalist China and let their planes do the work.
 
-##  Walkthrough 
+Walkthrough
+-----------
 
-Straight from the off you must move all your troops to the Japanese
-border. Pay particular attention to the provinces of Jining and Tianjin,
-where the Japanese could make a breakthrough. AFTER the end of the
-Communist/Nationalist war, if they have not formed a united front you
-should join Xibei and Nationalist China in an alliance. Continue steady
-military growth until Japan DOWs you and your allies. Remember that you
-are the first line of Chinese defense and that the Nationalists would
-rather annex you than help you, thus victory over Japan is paramount.
-Take the Japanese provinces first and wait before launching an attack on
-Manchukuo to ensure that you regain organization and strength. If you
-push too much the Japanese will soon push you all the way back and more.
-Annex Manchukuo and sue for peace with Japan, allowing them a route
-through to the Nationalists. Then turn on your allies and sweep through
-Xibei before holding firm against the Nationalists, waiting for the
-Japanese to destroy them and grabbing as much IC as possible. After that
-you are free to do what you want, but Yunnan, Sinkiang and Tibet are the
-obvious targets. Do not attempt to take on the Communists, who have
-superior armies.
+Straight from the off you must move all your troops to the Japanese border. Pay particular attention to the provinces of Jining and Tianjin, where the Japanese could make a breakthrough. AFTER the end of the Communist/Nationalist war, if they have not formed a united front you should join Xibei and Nationalist China in an alliance. Continue steady military growth until Japan DOWs you and your allies. Remember that you are the first line of Chinese defense and that the Nationalists would rather annex you than help you, thus victory over Japan is paramount. Take the Japanese provinces first and wait before launching an attack on Manchukuo to ensure that you regain organization and strength. If you push too much the Japanese will soon push you all the way back and more. Annex Manchukuo and sue for peace with Japan, allowing them a route through to the Nationalists. Then turn on your allies and sweep through Xibei before holding firm against the Nationalists, waiting for the Japanese to destroy them and grabbing as much IC as possible. After that you are free to do what you want, but Yunnan, Sinkiang and Tibet are the obvious targets. Do not attempt to take on the Communists, who have superior armies.

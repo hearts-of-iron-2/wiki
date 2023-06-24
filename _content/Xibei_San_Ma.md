@@ -1,7 +1,8 @@
 ---
 title: Xibei_San_Ma
 ---
-##  Xibei San Ma 
+ Xibei San Ma
+------------
 
 **Advantages:** Access to blueprints from Nationalist China
 
@@ -9,8 +10,7 @@ Allied with Nationalist China at the start
 
   
 
-**Disadvantages:** Very poor IC, especially compared to Guangxi and
-Shanxi clique
+**Disadvantages:** Very poor IC, especially compared to Guangxi and Shanxi clique
 
 Poor leaders
 

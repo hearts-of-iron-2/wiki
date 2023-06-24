@@ -1,4 +1,4 @@
 ---
 title: DMP
 ---
-[TABLE]
+ <table class="metadata plainlinks ambox ambox-delete" style=""><tbody><tr><td class="mbox-image"><div style="width: 52px;"><img alt="" data-file-height="44" data-file-width="50" data-url="https://central.paradoxwikis.com/images/thumb/6/6e/Ambox_warning_pn.png/40px-Ambox_warning_pn.png" decoding="async" height="35" loading="lazy" src="https://central.paradoxwikis.com/images/thumb/6/6e/Ambox_warning_pn.png/40px-Ambox_warning_pn.png" srcset="https://central.paradoxwikis.com/images/6/6e/Ambox_warning_pn.png 1.5x" width="40"></div></td><td class="mbox-text" style=""><b>This article is a <a href="/wiki/Category:Candidates_for_deletion" title="Category:Candidates for deletion">candidate for deletion </a>.</b><br><ul><li>Discuss if it should or should not be deleted on this page’s <b><a class="new" href="/wiki/index.php?title=Talk:DMP&amp;action=edit&amp;redlink=1" title="Talk:DMP (page does not exist)">talk page </a></b>.</li><li><b>Reason </b>: both links dead</li></ul></td></tr></tbody></table>
