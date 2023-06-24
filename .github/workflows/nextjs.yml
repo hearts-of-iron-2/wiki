@@ -87,7 +87,7 @@ jobs:
   deploy:
     environment:
       name: github-pages
-      url: wiki.artificialstupidity.uk
+      url: https://wiki.artificialstupidity.uk/
     runs-on: ubuntu-latest
     needs: build
     steps:
