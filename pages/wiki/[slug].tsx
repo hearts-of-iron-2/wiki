@@ -33,7 +33,7 @@ export default function Post({ article, allArticles }: Props) {
             <>
               <article className="mb-32 h-screen overflow-scroll min-w-[70vw]">
                 <h1 className="text-4xl mx-auto max-w-2xl">
-                  {humanizeString(article.title)}
+                  {humanizeString("" + article.title)}
                 </h1>
                 <PostBody content={article.content} />
               </article>
