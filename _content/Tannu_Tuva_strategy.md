@@ -1,3 +1,8 @@
+---
+title: Tannu_Tuva_strategy
+---
+
+
 [TABLE]
 
 [Country guides](/wiki/Country_guides "Country guides")

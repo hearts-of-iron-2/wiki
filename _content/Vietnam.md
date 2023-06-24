@@ -1,3 +1,8 @@
+---
+title: Vietnam
+---
+
+
 Vietnam War Version 4.0 by FRVP
 
 Fantastic historical scenario 1963 - 1975. Although you play longer if

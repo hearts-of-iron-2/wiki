@@ -1,3 +1,8 @@
+---
+title: Tactical_Bombers
+---
+
+
 Tactical Bombers are medium-sized aircraft, larger than Fighters, yet
 smaller than [Strategic
 Bombers](/wiki/Strategic_Bombers "Strategic Bombers") , which are used

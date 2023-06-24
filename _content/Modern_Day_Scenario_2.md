@@ -1,3 +1,8 @@
+---
+title: Modern_Day_Scenario_2
+---
+
+
 MDS is a modification of Hearts of Iron II. The mod starts out with the
 Invasion of Iraq and the War on Terror in March 2003 and lasts through
 2019. The storyline emphasize on a conflict between China, Russia, the

@@ -1,3 +1,8 @@
+---
+title: Peace_to_end_all_Peace
+---
+
+
 This mod will give you the possibility to play as Imperial Germany,
 Austria-Hungary, Russian Empire, Ottoman Empire, etc in 1936, with the
 main idea than WWI never happened. The turning point? Here again Serbia

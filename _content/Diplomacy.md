@@ -1,3 +1,8 @@
+---
+title: Diplomacy
+---
+
+
 [TABLE]
 
   

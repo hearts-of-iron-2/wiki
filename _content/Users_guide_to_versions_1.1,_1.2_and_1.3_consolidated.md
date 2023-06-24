@@ -1,3 +1,8 @@
+---
+title: Users_guide_to_versions_1.1,_1.2_and_1.3_consolidated
+---
+
+
 [Template:HoI2
 v1.3](/wiki/index.php?title=Template:HoI2_v1.3&action=edit&redlink=1 "Template:HoI2 v1.3 (page does not exist)")
 

@@ -1,3 +1,8 @@
+---
+title: Cheat_Codes
+---
+
+
 The following is an *incomplete* listing of the cheat codes available
 within the game.
 

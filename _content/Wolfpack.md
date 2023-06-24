@@ -1,3 +1,8 @@
+---
+title: Wolfpack
+---
+
+
 ###  Submarine Wolfpack 
 
 Any group of [submarines](/wiki/Submarine "Submarine") that includes no

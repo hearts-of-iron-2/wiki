@@ -1,3 +1,8 @@
+---
+title: HQ_Units_in_Action
+---
+
+
 [Template:Anthology](/wiki/index.php?title=Template:Anthology&action=edit&redlink=1 "Template:Anthology (page does not exist)")
 *This Guide was originally developed by **czar1111** . Please see [this
 thread](http://forum.paradoxplaza.com/forum/showthread.php?t=188821) on

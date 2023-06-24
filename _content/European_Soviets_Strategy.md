@@ -1,3 +1,8 @@
+---
+title: European_Soviets_Strategy
+---
+
+
 gerneral strategy(abyss)
 
 In this game your gonna have to think fast you need defences so first

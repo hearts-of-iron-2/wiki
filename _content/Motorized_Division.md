@@ -1,3 +1,8 @@
+---
+title: Motorized_Division
+---
+
+
 Motorized Infantry make use of wheeled vehicles, such as trucks, to
 manoeuvre more rapidly than basic Infantry. But they are limited to
 roads and so their performance may suffer in provinces with low

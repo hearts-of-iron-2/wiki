@@ -1,3 +1,8 @@
+---
+title: Allies
+---
+
+
 **The Allies** is one of the three major
 [alliances](/wiki/index.php?title=Alliance&action=edit&redlink=1 "Alliance (page does not exist)")
 in HoI. The Allies is led by [United

@@ -1,3 +1,8 @@
+---
+title: Strategy_for_Operation_Downfall:_Invasion_of_Japan
+---
+
+
 [Template:Scenario
 guides](/wiki/index.php?title=Template:Scenario_guides&action=edit&redlink=1 "Template:Scenario guides (page does not exist)")
 

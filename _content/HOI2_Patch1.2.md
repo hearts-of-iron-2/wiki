@@ -1,3 +1,8 @@
+---
+title: HOI2_Patch1.2
+---
+
+
 ## Contents
 
 -   [ 1 New Features ](#New_Features)

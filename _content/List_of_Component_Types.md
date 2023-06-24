@@ -1,3 +1,8 @@
+---
+title: List_of_Component_Types
+---
+
+
 ##  Component Types 
 
 Each [tech](/wiki/Tech_Tree "Tech Tree") in HoI2 has five components and

@@ -1,3 +1,8 @@
+---
+title: Comintern
+---
+
+
 **The Comintern** is one of three major
 [alliances](/wiki/index.php?title=Alliance&action=edit&redlink=1 "Alliance (page does not exist)")
 in HoI. Comintern is led by

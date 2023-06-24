@@ -1,3 +1,8 @@
+---
+title: Do_I_build_Factories?
+---
+
+
 [Template:Anthology](/wiki/index.php?title=Template:Anthology&action=edit&redlink=1 "Template:Anthology (page does not exist)")
 
 There is a wide variety of views on whether or not to build factories.

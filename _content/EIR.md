@@ -1,3 +1,8 @@
+---
+title: EIR
+---
+
+
 ##    **The East is Red -- Goering's Delay** 
 
 *The East is Red -- Goering's Delay is an evolution of a long term

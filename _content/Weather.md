@@ -1,3 +1,8 @@
+---
+title: Weather
+---
+
+
 There are six types of **weather** in Hearts of Iron 2. They are listed
 below with appropriate notes
 

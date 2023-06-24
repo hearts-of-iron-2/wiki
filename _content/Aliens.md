@@ -1,3 +1,8 @@
+---
+title: Aliens
+---
+
+
 The Aliens are a bit of a hidden feature of HoI. They are unleashed
 through a "cheat' that is activated by typing in "alienattack\[province
 ID number\]". An example would be "alienattack722". This would make them

@@ -1,3 +1,8 @@
+---
+title: GIP
+---
+
+
 The Graphic Improvement Project (GIP) is a complete graphics overhaul
 for Hearts of Iron 2 Doomsday and its add on Armageddon. The only area
 GIP does not change are division icons (which SKIF does). In the newest

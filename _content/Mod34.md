@@ -1,3 +1,8 @@
+---
+title: Mod34
+---
+
+
 This mod begins in October of 1934 and features a completely new
 technology tree (without historical year), improved AI, new units,
 events (over 6000 new events), and new countries (for example:Vatican

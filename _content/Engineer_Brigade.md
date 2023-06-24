@@ -1,3 +1,8 @@
+---
+title: Engineer_Brigade
+---
+
+
 This artical refers to Enginner Brigades in the HOI2 expansions Doomsday
 and Armageddon. Refer to the end of the article for other versions of
 HOI2

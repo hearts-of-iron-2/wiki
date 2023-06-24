@@ -1,3 +1,8 @@
+---
+title: Naval_Doctrine
+---
+
+
 **Naval Doctrine**
 
 Your Naval Doctrine influences your naval combat, it determines what

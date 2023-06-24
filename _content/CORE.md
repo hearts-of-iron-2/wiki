@@ -1,3 +1,8 @@
+---
+title: CORE
+---
+
+
 CORE is the Community Open Resource Exchange. CORE aims to make Hearts
 of Iron 2 a more historically accurate and involving game, through
 expanded and more detailed tech trees, corresponding units, tech teams

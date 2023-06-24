@@ -1,3 +1,8 @@
+---
+title: Cavalry_Division
+---
+
+
 Cavalry Divisions (Cav) are able to move fairly rapidly over most types
 of terrain and do not require a supply of fuel to operate, but they are
 lightly armed when compared with Armoured units, and the automatic

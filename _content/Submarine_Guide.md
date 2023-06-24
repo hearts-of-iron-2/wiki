@@ -1,3 +1,8 @@
+---
+title: Submarine_Guide
+---
+
+
 [Template:Anthology](/wiki/index.php?title=Template:Anthology&action=edit&redlink=1 "Template:Anthology (page does not exist)")
 
 **Submarines** are a powerful unit in HOI2, which the AI finds very

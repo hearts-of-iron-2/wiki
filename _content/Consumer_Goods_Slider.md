@@ -1,3 +1,8 @@
+---
+title: Consumer_Goods_Slider
+---
+
+
 ##  Consumer Goods Slider 
 
 The consumer goods slider allocates how much [Industrial

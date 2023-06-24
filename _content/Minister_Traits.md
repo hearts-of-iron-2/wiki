@@ -1,3 +1,8 @@
+---
+title: Minister_Traits
+---
+
+
 -   All minister traits can be used in any minister types, but sometimes
     it may not be a good idea.
 -   Minister research bonus did not work in HOI2 up to and including

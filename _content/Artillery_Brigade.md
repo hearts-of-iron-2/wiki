@@ -1,3 +1,8 @@
+---
+title: Artillery_Brigade
+---
+
+
 This artical refers to Artillary Brigades in the HOI2 expansions
 Doomsday and Armageddon. Refer to the end of the artical for other
 versions of HOI2

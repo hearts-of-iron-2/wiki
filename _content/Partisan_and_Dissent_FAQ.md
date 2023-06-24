@@ -1,3 +1,8 @@
+---
+title: Partisan_and_Dissent_FAQ
+---
+
+
 ## Contents
 
 -   [ 1 Partisan and Dissent ](#Partisan_and_Dissent)

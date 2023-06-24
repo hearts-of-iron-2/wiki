@@ -1,3 +1,8 @@
+---
+title: Mods
+---
+
+
 Visit the **[Mod Matrix](/wiki/Mod_Matrix "Mod Matrix")** for a
 comparison of mods. Note - none of the mods listed below are being
 updated anymore (many have not been updated for years) and for a

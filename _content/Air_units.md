@@ -1,3 +1,8 @@
+---
+title: Air_units
+---
+
+
 Air units represent aeroplane divisions. They need to be based in an
 [airbase](/wiki/index.php?title=Airbase&action=edit&redlink=1 "Airbase (page does not exist)")
 . A number of different types are represented in the game.

@@ -1,3 +1,8 @@
+---
+title: Industrial_Capacity
+---
+
+
 **Industrial Capacity** (IC) is a nation's total capacity for
 production.
 

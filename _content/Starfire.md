@@ -1,3 +1,8 @@
+---
+title: Starfire
+---
+
+
 Starfire is designed for multiplayer, focusing on the 1939 scenario. It
 improves accuracy and realism, and uses slower paced combat.
 

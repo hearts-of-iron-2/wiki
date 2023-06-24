@@ -1,3 +1,8 @@
+---
+title: Modding_colorscales.csv
+---
+
+
 ## Contents
 
 -   [ 1 Introduction ](#Introduction)

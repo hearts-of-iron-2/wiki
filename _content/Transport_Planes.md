@@ -1,3 +1,8 @@
+---
+title: Transport_Planes
+---
+
+
 Transport planes are designed to ferry men and materials over long
 distances quickly.
 [Paratroopers](/wiki/Paratroop_Division "Paratroop Division") need

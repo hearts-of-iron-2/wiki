@@ -1,3 +1,8 @@
+---
+title: WIF
+---
+
+
 [File:Wif.png](/wiki/index.php?title=Special:Upload&wpDestFile=Wif.png "File:Wif.png")
 
 The WIF mod is designed to make Hearts of Iron a more challenging,

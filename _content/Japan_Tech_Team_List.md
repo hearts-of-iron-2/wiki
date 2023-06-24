@@ -1,3 +1,8 @@
+---
+title: Japan_Tech_Team_List
+---
+
+
 This is a list of tech teams for [Japan](/wiki/Japan "Japan") as of HoI
 2 version 1.1. The specialty abbreviations are listed at the bottom of
 this document.

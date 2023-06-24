@@ -1,3 +1,8 @@
+---
+title: Germany_Strategy-_Multiplayer_vs_USSR
+---
+
+
 [Template:GermanyStrategyGuides](/wiki/index.php?title=Template:GermanyStrategyGuides&action=edit&redlink=1 "Template:GermanyStrategyGuides (page does not exist)")
 
 ##    Invasion of USSR (Against Player) 

@@ -1,3 +1,8 @@
+---
+title: Laos
+---
+
+
 ## Contents
 
 -   [ 1 Provinces ](#Provinces)

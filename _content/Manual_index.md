@@ -1,3 +1,8 @@
+---
+title: Manual_index
+---
+
+
 A correction note: The page numbers in the below list differ by +2 in
 relation to the printed manual. So for example "Industrial Capacity" is
 shown as being on page 7, but it actually is on page 5 in the manual. So

@@ -1,3 +1,8 @@
+---
+title: TRP
+---
+
+
 The TRP mod has a long history and thriving community, both on the
 Paradox site on their own website. The primary focus of the mod is to
 improve historical realism. The mod includes changes to the AI,

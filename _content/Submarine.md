@@ -1,3 +1,8 @@
+---
+title: Submarine
+---
+
+
 [Template:ARMA
 v1.2](/wiki/index.php?title=Template:ARMA_v1.2&action=edit&redlink=1 "Template:ARMA v1.2 (page does not exist)")
 The Submarine is designed to travel underwater allowing it to operate

@@ -1,3 +1,8 @@
+---
+title: Germany_Strategy-_Taming_the_Bear
+---
+
+
 [Template:GermanyStrategyGuides](/wiki/index.php?title=Template:GermanyStrategyGuides&action=edit&redlink=1 "Template:GermanyStrategyGuides (page does not exist)")
 Russia has massive manpower and military potential and often hostile
 terrain. You must carefully plan your attack to reach definable

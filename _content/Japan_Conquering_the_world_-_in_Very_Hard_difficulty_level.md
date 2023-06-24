@@ -1,3 +1,8 @@
+---
+title: Japan_Conquering_the_world_-_in_Very_Hard_difficulty_level
+---
+
+
 ## Contents
 
 -   [ 1 Japan Conquering the world - in Very Hard difficulty level

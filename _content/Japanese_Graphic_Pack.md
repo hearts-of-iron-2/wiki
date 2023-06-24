@@ -1,3 +1,8 @@
+---
+title: Japanese_Graphic_Pack
+---
+
+
 The primary aim of this graphic pack was to provide a player with
 refurbished or totally new graphics for Japanese unit models, techteams,
 photos of leaders and ministers. Since version 0.8 Chinese leaders and

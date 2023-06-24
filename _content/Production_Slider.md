@@ -1,3 +1,8 @@
+---
+title: Production_Slider
+---
+
+
 ##  Production Slider 
 
 The Production slider allocates how much [Industrial

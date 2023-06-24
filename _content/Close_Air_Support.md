@@ -1,3 +1,8 @@
+---
+title: Close_Air_Support
+---
+
+
 Close Air Support (CAS) is the key to the blitzkrieg tactic. These
 planes have the ability to strike precisely at enemy units, enabling
 your ground forces to achieve a rapid breakthrough. They are slow,

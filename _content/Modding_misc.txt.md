@@ -1,3 +1,8 @@
+---
+title: Modding_misc.txt
+---
+
+
 ##  Economy 
 
 **IC to TC ratio** - how much TC you get for every point of IC; Paradox

@@ -1,3 +1,8 @@
+---
+title: Germany
+---
+
+
 [TABLE]
 
 **Germany** is a [major power](/wiki/Major_power "Major power") in

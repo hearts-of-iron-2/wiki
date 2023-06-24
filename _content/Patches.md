@@ -1,3 +1,8 @@
+---
+title: Patches
+---
+
+
 Hearts of Iron went though a number of patches, fixing bugs and adding
 to the gameplay. A player should always apply the most up-to-date patch
 for his respective game of Hears of Iron. The patches can be found on

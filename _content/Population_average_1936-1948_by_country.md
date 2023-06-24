@@ -1,3 +1,8 @@
+---
+title: Population_average_1936-1948_by_country
+---
+
+
 |                    |             |
 |--------------------|-------------|
 | Country            | Population  |

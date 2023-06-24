@@ -1,3 +1,8 @@
+---
+title: Tag_List
+---
+
+
 As of the Armageddon 1.0a patch.
 
 -   *Italic* tags were brought from HoI1

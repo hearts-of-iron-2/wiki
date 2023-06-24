@@ -1,3 +1,8 @@
+---
+title: Siam
+---
+
+
 ###  Possible list of Armed Forces of Siam at the outbreak of World War II 
 
 Navy

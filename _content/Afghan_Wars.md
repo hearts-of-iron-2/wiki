@@ -1,3 +1,8 @@
+---
+title: Afghan_Wars
+---
+
+
 ##  **Afghan Wars v1.0 and the Vietnam War v6.0 by FRVP** 
 
 Compatable with Armagedon and Doomsday. A total of 3 scenarios packaged

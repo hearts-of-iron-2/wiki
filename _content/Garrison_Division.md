@@ -1,3 +1,8 @@
+---
+title: Garrison_Division
+---
+
+
 Garrison Divisions (Gar) are second line troops used to safeguard
 valuable objectives far from the front lines. They lack heavy equipment
 and transportation, making them immobile except for strategic

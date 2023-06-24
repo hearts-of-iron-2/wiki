@@ -1,3 +1,8 @@
+---
+title: Technology_Formula
+---
+
+
 The formula to calculate the number of days required is calculated using
 the following logic:
 

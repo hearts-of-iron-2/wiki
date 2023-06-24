@@ -1,3 +1,8 @@
+---
+title: Brigade_Strategy_Guide
+---
+
+
 [Template:Anthology](/wiki/index.php?title=Template:Anthology&action=edit&redlink=1 "Template:Anthology (page does not exist)")
 
 Brigades are generally considered the biggest flaw of HoI2. There are a

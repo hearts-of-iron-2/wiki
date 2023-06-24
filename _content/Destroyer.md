@@ -1,3 +1,8 @@
+---
+title: Destroyer
+---
+
+
 [Template:ARMA
 v1.2](/wiki/index.php?title=Template:ARMA_v1.2&action=edit&redlink=1 "Template:ARMA v1.2 (page does not exist)")
 The Destroyer is the smallest and the fastest of the surface ships. It

@@ -1,3 +1,8 @@
+---
+title: Germany_Strategy_Guide
+---
+
+
 [TABLE]
 
 [File:Ger-topbar.JPG](/wiki/index.php?title=Special:Upload&wpDestFile=Ger-topbar.JPG "File:Ger-topbar.JPG")

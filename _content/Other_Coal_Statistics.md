@@ -1,3 +1,8 @@
+---
+title: Other_Coal_Statistics
+---
+
+
 ##  Using wood as coal 
 
 This is for those wishing to use wood as an industrial scale energy

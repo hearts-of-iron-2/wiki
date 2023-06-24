@@ -1,3 +1,8 @@
+---
+title: Interceptors
+---
+
+
 Interceptors are short-range fighters designed to destroy enemy bombers.
 They have high speed and good manouverability to make them agile enough
 to evade the machine guns of the bombers, while having the firepower

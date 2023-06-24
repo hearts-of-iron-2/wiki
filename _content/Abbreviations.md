@@ -1,3 +1,8 @@
+---
+title: Abbreviations
+---
+
+
 [TABLE]
 
 The following abbreviations are commonly found in the game and on the

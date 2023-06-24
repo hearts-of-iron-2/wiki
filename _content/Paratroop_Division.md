@@ -1,3 +1,8 @@
+---
+title: Paratroop_Division
+---
+
+
 Paratroopers are an elite branch of the Infantry, specifically trained
 to either parachute to the ground or be ferried to a battle in gliders.
 Their rapid deployment capability makes them ideal for use as a mobile

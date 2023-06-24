@@ -1,3 +1,8 @@
+---
+title: Mechanized_Division
+---
+
+
 Mechanized Infantry are equipped with all-terrain vehicles, such as the
 halftrack, which does not limit them to roads as with Motorized Infantry
 and allows them to work well with armoured units. However, the

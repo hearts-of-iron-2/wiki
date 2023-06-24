@@ -1,3 +1,8 @@
+---
+title: Tech_Teams_by_Country
+---
+
+
 [TABLE]
 
 This is a list of all tech teams for each country as of HoI 2 version

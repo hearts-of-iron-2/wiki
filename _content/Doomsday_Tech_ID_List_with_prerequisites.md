@@ -1,3 +1,8 @@
+---
+title: Doomsday_Tech_ID_List_with_prerequisites
+---
+
+
 Here are the Doomsday techs listed for convenience, modders may find
 this useful. Modder-friendly formatting used, usable for copy-paste
 operations.

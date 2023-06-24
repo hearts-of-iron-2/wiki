@@ -1,3 +1,8 @@
+---
+title: Heavy_Cruiser
+---
+
+
 [Template:ARMA
 v1.2](/wiki/index.php?title=Template:ARMA_v1.2&action=edit&redlink=1 "Template:ARMA v1.2 (page does not exist)")
 Heavy Cruisers are larger and more heavily armored than their lighter

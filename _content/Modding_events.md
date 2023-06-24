@@ -1,3 +1,8 @@
+---
+title: Modding_events
+---
+
+
 If combat is the heart of the game, and the AI is the brain, events are
 the skeleton that holds the whole thing together, and sets stage for the
 coming World War. Users can modify these events or create new ones to

@@ -1,3 +1,8 @@
+---
+title: Cold_War_Vietnam
+---
+
+
 Vietnam War Version 3.0 by FRVP
 
 Fantastic historical scenario 1963 - 1975. Playable countries: North and

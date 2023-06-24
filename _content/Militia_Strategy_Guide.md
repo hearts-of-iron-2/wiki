@@ -1,3 +1,8 @@
+---
+title: Militia_Strategy_Guide
+---
+
+
 [Template:Anthology](/wiki/index.php?title=Template:Anthology&action=edit&redlink=1 "Template:Anthology (page does not exist)")
 At first glance, the [Militia
 Division](/wiki/Militia_Division "Militia Division") seems to be a

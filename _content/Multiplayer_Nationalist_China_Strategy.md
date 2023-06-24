@@ -1,3 +1,8 @@
+---
+title: Multiplayer_Nationalist_China_Strategy
+---
+
+
 **I want to translate this strategy to English, but it will take
 sometime.**
 

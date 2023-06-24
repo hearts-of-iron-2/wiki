@@ -1,3 +1,8 @@
+---
+title: Italy
+---
+
+
 [File:Ita-topbar.JPG](/wiki/index.php?title=Special:Upload&wpDestFile=Ita-topbar.JPG "File:Ita-topbar.JPG")
 
 [Country guides](/wiki/Country_guides "Country guides")

@@ -1,3 +1,8 @@
+---
+title: Food
+---
+
+
 Source: Edgar Mowrer & Marthe Rajchman, Global War: An Atlas of World
 Strategy.
 

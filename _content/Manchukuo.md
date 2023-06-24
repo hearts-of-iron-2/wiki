@@ -1,3 +1,8 @@
+---
+title: Manchukuo
+---
+
+
 ## Contents
 
 -   [ 1 Provinces ](#Provinces)

@@ -1,3 +1,8 @@
+---
+title: Slovakia
+---
+
+
 ##  Slovakia 
 
 Slovakia only exists in the 1939 and 1941 scenarios (It doesn't in the

@@ -1,3 +1,8 @@
+---
+title: Indochina
+---
+
+
 ## Contents
 
 -   [ 1 Provinces ](#Provinces)

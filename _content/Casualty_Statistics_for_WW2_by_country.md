@@ -1,3 +1,8 @@
+---
+title: Casualty_Statistics_for_WW2_by_country
+---
+
+
 *Data Collected by
 [Finbar](/wiki/index.php?title=User:Finbar&action=edit&redlink=1 "User:Finbar (page does not exist)")*
 

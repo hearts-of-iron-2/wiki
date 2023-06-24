@@ -1,3 +1,8 @@
+---
+title: HOI2_Patch1.3A
+---
+
+
 Hearts of Iron 2 patch 1.3A was released on November 18, 2005, and has a
 filesize of 30.4 MB. The checksum with a clean install is **JLQA** .
 

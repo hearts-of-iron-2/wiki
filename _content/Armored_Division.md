@@ -1,3 +1,8 @@
+---
+title: Armored_Division
+---
+
+
 Armoured units allow real projection of power on the battlefield. Their
 speed and firepower make them lethal against all but the best entrenched
 Infantry. However, as tanks became heaver, their speeds would reduce

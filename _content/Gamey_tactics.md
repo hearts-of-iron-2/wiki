@@ -1,3 +1,8 @@
+---
+title: Gamey_tactics
+---
+
+
 *Gamey tactics* are shorthand for "game the system", or put in another
 way, "cheat the system" by means of design flaws or poor AI. Gamey
 tactics almost always lead to ahistorical and extremely unrealistic

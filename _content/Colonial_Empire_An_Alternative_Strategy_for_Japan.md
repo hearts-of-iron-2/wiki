@@ -1,3 +1,8 @@
+---
+title: Colonial_Empire_An_Alternative_Strategy_for_Japan
+---
+
+
 ## Contents
 
 -   [ 1 Colonial Empire An Alternative Strategy for Japan

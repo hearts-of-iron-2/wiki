@@ -1,3 +1,8 @@
+---
+title: DAIM
+---
+
+
 DAIM stands for "Determined AI Modification" and is a mod that solely
 focuses on improving the AI. This is accomplished by ensuring the AI
 researches and builds the most effective units possible, rather than

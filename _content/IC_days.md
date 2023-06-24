@@ -1,3 +1,8 @@
+---
+title: IC_days
+---
+
+
 [Template:Anthology](/wiki/index.php?title=Template:Anthology&action=edit&redlink=1 "Template:Anthology (page does not exist)")
 
 IC days is a formula for accurately determining the total cost of unit

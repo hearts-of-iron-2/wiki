@@ -1,3 +1,8 @@
+---
+title: Releasing_Countries
+---
+
+
 Liberation costs changed a lot in version HOI2 1.3, and has continued
 through to ARMA 1.2. You get dissent hits ranging from 0.5 for
 democracies to 5% dissent for authoritarian governments when you

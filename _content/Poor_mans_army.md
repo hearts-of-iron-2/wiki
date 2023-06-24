@@ -1,3 +1,8 @@
+---
+title: Poor_mans_army
+---
+
+
 [Template:HOI2
 v1.3](/wiki/index.php?title=Template:HOI2_v1.3&action=edit&redlink=1 "Template:HOI2 v1.3 (page does not exist)")
 

@@ -1,3 +1,8 @@
+---
+title: Militia_Division
+---
+
+
 Militia are a cheap and rapidly formed Infantry unit. Their hurried
 training and poor equipment mean they are of little use in combat,
 although they can be useful for controlling territory and as a last line

@@ -1,3 +1,8 @@
+---
+title: Tech_Teams_by_Country_1.1
+---
+
+
 This is a list of all tech teams for each country as of HoI 2 version
 1.1. The order of columns is: Team \#, Team Name, Picture \#, Skill,
 Start Year, End Year, Specialties. The specialty abbreviations are

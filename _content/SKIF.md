@@ -1,3 +1,8 @@
+---
+title: SKIF
+---
+
+
 SKIF provides "icon" mods: colorful unit pictures for land, air, and
 naval units. Eight nations have unique icons for all units, while 10
 additional nations have land and air units.

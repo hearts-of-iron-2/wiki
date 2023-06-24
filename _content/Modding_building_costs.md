@@ -1,3 +1,8 @@
+---
+title: Modding_building_costs
+---
+
+
 Editing the cost for buildings is very simple! If you want to know how,
 please keep reading:
 
