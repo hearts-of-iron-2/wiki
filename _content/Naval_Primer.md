@@ -1,8 +1,6 @@
 ---
 title: Naval_Primer
 ---
-
-
 [Template:Anthology](/wiki/index.php?title=Template:Anthology&action=edit&redlink=1 "Template:Anthology (page does not exist)")
 Reflecting its historical roots, land warfare is the most important
 aspect of [HoI2](/wiki/HoI2 "HoI2") : both [air

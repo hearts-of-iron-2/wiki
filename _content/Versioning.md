@@ -1,8 +1,6 @@
 ---
 title: Versioning
 ---
-
-
 Redirect to:
 
 -   [Europa Universalis 4

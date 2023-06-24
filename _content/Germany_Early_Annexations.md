@@ -1,8 +1,6 @@
 ---
 title: Germany_Early_Annexations
 ---
-
-
 [Template:GermanyStrategyGuides](/wiki/index.php?title=Template:GermanyStrategyGuides&action=edit&redlink=1 "Template:GermanyStrategyGuides (page does not exist)")
 
 ## Contents

@@ -1,8 +1,6 @@
 ---
 title: Reinforcements,_Reorganization_and_Bases
 ---
-
-
 ## Contents
 
 -   [ 1 Reinforcements ](#Reinforcements)

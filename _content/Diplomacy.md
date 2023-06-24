@@ -1,8 +1,6 @@
 ---
 title: Diplomacy
 ---
-
-
 [TABLE]
 
   

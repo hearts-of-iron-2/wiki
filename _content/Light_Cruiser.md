@@ -1,8 +1,6 @@
 ---
 title: Light_Cruiser
 ---
-
-
 [Template:ARMA
 v1.2](/wiki/index.php?title=Template:ARMA_v1.2&action=edit&redlink=1 "Template:ARMA v1.2 (page does not exist)")
 Light Cruisers are little more than large destroyers. They are usually

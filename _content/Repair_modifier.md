@@ -1,8 +1,6 @@
 ---
 title: Repair_modifier
 ---
-
-
 The **Repair modifier** increases the rate at which your damaged units
 repair (or increase their strength).
 

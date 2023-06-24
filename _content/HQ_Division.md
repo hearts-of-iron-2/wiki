@@ -1,8 +1,6 @@
 ---
 title: HQ_Division
 ---
-
-
 Those units are special divisions, equipped with modern communications
 equipment and designed to act as a mobile command centre during the
 battle. When staffed with a General or a Field Marshall, HQ units bestow

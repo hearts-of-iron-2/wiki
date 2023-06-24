@@ -1,8 +1,6 @@
 ---
 title: Modding_inc_files
 ---
-
-
 Like all modding - **Make Backups**
 
 Okay, now on to the .inc files. For the purposes of this page, I'll be

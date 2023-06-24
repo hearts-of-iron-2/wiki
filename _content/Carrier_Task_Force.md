@@ -1,8 +1,6 @@
 ---
 title: Carrier_Task_Force
 ---
-
-
 ###    Carrier Task Force (CTF) 
 
 The **Carrier Task Force** (CTF) is quite different to the [Surface

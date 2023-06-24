@@ -1,8 +1,6 @@
 ---
 title: Game_Play_FAQ
 ---
-
-
 ## Contents
 
 -   [ 1 Game Play ](#Game_Play)

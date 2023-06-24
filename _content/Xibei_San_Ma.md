@@ -1,8 +1,6 @@
 ---
 title: Xibei_San_Ma
 ---
-
-
 ##  Xibei San Ma 
 
 **Advantages:** Access to blueprints from Nationalist China

@@ -1,8 +1,6 @@
 ---
 title: Modding_scenarios
 ---
-
-
 Scenarios are made up from different files. If you want edit a country's
 starting then you would edit the .inc files. If you want to change a
 scenarios settings, then you would edit the .eug files. If you plan to

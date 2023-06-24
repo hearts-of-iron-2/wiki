@@ -1,8 +1,6 @@
 ---
 title: Amphibious_assault
 ---
-
-
 [Template:Anthology](/wiki/index.php?title=Template:Anthology&action=edit&redlink=1 "Template:Anthology (page does not exist)")
 
 An amphibious assault is an attack by units borded on [transport

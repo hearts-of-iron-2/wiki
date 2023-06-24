@@ -1,8 +1,6 @@
 ---
 title: Hotkeys
 ---
-
-
 An incomplete list of hotkeys.
 
 ## Contents

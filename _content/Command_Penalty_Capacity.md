@@ -1,8 +1,6 @@
 ---
 title: Command_Penalty_Capacity
 ---
-
-
 ##    Command Penalty Capacity (i.e. the -75% penalty) 
 
 1.  When you group your armies its essential that you understand that

@@ -1,8 +1,6 @@
 ---
 title: National_Security
 ---
-
-
 An overview of what various nations would consider tolerable
 international conduct, 1936-41.
 

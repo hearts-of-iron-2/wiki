@@ -1,8 +1,6 @@
 ---
 title: Mods_and_modding
 ---
-
-
 ## Contents
 
 -   [ 1 General modding guides ](#General_modding_guides)

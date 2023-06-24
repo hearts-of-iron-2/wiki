@@ -1,8 +1,6 @@
 ---
 title: Fighters
 ---
-
-
 Fighters are the backbone of any air force. They are used to achieve air
 superiority against enemy bombers and fighters They are all-rounders,
 being able to fulfill any mission given to them, but excelling at none

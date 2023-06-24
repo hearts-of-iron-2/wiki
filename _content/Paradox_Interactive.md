@@ -1,8 +1,6 @@
 ---
 title: Paradox_Interactive
 ---
-
-
 This article is [timeless](/wiki/Category:Timeless "Category:Timeless")
 and should be accurate for any version of the game.
 

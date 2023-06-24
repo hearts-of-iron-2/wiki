@@ -1,8 +1,6 @@
 ---
 title: Guangxi_Clique
 ---
-
-
 Guangxi Clique may not have what it takes to become a major power, but
 it can become a vital player in China's fight against Japan. As one of
 the Chinese warlords, Guangxi Clique will automatically ally with the

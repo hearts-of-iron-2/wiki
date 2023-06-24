@@ -1,8 +1,6 @@
 ---
 title: Tech_Tree
 ---
-
-
 Tech Tree
 
 Regular

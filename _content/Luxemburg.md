@@ -1,8 +1,6 @@
 ---
 title: Luxemburg
 ---
-
-
 [Country guides](/wiki/Country_guides "Country guides")
 
 [Major powers](/wiki/Major_power "Major power")

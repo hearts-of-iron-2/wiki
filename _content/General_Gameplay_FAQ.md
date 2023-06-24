@@ -1,8 +1,6 @@
 ---
 title: General_Gameplay_FAQ
 ---
-
-
 [Template:Anthology](/wiki/index.php?title=Template:Anthology&action=edit&redlink=1 "Template:Anthology (page does not exist)")
 **General Gameplay FAQ**
 

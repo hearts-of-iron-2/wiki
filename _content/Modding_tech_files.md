@@ -1,8 +1,6 @@
 ---
 title: Modding_tech_files
 ---
-
-
 ## Contents
 
 -   [ 1 Introduction ](#Introduction)

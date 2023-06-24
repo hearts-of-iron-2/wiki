@@ -1,8 +1,6 @@
 ---
 title: Leader_Traits
 ---
-
-
 [Template:Anthology](/wiki/index.php?title=Template:Anthology&action=edit&redlink=1 "Template:Anthology (page does not exist)")
 
 Generals can have distinct traits that offer various benefits on the

@@ -1,8 +1,6 @@
 ---
 title: Knowledge_Base
 ---
-
-
 [TABLE]
 
 This page contains links to information and research that may be useful

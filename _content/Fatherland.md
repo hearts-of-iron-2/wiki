@@ -1,8 +1,6 @@
 ---
 title: Fatherland
 ---
-
-
 A Cold War mod with a twist. What if Hitler won WW2? Doomsday and
 Armageddon only.
 

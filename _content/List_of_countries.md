@@ -1,8 +1,6 @@
 ---
 title: List_of_countries
 ---
-
-
 This **list of countries** covers all countries which exist within HoI2,
 listed alphabetically.
 

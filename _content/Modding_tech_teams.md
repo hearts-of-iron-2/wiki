@@ -1,8 +1,6 @@
 ---
 title: Modding_tech_teams
 ---
-
-
 ## Contents
 
 -   [ 1 Introduction ](#Introduction)

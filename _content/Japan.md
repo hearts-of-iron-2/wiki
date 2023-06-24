@@ -1,8 +1,6 @@
 ---
 title: Japan
 ---
-
-
 [File:Jap-topbar.JPG](/wiki/index.php?title=Special:Upload&wpDestFile=Jap-topbar.JPG "File:Jap-topbar.JPG")
 
 [Country guides](/wiki/Country_guides "Country guides")

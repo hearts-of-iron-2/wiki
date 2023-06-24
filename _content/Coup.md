@@ -1,8 +1,6 @@
 ---
 title: Coup
 ---
-
-
 A **coup d'état** or Coup as it is more commonly known, is an action
 available in the Intelligence slider in DD (Diplomatic for hoi2), the
 coup is described as "Replacing the government of the selected country

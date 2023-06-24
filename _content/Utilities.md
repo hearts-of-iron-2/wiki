@@ -1,8 +1,6 @@
 ---
 title: Utilities
 ---
-
-
 ## Contents
 
 -   [ 1 Multi Editor ](#Multi_Editor)

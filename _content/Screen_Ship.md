@@ -1,8 +1,6 @@
 ---
 title: Screen_Ship
 ---
-
-
 CLs and DDs, which are operating in the same battle with capital ships,
 are called screens. They may not necessarily belong to the same task
 force as the heavies, but they are currently involved in the same

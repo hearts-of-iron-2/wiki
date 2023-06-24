@@ -1,8 +1,6 @@
 ---
 title: User_guide_to_Consumer_Goods
 ---
-
-
 [Template:Anthology](/wiki/index.php?title=Template:Anthology&action=edit&redlink=1 "Template:Anthology (page does not exist)")
 
 Assuming normal difficulty, the CG need for your country is determined

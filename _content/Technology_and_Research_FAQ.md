@@ -1,8 +1,6 @@
 ---
 title: Technology_and_Research_FAQ
 ---
-
-
 ## Contents
 
 -   [ 1 Technology and Research ](#Technology_and_Research)

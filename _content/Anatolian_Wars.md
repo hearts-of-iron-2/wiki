@@ -1,8 +1,6 @@
 ---
 title: Anatolian_Wars
 ---
-
-
 Developed by mehmet12 and miihkali, this mod focuses on an alternate
 reality in which Greece won the Greco-Turkish War of 1922 and then went
 on to fragment Anatolia. Greece, Pontus, Armenia, Cappadocia, Kurdistan,

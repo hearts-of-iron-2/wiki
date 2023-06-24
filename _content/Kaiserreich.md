@@ -1,8 +1,6 @@
 ---
 title: Kaiserreich
 ---
-
-
 ##  Introduction 
 
 Kaiserrech: Legacy of the Weltkrieg is an Ahistorical Modification to

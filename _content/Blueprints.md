@@ -1,8 +1,6 @@
 ---
 title: Blueprints
 ---
-
-
 Blueprints reduce the time taken to research a technology by half.
 
   

@@ -1,8 +1,6 @@
 ---
 title: Technical_issues
 ---
-
-
 ## Contents
 
 -   [ 1 Updates ](#Updates)

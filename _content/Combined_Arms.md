@@ -1,8 +1,6 @@
 ---
 title: Combined_Arms
 ---
-
-
 **Combined Arms** is a [combat
 modifier](/wiki/index.php?title=Combat_modifier&action=edit&redlink=1 "Combat modifier (page does not exist)")
 that can be acheaved via mixed formations (refer [Land Combat Efficiency

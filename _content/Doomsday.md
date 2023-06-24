@@ -1,8 +1,6 @@
 ---
 title: Doomsday
 ---
-
-
 ***Hearts of Iron II: Doomsday*** is a stand-alone expansion for the
 game of World War II strategy, *[Hearts of Iron II](/wiki/HoI2 "HoI2")*
 , released in April 4, 2006. It contains everything that was in the

@@ -1,8 +1,6 @@
 ---
 title: CBI_Theatre_Statistics
 ---
-
-
 ## Contents
 
 -   [ 1 Manpower ](#Manpower)

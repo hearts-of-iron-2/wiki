@@ -1,8 +1,6 @@
 ---
 title: Ground_unit_statistics
 ---
-
-
 ## Contents
 
 -   [ 1 HOI versions 1.0 - 1.3 ](#HOI_versions_1.0_-_1.3)

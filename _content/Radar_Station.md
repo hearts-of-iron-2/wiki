@@ -1,8 +1,6 @@
 ---
 title: Radar_Station
 ---
-
-
 [Template:Anthology](/wiki/index.php?title=Template:Anthology&action=edit&redlink=1 "Template:Anthology (page does not exist)")
 
 ###    What is the purpose of radar station? 

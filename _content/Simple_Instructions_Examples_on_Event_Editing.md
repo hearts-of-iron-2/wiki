@@ -1,8 +1,6 @@
 ---
 title: Simple_Instructions_Examples_on_Event_Editing
 ---
-
-
 ##  Goal and Disclaimer 
 
 Editing events in HOI2 is an objective many of us have, but few of us

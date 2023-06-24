@@ -1,8 +1,6 @@
 ---
 title: Transport_Capacity_and_Supply_Efficiency_FAQ
 ---
-
-
 [Template:Anthology](/wiki/index.php?title=Template:Anthology&action=edit&redlink=1 "Template:Anthology (page does not exist)")
 
 ## Contents

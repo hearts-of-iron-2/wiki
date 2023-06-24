@@ -1,8 +1,6 @@
 ---
 title: Naval_Bombers
 ---
-
-
 The Naval Bomber is designed for use over water and make accurate
 tactical strikes against enemy surface vessels using torpedoes or
 armour-piercing bombs. They have a limited dog-fighting capability,

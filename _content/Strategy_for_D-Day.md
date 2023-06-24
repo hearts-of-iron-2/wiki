@@ -1,8 +1,6 @@
 ---
 title: Strategy_for_D-Day
 ---
-
-
 [Template:Scenario
 guides](/wiki/index.php?title=Template:Scenario_guides&action=edit&redlink=1 "Template:Scenario guides (page does not exist)")
 

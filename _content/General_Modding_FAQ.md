@@ -1,8 +1,6 @@
 ---
 title: General_Modding_FAQ
 ---
-
-
 **Q** : What do I need to edit to make a new Country?  
 **A** : Making a new country from scratch is alot of work. First you
 would need to **Hearts of Iron 2\config\world_names.csv** and make

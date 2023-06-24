@@ -1,8 +1,6 @@
 ---
 title: See_China_OOB_Civil_War
 ---
-
-
 See [China OOB](/wiki/China_OOB "China OOB")
 
 ## Contents

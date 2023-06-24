@@ -1,8 +1,6 @@
 ---
 title: Infantry_Tech_Tree
 ---
-
-
 [Tech Tree](/wiki/Tech_Tree "Tech Tree")
 
 Regular

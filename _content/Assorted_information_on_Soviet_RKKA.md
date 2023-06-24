@@ -1,8 +1,6 @@
 ---
 title: Assorted_information_on_Soviet_RKKA
 ---
-
-
 [TABLE]
 
 ## Contents

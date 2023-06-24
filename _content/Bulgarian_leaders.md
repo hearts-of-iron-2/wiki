@@ -1,8 +1,6 @@
 ---
 title: Bulgarian_leaders
 ---
-
-
 ###  Full List of Bulgarian leaders 
 
 All leaders are taken form the buglarian Wikipedia and are hsitorycal,

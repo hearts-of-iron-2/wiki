@@ -1,8 +1,6 @@
 ---
 title: HOI2_Patch1.3B
 ---
-
-
 Hearts of Iron 2 patch 1.3B ^([\[1\]](#cite_note-1)) is different from
 other patches: It's a main focus was to improve the AI and did not
 support e new hoi2.exe file.

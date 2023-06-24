@@ -1,8 +1,6 @@
 ---
 title: Naval_units
 ---
-
-
 [Template:Anthology](/wiki/index.php?title=Template:Anthology&action=edit&redlink=1 "Template:Anthology (page does not exist)")
 All units representing ships and that need to be deployed in [naval
 bases](/wiki/index.php?title=Naval_base&action=edit&redlink=1 "Naval base (page does not exist)")

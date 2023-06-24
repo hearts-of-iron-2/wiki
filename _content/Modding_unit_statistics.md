@@ -1,8 +1,6 @@
 ---
 title: Modding_unit_statistics
 ---
-
-
 ## Contents
 
 -   [ 1 Introduction ](#Introduction)

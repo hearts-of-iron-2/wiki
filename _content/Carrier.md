@@ -1,8 +1,6 @@
 ---
 title: Carrier
 ---
-
-
 [Template:ARMA
 v1.2](/wiki/index.php?title=Template:ARMA_v1.2&action=edit&redlink=1 "Template:ARMA v1.2 (page does not exist)")
 The Aircraft Carrier is rapidly becoming the most important naval

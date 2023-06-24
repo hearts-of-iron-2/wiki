@@ -1,8 +1,6 @@
 ---
 title: Africa
 ---
-
-
 While the strategic importance of Africa is limited, it contains several
 nations. Africa contains a total of around 65 IC.
 

@@ -1,8 +1,6 @@
 ---
 title: Links
 ---
-
-
 ## Contents
 
 -   [ 1 Official pages ](#Official_pages)

@@ -1,8 +1,6 @@
 ---
 title: New_Zealand
 ---
-
-
 [Country guides](/wiki/Country_guides "Country guides")
 
 [Major powers](/wiki/Major_power "Major power")

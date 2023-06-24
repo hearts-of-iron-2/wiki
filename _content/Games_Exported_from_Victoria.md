@@ -1,8 +1,6 @@
 ---
 title: Games_Exported_from_Victoria
 ---
-
-
 Note: the Following is a Copy-pasting of the page on exporting games
 from the Victoria: Empire Under the Sun wiki.
 

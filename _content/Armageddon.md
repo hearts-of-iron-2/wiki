@@ -1,8 +1,6 @@
 ---
 title: Armageddon
 ---
-
-
 Hearts of Iron 2 Armageddon (HOI2 ARMA), is a booster pack for the HOI2
 Doomsday game.
 

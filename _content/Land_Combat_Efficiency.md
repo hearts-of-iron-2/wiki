@@ -1,8 +1,6 @@
 ---
 title: Land_Combat_Efficiency
 ---
-
-
 [Template:Anthology](/wiki/index.php?title=Template:Anthology&action=edit&redlink=1 "Template:Anthology (page does not exist)")
 
 ## Contents

@@ -1,8 +1,6 @@
 ---
 title: Dissent
 ---
-
-
 Dissent is a value to show the unrest in your population. A dissent of
 0% means that you have no problems at all, while any other/higher value
 has negative impact on:

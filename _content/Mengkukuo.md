@@ -1,6 +1,4 @@
 ---
 title: Mengkukuo
 ---
-
-
 [TABLE]

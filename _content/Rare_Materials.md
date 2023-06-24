@@ -1,8 +1,6 @@
 ---
 title: Rare_Materials
 ---
-
-
 Rare materials represent a classification of industrial materials
 essential to wartime production, but no single material being used in
 large enough quantities to justify a new category. Such materials

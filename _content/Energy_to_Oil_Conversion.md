@@ -1,8 +1,6 @@
 ---
 title: Energy_to_Oil_Conversion
 ---
-
-
 As determined by **Steel** et al.:
 
 The amount of energy used in conversion is based on your conversion

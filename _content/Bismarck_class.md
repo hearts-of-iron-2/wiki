@@ -1,8 +1,6 @@
 ---
 title: Bismarck_class
 ---
-
-
 The *Bismarck Class* battleships are a class of German Kreigsmarine
 surface ship, known as the largest, most powerful and most heavily
 armoured capital ships ever created in Europe. Historically, they were

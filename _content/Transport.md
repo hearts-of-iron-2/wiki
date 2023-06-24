@@ -1,8 +1,6 @@
 ---
 title: Transport
 ---
-
-
 Naval Transports are used for moving supplies and resources around the
 world. They can also be used to ferry land units across stretches of
 water. They are completely unarmed and, unless well protected, will be

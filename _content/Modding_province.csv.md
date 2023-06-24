@@ -1,8 +1,6 @@
 ---
 title: Modding_province.csv
 ---
-
-
 ##  Introduction 
 
 The province.csv file is the place in the game where all province

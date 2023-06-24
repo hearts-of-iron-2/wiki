@@ -1,8 +1,6 @@
 ---
 title: Historical_Improvement
 ---
-
-
 This MOD is designed to make HOI2 more historical and provide a better
 simulation. Not for early conquer the world strategies. Many events are
 designed to use the treaty of Munich as the earliest start of the war.

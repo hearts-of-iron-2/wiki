@@ -1,8 +1,6 @@
 ---
 title: HOI2_Patch1.3
 ---
-
-
 Hearts of Iron 2 patch 1.3 ^([\[1\]](#cite_note-1)) was released on
 2005-11-11.
 

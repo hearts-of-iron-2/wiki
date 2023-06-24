@@ -1,8 +1,6 @@
 ---
 title: Italy_1941_Strategy_Guide
 ---
-
-
 One of my favorite scenarios as it starts you off as set piece almost.
 
 You can defeat the

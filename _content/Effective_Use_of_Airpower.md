@@ -1,8 +1,6 @@
 ---
 title: Effective_Use_of_Airpower
 ---
-
-
 [Template:Anthology](/wiki/index.php?title=Template:Anthology&action=edit&redlink=1 "Template:Anthology (page does not exist)")
 
 ## Contents

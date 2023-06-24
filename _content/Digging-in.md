@@ -1,8 +1,6 @@
 ---
 title: Digging-in
 ---
-
-
 **Digging-in** represents the establishment of defensive structures by a
 stationary land unit in preparation for an attack. These preparations
 allow the defending army to withstand a stronger attack from an opposing

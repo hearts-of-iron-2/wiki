@@ -1,8 +1,6 @@
 ---
 title: Cold_War
 ---
-
-
 A mod that was intended to focus on the Cold War era. It was intended to
 span the 1955-1995 time period and aims to be as historically accurate
 as possible. It was never released publicly though an alpha copy was

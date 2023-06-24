@@ -1,8 +1,6 @@
 ---
 title: Combat_Events
 ---
-
-
 When your forces are engaged in combat, they may trigger a **Combat
 Event** . The effects of these events last for eight hours of game time.
 You will have an increased chance for a favorable event if you have a

@@ -1,8 +1,6 @@
 ---
 title: Hearts_of_Iron_2
 ---
-
-
 From the paradoxplaza.com webpage:
 
 Hearts of Iron 2 is the sequel to the most appreciated World War II PC

@@ -1,8 +1,6 @@
 ---
 title: Tech_Teams_Historical_Reference
 ---
-
-
 ## Contents
 
 -   [ 1 Germany ](#Germany)

@@ -1,8 +1,6 @@
 ---
 title: Marine_Division
 ---
-
-
 Marines are an elite branch of the Infantry, specifically trained for
 assaulting beaches and other naval operations. They make use of
 specialised equipment and tactics to give them an edge over regular

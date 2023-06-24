@@ -1,8 +1,6 @@
 ---
 title: Wasted_IC
 ---
-
-
 Wasted [Industrial
 Capacity](/wiki/Industrial_Capacity "Industrial Capacity") represents
 the amount of IC you have allocated over the actual amounted needed for

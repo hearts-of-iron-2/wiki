@@ -1,8 +1,6 @@
 ---
 title: Tannu_Tuva
 ---
-
-
 ## Contents
 
 -   [ 1 Provinces ](#Provinces)

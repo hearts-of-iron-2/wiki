@@ -1,8 +1,6 @@
 ---
 title: Diplomacy_FAQ
 ---
-
-
 ## Contents
 
 -   [ 1 Diplomacy ](#Diplomacy)

@@ -1,8 +1,6 @@
 ---
 title: Infantry_Division
 ---
-
-
 Infantry will most likely make up the bulk of your army. They are
 relatively cheap to build and require no regular fuel supply to
 manoeuvre, but their lack of motorized transport means their speed of

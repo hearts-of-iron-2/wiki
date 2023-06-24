@@ -1,8 +1,6 @@
 ---
 title: Population_counts_1936_by_country
 ---
-
-
 This page contains populations of the major countries starting in 1936.
 These numbers are going to be used as a base for manpower calculations
 for Super AI Bundle. The bullet signifies the main body of the country.

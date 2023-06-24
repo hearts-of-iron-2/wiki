@@ -1,8 +1,6 @@
 ---
 title: Infantry
 ---
-
-
 **Infantry** are soldiers who fight on foot.
 
 Generally, all land divisions except [HQ](/wiki/HQ "HQ") ,

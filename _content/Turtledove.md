@@ -1,8 +1,6 @@
 ---
 title: Turtledove
 ---
-
-
 ##  Introduction 
 
 Based on the Harry Turtledove novels, players unfamiliar with those

@@ -1,8 +1,6 @@
 ---
 title: Assorted_guides
 ---
-
-
   
 
 [TABLE]

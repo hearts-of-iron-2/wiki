@@ -1,8 +1,6 @@
 ---
 title: Nuclear_Weapons
 ---
-
-
 [Template:Anthology](/wiki/index.php?title=Template:Anthology&action=edit&redlink=1 "Template:Anthology (page does not exist)")
 
 Nuclear weapons have been available in HOI2 since the game was first

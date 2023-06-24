@@ -1,8 +1,6 @@
 ---
 title: DD
 ---
-
-
 **DD** may refer to:
 
 -   [Doomsday](/wiki/Doomsday "Doomsday") , a stand-alone expansion pack

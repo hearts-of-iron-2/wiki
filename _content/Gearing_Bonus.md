@@ -1,8 +1,6 @@
 ---
 title: Gearing_Bonus
 ---
-
-
 When producing units for your nation, you will receive a **Gearing
 Bonus** for each unit you produce in
 [serial](/wiki/index.php?title=Serial_Production&action=edit&redlink=1 "Serial Production (page does not exist)")

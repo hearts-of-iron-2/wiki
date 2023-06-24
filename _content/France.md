@@ -1,8 +1,6 @@
 ---
 title: France
 ---
-
-
 [File:Fra-topbar.JPG](/wiki/index.php?title=Special:Upload&wpDestFile=Fra-topbar.JPG "File:Fra-topbar.JPG")
 
 [Country guides](/wiki/Country_guides "Country guides")

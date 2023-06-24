@@ -1,8 +1,6 @@
 ---
 title: Marine_Amphibious_Force
 ---
-
-
 ###    Marine Amphibious Force (MAF) 
 
 A **Marine Amphibious Force** is a limited [Surface Action

@@ -1,8 +1,6 @@
 ---
 title: Napoleon
 ---
-
-
 ***The Wars of Napoleon*** is a modification for *Hearts of Iron 2* that
 is still in its early development stage. It focuses on a rebuilding of
 the Revolutionary and Napoleonic Wars.

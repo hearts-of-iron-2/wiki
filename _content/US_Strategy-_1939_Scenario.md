@@ -1,8 +1,6 @@
 ---
 title: US_Strategy-_1939_Scenario
 ---
-
-
 [TABLE]
 
 [Template:NonVanilla](/wiki/index.php?title=Template:NonVanilla&action=edit&redlink=1 "Template:NonVanilla (page does not exist)")

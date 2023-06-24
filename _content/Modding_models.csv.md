@@ -1,8 +1,6 @@
 ---
 title: Modding_models.csv
 ---
-
-
 From my look at the models.csv file, it gives the country-specific model
 names- such as ship classes. Unfortunately, many countries don't have
 all the names. Each line starts out with code: for example

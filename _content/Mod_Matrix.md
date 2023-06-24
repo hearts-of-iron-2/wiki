@@ -1,8 +1,6 @@
 ---
 title: Mod_Matrix
 ---
-
-
 ## Contents
 
 -   [ 1 Overview ](#Overview)

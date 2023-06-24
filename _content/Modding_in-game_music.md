@@ -1,8 +1,6 @@
 ---
 title: Modding_in-game_music
 ---
-
-
 **Like all modding, please backup all files before modifying anything**
 
 Modifying the playlist for the in-game music played for HoI2 is not only

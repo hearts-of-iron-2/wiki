@@ -1,8 +1,6 @@
 ---
 title: Modding_battle_scenarios
 ---
-
-
 ## Contents
 
 -   [ 1 Introduction ](#Introduction)

@@ -1,8 +1,6 @@
 ---
 title: Domestic_Policy
 ---
-
-
 [Template:Anthology](/wiki/index.php?title=Template:Anthology&action=edit&redlink=1 "Template:Anthology (page does not exist)")
 
 HOI2 has a very sophisticated domestic policy and politics model, which

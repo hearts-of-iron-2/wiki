@@ -1,8 +1,6 @@
 ---
 title: Fallout
 ---
-
-
 We would like to introduce you to **Fallout's Doomsday** , a post
 apocalyptic mod for Hearts of Iron 2 Doomsday Armageddon.
 

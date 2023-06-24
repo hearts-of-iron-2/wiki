@@ -1,8 +1,6 @@
 ---
 title: USNA_Strategy
 ---
-
-
 ## Contents
 
 -   [ 1 General Guide ](#General_Guide)

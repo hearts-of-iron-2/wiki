@@ -1,8 +1,6 @@
 ---
 title: Apocalypse
 ---
-
-
 ***Apocalypse*** is a set of mini-mods for Arsenal of Democracy
 expanding the [Armageddon](/wiki/Armageddon "Armageddon") Scenarios with
 a later start date, allowing the players to jump straight into the

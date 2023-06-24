@@ -1,8 +1,6 @@
 ---
 title: Production_FAQ
 ---
-
-
 #  Production 
 
 ###    Why doesn't the build time/cost change when I change ministers or research a new tech? 

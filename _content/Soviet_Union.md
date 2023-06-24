@@ -1,8 +1,6 @@
 ---
 title: Soviet_Union
 ---
-
-
 [File:Sov-topbar.JPG](/wiki/index.php?title=Special:Upload&wpDestFile=Sov-topbar.JPG "File:Sov-topbar.JPG")
 
 [Country guides](/wiki/Country_guides "Country guides")

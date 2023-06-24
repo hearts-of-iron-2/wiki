@@ -1,8 +1,6 @@
 ---
 title: USA
 ---
-
-
 [File:Usa-topbar.JPG](/wiki/index.php?title=Special:Upload&wpDestFile=Usa-topbar.JPG "File:Usa-topbar.JPG")
 
 [Country guides](/wiki/Country_guides "Country guides")

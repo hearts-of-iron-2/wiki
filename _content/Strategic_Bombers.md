@@ -1,8 +1,6 @@
 ---
 title: Strategic_Bombers
 ---
-
-
 Strategic Bombers are the heaviest type of aircraft, designed to deliver
 a large payload of bombs to enemy provinces, with the aim of crippling
 his industry, infrastructure, and defensive installations. However, the

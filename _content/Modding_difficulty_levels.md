@@ -1,8 +1,6 @@
 ---
 title: Modding_difficulty_levels
 ---
-
-
 Open the file /db/difficuly.csv and change the values which you want.
 
 The first line VERYEASY;EASY;NORMAL;HARD;VERYHARD is just a comment, so

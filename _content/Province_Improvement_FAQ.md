@@ -1,8 +1,6 @@
 ---
 title: Province_Improvement_FAQ
 ---
-
-
 ## Contents
 
 -   [ 1 Province Improvement ](#Province_Improvement)

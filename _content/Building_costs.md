@@ -1,8 +1,6 @@
 ---
 title: Building_costs
 ---
-
-
 These are the basic costs of all province improvements you can build.
 The [Gearing Bonus](/wiki/Gearing_Bonus "Gearing Bonus") does not apply
 to buildings.

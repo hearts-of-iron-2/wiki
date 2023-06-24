@@ -1,8 +1,6 @@
 ---
 title: Estonia
 ---
-
-
 **Estonia** is an area and a [micro
 power](/wiki/Micro_power "Micro power") in 1936, 1938 and 1939 scenario.
 In other scenarios, Estonia can be created by nations controlling its

@@ -1,8 +1,6 @@
 ---
 title: Stony_Road
 ---
-
-
 The Historical Stony Road (HSR) mod is designed to give experienced
 players a tougher, more accurate and detailed game as Germany from 1936
 to 1947. The mod addresses historical accuracy, new events with

@@ -1,8 +1,6 @@
 ---
 title: Anti-Submarine_Warfare_Group
 ---
-
-
 ###    Anti-Submarine Warfare Group (ASW Group) 
 
 An **Anti-Submarine Warfare Group** is a group of ships whose role is to

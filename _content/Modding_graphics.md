@@ -1,8 +1,6 @@
 ---
 title: Modding_graphics
 ---
-
-
 ## Contents
 
 -   [ 1 Grayscale pictures in HoI2 ](#Grayscale_pictures_in_HoI2)

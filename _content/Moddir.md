@@ -1,8 +1,6 @@
 ---
 title: Moddir
 ---
-
-
 ##  Introduction 
 
 Moddir is a function where HOI2 will load information from a user
