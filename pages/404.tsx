@@ -1,6 +1,7 @@
 import { getPostSlugs } from "../lib/api";
 import PostSearch from "../components/post-search";
 import Layout from "../components/layout";
+import Container from "../components/container";
 
 type Props = {
   articles: string[];
@@ -9,7 +10,9 @@ type Props = {
 const NotFound = ({ articles }: Props) => {
   return (
     <Layout>
-      <PostSearch articles={articles} />
+      <Container>
+        <PostSearch articles={articles} />
+      </Container>
     </Layout>
   );
 };
