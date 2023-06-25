@@ -1,68 +1,50 @@
-# Edited to fit a different need
+# Hearts of Iron 2 wiki source code
+
+### [Hosted here](https://www.hoi2bunker.com/hoi2-wiki)
+
+Written using [NextJS](https://nextjs.org/).
 
 ---
 
+# How to edit the content
 
-# A statically generated blog example using Next.js, Markdown, and TypeScript
+You can edit the content locally with git and your favourite text editor or you can do it inside your browser by pressing
+`DOT` `.` on your keyboard while browsing this repository on github.
 
-This is the existing [blog-starter](https://github.com/vercel/next.js/tree/canary/examples/blog-starter) plus TypeScript.
+All the content files are located inside the `_content` directory at the root of this project. Content is written using
+[Markdown](https://www.markdownguide.org/). The meta attribute `title` (the text at the top of every file) is what gets put on the search menu.
 
-This example showcases Next.js's [Static Generation](https://nextjs.org/docs/basic-features/pages) feature using Markdown files as the data source.
+# Styles
 
-The blog posts are stored in `/_posts` as Markdown files with front matter support. Adding a new Markdown file in there will create a new blog post.
+Styling is done with the help of [TailwindCSS](https://tailwindcss.com/) and [DaisyUI](https://daisyui.com/).
+The config for both is found inside the file [tailwind.config.js](tailwind.config.js) at the root of this project.
 
-To create the blog posts we use [`remark`](https://github.com/remarkjs/remark) and [`remark-html`](https://github.com/remarkjs/remark-html) to convert the Markdown files into an HTML string, and then send it down as a prop to the page. The metadata of every post is handled by [`gray-matter`](https://github.com/jonschlinkert/gray-matter) and also sent in props to the page.
+The other styling files (css) are located inside the [styles](styles) directory and imported in the file [pages/_app.tsx](pages/_app.tsx)
+like so `import "../styles/index.css";`.
 
-## Demo
+### Styling the content
 
-[https://next-blog-starter.vercel.app/](https://next-blog-starter.vercel.app/)
+The file [components/markdown-styles.module](components/markdown-styles.module) is responsible for styling all the content.
 
-## Deploy your own
+### Themes
 
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example) or preview live with [StackBlitz](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/blog-starter)
+DaisyUI supports many themes, but they are all disabled in the tailwind config so that the site can be embedded in a transparent iFrame.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/vercel/next.js/tree/canary/examples/blog-starter&project-name=blog-starter&repository-name=blog-starter)
+# Deployments
 
-### Related examples
+Currently the site gets automatically deployed on every commit to
+[gh-pages](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site)
+using github workflows. The file [.github/workflows/nextjs.yml](.github/workflows/nextjs.yml) describes the process.
 
-- [WordPress](/examples/cms-wordpress)
-- [DatoCMS](/examples/cms-datocms)
-- [Sanity](/examples/cms-sanity)
-- [TakeShape](/examples/cms-takeshape)
-- [Prismic](/examples/cms-prismic)
-- [Contentful](/examples/cms-contentful)
-- [Strapi](/examples/cms-strapi)
-- [Agility CMS](/examples/cms-agilitycms)
-- [Cosmic](/examples/cms-cosmic)
-- [ButterCMS](/examples/cms-buttercms)
-- [Storyblok](/examples/cms-storyblok)
-- [GraphCMS](/examples/cms-graphcms)
-- [Kontent](/examples/cms-kontent)
-- [Umbraco Heartcore](/examples/cms-umbraco-heartcore)
-- [Builder.io](/examples/cms-builder-io)
-- [TinaCMS](/examples/cms-tina/)
-- [Enterspeed](/examples/cms-enterspeed)
+# Running locally
 
-## How to use
+You can run the dev server using node and npm/pnpm by following these steps:
 
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init), [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/), or [pnpm](https://pnpm.io) to bootstrap the example:
+1. Install [git](https://git-scm.com/) and [NodeJS](https://nodejs.dev/en/).
+2. Run `git clone https://github.com/Heartsofiron2/hoi2-wiki` inside your terminal.
+3. After cloning, run `cd hoi2-wiki` to enter the project directory.
+4. Run `npm i` to install all dependencies.
+5. Run `npm run dev` to run the development server.
 
-```bash
-npx create-next-app --example blog-starter blog-starter-app
-```
+This should start a server on `localhost:3000`.
 
-```bash
-yarn create next-app --example blog-starter blog-starter-app
-```
-
-```bash
-pnpm create next-app --example blog-starter blog-starter-app
-```
-
-Your blog should be up and running on [http://localhost:3000](http://localhost:3000)! If it doesn't work, post on [GitHub discussions](https://github.com/vercel/next.js/discussions).
-
-Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
-
-# Notes
-
-`blog-starter` uses [Tailwind CSS](https://tailwindcss.com) [(v3.0)](https://tailwindcss.com/blog/tailwindcss-v3).
