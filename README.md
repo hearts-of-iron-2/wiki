@@ -1,6 +1,6 @@
 # Hearts of Iron 2 wiki source code
 
-### [Hosted here](https://www.hoi2bunker.com/hoi2-wiki)
+### [Live here](https://www.hoi2bunker.com/hoi2-wiki)
 
 Written using [NextJS](https://nextjs.org/).
 
@@ -24,7 +24,7 @@ like so `import "../styles/index.css";`.
 
 ### Styling the content
 
-The file [components/markdown-styles.module](components/markdown-styles.module) is responsible for styling all the content.
+The file [components/markdown-styles.module.css](components/markdown-styles.module.css) is responsible for styling all the content.
 
 ### Themes
 
