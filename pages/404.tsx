@@ -1,21 +1,13 @@
 import { getPostSlugs } from "../lib/api";
-import PostSearch from "../components/post-search";
-import Layout from "../components/layout";
-import Container from "../components/container";
+import WikiPage from "../components/wiki-page";
 
 type Props = {
   articles: string[];
 };
 
-const NotFound = ({ articles }: Props) => {
-  return (
-    <Layout>
-      <Container>
-        <PostSearch articles={articles} />
-      </Container>
-    </Layout>
-  );
-};
+export default function NotFound({ articles }: Props) {
+  return <WikiPage allArticles={articles} />;
+}
 
 export async function getStaticProps() {
   const allSlugs = getPostSlugs().map((s) => s.replace(/\.md$/, ""));
@@ -25,5 +17,3 @@ export async function getStaticProps() {
     },
   };
 }
-
-export default NotFound;

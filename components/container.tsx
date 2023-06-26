@@ -1,9 +1,13 @@
 type Props = {
-  children?: React.ReactNode
-}
+  children?: React.ReactNode;
+};
 
 const Container = ({ children }: Props) => {
-  return <div className="min-h-screen max-h-screen h-screen container mx-auto px-4 flex flex-row">{children}</div>
-}
+  return (
+    <div className="h-screen container px-4 flex flex-row">
+      {children}
+    </div>
+  );
+};
 
-export default Container
+export default Container;

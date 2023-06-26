@@ -5,16 +5,16 @@ type Props = {
   articles: string[];
 };
 
-const PostSearch = ({ articles }: Props) => {
+const ArticleSearch = ({ articles }: Props) => {
   const fuse = new Fuse(articles);
   const [visibleArticles, setVisibleArticles] = useState(articles);
 
   return (
-    <ul className="min-w-[20vw] max-w-[20vw] menu bg-base-200 h-screen rounded-box overflow-y-scroll overflow-x-hidden flex-nowrap">
+    <ul className="menu rounded-box overflow-y-scroll overflow-x-hidden flex-nowrap">
       <input
         type="text"
         placeholder="Search"
-        className="input input-bordered input-primary w-full max-w-xs"
+        className="input input-bordered input-primary"
         onInput={(e) => {
           const searchTerm = (e.target as HTMLInputElement).value;
           if (searchTerm && searchTerm !== "") {
@@ -34,4 +34,4 @@ const PostSearch = ({ articles }: Props) => {
   );
 };
 
-export default PostSearch;
+export default ArticleSearch;

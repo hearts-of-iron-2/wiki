@@ -1,8 +1,3 @@
-import { useRouter } from "next/router";
-import ErrorPage from "next/error";
-import Container from "../../components/container";
-import PostBody from "../../components/post-body";
-import Layout from "../../components/layout";
 import {
   getAllArticles as getAllArticles,
   getPostBySlug,
@@ -10,7 +5,7 @@ import {
 } from "../../lib/api";
 import markdownToHtml from "../../lib/markdownToHtml";
 import type ArticleType from "../../interfaces/article";
-import PostSearch from "../../components/post-search";
+import WikiPage from "../../components/wiki-page";
 
 type Props = {
   article: ArticleType;
@@ -18,27 +13,7 @@ type Props = {
 };
 
 export default function Post({ article, allArticles }: Props) {
-  const router = useRouter();
-  if (!router.isFallback && !article?.slug) {
-    return <ErrorPage statusCode={404} />;
-  }
-  return (
-    <Layout>
-      <Container>
-        <PostSearch articles={allArticles} />
-        {router.isFallback
-          ? <h1 className="text-4xl mx-auto max-w-2xl">Loading…</h1>
-          : (
-            <article className="mb-32 h-screen min-w-[70vw] max-w-[70vw] overflow-x-scroll">
-              <h1 className="text-4xl mx-auto max-w-2xl">
-                {("" + article.title).replace(/_/gm, " ")}
-              </h1>
-              <PostBody content={article.content} />
-            </article>
-          )}
-      </Container>
-    </Layout>
-  );
+  return <WikiPage allArticles={allArticles} article={article} />;
 }
 
 type Params = {
