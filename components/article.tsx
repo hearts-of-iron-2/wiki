@@ -9,7 +9,7 @@ const Article = ({ content }: Props) => {
   return (
     <article className="h-full w-full">
       <h1 className="text-4xl max-w-2xl">
-        {(content?.title?.toString() || "Not Available").replace(/_/gm, " ")}
+        {(content?.title?.toString() || "").replace(/_/gm, " ")}
       </h1>
       <ArticleBody content={content?.content} />
     </article>
