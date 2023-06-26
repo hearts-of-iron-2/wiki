@@ -4,7 +4,7 @@ type Props = {
 
 const Container = ({ children }: Props) => {
   return (
-    <div className="h-screen container px-4 flex flex-row">
+    <div className="h-screen w-screen px-4 flex flex-row">
       {children}
     </div>
   );

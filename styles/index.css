@@ -1,3 +1,18 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer utilities {
+  @variants responsive {
+    .w-quarter {
+      width: 25% !important;
+    }
+    .w-three-quarters {
+      width: 100% !important;
+    }
+  }
+}
+
+.drawer-toggle:checked ~ .drawer-side > .drawer-overlay {
+  background-color: rgba(255, 255, 255, 0.9);
+}
