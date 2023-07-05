@@ -1,14 +1,25 @@
 import fs from "fs";
 import { join } from "path";
 import matter from "gray-matter";
+import { globSync } from "glob";
+import directoryTree from "directory-tree";
 
-const contentDirectory = join(process.cwd(), "_content");
+const contentDirectory = "_content";
 
-export function getPostSlugs() {
-  return fs.readdirSync(contentDirectory);
+export function getArticleSlugs(): string[] {
+  return globSync(`${contentDirectory}/**/*.md`)
+    .map((slug) => slug.substring(slug.indexOf("/") + 1).replace(/\.md/gm, ""))
+    .sort();
 }
 
-export function getPostBySlug(slug: string, fields: string[] = []) {
+export function getArticleTree() {
+  const tree = directoryTree(contentDirectory, {
+    attributes: ["type"],
+  });
+  return tree.children;
+}
+
+export function getArticleBySlug(slug: string, fields: string[] = []) {
   const realSlug = slug.replace(/\.md$/, "");
   const fullPath = join(contentDirectory, `${realSlug}.md`);
   const fileContents = fs.readFileSync(fullPath, "utf8");
@@ -38,8 +49,8 @@ export function getPostBySlug(slug: string, fields: string[] = []) {
 }
 
 export function getAllArticles(fields: string[] = []) {
-  const slugs = getPostSlugs();
+  const slugs = getArticleSlugs();
   const posts = slugs
-    .map((slug) => getPostBySlug(slug, fields));
+    .map((slug) => getArticleBySlug(slug, fields));
   return posts;
 }

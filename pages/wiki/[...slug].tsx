@@ -1,7 +1,7 @@
 import {
-  getAllArticles as getAllArticles,
-  getPostBySlug,
-  getPostSlugs,
+  getArticleBySlug,
+  getArticleSlugs,
+  getArticleTree,
 } from "../../lib/api";
 import markdownToHtml from "../../lib/markdownToHtml";
 import type ArticleType from "../../interfaces/article";
@@ -9,27 +9,27 @@ import WikiPage from "../../components/wiki-page";
 
 type Props = {
   article: ArticleType;
-  allArticles: string[];
+  articleTree: any;
 };
 
-export default function Post({ article, allArticles }: Props) {
-  return <WikiPage allArticles={allArticles} article={article} />;
+export default function Article({ article, articleTree }: Props) {
+  return <WikiPage articleTree={articleTree} article={article} />;
 }
 
 type Params = {
   params: {
-    slug: string;
+    slug: string[];
   };
 };
 
 export async function getStaticProps({ params }: Params) {
-  const article = getPostBySlug(params.slug, [
+  const article = getArticleBySlug(params.slug.join("/"), [
     "title",
     "slug",
     "content",
   ]);
   const content = await markdownToHtml(article.content || "");
-  const allSlugs = getPostSlugs().map((s) => s.replace(/\.md$/, ""));
+  const articleTree = getArticleTree();
 
   return {
     props: {
@@ -37,19 +37,19 @@ export async function getStaticProps({ params }: Params) {
         ...article,
         content,
       },
-      allArticles: allSlugs,
+      articleTree: articleTree,
     },
   };
 }
 
 export async function getStaticPaths() {
-  const articles = getAllArticles(["slug"]);
+  const articles = getArticleSlugs();
 
   return {
-    paths: articles.map((post) => {
+    paths: articles.map((a) => {
       return {
         params: {
-          slug: post.slug,
+          slug: a.split("/"),
         },
       };
     }),

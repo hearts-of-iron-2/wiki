@@ -1,13 +1,42 @@
-import { useState } from "react";
+import { ReactNode, useState } from "react";
 import Fuse from "fuse.js";
 
 type Props = {
-  articles: string[];
+  articleTree: any;
 };
 
-const ArticleSearch = ({ articles }: Props) => {
-  const fuse = new Fuse(articles);
-  const [visibleArticles, setVisibleArticles] = useState(articles);
+const ArticleSearch = ({ articleTree }: Props) => {
+  const fuse = new Fuse(articleTree, {
+    keys: ["name", "children.name"],
+  });
+  const [visibleArticleTree, setVisibleArticleTree] = useState(articleTree);
+  const [isOpen, setOpen] = useState(false);
+
+  const renderNode = (node): ReactNode => {
+    if (node.type === "directory") {
+      return (
+        <li key={node.path}>
+          <details open={isOpen}>
+            <summary>{node.name.replace(/_/gm, " ")}</summary>
+            <ul>
+              {node.children.map(renderNode)}
+            </ul>
+          </details>
+        </li>
+      );
+    } else if (node.type === "file") {
+      return (
+        <li key={node.path}>
+          <a
+            href={"/wiki/" +
+              node.path.replace(/_content\//, "").replace(/\.md/gm, "")}
+          >
+            {node.name.replace(/_/gm, " ").replace(/\.md/gm, "")}
+          </a>
+        </li>
+      );
+    }
+  };
 
   return (
     <ul className="menu rounded-box w-full overflow-y-scroll overflow-x-hidden flex-nowrap">
@@ -20,9 +49,12 @@ const ArticleSearch = ({ articles }: Props) => {
             const searchTerm = (e.target as HTMLInputElement).value;
             if (searchTerm && searchTerm !== "") {
               const searchResult = fuse.search(searchTerm).map((r) => r.item);
-              setVisibleArticles(searchResult);
+              console.log(searchResult);
+              setOpen(true);
+              setVisibleArticleTree(searchResult);
             } else {
-              setVisibleArticles(articles);
+              setOpen(false);
+              setVisibleArticleTree(articleTree);
             }
           }}
         />
@@ -46,11 +78,7 @@ const ArticleSearch = ({ articles }: Props) => {
           </svg>
         </label>
       </div>
-      {visibleArticles.map((a, i) => (
-        <li key={i}>
-          <a href={"/wiki/" + a}>{a.replace(/_/gm, " ")}</a>
-        </li>
-      ))}
+      {visibleArticleTree.map(renderNode)}
     </ul>
   );
 };

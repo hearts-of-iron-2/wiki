@@ -6,10 +6,10 @@ import Article from "./article";
 
 type Props = {
   article?: ArticleType;
-  allArticles: string[];
+  articleTree: any;
 };
 
-export default function WikiPage({ article, allArticles }: Props) {
+export default function WikiPage({ article, articleTree }: Props) {
   return (
     <Layout>
       <Container>
@@ -17,7 +17,7 @@ export default function WikiPage({ article, allArticles }: Props) {
           <input id="my-drawer" type="checkbox" className="drawer-toggle" />
           <div className="drawer-side lg:w-quarter">
             <label htmlFor="my-drawer" className="drawer-overlay lg:hidden" />
-            <ArticleSearch articles={allArticles} />
+            <ArticleSearch articleTree={articleTree} />
           </div>
           <div className="drawer-content flex flex-col items-end overflow-scroll lg:w-three-quarters">
             <label
