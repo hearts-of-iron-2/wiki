@@ -1,0 +1,6 @@
+---
+title: Potash_Production_per_country_1936-1948
+---
+ Source: BR Mitchell
+
+<table border="1"><tbody><tr><td></td><td>1936</td><td>1937</td><td>1938</td><td>1939</td><td>1940</td><td>1941</td><td>1942</td><td>1943</td><td>1944</td><td>1945</td><td>1946</td><td>1947</td><td>1948</td></tr><tr><td>France</td><td>369</td><td>490</td><td>581</td><td>614</td><td>230</td><td>673</td><td>619</td><td>664</td><td>467</td><td>145</td><td>574</td><td>633</td><td>684</td></tr><tr><td>Germany</td><td>1411.8</td><td>1735.2</td><td>1973.04</td><td>1908</td><td>1944</td><td>2067.6</td><td>2017.2</td><td>1976.4</td><td>1932</td><td>0</td><td>0</td><td>0</td><td>632.4</td></tr><tr><td>Israel</td><td>10</td><td>15</td><td>24</td><td>32</td><td>45</td><td>51</td><td>52</td><td>47</td><td>53</td><td>47</td><td>45</td><td>62</td><td>30</td></tr><tr><td>USA</td><td>202</td><td>242</td><td>259</td><td>332</td><td>357</td><td>482</td><td>618</td><td>644</td><td>742</td><td>789</td><td>842</td><td>955</td><td>1037</td></tr></tbody></table>
