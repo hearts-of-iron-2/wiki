@@ -32,6 +32,7 @@
     "daisyui": "^3.1.6",
     "directory-tree": "^3.5.1",
     "glob": "^10.3.1",
+    "next-pwa": "^5.6.0",
     "postcss": "^8.4.24",
     "tailwindcss": "^3.3.2"
   }

@@ -6,16 +6,28 @@ import directoryTree from "directory-tree";
 
 const contentDirectory = "_content";
 
+let slugs: string[] = [];
+let tree: any = {};
+
 export function getArticleSlugs(): string[] {
-  return globSync(`${contentDirectory}/**/*.md`)
-    .map((slug) => slug.substring(slug.indexOf("/") + 1).replace(/\.md/gm, ""))
-    .sort();
+  if (slugs.length === 0) {
+    console.log("creating slugs...");
+    slugs = globSync(`${contentDirectory}/**/*.md`)
+      .map((slug) =>
+        slug.substring(slug.indexOf("/") + 1).replace(/\.md/gm, "")
+      )
+      .sort();
+  }
+  return slugs;
 }
 
 export function getArticleTree() {
-  const tree = directoryTree(contentDirectory, {
-    attributes: ["type"],
-  });
+  if (Object.keys(tree).length === 0) {
+    console.log("creating directory tree...");
+    tree = directoryTree(contentDirectory, {
+      attributes: ["type"],
+    });
+  }
   return tree.children;
 }
 
