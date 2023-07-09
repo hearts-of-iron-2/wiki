@@ -1,5 +1,6 @@
 import { ReactNode, useState } from "react";
 import Fuse from "fuse.js";
+import Link from "next/link";
 
 type Props = {
   articleTree: any;
@@ -27,12 +28,12 @@ const ArticleSearch = ({ articleTree }: Props) => {
     } else if (node.type === "file") {
       return (
         <li key={node.path}>
-          <a
+          <Link
             href={"/wiki/" +
               node.path.replace(/_content\//, "").replace(/\.md/gm, "")}
           >
             {node.name.replace(/_/gm, " ").replace(/\.md/gm, "")}
-          </a>
+          </Link>
         </li>
       );
     }
