@@ -1,11 +1,12 @@
 ---
 title: Australia
 ---
- [Country guides](/wiki/Country_guides "Country guides")
+
+[Country guides](/wiki/Country_guides "Country guides")
 
 [Major powers](/wiki/Major_power "Major power")
 
-* * *
+---
 
 [France](/wiki/France "France")  
 [Germany](/wiki/Germany "Germany")  
@@ -17,7 +18,7 @@ title: Australia
 
 Regional powers
 
-* * *
+---
 
 [Argentina](/wiki/Argentina "Argentina")  
 Australia  
@@ -41,7 +42,7 @@ Australia
 
 [Minor powers](/wiki/Minor_power "Minor power")
 
-* * *
+---
 
 [Austria](/wiki/Austria "Austria")  
 [Chile](/wiki/index.php?title=Chile&action=edit&redlink=1 "Chile (page does not exist)")  
@@ -60,7 +61,7 @@ Australia
 
 [Micro powers](/wiki/Micro_power "Micro power")
 
-* * *
+---
 
 [Afghanistan](/wiki/Afghanistan "Afghanistan")  
 [Albania](/wiki/Albania "Albania")  
@@ -102,59 +103,57 @@ Australia
 [Yemen](/wiki/index.php?title=Yemen&action=edit&redlink=1 "Yemen (page does not exist)")  
 [Yunnan](/wiki/Yunnan "Yunnan")
 
-Contents
---------
+## Contents
 
-*   [1 Overview](#Overview)
-    *   [1.1 General Tips](#General_Tips)
-    *   [1.2 Manpower](#Manpower)
-*   [2 Research](#Research)
-*   [3 Diplomacy](#Diplomacy)
-    *   [3.1 Alliances](#Alliances)
-    *   [3.2 Sliders](#Sliders)
-    *   [3.3 Ministers](#Ministers)
-*   [4 Intelligence](#Intelligence)
-*   [5 Economy](#Economy)
-    *   [5.1 Trading](#Trading)
-    *   [5.2 Industrial Production](#Industrial_Production)
-*   [6 Military](#Military)
-    *   [6.1 Army](#Army)
-    *   [6.2 Navy](#Navy)
-    *   [6.3 Air Force](#Air_Force)
-*   [7 Events](#Events)
-*   [8 War](#War)
-*   [9 Alternative Route](#Alternative_Route)
-    *   [9.1 The time before the war against Japan](#The_time_before_the_war_against_Japan)
-    *   [9.2 The war against Japan](#The_war_against_Japan)
-*   [10 References](#References)
+- [1 Overview](#Overview)
+  - [1.1 General Tips](#General_Tips)
+  - [1.2 Manpower](#Manpower)
+- [2 Research](#Research)
+- [3 Diplomacy](#Diplomacy)
+  - [3.1 Alliances](#Alliances)
+  - [3.2 Sliders](#Sliders)
+  - [3.3 Ministers](#Ministers)
+- [4 Intelligence](#Intelligence)
+- [5 Economy](#Economy)
+  - [5.1 Trading](#Trading)
+  - [5.2 Industrial Production](#Industrial_Production)
+- [6 Military](#Military)
+  - [6.1 Army](#Army)
+  - [6.2 Navy](#Navy)
+  - [6.3 Air Force](#Air_Force)
+- [7 Events](#Events)
+- [8 War](#War)
+- [9 Alternative Route](#Alternative_Route)
+  - [9.1 The time before the war against Japan](#The_time_before_the_war_against_Japan)
+  - [9.2 The war against Japan](#The_war_against_Japan)
+- [10 References](#References)
 
-Overview
---------
+## Overview
 
 Australia ( [AST](/wiki/Tag_List#A_.2813_tags.29 "Tag List") ) can be a fun and challenging country to play. Historically, like Canada it has held subordinate role, first to the United Kingdom and later to the USA, but playing that way is rather dull. As with any scenario and country, the goal is usually to conquer vast tracts of territory, and this guide is written with that in mind, particularly for a 1936 scenario.
 
 Advantages:
 
-*   Geographical isolation (AI is almost never interested in you)
-*   Lots of allies that give you blueprints and resources
-*   Low infrastructure, large home provinces (advantageous because you can give ground in a defensive war, e.g. the famous Brisbane line)
-*   OK tech teams (not as hot as Germany but certainly much better than Nationalist China)
+- Geographical isolation (AI is almost never interested in you)
+- Lots of allies that give you blueprints and resources
+- Low infrastructure, large home provinces (advantageous because you can give ground in a defensive war, e.g. the famous Brisbane line)
+- OK tech teams (not as hot as Germany but certainly much better than Nationalist China)
 
 Disadvantages:
 
-*   Low [manpower](/wiki/index.php?title=Manpower&action=edit&redlink=1 "Manpower (page does not exist)")
-*   Low [IC](/wiki/IC "IC")
-*   Low [infrastructure](/wiki/index.php?title=Infrastructure&action=edit&redlink=1 "Infrastructure (page does not exist)") (this renders mobile-reserves near-useless unless you upgrade your infrastructure)
-*   Only two research slots in the beginning
-*   Difficult conquests
-*   Relatively mediocre [leaders](/wiki/Leaders "Leaders")
+- Low [manpower](/wiki/index.php?title=Manpower&action=edit&redlink=1 "Manpower (page does not exist)")
+- Low [IC](/wiki/IC "IC")
+- Low [infrastructure](/wiki/index.php?title=Infrastructure&action=edit&redlink=1 "Infrastructure (page does not exist)") (this renders mobile-reserves near-useless unless you upgrade your infrastructure)
+- Only two research slots in the beginning
+- Difficult conquests
+- Relatively mediocre [leaders](/wiki/Leaders "Leaders")
 
 ### General Tips
 
-*   Disband the garrisons. You won't be policing territories and their manpower is useful.
-*   Disband at least the old destroyer and light cruiser, even if you want to keep the two CAs and modern CLs.
-*   Trade some supplies to the USA for money. You can then research, conduct intelligence, and diplomacy, while not using IC for overproducing goods.
-*   Try to have at least 100 convoy transports. A beachhead in the Balkans requires around 70 transports to support several Corps.
+- Disband the garrisons. You won't be policing territories and their manpower is useful.
+- Disband at least the old destroyer and light cruiser, even if you want to keep the two CAs and modern CLs.
+- Trade some supplies to the USA for money. You can then research, conduct intelligence, and diplomacy, while not using IC for overproducing goods.
+- Try to have at least 100 convoy transports. A beachhead in the Balkans requires around 70 transports to support several Corps.
 
 ### Manpower
 
@@ -162,15 +161,13 @@ Australia's biggest problem is manpower. Resources and blueprints can be traded 
 
 If you're not interested in the reasoning, skip this section. I'm not sure precisely how manpower works as even when factoring in all known modifiers I find a serious discrepancy between expected and calculated values; 13 manpower assuming no modifiers would yield 0.04 manpower per day, not 0.10. All the same, anyone can see the value of the manpower modifiers when the maths is done. Australia begins with -8% growth due to a [Dove Lobby](/wiki/Dove_Lobby "Dove Lobby") , and +10% due to two techs, thus 36.5 is 98% of your base growth. If the player researches the next two Agricultural technologies, which are 5% each, installs Sir Cyril and a Man of the People, we reach 55% additional manpower growth. Once the [Hawk Lobby](/wiki/Hawk_Lobby "Hawk Lobby") is maximized (which takes years, but is well worth it) we reach a whopping 65% additional manpower. As far as I'm aware this is the maximum until the later Agricultural technologies. Now if we do the maths, our base manpower growth is 37.3 per year. This leaps to an amazing 61.5 manpower per year when all effects are active, or 0.16 manpower per day. Thus it is obviously apparent we can build another pair of infantry Divisions per year with extra left over for other projects. If we average this 1936-9 we see that another six Divisions is nothing to sniff at.
 
-[Research](/wiki/Research "Research")
--------------------------------------
+## [Research](/wiki/Research "Research")
 
-Australia has some excellent [Tech teams](/wiki/Tech_Team_(Australia) "Tech Team (Australia)") , but with only two slots to begin with you're limited to whatever you get via blueprints. You can, however, research independently for various reasons. I highly recommend the [Agricultural](/wiki/Industry_Tech_Tree#Agriculture "Industry Tech Tree") researches as they're easily accomplished, boost your manpower, and you can trade them to France for resources. Any blueprints you complete can be traded around the Allies for some extra change. It's worth the money cost.
+Australia has some excellent [Tech teams](</wiki/Tech_Team_(Australia)> "Tech Team (Australia)") , but with only two slots to begin with you're limited to whatever you get via blueprints. You can, however, research independently for various reasons. I highly recommend the [Agricultural](/wiki/Industry_Tech_Tree#Agriculture "Industry Tech Tree") researches as they're easily accomplished, boost your manpower, and you can trade them to France for resources. Any blueprints you complete can be traded around the Allies for some extra change. It's worth the money cost.
 
 Also consider changing your Land Doctrine. Have you noticed that Dudley Lavarck shares four crucial specialties with Heinz Guderian and is level 6 skilled? Blitzkrieg Doctrine is a viable option. Don't be afraid to abandon all those old techs: you're getting better ones. You may want to hold off on this, however, until you've got 9-18 infantry Divisions, thereby utilizing the slight discounts already available from your current doctrines.
 
-Diplomacy
----------
+## Diplomacy
 
 ### Alliances
 
@@ -188,13 +185,11 @@ You may wish to move towards authoritarianism to allow easier DoW on your target
 
 Your starting pool of ministers is pretty good, choose those who suit you and stick with them. Unfortunately your conservative HoG will die in '40 or '41 and be replaced by a -5% one. If you choose elect left the next election you get a +5% one, but have to replace nearly your complete cabinet and loose the +10% manpower minister you had before. So consider carefully.
 
-Intelligence
-------------
+## Intelligence
 
 As you get most blueprints you need from your allies there is only one target that may be worth the effort: Japan. They start with a few more naval doctrines and research some very early due to blueprints they have. Maybe that's a reason good enough for you to steal blueprints from them.
 
-Economy
--------
+## Economy
 
 ### Trading
 
@@ -206,8 +201,7 @@ Of course, what strategy you use is up to you, but this is Australia and not Ger
 
 It is my sincere recommendation that anyone playing as Australia avoids spending manpower on additional IC, AA, Radar Stations, rocket test sites, or nuclear reactors. Don't scoff: when you've got 250 IC to your name through conquest you'll be looking for things to build, especially as without any manpower you can't build anything except infrastructure.
 
-Military
---------
+## Military
 
 ### Army
 
@@ -223,13 +217,11 @@ The Royal Australian Navy starts with [Fleet-in-Being](/wiki/Fleet-in-Being "Fle
 
 I highly recommend a tactical air force. If you're not an airpower type, read [Effective Use of Airpower](/wiki/Effective_Use_of_Airpower "Effective Use of Airpower") and prepare to change your view. I suggest a TAF over a SAF for severals reasons: cost of strategic bombing is higher, Australia can't realistically amass a large enough SAF to cripple a large nation, while a TAF will reduce attrition. Four CAS can easily maul your enemies' Divisions, but costs a mere 8 manpower - less than one infantry Division. For 12 manpower you can assemble four CAS and four fighters. Usually I work with both interceptors and fighters, but Australia can't afford it, and regardless the interceptor's eponymous abilities are irrelevant in this situation. Fighters' usefulness in CAS as a secondary ability makes it far better pound-for-pound. The true value of a TAF is in interdicting the enemy in combat to quickly defeat them, then switching to ground attack to tear them up while they're horribly vulnerable. This greatly reduces your own manpower losses as it's a compounding effect: you speed up combat, reducing losses, then wear the enemy's effectiveness down, further reducing time-in-combat, further reducing losses.
 
-Events
-------
+## Events
 
 There are only election events.
 
-War
----
+## War
 
 There are many possible expansionist strategies for Australia, varying from leaving turning on the Allies to make easy killings among their weaker members and their colonies while they're distracted, to blitzing Japan. The only proven strategy I have used, however, is the Balkan route, and I will not cover the other strategies.
 
@@ -243,8 +235,7 @@ In 1941, just prior to Operation Barbarossa, the entire Balkan region is in the 
 
 There's not a lot to be said about strategy after you've landed in the Balkans. In some situations the bulk of Italian Divisions are stuck in Africa, allowing you to lance north along the Dalmatian coast to Trento, isolating the Italians for a handful of units to clear and annex. Alternately a broad front may allow you to prevent the enemy amassing a serious threat on any one flank, and there aren't really any landmarks to aim for; there's no industrial heartland or particular region suited to encirclements. It's probably worth liberating some puppet states, as their manpower is not transferred to you (see below for details) and without additional manpower you can't expand your army, navy, or air force. Puppets, however, can churn out new Divisions to do your bidding via military control. By now you're probably into the early part of 1942, holding a line from the Black Sea to Switzerland. The world is your oyster - go after Germany, or hold the line while they collapse under the weight of the USSR, focusing on the Pacific instead. Once your puppets have build enough forces you can leave the Allies (if the war is over) and strike against them with the Australasian allies.
 
-Alternative Route
------------------
+## Alternative Route
 
 You don´t want to conquer the Balkans because it´s a long way away from Australia? You want to face and tame the immediate threat in the Pacific? You like naval warfare more than tanks? Then you may want to choose a different first conquest: Japan. Compared to the above strategy you end with a less powerful Australia, but nevertheless you have a fun and challenging game. And you won´t have to fight an excessive land war against the Red Army in World War Three.
 
@@ -276,7 +267,6 @@ Use your fighters and bombers to harass Japanese convoys and to bomb some ships.
 
 With Japan secured the ultimate goal of this alternative route is achieved and Australia now has a very good industrial base to do whatever they want as long as it does not cost manpower ;). Maybe Siam and Indochina are your next targets or maybe Italy is now a more tempting target.
 
-References
-----------
+## References
 
-[Tech Team (Australia)](/wiki/Tech_Team_(Australia) "Tech Team (Australia)") [Template:Anthology](/wiki/index.php?title=Template:Anthology&action=edit&redlink=1 "Template:Anthology (page does not exist)")
+[Tech Team (Australia)](</wiki/Tech_Team_(Australia)> "Tech Team (Australia)") [Template:Anthology](/wiki/index.php?title=Template:Anthology&action=edit&redlink=1 "Template:Anthology (page does not exist)")

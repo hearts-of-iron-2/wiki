@@ -1,20 +1,19 @@
 ---
 title: Strategy_for_Fall_Blau
 ---
- [Template:Scenario guides](/wiki/index.php?title=Template:Scenario_guides&action=edit&redlink=1 "Template:Scenario guides (page does not exist)")
 
- [![Shieldger.jpg](/images/7/71/Shieldger.jpg)](/wiki/File:Shieldger.jpg)[![Vs.jpg](/images/9/93/Vs.jpg) ](/wiki/File:Vs.jpg)[![Shieldsov.jpg](/images/1/1c/Shieldsov.jpg)](/wiki/File:Shieldsov.jpg)
+[Template:Scenario guides](/wiki/index.php?title=Template:Scenario_guides&action=edit&redlink=1 "Template:Scenario guides (page does not exist)")
 
-Contents
---------
+[![Shieldger.jpg](/images/7/71/Shieldger.jpg)](/wiki/File:Shieldger.jpg)[![Vs.jpg](/images/9/93/Vs.jpg) ](/wiki/File:Vs.jpg)[![Shieldsov.jpg](/images/1/1c/Shieldsov.jpg)](/wiki/File:Shieldsov.jpg)
 
-*   [1 German Strategy](#German_Strategy)
-    *   [1.1 Opening moves](#Opening_moves)
-    *   [1.2 The Don](#The_Don)
-    *   [1.3 The East](#The_East)
+## Contents
 
-German Strategy
----------------
+- [1 German Strategy](#German_Strategy)
+  - [1.1 Opening moves](#Opening_moves)
+  - [1.2 The Don](#The_Don)
+  - [1.3 The East](#The_East)
+
+## German Strategy
 
 As the Germans, you start off with a better army in the field, but it will quickly lose its advantages as the soveits gain reinforcements and retreat to more favorable terrain and weather. Time is critical on this map, as it will be difficult to score any big wins once the ground freezes. You have until November 18th to get 130 VP which is pretty much all of them.
 

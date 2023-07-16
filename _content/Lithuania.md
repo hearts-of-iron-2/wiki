@@ -1,11 +1,12 @@
 ---
 title: Lithuania
 ---
- [Country guides](/wiki/Country_guides "Country guides")
+
+[Country guides](/wiki/Country_guides "Country guides")
 
 [Major powers](/wiki/Major_power "Major power")
 
-* * *
+---
 
 [France](/wiki/France "France")  
 [Germany](/wiki/Germany "Germany")  
@@ -17,7 +18,7 @@ title: Lithuania
 
 Regional powers
 
-* * *
+---
 
 [Argentina](/wiki/Argentina "Argentina")  
 [Australia](/wiki/Australia "Australia")  
@@ -41,7 +42,7 @@ Regional powers
 
 [Minor powers](/wiki/Minor_power "Minor power")
 
-* * *
+---
 
 [Austria](/wiki/Austria "Austria")  
 [Chile](/wiki/index.php?title=Chile&action=edit&redlink=1 "Chile (page does not exist)")  
@@ -60,7 +61,7 @@ Regional powers
 
 [Micro powers](/wiki/Micro_power "Micro power")
 
-* * *
+---
 
 [Afghanistan](/wiki/Afghanistan "Afghanistan")  
 [Albania](/wiki/Albania "Albania")  

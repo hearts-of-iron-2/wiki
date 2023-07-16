@@ -1,11 +1,12 @@
 ---
 title: Ethiopia
 ---
- [Country guides](/wiki/Country_guides "Country guides")
+
+[Country guides](/wiki/Country_guides "Country guides")
 
 [Major powers](/wiki/Major_power "Major power")
 
-* * *
+---
 
 [France](/wiki/France "France")  
 [Germany](/wiki/Germany "Germany")  
@@ -17,7 +18,7 @@ title: Ethiopia
 
 Regional powers
 
-* * *
+---
 
 [Argentina](/wiki/Argentina "Argentina")  
 [Australia](/wiki/Australia "Australia")  
@@ -41,7 +42,7 @@ Regional powers
 
 [Minor powers](/wiki/Minor_power "Minor power")
 
-* * *
+---
 
 [Austria](/wiki/Austria "Austria")  
 [Chile](/wiki/index.php?title=Chile&action=edit&redlink=1 "Chile (page does not exist)")  
@@ -60,7 +61,7 @@ Regional powers
 
 [Micro powers](/wiki/Micro_power "Micro power")
 
-* * *
+---
 
 [Afghanistan](/wiki/Afghanistan "Afghanistan")  
 [Albania](/wiki/Albania "Albania")  
@@ -104,16 +105,14 @@ Ethiopia
 
 Surviving the Italian onslaught.
 
-Contents
---------
+## Contents
 
-*   [1 Are you seriously playing Ethiopia?](#Are_you_seriously_playing_Ethiopia.3F)
-*   [2 Step 1: Pull back](#Step_1:_Pull_back)
-*   [3 Step 2: Counterattack South](#Step_2:_Counterattack_South)
-*   [4 TO BE CONTINUED](#TO_BE_CONTINUED)
+- [1 Are you seriously playing Ethiopia?](#Are_you_seriously_playing_Ethiopia.3F)
+- [2 Step 1: Pull back](#Step_1:_Pull_back)
+- [3 Step 2: Counterattack South](#Step_2:_Counterattack_South)
+- [4 TO BE CONTINUED](#TO_BE_CONTINUED)
 
-Are you seriously playing Ethiopia?
------------------------------------
+## Are you seriously playing Ethiopia?
 
 Well, here are some tips:
 
@@ -126,13 +125,11 @@ Well, here are some tips:
 7.  Outnumber the Italians in every battle, especially when attacking.
 8.  Reinforce the Imperial Bodyguard and use them for offense whenever you can. Its attack-to-defense ratio is far higher than that of militia divisions.
 
-Step 1: Pull back
------------------
+## Step 1: Pull back
 
 Start off by pulling your forces into a better defensive position. Just don't retreat too far..."too far" being when you have less than two provinces. If the Italians surround your capital, you're screwed.
 
-Step 2: Counterattack South
----------------------------
+## Step 2: Counterattack South
 
 While holding onto the northern border, push south. With any luck you'll surround and destroy the Italians in Somalia.
 
@@ -140,8 +137,7 @@ As soon as you take a coastline province, start trading supplies for whatever ra
 
 Occupying these provinces will kill your TC, so liberate the nation Somalia as soon as you've removed all Italian territory. Somalia will have absolutely no resources or manpower or IC or anything. The only drawback to liberation is that you lose sea access, and by extension, British trade. But hey, it was nice while it lasted.
 
-TO BE CONTINUED
----------------
+## TO BE CONTINUED
 
 At this point they're still on your north end. Fortunately the only resource up there is one manpower point in Dese. Whoopty-doo.
 

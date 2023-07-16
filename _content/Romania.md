@@ -1,11 +1,12 @@
 ---
 title: Romania
 ---
- [Country guides](/wiki/Country_guides "Country guides")
+
+[Country guides](/wiki/Country_guides "Country guides")
 
 [Major powers](/wiki/Major_power "Major power")
 
-* * *
+---
 
 [France](/wiki/France "France")  
 [Germany](/wiki/Germany "Germany")  
@@ -17,7 +18,7 @@ title: Romania
 
 Regional powers
 
-* * *
+---
 
 [Argentina](/wiki/Argentina "Argentina")  
 [Australia](/wiki/Australia "Australia")  
@@ -41,7 +42,7 @@ Romania
 
 [Minor powers](/wiki/Minor_power "Minor power")
 
-* * *
+---
 
 [Austria](/wiki/Austria "Austria")  
 [Chile](/wiki/index.php?title=Chile&action=edit&redlink=1 "Chile (page does not exist)")  
@@ -60,7 +61,7 @@ Romania
 
 [Micro powers](/wiki/Micro_power "Micro power")
 
-* * *
+---
 
 [Afghanistan](/wiki/Afghanistan "Afghanistan")  
 [Albania](/wiki/Albania "Albania")  
@@ -104,33 +105,29 @@ Romania
 
 Playing Romania is not an easy task, but it can be quite fun. The key of the game is waiting. You will be successful if you decide not to go into action too soon. You have a very bad position, surrounded by enemies, many of whom have claims on your territory.
 
-Contents
---------
+## Contents
 
-*   [1 Preparations](#Preparations)
-*   [2 Balkan war](#Balkan_war)
-*   [3 Further strategy](#Further_strategy)
-*   [4 A more "Patriotic" alternative](#A_more_.22Patriotic.22_alternative)
-*   [5 Romania: Balkan Superpower?](#Romania:_Balkan_Superpower.3F)
-*   [6 An Allied Romania](#An_Allied_Romania)
-*   [7 Further Interests](#Further_Interests)
+- [1 Preparations](#Preparations)
+- [2 Balkan war](#Balkan_war)
+- [3 Further strategy](#Further_strategy)
+- [4 A more "Patriotic" alternative](#A_more_.22Patriotic.22_alternative)
+- [5 Romania: Balkan Superpower?](#Romania:_Balkan_Superpower.3F)
+- [6 An Allied Romania](#An_Allied_Romania)
+- [7 Further Interests](#Further_Interests)
 
-Preparations
-------------
+## Preparations
 
 Try to move the sliders towards hawk and interventionism. The biggest problem you have is your army. Upgrade it immediately, and focus on building a task force. Do not worry about economy, because it's the best in your area.
 
 Suck up to Germany and join the Axis. Don't be afraid if Bulgaria and Hungary do the same (because they will do that). In September 1940 you will recive the ultimatum called "The Vienna Diktat" to secede Transylvania to Hungary. Do that, because the alternative means war with Germany, and you cannot afford that. One month later, Bulgaria will ask you to cede Constanta to them. Refuse it, because their demand is not backed by the Germans. Effects: Both you and Bulgaria leave Axis, and Bulgaria declares war.
 
-Balkan war
-----------
+## Balkan war
 
 If you have improved the army, you might be able to destroy Bulgaria. Do not do that! Risk, and let them ocuppy the Constanta province. The result will be interesting, because Hungary declares war.
 
 Now, the battle plan: Concentrate on Bulgaria, drive them out of Constanta, and then push towards Varna and Sofia. Defend the Hungarian border. After you have conquered Bulgaria, annex it, and turn against the real and historical enemy, Hungary. Their army is harder to defeat, but if you have followed the advice and improved yours, you should be able to defeat them.
 
-Further strategy
-----------------
+## Further strategy
 
 All the time, suck up to Germany, the UK, and USSR! This way, you will stay out of the war.
 
@@ -138,8 +135,7 @@ Greece should be your next target. It's the easiest country to conquer, and you 
 
 Now your country is big enough and your army strong enough to face an attack. Wait until the Axis or the Allies gain an important advantage and join them. The best alternative, even if it is hard to do, is to join the Comintern. Russians are next to you, and you'll have opportunities to strike whoever you would like. Maybe Yugoslavia, Turkey, or perhaps even Germany.
 
-A more "Patriotic" alternative
-------------------------------
+## A more "Patriotic" alternative
 
 Move towards Authorian and Right Wing. Further events should help you move towards Hawk Lobby, Standing Army, Central Planning, and Interventionism.
 
@@ -165,8 +161,7 @@ You now have a secure position.
 
 Your next target should be the oil fields in the Middle East.
 
-Romania: Balkan Superpower?
----------------------------
+## Romania: Balkan Superpower?
 
 The goal here is an aggressive play for Hungary as soon as possible. Take your rather large starting army and start stacking it on the border with Hungary. In the meantime, make the necessary slider moves to be able to declare war.
 
@@ -178,12 +173,10 @@ Your next move could go in one of many directions. I would recommend Yugoslavia 
 
 Not only can you make some impressive territorial gains (and get a ton of IC to boot, 4 tech teams by 1941 is very possible), but you also stop all of those nasty events involving ceding territory, along with stopping many of the event based German gains, leading to...
 
-An Allied Romania
------------------
+## An Allied Romania
 
 This is where your Austrian territory comes into play. Once Germany and the Allies are at war, you'll have a 70-some percent chance to join the Allies if you ask Britain. Assuming Germany and Italy aren't allied, this can be a huge opportunity for Romanian glory. With a neutral Czechoslovakia (thanks to stopping the Anschluss early) and an allied Poland on your northern border, a neutral Italy who tends to be rather friendly to you on your long western border, and a usually Allied Greece to your south, you sit in a prime position to foray into southern Germany through Munich. Chances are the germans will ground your offensive to a halt before you can get deep into Germany, so just dig in and hold tight while your allies win the war for you. If you're bored while you wait, it can be fun to take military control of Poland and try to beat the German blitzkrieg back. The allies will also flood you with blueprints and help defend any German counterattacks, to be sure you can hold your posessions. After sitting behind the Maginot Line for an eternity, a French assault out from it leads to German defeat within 6 months.
 
-Further Interests
------------------
+## Further Interests
 
 At this point, all your neighbors but the Soviets will be either an ally or pitifully weak. If Bulgaria is still around, they're a natural target, along with Czechoslovakia. Both have pretty outdated armies and will fall quickly, but make sure you move fast so Greece, France, and Poland can't steal territory from you. Italy is also surprisingly vulnerable at this point in time. Taking the Italian mainland is surprisingly quick and easy, and once it's under your control all you need to do is wait for the British to clear out a supply-less Italian Africa. Once Italy falls, the choice is yours. Betray the Allies? Attack the Soviet Union? Build a navy and assault Turkey? With the IC and manpower your posessions should net you, anything is possibly for once-tiny Romania.

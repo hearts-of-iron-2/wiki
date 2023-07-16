@@ -1,12 +1,12 @@
 ---
 title: Strategy_for_Operation_Watchtower
 ---
- [Template:Scenario guides](/wiki/index.php?title=Template:Scenario_guides&action=edit&redlink=1 "Template:Scenario guides (page does not exist)")
 
- [![Shieldjap.jpg](/images/c/cd/Shieldjap.jpg)](/wiki/File:Shieldjap.jpg)[![Vs.jpg](/images/9/93/Vs.jpg) ](/wiki/File:Vs.jpg)[![Shieldals.jpg](/images/5/57/Shieldals.jpg)](/wiki/File:Shieldals.jpg)
+[Template:Scenario guides](/wiki/index.php?title=Template:Scenario_guides&action=edit&redlink=1 "Template:Scenario guides (page does not exist)")
 
-Operation Watchtower Strategy for Japan
----------------------------------------
+[![Shieldjap.jpg](/images/c/cd/Shieldjap.jpg)](/wiki/File:Shieldjap.jpg)[![Vs.jpg](/images/9/93/Vs.jpg) ](/wiki/File:Vs.jpg)[![Shieldals.jpg](/images/5/57/Shieldals.jpg)](/wiki/File:Shieldals.jpg)
+
+## Operation Watchtower Strategy for Japan
 
 Playing in Normal/Normal.
 

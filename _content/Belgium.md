@@ -1,11 +1,12 @@
 ---
 title: Belgium
 ---
- [Country guides](/wiki/Country_guides "Country guides")
+
+[Country guides](/wiki/Country_guides "Country guides")
 
 [Major powers](/wiki/Major_power "Major power")
 
-* * *
+---
 
 [France](/wiki/France "France")  
 [Germany](/wiki/Germany "Germany")  
@@ -17,7 +18,7 @@ title: Belgium
 
 Regional powers
 
-* * *
+---
 
 [Argentina](/wiki/Argentina "Argentina")  
 [Australia](/wiki/Australia "Australia")  
@@ -41,7 +42,7 @@ Belgium
 
 [Minor powers](/wiki/Minor_power "Minor power")
 
-* * *
+---
 
 [Austria](/wiki/Austria "Austria")  
 [Chile](/wiki/index.php?title=Chile&action=edit&redlink=1 "Chile (page does not exist)")  
@@ -60,7 +61,7 @@ Belgium
 
 [Micro powers](/wiki/Micro_power "Micro power")
 
-* * *
+---
 
 [Afghanistan](/wiki/Afghanistan "Afghanistan")  
 [Albania](/wiki/Albania "Albania")  
@@ -102,33 +103,31 @@ Belgium
 [Yemen](/wiki/index.php?title=Yemen&action=edit&redlink=1 "Yemen (page does not exist)")  
 [Yunnan](/wiki/Yunnan "Yunnan")
 
-Contents
---------
+## Contents
 
-*   [1 Historical introduction](#Historical_introduction)
-    *   [1.1 Translation into HOI](#Translation_into_HOI)
-    *   [1.2 A warning for the handyman - modding and this guide](#A_warning_for_the_handyman_-_modding_and_this_guide)
-*   [2 Strengths and Weaknesses](#Strengths_and_Weaknesses)
-    *   [2.1 Strengths](#Strengths)
-    *   [2.2 Weaknesses](#Weaknesses)
-*   [3 Walkthroughs from 1936 onward](#Walkthroughs_from_1936_onward)
-    *   [3.1 The bastion of democracy](#The_bastion_of_democracy)
-        *   [3.1.1 Slow ride - 1936 through 1938](#Slow_ride_-_1936_through_1938)
-        *   [3.1.2 Fortress Belgium](#Fortress_Belgium)
-        *   [3.1.3 What now?](#What_now.3F)
-        *   [3.1.4 Spare IC](#Spare_IC)
-    *   [3.2 A fascist henchman](#A_fascist_henchman)
-    *   [3.3 Dietsland](#Dietsland)
-        *   [3.3.1 Policies](#Policies)
-        *   [3.3.2 Production](#Production)
-        *   [3.3.3 Gameplay](#Gameplay)
-    *   [3.4 Le Congo](#Le_Congo)
-        *   [3.4.1 Policies](#Policies_2)
-        *   [3.4.2 Production](#Production_2)
-        *   [3.4.3 Gameplay](#Gameplay_2)
+- [1 Historical introduction](#Historical_introduction)
+  - [1.1 Translation into HOI](#Translation_into_HOI)
+  - [1.2 A warning for the handyman - modding and this guide](#A_warning_for_the_handyman_-_modding_and_this_guide)
+- [2 Strengths and Weaknesses](#Strengths_and_Weaknesses)
+  - [2.1 Strengths](#Strengths)
+  - [2.2 Weaknesses](#Weaknesses)
+- [3 Walkthroughs from 1936 onward](#Walkthroughs_from_1936_onward)
+  - [3.1 The bastion of democracy](#The_bastion_of_democracy)
+    - [3.1.1 Slow ride - 1936 through 1938](#Slow_ride_-_1936_through_1938)
+    - [3.1.2 Fortress Belgium](#Fortress_Belgium)
+    - [3.1.3 What now?](#What_now.3F)
+    - [3.1.4 Spare IC](#Spare_IC)
+  - [3.2 A fascist henchman](#A_fascist_henchman)
+  - [3.3 Dietsland](#Dietsland)
+    - [3.3.1 Policies](#Policies)
+    - [3.3.2 Production](#Production)
+    - [3.3.3 Gameplay](#Gameplay)
+  - [3.4 Le Congo](#Le_Congo)
+    - [3.4.1 Policies](#Policies_2)
+    - [3.4.2 Production](#Production_2)
+    - [3.4.3 Gameplay](#Gameplay_2)
 
-Historical introduction
------------------------
+## Historical introduction
 
 In 1936, the Kingdom of Belgium still controlled a part of Central-Africa roughly the size of Western Europe packed with natural wealth and cheap labor. Furthermore, the area's around Liège and Charleroi made Belgium into an industrial powerhouse, at least when one considers we're talking about a small nation. All in all, Belgium had quite a lot of influence in those days.
 
@@ -140,10 +139,7 @@ Belgium is slightly underpowered in HOI 2, as it's 30 ic don't actually reflect 
 
 This guide was written without using any mods, or without doing some tweaks by myself (think upping the manpower production for some provinces, adjusting some sliders, ...). Aslo, no free-slider mod was installed (so you'll actually have to make policy decisions). If you modded the files, you'll might want to use other tactics, obviously.
 
-  
-
-Strengths and Weaknesses
-------------------------
+## Strengths and Weaknesses
 
 ### Strengths
 
@@ -177,10 +173,7 @@ Tough luck - you're in between Germany and France. And because of the Maginot-li
 
 Democratic, Isolationist and Dove. Those aren't the best of slider settings. And since you won't be getting a lot of scripted events, these are not prone to change. You might, of course, get lucky and land some policy events, but those are random and usually come at a hight dissent cost. On the upside, you're only one step away from a totally Free Market, and you're not too Draft-prone either
 
-  
-
-Walkthroughs from 1936 onward
------------------------------
+## Walkthroughs from 1936 onward
 
 If you play Belgium, you can of course go a number of ways, and choices early on will determine where you'll end up. So heed this warning: play straight. You can't afford to change strategy half-way. Pick an objective, clearly defined, and don't stray. You can't afford to wait and see how things play out - remember the 1940 deadline.
 

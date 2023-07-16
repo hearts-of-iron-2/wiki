@@ -1,8 +1,8 @@
 ---
 title: Yunnan
 ---
- Yunnan Clique
--------------
+
+## Yunnan Clique
 
 **Advantages:**
 
@@ -14,7 +14,6 @@ Relatively good defensive terrain
 
 Access to blueprints assuming you ally with the other Chinese factions
 
-  
 **Disadvantages:**
 
 Very poor IC, especially compared to [Shanxi](/wiki/Shanxi "Shanxi") and [Guangxi Clique](/wiki/Guangxi_Clique "Guangxi Clique")

@@ -1,7 +1,8 @@
 ---
 title: Marine_Amphibious_Force
 ---
- ### Marine Amphibious Force (MAF)
+
+### Marine Amphibious Force (MAF)
 
 A **Marine Amphibious Force** is a limited [Surface Action Group](/wiki/Surface_Action_Group "Surface Action Group") (SAG) with [Transports](/wiki/Transport "Transport") (TP) attached to it for the purpose of ferrying troops and executing amphibious assaults. Shore bombardment will automatically occur during an amphibious assault by all capable ships in an adjacent sea zone.
 

@@ -19,9 +19,7 @@ const ArticleSearch = ({ articleTree }: Props) => {
         <li key={node.path}>
           <details open={isOpen}>
             <summary>{node.name.replace(/_/gm, " ")}</summary>
-            <ul>
-              {node.children.map(renderNode)}
-            </ul>
+            <ul>{node.children.map(renderNode)}</ul>
           </details>
         </li>
       );
@@ -29,8 +27,10 @@ const ArticleSearch = ({ articleTree }: Props) => {
       return (
         <li key={node.path}>
           <Link
-            href={"/wiki/" +
-              node.path.replace(/_content\//, "").replace(/\.md/gm, "")}
+            href={
+              "/wiki/" +
+              node.path.replace(/_content\//, "").replace(/\.md/gm, "")
+            }
           >
             {node.name.replace(/_/gm, " ").replace(/\.md/gm, "")}
           </Link>

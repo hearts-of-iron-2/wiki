@@ -1,11 +1,12 @@
 ---
 title: Persia
 ---
- [Country guides](/wiki/Country_guides "Country guides")
+
+[Country guides](/wiki/Country_guides "Country guides")
 
 [Major powers](/wiki/Major_power "Major power")
 
-* * *
+---
 
 [France](/wiki/France "France")  
 [Germany](/wiki/Germany "Germany")  
@@ -17,7 +18,7 @@ title: Persia
 
 Regional powers
 
-* * *
+---
 
 [Argentina](/wiki/Argentina "Argentina")  
 [Australia](/wiki/Australia "Australia")  
@@ -41,7 +42,7 @@ Regional powers
 
 [Minor powers](/wiki/Minor_power "Minor power")
 
-* * *
+---
 
 [Austria](/wiki/Austria "Austria")  
 [Chile](/wiki/index.php?title=Chile&action=edit&redlink=1 "Chile (page does not exist)")  
@@ -60,7 +61,7 @@ Regional powers
 
 [Micro powers](/wiki/Micro_power "Micro power")
 
-* * *
+---
 
 [Afghanistan](/wiki/Afghanistan "Afghanistan")  
 [Albania](/wiki/Albania "Albania")  
@@ -104,18 +105,15 @@ Persia
 
 **Persia** is a minor power, located in modern-day Iran. It has a meager military, and minimal technology.
 
-General Tips
-------------
+## General Tips
 
-*   Unless you enter war with the United Kingdom or the Soviet Union, you will be pushed toward supporting the Allies. In Doomssay, you will join the Allies as a UK puppet.
+- Unless you enter war with the United Kingdom or the Soviet Union, you will be pushed toward supporting the Allies. In Doomssay, you will join the Allies as a UK puppet.
 
-Events
-------
+## Events
 
-_Main article: [Persian events](/wiki/Persian_events "Persian events")_  
+_Main article: [Persian events](/wiki/Persian_events "Persian events")_
 
-AI
---
+## AI
 
 As a minor power, Persia will stop invasions once it joins up with a major power.
 

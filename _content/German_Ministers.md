@@ -1,19 +1,19 @@
 ---
 title: German_Ministers
 ---
- Only Fascists, Paternal Autocrats, and National Socialist leaders are listed below.
 
-Contents
---------
+Only Fascists, Paternal Autocrats, and National Socialist leaders are listed below.
 
-*   [1 Foreign Minister](#Foreign_Minister)
-*   [2 Armaments Minister](#Armaments_Minister)
-*   [3 Minister of Security](#Minister_of_Security)
-*   [4 Minister of Intelligence (HoI2) / Head of Military Intelligence (Doomsday, Armageddon)](#Minister_of_Intelligence_.28HoI2.29_.2F_Head_of_Military_Intelligence_.28Doomsday.2C_Armageddon.29)
-*   [5 Chief of Staff](#Chief_of_Staff)
-*   [6 Chief of Army](#Chief_of_Army)
-*   [7 Chief of Navy](#Chief_of_Navy)
-*   [8 Chief of Air Force](#Chief_of_Air_Force)
+## Contents
+
+- [1 Foreign Minister](#Foreign_Minister)
+- [2 Armaments Minister](#Armaments_Minister)
+- [3 Minister of Security](#Minister_of_Security)
+- [4 Minister of Intelligence (HoI2) / Head of Military Intelligence (Doomsday, Armageddon)](#Minister_of_Intelligence_.28HoI2.29_.2F_Head_of_Military_Intelligence_.28Doomsday.2C_Armageddon.29)
+- [5 Chief of Staff](#Chief_of_Staff)
+- [6 Chief of Army](#Chief_of_Army)
+- [7 Chief of Navy](#Chief_of_Navy)
+- [8 Chief of Air Force](#Chief_of_Air_Force)
 
 #### Foreign Minister
 

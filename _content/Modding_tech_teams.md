@@ -1,33 +1,31 @@
 ---
 title: Modding_tech_teams
 ---
- Contents
---------
 
-*   [1 Introduction](#Introduction)
-*   [2 Basic Structure](#Basic_Structure)
-    *   [2.1 ID](#ID)
-    *   [2.2 Name](#Name)
-    *   [2.3 Picture](#Picture)
-    *   [2.4 Skill level](#Skill_level)
-    *   [2.5 Start and Endyear](#Start_and_Endyear)
-    *   [2.6 Specialities](#Specialities)
+## Contents
 
-Introduction
-------------
+- [1 Introduction](#Introduction)
+- [2 Basic Structure](#Basic_Structure)
+  - [2.1 ID](#ID)
+  - [2.2 Name](#Name)
+  - [2.3 Picture](#Picture)
+  - [2.4 Skill level](#Skill_level)
+  - [2.5 Start and Endyear](#Start_and_Endyear)
+  - [2.6 Specialities](#Specialities)
+
+## Introduction
 
 One of the most interesting new features in HoI2 is the new research system and one integral part of this are the tech teams. They outline the historical strengths and weaknesses of a country and add a lot of flavour. In best Paradox tradition they are totally modable.
 
 You can find the tech team files in the _/db/tech/teams/_ subfolder. They are saved in Paradox' usual csv format and can be easily edited with a text editor or Excel.
 
-Basic Structure
----------------
+## Basic Structure
 
 The first line in each file isn't of much interest, only the country tag needs to be adapted to the country you are currently working on. The following lines list the tech teams.
 
 Example:
 
-314;Supermarine;T314;9;1930;1970;aeronautics;technical\_efficiency;artillery;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x 
+314;Supermarine;T314;9;1930;1970;aeronautics;technical_efficiency;artillery;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
 
 ### ID
 
@@ -55,7 +53,7 @@ The next columns are filled with the [component types](/wiki/List_of_Component_T
 
 When you are making new research teams for an unmodded tech tree you should notice a few things:
 
-*   Technical\_efficiency is a very potent specialization as it is used for ships, tanks and aircraft and is almost always of a relatively high difficulty and double time so that it counts as much for this tech as two normal matching specializations.
-*   Electronics is used for a lot of stuff, including almost every single vehicle, ship and aircraft. Giving a team electronics and technical\_efficiency should be well considered as it will often make the team the best one for all three of these vital parts of the tech tree.
+- Technical_efficiency is a very potent specialization as it is used for ships, tanks and aircraft and is almost always of a relatively high difficulty and double time so that it counts as much for this tech as two normal matching specializations.
+- Electronics is used for a lot of stuff, including almost every single vehicle, ship and aircraft. Giving a team electronics and technical_efficiency should be well considered as it will often make the team the best one for all three of these vital parts of the tech tree.
 
 As a final point, be sure to add an blank new line by pressing enter if you are using a text editor. Otherwise the game will not recognize your new tech team.

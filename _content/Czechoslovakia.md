@@ -1,11 +1,12 @@
 ---
 title: Czechoslovakia
 ---
- [Country guides](/wiki/Country_guides "Country guides")
+
+[Country guides](/wiki/Country_guides "Country guides")
 
 [Major powers](/wiki/Major_power "Major power")
 
-* * *
+---
 
 [France](/wiki/France "France")  
 [Germany](/wiki/Germany "Germany")  
@@ -17,7 +18,7 @@ title: Czechoslovakia
 
 Regional powers
 
-* * *
+---
 
 [Argentina](/wiki/Argentina "Argentina")  
 [Australia](/wiki/Australia "Australia")  
@@ -41,7 +42,7 @@ Czechoslovakia
 
 [Minor powers](/wiki/Minor_power "Minor power")
 
-* * *
+---
 
 [Austria](/wiki/Austria "Austria")  
 [Chile](/wiki/index.php?title=Chile&action=edit&redlink=1 "Chile (page does not exist)")  
@@ -60,7 +61,7 @@ Czechoslovakia
 
 [Micro powers](/wiki/Micro_power "Micro power")
 
-* * *
+---
 
 [Afghanistan](/wiki/Afghanistan "Afghanistan")  
 [Albania](/wiki/Albania "Albania")  
@@ -106,17 +107,11 @@ If you enjoy playing a reasonably powerful Axis minor nation – or if you prefe
 
 Unless noted elsewhere by later contributors, these strategy sections were playtested with the Armageddon v 1.3 Beta (the Jan 15 2009 build, checksum DVJN). These strategies may not be applicable with earlier and later builds of the software.
 
-  
-
-Standard Strategy Options
--------------------------
+## Standard Strategy Options
 
 When playing Czechoslovakia in the 1936 or 1938 scenarios, Germany will almost always press for the return of the Sudetenland (Czechoslovakia’s western hill provinces). The Treaty of Munich event (September 30, 1938) will allow Czechoslovakia to either surrender them and hope for the best (never a good option), defy Germany (and very likely go to war immediately), or instead ally with Germany outright and become an Axis minor nation (while keeping the Sudetenland). If Austria has been annexed by the Reich then Germany all but surrounds Czechoslovakia. War at this point would be difficult to say the least. But, with help from the allies and an AI-controlled Germany, there is always some measure of hope that Czechoslovakia will prevail. That is, at least until Hungary and Rumania join the Axis. In any case if Czechoslovakia defies Hitler and falls, take comfort in knowing Czechoslovakia was defeated with its honor intact.
 
-  
-
-Eye of the Storm: A Defiant Czechoslovakian Strategy (1936 Scenario)
---------------------------------------------------------------------
+## Eye of the Storm: A Defiant Czechoslovakian Strategy (1936 Scenario)
 
 If you have no interest in becoming an Axis lapdog, the best way for Czechoslovakia to prevail is to take charge of the political situation in Europe before Germany has a chance to. Hitler will be in no position to assert the Treaty of Munich if Germany is at war (the event simply won’t take place). Since no one else is going to declare war on Germany before September 1938, Czechoslovakia will have to shoulder that burden themselves. As suicidal as that may sound, it gets worse: Hungary and Austria will have to be dealt with as well. (Both of them are likely to ally with Germany when the fighting starts, and fighting around Czechoslovakia's entire periphery will be impossible to sustain. Better to deal with the little powers first and shorten Czechoslovakia's lines before Germany joins the fray.)
 

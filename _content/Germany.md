@@ -1,42 +1,39 @@
 ---
 title: Germany
 ---
+
  <table class="metadata plainlinks ambox ambox-move" style=""><tbody><tr><td class="mbox-image"><div style="width: 52px;"><img alt="Merge-arrows.gif" data-file-height="20" data-file-width="50" data-url="https://central.paradoxwikis.com/images/8/8b/Merge-arrows.gif" decoding="async" height="20" loading="lazy" src="https://central.paradoxwikis.com/images/8/8b/Merge-arrows.gif" width="50"></div></td><td class="mbox-text" style=""><b><a class="external text" href="https://hoi2.paradoxwikis.com/index.php?title=Germany&amp;action=edit" rel="nofollow">This </a>article is a candidate to be <a href="/wiki/Template:Merge" title="Template:Merge">merged </a>with <a href="/wiki/Germany_Strategy_Guide" title="Germany Strategy Guide">Germany Strategy Guide </a>.</b><br><small>Please help to improve the wiki by taking part in the <a class="new" href="/wiki/index.php?title=Talk:Germany&amp;action=edit&amp;redlink=1" title="Talk:Germany (page does not exist)">discussion </a>of the proposed merger.</small></td></tr></tbody></table>
 
 **Germany** is a [major power](/wiki/Major_power "Major power") in almost every scenario, and is the leader of the [Axis](/wiki/Axis "Axis") powers. Germany is the most powerful of the traditional Axis countries and is also the most commonly played.
 
-Contents
---------
+## Contents
 
-*   [1 Overview](#Overview)
-*   [2 Territory](#Territory)
-*   [3 Resources](#Resources)
-    *   [3.1 Natural resources](#Natural_resources)
-    *   [3.2 Industry](#Industry)
-    *   [3.3 Infrastructure](#Infrastructure)
-*   [4 Military](#Military)
-    *   [4.1 Static defenses](#Static_defenses)
-    *   [4.2 Army](#Army)
-    *   [4.3 Air Force](#Air_Force)
-    *   [4.4 Navy](#Navy)
-*   [5 Technology](#Technology)
-*   [6 Diplomacy](#Diplomacy)
-*   [7 Domestic](#Domestic)
+- [1 Overview](#Overview)
+- [2 Territory](#Territory)
+- [3 Resources](#Resources)
+  - [3.1 Natural resources](#Natural_resources)
+  - [3.2 Industry](#Industry)
+  - [3.3 Infrastructure](#Infrastructure)
+- [4 Military](#Military)
+  - [4.1 Static defenses](#Static_defenses)
+  - [4.2 Army](#Army)
+  - [4.3 Air Force](#Air_Force)
+  - [4.4 Navy](#Navy)
+- [5 Technology](#Technology)
+- [6 Diplomacy](#Diplomacy)
+- [7 Domestic](#Domestic)
 
-Overview
---------
+## Overview
 
 For strategic guidance for playing Germany, see the [Germany Strategy Guide](/wiki/Germany_Strategy_Guide "Germany Strategy Guide") .
 
-Territory
----------
+## Territory
 
 Germany begins with a dominant territorial position in Central Europe.
 
-*   **Capital:** [Berlin](/wiki/index.php?title=Berlin&action=edit&redlink=1 "Berlin (page does not exist)")
+- **Capital:** [Berlin](/wiki/index.php?title=Berlin&action=edit&redlink=1 "Berlin (page does not exist)")
 
-Resources
----------
+## Resources
 
 Germany is strong in most resources with a couple of notable exceptions.
 
@@ -62,8 +59,7 @@ Airbases are maintained throughout the country, although the number of full size
 
 Naval facilities are quite good for such limited coastline, with two full size ports facing the [North Sea](/wiki/index.php?title=North_Sea&action=edit&redlink=1 "North Sea (page does not exist)") at [Kiel](/wiki/index.php?title=Kiel&action=edit&redlink=1 "Kiel (page does not exist)") and [Wilhelmshaven](/wiki/index.php?title=Wilhelmshaven&action=edit&redlink=1 "Wilhelmshaven (page does not exist)") , and two further full size harbors at [Rostock](/wiki/index.php?title=Rostock&action=edit&redlink=1 "Rostock (page does not exist)") and [Konigsberg](/wiki/index.php?title=Konigsberg&action=edit&redlink=1 "Konigsberg (page does not exist)") on the [Baltic Sea](/wiki/index.php?title=Baltic_Sea&action=edit&redlink=1 "Baltic Sea (page does not exist)") .
 
-Military
---------
+## Military
 
 Germany has a capable military in 1936. It is only of moderate size, with little advanced equipment, but all infantry are to current standard, and organization levels are very high for the period. The navy is incapable of substantial operations at this stage, but the air force is ready to begin supporting the army.
 
@@ -95,8 +91,7 @@ Germany also has the seeds of a [submarine](/wiki/Submarine "Submarine") force, 
 
 Underway production will add another improved heavy cruiser, an early destroyer flotilla, and a short-range submarine flotilla to the fleet within the first three months of 1936.
 
-Technology
-----------
+## Technology
 
 Germany has some strengths technologically, and has great research teams to give it the edge in other areas. The money to pay for the teams should be available in most circumstances as long as things don't turn to badly against Germany.
 
@@ -114,22 +109,20 @@ German operational doctrines are very well advanced for all branches, compared t
 
 For information of research teams, see [research teams of Germany](/wiki/index.php?title=Research_teams_of_Germany&action=edit&redlink=1 "Research teams of Germany (page does not exist)")
 
-Diplomacy
----------
+## Diplomacy
 
 Germany is not in a strong position diplomatically. As leader of the [Axis](/wiki/Axis "Axis") , she is currently alone, with even like-minded nations such as [Italy](/wiki/Italy "Italy") not wanting to ally. Meanwhile, most of her actions will sour relations with the western powers and possibly the Soviets as well if she is not careful. Germany has only minor diplomatic agreements in place in 1936:
 
-*   **[Non-agression pacts](/wiki/index.php?title=Non-agression_pact&action=edit&redlink=1 "Non-agression pact (page does not exist)")** : [Soviet Union](/wiki/Soviet_Union "Soviet Union") , [Poland](/wiki/Poland "Poland") , [Austria](/wiki/Austria "Austria") , [Turkey](/wiki/Turkey "Turkey")
-*   **[Independence guarantees](/wiki/index.php?title=Independence_guarantee&action=edit&redlink=1 "Independence guarantee (page does not exist)") to** : [Italy](/wiki/Italy "Italy") , [Sweden](/wiki/Sweden "Sweden") , [Turkey](/wiki/Turkey "Turkey") , [Poland](/wiki/Poland "Poland") , [Denmark](/wiki/Denmark "Denmark") , [Switzerland](/wiki/Switzerland "Switzerland") , [Bulgaria](/wiki/Bulgaria "Bulgaria") , [Yugoslavia](/wiki/Yugoslavia "Yugoslavia") , [Romania](/wiki/Romania "Romania") , [Austria](/wiki/Austria "Austria") , [Czechoslovakia](/wiki/Czechoslovakia "Czechoslovakia") , [Finland](/wiki/Finland "Finland")
-*   **[Territorial claims](/wiki/index.php?title=Territorial_claim&action=edit&redlink=1 "Territorial claim (page does not exist)") on** : [France](/wiki/France "France") , [Luxembourg](/wiki/index.php?title=Luxembourg&action=edit&redlink=1 "Luxembourg (page does not exist)")
-*   **[Trade agreements](/wiki/index.php?title=Trade_agreement&action=edit&redlink=1 "Trade agreement (page does not exist)")** :
-    *   [Soviet Union](/wiki/Soviet_Union "Soviet Union") : 3 [supplies](/wiki/index.php?title=Supplies&action=edit&redlink=1 "Supplies (page does not exist)") for 10 [oil](/wiki/index.php?title=Oil&action=edit&redlink=1 "Oil (page does not exist)") , 2 [metal](/wiki/index.php?title=Metal&action=edit&redlink=1 "Metal (page does not exist)") , 4 rare; 5 supplies for 13 oil
-    *   [Netherlands](/wiki/Netherlands "Netherlands") : 1 supplies and 12 energy for 3 metal and 4 rare
-    *   [Italy](/wiki/Italy "Italy") : 20 energy for 2 supplies
-    *   [Sweden](/wiki/Sweden "Sweden") : 8 energy for 4 metal
+- **[Non-agression pacts](/wiki/index.php?title=Non-agression_pact&action=edit&redlink=1 "Non-agression pact (page does not exist)")** : [Soviet Union](/wiki/Soviet_Union "Soviet Union") , [Poland](/wiki/Poland "Poland") , [Austria](/wiki/Austria "Austria") , [Turkey](/wiki/Turkey "Turkey")
+- **[Independence guarantees](/wiki/index.php?title=Independence_guarantee&action=edit&redlink=1 "Independence guarantee (page does not exist)") to** : [Italy](/wiki/Italy "Italy") , [Sweden](/wiki/Sweden "Sweden") , [Turkey](/wiki/Turkey "Turkey") , [Poland](/wiki/Poland "Poland") , [Denmark](/wiki/Denmark "Denmark") , [Switzerland](/wiki/Switzerland "Switzerland") , [Bulgaria](/wiki/Bulgaria "Bulgaria") , [Yugoslavia](/wiki/Yugoslavia "Yugoslavia") , [Romania](/wiki/Romania "Romania") , [Austria](/wiki/Austria "Austria") , [Czechoslovakia](/wiki/Czechoslovakia "Czechoslovakia") , [Finland](/wiki/Finland "Finland")
+- **[Territorial claims](/wiki/index.php?title=Territorial_claim&action=edit&redlink=1 "Territorial claim (page does not exist)") on** : [France](/wiki/France "France") , [Luxembourg](/wiki/index.php?title=Luxembourg&action=edit&redlink=1 "Luxembourg (page does not exist)")
+- **[Trade agreements](/wiki/index.php?title=Trade_agreement&action=edit&redlink=1 "Trade agreement (page does not exist)")** :
+  - [Soviet Union](/wiki/Soviet_Union "Soviet Union") : 3 [supplies](/wiki/index.php?title=Supplies&action=edit&redlink=1 "Supplies (page does not exist)") for 10 [oil](/wiki/index.php?title=Oil&action=edit&redlink=1 "Oil (page does not exist)") , 2 [metal](/wiki/index.php?title=Metal&action=edit&redlink=1 "Metal (page does not exist)") , 4 rare; 5 supplies for 13 oil
+  - [Netherlands](/wiki/Netherlands "Netherlands") : 1 supplies and 12 energy for 3 metal and 4 rare
+  - [Italy](/wiki/Italy "Italy") : 20 energy for 2 supplies
+  - [Sweden](/wiki/Sweden "Sweden") : 8 energy for 4 metal
 
-Domestic
---------
+## Domestic
 
 Germany begins with a mixed bag of leaders, but with its political sliders set for hawkish authoritarian rule.
 

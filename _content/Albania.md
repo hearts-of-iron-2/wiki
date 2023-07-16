@@ -1,11 +1,12 @@
 ---
 title: Albania
 ---
- [Country guides](/wiki/Country_guides "Country guides")
+
+[Country guides](/wiki/Country_guides "Country guides")
 
 [Major powers](/wiki/Major_power "Major power")
 
-* * *
+---
 
 [France](/wiki/France "France")  
 [Germany](/wiki/Germany "Germany")  
@@ -17,7 +18,7 @@ title: Albania
 
 Regional powers
 
-* * *
+---
 
 [Argentina](/wiki/Argentina "Argentina")  
 [Australia](/wiki/Australia "Australia")  
@@ -41,7 +42,7 @@ Regional powers
 
 [Minor powers](/wiki/Minor_power "Minor power")
 
-* * *
+---
 
 [Austria](/wiki/Austria "Austria")  
 [Chile](/wiki/index.php?title=Chile&action=edit&redlink=1 "Chile (page does not exist)")  
@@ -60,7 +61,7 @@ Regional powers
 
 [Micro powers](/wiki/Micro_power "Micro power")
 
-* * *
+---
 
 [Afghanistan](/wiki/Afghanistan "Afghanistan")  
 Albania  
@@ -102,15 +103,11 @@ Albania
 [Yemen](/wiki/index.php?title=Yemen&action=edit&redlink=1 "Yemen (page does not exist)")  
 [Yunnan](/wiki/Yunnan "Yunnan")
 
-Background
-----------
+## Background
 
 **Albania** is a small country, 2 provinces, no army at all, no ability to produce one, and of course -30 manpower. They have about 15 leaders for their army, 5 for their airforce, and 4 for their navy. You are also definitely gonna get attacked by Italy.
 
-  
-
-1936-1939
----------
+## 1936-1939
 
 **Technology** You should focus on manpower. Agriculture and so on. '36 INF divisions are good too. I suggest you get to the third agri technology as fast as possible. This should be done by 1938, so you will gain ~0.06 manpower a day. Good progress, as you had 0.03 a day.
 

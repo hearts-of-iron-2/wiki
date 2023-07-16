@@ -1,27 +1,26 @@
 ---
 title: Partisan_and_Dissent_FAQ
 ---
- Contents
---------
 
-*   [1 Partisan and Dissent](#Partisan_and_Dissent)
-    *   [1.1 Why do I have a high dissent level?](#Why_do_I_have_a_high_dissent_level.3F)
-    *   [1.2 How to reduce dissent?](#How_to_reduce_dissent.3F)
-    *   [1.3 How to reduce partisan level?](#How_to_reduce_partisan_level.3F)
-    *   [1.4 Will occupied/annexed non national provinces have 0% partisan level?](#Will_occupied.2Fannexed_non_national_provinces_have_0.25_partisan_level.3F)
-    *   [1.5 Will occupied/annexed provinces ever reach 0% partisan level?, and stay there without any units nearby?](#Will_occupied.2Fannexed_provinces_ever_reach_0.25_partisan_level.3F.2C_and_stay_there_without_any_units_nearby.3F)
+## Contents
 
-Partisan and Dissent
-====================
+- [1 Partisan and Dissent](#Partisan_and_Dissent)
+  - [1.1 Why do I have a high dissent level?](#Why_do_I_have_a_high_dissent_level.3F)
+  - [1.2 How to reduce dissent?](#How_to_reduce_dissent.3F)
+  - [1.3 How to reduce partisan level?](#How_to_reduce_partisan_level.3F)
+  - [1.4 Will occupied/annexed non national provinces have 0% partisan level?](#Will_occupied.2Fannexed_non_national_provinces_have_0.25_partisan_level.3F)
+  - [1.5 Will occupied/annexed provinces ever reach 0% partisan level?, and stay there without any units nearby?](#Will_occupied.2Fannexed_provinces_ever_reach_0.25_partisan_level.3F.2C_and_stay_there_without_any_units_nearby.3F)
+
+# Partisan and Dissent
 
 ### Why do I have a high dissent level?
 
 Some of the causes:
 
-*   Not enough consumer goods allocated
-*   Event effect
-*   Change of minister
-*   Not enough supply
+- Not enough consumer goods allocated
+- Event effect
+- Change of minister
+- Not enough supply
 
 ### How to reduce dissent?
 

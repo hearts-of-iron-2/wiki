@@ -1,44 +1,42 @@
 ---
 title: Tag_List
 ---
- As of the Armageddon 1.0a patch.
 
-*   _Italic_ tags were brought from HoI1
-*   **Bold** tags are Armageddon's fictional countries  
-    
+As of the Armageddon 1.0a patch.
 
-Contents
---------
+- _Italic_ tags were brought from HoI1
+- **Bold** tags are Armageddon's fictional countries
 
-*   [1 A (13 tags)](#A_.2813_tags.29)
-*   [2 B (10 tags)](#B_.2810_tags.29)
-*   [3 C (19 tags)](#C_.2819_tags.29)
-*   [4 D (4 tags)](#D_.284_tags.29)
-*   [5 E (8 tags)](#E_.288_tags.29)
-*   [6 F (3 tags)](#F_.283_tags.29)
-*   [7 G (8 tags)](#G_.288_tags.29)
-*   [8 H (4 tags)](#H_.284_tags.29)
-*   [9 I (8 tags)](#I_.288_tags.29)
-*   [10 J (2 tags)](#J_.282_tags.29)
-*   [11 K (4 tags)](#K_.284_tags.29)
-*   [12 L (7 tags)](#L_.287_tags.29)
-*   [13 M (11 tags)](#M_.2811_tags.29)
-*   [14 N (6 tags)](#N_.286_tags.29)
-*   [15 O (2 tags)](#O_.282_tags.29)
-*   [16 P (11 tags)](#P_.2811_tags.29)
-*   [17 Q (1 tag)](#Q_.281_tag.29)
-*   [18 R (4 tags)](#R_.284_tags.29)
-*   [19 S (21 tags)](#S_.2821_tags.29)
-*   [20 T (8 tags)](#T_.288_tags.29)
-*   [21 U (22 tags)](#U_.2822_tags.29)
-*   [22 V (3 tags)](#V_.283_tags.29)
-*   [23 W (1 tag)](#W_.281_tag.29)
-*   [24 Y (2 tags)](#Y_.282_tags.29)
-*   [25 User Defined (20 tags)](#User_Defined_.2820_tags.29)
-*   [26 All in a row (179 tags)](#All_in_a_row_.28179_tags.29)
+## Contents
 
-A (13 tags)
-===========
+- [1 A (13 tags)](#A_.2813_tags.29)
+- [2 B (10 tags)](#B_.2810_tags.29)
+- [3 C (19 tags)](#C_.2819_tags.29)
+- [4 D (4 tags)](#D_.284_tags.29)
+- [5 E (8 tags)](#E_.288_tags.29)
+- [6 F (3 tags)](#F_.283_tags.29)
+- [7 G (8 tags)](#G_.288_tags.29)
+- [8 H (4 tags)](#H_.284_tags.29)
+- [9 I (8 tags)](#I_.288_tags.29)
+- [10 J (2 tags)](#J_.282_tags.29)
+- [11 K (4 tags)](#K_.284_tags.29)
+- [12 L (7 tags)](#L_.287_tags.29)
+- [13 M (11 tags)](#M_.2811_tags.29)
+- [14 N (6 tags)](#N_.286_tags.29)
+- [15 O (2 tags)](#O_.282_tags.29)
+- [16 P (11 tags)](#P_.2811_tags.29)
+- [17 Q (1 tag)](#Q_.281_tag.29)
+- [18 R (4 tags)](#R_.284_tags.29)
+- [19 S (21 tags)](#S_.2821_tags.29)
+- [20 T (8 tags)](#T_.288_tags.29)
+- [21 U (22 tags)](#U_.2822_tags.29)
+- [22 V (3 tags)](#V_.283_tags.29)
+- [23 W (1 tag)](#W_.281_tag.29)
+- [24 Y (2 tags)](#Y_.282_tags.29)
+- [25 User Defined (20 tags)](#User_Defined_.2820_tags.29)
+- [26 All in a row (179 tags)](#All_in_a_row_.28179_tags.29)
+
+# A (13 tags)
 
 AFG - Afghanistan  
 ALB - Albania  
@@ -52,10 +50,9 @@ ARM - Armenia
 AST - [Australia](/wiki/Australia "Australia")  
 AUS - Austria  
 _AXI - The Axis - (this won't work with events, tested in DD v1.2)_  
-AZB - Azerbaijan  
+AZB - Azerbaijan
 
-B (10 tags)
-===========
+# B (10 tags)
 
 BEL - Belgium  
 _BEN - Benin-Sahel_  
@@ -66,10 +63,9 @@ _BOS - Bosnia_
 BRA - Brazil  
 BRU - Brunei  
 BUL - Bulgaria  
-BUR - Burma  
+BUR - Burma
 
-C (19 tags)
-===========
+# C (19 tags)
 
 _CAL - California_  
 _CAM - Cameroon_  
@@ -89,18 +85,16 @@ CUB - Cuba
 _CXB - Xibei San Ma_  
 _CYN - Yunnan_  
 _CYP - Cyprus_  
-CZE - Czechoslovakia  
+CZE - Czechoslovakia
 
-D (4 tags)
-==========
+# D (4 tags)
 
 _DDR - DDR_  
 DEN - Denmark  
 _DFR - FRG_  
-DOM - Dominican Republic  
+DOM - Dominican Republic
 
-E (8 tags)
-==========
+# E (8 tags)
 
 _EAF - East African Union_  
 ECU - Ecuador  
@@ -109,17 +103,15 @@ ENG - United Kingdom
 _EQA - Equatorial Africa_  
 EST - Estonia  
 ETH - Ethiopia  
-_EUS - Euskadi_  
+_EUS - Euskadi_
 
-F (3 tags)
-==========
+# F (3 tags)
 
 FIN - Finland  
 _FLA - Flanders_  
-FRA - France  
+FRA - France
 
-G (8 tags)
-==========
+# G (8 tags)
 
 _GAB - Gabon_  
 GEO - Georgia  
@@ -128,18 +120,16 @@ _GLD - Gold Coast_
 GRE - Greece  
 GUA - Guatemala  
 _GUI - Guinea_  
-_GUY - Guyana_  
+_GUY - Guyana_
 
-H (4 tags)
-==========
+# H (4 tags)
 
 HAI - Haiti  
 HOL - Netherlands  
 HON - Honduras  
-HUN - Hungary  
+HUN - Hungary
 
-I (8 tags)
-==========
+# I (8 tags)
 
 ICL - Iceland  
 IDC - [Indochina](/wiki/Indochina "Indochina")  
@@ -148,24 +138,21 @@ INO - Indonesia
 IRE - Ireland  
 IRQ - Iraq  
 _ISR - Israel_  
-ITA - Italy  
+ITA - Italy
 
-J (2 tags)
-==========
+# J (2 tags)
 
 JAP - Japan  
-JOR - Jordan  
+JOR - Jordan
 
-K (4 tags)
-==========
+# K (4 tags)
 
 KAZ - Kazakhstan  
 KOR - Korea  
 _KUR - Kurdistan_  
-KYG - Kyrgyzstan  
+KYG - Kyrgyzstan
 
-L (7 tags)
-==========
+# L (7 tags)
 
 _LAO - [Laos](/wiki/Laos "Laos")_  
 LAT - Latvia  
@@ -173,10 +160,9 @@ LBY - Libya
 LEB - Lebanon  
 LIB - Liberia  
 LIT - Lithuania  
-LUX - Luxemburg  
+LUX - Luxemburg
 
-M (11 tags)
-===========
+# M (11 tags)
 
 _MAD - [Madagascar](/wiki/Madagascar "Madagascar")_  
 _MAL - Union of Mali_  
@@ -188,26 +174,23 @@ MLY - Malaysia
 MON - Mongolia  
 MOR - Morocco  
 _MOZ - Mozambique_  
-MTN - Montenegro  
+MTN - Montenegro
 
-N (6 tags)
-==========
+# N (6 tags)
 
 _NAM - Namibia_  
 NEP - Nepal  
 NIC - Nicaragua  
 _NIG - Nigeria_  
 NOR - Norway  
-NZL - New Zealand  
+NZL - New Zealand
 
-O (2 tags)
-==========
+# O (2 tags)
 
 OMN - Oman  
-_OTT - Ottoman Empire_  
+_OTT - Ottoman Empire_
 
-P (11 tags)
-===========
+# P (11 tags)
 
 _PAK - Pakistan_  
 PAL - Palestine  
@@ -219,23 +202,20 @@ POL - Poland
 POR - Portugal  
 _PRI - Primorsk_  
 _PRK - People's Republic of Korea_  
-PRU - Peru  
+PRU - Peru
 
-Q (1 tag)
-=========
+# Q (1 tag)
 
 _QUE - Quebec_
 
-R (4 tags)
-==========
+# R (4 tags)
 
 _RHO - Rhodesia_  
 ROM - Romania  
 _RSI - Italian Social Republic_  
-RUS - Russia  
+RUS - Russia
 
-S (21 tags)
-===========
+# S (21 tags)
 
 SAF - South Africa  
 SAL - El Salvador  
@@ -257,10 +237,9 @@ SPA - Nationalist Spain
 SPR - Republican Spain  
 _SUD - Sudan_  
 SWE - Sweden  
-SYR - Syria  
+SYR - Syria
 
-T (8 tags)
-==========
+# T (8 tags)
 
 TAJ - Tajikistan  
 TAN - [Tannu Tuva](/wiki/Tannu_Tuva "Tannu Tuva")  
@@ -269,10 +248,9 @@ TIB - Tibet
 _TRA - Transural Republic_  
 TRK - Turkmenistan  
 TUN - Tunisia  
-TUR - Turkey  
+TUR - Turkey
 
-U (22 tags)
-===========
+# U (22 tags)
 
 **UAP - APR**  
 **UAU - Australasia**  
@@ -295,38 +273,33 @@ USA - USA
 **UTC - The Cossacks**  
 **UTL - The Libertadores**  
 **UTO - The Ottomans**  
-UZB - Uzbekistan  
+UZB - Uzbekistan
 
-V (3 tags)
-==========
+# V (3 tags)
 
 VEN - Venezuela  
 VIC - Vichy France  
-_VIE - Vietnam_  
+_VIE - Vietnam_
 
-W (1 tag)
-=========
+# W (1 tag)
 
 _WLL - Wallonia_
 
-Y (2 tags)
-==========
+# Y (2 tags)
 
 YEM - Yemen  
 YUG - Yugoslavia
 
-User Defined (20 tags)
-======================
+# User Defined (20 tags)
 
-U00, U01, U02, U03, U04, U05, U06, U07, U08, U09, U10, U11, U12, U13, U14, U15, U16, U17, U18, U19  
-  
+U00, U01, U02, U03, U04, U05, U06, U07, U08, U09, U10, U11, U12, U13, U14, U15, U16, U17, U18, U19
+
 184 Tags in Total
 
-All in a row (179 tags)
-=======================
+# All in a row (179 tags)
 
-(except Userdefiend, Aliens, Axis and Allies)  
-  
+(except Userdefiend, Aliens, Axis and Allies)
+
 AFG,Afghanistan  
 ALB,Albania  
 ALG,Algeria  

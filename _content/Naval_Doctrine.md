@@ -1,48 +1,46 @@
 ---
 title: Naval_Doctrine
 ---
- **Naval Doctrine**
+
+**Naval Doctrine**
 
 Your Naval Doctrine influences your naval combat, it determines what kind of fleet you'll want to build and how you'll want to use it.
 
-Contents
---------
+## Contents
 
-*   [1 Doctrine Overview](#Doctrine_Overview)
-*   [2 Doctrine Summaries](#Doctrine_Summaries)
-    *   [2.1 Sealane Interdiction](#Sealane_Interdiction)
-    *   [2.2 Fleet In Being](#Fleet_In_Being)
-    *   [2.3 Base Strike](#Base_Strike)
-*   [3 Abandoning Your Doctrine](#Abandoning_Your_Doctrine)
-    *   [3.1 Germany](#Germany)
-    *   [3.2 Italy](#Italy)
-    *   [3.3 UK](#UK)
-*   [4 Doctrine Trees in Depth](#Doctrine_Trees_in_Depth)
-    *   [4.1 Sealane Interdiction](#Sealane_Interdiction_2)
-    *   [4.2 Fleet In Being](#Fleet_In_Being_2)
-    *   [4.3 Base Strike](#Base_Strike_2)
+- [1 Doctrine Overview](#Doctrine_Overview)
+- [2 Doctrine Summaries](#Doctrine_Summaries)
+  - [2.1 Sealane Interdiction](#Sealane_Interdiction)
+  - [2.2 Fleet In Being](#Fleet_In_Being)
+  - [2.3 Base Strike](#Base_Strike)
+- [3 Abandoning Your Doctrine](#Abandoning_Your_Doctrine)
+  - [3.1 Germany](#Germany)
+  - [3.2 Italy](#Italy)
+  - [3.3 UK](#UK)
+- [4 Doctrine Trees in Depth](#Doctrine_Trees_in_Depth)
+  - [4.1 Sealane Interdiction](#Sealane_Interdiction_2)
+  - [4.2 Fleet In Being](#Fleet_In_Being_2)
+  - [4.3 Base Strike](#Base_Strike_2)
 
-Doctrine Overview
------------------
+## Doctrine Overview
 
 Naval Doctrine effects:
 
-*   Organisation and Morale values.
-*   Convoy Raiding and Convoy Escort efficiency.
-*   ASW efficiency.
-*   CV strike efficiency.
-*   [Positioning](/wiki/Positioning "Positioning") . This value is critically important, check out the Naval Primer for further explanation.
+- Organisation and Morale values.
+- Convoy Raiding and Convoy Escort efficiency.
+- ASW efficiency.
+- CV strike efficiency.
+- [Positioning](/wiki/Positioning "Positioning") . This value is critically important, check out the Naval Primer for further explanation.
 
 There are 3 Naval Doctrine trees available, and they are in no way equal.
 
-*   Germany practices Sealane Interdiction (SLI).
-*   Britain, France, Italy, Australia, Canada, Netherlands, South Africa and the SU starts with Fleet In Being (FIB).
-*   The US and Japan go for Base Strike (BS...).
+- Germany practices Sealane Interdiction (SLI).
+- Britain, France, Italy, Australia, Canada, Netherlands, South Africa and the SU starts with Fleet In Being (FIB).
+- The US and Japan go for Base Strike (BS...).
 
 While each tech tree excels in a certain area, it is quite clear that BS > FIB > SLI whatever you want to do. Gaining naval superiority is always better than working around it.
 
-Doctrine Summaries
-------------------
+## Doctrine Summaries
 
 ### [Sealane Interdiction](/wiki/Sealane_Interdiction "Sealane Interdiction")
 
@@ -60,8 +58,7 @@ Base Strike is the longest and most powerful of the three tech trees. It focuses
 
 Note that even though Carriers receive snow, rain and misc bonuses, this will not make them effective in bad weather. They are still sitting ducks when it's snowing.
 
-Abandoning Your Doctrine
-------------------------
+## Abandoning Your Doctrine
 
 It is usually best for you to stay where you are. But if you decide switch, you should obviously switch to Base Strike.
 
@@ -77,32 +74,31 @@ Your tech teams are disastrous, but their expertises are somewhat useful in FIB.
 
 You start with an awesome fleet of battleships, and you're not likely to lose a naval battle against Germany or Italy anyway. The ASW and escorting bonus could help a lot too. The UK gets a nice BS tech team in 1943, and can hope to get blueprints from the US as well. You should consider switching if you're planning to move against the US later in the game, or maybe if a super Japan emerges through some weird twist of fate.
 
-Doctrine Trees in Depth
------------------------
+## Doctrine Trees in Depth
 
 ### Sealane Interdiction
 
-| Year | Org | Morale | Raiding | Escort | CV Strike | ASW | SS | CV | BB | BC | CA | CL | DD |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1939 | 20 | 20 | 25 | 0 | 0 | 0 | 30(5) | 0 | 10 | 10 | 20 | 20 | 15 |
-| 1940 | 50 | 70 | 50 | 0 | 10 | 0 | 40(10) | 5 | 30(5) | 30(5) | 30 | 30 | 20 |
-| 1942 | 50 | 70 | 50 | 0 | 10 | 0 | 50(15) | 5 | 30(5) | 30(5) | 30 | 30 | 20 |
+| Year | Org | Morale | Raiding | Escort | CV Strike | ASW | SS     | CV  | BB    | BC    | CA  | CL  | DD  |
+| ---- | --- | ------ | ------- | ------ | --------- | --- | ------ | --- | ----- | ----- | --- | --- | --- |
+| 1939 | 20  | 20     | 25      | 0      | 0         | 0   | 30(5)  | 0   | 10    | 10    | 20  | 20  | 15  |
+| 1940 | 50  | 70     | 50      | 0      | 10        | 0   | 40(10) | 5   | 30(5) | 30(5) | 30  | 30  | 20  |
+| 1942 | 50  | 70     | 50      | 0      | 10        | 0   | 50(15) | 5   | 30(5) | 30(5) | 30  | 30  | 20  |
 
 ### Fleet In Being
 
-| Year | Org | Morale | Raiding | Escort | CV Strike | ASW | SS | CV | BB | BC | CA | CL | DD |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1939 | 20 | 10 | 0 | 10 | 10 | 10 | 0 | 5 | 30(10) | 30(10) | 20 | 20 | 15 |
-| 1940 | 35 | 20 | 10 | 10 | 20 | 10 | 10 | 15 | 40(10) | 40(10) | 35 | 35 | 25 |
-| 1943 | 50 | 30 | 10 | 50 | 20 | 50 | 10 | 15 | 40(10) | 40(10) | 35 | 35 | 45(5) |
-| 1944 | 70 | 50 | 10 | 50 | 30 | 50 | 10 | 25(10) | 50(10) | 50(10) | 50 | 50 | 50(5) |
+| Year | Org | Morale | Raiding | Escort | CV Strike | ASW | SS  | CV     | BB     | BC     | CA  | CL  | DD    |
+| ---- | --- | ------ | ------- | ------ | --------- | --- | --- | ------ | ------ | ------ | --- | --- | ----- |
+| 1939 | 20  | 10     | 0       | 10     | 10        | 10  | 0   | 5      | 30(10) | 30(10) | 20  | 20  | 15    |
+| 1940 | 35  | 20     | 10      | 10     | 20        | 10  | 10  | 15     | 40(10) | 40(10) | 35  | 35  | 25    |
+| 1943 | 50  | 30     | 10      | 50     | 20        | 50  | 10  | 15     | 40(10) | 40(10) | 35  | 35  | 45(5) |
+| 1944 | 70  | 50     | 10      | 50     | 30        | 50  | 10  | 25(10) | 50(10) | 50(10) | 50  | 50  | 50(5) |
 
 ### Base Strike
 
-| Year | Org | Morale | Raiding | Escort | CV Strike | ASW | SS | CV | BB | BC | CA | CL | DD |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1939 | 15 | 20 | 0 | 0 | 20 | 0 | 0 | 15 | 10 | 10 | 15 | 15 | 15 |
-| 1941 | 35 | 40 | 25 | 10 | 20 | 10 | 30(10) | 30 | 20(5) | 20(5) | 25 | 25 | 30 |
-| 1943 | 50 | 60 | 25 | 40 | 35 | 40 | 30(10) | 40(5) | 30(10) | 30(10) | 40 | 40 | 60 |
-| 1944 | 50 | 60 | 25 | 40 | 45 | 40 | 30(10) | 55(10) | 30(10) | 30(10) | 50 | 50 | 65(5) |
-| 1947 | 50 | 60 | 25 | 40 | 45 | 40 | 30(10) | 65(10) | 30(10) | 30(10) | 50 | 50 | 65(5) |
+| Year | Org | Morale | Raiding | Escort | CV Strike | ASW | SS     | CV     | BB     | BC     | CA  | CL  | DD    |
+| ---- | --- | ------ | ------- | ------ | --------- | --- | ------ | ------ | ------ | ------ | --- | --- | ----- |
+| 1939 | 15  | 20     | 0       | 0      | 20        | 0   | 0      | 15     | 10     | 10     | 15  | 15  | 15    |
+| 1941 | 35  | 40     | 25      | 10     | 20        | 10  | 30(10) | 30     | 20(5)  | 20(5)  | 25  | 25  | 30    |
+| 1943 | 50  | 60     | 25      | 40     | 35        | 40  | 30(10) | 40(5)  | 30(10) | 30(10) | 40  | 40  | 60    |
+| 1944 | 50  | 60     | 25      | 40     | 45        | 40  | 30(10) | 55(10) | 30(10) | 30(10) | 50  | 50  | 65(5) |
+| 1947 | 50  | 60     | 25      | 40     | 45        | 40  | 30(10) | 65(10) | 30(10) | 30(10) | 50  | 50  | 65(5) |

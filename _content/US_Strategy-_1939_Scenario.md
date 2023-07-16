@@ -1,6 +1,7 @@
 ---
 title: US_Strategy-_1939_Scenario
 ---
+
  <table class="metadata plainlinks ambox ambox-style" style=""><tbody><tr><td class="mbox-image"><div style="width: 52px;"><a class="image" href="/wiki/File:Wikitext.png"><img alt="Wikitext.png" data-file-height="20" data-file-width="50" data-url="https://central.paradoxwikis.com/images/2/2f/Wikitext.png" decoding="async" height="20" loading="lazy" src="https://central.paradoxwikis.com/images/2/2f/Wikitext.png" width="50"></a></div></td><td class="mbox-text" style=""><b>This article may need to be formatted <a href="/wiki/Template:Wikify" title="Template:Wikify">following an encyclopedic style </a>.</b><br><small>Please help improve <a class="external text" href="https://hoi2.paradoxwikis.com/index.php?title=US_Strategy-_1939_Scenario&amp;action=edit" rel="nofollow">this </a>article if you can.</small></td></tr></tbody></table>
 
 [Template:NonVanilla](/wiki/index.php?title=Template:NonVanilla&action=edit&redlink=1 "Template:NonVanilla (page does not exist)") [Template:VersionSpecific](/wiki/index.php?title=Template:VersionSpecific&action=edit&redlink=1 "Template:VersionSpecific (page does not exist)") [Template:USAStrategyGuides](/wiki/index.php?title=Template:USAStrategyGuides&action=edit&redlink=1 "Template:USAStrategyGuides (page does not exist)") I am relatively new to HOI2, but since no-one else has done the 1939 scenario, I figured I would give it a whirl. I don't claim to be an expert at the game, and other people may well have different approaches to playing the U.S. that work better. I should mention that I am a military historian in my off-hours. My [book on the battle of Midway](http://www.shatteredswordbook.com/) was published in 2005, and I'm currently working on a new book on the year 1942. As such, I'm reasonably conversant with the macroeconomic issues that drove the war. That knowledge certainly pertains to the development of production strategies, which is what the U.S. is really all about.
@@ -9,22 +10,20 @@ I should also mention that I play using the DAIM (Determined AI Mod) pak, which 
 
 What this inevitably leads to is a reversal of the famous military maxim of "never getting involved in a land war in Asia." It also means setting aside the "Germany first" approach that was the cardinal grand-strategic principle that nominally guided U.S. actions during World War II. As we'll see, though, it is possible to apply this reversed strategy successfully, clean up all of Asia by the fall of 1943, and still be in good shape to turn our attentions to the Germans in 1944.
 
-Contents
---------
+## Contents
 
-*   [1 Strategy for production and research](#Strategy_for_production_and_research)
-    *   [1.1 Pre-War production and research](#Pre-War_production_and_research)
-    *   [1.2 Wartime production and research](#Wartime_production_and_research)
-*   [2 Fighting Japan](#Fighting_Japan)
-    *   [2.1 Defend India](#Defend_India)
-    *   [2.2 Defend the Philippines](#Defend_the_Philippines)
-    *   [2.3 Defend our Pacific holdings](#Defend_our_Pacific_holdings)
-    *   [2.4 Capture the Japanese home islands ASAP](#Capture_the_Japanese_home_islands_ASAP)
-    *   [2.5 The _Fabulous_ ground war in Asia!](#The_Fabulous_ground_war_in_Asia.21)
-*   [3 Fighting Germany](#Fighting_Germany)
+- [1 Strategy for production and research](#Strategy_for_production_and_research)
+  - [1.1 Pre-War production and research](#Pre-War_production_and_research)
+  - [1.2 Wartime production and research](#Wartime_production_and_research)
+- [2 Fighting Japan](#Fighting_Japan)
+  - [2.1 Defend India](#Defend_India)
+  - [2.2 Defend the Philippines](#Defend_the_Philippines)
+  - [2.3 Defend our Pacific holdings](#Defend_our_Pacific_holdings)
+  - [2.4 Capture the Japanese home islands ASAP](#Capture_the_Japanese_home_islands_ASAP)
+  - [2.5 The _Fabulous_ ground war in Asia!](#The_Fabulous_ground_war_in_Asia.21)
+- [3 Fighting Germany](#Fighting_Germany)
 
-Strategy for production and research
-------------------------------------
+## Strategy for production and research
 
 The U.S. has hands-down the most formidable economy in the game, and the U.S. player should use every means available to maximize this advantage. Your goal is to create the basis for economic and logistical superiority before the war begins. Once war starts, you'll rely on very large, long serial runs of good weaponry as the game goes along. Given the vast scientific prowess of the U.S., it is tempting to research and develop every type of weapons system available, and then build a little bit of everything along the way. Historically, though, the U.S. didn't do this, and you shouldn't either. Instead, the U.S. mated its enormous productive resources to the manufacture of a reasonably small set of serviceable hardware, and then churned it out like crazy. This same principle works well in the game, too. Consequently, the U.S. player should not only focus on developing military technologies with a definite strategy in mind, but should also be content with saying that a given branch of technology is "good enough." You then use the gearing bonus to crank out large quantities of that particular system. That approach informs every aspect of my U.S. production strategy, particularly with regard to naval equipment.
 
@@ -50,8 +49,7 @@ Once the balloon goes up, your production will suddenly expand dramatically, and
 
 During the war, it's important to be laying down at least some short runs of various weapons (Marines, Air Transport, maybe a few more DDs, or perhaps some SP Arty). Why? Because you want to have some elasticity in your production. There's nothing worse than being geared up with long serial runs on _everything,_ and not having the ability to introduce new weapons, emergency builds, or whatnot. So think carefully before you ratchet up your production with a long run of that new kind of armor--if your production bonks, and a run goes into slowdown, you lose that precious gearing bonus anyway. A few short runs of this'n'that give us the flexibility we need. If we goof up, we can always pull the plug on them without much harm, while still keeping the really important long runs chugging along with no fear of bonking. I typically keep my early war production (factories and ships) at about 300IC for the first few months, but that means watching the Production screen like a hawk, as you will be right on the rivet. Once you start fighting in China in earnest, you're going to have to back down unit production to the 250-275IC range, because Reinforcements (and Upgrades) and Supply usage are guaranteed to go way up. This is \*particularly\* true if you decide to fight in the winter in Manchuria. My population will typically start the war at 2100 or so; by the beginning of 1943 it's down to 1300, especially if I'm pumping out lots of Garrison units.
 
-Fighting Japan
---------------
+## Fighting Japan
 
 There are four fundamental principles we'll use to fight Japan:
 
@@ -98,8 +96,7 @@ Come spring of '43, we move a horde of mechanized troops out of Dalian, and clea
 
 Concurrently, the same thing (albeit on a much larger scale), is happening to them in Siam, Indochina, and Burma. You launch multiple amphib assaults along the coasts, push the Japanese into the jungle, surround them, and annihilate them. It should all be over by the end of the summer of '43. Now you can annex, puppetize, and liberate to your heart's content. The Brits will have gotten Malaya and Burma back (largely thanks to you), but you get everything else. Bwah ha ha!
 
-Fighting Germany
-----------------
+## Fighting Germany
 
 Once the mess in Asia is cleaned up, it's time for Germany. During the time we were fighting in China, I will have been feeding very small numbers of ground troops (one or two Arm/Mech corps) into the UK, just to make sure that nothing funny happens (like the Germans invading Ireland)(which happens more often than you might think). Beginning in late 1943 it's time to start turning on the Strategic Air production (if you want), or simply cranking out more ground troops, TAC, and fighters of various ilk. Now, the Germans obviously have better aircraft than the Japanese, so it behooves you to begin building up airpower beforehand, regaining their organization after flying them in from Dalian (or whereever), and then starting to apply your airpower with a will. If you want to go to Strategic Bombing, now's the time to start in earnest. My experience has been that unlesss you've developed your air doctrines (particularly those pertaining to fighters) the Germans will beat the snot out of your airgroups with their own highly developed interceptors and whatnot. So, much more so than in Asia, it behooves you to have lots of aircraft, and use them _en masse_ .
 

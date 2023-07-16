@@ -1,22 +1,21 @@
 ---
 title: Users_guide_to_versions_1.1,_1.2_and_1.3_consolidated
 ---
- [Template:HoI2 v1.3](/wiki/index.php?title=Template:HoI2_v1.3&action=edit&redlink=1 "Template:HoI2 v1.3 (page does not exist)")
 
-Contents
---------
+[Template:HoI2 v1.3](/wiki/index.php?title=Template:HoI2_v1.3&action=edit&redlink=1 "Template:HoI2 v1.3 (page does not exist)")
 
-*   [1 A User’s Guide to the 1.1 Update](#A_User.E2.80.99s_Guide_to_the_1.1_Update)
-    *   [1.1 Land Combat](#Land_Combat)
-    *   [1.2 Convoys and submarines](#Convoys_and_submarines)
-    *   [1.3 Air combat](#Air_combat)
-    *   [1.4 Diplomacy and political considerations](#Diplomacy_and_political_considerations)
-    *   [1.5 Production and research](#Production_and_research)
-*   [2 A User’s Guide to the 1.2 Update](#A_User.E2.80.99s_Guide_to_the_1.2_Update)
-*   [3 A User’s Guide to the 1.3 Update](#A_User.E2.80.99s_Guide_to_the_1.3_Update)
+## Contents
 
-A User’s Guide to the 1.1 Update
---------------------------------
+- [1 A User’s Guide to the 1.1 Update](#A_User.E2.80.99s_Guide_to_the_1.1_Update)
+  - [1.1 Land Combat](#Land_Combat)
+  - [1.2 Convoys and submarines](#Convoys_and_submarines)
+  - [1.3 Air combat](#Air_combat)
+  - [1.4 Diplomacy and political considerations](#Diplomacy_and_political_considerations)
+  - [1.5 Production and research](#Production_and_research)
+- [2 A User’s Guide to the 1.2 Update](#A_User.E2.80.99s_Guide_to_the_1.2_Update)
+- [3 A User’s Guide to the 1.3 Update](#A_User.E2.80.99s_Guide_to_the_1.3_Update)
+
+## A User’s Guide to the 1.1 Update
 
 Anyone who has taken the trouble to read through the enormous “readme” that comes with this update may well come away wondering what it’s all about. As one player’s contribution to highlighting the more significant changes among this thicket, here is a user’s guide to the most significant changes you can expect to see in-game from it.
 
@@ -42,50 +41,46 @@ A number of miscellaneous changes have been made in the production of particular
 
 There you have it. Along with many, many other miscellaneous changes, I hope this provides a satisfactory overview of the 1.1 update. And by the way -- I have been playing with the beta version of this update as Japan on hard/aggressive and having one hell of a hard time. I hope you will have similar fun!
 
-A User’s Guide to the 1.2 Update
---------------------------------
+## A User’s Guide to the 1.2 Update
 
 There are three main elements to this patch. The first is a comprehensive upgrading of the AI. Now that the humans have learnt how to play HOI 2 well, the AI has been given the benefit of their understanding.
 
 The second element is a large number of bug fixes and tweaks for gameplay, balance and historicity. Some important examples are:
 
-*   The Soviet Union has a combat penalty in the early years to reflect the chaos, incompetence and paranoia of the purge era. It will find it more difficult to bully its neighbours and so the debacle of the Winter War against Finland may be reproduced. It only becomes more effective after the Great Patriotic War is declared and the country is fighting for survival.
+- The Soviet Union has a combat penalty in the early years to reflect the chaos, incompetence and paranoia of the purge era. It will find it more difficult to bully its neighbours and so the debacle of the Winter War against Finland may be reproduced. It only becomes more effective after the Great Patriotic War is declared and the country is fighting for survival.
 
-*   You can no longer retreat immediately from naval combat. This means that you have to take your lumps before you can run away and so weak naval forces should be more cautious.
+- You can no longer retreat immediately from naval combat. This means that you have to take your lumps before you can run away and so weak naval forces should be more cautious.
 
-*   Fuel-consuming units like armoured divisions no longer suffer from such severe movement penalties in badlands like the desert. They will now outpace infantry in such terrain and so can more effectively be used for deep thrusts, flanking moves and encirclements. To help fuel these units, the effectiveness of the oil conversion technologies has been improved so that the output of converted oil increases as the technology is developed.
+- Fuel-consuming units like armoured divisions no longer suffer from such severe movement penalties in badlands like the desert. They will now outpace infantry in such terrain and so can more effectively be used for deep thrusts, flanking moves and encirclements. To help fuel these units, the effectiveness of the oil conversion technologies has been improved so that the output of converted oil increases as the technology is developed.
 
-*   The technology teams have been reviewed and rebalanced. You will need to check the skills of your favourite teams to see if they have changed and maybe look for new choices for your research. Many technologies have an especially difficult prototype stage and the importance of this can now be seen more clearly.
+- The technology teams have been reviewed and rebalanced. You will need to check the skills of your favourite teams to see if they have changed and maybe look for new choices for your research. Many technologies have an especially difficult prototype stage and the importance of this can now be seen more clearly.
 
-*   The countries which have large peacetime penalties like the USA now get corresponding decreases in their raw material output too. This means that the balance between output and consumption of raw materials is more closely matched at a global level and so you will need to trade harder in the early years to build up large stockpiles.
+- The countries which have large peacetime penalties like the USA now get corresponding decreases in their raw material output too. This means that the balance between output and consumption of raw materials is more closely matched at a global level and so you will need to trade harder in the early years to build up large stockpiles.
 
 The third element of the patch is the new features. There are interface improvements like the display of the techs that your allies are researching. There are new modding features like the improved support for the custom sprites that we'd all like to see. And there are new scenarios including a complete new campaign starting in 1938. This starts just before the Munich crisis - one year before the historical outbreak of the war between the Allies and Germany over Poland. This is intended to get you into the action sooner while still giving you some time to prepare for it. Germany has yet to develop its full strength but the Allies are still not ready for war and the Soviets are wracked by the purges. Who will make the first move ... ?
 
-  
-
-A User’s Guide to the 1.3 Update
---------------------------------
+## A User’s Guide to the 1.3 Update
 
 There are basically three elements to this patch. First of all, we've worked on eliminated the reminaing bugs and complaints, as well as removing exploits. Secondly, we've finetuned and balanced the game, to provide a richer experience. Thirdly, we've severly improved the AI to provide more challeging and rewarding gameplay.
 
 Features include the following
 
-*   The Front AI has been vastly improved. Expect to see much more of a challenge in attacking or defending. You want to make sure that your units org is high and use the principles of combined arms.
+- The Front AI has been vastly improved. Expect to see much more of a challenge in attacking or defending. You want to make sure that your units org is high and use the principles of combined arms.
 
-*   The production AI will now do a better job of fielding the latest technology units.
+- The production AI will now do a better job of fielding the latest technology units.
 
-*   The Production Queue AI has been revamped for many countries to produce a better mix of units. In particular national asset units like transport planes and paratroopers are now built in moderation.
+- The Production Queue AI has been revamped for many countries to produce a better mix of units. In particular national asset units like transport planes and paratroopers are now built in moderation.
 
-*   The AI now knows better how to concentrate and use its Naval Power creating more effective Task Forces.
+- The AI now knows better how to concentrate and use its Naval Power creating more effective Task Forces.
 
-*   Polished MP game experience by getting rid of some annoying MP-only bugs, like the well known mismatch on serial production of province developments.
+- Polished MP game experience by getting rid of some annoying MP-only bugs, like the well known mismatch on serial production of province developments.
 
-*   Revamped the cost and supply/oil usage of nearly every brigade to make them more worthwhile to build. You'll find that it's a good sport to build a mixed army more, instead of just plain infantry armies.
+- Revamped the cost and supply/oil usage of nearly every brigade to make them more worthwhile to build. You'll find that it's a good sport to build a mixed army more, instead of just plain infantry armies.
 
-*   A bunch of new events were included as a feature: Vichy has a complete new event chain, there's surrender events for China & Japan towards eachother, Bulgaria can claim Constanta,... and more.
+- A bunch of new events were included as a feature: Vichy has a complete new event chain, there's surrender events for China & Japan towards eachother, Bulgaria can claim Constanta,... and more.
 
-*   Beware of partisans now! They will be there. The partisans parameters were reworked and you'll actively have to suppress them in a number of areas.
+- Beware of partisans now! They will be there. The partisans parameters were reworked and you'll actively have to suppress them in a number of areas.
 
-*   King Winter is back in town and carries a big stick! Think twice before fighting long fights and carrying through big offensives in the heart of winter. You'll find your troops in a bit more trouble if you do, especially those nifty panzers, cool trucks and halftracks with their frozen engines.
+- King Winter is back in town and carries a big stick! Think twice before fighting long fights and carrying through big offensives in the heart of winter. You'll find your troops in a bit more trouble if you do, especially those nifty panzers, cool trucks and halftracks with their frozen engines.
 
-*   Close Air Support and Tactical Bombing can now cause alot more mayhem amongst the enemy units. Use your bombers wisely though. They'll be more effective in a number of roles, ranging from bombing stationary units in defence to retreating units and units in a fight.
+- Close Air Support and Tactical Bombing can now cause alot more mayhem amongst the enemy units. Use your bombers wisely though. They'll be more effective in a number of roles, ranging from bombing stationary units in defence to retreating units and units in a fight.

@@ -1,13 +1,14 @@
 ---
 title: France
 ---
- [File:Fra-topbar.JPG](/wiki/index.php?title=Special:Upload&wpDestFile=Fra-topbar.JPG "File:Fra-topbar.JPG")
+
+[File:Fra-topbar.JPG](/wiki/index.php?title=Special:Upload&wpDestFile=Fra-topbar.JPG "File:Fra-topbar.JPG")
 
 [Country guides](/wiki/Country_guides "Country guides")
 
 [Major powers](/wiki/Major_power "Major power")
 
-* * *
+---
 
 France  
 [Germany](/wiki/Germany "Germany")  
@@ -19,7 +20,7 @@ France
 
 Regional powers
 
-* * *
+---
 
 [Argentina](/wiki/Argentina "Argentina")  
 [Australia](/wiki/Australia "Australia")  
@@ -43,7 +44,7 @@ Regional powers
 
 [Minor powers](/wiki/Minor_power "Minor power")
 
-* * *
+---
 
 [Austria](/wiki/Austria "Austria")  
 [Chile](/wiki/index.php?title=Chile&action=edit&redlink=1 "Chile (page does not exist)")  
@@ -62,7 +63,7 @@ Regional powers
 
 [Micro powers](/wiki/Micro_power "Micro power")
 
-* * *
+---
 
 [Afghanistan](/wiki/Afghanistan "Afghanistan")  
 [Albania](/wiki/Albania "Albania")  
@@ -104,57 +105,53 @@ Regional powers
 [Yemen](/wiki/index.php?title=Yemen&action=edit&redlink=1 "Yemen (page does not exist)")  
 [Yunnan](/wiki/Yunnan "Yunnan")
 
-Contents
---------
+## Contents
 
-*   [1 Background](#Background)
-*   [2 Technology](#Technology)
-*   [3 Diplomacy](#Diplomacy)
-    *   [3.1 Alliances](#Alliances)
-    *   [3.2 Sliders](#Sliders)
-    *   [3.3 Ministers](#Ministers)
-*   [4 Intelligence](#Intelligence)
-*   [5 Economy](#Economy)
-    *   [5.1 Trading](#Trading)
-    *   [5.2 Industrial Production](#Industrial_Production)
-*   [6 Military](#Military)
-    *   [6.1 Army](#Army)
-    *   [6.2 Navy](#Navy)
-    *   [6.3 Air Force](#Air_Force)
-*   [7 Events](#Events)
-    *   [7.1 Elections](#Elections)
-    *   [7.2 Spanish Civil War](#Spanish_Civil_War)
-*   [8 War](#War)
-    *   [8.1 Maginot Defense](#Maginot_Defense)
-    *   [8.2 Infantry Defense](#Infantry_Defense)
-    *   [8.3 Polish Gambit](#Polish_Gambit)
-*   [9 Gaming the System](#Gaming_the_System)
-    *   [9.1 Japanese Ally](#Japanese_Ally)
+- [1 Background](#Background)
+- [2 Technology](#Technology)
+- [3 Diplomacy](#Diplomacy)
+  - [3.1 Alliances](#Alliances)
+  - [3.2 Sliders](#Sliders)
+  - [3.3 Ministers](#Ministers)
+- [4 Intelligence](#Intelligence)
+- [5 Economy](#Economy)
+  - [5.1 Trading](#Trading)
+  - [5.2 Industrial Production](#Industrial_Production)
+- [6 Military](#Military)
+  - [6.1 Army](#Army)
+  - [6.2 Navy](#Navy)
+  - [6.3 Air Force](#Air_Force)
+- [7 Events](#Events)
+  - [7.1 Elections](#Elections)
+  - [7.2 Spanish Civil War](#Spanish_Civil_War)
+- [8 War](#War)
+  - [8.1 Maginot Defense](#Maginot_Defense)
+  - [8.2 Infantry Defense](#Infantry_Defense)
+  - [8.3 Polish Gambit](#Polish_Gambit)
+- [9 Gaming the System](#Gaming_the_System)
+  - [9.1 Japanese Ally](#Japanese_Ally)
 
-Background
-----------
+## Background
 
 During the war, France planned to advance into Belgium to create a static, defensive front not unlike their experience in WWI. The plan failed when Germany attacked from the Ardennes forest and the French lacked the mobility and time to respond. You have the chance to avoid the mistake by making fortresses in northern France or build sufficient troops to invade Germany when it declares war. Before continuing on, let’s examine France’s weaknesses:
 
-*   Bad starting technology
-*   Low manpower
-*   Low IC
-*   Exposed northern front
-*   Weak starting army
-*   A navy that probably saw service with Napoleon
+- Bad starting technology
+- Low manpower
+- Low IC
+- Exposed northern front
+- Weak starting army
+- A navy that probably saw service with Napoleon
 
-Technology
-----------
+## Technology
 
 France will always be able to research more than it can effectively build with its limited IC. Navy can be entirely ignored. All research should be primarily poured into Industrial, Infantry, Land Doctrine, and Armor/Artillery. Air power is useful only for TAC, INT, and possibly CAS. For this reason, by around 1939 France can be significantly ahead of all the Allies, including even the USA, in technology research.
 
-*   Industrial: get industry research as high as possible (especially the ones which increase manpower, IC, IC efficiency, quicken production time and increase research efficiency)
-*   Infantry: focus on completing 1941 infantry by May, 1940.
-*   Armor: ART, SP-ART, and ARM are useful areas to research.
-*   Fighter/interceptor: Research the Interceptor tree, since France begins the game with several.
+- Industrial: get industry research as high as possible (especially the ones which increase manpower, IC, IC efficiency, quicken production time and increase research efficiency)
+- Infantry: focus on completing 1941 infantry by May, 1940.
+- Armor: ART, SP-ART, and ARM are useful areas to research.
+- Fighter/interceptor: Research the Interceptor tree, since France begins the game with several.
 
-Diplomacy
----------
+## Diplomacy
 
 ### Alliances
 
@@ -168,13 +165,11 @@ France will receive "free" interventionism moves to 9, just one short of full in
 
 France begins with some decent ministers, with Social Liberal and Social Democrat ministers providing the best bonuses throughout the early years. Generally, IC bonuses are important for France, especially for a Leftist France. Chief of Staff Lattre de Tassigny (Manpower +25%; Infantry Construction Bonus -5%) is a good choice. Chief of the Army Victor Bourgeois is worth considering with his -15% supply consumption for players who intend to build a large army. As an alternative, Gamelin provides an -5% infantry construction bonus, in addition to a -10% fort construction bonus for players who intend to play defensive. Head of Intelligence Salengro provides +5% IC and +5% steal blueprint.
 
-Intelligence
-------------
+## Intelligence
 
 France can gain limited benefit through the intelligence system by stealing blueprints from Germany. Generally, however, it is not particularly valuable.
 
-Economy
--------
+## Economy
 
 ### Trading
 
@@ -184,8 +179,7 @@ France has good resources, and for what it lacks, its Allies will readily addres
 
 Early French IC production is not practical, since France begins with large IC penalties, and requires a large army in order to defend against Germany. For players who intend a defensive strategy, IC production can begin as early as around June, 1940, assuming France has established safe defensive lines. Troop production will always be important in a defensive war in order to keep pace with Germany, however, so only limited IC production would be possible. Achieving this balance is important, since a long defensive war will eventually stretch France's limited TC, thus TC expansion is important.
 
-Military
---------
+## Military
 
 France requires complete focus on building a large Army in order to defend against Germany.
 
@@ -201,31 +195,29 @@ France cannot afford and does not need Naval distractions until Germany has been
 
 France cannot afford any serious Air Force production until a defensive posture against Germany has solidified. As a result, France's existing air force should be better utilized with research focused on TAC and INT. TAC and possibly CAS can act as very effective force multipliers, however, and are worthy of consideration especially since France will inevitably encounter TC overload with over emphasis on ground forces. TAC is especially useful in an African campaign against Italy, and in operations behind German defensive lines to clean-up straggler units.
 
-Events
-------
+## Events
 
 ### Elections
 
-*   **1936:** In June, 1936, France will have elections. This provides a negative 3 dissent, and thus is a good time for changing ministers before the event fires. The ministers of the Left are generally the best option. A move to the right makes France social conservative.
-*   **1938:** In June elections recur. The Left remains a good option, retaining Social Democracy. The Social Liberal minister Auriol (+10% IC) should be reappointed to Armaments, while the Social Democrat Salengro (+5% IC) should be reappointed to Intelligence. A move to the right would make France "Paternal Autocrat" with limited minister choices. When AI France is Paternal Autocrat it's very likely to declare war on Germany before the Molotov-Ribbentrop pact.
+- **1936:** In June, 1936, France will have elections. This provides a negative 3 dissent, and thus is a good time for changing ministers before the event fires. The ministers of the Left are generally the best option. A move to the right makes France social conservative.
+- **1938:** In June elections recur. The Left remains a good option, retaining Social Democracy. The Social Liberal minister Auriol (+10% IC) should be reappointed to Armaments, while the Social Democrat Salengro (+5% IC) should be reappointed to Intelligence. A move to the right would make France "Paternal Autocrat" with limited minister choices. When AI France is Paternal Autocrat it's very likely to declare war on Germany before the Molotov-Ribbentrop pact.
 
 ### Spanish Civil War
 
 A few days after the Spanish Civil War begins on July 18, 1936, France will be asked for intervention. Naturally, sending volunteers is the best option:
 
-*   Why support anarchists: +10 dissent; +1 isolationism; +1 right
-*   Send volunteers: +5 dissent; -200 money; -10 manpower; +2 interventionism.
+- Why support anarchists: +10 dissent; +1 isolationism; +1 right
+- Send volunteers: +5 dissent; -200 money; -10 manpower; +2 interventionism.
 
 Just before the event, you can further move the slider toward intervention in the diplomacy tab and then guarantee Republican Spain's independence. Then after you go with intervention, if AI Germany declares war on Republican Spain, it will now have enough belligerence points for you to declare war on Germany, which is easily defeated in 1936.
 
-War
----
+## War
 
 France has three major strategic postures that can lead to victory:
 
-*   Maginot Defense: Extend Maginot line such that it will extend to the border with Belgium and wait.
-*   Infantry Defense: Build enough infantry to defend Belgium, and by extension, France.
-*   Polish Gambit: Invade Germany when it declares war on Poland.
+- Maginot Defense: Extend Maginot line such that it will extend to the border with Belgium and wait.
+- Infantry Defense: Build enough infantry to defend Belgium, and by extension, France.
+- Polish Gambit: Invade Germany when it declares war on Poland.
 
 ### Maginot Defense
 
@@ -245,8 +237,7 @@ As an Allied nation with a peacetime modifier penalty, France will not enter int
 
 From the beginning of 1936, begin researching 1939 Infantry. Research should finish around 1938: before that time churn out any non-infantry units needed. Ignore building up an air force or a navy: your allies should provide you with air cover, and the starting French navy is good enough for its limited uses. Avoid development into expensive fields like tanks, as these will chew up France's limited IC. Instead, concentrate production in IC creation. By the time research into 1939 infantry finishes, you should have around 100 base IC. Once research into 1939 infantry is complete, immediately begin production of at least 12 serial runs of infantry. Group these infantry divisions into the two provinces on the German border, Strasbourg and Mulhouse. When the war rolls around with the German invasion of Poland you should have around 100 infantry divisions concentrated in those provinces. Attack immediately while the German army is preoccupied in Poland. You should be able to steamroll through the country with little resistance, and Berlin should fall by 1940.
 
-Gaming the System
------------------
+## Gaming the System
 
 The most prominent use of [gamey tactics](/wiki/Gamey_tactics "Gamey tactics") for France is to remove the peacetime IC penalty through an early war. Attacking Nationalist Spain, as an example, would be one method to do this.
 
@@ -256,11 +247,11 @@ In a single player game, the main drawback of France is low IC. There is a way t
 
 In order to do that, France needs to:
 
-*   get really friendly with Japan: use you fairly large amout of cash to influence it up to 200.
-*   move the entire French army to Indochina... it takes a lot of time but around 1937 it should be done. Yes mainland France is unprotected, but it is still a peaceful time in old Europe.
-*   move your slider toward the "interventionism" policy... it's important beacause the starting level does NOT allow you to leave alliances or to join new ones...
-*   when the war breaks in China, leave the alliance with the British and ask to join the Japanese aliiance. If you have a 200 relationship they will accept.
-*   attack from the South and, as fast as you can, move North to get the interesting provinces (your 3 cavalery division and you 2 light armored divisions are very useful for this. The Chinese army shouldn't be a real problem (use encirclement and destroy their armies).
+- get really friendly with Japan: use you fairly large amout of cash to influence it up to 200.
+- move the entire French army to Indochina... it takes a lot of time but around 1937 it should be done. Yes mainland France is unprotected, but it is still a peaceful time in old Europe.
+- move your slider toward the "interventionism" policy... it's important beacause the starting level does NOT allow you to leave alliances or to join new ones...
+- when the war breaks in China, leave the alliance with the British and ask to join the Japanese aliiance. If you have a 200 relationship they will accept.
+- attack from the South and, as fast as you can, move North to get the interesting provinces (your 3 cavalery division and you 2 light armored divisions are very useful for this. The Chinese army shouldn't be a real problem (use encirclement and destroy their armies).
 
 If the things go well, by 1938 French IC could be as high as 120. In addition, wartime allows you to divert IC from consumers' good to unit building. Then a good idea is to stay in war the longer you can. But don't forget to transport your troops back home! Also it may be preferable to leave the alliance with Japan before they attack the USA (but a war against the british is what the french await since Waterloo... so why not?). If you are at war with Germany the British will propose you to join the Allied, but if it is not the case they will refuse. So if Germany never declared war at you you may have to do it in order to join the Allied (the main purpose is to get their blueprints and to get wartime bonus).
 

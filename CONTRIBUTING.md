@@ -14,4 +14,3 @@ After that simply [create a pull request from the fork](https://docs.github.com/
 
 [The Discord server](https://discord.gg/MRQ7g6m3) is a great place to ask questions and get answers.
 The channel for this specific project is [found here](https://discord.com/channels/1101559398507225279/1107363611409653860).
-

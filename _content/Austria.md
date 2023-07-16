@@ -1,11 +1,12 @@
 ---
 title: Austria
 ---
- [Country guides](/wiki/Country_guides "Country guides")
+
+[Country guides](/wiki/Country_guides "Country guides")
 
 [Major powers](/wiki/Major_power "Major power")
 
-* * *
+---
 
 [France](/wiki/France "France")  
 [Germany](/wiki/Germany "Germany")  
@@ -17,7 +18,7 @@ title: Austria
 
 Regional powers
 
-* * *
+---
 
 [Argentina](/wiki/Argentina "Argentina")  
 [Australia](/wiki/Australia "Australia")  
@@ -41,7 +42,7 @@ Regional powers
 
 [Minor powers](/wiki/Minor_power "Minor power")
 
-* * *
+---
 
 Austria  
 [Chile](/wiki/index.php?title=Chile&action=edit&redlink=1 "Chile (page does not exist)")  
@@ -60,7 +61,7 @@ Austria
 
 [Micro powers](/wiki/Micro_power "Micro power")
 
-* * *
+---
 
 [Afghanistan](/wiki/Afghanistan "Afghanistan")  
 [Albania](/wiki/Albania "Albania")  
@@ -104,22 +105,18 @@ Austria
 
 Austria is small, poor and underdeveloped. Furthermore it is seen as little more than a pawn by Italy and Germany, two of your neighbours. You need to plan each step wisely if you want to survive.
 
-  
+## Contents
 
-Contents
---------
+- [1 Walkthrough for 1936 Scenario](#Walkthrough_for_1936_Scenario)
+  - [1.1 Modding Activity to Consider](#Modding_Activity_to_Consider)
+  - [1.2 War From the Beginning](#War_From_the_Beginning)
+  - [1.3 Turning the Tide in the Alps](#Turning_the_Tide_in_the_Alps)
+  - [1.4 Balkans](#Balkans)
+  - [1.5 The Austrian Navy](#The_Austrian_Navy)
+  - [1.6 The Great War](#The_Great_War)
+  - [1.7 Beyond This](#Beyond_This)
 
-*   [1 Walkthrough for 1936 Scenario](#Walkthrough_for_1936_Scenario)
-    *   [1.1 Modding Activity to Consider](#Modding_Activity_to_Consider)
-    *   [1.2 War From the Beginning](#War_From_the_Beginning)
-    *   [1.3 Turning the Tide in the Alps](#Turning_the_Tide_in_the_Alps)
-    *   [1.4 Balkans](#Balkans)
-    *   [1.5 The Austrian Navy](#The_Austrian_Navy)
-    *   [1.6 The Great War](#The_Great_War)
-    *   [1.7 Beyond This](#Beyond_This)
-
-Walkthrough for 1936 Scenario
------------------------------
+## Walkthrough for 1936 Scenario
 
 I have played several games with Austria, and each one has played out very similarly.
 

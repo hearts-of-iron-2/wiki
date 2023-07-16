@@ -1,13 +1,14 @@
 ---
 title: Estonia_Strategy
 ---
+
  <table class="metadata plainlinks ambox ambox-move" style=""><tbody><tr><td class="mbox-image"><div style="width: 52px;"><img alt="Merge-arrows.gif" data-file-height="20" data-file-width="50" data-url="https://central.paradoxwikis.com/images/8/8b/Merge-arrows.gif" decoding="async" height="20" loading="lazy" src="https://central.paradoxwikis.com/images/8/8b/Merge-arrows.gif" width="50"></div></td><td class="mbox-text" style=""><b><a class="external text" href="https://hoi2.paradoxwikis.com/index.php?title=Estonia_Strategy&amp;action=edit" rel="nofollow">This </a>article is a candidate to be <a href="/wiki/Template:Merge" title="Template:Merge">merged </a>with <a href="/wiki/Estonia" title="Estonia">Estonia </a>.</b><br><small>Please help to improve the wiki by taking part in the <a class="new" href="/wiki/index.php?title=Talk:Estonia_Strategy&amp;action=edit&amp;redlink=1" title="Talk:Estonia Strategy (page does not exist)">discussion </a>of the proposed merger.</small></td></tr></tbody></table>
 
 [Country guides](/wiki/Country_guides "Country guides")
 
 [Major powers](/wiki/Major_power "Major power")
 
-* * *
+---
 
 [France](/wiki/France "France")  
 [Germany](/wiki/Germany "Germany")  
@@ -19,7 +20,7 @@ title: Estonia_Strategy
 
 Regional powers
 
-* * *
+---
 
 [Argentina](/wiki/Argentina "Argentina")  
 [Australia](/wiki/Australia "Australia")  
@@ -43,7 +44,7 @@ Regional powers
 
 [Minor powers](/wiki/Minor_power "Minor power")
 
-* * *
+---
 
 [Austria](/wiki/Austria "Austria")  
 [Chile](/wiki/index.php?title=Chile&action=edit&redlink=1 "Chile (page does not exist)")  
@@ -62,7 +63,7 @@ Regional powers
 
 [Micro powers](/wiki/Micro_power "Micro power")
 
-* * *
+---
 
 [Afghanistan](/wiki/Afghanistan "Afghanistan")  
 [Albania](/wiki/Albania "Albania")  
@@ -104,30 +105,27 @@ Regional powers
 [Yemen](/wiki/index.php?title=Yemen&action=edit&redlink=1 "Yemen (page does not exist)")  
 [Yunnan](/wiki/Yunnan "Yunnan")
 
-Contents
---------
+## Contents
 
-*   [1 Overview](#Overview)
-*   [2 Technology](#Technology)
-*   [3 Politics](#Politics)
-*   [4 Army](#Army)
-*   [5 A left-wing coup d'état](#A_left-wing_coup_d.27.C3.A9tat)
-*   [6 Alliance and War Strategy](#Alliance_and_War_Strategy)
+- [1 Overview](#Overview)
+- [2 Technology](#Technology)
+- [3 Politics](#Politics)
+- [4 Army](#Army)
+- [5 A left-wing coup d'état](#A_left-wing_coup_d.27.C3.A9tat)
+- [6 Alliance and War Strategy](#Alliance_and_War_Strategy)
 
-Overview
---------
+## Overview
 
 Estonia is one of the hardest nations to play in Hearts of Iron 2. Estonia is generally in a great danger to be attacked and conquered by the Soviet Union. Soviets may declare war on Estonia if Estonia is in a war with any other state or if the Molotov-Ribbentrop pact will be concluded, they will usually attack Estonia in 1940. Estonia can't build an army that is able to resist Soviets, especially in the given few years. Diplomacy is its only chance.
 
 Do not play as Estonia if:
 
-*   Soviet Union is human controlled, or
-*   you are new to this game.
+- Soviet Union is human controlled, or
+- you are new to this game.
 
 Estonia is weak in all aspects of its society. The worst thing is its location, for it is placed alongside its historical enemies, both of which are superpowers, and all potential allies are located too far.
 
-Technology
-----------
+## Technology
 
 The Estonian industrial capacity is horrendous. For this reason you should first research machine tools and everything else that helps increase IC efficiency. Each of these tech upgrades will give a +5% IC increase and this gives the Estonian small economy a big boost. With more IC you can afford to research more advanced infantry units.
 
@@ -137,8 +135,7 @@ Land doctrines are important too. It's a way to upgrade your army without having
 
 Do not even think of researching Armor & Artillery, Naval, Naval Doctrine, Aircraft, Air Doctrine and Secret Weapons. They require either lots of IC or time for realization, neither of which the small nation can afford.
 
-Politics
---------
+## Politics
 
 Moving the economy slider towards Central Planning gives Estonia +25% IC after four moves. Being too democratic doesn't let you move the economy slider too far right, so it is recommended to move the first slider towards authoritarian until it's possible to move the economy slider more right.
 
@@ -156,8 +153,7 @@ In order to be able to produce any troops, you will need to incorporate alternat
 
 The smaller your armies are, the less military potential you have, and thus the better negotiator you need to be.
 
-Army
-----
+## Army
 
 You begin with three [infantry](/wiki/Infantry_Division "Infantry Division") units in 1936. Unless you're expanding in territory, you will lack the IC to build a bigger army.
 
@@ -175,31 +171,29 @@ If you have survived the beginning of WWII, improved goodly your IC and have som
 
 Don't build naval or air units unless you're planning an invasion. In such a case, only produce transport ships and make sure you don't travel far with them.
 
-A left-wing coup d'état
------------------------
+## A left-wing coup d'état
 
 If Estonia is at war with Germany between January 1, 1944 and December 30, 1947 and the Soviet Union controls both Minsk and Lublin, a left-wing coup d'état may happen.
 
 If the coup succeeds:
 
-*   Authoritarianism set to 10
-*   Political Left set to 10
-*   Change of government to Stalinist
-*   Dissent -1
+- Authoritarianism set to 10
+- Political Left set to 10
+- Change of government to Stalinist
+- Dissent -1
 
 If the coup is crushed:
 
-*   No effect
+- No effect
 
-Alliance and War Strategy
--------------------------
+## Alliance and War Strategy
 
 Estonia has a lot of neighboring countries. With great effort you can battle
 
-*   the Latvians
-*   the Danes
-*   the Finns
-*   any of the three major factions (Allies, Axis, Comintern)
+- the Latvians
+- the Danes
+- the Finns
+- any of the three major factions (Allies, Axis, Comintern)
 
 First, remember that unless you alter the historical chain of events, the Soviet Union will invade the Baltic States by June 1940.
 

@@ -1,8 +1,8 @@
 ---
 title: Other_Oil_Statistics
 ---
- Japan
------
+
+## Japan
 
 ### Sources of Oil
 
@@ -21,7 +21,7 @@ Aviation Gasoline 2,400,000 barrels (385,000 kL)
 Motor Vehicle Gasoline 2,200,000 barrels (350,000 kL)  
 Consumption per month:  
 Aviation Gasoline 94,000 barrels (15,000 kl)  
-Motor Vehicle Gasoline 111,000 barrels (17,500 kl)  
+Motor Vehicle Gasoline 111,000 barrels (17,500 kl)
 
 _Navy_ : In Stock: 59,000,000 barrels (9,400,000 kl) Consumption per month: 2,800,000 barrels (450,000 kl)
 
@@ -29,10 +29,7 @@ Data according to Japanese Planning board Total annual oil consumption : 32,000
 
 Total In Stock Prior to War: 52,000,000 barrel (8,400,000 kl) Army: 7,500,000 barrels (1,200,000 kl) Navy: 40,900,000 barrels (6,500,000 kl) Civilian: 4,400,000 barrels (700,000 kl) Note civilian consumption was already on "war levels", not much reduction possible beyond this point
 
-  
-
-Annual Oil production of Major Producers (approx.)
---------------------------------------------------
+## Annual Oil production of Major Producers (approx.)
 
 US: 2,000,000,000 barrels (306,000,000 kilolitres) USSR: 400,000,000 barrels (61,200,000 kilolitres) Dutch East Indies: 120,000,000 barrels (19,125,000 kilolitres)
 

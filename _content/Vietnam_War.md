@@ -1,7 +1,8 @@
 ---
 title: Vietnam_War
 ---
- **The Vietnam War version 5.0 by FRVP with Map, Final Version**  
+
+**The Vietnam War version 5.0 by FRVP with Map, Final Version**  
 compatable with all versions! new map ~ new units ~ new music ~ new sprites
 
 Great historical full-function scenario of the American war in Vietnam 1963 - 1975, with other possible outcomes to certain events. Many rivers, monsoons, jungles and VC guerrilla atacks.
@@ -18,10 +19,10 @@ Major map files change: 29 textured new territories added. Back up your original
 
 Made vanilla friendly for Armageddon v1.1 but will work for all with the correct patch. Unzip files to Armaggedon, Doomsday or HOI2 top-level directory. No patch needed for Armageddon.
 
-Files Amended: (you may want to back these up) Config: world\_names.csv, tech\_names.csv, unit\_names.csv, models.csv, province\_names.csv DB: country.csv, revolt.txt, province.csv /Ministers: all playable countries /Leaders: all playable countries /Tech: special\_weapons\_tech.txt, infantry\_tech.txt, armor\_tech.txt, aircraft\_tech.txt /Units/divisions: flying\_rocket.txt, light\_armor.txt, paratrooper.txt, cavalry.txt, multirole.txt GFX/map/shields: shield\_u72.bmp, shield\_idc.bmp GFX/map/flags: flag\_u72.bmp, flag\_idc.bmp GFX/palete: counter\_idc.bmp, counter\_U72.bmp GFX/skins/default: fullscreen.bmp, sidebar\_A.bmp, topbar.bmp MAP: all map files
+Files Amended: (you may want to back these up) Config: world_names.csv, tech_names.csv, unit_names.csv, models.csv, province_names.csv DB: country.csv, revolt.txt, province.csv /Ministers: all playable countries /Leaders: all playable countries /Tech: special_weapons_tech.txt, infantry_tech.txt, armor_tech.txt, aircraft_tech.txt /Units/divisions: flying_rocket.txt, light_armor.txt, paratrooper.txt, cavalry.txt, multirole.txt GFX/map/shields: shield_u72.bmp, shield_idc.bmp GFX/map/flags: flag_u72.bmp, flag_idc.bmp GFX/palete: counter_idc.bmp, counter_U72.bmp GFX/skins/default: fullscreen.bmp, sidebar_A.bmp, topbar.bmp MAP: all map files
 
 Requirements:  
-Vietnam5.zip, 9MB. Version 5.2 is the latest. VNMAP.zip, 33 MB. Version 5.0 is the latest. You will need a no-time-limit fix for your version to go beyond 1964! For DD users only: You will need to unzip the VN\_DD patch to your DD directory. For HOI2 users only: You will need to unzip the VN\_HOI2 patch to your HOI2 directory.
+Vietnam5.zip, 9MB. Version 5.2 is the latest. VNMAP.zip, 33 MB. Version 5.0 is the latest. You will need a no-time-limit fix for your version to go beyond 1964! For DD users only: You will need to unzip the VN_DD patch to your DD directory. For HOI2 users only: You will need to unzip the VN_HOI2 patch to your HOI2 directory.
 
 _Thanks to Jamie for his Map Maker and Hilsdorf and Strits1945 for their contributions!_ FRVP ~ Creator of Vietnam War Scenario
 

@@ -1,7 +1,8 @@
 ---
 title: Modding_Palettes
 ---
- This file is accurate as of version 1.2
+
+This file is accurate as of version 1.2
 
 Just a quick table for which palette files are attached to which graphics. This is a work-in-progress; it is not complete.
 

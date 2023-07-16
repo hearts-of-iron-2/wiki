@@ -1,7 +1,8 @@
 ---
 title: Positioning
 ---
- [Template:Anthology](/wiki/index.php?title=Template:Anthology&action=edit&redlink=1 "Template:Anthology (page does not exist)")
+
+[Template:Anthology](/wiki/index.php?title=Template:Anthology&action=edit&redlink=1 "Template:Anthology (page does not exist)")
 
 ### Positioning
 
@@ -9,21 +10,21 @@ title: Positioning
 
 **Basic facts:**
 
-*   The higher your fleet's positioning, the more chance that your ships will begin the battle in position to fire on the enemy and the greater chance that your shorter ranged screening ships will be in position to help defend the heavies;
-*   The lower your positioning, the more chance you will have to spend one or more rounds maneuvering before any of your ships can even shoot at anything, and the less chance your screen will be in position to defend your more valuable capital ships.
-*   When there is no real positioning advantage, the opposing fleets will tend to begin the engagement separated by a distance approximately equal to the range of the longest-ranged ship in the entire engagement and both sides' screens will be slightly out of position but not badly so.
+- The higher your fleet's positioning, the more chance that your ships will begin the battle in position to fire on the enemy and the greater chance that your shorter ranged screening ships will be in position to help defend the heavies;
+- The lower your positioning, the more chance you will have to spend one or more rounds maneuvering before any of your ships can even shoot at anything, and the less chance your screen will be in position to defend your more valuable capital ships.
+- When there is no real positioning advantage, the opposing fleets will tend to begin the engagement separated by a distance approximately equal to the range of the longest-ranged ship in the entire engagement and both sides' screens will be slightly out of position but not badly so.
 
 **What affects Positioning**
 
-*   Suprise
+- Suprise
 
 Having surprise on your side increases your positioning and lowers your enemy's, which will adjust that starting distance towards the range of the longest ranged ship in your own fleet and put the enemy's screens further out of position allowing you to concentrate fire on the more valuable enemy targets.
 
-*   Fleet Composition
+- Fleet Composition
 
 That said, when dealing with a 30-ship fleet heavy with BBs, don't waste time trying to tweak your fleet composition to improve your chance of surprise. You have no chance anyway, so instead gear your composition to best deal with the inevitably poor positioning it will have to endure most of the time. Generally this means including extra scorts who can absorb damage for your heavies and provide extra air defence.
 
-*   Leadership
+- Leadership
 
 Leadership also plays a role in positioning, with higher leadership values and certain traits imparting bonuses to positioning, but these are eclipsed by fleet composition and surprise. I cover these further on in the leadership section.
 
@@ -39,12 +40,12 @@ Given no surprise on either side, imagine a 15-ship CTF entering battle against 
 
 **Combat Range** in Naval battles has an optimal value. This value is believed to be calculated as described below
 
-*   [CV](/wiki/CV "CV") is the highest class in calculating optimal range.
-*   [Capital Ship](/wiki/Capital_Ship "Capital Ship") or [CVL](/wiki/CVL "CVL") is the second highest class in calculating optimal range.
-*   [Screen Ship](/wiki/Screen_Ship "Screen Ship") is the lowest class in calulating optimal range.
-*   **Unique class's**
-    *   [Submarine](/wiki/Submarine "Submarine") ONLY fleets will attempt to be at 90% of the maximum range of the shortest range submarine
-    *   [Transport](/wiki/Transport "Transport") ONLY fleets will attempt to be at 450+ km and then flee.
+- [CV](/wiki/CV "CV") is the highest class in calculating optimal range.
+- [Capital Ship](/wiki/Capital_Ship "Capital Ship") or [CVL](/wiki/CVL "CVL") is the second highest class in calculating optimal range.
+- [Screen Ship](/wiki/Screen_Ship "Screen Ship") is the lowest class in calulating optimal range.
+- **Unique class's**
+  - [Submarine](/wiki/Submarine "Submarine") ONLY fleets will attempt to be at 90% of the maximum range of the shortest range submarine
+  - [Transport](/wiki/Transport "Transport") ONLY fleets will attempt to be at 450+ km and then flee.
 
 **Optimal Range** will always be **90%** of the **maximum** range of the **shortest** range of the **highest** ship class.
 

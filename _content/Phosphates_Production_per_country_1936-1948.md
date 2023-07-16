@@ -1,6 +1,7 @@
 ---
 title: Phosphates_Production_per_country_1936-1948
 ---
- Source: BR Mitchell.
+
+Source: BR Mitchell.
 
 <table border="1"><tbody><tr><td></td><td>1936</td><td>1937</td><td>1938</td><td>1939</td><td>1940</td><td>1941</td><td>1942</td><td>1943</td><td>1944</td><td>1945</td><td>1946</td><td>1947</td><td>1948</td></tr><tr><td>USA</td><td>3406</td><td>4019</td><td>3799</td><td>3817</td><td>4067</td><td>4765</td><td>4719</td><td>5208</td><td>5463</td><td>5900</td><td>6971</td><td>9172</td><td>8808</td></tr><tr><td>Algeria</td><td>531</td><td>631</td><td>584</td><td>500</td><td>371</td><td>491</td><td>331</td><td>77</td><td>233</td><td>401</td><td>585</td><td>707</td><td>671</td></tr><tr><td>Egypt</td><td>531</td><td>517</td><td>458</td><td>548</td><td>183</td><td>112</td><td>328</td><td>319</td><td>318</td><td>349</td><td>371</td><td>377</td><td>300</td></tr><tr><td>Morocco</td><td>1335</td><td>1378</td><td>1487</td><td>1703</td><td>687</td><td>493</td><td>715</td><td>806</td><td>1445</td><td>1654</td><td>2860</td><td>2881</td><td>3226</td></tr><tr><td>Tunisia</td><td>1488</td><td>1771</td><td>2034</td><td>1628</td><td>1188</td><td>1076</td><td>880</td><td>335</td><td>522</td><td>706</td><td>1399</td><td>1755</td><td>1864</td></tr><tr><td>Xmas Island</td><td>164</td><td>165</td><td>162</td><td>214</td><td>155</td><td>9</td><td>0</td><td>0</td><td>0</td><td>0</td><td>119</td><td>119</td><td>151</td></tr><tr><td>Nauru</td><td>966</td><td>1105</td><td>1159</td><td>1280</td><td>935</td><td>374</td><td>55</td><td>0</td><td>0</td><td>0</td><td>59</td><td>178</td><td>268</td></tr></tbody></table>

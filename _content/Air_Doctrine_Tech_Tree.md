@@ -1,11 +1,12 @@
 ---
 title: Air_Doctrine_Tech_Tree
 ---
- [Tech Tree](/wiki/Tech_Tree "Tech Tree")
+
+[Tech Tree](/wiki/Tech_Tree "Tech Tree")
 
 Regular
 
-* * *
+---
 
 [Aircraft](/wiki/Aircraft_Tech_Tree "Aircraft Tech Tree")  
 [Armor and Artillery](/wiki/Armor_and_Artillery_Tech_Tree "Armor and Artillery Tech Tree")  
@@ -16,67 +17,65 @@ Regular
 
 Doctrines
 
-* * *
+---
 
 [Land](/wiki/Land_Doctrine_Tech_Tree "Land Doctrine Tech Tree")  
 Air  
 [Naval](/wiki/Naval_Doctrine_Tech_Tree "Naval Doctrine Tech Tree")
 
-Contents
---------
+## Contents
 
-*   [1 Air Superiority](#Air_Superiority)
-    *   [1.1 Air Superiority Doctrine](#Air_Superiority_Doctrine)
-    *   [1.2 Flying Circus Doctrine](#Flying_Circus_Doctrine)
-    *   [1.3 Force Substitution Doctrine](#Force_Substitution_Doctrine)
-    *   [1.4 Battlefield Destruction Doctrine](#Battlefield_Destruction_Doctrine)
-    *   [1.5 Dive Bombing Doctrine](#Dive_Bombing_Doctrine)
-    *   [1.6 Direct Ground Support Doctrine](#Direct_Ground_Support_Doctrine)
-    *   [1.7 Bomber Veteran Initiative](#Bomber_Veteran_Initiative)
-    *   [1.8 Night Strikes Doctrine](#Night_Strikes_Doctrine)
-    *   [1.9 Operational Destruction Doctrine](#Operational_Destruction_Doctrine)
-    *   [1.10 Battlefield Interdiction Doctrine](#Battlefield_Interdiction_Doctrine)
-    *   [1.11 Strafing Doctrine](#Strafing_Doctrine)
-    *   [1.12 Logistical Strike Doctrine](#Logistical_Strike_Doctrine)
-    *   [1.13 Night Strafing Doctrine](#Night_Strafing_Doctrine)
-    *   [1.14 Strategic Destruction Doctrine](#Strategic_Destruction_Doctrine)
-    *   [1.15 Escort Box System Doctrine](#Escort_Box_System_Doctrine)
-    *   [1.16 Combat-Bombardment Groups Doctrine](#Combat-Bombardment_Groups_Doctrine)
-    *   [1.17 Dead Reckoning Bombardment Doctrine](#Dead_Reckoning_Bombardment_Doctrine)
-    *   [1.18 Night Bombardment Doctrine](#Night_Bombardment_Doctrine)
-*   [2 First Strike](#First_Strike)
-    *   [2.1 First Strike Doctrine](#First_Strike_Doctrine)
-    *   [2.2 Dispersed Fighting Doctrine](#Dispersed_Fighting_Doctrine)
-    *   [2.3 Frontal Missions Doctrine](#Frontal_Missions_Doctrine)
-    *   [2.4 Fighter Veteran Initiative](#Fighter_Veteran_Initiative)
-*   [3 Perimeter Defence](#Perimeter_Defence)
-    *   [3.1 Perimeter Defence Doctrine](#Perimeter_Defence_Doctrine)
-    *   [3.2 Formation Fighting Doctrine](#Formation_Fighting_Doctrine)
-    *   [3.3 Home Defence Doctrine](#Home_Defence_Doctrine)
-    *   [3.4 Recon Skirmisher Doctrine](#Recon_Skirmisher_Doctrine)
-    *   [3.5 Combat Unit Destruction Doctrine](#Combat_Unit_Destruction_Doctrine)
-    *   [3.6 Hunt & Destroy Groups Doctrine](#Hunt_.26_Destroy_Groups_Doctrine)
-    *   [3.7 Low Echelon CAS Doctrine](#Low_Echelon_CAS_Doctrine)
-    *   [3.8 Bomber Ace Initiative](#Bomber_Ace_Initiative)
-    *   [3.9 Offensive Fighter Box doctrine](#Offensive_Fighter_Box_doctrine)
-    *   [3.10 Fighter Baiting Doctrine](#Fighter_Baiting_Doctrine)
-    *   [3.11 Dogfight Experiment Doctrine](#Dogfight_Experiment_Doctrine)
-    *   [3.12 Fighter Ace Initiative](#Fighter_Ace_Initiative)
-    *   [3.13 Infrastructure Destruction Doctrine](#Infrastructure_Destruction_Doctrine)
-    *   [3.14 Infiltration Bombardment Doctrine](#Infiltration_Bombardment_Doctrine)
-    *   [3.15 Carousel Bombardment Doctrine](#Carousel_Bombardment_Doctrine)
-    *   [3.16 Keypoint Bombardment Doctrine](#Keypoint_Bombardment_Doctrine)
-    *   [3.17 Defensive Fighter Box Doctrine](#Defensive_Fighter_Box_Doctrine)
-    *   [3.18 Multi-altitude Group Doctrine](#Multi-altitude_Group_Doctrine)
-    *   [3.19 Filter Room System Doctrine](#Filter_Room_System_Doctrine)
-    *   [3.20 Air Reserve Doctrine](#Air_Reserve_Doctrine)
-    *   [3.21 Mass Destruction Doctrine](#Mass_Destruction_Doctrine)
-    *   [3.22 Escort Relay System Doctrine](#Escort_Relay_System_Doctrine)
-    *   [3.23 Carpet Bombing Doctrine](#Carpet_Bombing_Doctrine)
-    *   [3.24 Flying Armada Doctrine](#Flying_Armada_Doctrine)
+- [1 Air Superiority](#Air_Superiority)
+  - [1.1 Air Superiority Doctrine](#Air_Superiority_Doctrine)
+  - [1.2 Flying Circus Doctrine](#Flying_Circus_Doctrine)
+  - [1.3 Force Substitution Doctrine](#Force_Substitution_Doctrine)
+  - [1.4 Battlefield Destruction Doctrine](#Battlefield_Destruction_Doctrine)
+  - [1.5 Dive Bombing Doctrine](#Dive_Bombing_Doctrine)
+  - [1.6 Direct Ground Support Doctrine](#Direct_Ground_Support_Doctrine)
+  - [1.7 Bomber Veteran Initiative](#Bomber_Veteran_Initiative)
+  - [1.8 Night Strikes Doctrine](#Night_Strikes_Doctrine)
+  - [1.9 Operational Destruction Doctrine](#Operational_Destruction_Doctrine)
+  - [1.10 Battlefield Interdiction Doctrine](#Battlefield_Interdiction_Doctrine)
+  - [1.11 Strafing Doctrine](#Strafing_Doctrine)
+  - [1.12 Logistical Strike Doctrine](#Logistical_Strike_Doctrine)
+  - [1.13 Night Strafing Doctrine](#Night_Strafing_Doctrine)
+  - [1.14 Strategic Destruction Doctrine](#Strategic_Destruction_Doctrine)
+  - [1.15 Escort Box System Doctrine](#Escort_Box_System_Doctrine)
+  - [1.16 Combat-Bombardment Groups Doctrine](#Combat-Bombardment_Groups_Doctrine)
+  - [1.17 Dead Reckoning Bombardment Doctrine](#Dead_Reckoning_Bombardment_Doctrine)
+  - [1.18 Night Bombardment Doctrine](#Night_Bombardment_Doctrine)
+- [2 First Strike](#First_Strike)
+  - [2.1 First Strike Doctrine](#First_Strike_Doctrine)
+  - [2.2 Dispersed Fighting Doctrine](#Dispersed_Fighting_Doctrine)
+  - [2.3 Frontal Missions Doctrine](#Frontal_Missions_Doctrine)
+  - [2.4 Fighter Veteran Initiative](#Fighter_Veteran_Initiative)
+- [3 Perimeter Defence](#Perimeter_Defence)
+  - [3.1 Perimeter Defence Doctrine](#Perimeter_Defence_Doctrine)
+  - [3.2 Formation Fighting Doctrine](#Formation_Fighting_Doctrine)
+  - [3.3 Home Defence Doctrine](#Home_Defence_Doctrine)
+  - [3.4 Recon Skirmisher Doctrine](#Recon_Skirmisher_Doctrine)
+  - [3.5 Combat Unit Destruction Doctrine](#Combat_Unit_Destruction_Doctrine)
+  - [3.6 Hunt & Destroy Groups Doctrine](#Hunt_.26_Destroy_Groups_Doctrine)
+  - [3.7 Low Echelon CAS Doctrine](#Low_Echelon_CAS_Doctrine)
+  - [3.8 Bomber Ace Initiative](#Bomber_Ace_Initiative)
+  - [3.9 Offensive Fighter Box doctrine](#Offensive_Fighter_Box_doctrine)
+  - [3.10 Fighter Baiting Doctrine](#Fighter_Baiting_Doctrine)
+  - [3.11 Dogfight Experiment Doctrine](#Dogfight_Experiment_Doctrine)
+  - [3.12 Fighter Ace Initiative](#Fighter_Ace_Initiative)
+  - [3.13 Infrastructure Destruction Doctrine](#Infrastructure_Destruction_Doctrine)
+  - [3.14 Infiltration Bombardment Doctrine](#Infiltration_Bombardment_Doctrine)
+  - [3.15 Carousel Bombardment Doctrine](#Carousel_Bombardment_Doctrine)
+  - [3.16 Keypoint Bombardment Doctrine](#Keypoint_Bombardment_Doctrine)
+  - [3.17 Defensive Fighter Box Doctrine](#Defensive_Fighter_Box_Doctrine)
+  - [3.18 Multi-altitude Group Doctrine](#Multi-altitude_Group_Doctrine)
+  - [3.19 Filter Room System Doctrine](#Filter_Room_System_Doctrine)
+  - [3.20 Air Reserve Doctrine](#Air_Reserve_Doctrine)
+  - [3.21 Mass Destruction Doctrine](#Mass_Destruction_Doctrine)
+  - [3.22 Escort Relay System Doctrine](#Escort_Relay_System_Doctrine)
+  - [3.23 Carpet Bombing Doctrine](#Carpet_Bombing_Doctrine)
+  - [3.24 Flying Armada Doctrine](#Flying_Armada_Doctrine)
 
-Air Superiority
----------------
+## Air Superiority
 
 ### Air Superiority Doctrine
 
@@ -150,8 +149,7 @@ Air Superiority
 
 <table border="1" cellpadding="5" width="98%"><tbody><tr><td><ul><li>Historic Year: 1939</li><li>Prerequisites:</li></ul><dl><dd><ul><li><a href="/wiki/Air_Doctrine_Tech_Tree#Escort_Box_System_Doctrine" title="Air Doctrine Tech Tree">Escort Box System Doctrine</a></li><li><a href="/wiki/Air_Doctrine_Tech_Tree#Combat-Bombardment_Groups_Doctrine" title="Air Doctrine Tech Tree">Combat-Bombardment Groups Doctrine</a></li><li><a href="/wiki/Air_Doctrine_Tech_Tree#Dead_Reckoning_Bombardment_Doctrine" title="Air Doctrine Tech Tree">Dead Reckoning Bombardment Doctrine</a></li></ul></dd></dl><ul><li>Effects:</li></ul><dl><dd><ul><li>Night Attack strategic_bomber 10</li><li>Night Defence strategic_bomber 50</li><li>max_organization strategic_bomber 5</li><li>Morale strategic_bomber 5</li><li>max_organization transport_plane 5</li><li>Morale transport_plane 5</li></ul></dd></dl></td><td><p>3 - <a class="image" href="/wiki/File:Mechanics.png" title="mechanics"><img alt="mechanics" data-file-height="24" data-file-width="24" data-url="/images/a/a1/Mechanics.png" decoding="async" height="24" loading="lazy" src="/images/a/a1/Mechanics.png" width="24"> </a>- Night Bombsights</p><p>3 - <a class="image" href="/wiki/File:Aeronautics.png" title="aeronautics"><img alt="aeronautics" data-file-height="24" data-file-width="24" data-url="/images/a/a1/Aeronautics.png" decoding="async" height="24" loading="lazy" src="/images/a/a1/Aeronautics.png" width="24"> </a>- Pathfinder Planes</p><p>3 - <a class="image" href="/wiki/File:Chemistry.png" title="chemistry"><img alt="chemistry" data-file-height="24" data-file-width="24" data-url="/images/1/19/Chemistry.png" decoding="async" height="24" loading="lazy" src="/images/1/19/Chemistry.png" width="24"> </a>- Improved Ground Illuminators</p><p>3 - <a class="image" href="/wiki/File:Aircraft_testing.png" title="aircraft_testing"><img alt="aircraft_testing" data-file-height="24" data-file-width="24" data-url="/images/8/87/Aircraft_testing.png" decoding="async" height="24" loading="lazy" src="/images/8/87/Aircraft_testing.png" width="24"> </a>- Night Bombing Training</p><p>3 - <a class="image" href="/wiki/File:Centralized_execution.png" title="centralized_execution"><img alt="centralized_execution" data-file-height="24" data-file-width="24" data-url="/images/b/bc/Centralized_execution.png" decoding="async" height="24" loading="lazy" src="/images/b/bc/Centralized_execution.png" width="24"> </a>- Pre-planned Bomb Runs</p></td></tr></tbody></table>
 
-First Strike
-------------
+## First Strike
 
 ### First Strike Doctrine
 
@@ -169,8 +167,7 @@ First Strike
 
 <table border="1" cellpadding="5" width="98%"><tbody><tr><td><ul><li>Historic Year: 1939</li><li>Prerequisites:</li></ul><dl><dd><ul><li><a href="/wiki/Air_Doctrine_Tech_Tree#First_Strike_Doctrine" title="Air Doctrine Tech Tree">First Strike Doctrine</a></li></ul></dd></dl><ul><li>Effects:</li></ul><dl><dd><ul><li>max_organization interceptor 3</li><li>Morale interceptor 3</li><li>max_organization multi_role 3</li><li>Morale multi_role 3</li><li>max_organization escort 3</li><li>Morale escort 3</li><li>max_organization cag 3</li><li>Morale cag 3</li><li>Snow Attack interceptor 5</li><li>Rain Attack interceptor 5</li><li>Snow Attack multi_role 10</li><li>Rain Attack multi_role 10</li><li>Snow Attack cag 10</li><li>Rain Attack cag 10</li></ul></dd></dl></td><td><p>4 - <a class="image" href="/wiki/File:Aeronautics.png" title="aeronautics"><img alt="aeronautics" data-file-height="24" data-file-width="24" data-url="/images/a/a1/Aeronautics.png" decoding="async" height="24" loading="lazy" src="/images/a/a1/Aeronautics.png" width="24"> </a>- Rough Weather Capability</p><p>4 - <a class="image" href="/wiki/File:Aircraft_testing.png" title="aircraft_testing"><img alt="aircraft_testing" data-file-height="24" data-file-width="24" data-url="/images/8/87/Aircraft_testing.png" decoding="async" height="24" loading="lazy" src="/images/8/87/Aircraft_testing.png" width="24"> </a>- Rough Weather Training</p><p>4 - <a class="image" href="/wiki/File:Piloting.png" title="piloting"><img alt="piloting" data-file-height="24" data-file-width="24" data-url="/images/6/6b/Piloting.png" decoding="async" height="24" loading="lazy" src="/images/6/6b/Piloting.png" width="24"> </a>- Individual Training Spirit</p><p>4 - <a class="image" href="/wiki/File:Aircraft_testing.png" title="aircraft_testing"><img alt="aircraft_testing" data-file-height="24" data-file-width="24" data-url="/images/8/87/Aircraft_testing.png" decoding="async" height="24" loading="lazy" src="/images/8/87/Aircraft_testing.png" width="24"> </a>- Fighter Unit Specialization</p><p>4 - <a class="image" href="/wiki/File:Mechanics.png" title="mechanics"><img alt="mechanics" data-file-height="24" data-file-width="24" data-url="/images/a/a1/Mechanics.png" decoding="async" height="24" loading="lazy" src="/images/a/a1/Mechanics.png" width="24"> </a>- All-weather Gunsights</p></td></tr></tbody></table>
 
-Perimeter Defence
------------------
+## Perimeter Defence
 
 ### Perimeter Defence Doctrine
 

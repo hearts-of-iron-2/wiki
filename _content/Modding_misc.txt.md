@@ -1,8 +1,8 @@
 ---
 title: Modding_misc.txt
 ---
- Economy
--------
+
+## Economy
 
 **IC to TC ratio** \- how much TC you get for every point of IC; Paradox default is 1.5
 
@@ -50,10 +50,8 @@ title: Modding_misc.txt
 
 **Upgrade cost** \- default value is 0.5; Note: the resulting value for a unit can never be less than 1.0 (above 1.0 fractional build costs are used).
 
-Combat
-------
+## Combat
 
 **Base chance to avoid hit if defences left.** \- this is unused (as of v1.1)
 
-Research
---------
+## Research

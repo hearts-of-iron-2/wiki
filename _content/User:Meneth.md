@@ -1,24 +1,24 @@
 ---
 title: User:Meneth
 ---
- | _Meneth_ |
-| --- |
-| 
+
+| _Meneth_ |
+| -------- |
+
+|
 [![Paradox Wikis.png](https://central.paradoxwikis.com/images/5/58/Paradox_Wikis.png)](/wiki/File:Paradox_Wikis.png)
 
-
-
- |
-| 
+|
+|
 
 Status
 
- | Paradox Development Studio programmer |
-| 
+| Paradox Development Studio programmer |
+|
 
 Forum account
 
- | [Link](http://forum.paradoxplaza.com/forum/index.php?members/Meneth.265499) |
+| [Link](http://forum.paradoxplaza.com/forum/index.php?members/Meneth.265499) |
 
 **Magne "Meneth" Skjæran** is the creator of the [Paradox Wikis](https://paradoxwikis.com/ "paradoxwiki:") . Paradox Interactive in 2014 bought the wikis from him and hired him to continue administrating them. As of 2019, Magne no longer administrates the Paradox Wikis, focusing instead on his role as a programmer at [Paradox Development Studio](/wiki/index.php?title=Paradox&action=edit&redlink=1 "Paradox (page does not exist)") .
 

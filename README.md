@@ -19,7 +19,7 @@ All the content files are located inside the `_content` directory at the root of
 Styling is done with the help of [TailwindCSS](https://tailwindcss.com/) and [DaisyUI](https://daisyui.com/).
 The config for both is found inside the file [tailwind.config.js](tailwind.config.js) at the root of this project.
 
-The other styling files (css) are located inside the [styles](styles) directory and imported in the file [pages/_app.tsx](pages/_app.tsx)
+The other styling files (css) are located inside the [styles](styles) directory and imported in the file [pages/\_app.tsx](pages/_app.tsx)
 like so `import "../styles/index.css";`.
 
 ### Styling the content
@@ -47,4 +47,3 @@ You can run the dev server using node and npm/pnpm by following these steps:
 5. Run `npm run dev` to run the development server.
 
 This should start a server on `localhost:3000`.
-

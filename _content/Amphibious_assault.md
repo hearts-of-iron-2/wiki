@@ -1,17 +1,17 @@
 ---
 title: Amphibious_assault
 ---
- [Template:Anthology](/wiki/index.php?title=Template:Anthology&action=edit&redlink=1 "Template:Anthology (page does not exist)")
+
+[Template:Anthology](/wiki/index.php?title=Template:Anthology&action=edit&redlink=1 "Template:Anthology (page does not exist)")
 
 An amphibious assault is an attack by units borded on [transport ships](/wiki/Transport "Transport") on a coastal province. To be able to start an amphibious assault, the coastal province attacked needs to have a beach suitable for a landing party -- this can be checked by looking at the terrain map in the game. A province will have a small beach line if this is the case. Consult the image to the right. Tokyo has a beach, as indicated by the beach symbol on the terrain map. Additionally, if you click on the province a small beach symbol will be shown in the overview.
 
-Contents
---------
+## Contents
 
-*   [1 Amphibious Assault Efficiency](#Amphibious_Assault_Efficiency)
-*   [2 Best units for a landing](#Best_units_for_a_landing)
-*   [3 Planning the landing](#Planning_the_landing)
-*   [4 Changes with Armageddon 1.3 Beta](#Changes_with_Armageddon_1.3_Beta)
+- [1 Amphibious Assault Efficiency](#Amphibious_Assault_Efficiency)
+- [2 Best units for a landing](#Best_units_for_a_landing)
+- [3 Planning the landing](#Planning_the_landing)
+- [4 Changes with Armageddon 1.3 Beta](#Changes_with_Armageddon_1.3_Beta)
 
 ### Amphibious Assault Efficiency
 
@@ -19,7 +19,7 @@ Often, a newer player will throw lots of units into the attack, including tanks 
 
 This doesn't mean that one should never attack with more divisions than the limit. In fact, every additional division will add Org and draw fire from the other divisions. The marginal benefits of an additional unit's Org will have to be compared to the marginal loss of combat efficiency (10%, for each division over the stacking limit). The following table will demonstrate this for a stacking limit of 3.
 
-`Units Eff/unit Total Eff 1 100 100 2 100 200 3 100 300 4 90 360 5 80 400 6 70 420* 7 60 420* 8 50 400 9 40 360` 
+`Units Eff/unit Total Eff 1 100 100 2 100 200 3 100 300 4 90 360 5 80 400 6 70 420* 7 60 420* 8 50 400 9 40 360`
 
 Committing 6 or 7 divisions to the attack will yield the highest amount of total combat effectiveness deployed.
 

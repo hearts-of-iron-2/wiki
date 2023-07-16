@@ -1,42 +1,41 @@
 ---
 title: Links
 ---
- Contents
---------
 
-*   [1 Official pages](#Official_pages)
-    *   [1.1 Official pages @ Paradox](#Official_pages_.40_Paradox)
-*   [2 Forums](#Forums)
-    *   [2.1 HoI2 forums](#HoI2_forums)
-    *   [2.2 HoI2 Doomsday forums](#HoI2_Doomsday_forums)
-    *   [2.3 Foro Élite](#Foro_.C3.89lite)
-    *   [2.4 French Forums on HoI](#French_Forums_on_HoI)
-    *   [2.5 Italian Forums on HoI](#Italian_Forums_on_HoI)
-    *   [2.6 Chinese Forums on HoI](#Chinese_Forums_on_HoI)
-    *   [2.7 Lord Ederon's Forums](#Lord_Ederon.27s_Forums)
-*   [3 Press](#Press)
-    *   [3.1 Reviews](#Reviews)
-    *   [3.2 Previews](#Previews)
-    *   [3.3 Interviews and other stuff](#Interviews_and_other_stuff)
-*   [4 Fansites](#Fansites)
-    *   [4.1 The Stony Road](#The_Stony_Road)
-    *   [4.2 Strategium Alliance](#Strategium_Alliance)
-    *   [4.3 Battlegrounds of Paradox](#Battlegrounds_of_Paradox)
-    *   [4.4 Domain of Lord Ederon](#Domain_of_Lord_Ederon)
-    *   [4.5 Eufi.org](#Eufi.org)
-    *   [4.6 Heartsofiron.fi](#Heartsofiron.fi)
-    *   [4.7 Heartsofiron2.de](#Heartsofiron2.de)
-    *   [4.8 DMP-Site](#DMP-Site)
-    *   [4.9 A.E.I.O.U. Forum](#A.E.I.O.U._Forum)
-    *   [4.10 HoI2 Mods Portal](#HoI2_Mods_Portal)
-*   [5 Custom Music](#Custom_Music)
-    *   [5.1 Military Music](#Military_Music)
-*   [6 Other Wikis](#Other_Wikis)
-    *   [6.1 German HoI-Wiki](#German_HoI-Wiki)
-    *   [6.2 Ukrainian wiki](#Ukrainian_wiki)
-*   [7 Linking to HOI2Wiki](#Linking_to_HOI2Wiki)
+## Contents
 
-Official pages
---------------
+- [1 Official pages](#Official_pages)
+  - [1.1 Official pages @ Paradox](#Official_pages_.40_Paradox)
+- [2 Forums](#Forums)
+  - [2.1 HoI2 forums](#HoI2_forums)
+  - [2.2 HoI2 Doomsday forums](#HoI2_Doomsday_forums)
+  - [2.3 Foro Élite](#Foro_.C3.89lite)
+  - [2.4 French Forums on HoI](#French_Forums_on_HoI)
+  - [2.5 Italian Forums on HoI](#Italian_Forums_on_HoI)
+  - [2.6 Chinese Forums on HoI](#Chinese_Forums_on_HoI)
+  - [2.7 Lord Ederon's Forums](#Lord_Ederon.27s_Forums)
+- [3 Press](#Press)
+  - [3.1 Reviews](#Reviews)
+  - [3.2 Previews](#Previews)
+  - [3.3 Interviews and other stuff](#Interviews_and_other_stuff)
+- [4 Fansites](#Fansites)
+  - [4.1 The Stony Road](#The_Stony_Road)
+  - [4.2 Strategium Alliance](#Strategium_Alliance)
+  - [4.3 Battlegrounds of Paradox](#Battlegrounds_of_Paradox)
+  - [4.4 Domain of Lord Ederon](#Domain_of_Lord_Ederon)
+  - [4.5 Eufi.org](#Eufi.org)
+  - [4.6 Heartsofiron.fi](#Heartsofiron.fi)
+  - [4.7 Heartsofiron2.de](#Heartsofiron2.de)
+  - [4.8 DMP-Site](#DMP-Site)
+  - [4.9 A.E.I.O.U. Forum](#A.E.I.O.U._Forum)
+  - [4.10 HoI2 Mods Portal](#HoI2_Mods_Portal)
+- [5 Custom Music](#Custom_Music)
+  - [5.1 Military Music](#Military_Music)
+- [6 Other Wikis](#Other_Wikis)
+  - [6.1 German HoI-Wiki](#German_HoI-Wiki)
+  - [6.2 Ukrainian wiki](#Ukrainian_wiki)
+- [7 Linking to HOI2Wiki](#Linking_to_HOI2Wiki)
+
+## Official pages
 
 <table width="95%"><tbody><tr><td><h3><span id="Official_pages_@_Paradox"></span><span class="mw-headline" id="Official_pages_.40_Paradox"><a class="external text" href="http://www.paradoxplaza.com/index.php?option=com_content&amp;task=view&amp;id=58&amp;Itemid=144" rel="nofollow">Official pages @ Paradox</a></span></h3><p>General information about the game and releated material.</p><h2><span class="mw-headline" id="Forums">Forums</span></h2><h3><span class="mw-headline" id="HoI2_forums"><a class="external text" href="https://forum.paradoxplaza.com/forum/index.php?forums/hearts-of-iron-2.255/" rel="nofollow">HoI2 forums</a></span></h3><p>The official Paradox forums is <i>the </i>place to go for discussing HoI2 and getting answers to any questions you might have that HOI2Wiki leaves unanswered. Also useful for finding out what's happening in the modding community.</p><h3><span class="mw-headline" id="HoI2_Doomsday_forums"><a class="external text" href="https://forum.paradoxplaza.com/forum/index.php?forums/hoi2-doomsday-expansion.327/" rel="nofollow">HoI2 Doomsday forums</a></span></h3><p>The official Paradox forums for HoI2 Doomsday and Armageddon.</p><h3><span id="Foro_Élite"></span><span class="mw-headline" id="Foro_.C3.89lite"><a class="external text" href="http://elitemod.informe.com/forum/" rel="nofollow">Foro Élite</a></span></h3><p>Forum in Spanish about HoI2 .... and HoI, Crusader King, Victoria and Europa Universalis 2.</p><h3><span class="mw-headline" id="French_Forums_on_HoI">French Forums on HoI</span></h3><p><a class="external text" href="http://forum.jeux-strategie.com/index.php?showforum=115" rel="nofollow">Strategium - Hearts of Iron I, II &amp; III</a></p><p><a class="external text" href="http://eu2libre.free.fr/phpBB2/index.php?c=16" rel="nofollow">Le QG - French</a></p><h3><span class="mw-headline" id="Italian_Forums_on_HoI">Italian Forums on HoI</span></h3><p><a class="external text" href="http://www.netwargamingitalia.net/forum/forumdisplay.php?f=26" rel="nofollow">Netwargamingitalia Hearts of Iron 2</a></p><p><a class="external text" href="http://bopitalia.altervista.org/forum/index.php?f=3" rel="nofollow">Battlegrounds of Paradox - Hearts of Iron 1 e 2</a></p><h3><span class="mw-headline" id="Chinese_Forums_on_HoI">Chinese Forums on HoI</span></h3><p><a class="external text" href="http://bbs.52pcgame.com/" rel="nofollow">52pcgame-one of the most active Paradox fan's fortress</a></p><h3><span id="Lord_Ederon's_Forums"></span><span class="mw-headline" id="Lord_Ederon.27s_Forums">Lord Ederon's Forums</span></h3><p><a class="external text" href="http://forums.ederon.net/" rel="nofollow">Forum with multiple active multiplayer groups playing HoI2, EU3 and other Paradox games.</a></p><h2><span class="mw-headline" id="Press">Press</span></h2><h3><span class="mw-headline" id="Reviews">Reviews</span></h3><ul><li><a class="external text" href="http://www.metacritic.com/games/platforms/pc/heartsofiron2/" rel="nofollow">Metacritic </a>- 85/100 ( <i>meta </i>)</li><li><a class="external text" href="http://www.gamerankings.com/htmlpages2/920609.asp?q=hearts%20of%20iron" rel="nofollow">Gamerankings </a>- 89% ( <i>meta </i>)</li></ul><ul><li><a class="external text" href="http://www.strategyinformer.com/reviews/heartsofiron2.shtml" rel="nofollow">Strategy Informer </a>- 8.8/10</li><li><a class="external text" href="http://pc.gamezone.com/gzreviews/r24923.htm" rel="nofollow">Gamezone </a>- 8.7/10</li><li><a class="external text" href="http://www.wargamer.com/reviews/heartsofiron2/Default.asp" rel="nofollow">Wargamer </a>- Award for Excellence</li><li><a class="external text" href="http://pc.ign.com/articles/577/577912p1.html" rel="nofollow">IGN </a>- 8.7/10</li><li><a class="external text" href="http://pc.boomtown.net/en_uk/articles/art.view.php?id=7090" rel="nofollow">Boomtown </a>- 9/10</li><li><a class="external text" href="http://www.gaming-age.com/cgi-bin/reviews/review.pl?sys=pc&amp;game=heartsofiron2" rel="nofollow">Gaming Age </a>- B+</li><li><a class="external text" href="http://www.gamespot.com/pc/strategy/heartsofiron2/review.html" rel="nofollow">Gamespot </a>- 8.3/10</li><li><a class="external text" href="http://www.gameindustry.com/review/item.asp?id=499" rel="nofollow">Game Industry News </a>- 5/5</li><li><a class="external text" href="http://www.firingsquad.com/games/hearts_of_iron_2_review/" rel="nofollow">Firing Squad </a>- 91% Editor's Choice</li><li><a class="external text" href="http://www.gamerzalliance.com/indyreview.php?action=getreview&amp;rid=98" rel="nofollow">GamerzAlliance </a>- 95/100 GA Elite Award</li><li><a class="external text" href="http://www.nordicgamers.se/sektion/nordicgamers/recen/index.php?rec_id=469" rel="nofollow">Nordic Gamers </a>- 84% (in Swedish)</li><li><a class="external text" href="http://www.fz.se/artiklar/article.php?id=753" rel="nofollow">Fragzone </a>- 4,5/5 - Fragzone Silver Award (in Swedish)</li><li><a class="external text" href="http://www.jeuxvideo.com/articles/0000/00005061_test.htm" rel="nofollow">JeuxVideo.com </a>- 16/20 (in French)</li><li><a class="external text" href="http://www.clubic.com/article-18930-1-hearts-of-iron-2.html" rel="nofollow">Clubic.com </a>- Bon (in French)</li></ul><h3><span class="mw-headline" id="Previews">Previews</span></h3><ul><li><a class="external text" href="http://www.strategy-gaming.com/previews/hearts_of_iron_2/" rel="nofollow">Strategy Gaming Online</a></li><li><a class="external text" href="http://www.strategium-alliance.com/Preview-Hearts-of-Iron-2.1221.0.html" rel="nofollow">Strategium</a></li><li><a class="external text" href="http://www.wargamer.com/reviews/heartsofiron2_firstimpressions/Default.asp" rel="nofollow">Wargamer</a></li><li><a class="external text" href="http://pc.boomtown.net/en_uk/articles/art.view.php?id=6414" rel="nofollow">Boomtown</a></li><li><a class="external text" href="http://pc.ign.com/articles/555/555586p1.html" rel="nofollow">IGN</a></li><li><a class="external text" href="http://www.gamespot.com/pc/strategy/heartsofiron2/preview_6110446.html" rel="nofollow">Gamespot</a></li><li><a class="external text" href="http://www.avault.com/previews/preview_temp.asp?game=hoi2&amp;page=1" rel="nofollow">Adrenaline vault</a></li><li><a class="external text" href="http://www.firingsquad.com/games/hearts_of_iron_2_preview/" rel="nofollow">Firing Squad</a></li><li><a class="external text" href="http://articles.filefront.com/Hearts_of_Iron_2_Comparative_Preview/;200;;;/article.html" rel="nofollow">Filefront</a></li><li><a class="external text" href="http://www.gameindustry.com/review/item.asp?id=479" rel="nofollow">Game Industry News</a></li><li><a class="external text" href="http://www.nordicgamers.se/sektion/nordicgamers/artiklar/index.php?art_id=151" rel="nofollow">Nordic Gamers </a>(in Swedish)</li><li><a class="external text" href="http://www.boomtown.net/se_se/articles/art.view.php?id=9331" rel="nofollow">Boomtown </a>(in Swedish)</li><li><a class="external text" href="http://gamer.no/art.php?artikkelid=11536" rel="nofollow">Gamer.no </a>(in Norwegian)</li><li><a class="external text" href="http://www.level7.nu/texter/read.php?id=45408" rel="nofollow">Level 7 </a>(in Swedish)</li></ul><h3><span class="mw-headline" id="Interviews_and_other_stuff">Interviews and other stuff</span></h3><ul><li><a class="external text" href="http://www.happypuppy.com/games/editorial.jsp?game_id=1544&amp;oeid=18736" rel="nofollow">HappyPuppy interview with Fredrik Lindgren </a>(from Paradox marketing)</li><li><a class="external text" href="http://www.fz.se/artiklar/article.php?id=723" rel="nofollow">Fragzone interview with Joakim Bergqwist </a>(game designer)</li><li><a class="external text" href="http://gamer.no/art.php?artikkelid=12473" rel="nofollow">Gamer.no interview with assorted Paradox staff </a>(in Norwegian)</li><li><a class="external text" href="http://www.gamespot.com/pc/strategy/heartsofiron2/media.html?gcst=hoi2_tr1006.asx" rel="nofollow">Trailer at Gamespot</a></li></ul><h2><span class="mw-headline" id="Fansites">Fansites</span></h2><p><a class="new" href="/wiki/index.php?title=Template:CORE_link&amp;action=edit&amp;redlink=1" title="Template:CORE link (page does not exist)">Template:CORE link</a></p><h3><span class="mw-headline" id="The_Stony_Road"><a class="external text" href="http://www.stonyroad.de/" rel="nofollow">The Stony Road</a></span></h3><p>N!ghty's site with graphical mod tutorials, downloads, and other goodies.</p><h3><span class="mw-headline" id="Strategium_Alliance"><a class="external text" href="http://www.strategium-alliance.com/" rel="nofollow">Strategium Alliance</a></span></h3><p>French site with forum (there's an english subsection)</p><h3><span class="mw-headline" id="Battlegrounds_of_Paradox"><a class="external text" href="http://bopitalia.altervista.org/forum/index.php?f=3" rel="nofollow">Battlegrounds of Paradox</a></span></h3><p>Italian site with forum</p><h3><span class="mw-headline" id="Domain_of_Lord_Ederon"><a class="external text" href="http://www.ederon.net" rel="nofollow">Domain of Lord Ederon</a></span></h3><p>Lord Ederon's site dedicated to Paradox games. Contains original programs, useful downloads on-line maps, printable maps and other goodies. Also active forum with emphasis on multiplayer.</p><h3><span class="mw-headline" id="Eufi.org"><a class="external text" href="http://eufi.org/" rel="nofollow">Eufi.org</a></span></h3><p>Biggest Polish fansite and forum dedicated to Paradox games</p><h3><span class="mw-headline" id="Heartsofiron.fi"><a class="external text" href="http://www.heartsofiron.fi" rel="nofollow">Heartsofiron.fi</a></span></h3><p>Finnish Hearts of Iron site. News, Downloads, Discussion, Multiplayer games, AAR's, Screenshot galleries (all users can post their screenshots), Links and much more.</p><h3><span class="mw-headline" id="Heartsofiron2.de"><a class="external text" href="http://www.heartsofiron2.de/" rel="nofollow">Heartsofiron2.de</a></span></h3><p>German site with forum, chat and other stuff.</p><h3><span class="mw-headline" id="DMP-Site"><a class="external text" href="http://heartsofiron.eu/" rel="nofollow">DMP-Site</a></span></h3><p>Home of the Design-Mod-Project, German and English forum</p><h3><span class="mw-headline" id="A.E.I.O.U._Forum"><a class="external text" href="http://www.planet-core.net/Abominus/forum/portal.php" rel="nofollow">A.E.I.O.U. Forum</a></span></h3><p>Website for A.E.IO.U., Germania, Phantasia and other Mods</p><h3><span class="mw-headline" id="HoI2_Mods_Portal"><a class="external text" href="http://www.quintelosky.com/portal/" rel="nofollow">HoI2 Mods Portal</a></span></h3><p>Spanish site with all necessary for enjoy with HoI2</p><p><br></p><h2><span class="mw-headline" id="Custom_Music">Custom Music</span></h2><h3><span class="mw-headline" id="Military_Music"><a class="external text" href="http://www.gridcogames.com/HOI%20Stuff/military_music.htm" rel="nofollow">Military Music</a></span></h3><p>Here is a good link of military marching tunes that you may like to use for playing HoI2</p><p><br></p><h2><span class="mw-headline" id="Other_Wikis">Other Wikis</span></h2><h3><span class="mw-headline" id="German_HoI-Wiki"><a class="external text" href="http://heartsofiron.eu/wiki/" rel="nofollow">German HoI-Wiki</a></span></h3><p>German language wiki</p><h3><span class="mw-headline" id="Ukrainian_wiki"><a class="external text" href="http://paradoxian.org.ua/" rel="nofollow">Ukrainian wiki</a></span></h3><p>RU language wiki</p><h2><span class="mw-headline" id="Linking_to_HOI2Wiki">Linking to HOI2Wiki</span></h2><p>If you wish to link to this site, feel free to use one of these images:</p><table border="1" cellpadding="10"><tbody><tr><td><a class="new" href="/wiki/index.php?title=Special:Upload&amp;wpDestFile=Wiki2.gif" title="File:Wiki2.gif">File:Wiki2.gif</a></td><td><a class="new" href="/wiki/index.php?title=Special:Upload&amp;wpDestFile=Wiki370_90.jpg" title="File:Wiki370 90.jpg">File:Wiki370 90.jpg</a></td><td><a class="new" href="/wiki/index.php?title=Special:Upload&amp;wpDestFile=Wiki93_33.gif" title="File:Wiki93 33.gif">File:Wiki93 33.gif</a></td></tr></tbody></table></td></tr></tbody></table>

@@ -1,36 +1,35 @@
 ---
 title: Beginners_guide_to_army_management
 ---
- [Template:Anthology](/wiki/index.php?title=Template:Anthology&action=edit&redlink=1 "Template:Anthology (page does not exist)")
 
-Contents
---------
+[Template:Anthology](/wiki/index.php?title=Template:Anthology&action=edit&redlink=1 "Template:Anthology (page does not exist)")
 
-*   [1 **Beginner's guide to army management**](#Beginner.27s_guide_to_army_management)
-    *   [1.1 Overview](#Overview)
-*   [2 Unit organization](#Unit_organization)
-    *   [2.1 Setting up formations](#Setting_up_formations)
-        *   [2.1.1 Splitting, merging and moving divisions between formations](#Splitting.2C_merging_and_moving_divisions_between_formations)
-        *   [2.1.2 Deploying troops from the redeployment pool](#Deploying_troops_from_the_redeployment_pool)
-        *   [2.1.3 Advice on formation setup](#Advice_on_formation_setup)
-        *   [2.1.4 Naming your units](#Naming_your_units)
-*   [3 Choosing brigades](#Choosing_brigades)
-*   [4 Leader management](#Leader_management)
-    *   [4.1 Leader command limits](#Leader_command_limits)
-        *   [4.1.1 Ranks and command limits](#Ranks_and_command_limits)
-        *   [4.1.2 Command capacity in attacks](#Command_capacity_in_attacks)
-        *   [4.1.3 Use of headquarters](#Use_of_headquarters)
-    *   [4.2 Choosing the right traits](#Choosing_the_right_traits)
-*   [5 Missions](#Missions)
-    *   [5.1 Support Attack](#Support_Attack)
-    *   [5.2 Synchronize Arrival](#Synchronize_Arrival)
-    *   [5.3 Support Defence / Reserves](#Support_Defence_.2F_Reserves)
-    *   [5.4 Anti-Partisan Duty](#Anti-Partisan_Duty)
-    *   [5.5 Strategic Redeployment](#Strategic_Redeployment)
-*   [6 Other concepts](#Other_concepts)
+## Contents
 
-**Beginner's guide to army management**
----------------------------------------
+- [1 **Beginner's guide to army management**](#Beginner.27s_guide_to_army_management)
+  - [1.1 Overview](#Overview)
+- [2 Unit organization](#Unit_organization)
+  - [2.1 Setting up formations](#Setting_up_formations)
+    - [2.1.1 Splitting, merging and moving divisions between formations](#Splitting.2C_merging_and_moving_divisions_between_formations)
+    - [2.1.2 Deploying troops from the redeployment pool](#Deploying_troops_from_the_redeployment_pool)
+    - [2.1.3 Advice on formation setup](#Advice_on_formation_setup)
+    - [2.1.4 Naming your units](#Naming_your_units)
+- [3 Choosing brigades](#Choosing_brigades)
+- [4 Leader management](#Leader_management)
+  - [4.1 Leader command limits](#Leader_command_limits)
+    - [4.1.1 Ranks and command limits](#Ranks_and_command_limits)
+    - [4.1.2 Command capacity in attacks](#Command_capacity_in_attacks)
+    - [4.1.3 Use of headquarters](#Use_of_headquarters)
+  - [4.2 Choosing the right traits](#Choosing_the_right_traits)
+- [5 Missions](#Missions)
+  - [5.1 Support Attack](#Support_Attack)
+  - [5.2 Synchronize Arrival](#Synchronize_Arrival)
+  - [5.3 Support Defence / Reserves](#Support_Defence_.2F_Reserves)
+  - [5.4 Anti-Partisan Duty](#Anti-Partisan_Duty)
+  - [5.5 Strategic Redeployment](#Strategic_Redeployment)
+- [6 Other concepts](#Other_concepts)
+
+## **Beginner's guide to army management**
 
 ### Overview
 
@@ -38,8 +37,7 @@ Don't panic! HoI2 is a complex game but it follows quite simple rules which can 
 
 If you feel something has been left out, feel free to edit this page and add it (if you know the game).
 
-Unit organization
------------------
+## Unit organization
 
 When examining your troops, you will notice that your army consists of a number of divisions which are organized into "groups" (which will be called _formations_ from here). Each formation has a _leader_ , is located in one province and can perform one _mission_ .
 
@@ -73,9 +71,9 @@ If you chose a formation on the list and confirm the selection via the button at
 
 Most players go with formations of three divisions for the bulk of their army, while keeping specialist unit types (garrisons, paratroopers, maybe even marines, mountaineers and armored divisions) in small formations of just one division. This has two major advantages:
 
-*   You will have many more leaders involved in combat compared to large formations of 9 or 12 divisions, all of them gaining experience and thus increasing in skill.
-*   You can easily assign different missions to the units in the same province, like pre-planning advance several provinces deep with some of your units securing the conquered territory on their way. If you had only a few large formations, you would need to wait for the formation to arrive at the first province, wait until the attack delay wears off, then create a new formation using some divisions of the large one, assign a leader, possibly rename it and only then you could advance one province further with the large stack.
-*   Also having all standard formations at size three and all special formations at a different size, you can quickly see what is what and are less likely to issue wrong orders to the wrong formations in the heat of battle.
+- You will have many more leaders involved in combat compared to large formations of 9 or 12 divisions, all of them gaining experience and thus increasing in skill.
+- You can easily assign different missions to the units in the same province, like pre-planning advance several provinces deep with some of your units securing the conquered territory on their way. If you had only a few large formations, you would need to wait for the formation to arrive at the first province, wait until the attack delay wears off, then create a new formation using some divisions of the large one, assign a leader, possibly rename it and only then you could advance one province further with the large stack.
+- Also having all standard formations at size three and all special formations at a different size, you can quickly see what is what and are less likely to issue wrong orders to the wrong formations in the heat of battle.
 
 Since there is a bonus for mixing hard and soft units within one formation, and since only motorized infantry operate at a similar speed as the armored divisions do, it is a common practise to set up [combined arms formations](/wiki/Combined_Arms "Combined Arms") of 1 Arm and 2 Mot or vice versa.
 
@@ -89,27 +87,25 @@ When having a lot of formations, it can be confusing to have them called "XIV. A
 
 It is recommended to use names which allow you to recognize the units quickly, for example "Panzergruppe Rommel" for an armored formation led by Rommel or "Inf (AT) / Hodges" for a formation consisting of Infantry with anti-tank-brigades led by Hodges. Since garrisons cannot move or attack, they should always be deployed in separate formations named something like "GAR / \[province name\]" or even just "GAR", so you can de-select them easily when issuing orders to multiple formations at once.
 
-Choosing brigades
------------------
+## Choosing brigades
 
 In HoI2 and its expansions, a brigade is an optional attachment to a regular division (or air wing, or ship) which offers an additional boost in some unit stats. It is common knowledge that - strictly mathematically spoken - it is always more efficient to invest in more divisions instead of brigades for existing divisions. This is because of the game's combat system, which essentially operates at the formula "total org \* total attack value = combat power". A standard division adds about 50 org and 10+ attack, while no mix of brigades (at that very same cost) can compete with that.
 
 Yet, it can be beneficial to boost some of your divisions with brigades in certain circumstances:
 
-*   Special Forces, like marines or paratroopers, are usually operating in small numbers, so they will appreciate any additional "bang". Since both of these units are not supposed to travel longer distances over land (and thus they are not that dependant on high speed), it is usually advised to equip them with artillery brigades.
-*   Expensive divisions, like armored or mechanized, are also good candidates for brigades. They form the centre of your spearhead attacks and will thus be able to make good use of additional firepower. Also, as they are so expensive, the brigades appear much more efficient in comparison. Last (but certainly not least), both division types have a very low softness rating to start with. Lower softness means less vulnerability to soft attack, which is the most abundant attack type in the (early) game. Further reducing that low softness by 6 points, as the self-propelled artillery brigade does, is - percentage wise - offering a much larger advantage here (30->24 equals a reduction of 20%) compared to the same point reduction on infantry divisions (100->94 equals a reduction of only 6%).
-*   Vulnerable divisions, like motorized infantry, absolutely need brigades in order to keep up with the advance of the sturdier tanks. For motorized divisions it is advised to use either armored car brigades (as those provide org, which is depleted quickly in movement-combat-movement situations) or self-propelled artillery (for its better attack and hardness).
+- Special Forces, like marines or paratroopers, are usually operating in small numbers, so they will appreciate any additional "bang". Since both of these units are not supposed to travel longer distances over land (and thus they are not that dependant on high speed), it is usually advised to equip them with artillery brigades.
+- Expensive divisions, like armored or mechanized, are also good candidates for brigades. They form the centre of your spearhead attacks and will thus be able to make good use of additional firepower. Also, as they are so expensive, the brigades appear much more efficient in comparison. Last (but certainly not least), both division types have a very low softness rating to start with. Lower softness means less vulnerability to soft attack, which is the most abundant attack type in the (early) game. Further reducing that low softness by 6 points, as the self-propelled artillery brigade does, is - percentage wise - offering a much larger advantage here (30->24 equals a reduction of 20%) compared to the same point reduction on infantry divisions (100->94 equals a reduction of only 6%).
+- Vulnerable divisions, like motorized infantry, absolutely need brigades in order to keep up with the advance of the sturdier tanks. For motorized divisions it is advised to use either armored car brigades (as those provide org, which is depleted quickly in movement-combat-movement situations) or self-propelled artillery (for its better attack and hardness).
 
 A few notes on popular "newbie"-mistakes regarding brigades:
 
-*   Engineers increase the maximum speed of the division, but not its speed cap. Some divisions (like Mountaineers starting from the '39 model and all cavalry and HQ divisions) already are at their speed cap and will thus NOT get additional speed from Engineer brigades. Also, each division in the formation needs to have the engineer brigade in order to increase ACTUAL speed.
-*   Defensiveness and toughness are surprisingly unimportant stats (one of the weaknesses of the combat system), so choosing brigades solely for the increase in those stats is a poor choice from a gameplay point of view.
-*   Against the computer-controlled countries, you will never face a lot of "hard" divisions. Since hard attack is only used when enemy softness is quite low, the anti-tank and tank-destroyer brigades are considered utterly inefficient investments. Get artillery or self-propelled artillery instead. Those also offer some hard attack but, more importantly, they increase the much more widely used soft attack stat.
+- Engineers increase the maximum speed of the division, but not its speed cap. Some divisions (like Mountaineers starting from the '39 model and all cavalry and HQ divisions) already are at their speed cap and will thus NOT get additional speed from Engineer brigades. Also, each division in the formation needs to have the engineer brigade in order to increase ACTUAL speed.
+- Defensiveness and toughness are surprisingly unimportant stats (one of the weaknesses of the combat system), so choosing brigades solely for the increase in those stats is a poor choice from a gameplay point of view.
+- Against the computer-controlled countries, you will never face a lot of "hard" divisions. Since hard attack is only used when enemy softness is quite low, the anti-tank and tank-destroyer brigades are considered utterly inefficient investments. Get artillery or self-propelled artillery instead. Those also offer some hard attack but, more importantly, they increase the much more widely used soft attack stat.
 
 For further information, see the [brigade strategy guide](/wiki/Brigade_Strategy_Guide "Brigade Strategy Guide") .
 
-Leader management
------------------
+## Leader management
 
 ### Leader command limits
 
@@ -119,10 +115,10 @@ The most devastating newbie-mistake (yet very common on the forums) is to not un
 
 Each leader has a rank which determines his (or her, in rare cases) command capacity, i.e. the number of divisions he (or she) can command directly without penalties. The ranks and their capacities can be seen in game by reading the mouse-over-tooltip of the leader picture:
 
-*   _Mj.Gen._ : can command **1 division**
-*   _Lt.Gen._ : can command **3 divisions**
-*   _General_ : can command **9 divisions**
-*   _Field Marshal_ : can command **12 divisions**
+- _Mj.Gen._ : can command **1 division**
+- _Lt.Gen._ : can command **3 divisions**
+- _General_ : can command **9 divisions**
+- _Field Marshal_ : can command **12 divisions**
 
 You must always respect those command limits, or else all divisions in that formation will lose the leader's bonuses plus the divisions above the leader's command limit will additionally suffer from the OCL (over command limit) penalty of -75%.
 
@@ -138,9 +134,9 @@ Imagine you have 24 infantry divisions ready to attack. Those divisions are orga
 
 This is where three important lessons are to be learned:
 
-*   Always attack from more than one province if possible. This will not only help avoiding the OCL penalty mentioned here, but it will also invoke the _envelopement penalty_ for the enemy if you attack from three or more provinces.
-*   Always have at least one high-ranking leader in each province. Also, that high-ranking leader should ideally _not_ lead the maximum allowed number of divisions directly, so that he can safely assume command of the whole province's contingent in case of an attack.
-*   Always have a properly manned headquarter around. This is explained below.
+- Always attack from more than one province if possible. This will not only help avoiding the OCL penalty mentioned here, but it will also invoke the _envelopement penalty_ for the enemy if you attack from three or more provinces.
+- Always have at least one high-ranking leader in each province. Also, that high-ranking leader should ideally _not_ lead the maximum allowed number of divisions directly, so that he can safely assume command of the whole province's contingent in case of an attack.
+- Always have a properly manned headquarter around. This is explained below.
 
 #### Use of headquarters
 
@@ -162,8 +158,7 @@ Hard units, which are **only light armored, armored, and mechanized divisions** 
 
 Finally, when you think you'll fight in cold weather, a _winter specialist_ is also great to have. The _fortress buster_ and _engineer_ traits have only very limited uses and should thus be considered a bonus to other traits instead of being valuable assets themselves.
 
-Missions
---------
+## Missions
 
 Although this guide is not meant to be a combat guide, a few hints at mission assignment shall be given nonetheless, as knowing about those concepts is very important for a proper setup of your forces.
 
@@ -191,12 +186,11 @@ All units that are in a province will naturally suppress partisans to their supp
 
 ### Strategic Redeployment
 
-Other concepts
---------------
+## Other concepts
 
 Now that your army is prepared for war, you should learn how to use your assets in order to win battles, and how to use battles in order to win the war. For that, have a look at the following guides and reference articles:
 
-*   [Land Combat Efficiency](/wiki/Land_Combat_Efficiency "Land Combat Efficiency") \- A very in-depth explanation of what effects combat performance and how the exact numbers are derived.
-*   [Transport Capacity and Supply Efficiency FAQ](/wiki/Transport_Capacity_and_Supply_Efficiency_FAQ "Transport Capacity and Supply Efficiency FAQ") \- A very good source of information about these important concepts. Especially the smaller countries have to watch out for TC, although it can also be a problem for Germany during Barbarossa.
-*   [Country Guides](/wiki/Country_guides "Country guides") \- A huge list of country-specific strategy guides. Not all of them are up to date, but for beginners they will still provide useful orientation.
-*   [Conducting Blitzkrieg Offensives](/wiki/Conducting_Blitzkrieg_offensives "Conducting Blitzkrieg offensives") \- A good article about Blitzkrieg warfare in the game, although it is a bit biased towards pure armored corps.
+- [Land Combat Efficiency](/wiki/Land_Combat_Efficiency "Land Combat Efficiency") \- A very in-depth explanation of what effects combat performance and how the exact numbers are derived.
+- [Transport Capacity and Supply Efficiency FAQ](/wiki/Transport_Capacity_and_Supply_Efficiency_FAQ "Transport Capacity and Supply Efficiency FAQ") \- A very good source of information about these important concepts. Especially the smaller countries have to watch out for TC, although it can also be a problem for Germany during Barbarossa.
+- [Country Guides](/wiki/Country_guides "Country guides") \- A huge list of country-specific strategy guides. Not all of them are up to date, but for beginners they will still provide useful orientation.
+- [Conducting Blitzkrieg Offensives](/wiki/Conducting_Blitzkrieg_offensives "Conducting Blitzkrieg offensives") \- A good article about Blitzkrieg warfare in the game, although it is a bit biased towards pure armored corps.

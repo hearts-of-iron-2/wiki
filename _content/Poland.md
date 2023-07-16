@@ -1,11 +1,12 @@
 ---
 title: Poland
 ---
- [Country guides](/wiki/Country_guides "Country guides")
+
+[Country guides](/wiki/Country_guides "Country guides")
 
 [Major powers](/wiki/Major_power "Major power")
 
-* * *
+---
 
 [France](/wiki/France "France")  
 [Germany](/wiki/Germany "Germany")  
@@ -17,7 +18,7 @@ title: Poland
 
 Regional powers
 
-* * *
+---
 
 [Argentina](/wiki/Argentina "Argentina")  
 [Australia](/wiki/Australia "Australia")  
@@ -41,7 +42,7 @@ Poland
 
 [Minor powers](/wiki/Minor_power "Minor power")
 
-* * *
+---
 
 [Austria](/wiki/Austria "Austria")  
 [Chile](/wiki/index.php?title=Chile&action=edit&redlink=1 "Chile (page does not exist)")  
@@ -60,7 +61,7 @@ Poland
 
 [Micro powers](/wiki/Micro_power "Micro power")
 
-* * *
+---
 
 [Afghanistan](/wiki/Afghanistan "Afghanistan")  
 [Albania](/wiki/Albania "Albania")  
@@ -102,43 +103,40 @@ Poland
 [Yemen](/wiki/index.php?title=Yemen&action=edit&redlink=1 "Yemen (page does not exist)")  
 [Yunnan](/wiki/Yunnan "Yunnan")
 
-Contents
---------
+## Contents
 
-*   [1 Background](#Background)
-*   [2 Tricks](#Tricks)
-    *   [2.1 Make Friends and Influence Countries](#Make_Friends_and_Influence_Countries)
-    *   [2.2 Demand Territory](#Demand_Territory)
-    *   [2.3 Early Alliance and an Overseas Haven](#Early_Alliance_and_an_Overseas_Haven)
-    *   [2.4 Fortress Warsaw](#Fortress_Warsaw)
-    *   [2.5 The Polish Congo](#The_Polish_Congo)
-    *   [2.6 Polish Ireland](#Polish_Ireland)
-*   [3 Walkthrough for 1936 Scenario](#Walkthrough_for_1936_Scenario)
-    *   [3.1 Peace Time](#Peace_Time)
-    *   [3.2 Troop Placement](#Troop_Placement)
-    *   [3.3 Danzig or War!](#Danzig_or_War.21)
-    *   [3.4 Slovakia](#Slovakia)
-    *   [3.5 Germany](#Germany)
-    *   [3.6 Soviet Union](#Soviet_Union)
-*   [4 Walkthrough for 1936: Option 2](#Walkthrough_for_1936:_Option_2)
-    *   [4.1 Jan 1 1936](#Jan_1_1936)
-    *   [4.2 Jan 2 1936](#Jan_2_1936)
-    *   [4.3 End of Feb 1936](#End_of_Feb_1936)
-    *   [4.4 Apr to July 1936](#Apr_to_July_1936)
-    *   [4.5 Post Dec 1936](#Post_Dec_1936)
+- [1 Background](#Background)
+- [2 Tricks](#Tricks)
+  - [2.1 Make Friends and Influence Countries](#Make_Friends_and_Influence_Countries)
+  - [2.2 Demand Territory](#Demand_Territory)
+  - [2.3 Early Alliance and an Overseas Haven](#Early_Alliance_and_an_Overseas_Haven)
+  - [2.4 Fortress Warsaw](#Fortress_Warsaw)
+  - [2.5 The Polish Congo](#The_Polish_Congo)
+  - [2.6 Polish Ireland](#Polish_Ireland)
+- [3 Walkthrough for 1936 Scenario](#Walkthrough_for_1936_Scenario)
+  - [3.1 Peace Time](#Peace_Time)
+  - [3.2 Troop Placement](#Troop_Placement)
+  - [3.3 Danzig or War!](#Danzig_or_War.21)
+  - [3.4 Slovakia](#Slovakia)
+  - [3.5 Germany](#Germany)
+  - [3.6 Soviet Union](#Soviet_Union)
+- [4 Walkthrough for 1936: Option 2](#Walkthrough_for_1936:_Option_2)
+  - [4.1 Jan 1 1936](#Jan_1_1936)
+  - [4.2 Jan 2 1936](#Jan_2_1936)
+  - [4.3 End of Feb 1936](#End_of_Feb_1936)
+  - [4.4 Apr to July 1936](#Apr_to_July_1936)
+  - [4.5 Post Dec 1936](#Post_Dec_1936)
 
-Background
-----------
+## Background
 
 World War 2 is not a good period for Poland. Since it is the first to fight, it is also the first to fall. Fortunately Hearts of Iron 2 is a game that allows you to change the history and allows Poland a chance to fight back and even annex Germany. However it is not for the faint hearted and inexperienced player.
 
 Do not bother playing Poland if:
 
-*   Germany is human controlled.
-*   You are new to this game.
+- Germany is human controlled.
+- You are new to this game.
 
-Tricks
-------
+## Tricks
 
 ### Make Friends and Influence Countries
 
@@ -190,8 +188,7 @@ Once Ireland is captured, you have a base in Dublin to defend from being annexed
 
 Likewise, the United Kingdom is highly likely to DOW over Ireland. Again, speed is essential.
 
-Walkthrough for 1936 Scenario
------------------------------
+## Walkthrough for 1936 Scenario
 
 ### Peace Time
 
@@ -207,9 +204,9 @@ Maximise hawk and then standing army. Every little org bonus is necessary.
 
 Since Poland has a very limited [research](/wiki/Research "Research") capacity, it is very important to prioritize. Always try to research in the year that the tech is supposed to be researched. Do not even think of researching Armor & Artillery, Naval, Naval Doctrine and Secret Weapon. Think twice before researching anything in aircraft and air doctrine.
 
-*   Industrial: manufacturing, agriculture and cryptography.
-*   Infantry: standard infantry, cavalry and supply.
-*   Air: you may consider researching interceptor although it is difficult to produce enough of them to make a difference.
+- Industrial: manufacturing, agriculture and cryptography.
+- Infantry: standard infantry, cavalry and supply.
+- Air: you may consider researching interceptor although it is difficult to produce enough of them to make a difference.
 
 **Trades**
 
@@ -217,8 +214,8 @@ Your main trade partners are UK and France since they have enormous amount of re
 
 **Ministers**
 
-*   Armaments Minister: use the person who gives +10% IC
-*   Head of Intelligence: during peace time, you may want the person with +30% intelligence. However make sure before war to replace him with minister that gives bonus of +30% army intelligence.
+- Armaments Minister: use the person who gives +10% IC
+- Head of Intelligence: during peace time, you may want the person with +30% intelligence. However make sure before war to replace him with minister that gives bonus of +30% army intelligence.
 
 ### Troop Placement
 
@@ -254,8 +251,7 @@ It takes months, a lot of patience and skill but if you do it properly, Germany 
 
 Thinking of attacking the Soviet Union? By the time you annex Germany, you will be very low on manpower. That reason alone is quite enough to hold any invasion plan on USSR for a while. However, you may want to demand territory from the Soviets. If you are lucky, you will gain free territories where you have claim.
 
-Walkthrough for 1936: Option 2
-------------------------------
+## Walkthrough for 1936: Option 2
 
 This requires to attack from the word Go. It is easier to implement than the walkthrough above as Germany does not have time for military development.
 

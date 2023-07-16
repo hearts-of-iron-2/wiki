@@ -1,18 +1,18 @@
 ---
 title: Surface_Action_Group
 ---
- Contents
---------
 
-*   [1 Surface Action Group (SAG)](#Surface_Action_Group_.28SAG.29)
-    *   [1.1 Fleet Composition](#Fleet_Composition)
-    *   [1.2 Zerg Fleets](#Zerg_Fleets)
-        *   [1.2.1 The Original Cruizerg Fleet](#The_Original_Cruizerg_Fleet)
-        *   [1.2.2 DD Zerg Fleet](#DD_Zerg_Fleet)
-        *   [1.2.3 Cruizerg Fleets for Doomsday](#Cruizerg_Fleets_for_Doomsday)
-            *   [1.2.3.1 Early-Game Composition](#Early-Game_Composition)
-            *   [1.2.3.2 Late-Game Composition](#Late-Game_Composition)
-    *   [1.3 Hybrid Fleet Composition](#Hybrid_Fleet_Composition)
+## Contents
+
+- [1 Surface Action Group (SAG)](#Surface_Action_Group_.28SAG.29)
+  - [1.1 Fleet Composition](#Fleet_Composition)
+  - [1.2 Zerg Fleets](#Zerg_Fleets)
+    - [1.2.1 The Original Cruizerg Fleet](#The_Original_Cruizerg_Fleet)
+    - [1.2.2 DD Zerg Fleet](#DD_Zerg_Fleet)
+    - [1.2.3 Cruizerg Fleets for Doomsday](#Cruizerg_Fleets_for_Doomsday)
+      - [1.2.3.1 Early-Game Composition](#Early-Game_Composition)
+      - [1.2.3.2 Late-Game Composition](#Late-Game_Composition)
+  - [1.3 Hybrid Fleet Composition](#Hybrid_Fleet_Composition)
 
 ### Surface Action Group (SAG)
 
@@ -22,9 +22,9 @@ The **Surface Action Group** is quite different to the [Carrier Task Force](/wik
 
 Considering a fleet composition of 18 ships, the strongest SAG is as follows. This model can be followed with less powerful SAGs, by replacing the SHBBs with BBs for a still potent force. Using BBs is more cost effective, since 3 BBs can be built for every 2 SHBBs. Finally, Heavy Cruisers (CA) can be used, for a cheap, yet still reasonably strong SAG.
 
-*   6 [Super Heavy Battleships](/wiki/Battleship "Battleship") (SHBB) (or normal Battleships)
-*   2 [Light Carriers](/wiki/Escort_Carrier "Escort Carrier") (CVL)
-*   10 [Destroyers](/wiki/Destroyer "Destroyer") (DD)
+- 6 [Super Heavy Battleships](/wiki/Battleship "Battleship") (SHBB) (or normal Battleships)
+- 2 [Light Carriers](/wiki/Escort_Carrier "Escort Carrier") (CVL)
+- 10 [Destroyers](/wiki/Destroyer "Destroyer") (DD)
 
 #### Zerg Fleets
 
@@ -32,9 +32,9 @@ Zerg fleets are considered a [gamey](/wiki/Gamey_tactics "Gamey tactics") exploi
 
 ##### The Original Cruizerg Fleet
 
-*   5 (1938) Heavy Cruisers (CA)
-*   2 Light Carriers (CVL)
-*   11 (1938) Light Cruisers with fire control (CL-FC)
+- 5 (1938) Heavy Cruisers (CA)
+- 2 Light Carriers (CVL)
+- 11 (1938) Light Cruisers with fire control (CL-FC)
 
 For a total of 18 Ships.
 
@@ -44,7 +44,7 @@ This Cruizerg is effective because the light cruiser screen vessels, when equipp
 
 A zerg fleet based on destroyers is an example of hopelessly [gamey tactics](/wiki/Gamey_tactics "Gamey tactics") , but is certainly an effective killing machine. Usually, plain DD-fleets can close in to 5km range by the second hour of battle.
 
-*   60 - 90 DD
+- 60 - 90 DD
 
 ##### Cruizerg Fleets for Doomsday
 
@@ -52,33 +52,33 @@ Doomsday lacks naval brigades, so one has to use obsolete vessels to make the st
 
 ###### Early-Game Composition
 
-*   2 CA-II (Absolutely necessary for the strategy to work to allow CL-IV to be in range since the CVL will go to the lowest ranged capital ship)
-*   4 CA-III (CA-II will work here as well)
-*   2 CVL
-*   10 CL-IV
+- 2 CA-II (Absolutely necessary for the strategy to work to allow CL-IV to be in range since the CVL will go to the lowest ranged capital ship)
+- 4 CA-III (CA-II will work here as well)
+- 2 CVL
+- 10 CL-IV
 
 ###### Late-Game Composition
 
-*   6 CA-III
-*   2 CVL
-*   10 CL-VI
+- 6 CA-III
+- 2 CVL
+- 10 CL-VI
 
 #### Hybrid Fleet Composition
 
 If you want something with the shore bombardment power of the SAG and battle prowess superior to the the cruizerg, look no further. I've taken down other human players using cruizerg fleets with this, but it can still be taken down by destroyer zerg fleets.
 
-*   4 BB-VII-FX (SHBB)
-*   2 BB-III (no FX, important\*)
-*   2 CVL
-*   10 CL-IV-FC(2)
+- 4 BB-VII-FX (SHBB)
+- 2 BB-III (no FX, important\*)
+- 2 CVL
+- 10 CL-IV-FC(2)
 
 '\* BB-III and CL-IV-FC (with an upgraded FC) both have a range of 34, if you put a FX on the BB-III's, the light cruisers will not be able to fire on the enemy. This is not an issue when putting FC's on the SHBB's since they will be firing as soon as they are in range and pack a much bigger punch.
 
 For later naval warfare:
 
-*   4 BB-IX-FX (SHBB2)
-*   2 BB)IV (no FX, same reason as above)
-*   2 CVL
-*   10 CL-VI-FC(2)
+- 4 BB-IX-FX (SHBB2)
+- 2 BB)IV (no FX, same reason as above)
+- 2 CVL
+- 10 CL-VI-FC(2)
 
 The engagement range here is 36 and has better firepower.

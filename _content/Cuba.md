@@ -1,11 +1,12 @@
 ---
 title: Cuba
 ---
- [Country guides](/wiki/Country_guides "Country guides")
+
+[Country guides](/wiki/Country_guides "Country guides")
 
 [Major powers](/wiki/Major_power "Major power")
 
-* * *
+---
 
 [France](/wiki/France "France")  
 [Germany](/wiki/Germany "Germany")  
@@ -17,7 +18,7 @@ title: Cuba
 
 Regional powers
 
-* * *
+---
 
 [Argentina](/wiki/Argentina "Argentina")  
 [Australia](/wiki/Australia "Australia")  
@@ -41,7 +42,7 @@ Regional powers
 
 [Minor powers](/wiki/Minor_power "Minor power")
 
-* * *
+---
 
 [Austria](/wiki/Austria "Austria")  
 [Chile](/wiki/index.php?title=Chile&action=edit&redlink=1 "Chile (page does not exist)")  
@@ -60,7 +61,7 @@ Regional powers
 
 [Micro powers](/wiki/Micro_power "Micro power")
 
-* * *
+---
 
 [Afghanistan](/wiki/Afghanistan "Afghanistan")  
 [Albania](/wiki/Albania "Albania")  
@@ -102,44 +103,36 @@ Cuba
 [Yemen](/wiki/index.php?title=Yemen&action=edit&redlink=1 "Yemen (page does not exist)")  
 [Yunnan](/wiki/Yunnan "Yunnan")
 
-Contents
---------
+## Contents
 
-*   [1 Introduction](#Introduction)
-*   [2 Starting off](#Starting_off)
-*   [3 Technology](#Technology)
-*   [4 Influence](#Influence)
-*   [5 Strategy](#Strategy)
-    *   [5.1 Dominican Republic](#Dominican_Republic)
-    *   [5.2 Haiti](#Haiti)
-    *   [5.3 Central America](#Central_America)
-    *   [5.4 Alliances](#Alliances)
-    *   [5.5 What's next](#What.27s_next)
+- [1 Introduction](#Introduction)
+- [2 Starting off](#Starting_off)
+- [3 Technology](#Technology)
+- [4 Influence](#Influence)
+- [5 Strategy](#Strategy)
+  - [5.1 Dominican Republic](#Dominican_Republic)
+  - [5.2 Haiti](#Haiti)
+  - [5.3 Central America](#Central_America)
+  - [5.4 Alliances](#Alliances)
+  - [5.5 What's next](#What.27s_next)
 
-Introduction
-------------
+## Introduction
 
 Cuba is small island nation low on IC and does not have much influence in the world. You can change that by expanding to the Americas and taking all of the Caribbean islands that hold something important.
 
-Starting off
-------------
+## Starting off
 
 At the beginning don't worry about IC. You will need up to 7 infantry divisions, 6 transports and some convoys, so quickly create them using the little IC you have. It would be smart to build some smaller boats to defend them but that is not required. When you're done you will be in a strange time period where all the wars will begin. You're going to have to conquer a lot to become a threat to Europe and the United States.
 
-Technology
-----------
+## Technology
 
 Since your nation is weak, you should only concentrate on infantry. Also, don't forget to work on new artillery. In the beginning you will only have 1 tech slot but in the future you will have more.
 
-Influence
----------
+## Influence
 
 Work on influencing the Axis because your future is there and you will need about +120 to join during war time. You can change the world by joining them, even though you're tiny. In the end you will have many puppets and you'll become one of the major Axis leaders.
 
-  
-
-Strategy
---------
+## Strategy
 
 ### Dominican Republic
 

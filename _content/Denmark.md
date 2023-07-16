@@ -1,11 +1,12 @@
 ---
 title: Denmark
 ---
- [Country guides](/wiki/Country_guides "Country guides")
+
+[Country guides](/wiki/Country_guides "Country guides")
 
 [Major powers](/wiki/Major_power "Major power")
 
-* * *
+---
 
 [France](/wiki/France "France")  
 [Germany](/wiki/Germany "Germany")  
@@ -17,7 +18,7 @@ title: Denmark
 
 Regional powers
 
-* * *
+---
 
 [Argentina](/wiki/Argentina "Argentina")  
 [Australia](/wiki/Australia "Australia")  
@@ -41,7 +42,7 @@ Regional powers
 
 [Minor powers](/wiki/Minor_power "Minor power")
 
-* * *
+---
 
 [Austria](/wiki/Austria "Austria")  
 [Chile](/wiki/index.php?title=Chile&action=edit&redlink=1 "Chile (page does not exist)")  
@@ -60,7 +61,7 @@ Denmark
 
 [Micro powers](/wiki/Micro_power "Micro power")
 
-* * *
+---
 
 [Afghanistan](/wiki/Afghanistan "Afghanistan")  
 [Albania](/wiki/Albania "Albania")  
@@ -102,13 +103,12 @@ Denmark
 [Yemen](/wiki/index.php?title=Yemen&action=edit&redlink=1 "Yemen (page does not exist)")  
 [Yunnan](/wiki/Yunnan "Yunnan")
 
-Contents
---------
+## Contents
 
-*   [1 Summary](#Summary)
-*   [2 Pro's & Con's](#Pro.27s_.26_Con.27s)
-    *   [2.1 Pro's](#Pro.27s)
-    *   [2.2 Con's](#Con.27s)
+- [1 Summary](#Summary)
+- [2 Pro's & Con's](#Pro.27s_.26_Con.27s)
+  - [2.1 Pro's](#Pro.27s)
+  - [2.2 Con's](#Con.27s)
 
 ### Summary
 
@@ -124,17 +124,17 @@ Denmark's terrain isn't any better. Being all of it flat lands, Germany will hav
 
 #### Pro's
 
-*   You have positive relations with the Allies and Germany
-*   Starting out with a fair amount of resources
-*   Have some great Techteam, Niels Bohr (level 7, good for Nukes), Burmeister & Wain (level 6) and F.L. Smidt (level 6) are great of Industrial techs and some level 4 doctrine teams
-*   Good position to attack Norway
-*   A large navy for a minor
+- You have positive relations with the Allies and Germany
+- Starting out with a fair amount of resources
+- Have some great Techteam, Niels Bohr (level 7, good for Nukes), Burmeister & Wain (level 6) and F.L. Smidt (level 6) are great of Industrial techs and some level 4 doctrine teams
+- Good position to attack Norway
+- A large navy for a minor
 
 #### Con's
 
-*   Everyone else either doesn't like you or has 0 relations with you
-*   Bad starting position since your onto of Germany
-*   All of the other Industral Techs would be researched slower if your are using Burmeister & Wain or F.L. Smidt
-*   Why would Denmark need a Nuclear Techteam
-*   Outdated Navy, meaning a waste of supplies
-*   Bad, bad terrain
+- Everyone else either doesn't like you or has 0 relations with you
+- Bad starting position since your onto of Germany
+- All of the other Industral Techs would be researched slower if your are using Burmeister & Wain or F.L. Smidt
+- Why would Denmark need a Nuclear Techteam
+- Outdated Navy, meaning a waste of supplies
+- Bad, bad terrain

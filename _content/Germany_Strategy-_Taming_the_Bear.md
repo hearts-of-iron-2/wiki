@@ -1,25 +1,25 @@
 ---
 title: Germany_Strategy-_Taming_the_Bear
 ---
- [Template:GermanyStrategyGuides](/wiki/index.php?title=Template:GermanyStrategyGuides&action=edit&redlink=1 "Template:GermanyStrategyGuides (page does not exist)") Russia has massive manpower and military potential and often hostile terrain. You must carefully plan your attack to reach definable objectives before adverse environmental effects start to make your life difficult.
 
-*   The Russian army can be dealt with by motorized encirclement and destruction warfare.
-*   The Russian environment can be dealt with by careful timing and preparation.
+[Template:GermanyStrategyGuides](/wiki/index.php?title=Template:GermanyStrategyGuides&action=edit&redlink=1 "Template:GermanyStrategyGuides (page does not exist)") Russia has massive manpower and military potential and often hostile terrain. You must carefully plan your attack to reach definable objectives before adverse environmental effects start to make your life difficult.
+
+- The Russian army can be dealt with by motorized encirclement and destruction warfare.
+- The Russian environment can be dealt with by careful timing and preparation.
 
 All other military options are meaningless distractions. Russian industry is widely dispersed and is impossible to deal with by strategic bombing. Naval blockades, for a nation as self-sufficient as Russia, are totally useless.
 
 This is one of the most difficult invasions as Germany. As you can see, USSR's land mass is huge and it has a large army. However, you should have much higher quality troops. Before the invasion, try to have 1941 infantry and improved medium tanks.
 
-Contents
---------
+## Contents
 
-*   [1 Be Prepared](#Be_Prepared)
-*   [2 Be Early](#Be_Early)
-*   [3 Two Offensive Seasons](#Two_Offensive_Seasons)
-*   [4 Deploy for maximum effect](#Deploy_for_maximum_effect)
-    *   [4.1 Multiple Axes of Attack](#Multiple_Axes_of_Attack)
-    *   [4.2 Single Axis of Attack](#Single_Axis_of_Attack)
-*   [5 Russia's Natural Offensive Limits](#Russia.27s_Natural_Offensive_Limits)
+- [1 Be Prepared](#Be_Prepared)
+- [2 Be Early](#Be_Early)
+- [3 Two Offensive Seasons](#Two_Offensive_Seasons)
+- [4 Deploy for maximum effect](#Deploy_for_maximum_effect)
+  - [4.1 Multiple Axes of Attack](#Multiple_Axes_of_Attack)
+  - [4.2 Single Axis of Attack](#Single_Axis_of_Attack)
+- [5 Russia's Natural Offensive Limits](#Russia.27s_Natural_Offensive_Limits)
 
 #### Be Prepared
 
@@ -43,10 +43,10 @@ You must deploy armored and mechanized groups en masse so as to get the highest 
 
 The armored units must be assisted by the infantry. Their role is:
 
-*   To provide overwhelming force at the initial point of breakthrough of enemy lines
-*   To pin in place enemy forces that are subsequently to be encircled
-*   To assist in the destruction of Soviet pockets, in particular in bad tank terrain (cities, marshes)
-*   To move up in support of the spearhead.
+- To provide overwhelming force at the initial point of breakthrough of enemy lines
+- To pin in place enemy forces that are subsequently to be encircled
+- To assist in the destruction of Soviet pockets, in particular in bad tank terrain (cities, marshes)
+- To move up in support of the spearhead.
 
 ##### Multiple Axes of Attack
 

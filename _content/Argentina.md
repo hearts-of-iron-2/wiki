@@ -1,11 +1,12 @@
 ---
 title: Argentina
 ---
- [Country guides](/wiki/Country_guides "Country guides")
+
+[Country guides](/wiki/Country_guides "Country guides")
 
 [Major powers](/wiki/Major_power "Major power")
 
-* * *
+---
 
 [France](/wiki/France "France")  
 [Germany](/wiki/Germany "Germany")  
@@ -17,7 +18,7 @@ title: Argentina
 
 Regional powers
 
-* * *
+---
 
 Argentina  
 [Australia](/wiki/Australia "Australia")  
@@ -41,7 +42,7 @@ Argentina
 
 [Minor powers](/wiki/Minor_power "Minor power")
 
-* * *
+---
 
 [Austria](/wiki/Austria "Austria")  
 [Chile](/wiki/index.php?title=Chile&action=edit&redlink=1 "Chile (page does not exist)")  
@@ -60,7 +61,7 @@ Argentina
 
 [Micro powers](/wiki/Micro_power "Micro power")
 
-* * *
+---
 
 [Afghanistan](/wiki/Afghanistan "Afghanistan")  
 [Albania](/wiki/Albania "Albania")  
@@ -102,35 +103,33 @@ Argentina
 [Yemen](/wiki/index.php?title=Yemen&action=edit&redlink=1 "Yemen (page does not exist)")  
 [Yunnan](/wiki/Yunnan "Yunnan")
 
-Contents
---------
+## Contents
 
-*   [1 Axis Argentina](#Axis_Argentina)
-    *   [1.1 Focus](#Focus)
-    *   [1.2 Startup](#Startup)
-    *   [1.3 Research](#Research)
-    *   [1.4 The road to war (1936-1939)](#The_road_to_war_.281936-1939.29)
-    *   [1.5 Alternate strategy](#Alternate_strategy)
-    *   [1.6 Argentina in the War (1940-?)](#Argentina_in_the_War_.281940-.3F.29)
-*   [2 Argentina as a major power](#Argentina_as_a_major_power)
-    *   [2.1 AIM](#AIM)
-    *   [2.2 Technology and ministers](#Technology_and_ministers)
-    *   [2.3 Diplomacy](#Diplomacy)
-    *   [2.4 Bang on to War in South America](#Bang_on_to_War_in_South_America)
-    *   [2.5 Central America and Carrabian](#Central_America_and_Carrabian)
-    *   [2.6 Total dominance in America](#Total_dominance_in_America)
-    *   [2.7 After you rule America](#After_you_rule_America)
-*   [3 Emperor Gumby's Argentina Strategy (Axis Junior-into-Senior Member)](#Emperor_Gumby.27s_Argentina_Strategy_.28Axis_Junior-into-Senior_Member.29)
-    *   [3.1 Phase 1: Initial Growth](#Phase_1:_Initial_Growth)
-        *   [3.1.1 Before unpausing:](#Before_unpausing:)
-        *   [3.1.2 After unpausing:](#After_unpausing:)
-    *   [3.2 War with Brazil](#War_with_Brazil)
-    *   [3.3 Post-Brazil](#Post-Brazil)
-    *   [3.4 Alliance with Japan](#Alliance_with_Japan)
-    *   [3.5 Post-China](#Post-China)
+- [1 Axis Argentina](#Axis_Argentina)
+  - [1.1 Focus](#Focus)
+  - [1.2 Startup](#Startup)
+  - [1.3 Research](#Research)
+  - [1.4 The road to war (1936-1939)](#The_road_to_war_.281936-1939.29)
+  - [1.5 Alternate strategy](#Alternate_strategy)
+  - [1.6 Argentina in the War (1940-?)](#Argentina_in_the_War_.281940-.3F.29)
+- [2 Argentina as a major power](#Argentina_as_a_major_power)
+  - [2.1 AIM](#AIM)
+  - [2.2 Technology and ministers](#Technology_and_ministers)
+  - [2.3 Diplomacy](#Diplomacy)
+  - [2.4 Bang on to War in South America](#Bang_on_to_War_in_South_America)
+  - [2.5 Central America and Carrabian](#Central_America_and_Carrabian)
+  - [2.6 Total dominance in America](#Total_dominance_in_America)
+  - [2.7 After you rule America](#After_you_rule_America)
+- [3 Emperor Gumby's Argentina Strategy (Axis Junior-into-Senior Member)](#Emperor_Gumby.27s_Argentina_Strategy_.28Axis_Junior-into-Senior_Member.29)
+  - [3.1 Phase 1: Initial Growth](#Phase_1:_Initial_Growth)
+    - [3.1.1 Before unpausing:](#Before_unpausing:)
+    - [3.1.2 After unpausing:](#After_unpausing:)
+  - [3.2 War with Brazil](#War_with_Brazil)
+  - [3.3 Post-Brazil](#Post-Brazil)
+  - [3.4 Alliance with Japan](#Alliance_with_Japan)
+  - [3.5 Post-China](#Post-China)
 
-Axis Argentina
---------------
+## Axis Argentina
 
 This a 1936 GC guide, playing HoI2 v1.3b.1 (Mac). Work in progress, please bear with me. :)
 
@@ -156,12 +155,12 @@ Face it: you don't have the best tech teams in the world. On the other hand, you
 
 Your first two research should be Machine Tools and Census Tabulating Machine. For your next moves, I would recommend:
 
-*   Industrial techs: Manufacturing (for the IC) and Computers (for the research bonus). As often said, don't go into nuclear research, you're not up to par, anyway. Rockets can be useful later, for rocket- and turbojet-propelled aircraft, but don't rush it, either. Agriculture has its use for increased manpower, as does the oil techs. Radar are more likely lower priority.
-*   Infantry: get Infantry 1936 soon; it's not that urgent, but by the end of 1936, go for it! If you have the resources, check Mountain troops, maybe Marines, too. Also, don't underestimate the Supply techs.
-*   Armor and Artillery: if you must research something there, focus on artillery, possibly static AA. Don't bother with tanks: South America is not the best-suited terrain for these.
-*   Aircraft: don't sweat it, for the time being. Your Naval Bombers (which will be your main air force) won't be upgradable until 1940. Look into Interceptor techs, maybe CAS, which are nice all-around ground- and sea-attack planes.
-*   Naval: decisions, decisions... You cannot research everything, you cannot build everything, so I would advise you to focus on Submarines. Research up until Long-Range and then let it rest. Later on, you may wish to build a larger surface fleet, but limit it to smaller ships (CL and CA may be the best value here).
-*   Doctrines: land and sea doctrines take a lot of research time, but are vital for your combat efficiency. They are not that important early in the game, but don't forget them after 1938. Try to bargain for blueprints -- except, of course, Germany has a different Land Doctrine path... Air doctrines are usually faster.
+- Industrial techs: Manufacturing (for the IC) and Computers (for the research bonus). As often said, don't go into nuclear research, you're not up to par, anyway. Rockets can be useful later, for rocket- and turbojet-propelled aircraft, but don't rush it, either. Agriculture has its use for increased manpower, as does the oil techs. Radar are more likely lower priority.
+- Infantry: get Infantry 1936 soon; it's not that urgent, but by the end of 1936, go for it! If you have the resources, check Mountain troops, maybe Marines, too. Also, don't underestimate the Supply techs.
+- Armor and Artillery: if you must research something there, focus on artillery, possibly static AA. Don't bother with tanks: South America is not the best-suited terrain for these.
+- Aircraft: don't sweat it, for the time being. Your Naval Bombers (which will be your main air force) won't be upgradable until 1940. Look into Interceptor techs, maybe CAS, which are nice all-around ground- and sea-attack planes.
+- Naval: decisions, decisions... You cannot research everything, you cannot build everything, so I would advise you to focus on Submarines. Research up until Long-Range and then let it rest. Later on, you may wish to build a larger surface fleet, but limit it to smaller ships (CL and CA may be the best value here).
+- Doctrines: land and sea doctrines take a lot of research time, but are vital for your combat efficiency. They are not that important early in the game, but don't forget them after 1938. Try to bargain for blueprints -- except, of course, Germany has a different Land Doctrine path... Air doctrines are usually faster.
 
 Whenever you can do so, start building a small quantity of industries (such as 2x4 or even 2x3). This will be important in getting to the 40 IC holy grail. Also have a couple transport ships ready for 1939; get some Marines, too, if you can.
 
@@ -211,8 +210,7 @@ Have your old fleet (remember them?) set up near the most frequent Allied landin
 
 _Coming Soon: Back to the offensive_
 
-Argentina as a major power
---------------------------
+## Argentina as a major power
 
 ### AIM
 
@@ -254,10 +252,7 @@ Before you go to war, garrision ALL beach heads with inf with artillery. You don
 
 I allied with Germany and got only a few blueprints, its probably not worth joining the Axis if you want to fight them later ((From Emperor Gumby IV- Buy the blueprints from them with Oil and Metal. It's not like you can use everything you have))
 
-  
-
-Emperor Gumby's Argentina Strategy (Axis Junior-into-Senior Member)
--------------------------------------------------------------------
+## Emperor Gumby's Argentina Strategy (Axis Junior-into-Senior Member)
 
 HOI2 DD v1.2, 1936 GC
 
@@ -287,8 +282,6 @@ Load your mountaineer division and the HQ into the transports and do an amphibio
 
 Don't advance inland yet. All but one IC and VPs are located along the coast. Recife might pose a small problem. There's a river between it and Salvador, but Fortaleza is never defended and you can land troops there and attack from both directions. Your last amphibious assault should be on Belem. Use a militia for this as it won't be a defended province and there's no harbor there to pick up the unit, so it will have to march to another province. Advance a unit from Vitoria to Golias, support the attack from all directions that can, or they might get defeated due to poor infrastructure and losing lots of organization while moving. As soon as you control Golias, annex Brazil, dissent or no dissent. We don't have time to keep fighting them.
 
-  
-
 ### Post-Brazil
 
 As I said, we don't have time to keep messing with Brazil. We have to finish taking over South America before the USA starts raising their intervention to the point where we can't sneeze without Patton showing up in our capital. Try not to worry about Partisans unless it actually spawns a unit.
@@ -312,8 +305,6 @@ Once you are lord and master of South America, join Japan's alliance. If you hav
 Also, a change in ministers from prince of terror to man of the people is in order. Also, the chief of staff that gives 25% more manpower too. Otherwise you're going to run out of troops while fighting some of the bigger nations later. You might be able to get away with not doing this, but I don't recommend it. You'll lose quite a bit of IC, but you'll double your manpower. Be careful about switching too early with Prince of Terror or you'll lose the third tech team and anything they were doing until you're back to 40 IC. Be warned that the sudden change of government event might make this change for you and there's not anything you can do... so don't mess around with the dissent and make sure you've been moving your intervention slider all this time.
 
 Joining Japan's alliance will automatically put you at war with China, but with no penalty to dissent. Rebase your transports to Quito and begin moving troops across the pacific. You won't be able to use Sea Transport missions, but you can tell your transports to rebase to allied ports in Asia via the dropdown menu. Shanghai is usually a good spot, if not, just use Dalian. Once your troops are in Asia, rebase back to Quito and restart the process. Until you have 16-ish divisions in Asia, loan them to Japan as expeditionary forces. Once the bulk of your army has arrived, start trying to take key points like Guangzhou, Guilin, and Chongqing. This normally leads to Japan achieving victory over China around the time things start to heat up in Europe.
-
-  
 
 ### Post-China
 

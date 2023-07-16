@@ -1,7 +1,8 @@
 ---
 title: Bauxite_Production_per_country_1936-1948_(Al_content_of_ore)
 ---
- Source: BR Mitchell.
+
+Source: BR Mitchell.
 
 Numbers are 1000s of metric tons, note the US production spike
 
@@ -13,9 +14,9 @@ Numbers are 1000s of metric tons, note the US production spike
 
 All data below is compiled from a lot of online and offline sources. Some numbers are approximations and are denoted as such. Note the numbers provided are not for bauxite, but for pure aluminium and for alumina. Bauxite amount can be calculated using coefficients 3 for alumina and 6 for aluminium. All numbers are in thousands of metric tons.
 
-*   1940\. Uralsky Aluminievy Zavod (UAZ): 12.3 to 13.3 aluminium, 31.2 alumina. It's aluminium production was about 45% of whole country production, so Tikhvinsky and Dneprovsky plants have produced approx. 15 to 16 aluminium. So far I have not found data for alumina.
-*   1941\. UAZ - 31.1 aluminium, no data for alumina. Other two plants are evacuated. No data for their production in the first half of the year.
-*   1942\. From this year on, UAZ (Sverdlovskaya oblast) is the only factory in USSR producing aluminium. 51.7 aluminium, approx. 120 alumina.
-*   1943\. 57.9 aluminium.
-*   1944\. 72.4 aluminium, 111% alumina compared to 1943. Unfortunately, no data for 1943. :-)
-*   1945\. 71.5 aluminium (less amount, but of higher quality), in this year some other plants have started producing aluminium.
+- 1940\. Uralsky Aluminievy Zavod (UAZ): 12.3 to 13.3 aluminium, 31.2 alumina. It's aluminium production was about 45% of whole country production, so Tikhvinsky and Dneprovsky plants have produced approx. 15 to 16 aluminium. So far I have not found data for alumina.
+- 1941\. UAZ - 31.1 aluminium, no data for alumina. Other two plants are evacuated. No data for their production in the first half of the year.
+- 1942\. From this year on, UAZ (Sverdlovskaya oblast) is the only factory in USSR producing aluminium. 51.7 aluminium, approx. 120 alumina.
+- 1943\. 57.9 aluminium.
+- 1944\. 72.4 aluminium, 111% alumina compared to 1943. Unfortunately, no data for 1943. :-)
+- 1945\. 71.5 aluminium (less amount, but of higher quality), in this year some other plants have started producing aluminium.

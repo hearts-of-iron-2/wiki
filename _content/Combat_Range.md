@@ -1,7 +1,8 @@
 ---
 title: Combat_Range
 ---
- ### Combat Range
+
+### Combat Range
 
 Combat range is a factor in determining [positioning](/wiki/Positioning "Positioning") . Each fleet has an optimum combat range it wants to achieve when entering combat, and if it achieves surprise it will have a good chance that its positioning will be high enough to start the battle at that range. For example, Transport Fleets will have their goal to escape, so their optimum range is 450 km. If this range is achieved, the transports will be able to retreat without taking damage. Meanwhile, a CTF needs to be in range for its planes to strike, and yet out of range of capital ship heavy guns. Finally, a SAG needs to close distance as much as possible in order to unleash all its firepower.
 
@@ -9,12 +10,12 @@ Given no surprise on either side, imagine a 15-ship CTF entering battle against 
 
 **Combat Range** in Naval battles has an optimal value. This value is believed to be calculated as described below
 
-*   [CV](/wiki/CV "CV") is the highest class in calculating optimal range.
-*   [Capital Ship](/wiki/Capital_Ship "Capital Ship") or [CVL](/wiki/CVL "CVL") is the second highest class in calculating optimal range.
-*   [Screen Ship](/wiki/Screen_Ship "Screen Ship") is the lowest class in calulating optimal range.
-*   **Unique class's**
-    *   [Submarine](/wiki/Submarine "Submarine") ONLY fleets will attempt to be at 90% of the maximum range of the shortest range submarine
-    *   [Transport](/wiki/Transport "Transport") ONLY fleets will attempt to be at 450+ km and then flee.
+- [CV](/wiki/CV "CV") is the highest class in calculating optimal range.
+- [Capital Ship](/wiki/Capital_Ship "Capital Ship") or [CVL](/wiki/CVL "CVL") is the second highest class in calculating optimal range.
+- [Screen Ship](/wiki/Screen_Ship "Screen Ship") is the lowest class in calulating optimal range.
+- **Unique class's**
+  - [Submarine](/wiki/Submarine "Submarine") ONLY fleets will attempt to be at 90% of the maximum range of the shortest range submarine
+  - [Transport](/wiki/Transport "Transport") ONLY fleets will attempt to be at 450+ km and then flee.
 
 **Optimal Range** will always be **90%** of the **maximum** range of the **shortest** range of the **highest** ship class.
 

@@ -1,20 +1,19 @@
 ---
 title: HQ_Units_in_Action
 ---
- [Template:Anthology](/wiki/index.php?title=Template:Anthology&action=edit&redlink=1 "Template:Anthology (page does not exist)") _This Guide was originally developed by **czar1111** . Please see [this thread](http://forum.paradoxplaza.com/forum/showthread.php?t=188821) on the Paradox Forums for the original file._
 
-Contents
---------
+[Template:Anthology](/wiki/index.php?title=Template:Anthology&action=edit&redlink=1 "Template:Anthology (page does not exist)") _This Guide was originally developed by **czar1111** . Please see [this thread](http://forum.paradoxplaza.com/forum/showthread.php?t=188821) on the Paradox Forums for the original file._
 
-*   [1 HQ Units and Planning in HoI 2 (The Invasion of Poland)](#HQ_Units_and_Planning_in_HoI_2_.28The_Invasion_of_Poland.29)
-    *   [1.1 HQ Command Abilities](#HQ_Command_Abilities)
-    *   [1.2 Battle Planning](#Battle_Planning)
-        *   [1.2.1 Adding a Second HQ](#Adding_a_Second_HQ)
-        *   [1.2.2 Three HQ Units??](#Three_HQ_Units.3F.3F)
-    *   [1.3 The Results](#The_Results)
+## Contents
 
-HQ Units and Planning in HoI 2 (The Invasion of Poland)
-=======================================================
+- [1 HQ Units and Planning in HoI 2 (The Invasion of Poland)](#HQ_Units_and_Planning_in_HoI_2_.28The_Invasion_of_Poland.29)
+  - [1.1 HQ Command Abilities](#HQ_Command_Abilities)
+  - [1.2 Battle Planning](#Battle_Planning)
+    - [1.2.1 Adding a Second HQ](#Adding_a_Second_HQ)
+    - [1.2.2 Three HQ Units??](#Three_HQ_Units.3F.3F)
+  - [1.3 The Results](#The_Results)
+
+# HQ Units and Planning in HoI 2 (The Invasion of Poland)
 
 This AAR is more a discussion of the use of [HQ Units](/wiki/HQ_Division "HQ Division") in HoI2. It began as a more general AAR and that will still be completed at a later time.
 
@@ -26,8 +25,7 @@ First of all, you should check out the [Land Combat Efficiency FAQ](/wiki/Land_C
 
 HQs provide a bonus to the number of units a leader can control; a bonus to the attack and defence efficiency; HQs provide a boost to a units ESE (Effective Supply Efficiency) by an HQ adjacent or in the same province.
 
-HQ Command Abilities
---------------------
+## HQ Command Abilities
 
 Look at the next screen shot. I have placed an HQ we will call “Red Command” in Oppeln:
 
@@ -83,8 +81,7 @@ This is important because only units attacking from provinces adjacent to the HQ
 
 This fact actually encourages something new in HoI2: Battle Planning.
 
-Battle Planning
----------------
+## Battle Planning
 
 As you can see from the Battle Planning image, the plan takes advantage of the HQ by making sure all the attacks come from provinces within the HQ influence. In some cases the furthest provinces can be attacked from multiple directions (Bydgoszcz, Lodz and Kielce) but in others there is only one possible province the attack can be launched from (Radom and Przemyal).
 
@@ -128,8 +125,7 @@ Now obviously, Poland is mostly flat. With the exception of a few rivers there i
 
 So, how did it go?
 
-The Results
------------
+## The Results
 
 The map shows Poland on the 5th September 1939 (5 days into the fighting) using the final plan. (The Slovakian units are supporting German attacks, but are not advancing themselves)
 

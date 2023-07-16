@@ -1,7 +1,8 @@
 ---
 title: Copper_Production_per_country_1936-1948_(Cu_content_of_ore)
 ---
- Source: BR Mitchell.
+
+Source: BR Mitchell.
 
 Numbers are 1000s of metric tons
 

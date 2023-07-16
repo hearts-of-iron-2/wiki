@@ -1,12 +1,12 @@
 ---
 title: Strategy_for_Ardennes_Offensive
 ---
- [Template:Scenario guides](/wiki/index.php?title=Template:Scenario_guides&action=edit&redlink=1 "Template:Scenario guides (page does not exist)")
 
- [![Shieldals.jpg](/images/5/57/Shieldals.jpg)](/wiki/File:Shieldals.jpg)[![Vs.jpg](/images/9/93/Vs.jpg) ](/wiki/File:Vs.jpg)[![Shieldger.jpg](/images/7/71/Shieldger.jpg)](/wiki/File:Shieldger.jpg)
+[Template:Scenario guides](/wiki/index.php?title=Template:Scenario_guides&action=edit&redlink=1 "Template:Scenario guides (page does not exist)")
 
-Allied Strategy
----------------
+[![Shieldals.jpg](/images/5/57/Shieldals.jpg)](/wiki/File:Shieldals.jpg)[![Vs.jpg](/images/9/93/Vs.jpg) ](/wiki/File:Vs.jpg)[![Shieldger.jpg](/images/7/71/Shieldger.jpg)](/wiki/File:Shieldger.jpg)
+
+## Allied Strategy
 
 The germans are very strong along the east/south east front and any attack along this front will fail. Withdraw as many divisions as possible from this front, leave about five divisions in each province. Move this mobile reserve to the provinces behind Arnhem, this is where the Germans will try to break through.
 
@@ -14,7 +14,6 @@ Forget any history lessons of the Battle of the Bulge, it doesn't play out that 
 
 The enemy will attack north from their positions in the east to retake the territory you have occupied in Germany, you will need to keep your forces positioned for mutual supporting roles in defending the conquered territory.
 
-German Strategy
----------------
+## German Strategy
 
 Your number one goal in this scenario (and the one that will almost guarantee success) is to capture Antwerp. But instead of attacking through the Ardennes, as happened historically, hit the the Allies in the north at Arnhem from multiple directions. Continue to push south, all the while using all you forces in multi-directional attacks, until you link up with your 2 divisons in Dunkirk. By then victory should be yours!

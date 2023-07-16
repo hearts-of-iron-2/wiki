@@ -1,24 +1,21 @@
 ---
 title: HOI2_Patch1.1
 ---
+
  <table class="metadata plainlinks ambox ambox-style" style=""><tbody><tr><td class="mbox-image"><div style="width: 52px;"><a class="image" href="/wiki/File:Wikitext.png"><img alt="Wikitext.png" data-file-height="20" data-file-width="50" data-url="https://central.paradoxwikis.com/images/2/2f/Wikitext.png" decoding="async" height="20" loading="lazy" src="https://central.paradoxwikis.com/images/2/2f/Wikitext.png" width="50"></a></div></td><td class="mbox-text" style=""><b>This article may need to be formatted <a href="/wiki/Template:Wikify" title="Template:Wikify">following an encyclopedic style </a>.</b><br><small>Please help improve <a class="external text" href="https://hoi2.paradoxwikis.com/index.php?title=HOI2_Patch1.1&amp;action=edit" rel="nofollow">this </a>article if you can.</small></td></tr></tbody></table>
 
-  
+## Contents
 
-Contents
---------
+- [1 Interface Enhancements](#Interface_Enhancements)
+- [2 Gameplay Changes](#Gameplay_Changes)
+- [3 AI Improvements](#AI_Improvements)
+- [4 Modding Support](#Modding_Support)
+- [5 Multiplayer Specific](#Multiplayer_Specific)
+- [6 Bugfixes](#Bugfixes)
+- [7 Events](#Events)
+- [8 Scenario Setup](#Scenario_Setup)
 
-*   [1 Interface Enhancements](#Interface_Enhancements)
-*   [2 Gameplay Changes](#Gameplay_Changes)
-*   [3 AI Improvements](#AI_Improvements)
-*   [4 Modding Support](#Modding_Support)
-*   [5 Multiplayer Specific](#Multiplayer_Specific)
-*   [6 Bugfixes](#Bugfixes)
-*   [7 Events](#Events)
-*   [8 Scenario Setup](#Scenario_Setup)
-
-Interface Enhancements
-----------------------
+## Interface Enhancements
 
 \- The maximum organisation can now always be seen. In the detail screen, in tooltips, and as small graphical markers.
 
@@ -50,8 +47,7 @@ Interface Enhancements
 
 \- There is now information in the cancelled trade agreement message, about which was cancelled.
 
-Gameplay Changes
-----------------
+## Gameplay Changes
 
 \- Changed logics of when its possible to attach brigades, to reduce some exploits.
 
@@ -183,8 +179,7 @@ Gameplay Changes
 
 \- Relations no longer drop if an alliance partner or puppet/master cancels an agreement between them.
 
-AI Improvements
----------------
+## AI Improvements
 
 \- Worked alot on the front AI to teach it to evaluate attack and defend odds better, also improved its
 
@@ -220,17 +215,15 @@ AI Improvements
 
 \- Loads and loads more of AI code and scripts written for various cases of when circumstances change.
 
-Modding Support
----------------
+## Modding Support
 
 \- A lot more factors have been exported to the db\\misc.txt file, so that modders can tweak.
 
-\- Enchanced the scripting capabilites for the AI, see the docs/ai\_file\_doc.txt for details.
+\- Enchanced the scripting capabilites for the AI, see the docs/ai_file_doc.txt for details.
 
 \- Fixed a few problems with eventcommands that manipulate the weather.
 
-Multiplayer Specific
---------------------
+## Multiplayer Specific
 
 \- Added a little indicator to show who has not yet pressed "startgame" in the chat listing.
 
@@ -238,8 +231,7 @@ Multiplayer Specific
 
 \- Fixed a problem with people timing out in the lobby.
 
-Bugfixes
---------
+## Bugfixes
 
 \- Ships are now properly flagged as retreating when they are given the order even while moving.
 
@@ -281,233 +273,226 @@ Bugfixes
 
 \- Fixed a problem with convoys not being displayed properly if blocked.
 
-Events
-------
+## Events
 
 \- New Eventseries:
 
-*   "Soviet-Romanian War" (over Bessarabia with a limited peace offer)
+- "Soviet-Romanian War" (over Bessarabia with a limited peace offer)
 
-*   "Lin Sen" (death event)
+- "Lin Sen" (death event)
 
-*   "Alternative US Elections" (if US is Paternal Authocratic)
+- "Alternative US Elections" (if US is Paternal Authocratic)
 
-*   "Democracy Defended" (Republican boost if Franco get no foreign help)
+- "Democracy Defended" (Republican boost if Franco get no foreign help)
 
-*   "Great War Demonstration" (might happen if GER doesn't occupy Rhineland)
+- "Great War Demonstration" (might happen if GER doesn't occupy Rhineland)
 
-*   "Independent Croatia" (Croatia become German puppet)
+- "Independent Croatia" (Croatia become German puppet)
 
-*   "Germany Surrender" (if the Soviets can take a bath in the Eng Channel)
+- "Germany Surrender" (if the Soviets can take a bath in the Eng Channel)
 
-  
 \- Modified triggers for the following events:
 
-*   "The Undeclared War"
+- "The Undeclared War"
 
-*   "US Lend-Lease Events"
+- "US Lend-Lease Events"
 
-*   "Oil Embargo against Japan"
+- "Oil Embargo against Japan"
 
-*   "Vichy France"
+- "Vichy France"
 
-*   "Marco Polo Bridge"
+- "Marco Polo Bridge"
 
-*   "Molotov-Ribbentrop Pact"
+- "Molotov-Ribbentrop Pact"
 
-*   "Bitter Peace"
+- "Bitter Peace"
 
-*   "Destroyers for bases"
+- "Destroyers for bases"
 
-*   "Denmark folds"
+- "Denmark folds"
 
-*   "US Elections"
+- "US Elections"
 
-*   "Jose Antonio"
+- "Jose Antonio"
 
-*   "Victory events for Coral Sea"
+- "Victory events for Coral Sea"
 
-*   "Victory events for Desert Fox"
+- "Victory events for Desert Fox"
 
-*   "Vichy leader defection"
+- "Vichy leader defection"
 
-*   "Hess' flight to Scotland"
+- "Hess' flight to Scotland"
 
-*   "US Gearing Up events"
+- "US Gearing Up events"
 
-  
 \- Modified effects in the following events:
 
-*   "Destroyers for bases" (USA get access to UK)
+- "Destroyers for bases" (USA get access to UK)
 
-*   "Lean on Siam"/"Pressure on Siam" (many effects in all events in the serie)
+- "Lean on Siam"/"Pressure on Siam" (many effects in all events in the serie)
 
-*   "ROM/HUN switches side" (will ally the USSR)
+- "ROM/HUN switches side" (will ally the USSR)
 
-*   "Bitter Peace-2nd Version" (seccedes Romanian provinces)
+- "Bitter Peace-2nd Version" (seccedes Romanian provinces)
 
-*   "Spanish Civil War" (supply costs decreased)
+- "Spanish Civil War" (supply costs decreased)
 
-*   "Wilkie"
+- "Wilkie"
 
-*   "US Lendlease to USSR"
+- "US Lendlease to USSR"
 
-*   "Creation of Vichy"
+- "Creation of Vichy"
 
-*   "Treaty of Munich/End of Czech"
+- "Treaty of Munich/End of Czech"
 
-*   "Warsaw Uprising"
+- "Warsaw Uprising"
 
-  
 \- New event commands:
 
-*   new trigger "attack" which lets the event check if the country is attacked by another given country.
+- new trigger "attack" which lets the event check if the country is attacked by another given country.
 
-*   command reformulated to allow partisan-controlled provinces to secede.
+- command reformulated to allow partisan-controlled provinces to secede.
 
-Scenario Setup
---------------
+## Scenario Setup
 
 \- Modifications to the 1936 campaign
 
-*   Switched Manchurian for Korean provinces as nationals for Japan.
+- Switched Manchurian for Korean provinces as nationals for Japan.
 
-*   Added missing static anti-air guns in Southern Part of Maginot line for France.
+- Added missing static anti-air guns in Southern Part of Maginot line for France.
 
-*   Decreased Manchurian supply at start from 10000 to 100.
+- Decreased Manchurian supply at start from 10000 to 100.
 
-*   Added Southern Sakhalin as nationalprovinces for Japan.
+- Added Southern Sakhalin as nationalprovinces for Japan.
 
-*   US force at Philippines is now locked in position.
+- US force at Philippines is now locked in position.
 
-*   Added some Australian bases.
+- Added some Australian bases.
 
-*   Modifications to Communist and Nationalist unit setups.
+- Modifications to Communist and Nationalist unit setups.
 
-*   Added Home defense units to the UK and removed all the extra IC.
+- Added Home defense units to the UK and removed all the extra IC.
 
-*   Lowered Italian belligerence to 0.
+- Lowered Italian belligerence to 0.
 
 \- Modifications to the 1939 campaign
 
-*   Switched Manchurian for Korean provinces as nationals for Japan.
+- Switched Manchurian for Korean provinces as nationals for Japan.
 
-*   Removed Italian navalbase from inland Turin.
+- Removed Italian navalbase from inland Turin.
 
-*   Added missing static anti-air guns in Southern Part of Maginot line for France.
+- Added missing static anti-air guns in Southern Part of Maginot line for France.
 
-*   Communist China is now allied with Nationalist China.
+- Communist China is now allied with Nationalist China.
 
-*   US force at Philippines is now locked in position.
+- US force at Philippines is now locked in position.
 
-*   Added some Australian bases.
+- Added some Australian bases.
 
-*   Added an airbase for Nationalist China.
+- Added an airbase for Nationalist China.
 
-*   Switched a province from Siam to France.
+- Switched a province from Siam to France.
 
 \- Modifications to the 1941 campaign
 
-*   Switched Manchurian for Korean provinces as nationals for Japan.
+- Switched Manchurian for Korean provinces as nationals for Japan.
 
-*   Communist China is now allied with Nationalist China.
+- Communist China is now allied with Nationalist China.
 
-*   Switched ownership of a few provinces between Japan and Nationalist China.
+- Switched ownership of a few provinces between Japan and Nationalist China.
 
-*   Added Southern Sakhalin as nationalprovinces for Japan.
+- Added Southern Sakhalin as nationalprovinces for Japan.
 
-*   Added some Australian bases.
+- Added some Australian bases.
 
-*   Modifications to German unit names.
+- Modifications to German unit names.
 
-*   Moved a Turkish unit from Tblisi to Turkish territory.
+- Moved a Turkish unit from Tblisi to Turkish territory.
 
 \- Modifications to the 1944 campaign
 
-*   Switched Manchurian for Korean provinces as nationals for Japan.
+- Switched Manchurian for Korean provinces as nationals for Japan.
 
-*   Switched ownership of a few provinces between Japan and Nationalist China.
+- Switched ownership of a few provinces between Japan and Nationalist China.
 
-*   Modifications to German unit names.
+- Modifications to German unit names.
 
-*   Moved some German V-rockets from Ghent to Lille, and gave Lille an airbase for them.
+- Moved some German V-rockets from Ghent to Lille, and gave Lille an airbase for them.
 
-*   Three provinces added as nationalprovinces for Siam.
+- Three provinces added as nationalprovinces for Siam.
 
 \- Modifications to Ardennes:
 
-*   Modifications to event triggers, dates and effects.
+- Modifications to event triggers, dates and effects.
 
-*   Tweaked down the offmap supplies/oil to make the supply events more useful.
+- Tweaked down the offmap supplies/oil to make the supply events more useful.
 
-*   Removed static weather, snowstorms will now come and go in the scenario.
+- Removed static weather, snowstorms will now come and go in the scenario.
 
-*   Modifications to German unit names.
+- Modifications to German unit names.
 
-*   Added a supplypool in Dunkirk and added a German technology.
+- Added a supplypool in Dunkirk and added a German technology.
 
-*   Added offensives to many German units.
+- Added offensives to many German units.
 
-*   Reduced allied oil/supply pool significantly and doubled effect of oil/supply events.
+- Reduced allied oil/supply pool significantly and doubled effect of oil/supply events.
 
-*   Changed many artillery brigades to self-propelled artillery.
+- Changed many artillery brigades to self-propelled artillery.
 
-  
 \- Modifications to D-Day:
 
-*   Two GER divs will be activated properly in D-Day.
+- Two GER divs will be activated properly in D-Day.
 
-*   Panzer Reserve is unlocked if Allies launches Operation Dragoon.
+- Panzer Reserve is unlocked if Allies launches Operation Dragoon.
 
-  
 \- Terrain Modifications:
 
-*   Rearranged some areas in Far East Russia.
+- Rearranged some areas in Far East Russia.
 
-*   Added two Chinese beaches.
+- Added two Chinese beaches.
 
-*   Modifications to climate for seazones, lakes and provinces.
+- Modifications to climate for seazones, lakes and provinces.
 
-*   Modifications to terrain for provinces.
+- Modifications to terrain for provinces.
 
-*   Åmål no longer has a port nor a beach.
+- Åmål no longer has a port nor a beach.
 
 \- Added river connections
 
-*   Lille - Mons
+- Lille - Mons
 
-*   Amsterdam - Leeuwarden
+- Amsterdam - Leeuwarden
 
 \- Modifications to setup technologies
 
-*   Added Adv Machine Tools to British setup in GC41.
+- Added Adv Machine Tools to British setup in GC41.
 
-*   Added Air Superiority Doctrine to Nationalist Chinese setup in GC36, GC39 and GC41.
+- Added Air Superiority Doctrine to Nationalist Chinese setup in GC36, GC39 and GC41.
 
-*   Added Mobility Focus doctrine to Nationalist Chinese setup in GC39.
+- Added Mobility Focus doctrine to Nationalist Chinese setup in GC39.
 
-*   Communist China can now dig-in in GC36.
+- Communist China can now dig-in in GC36.
 
-*   Removed the two oil refinery techs from, and added Basic Naval Bomber to the USA in GC36.
+- Removed the two oil refinery techs from, and added Basic Naval Bomber to the USA in GC36.
 
-*   Added air superiority doctrine to Yugoslavia in GC36 and GC39, and to Bulgaria in GC39.
+- Added air superiority doctrine to Yugoslavia in GC36 and GC39, and to Bulgaria in GC39.
 
-*   Modified Finnish land techs in GC39,GC41 and GC44.
+- Modified Finnish land techs in GC39,GC41 and GC44.
 
 \- Modifications to Ministers and Leaders.
 
-*   RSI now defaults to Fascist state ideology.
+- RSI now defaults to Fascist state ideology.
 
-*   Sweden starts with a Socialdemocratic government in GC36.
+- Sweden starts with a Socialdemocratic government in GC36.
 
-*   Added Dutch, New Zeelander and Australian leaders to Southern Conquest scenario.
+- Added Dutch, New Zeelander and Australian leaders to Southern Conquest scenario.
 
-*   Modified traits for a number of leaders.
+- Modified traits for a number of leaders.
 
-*   California,Texas, and Scotland will be fascist if the are released.
+- California,Texas, and Scotland will be fascist if the are released.
 
-*   Added US Ministers.
+- Added US Ministers.
 
-*   British land leader "Bourne of Atherstone" should now be Commando + Logistics Wizard.
+- British land leader "Bourne of Atherstone" should now be Commando + Logistics Wizard.
 
-*   Changed death date for a German leader/tech team used by Germany and Nationalist China.
+- Changed death date for a German leader/tech team used by Germany and Nationalist China.

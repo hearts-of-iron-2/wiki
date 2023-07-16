@@ -1,31 +1,30 @@
 ---
 title: Reinforcements,_Reorganization_and_Bases
 ---
- Contents
---------
 
-*   [1 Reinforcements](#Reinforcements)
-    *   [1.1 When do units reinforce?](#When_do_units_reinforce.3F)
-    *   [1.2 How fast do units reinforce?](#How_fast_do_units_reinforce.3F)
-    *   [1.3 How much does reinforcement cost?](#How_much_does_reinforcement_cost.3F)
-*   [2 Reorganization](#Reorganization)
-    *   [2.1 Land units](#Land_units)
-    *   [2.2 Naval units](#Naval_units)
-    *   [2.3 Air units](#Air_units)
-    *   [2.4 The School of Psychology Chief of Staff](#The_School_of_Psychology_Chief_of_Staff)
-*   [3 The influence of Bases](#The_influence_of_Bases)
-    *   [3.1 Naval base](#Naval_base)
-    *   [3.2 Air base](#Air_base)
-*   [4 Example Tables](#Example_Tables)
-    *   [4.1 Basic reorganization](#Basic_reorganization)
-    *   [4.2 Land units](#Land_units_2)
-        *   [4.2.1 Effect of infrastructure](#Effect_of_infrastructure)
-    *   [4.3 Air units](#Air_units_2)
-        *   [4.3.1 Effect of infrastructure](#Effect_of_infrastructure_2)
-    *   [4.4 Naval units](#Naval_units_2)
+## Contents
 
-Reinforcements
---------------
+- [1 Reinforcements](#Reinforcements)
+  - [1.1 When do units reinforce?](#When_do_units_reinforce.3F)
+  - [1.2 How fast do units reinforce?](#How_fast_do_units_reinforce.3F)
+  - [1.3 How much does reinforcement cost?](#How_much_does_reinforcement_cost.3F)
+- [2 Reorganization](#Reorganization)
+  - [2.1 Land units](#Land_units)
+  - [2.2 Naval units](#Naval_units)
+  - [2.3 Air units](#Air_units)
+  - [2.4 The School of Psychology Chief of Staff](#The_School_of_Psychology_Chief_of_Staff)
+- [3 The influence of Bases](#The_influence_of_Bases)
+  - [3.1 Naval base](#Naval_base)
+  - [3.2 Air base](#Air_base)
+- [4 Example Tables](#Example_Tables)
+  - [4.1 Basic reorganization](#Basic_reorganization)
+  - [4.2 Land units](#Land_units_2)
+    - [4.2.1 Effect of infrastructure](#Effect_of_infrastructure)
+  - [4.3 Air units](#Air_units_2)
+    - [4.3.1 Effect of infrastructure](#Effect_of_infrastructure_2)
+  - [4.4 Naval units](#Naval_units_2)
+
+## Reinforcements
 
 ### When do units reinforce?
 
@@ -43,16 +42,15 @@ Contrary to common belief, reinforcement speed is pretty constant with the only 
 
 Repair speed is **not** influenced by terrain, infrastructure, ESE, airbase or naval base level. Modifiers on build time like the domestic sliders, ministers and technologies will also decrease repair time by the same percentage.
 
-Repair time for a unit is damage\_percentage\*build\_time\*(1/(1+repair\_modifier))\*reinforcement\_time
+Repair time for a unit is damage_percentage\*build_time\*(1/(1+repair_modifier))\*reinforcement_time
 
 ### How much does reinforcement cost?
 
-Daily IC cost is build\_cost \* reinforce\_cost \* damage\_percentage
+Daily IC cost is build_cost \* reinforce_cost \* damage_percentage
 
 This makes reinforcing lightly damaged units much cheaper than heavily damageded units, and is also the reason why repair costs will get cheaper every day.
 
-Reorganization
---------------
+## Reorganization
 
 Disclaimer: To keep the formulas as simple as possible, organisation will be a value between 0 and 100. Morale, Infrastructure and ESE will be a value between 0 and 1, with 1 = 100%.
 
@@ -70,7 +68,7 @@ If infrastructure is below 60, this will be multiplied by Infrastructure/0.6.
 
 A final multiplier depends on the ratio between current organization and max organization. The exact multiplier is as follows:
 
-percentage of max org | multiplier 0-25% : 1 25%-50% : 2/3 50%-75% : 1/3 75%-100% : 1/6 
+percentage of max org | multiplier 0-25% : 1 25%-50% : 2/3 50%-75% : 1/3 75%-100% : 1/6
 
 While moving, land units lose 0.48 org/day.
 
@@ -82,7 +80,7 @@ Their daily reorganization value too is composed of two parts.
 
 The base value influenced by morale. Its value is 2.4\*(Morale-0.3)
 
-The second part only applies when in port. That value is 1,2 + 1,2\*(Morale-0.3)\*ESE + 0.48\*Naval\_Base\_Level
+The second part only applies when in port. That value is 1,2 + 1,2\*(Morale-0.3)\*ESE + 0.48\*Naval_Base_Level
 
 ### Air units
 
@@ -100,14 +98,13 @@ The overcrowding factor can never get bigger than 1 so having a larger airbase t
 
 This minister will apply his +20% reorg bonus to whatever reorganization value is calculated with the formulas above.
 
-The influence of Bases
-----------------------
+## The influence of Bases
 
 ### Naval base
 
-*   A Naval base provides a 0.48 org per level (daily) for any ship located at the base. It doesn't depend on the number of ships currently based or located at the base. It also doesn't depend on the province the base is located in or on your current TC.
-*   A Naval base can only provide repairs to ships in dock based on the naval base level. Thus, a level five base can provide repairs for 5 ships each day, while the sixth ship will have to wait.
-*   A Naval base provides a way to expand the range of your navy.
+- A Naval base provides a 0.48 org per level (daily) for any ship located at the base. It doesn't depend on the number of ships currently based or located at the base. It also doesn't depend on the province the base is located in or on your current TC.
+- A Naval base can only provide repairs to ships in dock based on the naval base level. Thus, a level five base can provide repairs for 5 ships each day, while the sixth ship will have to wait.
+- A Naval base provides a way to expand the range of your navy.
 
 ### Air base
 
@@ -115,19 +112,18 @@ Like with Naval bases, air bases help with reorganization, repairs, and range. H
 
 The optimal size of an air base is equal to the number of planes to be based there. Less is bad, more is a waste. So in keeping with usual stack sizes, recommended sizes would be 4, 8 or 10.
 
-Example Tables
---------------
+## Example Tables
 
 ### Basic reorganization
 
 | Base reorganization value |
-| --- |
-| Morale | Daily Reorg |
-| 30% | 0 |
-| 40% | 0.24 |
-| 60% | 0.72 |
-| 80% | 1.2 |
-| 100% | 1.68 |
+| ------------------------- | ----------- |
+| Morale                    | Daily Reorg |
+| 30%                       | 0           |
+| 40%                       | 0.24        |
+| 60%                       | 0.72        |
+| 80%                       | 1.2         |
+| 100%                      | 1.68        |
 
 This is the basic reorganization value that all units get, even under the worst possible circumstances. If a unit for any reason has a morale value of below 30, this will be negative.
 
@@ -138,27 +134,27 @@ This is the basic reorganization value that all units get, even under the worst 
 Land units are very much affected by the infrastructure of the province they're in. Once infrastructure falls under 60, reorganization drops quickly. On the other hand, as long as infrastructure stays above 60 the differences are rather small.
 
 | Reorganization for different Morale values and 100% TC |
-| --- |
-| Infrastructure | Reorg (Morale 30%) | Reorg (Morale 60%) | Reorg (Morale 100%) |
-| 0% | 0 | 0.72 | 1.68 |
-| 20% | 1.73 | 2.97 | 4.62 |
-| 40% | 4.03 | 5.96 | 8.53 |
-| 60% | 6.91 | 9.71 | 13.43 |
-| 80% | 7.78 | 10.83 | 14.90 |
-| 100% | 8.64 | 11.95 | 16.37 |
+| ------------------------------------------------------ | ------------------ | ------------------ | ------------------- |
+| Infrastructure                                         | Reorg (Morale 30%) | Reorg (Morale 60%) | Reorg (Morale 100%) |
+| 0%                                                     | 0                  | 0.72               | 1.68                |
+| 20%                                                    | 1.73               | 2.97               | 4.62                |
+| 40%                                                    | 4.03               | 5.96               | 8.53                |
+| 60%                                                    | 6.91               | 9.71               | 13.43               |
+| 80%                                                    | 7.78               | 10.83              | 14.90               |
+| 100%                                                   | 8.64               | 11.95              | 16.37               |
 
 ### Air units
 
 #### Effect of infrastructure
 
 | Reorganization for different Morale values with adequate air base and 100% TC |
-| --- |
-| Infrastructure | Reorg (Morale 30%) | Reorg (Morale 60%) | Reorg (Morale 100%) |
-| 0% | 0 | 0.72 | 1.68 |
-| 20% | 0.29 | 1.09 | 2.17 |
-| 40% | 0.67 | 1.59 | 2.82 |
-| 60% | 1.15 | 2.22 | 3.64 |
-| 80% | 1.73 | 2.97 | 4.62 |
-| 100% | 2.4 | 3.84 | 5.76 |
+| ----------------------------------------------------------------------------- | ------------------ | ------------------ | ------------------- |
+| Infrastructure                                                                | Reorg (Morale 30%) | Reorg (Morale 60%) | Reorg (Morale 100%) |
+| 0%                                                                            | 0                  | 0.72               | 1.68                |
+| 20%                                                                           | 0.29               | 1.09               | 2.17                |
+| 40%                                                                           | 0.67               | 1.59               | 2.82                |
+| 60%                                                                           | 1.15               | 2.22               | 3.64                |
+| 80%                                                                           | 1.73               | 2.97               | 4.62                |
+| 100%                                                                          | 2.4                | 3.84               | 5.76                |
 
 ### Naval units

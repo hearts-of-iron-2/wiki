@@ -1,7 +1,8 @@
 ---
 title: Sealane_Interdiction
 ---
- ### Sealane Interdiction
+
+### Sealane Interdiction
 
 SLI is the least popular doctrine, with Germany as its sole worshiper. It emphasises convoy raiding with U-boats, basically weakening the naval might of an enemy you're never going to surpass. It is the shortest tree out of the three, ending in 1942 and gaining most of its bonuses by 1940, when it even outshines the other two doctrines for a brief period. SLI offers the best morale, the best SS positioning, and the best convoy raiding efficiency.
 

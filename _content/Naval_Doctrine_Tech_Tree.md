@@ -1,11 +1,12 @@
 ---
 title: Naval_Doctrine_Tech_Tree
 ---
- [Tech Tree](/wiki/Tech_Tree "Tech Tree")
+
+[Tech Tree](/wiki/Tech_Tree "Tech Tree")
 
 Regular
 
-* * *
+---
 
 [Aircraft](/wiki/Aircraft_Tech_Tree "Aircraft Tech Tree")  
 [Armor and Artillery](/wiki/Armor_and_Artillery_Tech_Tree "Armor and Artillery Tech Tree")  
@@ -16,51 +17,50 @@ Regular
 
 Doctrines
 
-* * *
+---
 
 [Land](/wiki/Land_Doctrine_Tech_Tree "Land Doctrine Tech Tree")  
 [Air](/wiki/Air_Doctrine_Tech_Tree "Air Doctrine Tech Tree")  
 Naval
 
-Contents
---------
+## Contents
 
-*   [1 Decisive Battle](#Decisive_Battle)
-    *   [1.1 Decisive Battle Doctrine](#Decisive_Battle_Doctrine)
-    *   [1.2 Naval Firepower Doctrine](#Naval_Firepower_Doctrine)
-    *   [1.3 Fleet Auxiliary Carrier Doctrine](#Fleet_Auxiliary_Carrier_Doctrine)
-    *   [1.4 Fleet Auxiliary Submarine Doctrine](#Fleet_Auxiliary_Submarine_Doctrine)
-    *   [1.5 Convoy Sailing Doctrine](#Convoy_Sailing_Doctrine)
-    *   [1.6 Base Strike Doctrine](#Base_Strike_Doctrine)
-    *   [1.7 Fleet-in-Being Doctrine](#Fleet-in-Being_Doctrine)
-    *   [1.8 Sealane Interdiction Doctrine](#Sealane_Interdiction_Doctrine)
-    *   [1.9 Indirect Approach Doctrine](#Indirect_Approach_Doctrine)
-    *   [1.10 Subsidiary Carrier Role Doctrine](#Subsidiary_Carrier_Role_Doctrine)
-    *   [1.11 Carrier Task Force Doctrine](#Carrier_Task_Force_Doctrine)
-    *   [1.12 Battlefleet Concentration Doctrine](#Battlefleet_Concentration_Doctrine)
-    *   [1.13 Hunter-Killer Group Doctrine](#Hunter-Killer_Group_Doctrine)
-    *   [1.14 Aerial Convoy Defence Doctrine](#Aerial_Convoy_Defence_Doctrine)
-    *   [1.15 Raider Patrol Doctrine](#Raider_Patrol_Doctrine)
-    *   [1.16 Trade Interdiction Submarine Doctrine](#Trade_Interdiction_Submarine_Doctrine)
-    *   [1.17 Unrestricted Submarine Warfare Doctrine](#Unrestricted_Submarine_Warfare_Doctrine)
-    *   [1.18 Indirect Strike Doctrine](#Indirect_Strike_Doctrine)
-    *   [1.19 Naval Attrition Doctrine](#Naval_Attrition_Doctrine)
-    *   [1.20 Commerce Defence Doctrine](#Commerce_Defence_Doctrine)
-    *   [1.21 Commerce Raider Doctrine](#Commerce_Raider_Doctrine)
-    *   [1.22 Decisive Interdiction Doctrine](#Decisive_Interdiction_Doctrine)
-    *   [1.23 Deep Operations Doctrine](#Deep_Operations_Doctrine)
-    *   [1.24 Carrier Aviation Doctrine](#Carrier_Aviation_Doctrine)
-    *   [1.25 Escort Carrier Role Doctrine](#Escort_Carrier_Role_Doctrine)
-    *   [1.26 Integrated Convoy Defence Doctrine](#Integrated_Convoy_Defence_Doctrine)
-    *   [1.27 Fleet Train Doctrine](#Fleet_Train_Doctrine)
-    *   [1.28 Capital Ship Raider Group Doctrine](#Capital_Ship_Raider_Group_Doctrine)
-    *   [1.29 Wolfpack Doctrine](#Wolfpack_Doctrine)
-    *   [1.30 Advanced Submarine Operations Doctrine](#Advanced_Submarine_Operations_Doctrine)
-    *   [1.31 Floating Fortress Doctrine](#Floating_Fortress_Doctrine)
-    *   [1.32 Massive Strike Doctrine](#Massive_Strike_Doctrine)
-    *   [1.33 Maritime Power Projection Doctrine](#Maritime_Power_Projection_Doctrine)
-    *   [1.34 Floating Airbase Doctrine](#Floating_Airbase_Doctrine)
-    *   [1.35 Carrier Warfare Doctrine](#Carrier_Warfare_Doctrine)
+- [1 Decisive Battle](#Decisive_Battle)
+  - [1.1 Decisive Battle Doctrine](#Decisive_Battle_Doctrine)
+  - [1.2 Naval Firepower Doctrine](#Naval_Firepower_Doctrine)
+  - [1.3 Fleet Auxiliary Carrier Doctrine](#Fleet_Auxiliary_Carrier_Doctrine)
+  - [1.4 Fleet Auxiliary Submarine Doctrine](#Fleet_Auxiliary_Submarine_Doctrine)
+  - [1.5 Convoy Sailing Doctrine](#Convoy_Sailing_Doctrine)
+  - [1.6 Base Strike Doctrine](#Base_Strike_Doctrine)
+  - [1.7 Fleet-in-Being Doctrine](#Fleet-in-Being_Doctrine)
+  - [1.8 Sealane Interdiction Doctrine](#Sealane_Interdiction_Doctrine)
+  - [1.9 Indirect Approach Doctrine](#Indirect_Approach_Doctrine)
+  - [1.10 Subsidiary Carrier Role Doctrine](#Subsidiary_Carrier_Role_Doctrine)
+  - [1.11 Carrier Task Force Doctrine](#Carrier_Task_Force_Doctrine)
+  - [1.12 Battlefleet Concentration Doctrine](#Battlefleet_Concentration_Doctrine)
+  - [1.13 Hunter-Killer Group Doctrine](#Hunter-Killer_Group_Doctrine)
+  - [1.14 Aerial Convoy Defence Doctrine](#Aerial_Convoy_Defence_Doctrine)
+  - [1.15 Raider Patrol Doctrine](#Raider_Patrol_Doctrine)
+  - [1.16 Trade Interdiction Submarine Doctrine](#Trade_Interdiction_Submarine_Doctrine)
+  - [1.17 Unrestricted Submarine Warfare Doctrine](#Unrestricted_Submarine_Warfare_Doctrine)
+  - [1.18 Indirect Strike Doctrine](#Indirect_Strike_Doctrine)
+  - [1.19 Naval Attrition Doctrine](#Naval_Attrition_Doctrine)
+  - [1.20 Commerce Defence Doctrine](#Commerce_Defence_Doctrine)
+  - [1.21 Commerce Raider Doctrine](#Commerce_Raider_Doctrine)
+  - [1.22 Decisive Interdiction Doctrine](#Decisive_Interdiction_Doctrine)
+  - [1.23 Deep Operations Doctrine](#Deep_Operations_Doctrine)
+  - [1.24 Carrier Aviation Doctrine](#Carrier_Aviation_Doctrine)
+  - [1.25 Escort Carrier Role Doctrine](#Escort_Carrier_Role_Doctrine)
+  - [1.26 Integrated Convoy Defence Doctrine](#Integrated_Convoy_Defence_Doctrine)
+  - [1.27 Fleet Train Doctrine](#Fleet_Train_Doctrine)
+  - [1.28 Capital Ship Raider Group Doctrine](#Capital_Ship_Raider_Group_Doctrine)
+  - [1.29 Wolfpack Doctrine](#Wolfpack_Doctrine)
+  - [1.30 Advanced Submarine Operations Doctrine](#Advanced_Submarine_Operations_Doctrine)
+  - [1.31 Floating Fortress Doctrine](#Floating_Fortress_Doctrine)
+  - [1.32 Massive Strike Doctrine](#Massive_Strike_Doctrine)
+  - [1.33 Maritime Power Projection Doctrine](#Maritime_Power_Projection_Doctrine)
+  - [1.34 Floating Airbase Doctrine](#Floating_Airbase_Doctrine)
+  - [1.35 Carrier Warfare Doctrine](#Carrier_Warfare_Doctrine)
 
 ### Decisive Battle
 
@@ -204,7 +204,6 @@ Contents
 
 <table border="1" cellpadding="5" width="98%"><tbody><tr><td><ul><li>Historic Year: 1944</li><li>Prerequisites:</li></ul><dl><dd><ul><li><a href="/wiki/Naval_Doctrine_Tech_Tree#Fleet_Train_Doctrine" title="Naval Doctrine Tech Tree">Fleet Train Doctrine</a></li></ul></dd></dl><ul><li>Effects:</li></ul><dl><dd><ul><li>Max Positioning carrier 0.1</li><li>Min Positioning carrier 0.1</li><li>Max Positioning heavy_cruiser 0.1</li><li>Min Positioning heavy_cruiser 0.1</li><li>Max Positioning light_cruiser 0.1</li><li>Min Positioning light_cruiser 0.1</li><li>Snow Attack carrier 5</li><li>Rain Attack carrier 5</li><li>Night Attack carrier 5</li><li>Night Defence carrier 5</li><li>Efficiency: naval_port_strike 0.1</li><li>Efficiency: naval_airbase_strike 0.1</li></ul></dd></dl></td><td><p>8 - <a class="image" href="/wiki/File:Naval_engineering.png" title="naval_engineering"><img alt="naval_engineering" data-file-height="24" data-file-width="24" data-url="/images/0/09/Naval_engineering.png" decoding="async" height="24" loading="lazy" src="/images/0/09/Naval_engineering.png" width="24"> </a>- Intensive Anti-Aircraft Defence</p><p>8 - <a class="image" href="/wiki/File:Large_taskforce_tactics.png" title="large_taskforce_tactics"><img alt="large_taskforce_tactics" data-file-height="24" data-file-width="24" data-url="/images/e/e7/Large_taskforce_tactics.png" decoding="async" height="24" loading="lazy" src="/images/e/e7/Large_taskforce_tactics.png" width="24"> </a>- Carrier Fleet Train</p><p>8 - <a class="image" href="/wiki/File:Carrier_tactics.png" title="carrier_tactics"><img alt="carrier_tactics" data-file-height="24" data-file-width="24" data-url="/images/e/e9/Carrier_tactics.png" decoding="async" height="24" loading="lazy" src="/images/e/e9/Carrier_tactics.png" width="24"> </a>- Advanced Carrier Co-ordination</p><p>8 - <a class="image" href="/wiki/File:Carrier_tactics.png" title="carrier_tactics"><img alt="carrier_tactics" data-file-height="24" data-file-width="24" data-url="/images/e/e9/Carrier_tactics.png" decoding="async" height="24" loading="lazy" src="/images/e/e9/Carrier_tactics.png" width="24"> </a>- Advanced Long-Range Aerial Recon</p><p>8 - <a class="image" href="/wiki/File:Seamanship.png" title="seamanship"><img alt="seamanship" data-file-height="24" data-file-width="24" data-url="/images/2/22/Seamanship.png" decoding="async" height="24" loading="lazy" src="/images/2/22/Seamanship.png" width="24"> </a>- Experienced Carrier Captains</p></td></tr></tbody></table>
 
-  
 Tech ID's for modders - I'll probably integrate them more neatly at a future point, but busy right now. - setting up tech files for the naval doctrine tree is probably the worst - thus the detailed dump. -KM
 
 1.  1.  1.  NAVAL DOCTRINE TECHS###

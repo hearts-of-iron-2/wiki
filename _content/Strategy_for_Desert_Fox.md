@@ -1,12 +1,12 @@
 ---
 title: Strategy_for_Desert_Fox
 ---
- [Template:Scenario guides](/wiki/index.php?title=Template:Scenario_guides&action=edit&redlink=1 "Template:Scenario guides (page does not exist)")
 
- [![Shieldger.jpg](/images/7/71/Shieldger.jpg)](/wiki/File:Shieldger.jpg)[![Shieldita.jpg](/images/2/23/Shieldita.jpg) ](/wiki/File:Shieldita.jpg)[![Vs.jpg](/images/9/93/Vs.jpg) ](/wiki/File:Vs.jpg)[![Shieldeng.jpg](/images/c/c2/Shieldeng.jpg)](/wiki/File:Shieldeng.jpg)
+[Template:Scenario guides](/wiki/index.php?title=Template:Scenario_guides&action=edit&redlink=1 "Template:Scenario guides (page does not exist)")
 
-German Strategy
----------------
+[![Shieldger.jpg](/images/7/71/Shieldger.jpg)](/wiki/File:Shieldger.jpg)[![Shieldita.jpg](/images/2/23/Shieldita.jpg) ](/wiki/File:Shieldita.jpg)[![Vs.jpg](/images/9/93/Vs.jpg) ](/wiki/File:Vs.jpg)[![Shieldeng.jpg](/images/c/c2/Shieldeng.jpg)](/wiki/File:Shieldeng.jpg)
+
+## German Strategy
 
 Tested in Very Hard/Furious.
 
@@ -18,8 +18,7 @@ When the whole area is cleared out, redeploy all your troops to El Alamein and a
 
 Done right, you'll achieve a strategic victory before the end of June (with a year and 3 months to spare) on very hard/furious.
 
-UK Strategy
------------
+## UK Strategy
 
 Played in very hard/furious.
 
@@ -27,9 +26,9 @@ The goal of the UK is the opposite of the German's, you must make the battle as 
 
 The game begins with Axis attacking both of the frontlines. Do not retreat them immediately, fight for a few hours and then retreat. This will buy a little bit time. The two armies in the frontline should end up in Tobruk. Use the air force to create air superiority in Tobruk. After the defensive line along Tobruk, Forte Capuzzo and Rabia is set, the no-man's land must be created. It can be done by attacking Italian armies in nearby territories while after winning the battle, cancelling the attack instead of going on to occupy the province. Here is the breakdown of invasions:
 
-*   Tobruk armies should try to make Derna empty.
-*   Forte Capuzzo being the weakest should get the help of armies in Tobruk to rout Italian armies in Mechilli. It must also keep Forte Maddalena empty with the help of armies in Rabia.
-*   Armies in Rabia must keep Siwa empty all the time to avoid being circled.
+- Tobruk armies should try to make Derna empty.
+- Forte Capuzzo being the weakest should get the help of armies in Tobruk to rout Italian armies in Mechilli. It must also keep Forte Maddalena empty with the help of armies in Rabia.
+- Armies in Rabia must keep Siwa empty all the time to avoid being circled.
 
 In 27 April 1941, there will be an event indicating German invasion to Crete. Only the second option (defend with all we can afford) has any chance of holding Crete. Note that it is random so although the second option is chosen, Crete may still fall. In very hard difficulty, hardly any division is expendable so the third option is probably the best.
 

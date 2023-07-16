@@ -1,23 +1,22 @@
 ---
 title: Game_Play_FAQ
 ---
- Contents
---------
 
-*   [1 Game Play](#Game_Play)
-    *   [1.1 Does the game have to end on January 1, 1948?](#Does_the_game_have_to_end_on_January_1.2C_1948.3F)
-    *   [1.2 Can I turn off fog of war?](#Can_I_turn_off_fog_of_war.3F)
-    *   [1.3 Why do I keep getting 'Great War Demonstrations' as Germany?](#Why_do_I_keep_getting_.27Great_War_Demonstrations.27_as_Germany.3F)
-    *   [1.4 How do I delete old saved games?](#How_do_I_delete_old_saved_games.3F)
-    *   [1.5 How do I re-organize (air) units?](#How_do_I_re-organize_.28air.29_units.3F)
-    *   [1.6 How do I perform a 'blitzkrieg' attack?](#How_do_I_perform_a_.27blitzkrieg.27_attack.3F)
-    *   [1.7 What is the difference between ministers that give intelligence bonus and army intelligence bonus?](#What_is_the_difference_between_ministers_that_give_intelligence_bonus_and_army_intelligence_bonus.3F)
-    *   [1.8 Can you get energy from nuclear plants? And what does the nuclear plant tech description mean by "get 50% more energy in" nuclear plant?](#Can_you_get_energy_from_nuclear_plants.3F_And_what_does_the_nuclear_plant_tech_description_mean_by_.22get_50.25_more_energy_in.22_nuclear_plant.3F)
-    *   [1.9 How much of a province resources and industry do you get when you occupy a province? And what do you gain by annexing the former owner of the province?](#How_much_of_a_province_resources_and_industry_do_you_get_when_you_occupy_a_province.3F_And_what_do_you_gain_by_annexing_the_former_owner_of_the_province.3F)
-    *   [1.10 How do Convoys work?](#How_do_Convoys_work.3F)
+## Contents
 
-Game Play
-=========
+- [1 Game Play](#Game_Play)
+  - [1.1 Does the game have to end on January 1, 1948?](#Does_the_game_have_to_end_on_January_1.2C_1948.3F)
+  - [1.2 Can I turn off fog of war?](#Can_I_turn_off_fog_of_war.3F)
+  - [1.3 Why do I keep getting 'Great War Demonstrations' as Germany?](#Why_do_I_keep_getting_.27Great_War_Demonstrations.27_as_Germany.3F)
+  - [1.4 How do I delete old saved games?](#How_do_I_delete_old_saved_games.3F)
+  - [1.5 How do I re-organize (air) units?](#How_do_I_re-organize_.28air.29_units.3F)
+  - [1.6 How do I perform a 'blitzkrieg' attack?](#How_do_I_perform_a_.27blitzkrieg.27_attack.3F)
+  - [1.7 What is the difference between ministers that give intelligence bonus and army intelligence bonus?](#What_is_the_difference_between_ministers_that_give_intelligence_bonus_and_army_intelligence_bonus.3F)
+  - [1.8 Can you get energy from nuclear plants? And what does the nuclear plant tech description mean by "get 50% more energy in" nuclear plant?](#Can_you_get_energy_from_nuclear_plants.3F_And_what_does_the_nuclear_plant_tech_description_mean_by_.22get_50.25_more_energy_in.22_nuclear_plant.3F)
+  - [1.9 How much of a province resources and industry do you get when you occupy a province? And what do you gain by annexing the former owner of the province?](#How_much_of_a_province_resources_and_industry_do_you_get_when_you_occupy_a_province.3F_And_what_do_you_gain_by_annexing_the_former_owner_of_the_province.3F)
+  - [1.10 How do Convoys work?](#How_do_Convoys_work.3F)
+
+# Game Play
 
 ### Does the game have to end on January 1, 1948?
 
@@ -61,7 +60,7 @@ No, that tech increases the effect of nuclear plants with 50% (faster nuclear re
 
 You only receive 20% (+ any minister bonus, foreign IC use) of the industrial output of an occupied or annexed area. You receive 50% of base resources in annexed territory and 40% in occupied territory. Other modifiers for resources are discussed in [this thread](http://forum.paradoxplaza.com/forum/showthread.php?t=209413) and summarized below:
 
-\- All Machine Tool Techs apply accordingly. (+5%; 3-times) - The peacetime modifier applies accordingly (for those countries having one like US or UK). - Random event effects of +1% each for "Private Initiative" and "Government nationalizes private sector"). - Resource modification due to difficulty levels (+40%, +20%, 0, -20%, -40% - for v.easy, easy, normal, hard, v.hard). 
+\- All Machine Tool Techs apply accordingly. (+5%; 3-times) - The peacetime modifier applies accordingly (for those countries having one like US or UK). - Random event effects of +1% each for "Private Initiative" and "Government nationalizes private sector"). - Resource modification due to difficulty levels (+40%, +20%, 0, -20%, -40% - for v.easy, easy, normal, hard, v.hard).
 
 You gain nothing in IC, and just a few more resources, by annexing, but the occupied TC drain is removed for annexed countries and base partisan levels are reduced.
 
@@ -71,14 +70,14 @@ UNLESS you have cores in the area, in which case you receive 100% instead for th
 
 Convoys will usually work fine by clicking on automatic. If you want to manage them yourself:
 
-1) the minimum number is set by the distance that the convoy has to travel
+1. the minimum number is set by the distance that the convoy has to travel
 
-2) that minimum is doubled for supply convoys
+2. that minimum is doubled for supply convoys
 
-3) if you meet the minimum, the number convoyed is 5 for each ticked off box
+3. if you meet the minimum, the number convoyed is 5 for each ticked off box
 
-4) when you go beyond the minimum, each additional convoy carries 2x
+4. when you go beyond the minimum, each additional convoy carries 2x
 
-5) You can verify the math by looking at the convoy details which will tell you how much has been shipped.
+5. You can verify the math by looking at the convoy details which will tell you how much has been shipped.
 
-6) Convoys will continue until you have about 10 days supply stockpiled in that area. Convoys are then sent on an as needed basis.
+6. Convoys will continue until you have about 10 days supply stockpiled in that area. Convoys are then sent on an as needed basis.

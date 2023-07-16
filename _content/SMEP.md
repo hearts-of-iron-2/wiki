@@ -1,7 +1,8 @@
 ---
 title: SMEP
 ---
- SMEP leaves the core gameplay of Hearts of Iron II intact. However, some things were not up to snuff. These are the things SMEP attempts to address. Here are some examples...
+
+SMEP leaves the core gameplay of Hearts of Iron II intact. However, some things were not up to snuff. These are the things SMEP attempts to address. Here are some examples...
 
 SMEP has many peace treaty events. Infact, SMEP's work was so stable and impressive that it was included (with typos) in later Hearts of Iron II patches (see "Faith of China", which I meant to type as "Fate of China"). Treaties include...
 

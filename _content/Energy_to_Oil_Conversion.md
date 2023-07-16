@@ -1,7 +1,8 @@
 ---
 title: Energy_to_Oil_Conversion
 ---
- As determined by **Steel** et al.:
+
+As determined by **Steel** et al.:
 
 The amount of energy used in conversion is based on your conversion tech. The amount of oil that is converted is capped by your Industrial Capacity. You get oil equal to 1/10 of your available IC (with 150 IC you would get 15 oil converted).
 

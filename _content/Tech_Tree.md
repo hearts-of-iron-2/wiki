@@ -1,11 +1,12 @@
 ---
 title: Tech_Tree
 ---
- Tech Tree
+
+Tech Tree
 
 Regular
 
-* * *
+---
 
 [Aircraft](/wiki/Aircraft_Tech_Tree "Aircraft Tech Tree")  
 [Armor and Artillery](/wiki/Armor_and_Artillery_Tech_Tree "Armor and Artillery Tech Tree")  
@@ -16,7 +17,7 @@ Regular
 
 Doctrines
 
-* * *
+---
 
 [Land](/wiki/Land_Doctrine_Tech_Tree "Land Doctrine Tech Tree")  
 [Air](/wiki/Air_Doctrine_Tech_Tree "Air Doctrine Tech Tree")  

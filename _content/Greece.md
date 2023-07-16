@@ -1,11 +1,12 @@
 ---
 title: Greece
 ---
- [Country guides](/wiki/Country_guides "Country guides")
+
+[Country guides](/wiki/Country_guides "Country guides")
 
 [Major powers](/wiki/Major_power "Major power")
 
-* * *
+---
 
 [France](/wiki/France "France")  
 [Germany](/wiki/Germany "Germany")  
@@ -17,7 +18,7 @@ title: Greece
 
 Regional powers
 
-* * *
+---
 
 [Argentina](/wiki/Argentina "Argentina")  
 [Australia](/wiki/Australia "Australia")  
@@ -41,7 +42,7 @@ Regional powers
 
 [Minor powers](/wiki/Minor_power "Minor power")
 
-* * *
+---
 
 [Austria](/wiki/Austria "Austria")  
 [Chile](/wiki/index.php?title=Chile&action=edit&redlink=1 "Chile (page does not exist)")  
@@ -60,7 +61,7 @@ Greece
 
 [Micro powers](/wiki/Micro_power "Micro power")
 
-* * *
+---
 
 [Afghanistan](/wiki/Afghanistan "Afghanistan")  
 [Albania](/wiki/Albania "Albania")  
@@ -104,26 +105,24 @@ Greece
 
 Greece is a difficult nation to play, but can be especially rewarding and fun if played the right way. Expect an interesting but tough game!
 
-Contents
---------
+## Contents
 
-*   [1 Summary](#Summary)
-*   [2 Detailed analysis](#Detailed_analysis)
-*   [3 General advices](#General_advices)
-*   [4 Tips and strategies to take a good start](#Tips_and_strategies_to_take_a_good_start)
-    *   [4.1 Don't be a bully](#Don.27t_be_a_bully)
-    *   [4.2 Make friends](#Make_friends)
-    *   [4.3 Industrialize](#Industrialize)
-    *   [4.4 Win the Spanish Civil War](#Win_the_Spanish_Civil_War)
-    *   [4.5 Fortress Greece](#Fortress_Greece)
-    *   [4.6 Don't forget the Navy!](#Don.27t_forget_the_Navy.21)
-    *   [4.7 Win the Battle of France](#Win_the_Battle_of_France)
-    *   [4.8 Aftermath](#Aftermath)
-    *   [4.9 A word about land doctrines](#A_word_about_land_doctrines)
-    *   [4.10 A word about sliders](#A_word_about_sliders)
+- [1 Summary](#Summary)
+- [2 Detailed analysis](#Detailed_analysis)
+- [3 General advices](#General_advices)
+- [4 Tips and strategies to take a good start](#Tips_and_strategies_to_take_a_good_start)
+  - [4.1 Don't be a bully](#Don.27t_be_a_bully)
+  - [4.2 Make friends](#Make_friends)
+  - [4.3 Industrialize](#Industrialize)
+  - [4.4 Win the Spanish Civil War](#Win_the_Spanish_Civil_War)
+  - [4.5 Fortress Greece](#Fortress_Greece)
+  - [4.6 Don't forget the Navy!](#Don.27t_forget_the_Navy.21)
+  - [4.7 Win the Battle of France](#Win_the_Battle_of_France)
+  - [4.8 Aftermath](#Aftermath)
+  - [4.9 A word about land doctrines](#A_word_about_land_doctrines)
+  - [4.10 A word about sliders](#A_word_about_sliders)
 
-Summary
--------
+## Summary
 
 Greece, in most of the world, would be quite a military power (of the order of Argentina or Brazil). Although its IC is small, its army can be quite significant. Unfortunately, it's in Europe...
 
@@ -133,51 +132,46 @@ You start with 15 INF-18, 1 CAV-18, 2 ancient CLs, 2 equally ancient DDs, 2 subs
 
 Greece is poor, which rules out building an air force or tanks. It's also mountainous, which means even less tanks. And it's in the Mediterranean, so that antediluvian fleet will get sunk by Italy (if you go Allied) or the UK (if you go Axis). However, you can make it quite an infantry power. And if you manage to build a small but modern navy (some decent destroyers and a couple heavy cruisers for example) you'll be able to fight the war actively around the Med, and even further if all goes well...
 
-Detailed analysis
------------------
+## Detailed analysis
 
 **Advantages**
 
-*   Greece starts with a quite respectable (though outdated) army.
-*   A few good tech teams, especially in the industrial and naval construction fields. Decent in land doctrines if you choose the "Grand Battle Plan Doctrine" path.
-*   Greece can choose any path between Allies, Axis or non-aligned. Comintern would probably requier an important slider shift though (not play-tested).
-*   The many hill provinces in Greek homeland give a notable advantage to the defensor.
-*   Two border provinces start with level 5 land forts : Ioaninna and Salonika.
-*   A few good leaders with the "offensive" or "defensive" traits. Even the 2 "old guard" generals can progress fairly quickly since their "optimal rank" is field marshal.
-*   Good ministers available after a few years.
+- Greece starts with a quite respectable (though outdated) army.
+- A few good tech teams, especially in the industrial and naval construction fields. Decent in land doctrines if you choose the "Grand Battle Plan Doctrine" path.
+- Greece can choose any path between Allies, Axis or non-aligned. Comintern would probably requier an important slider shift though (not play-tested).
+- The many hill provinces in Greek homeland give a notable advantage to the defensor.
+- Two border provinces start with level 5 land forts : Ioaninna and Salonika.
+- A few good leaders with the "offensive" or "defensive" traits. Even the 2 "old guard" generals can progress fairly quickly since their "optimal rank" is field marshal.
+- Good ministers available after a few years.
 
 **Disadvantages**
 
-*   Greece is located in Europe, at the crossroads of the 3 major alliances. The future is dark if the game plays historically...
-*   Limited IC (starts with 15).
-*   Thus, only one research slot in 1936.
-*   Several traits lacking in your tech teams : under average concerning infantry, artillery and aircrafts, almost inexistant concerning naval doctrines and air doctrines.
-*   The fleet you start with floats only because it's trendy. That may not last.
-*   A serious flaw in your defenses : Larisa is not fortified.
-*   Many beaches to defend.
+- Greece is located in Europe, at the crossroads of the 3 major alliances. The future is dark if the game plays historically...
+- Limited IC (starts with 15).
+- Thus, only one research slot in 1936.
+- Several traits lacking in your tech teams : under average concerning infantry, artillery and aircrafts, almost inexistant concerning naval doctrines and air doctrines.
+- The fleet you start with floats only because it's trendy. That may not last.
+- A serious flaw in your defenses : Larisa is not fortified.
+- Many beaches to defend.
 
-General advices
----------------
+## General advices
 
 All general advices concerning minor powers apply to Greece, but since one major alliance will be after you sooner or later, it's especially vital to manage efficiently every resource you have.
 
-*   Never research ahead of time, excepted if you have blueprints beforehand (and only in vital fields, like infantry).
-*   Don't try to upgrade your army to the latest model available (unless it's a matter of life or death) : your IC is limited and it's way cheaper to upgrade them when they are "twice obsolete" (e.g. upgrade all your army to the 1936 standard when you have researched the 1939 standard). Consequence : always research new infantry models as soon as reasonably possible.
-*   Don't build more infantry than you can use : if the war is overseas, don't cripple your IC by building tens of divisions if your navy can not ship them safely.
-*   Watch carefully your manpower pool. As far as defense goes, good land forts save you lots of manpower.
-*   Be especially careful when engaging a country that enjoys a powerful air force, since you probably won't have one. Never let one or two divisions alone in the wild, or enemy CAS will bomb them into oblivion instantly.
-*   Use the gearing bonus! While virtue is its own reward, the gearing bonus is the reward of a good planning. Plan things ahead, then run the number of item you want to produce in one row with full IC allowed to the construction. It's a lifesaver for minor countries! For example, after the 7th item produced, you'll enjoy a 35% discount on the build time for the rest of the series. Especially useful for: garrison divisions, land forts (if you want to reach level 10), destroyers, artillery brigades, infantry etc.
+- Never research ahead of time, excepted if you have blueprints beforehand (and only in vital fields, like infantry).
+- Don't try to upgrade your army to the latest model available (unless it's a matter of life or death) : your IC is limited and it's way cheaper to upgrade them when they are "twice obsolete" (e.g. upgrade all your army to the 1936 standard when you have researched the 1939 standard). Consequence : always research new infantry models as soon as reasonably possible.
+- Don't build more infantry than you can use : if the war is overseas, don't cripple your IC by building tens of divisions if your navy can not ship them safely.
+- Watch carefully your manpower pool. As far as defense goes, good land forts save you lots of manpower.
+- Be especially careful when engaging a country that enjoys a powerful air force, since you probably won't have one. Never let one or two divisions alone in the wild, or enemy CAS will bomb them into oblivion instantly.
+- Use the gearing bonus! While virtue is its own reward, the gearing bonus is the reward of a good planning. Plan things ahead, then run the number of item you want to produce in one row with full IC allowed to the construction. It's a lifesaver for minor countries! For example, after the 7th item produced, you'll enjoy a 35% discount on the build time for the rest of the series. Especially useful for: garrison divisions, land forts (if you want to reach level 10), destroyers, artillery brigades, infantry etc.
 
 And naturally, check your available ministers every year : a few good ones kick in at mid-game...
 
-Tips and strategies to take a good start
-----------------------------------------
+## Tips and strategies to take a good start
 
 ### Don't be a bully
 
 All countries surrounding you have their independance guaranteed by at least one major alliance (excepted Albania). Put the good old "Warmonger Rampage From The Start Doctrine" (tm) in the closet, you won't need it this time !
-
-  
 
 ### Make friends
 
@@ -189,13 +183,9 @@ To achieve that, trade supplies for money from the start of the game. While you'
 
 You can trade supplies for raw materials until the war starts. If you plan to leave your alliance and wage the war alone, it's vital to have a large stockpile. If you plan to stay with your allies, don't exhaust yourself by buying raw materials : your allies will probably help you for free if you're using more than you're producing. Use the IC for more important matters.
 
-  
-
 ### Industrialize
 
 The decent army and land forts you start with will buy you security at home until 1939 or 1940. Use the peacetime years to build 5 factories : by the start of 1939 you'll have 20 IC, and a second tech team will be available. Things are looking better already!
-
-  
 
 ### Win the Spanish Civil War
 
@@ -213,19 +203,17 @@ Nota: another possibility is that the friendly spanish side gets annexed: your g
 
 Once you have discovered Advanced Construction Engineering (not before!) start filling in the gap in Larisa : a level 10 land fort there will probably be your life insurance sooner or later. If possible, expand the level 5 forts in Ioaninna and Salonika to level 9 (max available in those provinces). Once this is done, 3 to 6 Garrison divisions in each province will be enough to deter almost any enemy. Remember to garrison the beaches also : 2 or 3 Garrison divisions (depending if the terrain is hills or plains) should be enough. If you have spare IC, 1 or 2 levels of coastal forts will make the "Fortres Greece" inviolable. Now your homeland is safe, and you still have spare manpower : you can divert your army to offensive tasks!
 
-  
-
 ### Don't forget the Navy!
 
 The Navy is an essential element of the Greek strategy.
 
-*   If you're Allied or independent, the Wehrmacht will descend into the Balkans in 1941, and, hopefully, stop at the gates of your home-made Greek Maginot Line... But there is no way that you can succesfully counter-attack against the bulk of the Axis forces in the Balkans - you'll have to accept the stalemate in Greece (for now at least) and fight in Africa or in the "soft underbelly of Europe", Italy (and later, eventually, in occupied France)
-*   If you're Axis, you'll want to fight in Egypt and in the Middle-East, or even land in the USSR (excepted if you're content to be Germany's pawn during Barbarossa and only send footsoldiers).
+- If you're Allied or independent, the Wehrmacht will descend into the Balkans in 1941, and, hopefully, stop at the gates of your home-made Greek Maginot Line... But there is no way that you can succesfully counter-attack against the bulk of the Axis forces in the Balkans - you'll have to accept the stalemate in Greece (for now at least) and fight in Africa or in the "soft underbelly of Europe", Italy (and later, eventually, in occupied France)
+- If you're Axis, you'll want to fight in Egypt and in the Middle-East, or even land in the USSR (excepted if you're content to be Germany's pawn during Barbarossa and only send footsoldiers).
 
 Let's face it: the war will be waged overseas, so, better be prepared. You may have no hope to defeat the Kriegsmarine/Royal Navy head on: basically, what you want is a navy strong enough to:
 
-*   win a minor encounter while suffering minimal losses (e.g. a couple of destroyers or subs marauding)
-*   protect your transport during the first few hours of a major encounter so that you can escape relatively safely.
+- win a minor encounter while suffering minimal losses (e.g. a couple of destroyers or subs marauding)
+- protect your transport during the first few hours of a major encounter so that you can escape relatively safely.
 
 Fortunately, you have a good tech team that will research new ship models quickly - even quicker if you could trade for blueprints. My advice : build 4 to 6 DD-IV (as soon as available) then 2 to 4 CA-IV. Don't forget transports and supply convoys!
 
@@ -266,8 +254,6 @@ You start with the Firepower focus, and your only tech team dedicated to land do
 This path is weak during the early game, but can become really powerful during the late game (after 1944)especially if your choose the Infiltration Assault path, which yields a very high morale score for your divisions (i.e. fast org. regain, really useful for offensives).
 
 A country with a rather small army like Greece would perhaps be better off with the Mobility/Blitzkrieg path which yields higher org values, but the fact that it's harder to research and that your tech team is weaker for this path should make you think twice before you choose this path.
-
-  
 
 ### A word about sliders
 

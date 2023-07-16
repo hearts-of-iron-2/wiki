@@ -1,11 +1,12 @@
 ---
 title: Sweden
 ---
- [Country guides](/wiki/Country_guides "Country guides")
+
+[Country guides](/wiki/Country_guides "Country guides")
 
 [Major powers](/wiki/Major_power "Major power")
 
-* * *
+---
 
 [France](/wiki/France "France")  
 [Germany](/wiki/Germany "Germany")  
@@ -17,7 +18,7 @@ title: Sweden
 
 Regional powers
 
-* * *
+---
 
 [Argentina](/wiki/Argentina "Argentina")  
 [Australia](/wiki/Australia "Australia")  
@@ -41,7 +42,7 @@ Sweden
 
 [Minor powers](/wiki/Minor_power "Minor power")
 
-* * *
+---
 
 [Austria](/wiki/Austria "Austria")  
 [Chile](/wiki/index.php?title=Chile&action=edit&redlink=1 "Chile (page does not exist)")  
@@ -60,7 +61,7 @@ Sweden
 
 [Micro powers](/wiki/Micro_power "Micro power")
 
-* * *
+---
 
 [Afghanistan](/wiki/Afghanistan "Afghanistan")  
 [Albania](/wiki/Albania "Albania")  
@@ -104,27 +105,23 @@ Sweden
 
 Playing as Sweden is actually rather easy, all you have to is play out the major powers against each other.
 
-Contents
---------
+## Contents
 
-*   [1 Peacetime](#Peacetime)
-*   [2 Wartime](#Wartime)
-*   [3 The Waiting Game](#The_Waiting_Game)
-*   [4 Neutrality](#Neutrality)
-*   [5 Use WWII to your advantage](#Use_WWII_to_your_advantage)
+- [1 Peacetime](#Peacetime)
+- [2 Wartime](#Wartime)
+- [3 The Waiting Game](#The_Waiting_Game)
+- [4 Neutrality](#Neutrality)
+- [5 Use WWII to your advantage](#Use_WWII_to_your_advantage)
 
-Peacetime
----------
+## Peacetime
 
 First order of business is to get another research team, so build 6 IC each in 3 provinces (it doesn't matter which provinces you build them in since you won't be fighting in Sweden. Move the slider to more free market to get better build bonuses. You could also move the sliders towards Authoritarian if you want to invade Norway later. Just keep building IC and researching industry, infantry & upgrade your troops in peacetime but then again, it doesn't matter much since you won't be using Swedish forces to win the war. Kill time by improving relations with Germany.
 
-Wartime
--------
+## Wartime
 
 Join the first winter war to get more interventionism and if possible try to take control over the Finnish forces. Don't bother actually trying to win the war by sending your troops into Finland. The SU is just too powerful and you won't gain anything by invading SU from Finland. Instead just let the war drag on and make sure that FIN is weak but not weak enough to be annexed (yet). When the peace-events comes, accept them. By now, FIN is rather weak and should probably have lost a lot of divisions. And now you are back to peace.
 
-The Waiting Game
-----------------
+## The Waiting Game
 
 Germany will probably run over SU at first so you can just relax for a while and also all of your factories should be done about this time so start producing some Marines and Mountaineers. After a couple of months you should be ready to join the Axis so take military control over Germany and Finland. Move Guderians 9 Panzer to Luleå and at the same time make sure that Finland is annex by SU. At the same time make sure that you kill as many Russian divisions as possible with German forces, since it's not your troops or your land you can have fun with all kinds of strategies. When the SU have annexed Finland and most Russian forces are dead, withdraw all German forces from SU and put them on hold in Poland. Now is the time to strike out from Sweden with German panzer. In a matter of months you should have control over all the Baltic's. From there you just have to push forward and annex SU from Swedish territory.
 
@@ -132,8 +129,7 @@ And voilà, a new Swedish empire. From there you can pretty much do whatever you
 
 This was tested in 1.02
 
-Neutrality
-----------
+## Neutrality
 
 Sweden has during her lifetime avoided war and the Swedish people are rather avoiding to interfere in any hostile actions. Why not try this strategy in HOI2?
 
@@ -151,8 +147,7 @@ When Germany is at the brink of an utterly defeat, then you can engage in combat
 
 Good luck and try to avoid a bloodshed!
 
-Use WWII to your advantage
---------------------------
+## Use WWII to your advantage
 
 Sweden starts with rather small army and almost non existing air force but they start with good naval armies. This strategy enables you Sweden to become a Major power and also, It's quite fun to play. Remember to enable the option so that democracies can declare War. Also Full IC Take over is recommended You have to Annex Norway, Denmark, Latvia, Estonia and Lithuania before the German or Soviet Union.
 

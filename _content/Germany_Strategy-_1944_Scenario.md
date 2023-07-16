@@ -1,18 +1,18 @@
 ---
 title: Germany_Strategy-_1944_Scenario
 ---
- [Template:GermanyStrategyGuides](/wiki/index.php?title=Template:GermanyStrategyGuides&action=edit&redlink=1 "Template:GermanyStrategyGuides (page does not exist)")
 
-Contents
---------
+[Template:GermanyStrategyGuides](/wiki/index.php?title=Template:GermanyStrategyGuides&action=edit&redlink=1 "Template:GermanyStrategyGuides (page does not exist)")
 
-*   [1 Overview](#Overview)
-*   [2 The West](#The_West)
-*   [3 The South](#The_South)
-*   [4 The North](#The_North)
-*   [5 The East](#The_East)
-*   [6 After the Preliminaries](#After_the_Preliminaries)
-*   [7 Back to Blitzkrieg](#Back_to_Blitzkrieg)
+## Contents
+
+- [1 Overview](#Overview)
+- [2 The West](#The_West)
+- [3 The South](#The_South)
+- [4 The North](#The_North)
+- [5 The East](#The_East)
+- [6 After the Preliminaries](#After_the_Preliminaries)
+- [7 Back to Blitzkrieg](#Back_to_Blitzkrieg)
 
 ### Overview
 

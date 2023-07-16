@@ -1,48 +1,47 @@
 ---
 title: Utilities
 ---
- Contents
---------
 
-*   [1 Multi Editor](#Multi_Editor)
-    *   [1.1 HoiEditor](#HoiEditor)
-    *   [1.2 Hallsten's Unified HOI2/DD Generator Utility](#Hallsten.27s_Unified_HOI2.2FDD_Generator_Utility)
-    *   [1.3 Lord Ederon's Web site](#Lord_Ederon.27s_Web_site)
-*   [2 Tech Team](#Tech_Team)
-    *   [2.1 Complete list of HoI2 Research Teams](#Complete_list_of_HoI2_Research_Teams)
-*   [3 Minister](#Minister)
-    *   [3.1 Complete List of HoI2 Ministers](#Complete_List_of_HoI2_Ministers)
-*   [4 Leader](#Leader)
-    *   [4.1 Kucing's leader editor, death date remover/randomizer and random leader generator](#Kucing.27s_leader_editor.2C_death_date_remover.2Frandomizer_and_random_leader_generator)
-    *   [4.2 Leader deathdate changer](#Leader_deathdate_changer)
-    *   [4.3 Leader deathdate remover](#Leader_deathdate_remover)
-    *   [4.4 Leader deathdate remover/randomizer](#Leader_deathdate_remover.2Frandomizer)
-    *   [4.5 Full List of HoI2 Leaders](#Full_List_of_HoI2_Leaders)
-    *   [4.6 Trait names patcher](#Trait_names_patcher)
-    *   [4.7 Hallsten's Old Guard Purge Event generator](#Hallsten.27s_Old_Guard_Purge_Event_generator)
-    *   [4.8 klas\_a's Old Guard Purge Event generator](#klas_a.27s_Old_Guard_Purge_Event_generator)
-*   [5 Map (Utilities)](#Map_.28Utilities.29)
-*   [6 Graphics](#Graphics)
-    *   [6.1 Flag/Shield Generator](#Flag.2FShield_Generator)
-*   [7 Screen Related](#Screen_Related)
-    *   [7.1 Generalized Screen Switch](#Generalized_Screen_Switch)
-    *   [7.2 Resolution Changer](#Resolution_Changer)
-    *   [7.3 Ever Running Patcher](#Ever_Running_Patcher)
-    *   [7.4 Lord Ederon's Web site](#Lord_Ederon.27s_Web_site_2)
-*   [8 Misc.](#Misc.)
-    *   [8.1 No Time Limit Mod Tool](#No_Time_Limit_Mod_Tool)
-    *   [8.2 Research Assistant Time Calculator](#Research_Assistant_Time_Calculator)
-    *   [8.3 Manpower Losses Sheet](#Manpower_Losses_Sheet)
-    *   [8.4 Simplified Manpower Losses Sheet](#Simplified_Manpower_Losses_Sheet)
-    *   [8.5 KeyMapper](#KeyMapper)
-    *   [8.6 Pegasus Hexa Wizard](#Pegasus_Hexa_Wizard)
-    *   [8.7 GAGA's land doctrine data sheets](#GAGA.27s_land_doctrine_data_sheets)
-    *   [8.8 Stopping Expeditionary Force Spamming](#Stopping_Expeditionary_Force_Spamming)
-    *   [8.9 Bitter Peace modified event allowing Axis allies to keep conquered territory](#Bitter_Peace_modified_event_allowing_Axis_allies_to_keep_conquered_territory)
-    *   [8.10 EventMaker](#EventMaker)
+## Contents
 
-Multi Editor
-------------
+- [1 Multi Editor](#Multi_Editor)
+  - [1.1 HoiEditor](#HoiEditor)
+  - [1.2 Hallsten's Unified HOI2/DD Generator Utility](#Hallsten.27s_Unified_HOI2.2FDD_Generator_Utility)
+  - [1.3 Lord Ederon's Web site](#Lord_Ederon.27s_Web_site)
+- [2 Tech Team](#Tech_Team)
+  - [2.1 Complete list of HoI2 Research Teams](#Complete_list_of_HoI2_Research_Teams)
+- [3 Minister](#Minister)
+  - [3.1 Complete List of HoI2 Ministers](#Complete_List_of_HoI2_Ministers)
+- [4 Leader](#Leader)
+  - [4.1 Kucing's leader editor, death date remover/randomizer and random leader generator](#Kucing.27s_leader_editor.2C_death_date_remover.2Frandomizer_and_random_leader_generator)
+  - [4.2 Leader deathdate changer](#Leader_deathdate_changer)
+  - [4.3 Leader deathdate remover](#Leader_deathdate_remover)
+  - [4.4 Leader deathdate remover/randomizer](#Leader_deathdate_remover.2Frandomizer)
+  - [4.5 Full List of HoI2 Leaders](#Full_List_of_HoI2_Leaders)
+  - [4.6 Trait names patcher](#Trait_names_patcher)
+  - [4.7 Hallsten's Old Guard Purge Event generator](#Hallsten.27s_Old_Guard_Purge_Event_generator)
+  - [4.8 klas_a's Old Guard Purge Event generator](#klas_a.27s_Old_Guard_Purge_Event_generator)
+- [5 Map (Utilities)](#Map_.28Utilities.29)
+- [6 Graphics](#Graphics)
+  - [6.1 Flag/Shield Generator](#Flag.2FShield_Generator)
+- [7 Screen Related](#Screen_Related)
+  - [7.1 Generalized Screen Switch](#Generalized_Screen_Switch)
+  - [7.2 Resolution Changer](#Resolution_Changer)
+  - [7.3 Ever Running Patcher](#Ever_Running_Patcher)
+  - [7.4 Lord Ederon's Web site](#Lord_Ederon.27s_Web_site_2)
+- [8 Misc.](#Misc.)
+  - [8.1 No Time Limit Mod Tool](#No_Time_Limit_Mod_Tool)
+  - [8.2 Research Assistant Time Calculator](#Research_Assistant_Time_Calculator)
+  - [8.3 Manpower Losses Sheet](#Manpower_Losses_Sheet)
+  - [8.4 Simplified Manpower Losses Sheet](#Simplified_Manpower_Losses_Sheet)
+  - [8.5 KeyMapper](#KeyMapper)
+  - [8.6 Pegasus Hexa Wizard](#Pegasus_Hexa_Wizard)
+  - [8.7 GAGA's land doctrine data sheets](#GAGA.27s_land_doctrine_data_sheets)
+  - [8.8 Stopping Expeditionary Force Spamming](#Stopping_Expeditionary_Force_Spamming)
+  - [8.9 Bitter Peace modified event allowing Axis allies to keep conquered territory](#Bitter_Peace_modified_event_allowing_Axis_allies_to_keep_conquered_territory)
+  - [8.10 EventMaker](#EventMaker)
+
+## Multi Editor
 
 ### HoiEditor
 
@@ -62,8 +61,7 @@ has a lot of Paradox related utilities which include screen resolution changers 
 
 [Lord Ederon web site](http://www.ederon.net/default.aspx)
 
-Tech Team
----------
+## Tech Team
 
 ### Complete list of HoI2 Research Teams
 
@@ -71,8 +69,7 @@ Compiled Excel sheet(table) of Hearts of Iron 2 and Doomsday research teams of a
 
 [Discussion at forums](http://forum.paradoxplaza.com/forum/showthread.php?t=217451) \- All download links now dead
 
-Minister
---------
+## Minister
 
 ### Complete List of HoI2 Ministers
 
@@ -80,8 +77,7 @@ Compiled Excel sheet(table) of Hearts of Iron 2 and Doomsday ministers of all co
 
 [Discussion at forums](http://forum.paradoxplaza.com/forum/showthread.php?t=217256) \- All download links are now dead
 
-Leader
-------
+## Leader
 
 ### Kucing's leader editor, death date remover/randomizer and random leader generator
 
@@ -95,10 +91,10 @@ You need to have [the .NET framework](http://www.microsoft.com/downloads/details
 
 Packman has made this easy to use leader deathdate changer
 
-*   Easy graphic gui
-*   Built in backup feature
-*   Allows you to set the deathdate yourself
-*   Allows you to set the directory in which the leader file(s) are
+- Easy graphic gui
+- Built in backup feature
+- Allows you to set the deathdate yourself
+- Allows you to set the directory in which the leader file(s) are
 
 [Download](http://www.modhoi.com/download/ldc.zip) [Discussion at forums](http://forum.paradoxplaza.com/forum/showthread.php?t=247364)
 
@@ -138,24 +134,21 @@ This tool allows you to update leader names to include a prefix with their leade
 
 This creates an event that gets rid of the Old Guard Leaders for Germany. It can be adapted for other countries. [Hallsten's posting](http://forum.paradoxplaza.com/forum/showthread.php?p=4679908) in this thread shows you what it looks like while another poster did his version for Japan.
 
-### klas\_a's Old Guard Purge Event generator
+### klas_a's Old Guard Purge Event generator
 
 This package include events that retires the Old Guard Leaders of **all** nations. Source code and programs for generating the events are included. Download it from [http://www.lysator.liu.se/~klas/OldGuardEvents](http://www.lysator.liu.se/~klas/OldGuardEvents) .
 
-[Map (Utilities)](/wiki/Map_(Utilities) "Map (Utilities)")
-----------------------------------------------------------
+## [Map (Utilities)](</wiki/Map_(Utilities)> "Map (Utilities)")
 
-The [Map (Utilities)](/wiki/Map_(Utilities) "Map (Utilities)") section contains both online maps and printable maps.
+The [Map (Utilities)](</wiki/Map_(Utilities)> "Map (Utilities)") section contains both online maps and printable maps.
 
-Graphics
---------
+## Graphics
 
 ### Flag/Shield Generator
 
 A simple tool for creating shield and waving flag bitmaps. Download it [Here](http://www.geocities.com/veylon_ii/FlagMakerV01.zip) .
 
-Screen Related
---------------
+## Screen Related
 
 ### Generalized Screen Switch
 
@@ -179,8 +172,7 @@ has a lot of Paradox related utilities which include screen resolution changers 
 
 [Lord Ederon web site](http://www.ederon.net/default.aspx)
 
-Misc.
------
+## Misc.
 
 ### No Time Limit Mod Tool
 
@@ -218,11 +210,12 @@ Excel file for land doctrine overview and comparison from 1936-1944. Features co
 
 ### Stopping Expeditionary Force Spamming
 
-If you are getting frustrated with getting lots and lots of exp. forces that hurt your TC, some solutions are:  
-1) Editing the saved game  
-2) Using G'Kar's event to stop the spamming: [How to disable expeditionary force spamming](http://forum.paradoxplaza.com/forum/showthread.php?t=271140)  
-3) Using this utility: [New version of NoExpForces 1.1b to DD 1.2 is out](http://forum.paradoxplaza.com/forum/showthread.php?t=280910)  
-Please note, that the official "booster-pack" Armageddon adds a diplomatic option, where you can chose not to receive Expeditionary forces from an ally.
+If you are getting frustrated with getting lots and lots of exp. forces that hurt your TC, some solutions are:
+
+1. Editing the saved game
+2. Using G'Kar's event to stop the spamming: [How to disable expeditionary force spamming](http://forum.paradoxplaza.com/forum/showthread.php?t=271140)
+3. Using this utility: [New version of NoExpForces 1.1b to DD 1.2 is out](http://forum.paradoxplaza.com/forum/showthread.php?t=280910)  
+   Please note, that the official "booster-pack" Armageddon adds a diplomatic option, where you can chose not to receive Expeditionary forces from an ally.
 
 ### Bitter Peace modified event allowing Axis allies to keep conquered territory
 

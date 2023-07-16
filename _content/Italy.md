@@ -1,13 +1,14 @@
 ---
 title: Italy
 ---
- [File:Ita-topbar.JPG](/wiki/index.php?title=Special:Upload&wpDestFile=Ita-topbar.JPG "File:Ita-topbar.JPG")
+
+[File:Ita-topbar.JPG](/wiki/index.php?title=Special:Upload&wpDestFile=Ita-topbar.JPG "File:Ita-topbar.JPG")
 
 [Country guides](/wiki/Country_guides "Country guides")
 
 [Major powers](/wiki/Major_power "Major power")
 
-* * *
+---
 
 [France](/wiki/France "France")  
 [Germany](/wiki/Germany "Germany")  
@@ -19,7 +20,7 @@ Italy
 
 Regional powers
 
-* * *
+---
 
 [Argentina](/wiki/Argentina "Argentina")  
 [Australia](/wiki/Australia "Australia")  
@@ -43,7 +44,7 @@ Regional powers
 
 [Minor powers](/wiki/Minor_power "Minor power")
 
-* * *
+---
 
 [Austria](/wiki/Austria "Austria")  
 [Chile](/wiki/index.php?title=Chile&action=edit&redlink=1 "Chile (page does not exist)")  
@@ -62,7 +63,7 @@ Regional powers
 
 [Micro powers](/wiki/Micro_power "Micro power")
 
-* * *
+---
 
 [Afghanistan](/wiki/Afghanistan "Afghanistan")  
 [Albania](/wiki/Albania "Albania")  
@@ -104,41 +105,39 @@ Regional powers
 [Yemen](/wiki/index.php?title=Yemen&action=edit&redlink=1 "Yemen (page does not exist)")  
 [Yunnan](/wiki/Yunnan "Yunnan")
 
-Contents
---------
+## Contents
 
-*   [1 Overview](#Overview)
-    *   [1.1 See also](#See_also)
-*   [2 Technology](#Technology)
-*   [3 Diplomacy](#Diplomacy)
-    *   [3.1 Alliances](#Alliances)
-    *   [3.2 Sliders](#Sliders)
-    *   [3.3 Ministers](#Ministers)
-*   [4 Economy](#Economy)
-    *   [4.1 Trading](#Trading)
-    *   [4.2 Industrial Production](#Industrial_Production)
-*   [5 Military](#Military)
-    *   [5.1 Army](#Army)
-        *   [5.1.1 Leaders](#Leaders)
-    *   [5.2 Navy](#Navy)
-    *   [5.3 Air Force](#Air_Force)
-*   [6 War](#War)
-    *   [6.1 Italo-Ethiopian War](#Italo-Ethiopian_War)
-    *   [6.2 Spanish Civil War](#Spanish_Civil_War)
-    *   [6.3 Albanian Occupation](#Albanian_Occupation)
-    *   [6.4 Early opportunities for war](#Early_opportunities_for_war)
-    *   [6.5 Fall Weiss](#Fall_Weiss)
-    *   [6.6 Sitzkrieg](#Sitzkrieg)
-*   [7 Strategy](#Strategy)
-    *   [7.1 Mediterranean Control](#Mediterranean_Control)
-    *   [7.2 European Strategy](#European_Strategy)
-    *   [7.3 African Strategy](#African_Strategy)
-    *   [7.4 Fortress Italy](#Fortress_Italy)
-    *   [7.5 Italy the Traitor](#Italy_the_Traitor)
-    *   [7.6 Roman Strategy](#Roman_Strategy)
+- [1 Overview](#Overview)
+  - [1.1 See also](#See_also)
+- [2 Technology](#Technology)
+- [3 Diplomacy](#Diplomacy)
+  - [3.1 Alliances](#Alliances)
+  - [3.2 Sliders](#Sliders)
+  - [3.3 Ministers](#Ministers)
+- [4 Economy](#Economy)
+  - [4.1 Trading](#Trading)
+  - [4.2 Industrial Production](#Industrial_Production)
+- [5 Military](#Military)
+  - [5.1 Army](#Army)
+    - [5.1.1 Leaders](#Leaders)
+  - [5.2 Navy](#Navy)
+  - [5.3 Air Force](#Air_Force)
+- [6 War](#War)
+  - [6.1 Italo-Ethiopian War](#Italo-Ethiopian_War)
+  - [6.2 Spanish Civil War](#Spanish_Civil_War)
+  - [6.3 Albanian Occupation](#Albanian_Occupation)
+  - [6.4 Early opportunities for war](#Early_opportunities_for_war)
+  - [6.5 Fall Weiss](#Fall_Weiss)
+  - [6.6 Sitzkrieg](#Sitzkrieg)
+- [7 Strategy](#Strategy)
+  - [7.1 Mediterranean Control](#Mediterranean_Control)
+  - [7.2 European Strategy](#European_Strategy)
+  - [7.3 African Strategy](#African_Strategy)
+  - [7.4 Fortress Italy](#Fortress_Italy)
+  - [7.5 Italy the Traitor](#Italy_the_Traitor)
+  - [7.6 Roman Strategy](#Roman_Strategy)
 
-Overview
---------
+## Overview
 
 Italy has the potential to dominate the Mediterranean theatre, but is hampered by a lack of everything: good tech teams, industry, resources, and skilled military leadership.
 
@@ -150,15 +149,13 @@ Italy is one of the most fun countries to play since it has enough handicaps and
 
 [Italy 1941 Strategy Guide](/wiki/Italy_1941_Strategy_Guide "Italy 1941 Strategy Guide")
 
-Technology
-----------
+## Technology
 
 Italy begins the game with only four research slots, thus a common first objective is to expand to the fifth research slot, which is possible once base IC is 80. This can most rapidly be achieved through a combination of IC building and an early annexation of Spain. Italy has average technology teams, thus only limited branches of technology can effectively be researched.
 
 For land doctrine, some players choose to completely abandon the "Firepower Focus" land doctrines, widely considered among the weakest doctrine in the game. If you stick to it and go for the Infiltration Assault path in ´42 you get the best infantry available from ´43 on, due to the high night attack bonus you will receive. Until then you will have relatively poor organization and morale. Within the Mobility Focus doctrine, Human Wave is a good choice for Italy, with a level 4 tech team with four specialties in many branches, especially late game. The most common choice, however, is Spearhead Doctrine. With an early alliance with Germany, blueprints for the entire tech tree can be typically acquired long in advance of the historical year, making the research reasonably rapid even with Italy's inferior teams. Italy needs to also focus on Manufacturing, Infantry, with limited Naval and Air. Within Naval, generally Battleships and Destroyers should be the focus, and within Air TAC/NAV is a necessary limitation.
 
-Diplomacy
----------
+## Diplomacy
 
 ### Alliances
 
@@ -166,9 +163,9 @@ Italy's first possible ally is Ethiopia, in the event Italy sues for peace and f
 
 Italy can also create some early puppets through liberation:
 
-*   Ethiopia
-*   Libya
-*   Somalia
+- Ethiopia
+- Libya
+- Somalia
 
 Although Libya and Somalia have no factories with they will automatically have 5 IC (off map) when liberated. On first look, liberation may look good to save TC and provide extra units to hold the beaches. However, the problem is that you could get up to 25% dissent as a result (anger at colonial policy event: DD & ARMA). As a result, liberation of nations is not considered a wise strategy.
 
@@ -184,8 +181,7 @@ Italy has excellent starting Ministers.
 
 In 1940, Minister of Security Umberto Albini will become available. For an Italy that holds many foreign territories (France, Spain, Greece, etc), changing to this minister with 15% foreign IC use is very beneficial.
 
-Economy
--------
+## Economy
 
 Italy has the weakest economy out of all the major nations (USA, USSR, Germany, Japan, and the UK). This puts Italy at a significant disadvantage over the course of the game, and creates an added challenge for players.
 
@@ -193,11 +189,11 @@ Italy has the weakest economy out of all the major nations (USA, USSR, Germany, 
 
 Italy begins the game with supply deficits, and a few existing trade deals. The existing deals help Italy stay barely ahead with Rare materials, while around 30 energy and 10 metal is lost every day. This means that without trade deals, Italy will immediately begin suffering shortages affecting Industry in February, 1936. Italy's best trading partners (in order):
 
-*   Germany
-*   Soviet Union
-*   Sweden
-*   Siam
-*   Japan
+- Germany
+- Soviet Union
+- Sweden
+- Siam
+- Japan
 
 ### Industrial Production
 
@@ -207,8 +203,7 @@ If Italy will join the Axis in 1936, this means the war will begin August 30, 19
 
 If Italy will not join the Axis until 1941, Italy essentially has two additional years for IC building and manpower growing. This additional IC can bring Italy an extra 20 base IC.
 
-Military
---------
+## Military
 
 ### Army
 
@@ -234,8 +229,7 @@ Italy does not have the industrial capacity to produce a large air force. It is 
 
 If you plan to play a longer game interceptors or fighters are a must have for Italy, as the Allies will bomb Europe to death from ´41 on if you are defenceless. Enemy naval bombers in the Med are something you probably do not want to tolerate (at least in Armageddon they can become a pain in the a\*\*), so prepare to do something against them.
 
-War
----
+## War
 
 Unlike all other major powers who have very clear adversaries that must be challenged, Italy does not have any direct opponents. This allows an Italian player to choose their own path with a great deal of flexibility. The most essential sphere of warfare for Italy is the Mediterranean Sea, best managed through Gibraltar in the West and Suez in the East. Control of the Mediterranean is vital to the defense of Italy's home shores, and enables Italy free movement throughout Northern Africa, Southern Europe, and the Middle East. Historically, Africa was an important theater of war due to Italian holdings in Libya and Ethiopia, yet involvement in Africa is a questionable strategy in-game.
 
@@ -243,8 +237,8 @@ Unlike all other major powers who have very clear adversaries that must be chall
 
 The game begins with Italy at war with Ethiopia. It is quite easy to direct Italian units straight to the Ethiopian capital, Addis Ababa, and win the war. With Italian units in the capital, the player has two choices for resolving the war:
 
-*   Annex Ethiopia outright, and gain two IC, and enough resources to support those two IC.
-*   Sue for peace with Ethiopia, and demand they become a puppet. This avoids dissent caused by annexation and then liberation (DD & ARMA), and it also keeps the Ethiopian army intact. This will allow Ethiopia to have an army of around 15 divisions by the fall of 1939, which can be military controlled by Italy.
+- Annex Ethiopia outright, and gain two IC, and enough resources to support those two IC.
+- Sue for peace with Ethiopia, and demand they become a puppet. This avoids dissent caused by annexation and then liberation (DD & ARMA), and it also keeps the Ethiopian army intact. This will allow Ethiopia to have an army of around 15 divisions by the fall of 1939, which can be military controlled by Italy.
 
 If you don't mind the gamey-ness, keeping the war with Ethiopia going for a while has numerous benefits. Militia on militia action is excellent training for your commanders, and consumer goods demand will stay low as long as you're at war. Attack with a few militia divisions, and add more as the fight progresses and your troops start to get beat up. A good battle will last a week. You can use your naval bombers on Interdiction missions to get them valuble experience without doing much damage to the ethiopians. All in all, you can get your army a decent experience boost, half a dozen (the good ones) leaders up to skill level 6-7 and another dozen or two a couple levels higher without commiting more than a few weeks of manpower production - and Italy doesn't have the IC to use all that manpower anyway.
 
@@ -252,9 +246,9 @@ If you don't mind the gamey-ness, keeping the war with Ethiopia going for a whil
 
 On July 18, 1936, the Spanish Civil War will occur. Playing as an Axis nation means the odds are stacked against the Nationalists, who will likely loose. Italy should always send help, via the in-game event, to Nationalist Spain to avoid 5 dissent and an isolationist move. Beyond that event, Italy has three practical choices:
 
-*   Do nothing and let the Nationalists loose.
-*   Assist the Nationalists in regaining their country by declaring war on Republican Spain at the beginning of the war
-*   Wait until the Nationalists have been defeated (between 6 - 18 months), and invade Republican Spain in order to annex it. An annexed Spain will provide 8 IC, 39 energy, 18 rares, and 28 metal. This is particularly helpful since Italy is short on all major resources. Note that Spain is key to capturing Gibraltar, which is imperative for achieving strategic control of the Mediterranean Sea. Also note that Spain provides a second front against France when Fall Weiss occurs.
+- Do nothing and let the Nationalists loose.
+- Assist the Nationalists in regaining their country by declaring war on Republican Spain at the beginning of the war
+- Wait until the Nationalists have been defeated (between 6 - 18 months), and invade Republican Spain in order to annex it. An annexed Spain will provide 8 IC, 39 energy, 18 rares, and 28 metal. This is particularly helpful since Italy is short on all major resources. Note that Spain is key to capturing Gibraltar, which is imperative for achieving strategic control of the Mediterranean Sea. Also note that Spain provides a second front against France when Fall Weiss occurs.
 
 ### Albanian Occupation
 
@@ -264,17 +258,17 @@ At the end of March, 1939 (following the German invasion of Czechoslovakia) Ital
 
 Italy has several nonaggression pacts with its neighbors, which considerably reduce Italy's opportunity for local war mongering. All these non-aggression pacts, however, will eventually expire:
 
-*   January, 1939: Pact with Turkey expires. An Italy with a high belligerence, however, will likely cause a Soviet DOW if Italy decides to attack Turkey.
-*   March, 1939: Pact with Greece expires. After the annexation of Albania at the end of March, Greece is a fairly easy target. Romania will likely declare war as a result.
-*   June, 1939: Pact with France expires. Italy may find France challenging if they are not in the Axis. If Italy is in the Axis, and early war with France will spoil the war with Poland.
+- January, 1939: Pact with Turkey expires. An Italy with a high belligerence, however, will likely cause a Soviet DOW if Italy decides to attack Turkey.
+- March, 1939: Pact with Greece expires. After the annexation of Albania at the end of March, Greece is a fairly easy target. Romania will likely declare war as a result.
+- June, 1939: Pact with France expires. Italy may find France challenging if they are not in the Axis. If Italy is in the Axis, and early war with France will spoil the war with Poland.
 
 ### Fall Weiss
 
 The German invasion of Poland in August 30, 1939 is an important date for Italy, either as an early warning of the wider war soon to come, or as the beginning of open conflict with the Allies due to an early join with the Axis. Italy has several important military objectives:
 
-*   Secure the Mediterranean Sea by taking Gibraltar and Suez.
-*   Defend Italian borders with France, possibly lead offensive assaults into France.
-*   Resolve North Africa strategy: abandon Libya and Egypt or engage in a North African campaign
+- Secure the Mediterranean Sea by taking Gibraltar and Suez.
+- Defend Italian borders with France, possibly lead offensive assaults into France.
+- Resolve North Africa strategy: abandon Libya and Egypt or engage in a North African campaign
 
 ### Sitzkrieg
 
@@ -282,13 +276,12 @@ After the invasion of Poland, Europe goes quiet for quite some time. Italy has a
 
 If Northern Africa has been successfully secured, a campaign against Southern Africa can be fruitful. No Italian controlled port is within 3000 km of South Africa, and taking Italian troops on ground throughout the length of Africa could easily take years. Thus, an alternate (quite challenging) method is to capture the Diego Garcia Island (from Port Massaua). This port island can take transports within range of Durban. While South Africa is not heavily guarded (SA has extremely low manpower), landing will be difficult.
 
-Strategy
---------
+## Strategy
 
 Strategically, Italy has two primary objectives:
 
-*   Control the Mediterranean Sea (Gibraltar & Suez).
-*   Ensure the Soviet Union is defeated.
+- Control the Mediterranean Sea (Gibraltar & Suez).
+- Ensure the Soviet Union is defeated.
 
 An Italy that achieves both objectives can play a significant role in ensuring the Axis rules the world. If either objective fails, Italy is almost certainly doomed.
 
@@ -310,16 +303,16 @@ Most of Africa is an infrastructure nightmare, meaning that troops will be low o
 
 Africa has some strategic value:
 
-*   Northern Africa has airbases that the Allies can be use to pester your forces.
-*   Northern Africa also has ports, and while the Royal Navy may be trapped after Italy controls the Mediterranean Sea, they will still be in supply, and able to harass the Italian navy.
-*   Central and Southern Africa have some good resources, including metals and rares.
+- Northern Africa has airbases that the Allies can be use to pester your forces.
+- Northern Africa also has ports, and while the Royal Navy may be trapped after Italy controls the Mediterranean Sea, they will still be in supply, and able to harass the Italian navy.
+- Central and Southern Africa have some good resources, including metals and rares.
 
 An effective Africa strategy can be conducted with the following steps:
 
-*   Ensure Ethiopia is a puppet, and take military control of their armies. Use their armies to grab as much land in Africa as possible.
-*   Limit Italian military involvement.
-*   Use Infantry and Militia, don´t use MOT, MEC, ARM in the central African jungles and never use CAV in Africa.
-*   For Central Africa, use Marines if possible; for Southern Africa, use Mountaineers.
+- Ensure Ethiopia is a puppet, and take military control of their armies. Use their armies to grab as much land in Africa as possible.
+- Limit Italian military involvement.
+- Use Infantry and Militia, don´t use MOT, MEC, ARM in the central African jungles and never use CAV in Africa.
+- For Central Africa, use Marines if possible; for Southern Africa, use Mountaineers.
 
 ### Fortress Italy
 

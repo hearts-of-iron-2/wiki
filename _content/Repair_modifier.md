@@ -1,7 +1,8 @@
 ---
 title: Repair_modifier
 ---
- The **Repair modifier** increases the rate at which your damaged units repair (or increase their strength).
+
+The **Repair modifier** increases the rate at which your damaged units repair (or increase their strength).
 
 Please note that the repair rate of damaged province structures (e.g. infrastructure, industry, resource gathering) are **not** affected by this modifier, nor are they intended for it to be.
 

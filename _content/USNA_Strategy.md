@@ -1,26 +1,24 @@
 ---
 title: USNA_Strategy
 ---
- Contents
---------
 
-*   [1 General Guide](#General_Guide)
-*   [2 Abyss](#Abyss)
-    *   [2.1 Research](#Research)
-    *   [2.2 Resources](#Resources)
-    *   [2.3 Relationships](#Relationships)
-    *   [2.4 Spying](#Spying)
-    *   [2.5 Sliders and Ministers](#Sliders_and_Ministers)
-    *   [2.6 Armed Forces](#Armed_Forces)
-    *   [2.7 Other Notes](#Other_Notes)
+## Contents
 
-General Guide
--------------
+- [1 General Guide](#General_Guide)
+- [2 Abyss](#Abyss)
+  - [2.1 Research](#Research)
+  - [2.2 Resources](#Resources)
+  - [2.3 Relationships](#Relationships)
+  - [2.4 Spying](#Spying)
+  - [2.5 Sliders and Ministers](#Sliders_and_Ministers)
+  - [2.6 Armed Forces](#Armed_Forces)
+  - [2.7 Other Notes](#Other_Notes)
+
+## General Guide
 
 If you are going to play as the USNA, on either Armageddon or the Abyss you've got a long game ahead of you. You'll be at war for the vast majority of the game, without enough preparation. In Abyss, you do not start immediately at war you'll have a little more time to prepare, but not nearly enough. Armageddon throws you straight into it, and trying to fight a World War with 1918 equipment. Hopefully with these tips you can try and win an equal world war.
 
-Abyss
------
+## Abyss
 
 ### Research
 

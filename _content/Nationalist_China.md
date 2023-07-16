@@ -1,11 +1,12 @@
 ---
 title: Nationalist_China
 ---
- [Country guides](/wiki/Country_guides "Country guides")
+
+[Country guides](/wiki/Country_guides "Country guides")
 
 [Major powers](/wiki/Major_power "Major power")
 
-* * *
+---
 
 [France](/wiki/France "France")  
 [Germany](/wiki/Germany "Germany")  
@@ -17,7 +18,7 @@ title: Nationalist_China
 
 Regional powers
 
-* * *
+---
 
 [Argentina](/wiki/Argentina "Argentina")  
 [Australia](/wiki/Australia "Australia")  
@@ -41,7 +42,7 @@ Nationalist China
 
 [Minor powers](/wiki/Minor_power "Minor power")
 
-* * *
+---
 
 [Austria](/wiki/Austria "Austria")  
 [Chile](/wiki/index.php?title=Chile&action=edit&redlink=1 "Chile (page does not exist)")  
@@ -60,7 +61,7 @@ Nationalist China
 
 [Micro powers](/wiki/Micro_power "Micro power")
 
-* * *
+---
 
 [Afghanistan](/wiki/Afghanistan "Afghanistan")  
 [Albania](/wiki/Albania "Albania")  
@@ -102,62 +103,59 @@ Nationalist China
 [Yemen](/wiki/index.php?title=Yemen&action=edit&redlink=1 "Yemen (page does not exist)")  
 [Yunnan](/wiki/Yunnan "Yunnan")
 
-Contents
---------
+## Contents
 
-*   [1 Overview](#Overview)
-*   [2 Technology](#Technology)
-*   [3 Diplomacy](#Diplomacy)
-    *   [3.1 Alliances](#Alliances)
-    *   [3.2 Sliders](#Sliders)
-    *   [3.3 Ministers](#Ministers)
-*   [4 Intelligence](#Intelligence)
-*   [5 Economy](#Economy)
-    *   [5.1 Trading](#Trading)
-    *   [5.2 Industrial Production](#Industrial_Production)
-*   [6 Military](#Military)
-    *   [6.1 Army](#Army)
-    *   [6.2 Navy](#Navy)
-    *   [6.3 Air Force](#Air_Force)
-*   [7 Events](#Events)
-    *   [7.1 The Xi'an Incident](#The_Xi.27an_Incident)
-    *   [7.2 Pitman Act](#Pitman_Act)
-    *   [7.3 Forging the United Front](#Forging_the_United_Front)
-    *   [7.4 Transfer Industry to the Interior](#Transfer_Industry_to_the_Interior)
-    *   [7.5 Operation Zet](#Operation_Zet)
-    *   [7.6 Recall of German Mission](#Recall_of_German_Mission)
-*   [8 War](#War)
-    *   [8.1 Communist China](#Communist_China)
-    *   [8.2 Guangxi](#Guangxi)
-    *   [8.3 Japan](#Japan)
-        *   [8.3.1 The Fading Sun](#The_Fading_Sun)
-    *   [8.4 Civil War Resumes](#Civil_War_Resumes)
-    *   [8.5 USSR](#USSR)
+- [1 Overview](#Overview)
+- [2 Technology](#Technology)
+- [3 Diplomacy](#Diplomacy)
+  - [3.1 Alliances](#Alliances)
+  - [3.2 Sliders](#Sliders)
+  - [3.3 Ministers](#Ministers)
+- [4 Intelligence](#Intelligence)
+- [5 Economy](#Economy)
+  - [5.1 Trading](#Trading)
+  - [5.2 Industrial Production](#Industrial_Production)
+- [6 Military](#Military)
+  - [6.1 Army](#Army)
+  - [6.2 Navy](#Navy)
+  - [6.3 Air Force](#Air_Force)
+- [7 Events](#Events)
+  - [7.1 The Xi'an Incident](#The_Xi.27an_Incident)
+  - [7.2 Pitman Act](#Pitman_Act)
+  - [7.3 Forging the United Front](#Forging_the_United_Front)
+  - [7.4 Transfer Industry to the Interior](#Transfer_Industry_to_the_Interior)
+  - [7.5 Operation Zet](#Operation_Zet)
+  - [7.6 Recall of German Mission](#Recall_of_German_Mission)
+- [8 War](#War)
+  - [8.1 Communist China](#Communist_China)
+  - [8.2 Guangxi](#Guangxi)
+  - [8.3 Japan](#Japan)
+    - [8.3.1 The Fading Sun](#The_Fading_Sun)
+  - [8.4 Civil War Resumes](#Civil_War_Resumes)
+  - [8.5 USSR](#USSR)
 
-Overview
---------
+## Overview
 
-In 1936, China faces many challenges. Among them, internal corruption and cronyism, the communist threat, and perhaps the most dangerous of all, the Japanese. However, China in 1936 has a huge potential for success, and it all depends on how you play it. Unfortunately, China is imperfectly modeled in the game, with some critical end game events missing (e.g. after the defeat of the Japanese, etc). Thus, players should consider using the [China\_Improvement\_Pack](/wiki/China_Improvement_Pack "China Improvement Pack") .
+In 1936, China faces many challenges. Among them, internal corruption and cronyism, the communist threat, and perhaps the most dangerous of all, the Japanese. However, China in 1936 has a huge potential for success, and it all depends on how you play it. Unfortunately, China is imperfectly modeled in the game, with some critical end game events missing (e.g. after the defeat of the Japanese, etc). Thus, players should consider using the [China_Improvement_Pack](/wiki/China_Improvement_Pack "China Improvement Pack") .
 
-*   **Advantages**
-    *   High Manpower
-    *   High IC
-    *   Large army, with more easily acquired
-    *   Large land mass
-    *   Powerful friends
-    *   Good sliders
-*   **Disadvantages**
-    *   Lacks resources
-    *   Bad techteams
-    *   Bad starting technology
-    *   Little space to conquer
-    *   Bad leaders
-    *   Bad ministers
-    *   High initial dissent
-    *   Powerful enemies
+- **Advantages**
+  - High Manpower
+  - High IC
+  - Large army, with more easily acquired
+  - Large land mass
+  - Powerful friends
+  - Good sliders
+- **Disadvantages**
+  - Lacks resources
+  - Bad techteams
+  - Bad starting technology
+  - Little space to conquer
+  - Bad leaders
+  - Bad ministers
+  - High initial dissent
+  - Powerful enemies
 
-Technology
-----------
+## Technology
 
 Nationalist China begins the game severely behind technologically. In addition, war will begin very early for China, which means that early technology research is critical. Early Infantry (1936), Rear Area Supply (strategic deployments), and a [land doctrine](/wiki/Land_Doctrine "Land Doctrine") are very important early research goals in order to have a reasonably capable military power. Grand battleplan doctrine is an excellent choice for land doctrines. It eventually maximizes the efficiency of the hordes of infantry that you are going to possess and fits in with your two land doctrine research teams. Also you can perhaps steal some blueprints from Japan which you should constantly try if your bankroll allows it. The German General von Falkenhausen is important to use early in the game, as he will leave China in February 1938 during the war with Japan. He'll complete anything he's still working on when you get the recall event, and then leave, so keep him busy as much as you can.
 
@@ -165,8 +163,7 @@ If you aim for maritime power, go for carrier warfare! Again you can steal bluep
 
 If you play with tech team takeover, then you obviously have some more options. Decent research teams are to be found in Mengkukuo, Manchukuo, Communist China, Siam and both of the possible Koreas (and of course Japan, but you already need some progress to even get to them). Especially Manchukuo and Korea are interesting since they are relatively easy to get to and provide teams for your most important weaknesses: Navy and Naval doctrine research. The rest of the chinese warlords have even crappier teams than you do.
 
-Diplomacy
----------
+## Diplomacy
 
 ### Alliances
 
@@ -176,27 +173,25 @@ The first alliance Nationalist China can create is the United Front. After the d
 
 The free slider moves China receives depend on selections made during events. Assuming historical events, by 1937, China will receive the following:
 
-*   4 Hawk moves (Pitman Act, Marco Polo Bridge Incident, Transfer Industry, Operation Zet)
-*   2 Interventionism moves (Make promises, Forge United Front)
-*   1 Open Society move (Make promises, Forge United Front, less the Marco Polo Bridge incident)
-*   2 Democratic, and 1 Political Left moves (Make Promises, Forge United Front).
+- 4 Hawk moves (Pitman Act, Marco Polo Bridge Incident, Transfer Industry, Operation Zet)
+- 2 Interventionism moves (Make promises, Forge United Front)
+- 1 Open Society move (Make promises, Forge United Front, less the Marco Polo Bridge incident)
+- 2 Democratic, and 1 Political Left moves (Make Promises, Forge United Front).
 
 For ideological reasons, China cannot move to maximum Free Market, but receives considerable benefits from the current position. It is however fairly easy to maximize Free Market:
 
-*   In 1936 and 1937, make shifts to Democratic (creating the Market Liberal government).
-*   In 1938, maximize Free Market.
+- In 1936 and 1937, make shifts to Democratic (creating the Market Liberal government).
+- In 1938, maximize Free Market.
 
 ### Ministers
 
 Nationalist China's starting ministers are quite poor, and worse yet, cannot be changed. In 1937, new ministers come available: **Armaments Minister:** Bai Chongxi provides +5% IC, and +10% industrial research **Minister of Security:** Walther Stennes requires +5% consumer goods need, but this is better than the -3% IC penalty Chen Guofu provides. In 1939, Head of Intelligence He Yaozu becomes available (IC +5%). Additional Chiefs of Staff also come available, including Jiang Baili (+20% Org regain) and Bai Jchongxi (Manpower growth +25%)
 
-Intelligence
-------------
+## Intelligence
 
 China will produce a considerable amount of money due to constant dissent levels that need to be paid down. This money could help some steal blueprint actions.
 
-Economy
--------
+## Economy
 
 China has a relatively strong economy for a regional power.
 
@@ -208,8 +203,7 @@ China has a fairly severe lack of resources, including energy, rares, and metal.
 
 Early industrial production as China is not wise, since the war with Japan will begin in just 18 months from the beginning of the game.
 
-Military
---------
+## Military
 
 ### Army
 
@@ -223,8 +217,7 @@ China will not be able to build any Navy until Japan has been defeated.
 
 China will not be able to build any Air Force until Japan has been defeated. After that, a single specialization (TAC, for example) is possible.
 
-Events
-------
+## Events
 
 Nationalist China has a large number of events.
 
@@ -232,9 +225,9 @@ Nationalist China has a large number of events.
 
 On March 30, 1936 (the date may vary), Nationalist China will have a very important event:
 
-*   Make Promises and Hedge Bets: Make peace with Communist China, returning to regular borders. Dissent lowers by -5%, democracy slider moves 1, interventionism moves 1, and open society moves 1. Relations with all neighbors improve.
-*   Arrest the Traitors: The United Front will never forge, and the war with the Communists continues. Dissent climbs by 10%. Isolationism adds 1, political right 1, and open society moves 2. Nationalist China will become Fascist. Additionally, wars with neighboring states is increasingly likely, particularly Tibet.
-*   Forge the United Front : Dissent climbs by 15%. Alliance with all neighbors. Sliders: 2 to democracy, 1 to political left, 1 to central planning, 2 to interventionism, 2 to open society.
+- Make Promises and Hedge Bets: Make peace with Communist China, returning to regular borders. Dissent lowers by -5%, democracy slider moves 1, interventionism moves 1, and open society moves 1. Relations with all neighbors improve.
+- Arrest the Traitors: The United Front will never forge, and the war with the Communists continues. Dissent climbs by 10%. Isolationism adds 1, political right 1, and open society moves 2. Nationalist China will become Fascist. Additionally, wars with neighboring states is increasingly likely, particularly Tibet.
+- Forge the United Front : Dissent climbs by 15%. Alliance with all neighbors. Sliders: 2 to democracy, 1 to political left, 1 to central planning, 2 to interventionism, 2 to open society.
 
 Based on dissent and slider moves, making promises and hedging bets is the best move. While early war may be a preferred strategy by some players, choosing the "Make promises" options does not preclude declaring war at a later time when China is better prepared and more organized.
 
@@ -246,8 +239,8 @@ Shortly after the beginning of the war with Japan, the USA will decide if it wil
 
 If Nationalist China follows historical events and does not engage in early war mongering, days after the Japanese declaration of war, this event will fire:
 
-*   Forge the United Front: 1 move to interventionism, 1 move to democratic, 1 move to left, 1 move to open society. -5% dissent. Alliance with all neighbors.
-*   We do not need them: 1 move to isolationism, 1 move to Right, 1 move to closed society. +5% dissent.
+- Forge the United Front: 1 move to interventionism, 1 move to democratic, 1 move to left, 1 move to open society. -5% dissent. Alliance with all neighbors.
+- We do not need them: 1 move to isolationism, 1 move to Right, 1 move to closed society. +5% dissent.
 
 The United Front allows Nationalist China to gain military control over her neighbors, in order to better deploy their forces.
 
@@ -263,8 +256,7 @@ Shortly after the onset of the war, the Soviet Union will choose whether or not 
 
 In the Spring of 1939, this event will fire at Japan's request to Germany. China will not be presented a choice, and will loose their German tech team von Falkenhausen and the General von Falkenhausen. At this point there might be an event screw-up. Even if you already annexed Manchukuo, the event will fire and Japan will seek recognition for a state that doesn't exist on territory they don't control. The only remedy is hacking the japanese, german or nationalist chinese event file.
 
-War
----
+## War
 
 ### Communist China
 
@@ -274,8 +266,8 @@ Nationalist China begins the game at war with Communist China. In HOI2, Communis
 
 In the summer of 1936, the Guangxi Clique will declare war on Nationalist China _assuming_ China did not forge the united front in the Xi'an incident. Making significant gains against them is not difficult, so long as the entire Chinese army is dedicated to the war effort, and 1936 infantry has been researched and upgraded. After a few victories, offering peace through an event is possible, and China has two options:
 
-*   Offer Peace: Includes the secession of many key Guangxi provinces. The secession of territories will provide enough new IC for a fourth research slot.
-*   Continue war: This will ensure that some of the other Chinese warlords join their Guangxi side, which is beneficial in terms of being able to annex all warlords without independent declarations of war. This will, however, ensure a very early declaration of war from Japan. Also, the far away Sinkiang is likely to join the war, which would take many months to simply reach with ground troops, let alone annex. Shanxi will typically side with Guanxi Clique (as it did in the Central Plains War) while Yunnan and Sinkiang could go either way. Sinkiang will also sometimes ally with Japan.
+- Offer Peace: Includes the secession of many key Guangxi provinces. The secession of territories will provide enough new IC for a fourth research slot.
+- Continue war: This will ensure that some of the other Chinese warlords join their Guangxi side, which is beneficial in terms of being able to annex all warlords without independent declarations of war. This will, however, ensure a very early declaration of war from Japan. Also, the far away Sinkiang is likely to join the war, which would take many months to simply reach with ground troops, let alone annex. Shanxi will typically side with Guanxi Clique (as it did in the Central Plains War) while Yunnan and Sinkiang could go either way. Sinkiang will also sometimes ally with Japan.
 
 ### Japan
 
@@ -289,14 +281,12 @@ A minimum of 2 HQ units will be necessary in order for China to conduct successf
 
 In HOI2, defeating the Japanese army was relatively easy, and could be accomplished in a few months after the onset of war. Beginning in Doomsday, the Japanese army became incrementally more powerful over patch versions. In Armageddon, the Japanese AI became quite strong, and the war can fairly easily last 4-5 years. China's main goal is the annexation of Manchuria, and pushing the Japanese completely out of Korea. With this accomplished, "The Fading Sun" event will fire. Nationalist China has to be in possession of Nanjing, Beiping, Mukden, Harbin, Pyongyang, Seoul and Busan. Then the event has a 50% chance to fire every 10 days. There are a few screw-ups in the event files. For example if you defended Shanxi and they are in possession of Beiping, the "fading sun" will not fire, since you are not in possession of Beiping and you cannot leave the alliance to kill off Shanxi since you are at war. Another example is if the japanese conquer anything they are not supposed to (communist china for instance, or if Mengkukuo is never created and thus cannot be annexed). It won't be handed over to you per event, thus creating japanese enclaves in the middle of the chinese mainland. Apparently including it in the event has been forgotten, since every other warlord is included in the event files. If you play with tech team takeover, you might want to delay annexation of Manchuria and the "fading sun" until the start of 1939. It'll give you a good naval and aerial doctrine research team - things that you could really use. Also you can change your ministers at will and erase the resulting dissent with the "fading sun". These are your options:
 
-*   Humiliate the Japanese: Reduces dissent by -20%. War with Japan will end, and Korea will be liberated as a Chinese puppet. Ironically, Korea will start off with several technology advancements, and will offer blueprints. All Japanese territories on the mainland will become Chinese. The war with Siam continues, but they will offer a separate peace. Japan will suffer a coup that transforms their government into Left-Wing Radical.
-*   Total Victory: Causes 5% dissent, the war will continue as normal.
+- Humiliate the Japanese: Reduces dissent by -20%. War with Japan will end, and Korea will be liberated as a Chinese puppet. Ironically, Korea will start off with several technology advancements, and will offer blueprints. All Japanese territories on the mainland will become Chinese. The war with Siam continues, but they will offer a separate peace. Japan will suffer a coup that transforms their government into Left-Wing Radical.
+- Total Victory: Causes 5% dissent, the war will continue as normal.
 
 ### Civil War Resumes
 
 The Chinese Civil War will return, by event, _only if_ the Japanese were defeated on their homeland by the Allies and/or USSR. The Fading Sun event, in itself, will not cause a return of the Chinese Civil War. Technically, Japan must receive event 43, and then become a USA puppet in event 45. That will then fire event 99, where Communist China can decide to continue the Civil War. Alternatively, Nationalist China can remove all its allies and puppets, and DOW them individually to unify China properly. If you feel up to the task (which you should after defeating Japan), you can also remove your puppets and leave the alliance yourself and take them on alltogether. You'll only require one DOW this way to annex all the warlords with the exception of Tibet. A nice bonus for this would be the communist and korean techteams (if you play with techteam takeover).
-
-  
 
 ### USSR
 

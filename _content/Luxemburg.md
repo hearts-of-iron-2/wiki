@@ -1,11 +1,12 @@
 ---
 title: Luxemburg
 ---
- [Country guides](/wiki/Country_guides "Country guides")
+
+[Country guides](/wiki/Country_guides "Country guides")
 
 [Major powers](/wiki/Major_power "Major power")
 
-* * *
+---
 
 [France](/wiki/France "France")  
 [Germany](/wiki/Germany "Germany")  
@@ -17,7 +18,7 @@ title: Luxemburg
 
 Regional powers
 
-* * *
+---
 
 [Argentina](/wiki/Argentina "Argentina")  
 [Australia](/wiki/Australia "Australia")  
@@ -41,7 +42,7 @@ Regional powers
 
 [Minor powers](/wiki/Minor_power "Minor power")
 
-* * *
+---
 
 [Austria](/wiki/Austria "Austria")  
 [Chile](/wiki/index.php?title=Chile&action=edit&redlink=1 "Chile (page does not exist)")  
@@ -60,7 +61,7 @@ Regional powers
 
 [Micro powers](/wiki/Micro_power "Micro power")
 
-* * *
+---
 
 [Afghanistan](/wiki/Afghanistan "Afghanistan")  
 [Albania](/wiki/Albania "Albania")  
@@ -102,21 +103,18 @@ Luxemburg
 [Yemen](/wiki/index.php?title=Yemen&action=edit&redlink=1 "Yemen (page does not exist)")  
 [Yunnan](/wiki/Yunnan "Yunnan")
 
-Contents
---------
+## Contents
 
-*   [1 Fort Luxemburg](#Fort_Luxemburg)
-*   [2 Find an Ally](#Find_an_Ally)
-    *   [2.1 Joining the Allies](#Joining_the_Allies)
-    *   [2.2 Joining the Axis](#Joining_the_Axis)
+- [1 Fort Luxemburg](#Fort_Luxemburg)
+- [2 Find an Ally](#Find_an_Ally)
+  - [2.1 Joining the Allies](#Joining_the_Allies)
+  - [2.2 Joining the Axis](#Joining_the_Axis)
 
-Fort Luxemburg
---------------
+## Fort Luxemburg
 
 It is possible to survive alone as Luxemburg by building 10 land forts and just sitting there. It will be one of the most boring games you are ever likely to play though and you will not be influencing anything at all until well after the war for Europe has been won (and even then you can only ally with the victor or you will still be unable to do anything). Far better to ally with one side or the other early on.
 
-Find an Ally
-------------
+## Find an Ally
 
 First of all, make sure to increase your interventionism each year, as you need either a high interventionism or a dictatorship government to enter alliances while still at peace. Answer events to gain yourself more interventionism and authoritarianism: when "Law Policy Initiative" comes up, choose to "Side with the Ultrarightists", and when a "Rogue Politician" appears, certainly "Ignore him". With the right events, you should have a Paternal Autocrat government by 1937.
 

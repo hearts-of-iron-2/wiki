@@ -1,39 +1,38 @@
 ---
 title: Militia_Strategy_Guide
 ---
- [Template:Anthology](/wiki/index.php?title=Template:Anthology&action=edit&redlink=1 "Template:Anthology (page does not exist)") At first glance, the [Militia Division](/wiki/Militia_Division "Militia Division") seems to be a worthless unit. When comparing the statistics of Militia to any other land unit, they are clearly inferior. Yet, Militia is so valuable and important to your army that every nation in the game should use Militia when they are able to do so.
 
-Contents
---------
+[Template:Anthology](/wiki/index.php?title=Template:Anthology&action=edit&redlink=1 "Template:Anthology (page does not exist)") At first glance, the [Militia Division](/wiki/Militia_Division "Militia Division") seems to be a worthless unit. When comparing the statistics of Militia to any other land unit, they are clearly inferior. Yet, Militia is so valuable and important to your army that every nation in the game should use Militia when they are able to do so.
 
-*   [1 Comparison to Infantry](#Comparison_to_Infantry)
-    *   [1.1 Value](#Value)
-    *   [1.2 Absorbing Bullets](#Absorbing_Bullets)
-    *   [1.3 Battle Winning Ability](#Battle_Winning_Ability)
-    *   [1.4 Command Limit](#Command_Limit)
-*   [2 The Manpower issue](#The_Manpower_issue)
-    *   [2.1 The problem](#The_problem)
-    *   [2.2 Consequences](#Consequences)
-        *   [2.2.1 States which should rely heavily on Militia](#States_which_should_rely_heavily_on_Militia)
-        *   [2.2.2 States which could use some Militia](#States_which_could_use_some_Militia)
-        *   [2.2.3 States which cannot afford Militia, manpower-wise](#States_which_cannot_afford_Militia.2C_manpower-wise)
+## Contents
 
-Comparison to Infantry
-----------------------
+- [1 Comparison to Infantry](#Comparison_to_Infantry)
+  - [1.1 Value](#Value)
+  - [1.2 Absorbing Bullets](#Absorbing_Bullets)
+  - [1.3 Battle Winning Ability](#Battle_Winning_Ability)
+  - [1.4 Command Limit](#Command_Limit)
+- [2 The Manpower issue](#The_Manpower_issue)
+  - [2.1 The problem](#The_problem)
+  - [2.2 Consequences](#Consequences)
+    - [2.2.1 States which should rely heavily on Militia](#States_which_should_rely_heavily_on_Militia)
+    - [2.2.2 States which could use some Militia](#States_which_could_use_some_Militia)
+    - [2.2.3 States which cannot afford Militia, manpower-wise](#States_which_cannot_afford_Militia.2C_manpower-wise)
 
-| Model | ORG | Morale | Air Att. | Air Def. | Soft Att. | Hard Att. | Toughness | Defensiveness | Softness | Cost | Build-time | Manpower | Max Speed | Supply Cons. | Suppression |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Infantry '36 | 30 | 30 | 2 | 3 | 10 | 1 | 12 | 15 | 100 | 7 | 95 | 10 | 4 | 1 | 2 |
-| Militia '36 | 30 | 30 | 1 | 2 | 2 | 0 | 1 | 8 | 100 | 4 | 50 | 5 | 4 | 0.2 | 1 |
+## Comparison to Infantry
+
+| Model        | ORG | Morale | Air Att. | Air Def. | Soft Att. | Hard Att. | Toughness | Defensiveness | Softness | Cost | Build-time | Manpower | Max Speed | Supply Cons. | Suppression |
+| ------------ | --- | ------ | -------- | -------- | --------- | --------- | --------- | ------------- | -------- | ---- | ---------- | -------- | --------- | ------------ | ----------- |
+| Infantry '36 | 30  | 30     | 2        | 3        | 10        | 1         | 12        | 15            | 100      | 7    | 95         | 10       | 4         | 1            | 2           |
+| Militia '36  | 30  | 30     | 1        | 2        | 2         | 0         | 1         | 8             | 100      | 4    | 50         | 5        | 4         | 0.2          | 1           |
 
 This means:
 
-*   Infantry uses five times as much supplies
-*   Infantry increases TC load by five times
-*   Infantry costs twice as much in manpower
-*   Infantry costs over three times more IC days (665 versus 200)
+- Infantry uses five times as much supplies
+- Infantry increases TC load by five times
+- Infantry costs twice as much in manpower
+- Infantry costs over three times more IC days (665 versus 200)
 
-These facts aren't necessarily surprising: since Infantry is a better combat unit, it "should" cost more, right? Yet, combat isn't only about statistics! In particular, there is more to combat in HOI2 than attack ratings, and this will be explained in detail by the following analysis. Further comparison is available at [Ground\_unit\_statistics](/wiki/Ground_unit_statistics "Ground unit statistics") .
+These facts aren't necessarily surprising: since Infantry is a better combat unit, it "should" cost more, right? Yet, combat isn't only about statistics! In particular, there is more to combat in HOI2 than attack ratings, and this will be explained in detail by the following analysis. Further comparison is available at [Ground_unit_statistics](/wiki/Ground_unit_statistics "Ground unit statistics") .
 
 ### Value
 
@@ -41,10 +40,10 @@ Considering that every unit in game requires: "IC to build x Days to build", als
 
 According to the [findings made by Theokrat](http://forum.paradoxplaza.com/forum/showthread.php?t=296740) , 100% combat efficiency is achieved when the majority of a formation consists of militia. Hence, building 3 militia and 2 infantry (1,930 ICd) versus 3 infantry (1,995 ICd) is a far better choice because the mixed force is:
 
-*   Superior in combat: more units are inflicting damage
-*   Superior in losses: more units spread causalities evenly
-*   Superior in staying power: Decreased loses enable infantry to fight longer
-*   Superior in costs, time, TC, supply, and manpower.
+- Superior in combat: more units are inflicting damage
+- Superior in losses: more units spread causalities evenly
+- Superior in staying power: Decreased loses enable infantry to fight longer
+- Superior in costs, time, TC, supply, and manpower.
 
 ### Absorbing Bullets
 
@@ -60,8 +59,7 @@ Meanwhile, 1 infantry with 300 BWA (30 \* 10) will defeat 2 Militia (4 \* 60) (2
 
 A division of Militia takes up command capacity. In offense, Militia are higher in the division ranking (explanation needed) and thus damage-dealing infantry divisions are the ones taking the command penalty of -75% effectiveness. There is no overall limit to command capacity for defenders (instead of 24 divisions per province (FM + HQ) for attackers), so militia are sure to be fully effective on defense.
 
-The Manpower issue
-------------------
+## The Manpower issue
 
 ### The problem
 

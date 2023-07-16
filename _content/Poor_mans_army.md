@@ -1,37 +1,34 @@
 ---
 title: Poor_mans_army
 ---
- [Template:HOI2 v1.3](/wiki/index.php?title=Template:HOI2_v1.3&action=edit&redlink=1 "Template:HOI2 v1.3 (page does not exist)")
 
-Contents
---------
+[Template:HOI2 v1.3](/wiki/index.php?title=Template:HOI2_v1.3&action=edit&redlink=1 "Template:HOI2 v1.3 (page does not exist)")
 
-*   [1 Introduction](#Introduction)
-*   [2 Economics - Managing Scarce Resources](#Economics_-_Managing_Scarce_Resources)
-*   [3 Self-Defence Forces - Guns or Butter](#Self-Defence_Forces_-_Guns_or_Butter)
-    *   [3.1 A discussion on Footsoldiers](#A_discussion_on_Footsoldiers)
-    *   [3.2 A discussion on Brigades](#A_discussion_on_Brigades)
-*   [4 Air Force](#Air_Force)
-*   [5 Navy](#Navy)
-*   [6 Research - Tree climbing on paper](#Research_-_Tree_climbing_on_paper)
-    *   [6.1 Research Basics](#Research_Basics)
-    *   [6.2 Industrial Research](#Industrial_Research)
-    *   [6.3 Military Research](#Military_Research)
-    *   [6.4 Other Research](#Other_Research)
-*   [7 Definitions for this text](#Definitions_for_this_text)
+## Contents
 
-Introduction
-------------
+- [1 Introduction](#Introduction)
+- [2 Economics - Managing Scarce Resources](#Economics_-_Managing_Scarce_Resources)
+- [3 Self-Defence Forces - Guns or Butter](#Self-Defence_Forces_-_Guns_or_Butter)
+  - [3.1 A discussion on Footsoldiers](#A_discussion_on_Footsoldiers)
+  - [3.2 A discussion on Brigades](#A_discussion_on_Brigades)
+- [4 Air Force](#Air_Force)
+- [5 Navy](#Navy)
+- [6 Research - Tree climbing on paper](#Research_-_Tree_climbing_on_paper)
+  - [6.1 Research Basics](#Research_Basics)
+  - [6.2 Industrial Research](#Industrial_Research)
+  - [6.3 Military Research](#Military_Research)
+  - [6.4 Other Research](#Other_Research)
+- [7 Definitions for this text](#Definitions_for_this_text)
+
+## Introduction
 
 Although the major powers in the HOI2 environment have hundreds of ICs, tech teams and manpower at their disposal, some aren't so lucky. This guide will focus on those unlucky countries whose Industrial Capacity only reaches the high 30's, if they're lucky. But they're not.
 
-Economics - Managing Scarce Resources
--------------------------------------
+## Economics - Managing Scarce Resources
 
 As stated earlier, ICs can be scarce, thus building more can be of importance in developing a self-reliance on Consumer Goods, Supplies and such. Unlike major powers, some countries do not have the technical know-how to do this from the start. In which case, research into "Basic Construction Engineering" should be funded. Then again, one can also develop a foreign policy of converting non-domestic ICs to domestic, but this probably requires some military might - then again, you know you want to.
 
-Self-Defence Forces - Guns or Butter
-------------------------------------
+## Self-Defence Forces - Guns or Butter
 
 It is still possible for relatively small powers to attain a capable military force. In most cases, however, this will only be limited to a ground force with light equipment. Although different types of [Infantry](/wiki/Infantry "Infantry") is discussed in [On the subject of ground troop investments](/wiki/On_the_subject_of_ground_troop_investments "On the subject of ground troop investments") , the units discussed there are of less interest for the minor or micro powers, since Infantry is the only real viable option with its versatility and affordability.
 
@@ -41,10 +38,8 @@ It is still possible for relatively small powers to attain a capable military fo
 
 The major units reviewed and compared here will be the early Infantry ('18, '36), Garrison ('18) and Militia ('36)
 
-  
 \[Table 1 - Infantry ('18, '36), Garrison ('18), Militia ('36) and Cavalry ('18, '36)\]
 
-  
 When comparing Infantry ('18) and Garrison ('18) one can only see slight differences in combat capability in favor of Infantry. The difference between Infantry ('18) and Militia ('36) is quite big, however. Militias have no HA, only 40 % of Infantry SA, 61 % of Defensiveness, almost no Toughness, and lower Air Defence and Suppression capabilities.
 
 The main disadvantage of Infantry is however that they are very costly for small powers. In comparing the economical aspects of the different types of divisions, Militias are, by far, the cheapest to both field and maintain (although they can be a possible manpower drain). Supply-wise, they cost only a fifth of Infantry and slightly half of Garrison ('18).
@@ -71,8 +66,7 @@ All in all, it can give your precious units the extra needed protection they nee
 
 **Armored Car** \- Although it does give a slight boost to Suppression, it also increases the combat characteristics of the unit it's attached to (2SA, 1Defence, 1Toughness) as well as increasing the units Organization (5%). On the logistical side it uses up as much resources as Early Artillery, yet it uses 60% more Fuel as an Engineering unit. It is however rather cheep to field (3ICs).
 
-Air Force
----------
+## Air Force
 
 Although having an air force is possible for a minor power, having a decent one that is up to date is probably more of a problem. One has to evaluate what type and what role the air force is to play. Also, with the limited industrial capacity your country has, every IC put into the air force has to count. See the [Effective Use of Airpower](/wiki/Effective_Use_of_Airpower "Effective Use of Airpower") posted in the associated guides section.
 
@@ -82,10 +76,9 @@ The tactical branch of the tech tree also gives you ability to do airborne assau
 
 When it comes to fighter cover, there might only be very little room for expansion and maintenance, especially since both AA guns and AD brigades are probably a more affordable alternative. Escort fighters can be of interest however in keeping your bombers safe.
 
-Hearts of Iron 2: Doomsday In HOI2:DD, Escort fighters are managed and produced like Brigades attached to bombers. Thus, this might be a very affordable way of keeping your bombers safe from enemy fighters. Also there is a tech in the tactical branch of the tech tree that gives +30% bonuses to most tactical air missions. 
+Hearts of Iron 2: Doomsday In HOI2:DD, Escort fighters are managed and produced like Brigades attached to bombers. Thus, this might be a very affordable way of keeping your bombers safe from enemy fighters. Also there is a tech in the tactical branch of the tech tree that gives +30% bonuses to most tactical air missions.
 
-Navy
-----
+## Navy
 
 See the [Naval Primer](/wiki/Naval_Primer "Naval Primer") in the Associated Guides section.
 
@@ -93,18 +86,17 @@ Yes, a navy is possible but the same rule applies to the air force - one needs t
 
 So all in all it is simple. Heavy cruisers, destroyers and possibly submarines all at level 4 that are improved through sealane interdiction doctrine(if subs are built) or the "fleet in in being" (British doctrine).
 
-Research - Tree climbing on paper
----------------------------------
+## Research - Tree climbing on paper
 
 ### Research Basics
 
 Everything that is explained on the [research](/wiki/Research "Research") page obviously applies to smaller nation research too, so reading that is a very good start. Research for small nations in a short version looks a lot like this:
 
-*   Never research ahead of time. Bigger nations can do that, as they usually have the more tech slots and better tech teams. You however, as small nation, usually have bad tech teams, so researching ahead of time would be a lot of wasted time taking into consideration that you only have 1 or maybe 2 tech slots.
-*   Research techs with blueprints first. If you perhaps have an ally that gives you blueprints, it is very wise to research the techs you have blueprints of first. Sometimes you might want another tech researched first. But nothing is more frustrating then researching a tech and when you reach 80% your ally suddenly gives you a blueprint, as that means a lot of wasted research time.
-*   Matching fields of expertise. Get as much as possible matching fields of expertise.
-*   Skill levels. Always research with the highest possible skill level.
-*   Don't research anything you don't need!
+- Never research ahead of time. Bigger nations can do that, as they usually have the more tech slots and better tech teams. You however, as small nation, usually have bad tech teams, so researching ahead of time would be a lot of wasted time taking into consideration that you only have 1 or maybe 2 tech slots.
+- Research techs with blueprints first. If you perhaps have an ally that gives you blueprints, it is very wise to research the techs you have blueprints of first. Sometimes you might want another tech researched first. But nothing is more frustrating then researching a tech and when you reach 80% your ally suddenly gives you a blueprint, as that means a lot of wasted research time.
+- Matching fields of expertise. Get as much as possible matching fields of expertise.
+- Skill levels. Always research with the highest possible skill level.
+- Don't research anything you don't need!
 
 ### Industrial Research
 
@@ -118,8 +110,7 @@ Being a small nation, you probably only have infantry, so that's also where your
 
 If you have researched everything stated above and still have spare research slots, I think you aren't playing a small country, and should be reading another guide. Normally you will never reach any secret weapons, or very advanced doctrines or units.
 
-Definitions for this text
--------------------------
+## Definitions for this text
 
 [Minor Power](/wiki/Minor_Power "Minor Power") \- Less than 40 ICs  
 [Micro Power](/wiki/Micro_Power "Micro Power") \- Less than 10 ICs  

@@ -1,11 +1,12 @@
 ---
 title: Brazil
 ---
- [Country guides](/wiki/Country_guides "Country guides")
+
+[Country guides](/wiki/Country_guides "Country guides")
 
 [Major powers](/wiki/Major_power "Major power")
 
-* * *
+---
 
 [France](/wiki/France "France")  
 [Germany](/wiki/Germany "Germany")  
@@ -17,7 +18,7 @@ title: Brazil
 
 Regional powers
 
-* * *
+---
 
 [Argentina](/wiki/Argentina "Argentina")  
 [Australia](/wiki/Australia "Australia")  
@@ -41,7 +42,7 @@ Brazil
 
 [Minor powers](/wiki/Minor_power "Minor power")
 
-* * *
+---
 
 [Austria](/wiki/Austria "Austria")  
 [Chile](/wiki/index.php?title=Chile&action=edit&redlink=1 "Chile (page does not exist)")  
@@ -60,7 +61,7 @@ Brazil
 
 [Micro powers](/wiki/Micro_power "Micro power")
 
-* * *
+---
 
 [Afghanistan](/wiki/Afghanistan "Afghanistan")  
 [Albania](/wiki/Albania "Albania")  
@@ -104,24 +105,20 @@ Brazil
 
 <table class="metadata plainlinks ambox ambox-notice" style=""><tbody><tr><td class="mbox-image"><div style="width: 52px;"><img alt="Ambox warning blue construction.png" data-file-height="44" data-file-width="50" data-url="https://central.paradoxwikis.com/images/c/cd/Ambox_warning_blue_construction.png" decoding="async" height="44" loading="lazy" src="https://central.paradoxwikis.com/images/c/cd/Ambox_warning_blue_construction.png" width="50"></div></td><td class="mbox-text" style=""><b>This article is undergoing a major <a href="/wiki/Template:Under_construction" title="Template:Under construction">reconstruction </a>.</b><br><small>You are welcome to assist in its overhaul.</small></td></tr></tbody></table>
 
-  
+## Contents
 
-Contents
---------
+- [1 Brazil](#Brazil)
+  - [1.1 Focus](#Focus)
+  - [1.2 Key Data / Timeline](#Key_Data_.2F_Timeline)
+  - [1.3 Startup](#Startup)
+  - [1.4 The road to war (1936-1938)](#The_road_to_war_.281936-1938.29)
+  - [1.5 Brazil as a Major Player (1939-1942)](#Brazil_as_a_Major_Player_.281939-1942.29)
+  - [1.6 Brazil in the Great War (~1942-?)](#Brazil_in_the_Great_War_.28.7E1942-.3F.29)
+  - [1.7 Fazit](#Fazit)
+  - [1.8 Research](#Research)
+  - [1.9 Politics & Events](#Politics_.26_Events)
 
-*   [1 Brazil](#Brazil)
-    *   [1.1 Focus](#Focus)
-    *   [1.2 Key Data / Timeline](#Key_Data_.2F_Timeline)
-    *   [1.3 Startup](#Startup)
-    *   [1.4 The road to war (1936-1938)](#The_road_to_war_.281936-1938.29)
-    *   [1.5 Brazil as a Major Player (1939-1942)](#Brazil_as_a_Major_Player_.281939-1942.29)
-    *   [1.6 Brazil in the Great War (~1942-?)](#Brazil_in_the_Great_War_.28.7E1942-.3F.29)
-    *   [1.7 Fazit](#Fazit)
-    *   [1.8 Research](#Research)
-    *   [1.9 Politics & Events](#Politics_.26_Events)
-
-Brazil
-------
+## Brazil
 
 This guide is about how Brazil can become a leading role in HoI.
 
@@ -135,20 +132,20 @@ In early game (1936) you have to go fast on expansion. Concentrate mainly on all
 
 Key Facts at a glance:
 
-*   Feb. '36 - Annex Uruguay
-*   Mar. '36 - Annex Paraguay
-*   Mar. '36 - IC 40, Tech-Slot #3
-*   Sep. '36 - Annex Venezuela
-*   Oct. '37 - 11: Election-Event
-*   Winter'37 - IC 60, Tech-Slot #4
-*   Summer'39 - Annex Bolivia
-*   Oct. '39 - 11: Election-Event
-*   Winter'39 - IC 80, Tech-Slot #5
-*   Summer'40 - Annex Argentina
-*   Summer'41 - Annex Peru & Ecuador
-*   Dec. '41 - Policy Initiative Event
-*   Summer'42 - Annex Columbia
-*   ...
+- Feb. '36 - Annex Uruguay
+- Mar. '36 - Annex Paraguay
+- Mar. '36 - IC 40, Tech-Slot #3
+- Sep. '36 - Annex Venezuela
+- Oct. '37 - 11: Election-Event
+- Winter'37 - IC 60, Tech-Slot #4
+- Summer'39 - Annex Bolivia
+- Oct. '39 - 11: Election-Event
+- Winter'39 - IC 80, Tech-Slot #5
+- Summer'40 - Annex Argentina
+- Summer'41 - Annex Peru & Ecuador
+- Dec. '41 - Policy Initiative Event
+- Summer'42 - Annex Columbia
+- ...
 
 ...i have to prove some dates etc. - don't believe everything but you can take it as benchmark.
 
@@ -156,8 +153,8 @@ Key Facts at a glance:
 
 First: Kill your fleet (except the transporters). Produce 3 Militias (the should be ready by Feb.15). Check your research (industry & research).
 
-*   With your bigger army travel to São Paulo - where your transporters will wait for traveling to conquer Uruguay.
-*   Your smaller army send directly to the Border to Asunción(Paraguay).
+- With your bigger army travel to São Paulo - where your transporters will wait for traveling to conquer Uruguay.
+- Your smaller army send directly to the Border to Asunción(Paraguay).
 
 Try do this as fast and without timeloss as you can. **Conquer Uruguay** before the 10th of Febr. - for some reasons USA will less likely break the non aggression pact with you. **Next is Paraguay** , wait for the additional forces(3 militias) on Febr. 14/15 let them join your smaller army, choose a leader with engineering because of river (Valgas Neves) and attack Paraquay, maybe you have to attack a second time (snow, frozen, river...). When finished with building militias immediately build a naval base in the top north region (Macapá) (we'll get to it later).
 
@@ -201,14 +198,13 @@ WOW, you'll say - what's that! - i'fe got about 100 IC Points now??? 5 Techslots
 
 Yes, and no. You have anything a major player had 4 years ago but you have no tank, no planes, no ships - but a hell of a infantry! You should rest again, just one year - reduce your dissidents - upgrade your army, build maybe some factories more.
 
-  
 Late 1941 **run for Peru** , if you have enough good Mountain Inf. you can also **get Ecuador right after it** . It's now early 1942 the world is in a great war, USA will declare war to Germany. You have a dangerous high belligerence, maybe you should think about liberating Peru and Ecuador to decrease it.
 
 You can risk **taking Columbia** . However you should now really think about defending your big continent (except Chile, yes you don't want them, besides, they love you ;), best west coast defense btw. ). Try to build some Fortresspoints with broad access to shores and much connections eg.: Maracaibo, Boa Vista, Goias, Rosario, San Carlos de Bariloche. Put fast Armies there with about 5 Divisions, the more the better - time is short, manpower will be enough, res you have plenty! Usually you don't have to fear the west side - concentrate on the east shores.
 
 EDIT:
 
-*   Maybe you should choose to attack Columbia first (have to try that) - maybe even before bolivia.
+- Maybe you should choose to attack Columbia first (have to try that) - maybe even before bolivia.
 
 Whenever you're think you're ready let the great war begin...
 

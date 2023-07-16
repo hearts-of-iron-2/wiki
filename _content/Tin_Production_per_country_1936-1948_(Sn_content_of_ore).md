@@ -1,7 +1,8 @@
 ---
 title: Tin_Production_per_country_1936-1948_(Sn_content_of_ore)
 ---
- Source: BR Mitchell (ISBN 0333994132).
+
+Source: BR Mitchell (ISBN 0333994132).
 
 Numbers are 1000s of metric tons
 

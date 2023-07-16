@@ -1,11 +1,12 @@
 ---
 title: Republican_Spain
 ---
- [Country guides](/wiki/Country_guides "Country guides")
+
+[Country guides](/wiki/Country_guides "Country guides")
 
 [Major powers](/wiki/Major_power "Major power")
 
-* * *
+---
 
 [France](/wiki/France "France")  
 [Germany](/wiki/Germany "Germany")  
@@ -17,7 +18,7 @@ title: Republican_Spain
 
 Regional powers
 
-* * *
+---
 
 [Argentina](/wiki/Argentina "Argentina")  
 [Australia](/wiki/Australia "Australia")  
@@ -41,7 +42,7 @@ Republican Spain
 
 [Minor powers](/wiki/Minor_power "Minor power")
 
-* * *
+---
 
 [Austria](/wiki/Austria "Austria")  
 [Chile](/wiki/index.php?title=Chile&action=edit&redlink=1 "Chile (page does not exist)")  
@@ -60,7 +61,7 @@ Republican Spain
 
 [Micro powers](/wiki/Micro_power "Micro power")
 
-* * *
+---
 
 [Afghanistan](/wiki/Afghanistan "Afghanistan")  
 [Albania](/wiki/Albania "Albania")  
@@ -102,46 +103,42 @@ Republican Spain
 [Yemen](/wiki/index.php?title=Yemen&action=edit&redlink=1 "Yemen (page does not exist)")  
 [Yunnan](/wiki/Yunnan "Yunnan")
 
-Contents
---------
+## Contents
 
-*   [1 Overview](#Overview)
-*   [2 Technology](#Technology)
-*   [3 Diplomacy](#Diplomacy)
-    *   [3.1 Alliances](#Alliances)
-    *   [3.2 Sliders](#Sliders)
-    *   [3.3 Ministers](#Ministers)
-*   [4 Intelligence](#Intelligence)
-*   [5 Economy](#Economy)
-    *   [5.1 Trading](#Trading)
-    *   [5.2 Industrial Production](#Industrial_Production)
-*   [6 Military](#Military)
-    *   [6.1 Army](#Army)
-    *   [6.2 Navy](#Navy)
-    *   [6.3 Air Force](#Air_Force)
-*   [7 War](#War)
-    *   [7.1 Spanish Civil War](#Spanish_Civil_War)
-        *   [7.1.1 Avoiding the Spanish Civil War](#Avoiding_the_Spanish_Civil_War)
-    *   [7.2 War with the Axis](#War_with_the_Axis)
-*   [8 Events](#Events)
-    *   [8.1 February 17, 1936: General Election](#February_17.2C_1936:_General_Election)
-    *   [8.2 June 26, 1936: Outlaw the Fascist Parties](#June_26.2C_1936:_Outlaw_the_Fascist_Parties)
-    *   [8.3 Spring, 1937: Communist Coup](#Spring.2C_1937:_Communist_Coup)
+- [1 Overview](#Overview)
+- [2 Technology](#Technology)
+- [3 Diplomacy](#Diplomacy)
+  - [3.1 Alliances](#Alliances)
+  - [3.2 Sliders](#Sliders)
+  - [3.3 Ministers](#Ministers)
+- [4 Intelligence](#Intelligence)
+- [5 Economy](#Economy)
+  - [5.1 Trading](#Trading)
+  - [5.2 Industrial Production](#Industrial_Production)
+- [6 Military](#Military)
+  - [6.1 Army](#Army)
+  - [6.2 Navy](#Navy)
+  - [6.3 Air Force](#Air_Force)
+- [7 War](#War)
+  - [7.1 Spanish Civil War](#Spanish_Civil_War)
+    - [7.1.1 Avoiding the Spanish Civil War](#Avoiding_the_Spanish_Civil_War)
+  - [7.2 War with the Axis](#War_with_the_Axis)
+- [8 Events](#Events)
+  - [8.1 February 17, 1936: General Election](#February_17.2C_1936:_General_Election)
+  - [8.2 June 26, 1936: Outlaw the Fascist Parties](#June_26.2C_1936:_Outlaw_the_Fascist_Parties)
+  - [8.3 Spring, 1937: Communist Coup](#Spring.2C_1937:_Communist_Coup)
 
-Overview
---------
+## Overview
 
 Republican Spain is a challenging nation to play: meeting its first, most important test, just six months into the game: the Spanish Civil War. Later, Spain will have very few expansionist opportunities since nearly all neighbors are protected with Guarantees by Axis or Allied powers. Finally, war with the Axis will be challenging.
 
-Technology
-----------
+## Technology
 
 Early research is important in that the third research slot finishes by July 18, 1936, at the date of the outbreak of the war. The "Early Infantry Division" is a good choice here. For a player planning to join the Comintern, abandoning the FirePower Focus land doctrine is a good idea, in order to change to the Mobility/Human Wave doctrine, which is a superior overall doctrine, and the USSR has blueprints for.
 
 Generally, due to relatively poor tech teams, Spain will never be on the leading edge of technology. For this reason, even the Soviet Union is a good technology partner, and can help Spain keep pace in a few areas. Infantry and Land Doctrines are essential, but Spain is able to keep up in some Industrial technologies, as well as very limited air and naval technologies.
 
-Diplomacy
----------
+## Diplomacy
 
 ### Alliances
 
@@ -155,13 +152,11 @@ Most of the events Republican Spain receives move the political sliders. Therefo
 
 Republican Spain begins with 30% dissent, and the General Election will automatically change ministers. The final, event driven, minister changes will end in the Spring of 1937, after the Communist Coup. At that point, Armaments Minister Sanchez is the best choice. For Intelligence Minister, Rubio provides +5% IC, while Mane provides +5% research. Other ministers could use changing, however 1937 dissent levels make the trade-offs not worth it. Later minister moves include various options for manpower and IC bonuses. Generally, Spain has a strong minister pool after 1941.
 
-Intelligence
-------------
+## Intelligence
 
 Spain does not have the political configuration to produce a great deal of money, and therefore spying is generally not possible.
 
-Economy
--------
+## Economy
 
 The game begins with Republican Spain having 30% dissent. Paying this dissent down is not useful, since the Spanish Civil War event will reset dissent at 15%. Therefore, all early IC should be spent on Reinforcements and an early serial run of [Militia](/wiki/Militia "Militia") .
 
@@ -173,8 +168,7 @@ The Soviet Union is Republican Spain's best trading partner, and can fulfill the
 
 IC building as Spain has very limited utility, and is generally not wise. Three research slots are important for spain to achieve (40 base IC), but achieving 60 base IC is generally impractical in the early game. Later IC growth is possible through conquest, for example achieving over 100 base IC is possible in late game. Due to Spain's economic setup, high early dissent, and massive upgrade needs, all focus should be put into converting manpower into a military force, and industrial building should be neglected.
 
-Military
---------
+## Military
 
 ### Army
 
@@ -188,8 +182,7 @@ Spain's Navy will be particularly important in the early war against the Axis po
 
 Spain doesn't have the IC to produce a serious air force. Spain does, however, receive several aircraft from the Spanish Civil War. Thus, upgrading these aircraft, especially the TAC, can be useful.
 
-War
----
+## War
 
 ### Spanish Civil War
 
@@ -203,8 +196,7 @@ You can avoid the Civil War completely by moving your first slider (1936) to Aut
 
 Whether or not Republican Spain joins the Comintern or the Allies, war with the Axis is a necessity (otherwise choose Nationalist Spain!). Joining the Comintern will provide Spain nearly two additional years of preparation for war. Spain will not be able to make significant gains against Germany at the outset of war, thus the focus on the German border should be defensive. Meanwhile, an assault of Italy can be quite fruitful, resulting in a relatively quick annexation. Since it is possible for Vichy France to join the Axis as early as 1942, Spain should be prepared with border guards. Generally, holding out until 1943 is necessary, as that is when the Soviet Union will begin to push back the German military. It is possible for a well-played Spain to make significant gains in the West: including the capture of all France and Western Germany through to Austria, Czechoslovakia and Yugoslavia in the South.
 
-Events
-------
+## Events
 
 ### February 17, 1936: General Election
 

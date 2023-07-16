@@ -1,20 +1,19 @@
 ---
 title: Conducting_Blitzkrieg_offensives
 ---
- [Template:Anthology](/wiki/index.php?title=Template:Anthology&action=edit&redlink=1 "Template:Anthology (page does not exist)")
+
+[Template:Anthology](/wiki/index.php?title=Template:Anthology&action=edit&redlink=1 "Template:Anthology (page does not exist)")
 
 <table class="metadata plainlinks ambox ambox-style" style=""><tbody><tr><td class="mbox-image"><div style="width: 52px;"><a class="image" href="/wiki/File:Wikitext.png"><img alt="Wikitext.png" data-file-height="20" data-file-width="50" data-url="https://central.paradoxwikis.com/images/2/2f/Wikitext.png" decoding="async" height="20" loading="lazy" src="https://central.paradoxwikis.com/images/2/2f/Wikitext.png" width="50"></a></div></td><td class="mbox-text" style=""><b>This article may need to be formatted <a href="/wiki/Template:Wikify" title="Template:Wikify">following an encyclopedic style </a>.</b><br><small>Please help improve <a class="external text" href="https://hoi2.paradoxwikis.com/index.php?title=Conducting_Blitzkrieg_offensives&amp;action=edit" rel="nofollow">this </a>article if you can.</small></td></tr></tbody></table>
 
-Contents
---------
+## Contents
 
-*   [1 Introduction](#Introduction)
-*   [2 Infrastructure and installations](#Infrastructure_and_installations)
-*   [3 Forces needed](#Forces_needed)
-*   [4 Conduct of the campaign](#Conduct_of_the_campaign)
+- [1 Introduction](#Introduction)
+- [2 Infrastructure and installations](#Infrastructure_and_installations)
+- [3 Forces needed](#Forces_needed)
+- [4 Conduct of the campaign](#Conduct_of_the_campaign)
 
-Introduction
-------------
+## Introduction
 
 This guide looks at the art of Blitzkrieg, or lightning war: defeating an enemy through rapid advances of armoured spearheads in co-operation with encircling infantry and dive bombers. It’s a style of gameplay commonly associated with Germany, but while Germany is indeed particularly good at it, many countries can ‘blitzkrieg’. There are quite a few reasons why you’d want to:
 
@@ -29,19 +28,13 @@ That being said, you need two things for this strategy:
 
 I’ll explain Blitzkrieg by the example of Fall Weiß, the German invasion of Poland. This guide applies to version 1.3a and has not been tested for Doomsday.
 
-  
-
-Infrastructure and installations
---------------------------------
+## Infrastructure and installations
 
 Blitzkrieg relies heavily on the ability of your forces to advance and occupy ground fast. Therefore, make sure the infrastructure in the provinces you’re attacking from is as good as possible. In the case of Germany, this means that you should increase the infrastructure in Oppeln to 100%.
 
 You’ll also need good airbases close to the fray. I tend to build airfields up to level 10 in both Küstrin and Oppeln, but this is up to you.
 
-  
-
-Forces needed
--------------
+## Forces needed
 
 Armoured divisions are obviously key to the entire operation so you should have a good number of them. For the composition of your spearheads there are three possibilities in general.
 
@@ -57,8 +50,7 @@ Your air force should consist of a good number of close air support (CAS) and ta
 
 The task of the navy in Blitzkrieg is support; its importance is generally not great, but it can be used offensively by landing task forces of marines in undefended enemy provinces.
 
-Conduct of the campaign
------------------------
+## Conduct of the campaign
 
 Blitzkrieg is pretty counter-intuitive. Rather than advancing on a broad front (as I used to do), it is based on hurling tanks deep into enemy territory whilst leaving your infantry to mop up enemy forces caught in pockets behind your rapidly advancing front. It looks weird on the map, but achieves incredible results.
 

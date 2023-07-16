@@ -1,11 +1,12 @@
 ---
 title: New_Zealand
 ---
- [Country guides](/wiki/Country_guides "Country guides")
+
+[Country guides](/wiki/Country_guides "Country guides")
 
 [Major powers](/wiki/Major_power "Major power")
 
-* * *
+---
 
 [France](/wiki/France "France")  
 [Germany](/wiki/Germany "Germany")  
@@ -17,7 +18,7 @@ title: New_Zealand
 
 Regional powers
 
-* * *
+---
 
 [Argentina](/wiki/Argentina "Argentina")  
 [Australia](/wiki/Australia "Australia")  
@@ -41,7 +42,7 @@ Regional powers
 
 [Minor powers](/wiki/Minor_power "Minor power")
 
-* * *
+---
 
 [Austria](/wiki/Austria "Austria")  
 [Chile](/wiki/index.php?title=Chile&action=edit&redlink=1 "Chile (page does not exist)")  
@@ -60,7 +61,7 @@ Regional powers
 
 [Micro powers](/wiki/Micro_power "Micro power")
 
-* * *
+---
 
 [Afghanistan](/wiki/Afghanistan "Afghanistan")  
 [Albania](/wiki/Albania "Albania")  
@@ -102,33 +103,30 @@ New Zealand
 [Yemen](/wiki/index.php?title=Yemen&action=edit&redlink=1 "Yemen (page does not exist)")  
 [Yunnan](/wiki/Yunnan "Yunnan")
 
-Contents
---------
+## Contents
 
-*   [1 Background](#Background)
-*   [2 Before World War](#Before_World_War)
-    *   [2.1 Research & Production](#Research_.26_Production)
-*   [3 At war](#At_war)
+- [1 Background](#Background)
+- [2 Before World War](#Before_World_War)
+  - [2.1 Research & Production](#Research_.26_Production)
+- [3 At war](#At_war)
 
-Background
-----------
+## Background
 
 New Zealand is little country with weak armed forces but playing with it will be fun and challenging - as it has some advantages too.
 
-*   **Advantages**
-    *   Lots of powerful allies
-    *   OK tech teams and a few are very good
-    *   Isolationism: AI never attacks New Zealand
-*   But there is lots of **disadvantages**
-    *   Low [IC](/wiki/IC "IC") and only one tech slot
-    *   Low manpower
-    *   Weak army: land units have only ½ strength...
-        *   Navy have only few transport ships, no cruisers or battleships
-        *   No air force
-    *   Dove lobby: low manpower growth
+- **Advantages**
+  - Lots of powerful allies
+  - OK tech teams and a few are very good
+  - Isolationism: AI never attacks New Zealand
+- But there is lots of **disadvantages**
+  - Low [IC](/wiki/IC "IC") and only one tech slot
+  - Low manpower
+  - Weak army: land units have only ½ strength...
+    - Navy have only few transport ships, no cruisers or battleships
+    - No air force
+  - Dove lobby: low manpower growth
 
-Before World War
-----------------
+## Before World War
 
 The first thing you need to do is building infantry. One infantry costs 4.82 IC so set production slider to 4 or 4.82 but then you must leave reinforcing your first divisions. Try upgrade obsolete divisions and reinforce old divisions... In politics New Zealand have one good thing, it is _social democrat_ . Move Democracy slider to Authoritarian to make your goverment Left-Wing radical or Dove lobby slider to Hawk lobby. Do not research or build tanks.
 
@@ -136,26 +134,25 @@ The first thing you need to do is building infantry. One infantry costs 4.82 IC 
 
 Research and product
 
-*   Basic [Infantry](/wiki/Infantry "Infantry")
-*   Basic [Marines](/wiki/Marines "Marines")
-*   Transports and/or destroyers
+- Basic [Infantry](/wiki/Infantry "Infantry")
+- Basic [Marines](/wiki/Marines "Marines")
+- Transports and/or destroyers
 
 Don't
 
-*   [Cavalry](/wiki/Cavalry "Cavalry") , it is not useful in island-to-island campaigns
-*   [Battleships](/wiki/index.php?title=Battleships&action=edit&redlink=1 "Battleships (page does not exist)") (it will be take too long to build any battleships, if you don't use _no time limit_ \-mod =\])
+- [Cavalry](/wiki/Cavalry "Cavalry") , it is not useful in island-to-island campaigns
+- [Battleships](/wiki/index.php?title=Battleships&action=edit&redlink=1 "Battleships (page does not exist)") (it will be take too long to build any battleships, if you don't use _no time limit_ \-mod =\])
 
-*   And really don't waste your low IC on tanks, which are also weak attacking islands
+- And really don't waste your low IC on tanks, which are also weak attacking islands
 
 And if you have time, try to research some basic doctrines, New Zealands best tech teams are doctrine-teams...
 
 Regarding planes I won't comment. When I played with New Zealand I didn't build any planes, but on the other hand I didn't conquered very many provinces...
 
-At war
-------
+## At war
 
 For New Zealand the main strategy is conquering Japanese islands. You need transports, or you are prisoner in your home islands. Marines will be good for operations like this and if you play well, you can start amphibious assault on the [Japanese](/wiki/Japan "Japan") main Islands, where you really will need good infantry and luck too..
 
-*   Alternatively\* What I like to do with NZ, (I didn't write the above piece) is disband my CAV at the start, as they arent worth reinforcing, then spam INF and transport them to Africa where they can get XP stopping the Italians, as generally, the British AI doesn't fight too hard in Africa. Then take your troops into Italy itself, where the IC jackpot is. Try and get the RN to destroy the Italian navy first, or go gamey and splash out for a NAV squadron or two and bomb them. Then landing troops in Anzio for example is a piece of cake. I generally tend to ignore Japan, as they have plenty of trouble from the USA and Britain, and the gains to be made are quite small. Then, once the IC rolls in, build some tanks with the extra tech slots you'll have, or branch out into wherever you feel. Buying planes from Britain doesnt hurt, but you have to reinforce them. I used ground attack quite a bit, but have heard this has been nerfed in Arma 1.2 so thats a blow. Good luck, NZ is quite hard to play, but fun if you get it right.
+- Alternatively\* What I like to do with NZ, (I didn't write the above piece) is disband my CAV at the start, as they arent worth reinforcing, then spam INF and transport them to Africa where they can get XP stopping the Italians, as generally, the British AI doesn't fight too hard in Africa. Then take your troops into Italy itself, where the IC jackpot is. Try and get the RN to destroy the Italian navy first, or go gamey and splash out for a NAV squadron or two and bomb them. Then landing troops in Anzio for example is a piece of cake. I generally tend to ignore Japan, as they have plenty of trouble from the USA and Britain, and the gains to be made are quite small. Then, once the IC rolls in, build some tanks with the extra tech slots you'll have, or branch out into wherever you feel. Buying planes from Britain doesnt hurt, but you have to reinforce them. I used ground attack quite a bit, but have heard this has been nerfed in Arma 1.2 so thats a blow. Good luck, NZ is quite hard to play, but fun if you get it right.
 
 (just finished a game as NZ, annexed Germany and the rest of Europe, AAR on forums :D

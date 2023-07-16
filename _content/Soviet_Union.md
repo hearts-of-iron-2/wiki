@@ -1,13 +1,14 @@
 ---
 title: Soviet_Union
 ---
- [File:Sov-topbar.JPG](/wiki/index.php?title=Special:Upload&wpDestFile=Sov-topbar.JPG "File:Sov-topbar.JPG")
+
+[File:Sov-topbar.JPG](/wiki/index.php?title=Special:Upload&wpDestFile=Sov-topbar.JPG "File:Sov-topbar.JPG")
 
 [Country guides](/wiki/Country_guides "Country guides")
 
 [Major powers](/wiki/Major_power "Major power")
 
-* * *
+---
 
 [France](/wiki/France "France")  
 [Germany](/wiki/Germany "Germany")  
@@ -19,7 +20,7 @@ Soviet Union
 
 Regional powers
 
-* * *
+---
 
 [Argentina](/wiki/Argentina "Argentina")  
 [Australia](/wiki/Australia "Australia")  
@@ -43,7 +44,7 @@ Regional powers
 
 [Minor powers](/wiki/Minor_power "Minor power")
 
-* * *
+---
 
 [Austria](/wiki/Austria "Austria")  
 [Chile](/wiki/index.php?title=Chile&action=edit&redlink=1 "Chile (page does not exist)")  
@@ -62,7 +63,7 @@ Regional powers
 
 [Micro powers](/wiki/Micro_power "Micro power")
 
-* * *
+---
 
 [Afghanistan](/wiki/Afghanistan "Afghanistan")  
 [Albania](/wiki/Albania "Albania")  
@@ -104,61 +105,57 @@ Regional powers
 [Yemen](/wiki/index.php?title=Yemen&action=edit&redlink=1 "Yemen (page does not exist)")  
 [Yunnan](/wiki/Yunnan "Yunnan")
 
-Contents
---------
+## Contents
 
-*   [1 Overview](#Overview)
-*   [2 Technology](#Technology)
-*   [3 Diplomacy](#Diplomacy)
-    *   [3.1 Potential Allies](#Potential_Allies)
-        *   [3.1.1 Brazil](#Brazil)
-        *   [3.1.2 Communist China](#Communist_China)
-        *   [3.1.3 Republican Spain](#Republican_Spain)
-    *   [3.2 Sliders](#Sliders)
-    *   [3.3 Ministers](#Ministers)
-*   [4 Intelligence](#Intelligence)
-*   [5 Economy](#Economy)
-    *   [5.1 Trades](#Trades)
-    *   [5.2 Production](#Production)
-*   [6 Military](#Military)
-    *   [6.1 Early Annexations](#Early_Annexations)
-    *   [6.2 The Great Officer Purge](#The_Great_Officer_Purge)
-    *   [6.3 Soviet Ground Defense Efficiency](#Soviet_Ground_Defense_Efficiency)
-        *   [6.3.1 In Hearts of Iron 2](#In_Hearts_of_Iron_2)
-        *   [6.3.2 In Doomsday or Armageddon](#In_Doomsday_or_Armageddon)
-    *   [6.4 Molotov-Ribbentrop Pact](#Molotov-Ribbentrop_Pact)
-        *   [6.4.1 Historic Molotov Ribbentrop national provinces:](#Historic_Molotov_Ribbentrop_national_provinces:)
-    *   [6.5 The Winter War](#The_Winter_War)
-        *   [6.5.1 The quick way to win](#The_quick_way_to_win)
-        *   [6.5.2 The end of the Finnish Winter War](#The_end_of_the_Finnish_Winter_War)
-*   [7 War with Germany](#War_with_Germany)
-*   [8 The really quick way to win](#The_really_quick_way_to_win)
-    *   [8.1 Force Deployment & Tactics](#Force_Deployment_.26_Tactics)
-    *   [8.2 Winning the Easy Way with the Soviet land Doctrine](#Winning_the_Easy_Way_with_the_Soviet_land_Doctrine)
-*   [9 Alternative War Options](#Alternative_War_Options)
-    *   [9.1 War with China](#War_with_China)
-*   [10 Multiplayer Suggestions](#Multiplayer_Suggestions)
+- [1 Overview](#Overview)
+- [2 Technology](#Technology)
+- [3 Diplomacy](#Diplomacy)
+  - [3.1 Potential Allies](#Potential_Allies)
+    - [3.1.1 Brazil](#Brazil)
+    - [3.1.2 Communist China](#Communist_China)
+    - [3.1.3 Republican Spain](#Republican_Spain)
+  - [3.2 Sliders](#Sliders)
+  - [3.3 Ministers](#Ministers)
+- [4 Intelligence](#Intelligence)
+- [5 Economy](#Economy)
+  - [5.1 Trades](#Trades)
+  - [5.2 Production](#Production)
+- [6 Military](#Military)
+  - [6.1 Early Annexations](#Early_Annexations)
+  - [6.2 The Great Officer Purge](#The_Great_Officer_Purge)
+  - [6.3 Soviet Ground Defense Efficiency](#Soviet_Ground_Defense_Efficiency)
+    - [6.3.1 In Hearts of Iron 2](#In_Hearts_of_Iron_2)
+    - [6.3.2 In Doomsday or Armageddon](#In_Doomsday_or_Armageddon)
+  - [6.4 Molotov-Ribbentrop Pact](#Molotov-Ribbentrop_Pact)
+    - [6.4.1 Historic Molotov Ribbentrop national provinces:](#Historic_Molotov_Ribbentrop_national_provinces:)
+  - [6.5 The Winter War](#The_Winter_War)
+    - [6.5.1 The quick way to win](#The_quick_way_to_win)
+    - [6.5.2 The end of the Finnish Winter War](#The_end_of_the_Finnish_Winter_War)
+- [7 War with Germany](#War_with_Germany)
+- [8 The really quick way to win](#The_really_quick_way_to_win)
+  - [8.1 Force Deployment & Tactics](#Force_Deployment_.26_Tactics)
+  - [8.2 Winning the Easy Way with the Soviet land Doctrine](#Winning_the_Easy_Way_with_the_Soviet_land_Doctrine)
+- [9 Alternative War Options](#Alternative_War_Options)
+  - [9.1 War with China](#War_with_China)
+- [10 Multiplayer Suggestions](#Multiplayer_Suggestions)
 
-Overview
---------
+## Overview
 
 The Soviet Union is a military powerhouse: it is the strongest nation in the game aside from the USA. Playing as the Soviet Union is relatively easy, and is often suggested for new players. New players can keep it simple, make many mistakes and yet still win! The Soviet Union has a huge advantage over Germany, especially if the game starts in 1936. Some of the advantages are:
 
-*   Five years of peace to build the military
-*   Large starting industry
-*   Good technology teams
-*   Self sufficient with resources
-*   Good leaders
+- Five years of peace to build the military
+- Large starting industry
+- Good technology teams
+- Self sufficient with resources
+- Good leaders
 
-Technology
-----------
+## Technology
 
 The Soviet Union has above average technology teams. Start by researching industry technologies research industry bonuses and research time bonuses, do not research more than 1 year ahead of time. Only start to research military technology when industry technologies is to far ahead of time and only research what you will use. Air technology, particularly CAS and TAC, are next in importance though by no means essential, and naval technology can safely be ignored.
 
 The most important thing to do if you are playing the 1936 campaign is to change from the Soviet doctrine to Spearhead doctrine since the game and all of its mechanics greatly benefits organization. And the bonuses to tanks and mobile infantry are also very good.
 
-Diplomacy
----------
+## Diplomacy
 
 ### Potential Allies
 
@@ -172,8 +169,8 @@ As a Left-wing radical nation, if the USSR establishes +200 relations, bringing 
 
 Historically, Communist China and the Soviet Union had a very tepid relationship, which is partly reflected in the game. While they begin with +99 relations, even with +200 relations with Communist China, there is a 0% chance for them to join the Comintern! Yet, a successful Communist China can be a helpful strategic Ally against Japan. In order for Communist China to be successful, two things are necessary:
 
-*   Make a free trade with Communist China to provide them some supplies, metals, energy, and rares.
-*   Nationalist China: In March or April, 1936, Nationalist China will have the Xi'an Incident. They **must** select "Arrest them all as traitors!" in order for Communist China to stay at war with the Nationalists, signaling the failure of the United Front. The chance the AI will select this option is only 10%, according to event 90.
+- Make a free trade with Communist China to provide them some supplies, metals, energy, and rares.
+- Nationalist China: In March or April, 1936, Nationalist China will have the Xi'an Incident. They **must** select "Arrest them all as traitors!" in order for Communist China to stay at war with the Nationalists, signaling the failure of the United Front. The chance the AI will select this option is only 10%, according to event 90.
 
 #### Republican Spain
 
@@ -187,10 +184,10 @@ A Republican Spain under military control by the Soviet player can mass troops o
 
 The USSR will receive historical events that move the Diplomatic Sliders to within one step of full Hawk (Zet offensive, Chasan Lake, Khalkin Ghol) and within three steps of full Interventionism by 1940. There are several primary ways to adjust sliders:
 
-*   In 1936 move Hawk. Then move standing army. Then use GoI to get the rest of your intervention slider moves. Each move towards standing army gives 2% more organization along with cheaper upgrades.
-*   In 1936 move Hawk. In 1937, 1938, 1939 move to interventionism (both will be max in 1939). In 1940, move towards Standing Army. This method provides Standing Army bonuses earlier.
-*   If the Soviet player will not purge the officers: In 1936, 1937 & 1938 move Hawk (Hawk will be max by 1939). In 1939, 1940, 1941, move towards Interventionism, then Standing Army in 1942. This method provides Hawk production bonuses earlier.
-*   One way to avoid the interventionism slider moves is to use Blue Emu's Albania Gambit and Guarantee the Independence (GOI) of Albania or other European countries that will likely be attacked such as Denmark or Luxembourg. Each violation of a GoI gives two Intervention slider moves. In this way, the move to Standing Army can begin as early as 1937, or when not purging the officers, in 1939.
+- In 1936 move Hawk. Then move standing army. Then use GoI to get the rest of your intervention slider moves. Each move towards standing army gives 2% more organization along with cheaper upgrades.
+- In 1936 move Hawk. In 1937, 1938, 1939 move to interventionism (both will be max in 1939). In 1940, move towards Standing Army. This method provides Standing Army bonuses earlier.
+- If the Soviet player will not purge the officers: In 1936, 1937 & 1938 move Hawk (Hawk will be max by 1939). In 1939, 1940, 1941, move towards Interventionism, then Standing Army in 1942. This method provides Hawk production bonuses earlier.
+- One way to avoid the interventionism slider moves is to use Blue Emu's Albania Gambit and Guarantee the Independence (GOI) of Albania or other European countries that will likely be attacked such as Denmark or Luxembourg. Each violation of a GoI gives two Intervention slider moves. In this way, the move to Standing Army can begin as early as 1937, or when not purging the officers, in 1939.
 
 ### Ministers
 
@@ -200,18 +197,16 @@ In 1937, two new ministers become available which are worthwhile to change: Urit
 
 No minister changes are needed after 1937.
 
-Intelligence
-------------
+## Intelligence
 
 Historically, the Soviet Union had one of the best spy networks in the world. Unfortunately, the game does not reflect these advancements. Fortunately, in the early game the USSR makes a fairly large sum of money due to the enormous dissent levels the USSR must get rid of, which allows a player to address the first intelligence concern: create 10 spies in your own country, and then begin counter-espionage efforts.
 
 Intelligence can be used for two primary gains:
 
-*   Stealing blueprints from your more advanced adversaries. Focus on Germany, Japan, UK, and USA.
-*   Couping minor nations (such as Turkey, Finland, Greece, Bulgaria, etc)
+- Stealing blueprints from your more advanced adversaries. Focus on Germany, Japan, UK, and USA.
+- Couping minor nations (such as Turkey, Finland, Greece, Bulgaria, etc)
 
-Economy
--------
+## Economy
 
 The Soviet economy has the potential to rival the US economy through massive IC building in the early game.
 
@@ -221,16 +216,16 @@ The USSR begins the game with two trades to Germany. Naturally, it is in the bes
 
 On January 2nd, 1936, you will have 700+ spare energy, 200+ metal, and 100 rares to trade away. Not many countries will give you a good deal due to your lower relations, however these nations are decent trading partners at the beginning of the game:
 
-*   Japan
-*   USA
-*   Germany
-*   France
-*   Italy
-*   Bulgaria
-*   Hungary
-*   Yugoslavia
-*   Rumania
-*   Poland
+- Japan
+- USA
+- Germany
+- France
+- Italy
+- Bulgaria
+- Hungary
+- Yugoslavia
+- Rumania
+- Poland
 
 ### Production
 
@@ -238,8 +233,7 @@ Generally, a series of 4 to 5 runs is considered the most appropriate for the US
 
 The use of IC towards upgrades is most effective as your technology increases, since upgrading units from 1918 infantry directly to 1941 infantry, for example, is much cheaper than doing the upgrade from 1918 to 1936 to 1939 to 1941. Also, dissent will come again during the great purge, and is best paid down after the Hawk (reduced dissent) and Interventionism (reduced demand for consumer goods) sliders are working to your maximum advantage. It is essential to get rid of all dissent before war with Germany, and is easily achievable before event the Winter War.
 
-Military
---------
+## Military
 
 The key to the Soviet military is industry. The Soviet Union can produce a large amount of Tanks and motorized infantry and. These units make it possible to win quickly against Germany. Head Quarters (HQ) will soon become a key to Soviet success in conducting counter-attacks. A key tactical point is to change the Soviet military doctrines for Spearhead which makes it easier to win the game.
 
@@ -253,24 +247,24 @@ Generally, the Soviet player has no need to create early wars, and very little t
 
 In March, 1938, the event "The Great Officer Purge" fires. It is one of the most punitive events in the entire game, and is certainly the worst event that happens to the Soviet Union. You have two options:
 
-*   Purge the Traitors: Gain 10% dissent, lose 10 manpower and 170 military leaders. 60 historical leaders will be killed, _in addition to_ 110 randomly selected leaders. Additionally, lose six ministers and two technology teams.
-*   No need for Brutality: Gain 30% dissent, Hawk sliders move 2 towards Dove.
+- Purge the Traitors: Gain 10% dissent, lose 10 manpower and 170 military leaders. 60 historical leaders will be killed, _in addition to_ 110 randomly selected leaders. Additionally, lose six ministers and two technology teams.
+- No need for Brutality: Gain 30% dissent, Hawk sliders move 2 towards Dove.
 
 Purging the officers is typically seen as the most beneficial strategy for the following reasons:
 
-*   The Soviet Union has a very large number of leaders
-*   The extra 20% dissent penalty from "no need for brutality" has a significantly negative economic affect
-*   The two moves to Dove from "no need for brutality" erase the 10% production bonus, and reduce dissent growth to -2% (from -6%) and manpower growth to just 2% (from 6%). Additionally, if you purge, the Soviet Union only needs one slider move (in 1936) towards Hawk. The rest can be done via events (mostly Soviet influence in China) and via Guarantees of Independence in Europe. Standing army means more organization and cheaper upgrades: By 1941 you can have 12 more organization with upgrades at 25% (from the army slider) instead of 50%. The net effect is 50% vs 75% including the Central Planning effects).
+- The Soviet Union has a very large number of leaders
+- The extra 20% dissent penalty from "no need for brutality" has a significantly negative economic affect
+- The two moves to Dove from "no need for brutality" erase the 10% production bonus, and reduce dissent growth to -2% (from -6%) and manpower growth to just 2% (from 6%). Additionally, if you purge, the Soviet Union only needs one slider move (in 1936) towards Hawk. The rest can be done via events (mostly Soviet influence in China) and via Guarantees of Independence in Europe. Standing army means more organization and cheaper upgrades: By 1941 you can have 12 more organization with upgrades at 25% (from the army slider) instead of 50%. The net effect is 50% vs 75% including the Central Planning effects).
 
 Some players advocate for saving the officers for the following reasons:
 
-*   Roleplaying a more benevolent USSR
-*   Saving historical leaders (such as Zhukov) that may have be randomly purged by the event
-*   Using a Soviet strategy that is \*not\* manpower/attrition focused, and could benefit from stronger leaders
-*   Tech team Alksnis, level 6, is the only team that can research air doctrines until 1940
-*   Tech team Tukhachevsky, level 5, is better than Shaposhnikov
-*   Minister Berzin, Head of Intelligence, is the only minister who provides a 5% research bonus
-*   Minister Alksnis, Chief of Air Force, is the only minister who provides bonuses for fighters and interceptors.
+- Roleplaying a more benevolent USSR
+- Saving historical leaders (such as Zhukov) that may have be randomly purged by the event
+- Using a Soviet strategy that is \*not\* manpower/attrition focused, and could benefit from stronger leaders
+- Tech team Alksnis, level 6, is the only team that can research air doctrines until 1940
+- Tech team Tukhachevsky, level 5, is better than Shaposhnikov
+- Minister Berzin, Head of Intelligence, is the only minister who provides a 5% research bonus
+- Minister Alksnis, Chief of Air Force, is the only minister who provides bonuses for fighters and interceptors.
 
 ### Soviet Ground Defense Efficiency
 
@@ -280,22 +274,22 @@ Some players advocate for saving the officers for the following reasons:
 
 In order to simulate the ineffectiveness of Soviet defenses before the war with Germany, the Soviet Union has significant defensive penalties for its military that cannot be adjusted in-game by the player. The GDE (Ground Defense Efficiency) score is essentially a percentage of the effectiveness of your units on defense. Thus, a GDE of 0.2 means 20% effective, or put another way, fighting at an 80% penalty when on the defense. The normal value of GDE for other nations is 0.8: due to all the advantages defenders have in the game, GDE never rises above 0.8.
 
-*   The Soviet Union starts with 0.2 GDE.
-*   It increases by 0.1 in May 1940 and later years for a total of +0.4.
-*   When anyone DOWs you get all these future increases plus an additional 0.1 are received.
-*   When Finns offer you peace through the event you get +0.1 (note this is the event not any other offer of peace).
-*   Grand total gets you back to 0.8.
-*   AI gets +0.6 at the start instead of the above events EXCEPT that they still get the Winter War event allowing the AI to get 0.9 GDE.
+- The Soviet Union starts with 0.2 GDE.
+- It increases by 0.1 in May 1940 and later years for a total of +0.4.
+- When anyone DOWs you get all these future increases plus an additional 0.1 are received.
+- When Finns offer you peace through the event you get +0.1 (note this is the event not any other offer of peace).
+- Grand total gets you back to 0.8.
+- AI gets +0.6 at the start instead of the above events EXCEPT that they still get the Winter War event allowing the AI to get 0.9 GDE.
 
 Timeline of GDE values:
 
-*   Prior to Dec 12th, 1939, your GDE should be 0.2
-*   From Dec 12th, 1939 to May 1st, 1940, it should be 0.3
-*   From May 2nd, 1940 to May 1st, 1941, it should be 0.4
-*   From May 2nd, 1941 to May 1st, 1942, it should be 0.5
-*   From May 2nd, 1942 to May 1st, 1943, it should be 0.6
-*   From May 2nd, 1943 to May 1st, 1944, it should be 0.7
-*   From May 2nd, 1944 on, it should be 0.8
+- Prior to Dec 12th, 1939, your GDE should be 0.2
+- From Dec 12th, 1939 to May 1st, 1940, it should be 0.3
+- From May 2nd, 1940 to May 1st, 1941, it should be 0.4
+- From May 2nd, 1941 to May 1st, 1942, it should be 0.5
+- From May 2nd, 1942 to May 1st, 1943, it should be 0.6
+- From May 2nd, 1943 to May 1st, 1944, it should be 0.7
+- From May 2nd, 1944 on, it should be 0.8
 
 Being attacked by a major power (eg: Germany) will automatically boost your GDE up to 0.7 (after a random delay of a few weeks to as much as several months)... but ONLY if they attack you, not vice versa; and the last boost (from 0.7 to 0.8 GDE) only happens in 1944, regardless. Note that all of this applies ONLY to a Human-controlled Russia... an AI-controlled Russia has a GDE of 0.8 right from January 1936 on.
 
@@ -307,9 +301,9 @@ There is a different event chain in Doomsday and Armageddon. One important diffe
 
 ### Molotov-Ribbentrop Pact
 
-*   No Deal with the Enemies of the Workers: This option does not provide any benefits to the player.
-*   Accept the pact: You will receive many free territory claims as well as a free slider move towards Interventionism.
-*   Propose an alliance with Germany: If it is accepted, the USSR will be in the Axis. It will lead to a bizarre game where fascists and communists are allied together to defeat democracy.
+- No Deal with the Enemies of the Workers: This option does not provide any benefits to the player.
+- Accept the pact: You will receive many free territory claims as well as a free slider move towards Interventionism.
+- Propose an alliance with Germany: If it is accepted, the USSR will be in the Axis. It will lead to a bizarre game where fascists and communists are allied together to defeat democracy.
 
 #### Historic Molotov Ribbentrop national provinces:
 
@@ -335,25 +329,21 @@ Once you've taken Helsinki or approximately four Finnish provinces, event #2627 
 
 This time deciding which option is the best one is a bit more debatable. Settling for two provinces bordering Leningrad means that you'll have to divert your attention (and around 20-30 divisions) to the northern front once Operation Barbarossa starts, while going for the annexation shoots up not only your Interventionism (by 1) but your belligerence as well, and immediately ends any existing non-aggression pacts with Germany, France, Great Britain and USA. Both selections also have their positive effects: Settling for two provinces lowers your dissent value by an impressive 10 (altough there's a 1% chance it goes up by 5), and annexation means you get the IC's and resources of Finland. If your dissent is over 10%, then it's a no-brainer to settle what you asked for. But otherwise it's up to you.
 
-War with Germany
-----------------
+## War with Germany
 
 Everything the USSR player does should be directed towards the ultimate war in Germany, which will usually begin around June 22, 1941. The player should ensure that all dissent is gone, and all upgrades are complete before June, 1941. At the beginning of the war, an event will ask regarding the movement of industry to Siberia. There is no reason not to accept this event, as it greatly helps the USSR.
 
-  
-
-The really quick way to win
----------------------------
+## The really quick way to win
 
 To win quickly against Germany all you need to do is this
 
-*   In 1936 change the doctrine from Soviet land Doctrine to Spearhead
+- In 1936 change the doctrine from Soviet land Doctrine to Spearhead
 
-*   Make sure to build industry all the way up to Feb 1940
+- Make sure to build industry all the way up to Feb 1940
 
-*   In Feb 1940 start to build Motorized infantry and tank divisions.
+- In Feb 1940 start to build Motorized infantry and tank divisions.
 
-*   When Germany Is in France, but before France, has fallen attack Germany or Romania, Romania can be a better choice since then Germany will Declare war upon you.
+- When Germany Is in France, but before France, has fallen attack Germany or Romania, Romania can be a better choice since then Germany will Declare war upon you.
 
 By doing these 4 things you are guaranteed to win before the end of 1940 despite the fact that your Gde is very gimped.
 
@@ -377,19 +367,16 @@ If you do this and do it properly then by the Summer of 1940 you should have an 
 
 During the summer of 1940 start by building tanks and motorized divisions and tactical fighters and headquarters. When the war comes in 1941 you will have a large motorized army which can easily destroy the attacking axis within a few month and you never need to lose a single province.
 
-  
-
 ### Winning the Easy Way with the Soviet land Doctrine
 
 The Soviet Union is extremely powerful, and beating Germany is quite easy using the correct approach. Two simple steps, also known as "spamming industry & infantry", will ensure an easy victory:
 
-*   3 rounds of using all IC for factory building
-*   Then, massive parallel serialized builds of infantry (though taking care to pay down all dissent, upgrades, and reinforcements): 400-500 infantry by the time of Barbarrosa is a good figure. Combined with Milita, and the USSR can easily attain 600+ army units.
+- 3 rounds of using all IC for factory building
+- Then, massive parallel serialized builds of infantry (though taking care to pay down all dissent, upgrades, and reinforcements): 400-500 infantry by the time of Barbarrosa is a good figure. Combined with Milita, and the USSR can easily attain 600+ army units.
 
 Using this method, it is possible to never surrender a single province to Germany, and to essentially go on the offensive at the very beginning of the war. In fact, if done with careful effeciency, the Soviet military will be so strong and so overpowering that the German AI, knowing how massive the Soviet army is, will not dare declare war! If a Soviet game goes into the summer of 1942 without a German declaration of war, it means the Soviet player has created a massive military that will steam roll Germany all the way to Berlin and beyond. :)
 
-Alternative War Options
------------------------
+## Alternative War Options
 
 ### War with China
 
@@ -405,8 +392,7 @@ From this point on, the war in the game should play out as mentioned in the war 
 
 Additionally, if you're looking for war with england, you'll suddenly find yourself in perfect location for a two pronged strike into India. However if you do this, you still need to keep a strong army at the polish (and later german) border because Germany will declare war on you no matter what you're doing to England.
 
-Multiplayer Suggestions
------------------------
+## Multiplayer Suggestions
 
 In a Multiplayer game, Germany is the most serious enemy of the Soviet Union, and will typically force Barbarrosa in May, 1940. Germany will be technically superior to the Soviet Union in every way at this time, and may even have more industrial capacity. Wise German adversaries will focus on land doctrines, infantry, armor, and air superiority. All German units, especially in 1940, will be a level more advanced than Soviet units.
 

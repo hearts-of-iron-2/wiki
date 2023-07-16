@@ -1,11 +1,12 @@
 ---
 title: Netherlands
 ---
- [Country guides](/wiki/Country_guides "Country guides")
+
+[Country guides](/wiki/Country_guides "Country guides")
 
 [Major powers](/wiki/Major_power "Major power")
 
-* * *
+---
 
 [France](/wiki/France "France")  
 [Germany](/wiki/Germany "Germany")  
@@ -17,7 +18,7 @@ title: Netherlands
 
 Regional powers
 
-* * *
+---
 
 [Argentina](/wiki/Argentina "Argentina")  
 [Australia](/wiki/Australia "Australia")  
@@ -41,7 +42,7 @@ Netherlands
 
 [Minor powers](/wiki/Minor_power "Minor power")
 
-* * *
+---
 
 [Austria](/wiki/Austria "Austria")  
 [Chile](/wiki/index.php?title=Chile&action=edit&redlink=1 "Chile (page does not exist)")  
@@ -60,7 +61,7 @@ Netherlands
 
 [Micro powers](/wiki/Micro_power "Micro power")
 
-* * *
+---
 
 [Afghanistan](/wiki/Afghanistan "Afghanistan")  
 [Albania](/wiki/Albania "Albania")  
@@ -102,47 +103,43 @@ Netherlands
 [Yemen](/wiki/index.php?title=Yemen&action=edit&redlink=1 "Yemen (page does not exist)")  
 [Yunnan](/wiki/Yunnan "Yunnan")
 
-Contents
---------
+## Contents
 
-*   [1 Overview](#Overview)
-*   [2 Technology](#Technology)
-*   [3 Diplomacy](#Diplomacy)
-    *   [3.1 Alliances](#Alliances)
-    *   [3.2 Sliders](#Sliders)
-*   [4 Intelligence](#Intelligence)
-*   [5 Economy](#Economy)
-    *   [5.1 Trading](#Trading)
-    *   [5.2 Industrial Production](#Industrial_Production)
-*   [6 Military](#Military)
-    *   [6.1 Army](#Army)
-    *   [6.2 Navy](#Navy)
-    *   [6.3 Air Force](#Air_Force)
-*   [7 Events](#Events)
-*   [8 War](#War)
-    *   [8.1 Europe](#Europe)
-    *   [8.2 Pacific](#Pacific)
-    *   [8.3 Europe II](#Europe_II)
+- [1 Overview](#Overview)
+- [2 Technology](#Technology)
+- [3 Diplomacy](#Diplomacy)
+  - [3.1 Alliances](#Alliances)
+  - [3.2 Sliders](#Sliders)
+- [4 Intelligence](#Intelligence)
+- [5 Economy](#Economy)
+  - [5.1 Trading](#Trading)
+  - [5.2 Industrial Production](#Industrial_Production)
+- [6 Military](#Military)
+  - [6.1 Army](#Army)
+  - [6.2 Navy](#Navy)
+  - [6.3 Air Force](#Air_Force)
+- [7 Events](#Events)
+- [8 War](#War)
+  - [8.1 Europe](#Europe)
+  - [8.2 Pacific](#Pacific)
+  - [8.3 Europe II](#Europe_II)
 
-Overview
---------
+## Overview
 
 The Netherlands are sitting next to a potential, violent country called Germany, so they should better be prepared. They start with a nice amount of IC, relatively advanced research at start and very good tech teams. Besides the starting position the main problem will always be exactly one: manpower. The Dutch colonies are some of the very best in the game and that´s the reason why this guide suggests to play a game where you try to hold them. So the two goals are:
 
-*   Survive in Europe
-*   Hold and/or retake the colonies against Japan.
+- Survive in Europe
+- Hold and/or retake the colonies against Japan.
 
 Another viable strategy is to concentrate on Europe and grab as much land as possible from the Germans when the Allies or the Soviets are near your borders in ´43-´45.
 
-Technology
-----------
+## Technology
 
 First: The usual industry techs (of course including all the manpower techs), infantry, land doctrine, DD´IV. The two most important things are: The third construction tech must be ready in mid ´37 and you should have fighters II researched in time (~early to mid 40), so they can be built when the fortifications are finished. I suggest to go for fighters as the interceptors have the extra rocket techs and also worse range and worse ground/sea attack.
 
 If there is spare research time air doctrines should be researched. From ´40 on, with fighters II researched, air doctrines should become a priority.
 
-Diplomacy
----------
+## Diplomacy
 
 ### Alliances
 
@@ -152,13 +149,11 @@ When Germany DoW´s the Netherlands they will join the Allies. According to the 
 
 There are no free moves. Move towards full free market. Then try not to be Market liberal. There are too many events that move the free market slider away from full free market when the government is ML.
 
-Intelligence
-------------
+## Intelligence
 
 Early on the Netherlands can profit from stolen blueprints but the IC is needed for building the fortifications. Later, the UK will deliver enough blueprints for free, so stealing blueprints is neither necessary nor advantageous.
 
-Economy
--------
+## Economy
 
 ### Trading
 
@@ -170,8 +165,7 @@ The "Fortress Netherlands" only works one way: At first two rounds of IC, then w
 
 AA is a good idea to build as well as it protects against strategic bombing effectively, but also uses much precious manpower. As the Netherlands will loose IC in Indonesia some IC should be build in ´41 and ´42 as the third research slot is needed.
 
-Military
---------
+## Military
 
 ### Army
 
@@ -185,11 +179,9 @@ Early in the game there is not enough IC, but from mid 40 on the Netherlands can
 
 From ´40 on most of the IC should be used to build planes. First fighters (at least eight are needed), then, when research is done and IC available, CAS. In order to be able to sink enemy convoys and ships the Dutch Air Force should include fighters to CAS-groups.
 
-Events
-------
+## Events
 
-War
----
+## War
 
 ### Europe
 
@@ -208,7 +200,5 @@ It is micromanagement to use the air force to spot enemy fleets and squeeze thro
 ### Europe II
 
 If the war develops relatively historical the Netherlands can grab some land from Germany before it collapses. Watch the map carefully as soon as Allies or Soviets move next to the fortress and try to move out at the right time to take some land.
-
-  
 
 This guide is based on a Netherlands game played in Armageddon 1.2. I did it nearly the same way in Doomsday, but never lost most of Indonesia and was able to go on the offensive earlier.

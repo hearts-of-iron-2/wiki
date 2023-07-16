@@ -1,24 +1,23 @@
 ---
 title: Colonial_Empire_An_Alternative_Strategy_for_Japan
 ---
- Contents
---------
 
-*   [1 Colonial Empire An Alternative Strategy for Japan](#Colonial_Empire_An_Alternative_Strategy_for_Japan)
-    *   [1.1 Important Points](#Important_Points)
-    *   [1.2 Start](#Start)
-    *   [1.3 Intervene into Chinese Civil War](#Intervene_into_Chinese_Civil_War)
-    *   [1.4 Invasion of Dutch East Indies](#Invasion_of_Dutch_East_Indies)
-    *   [1.5 Invasion of Portuguese Africa](#Invasion_of_Portuguese_Africa)
-    *   [1.6 Invasion of Belgian Congo](#Invasion_of_Belgian_Congo)
-    *   [1.7 Watch the Great Show in Europe](#Watch_the_Great_Show_in_Europe)
-    *   [1.8 Annexation of French Indochina](#Annexation_of_French_Indochina)
-    *   [1.9 Allies or Axis, that's the Problem](#Allies_or_Axis.2C_that.27s_the_Problem)
-    *   [1.10 Invasion of the USA](#Invasion_of_the_USA)
-    *   [1.11 Invasion of China](#Invasion_of_China)
+## Contents
 
-Colonial Empire An Alternative Strategy for Japan
--------------------------------------------------
+- [1 Colonial Empire An Alternative Strategy for Japan](#Colonial_Empire_An_Alternative_Strategy_for_Japan)
+  - [1.1 Important Points](#Important_Points)
+  - [1.2 Start](#Start)
+  - [1.3 Intervene into Chinese Civil War](#Intervene_into_Chinese_Civil_War)
+  - [1.4 Invasion of Dutch East Indies](#Invasion_of_Dutch_East_Indies)
+  - [1.5 Invasion of Portuguese Africa](#Invasion_of_Portuguese_Africa)
+  - [1.6 Invasion of Belgian Congo](#Invasion_of_Belgian_Congo)
+  - [1.7 Watch the Great Show in Europe](#Watch_the_Great_Show_in_Europe)
+  - [1.8 Annexation of French Indochina](#Annexation_of_French_Indochina)
+  - [1.9 Allies or Axis, that's the Problem](#Allies_or_Axis.2C_that.27s_the_Problem)
+  - [1.10 Invasion of the USA](#Invasion_of_the_USA)
+  - [1.11 Invasion of China](#Invasion_of_China)
+
+## Colonial Empire An Alternative Strategy for Japan
 
 Why go to war against those hapless Chinese? After all, they are the same mankind as you. Although they are hoaxed by those Western imperilists and learn to hate you without any reason, you can show them you are not their rival. And they are not yours, either. Those western colonial powers are.
 

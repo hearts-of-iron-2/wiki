@@ -1,11 +1,12 @@
 ---
 title: Nationalist_Spain
 ---
- [Country guides](/wiki/Country_guides "Country guides")
+
+[Country guides](/wiki/Country_guides "Country guides")
 
 [Major powers](/wiki/Major_power "Major power")
 
-* * *
+---
 
 [France](/wiki/France "France")  
 [Germany](/wiki/Germany "Germany")  
@@ -17,7 +18,7 @@ title: Nationalist_Spain
 
 Regional powers
 
-* * *
+---
 
 [Argentina](/wiki/Argentina "Argentina")  
 [Australia](/wiki/Australia "Australia")  
@@ -41,7 +42,7 @@ Nationalist Spain
 
 [Minor powers](/wiki/Minor_power "Minor power")
 
-* * *
+---
 
 [Austria](/wiki/Austria "Austria")  
 [Chile](/wiki/index.php?title=Chile&action=edit&redlink=1 "Chile (page does not exist)")  
@@ -60,7 +61,7 @@ Nationalist Spain
 
 [Micro powers](/wiki/Micro_power "Micro power")
 
-* * *
+---
 
 [Afghanistan](/wiki/Afghanistan "Afghanistan")  
 [Albania](/wiki/Albania "Albania")  
@@ -102,23 +103,21 @@ Nationalist Spain
 [Yemen](/wiki/index.php?title=Yemen&action=edit&redlink=1 "Yemen (page does not exist)")  
 [Yunnan](/wiki/Yunnan "Yunnan")
 
-Contents
---------
+## Contents
 
-*   [1 Starter](#Starter)
-*   [2 1936 Scenario Civil War](#1936_Scenario_Civil_War)
-*   [3 Victory and Annexation!](#Victory_and_Annexation.21)
-*   [4 Research Priorities](#Research_Priorities)
-*   [5 The State of the Army](#The_State_of_the_Army)
-*   [6 Waiting](#Waiting)
-*   [7 Axis Support Game](#Axis_Support_Game)
-*   [8 The Spanish Pond Game](#The_Spanish_Pond_Game)
-*   [9 Imperial Spain](#Imperial_Spain)
-*   [10 Ministers](#Ministers)
-*   [11 Resources](#Resources)
+- [1 Starter](#Starter)
+- [2 1936 Scenario Civil War](#1936_Scenario_Civil_War)
+- [3 Victory and Annexation!](#Victory_and_Annexation.21)
+- [4 Research Priorities](#Research_Priorities)
+- [5 The State of the Army](#The_State_of_the_Army)
+- [6 Waiting](#Waiting)
+- [7 Axis Support Game](#Axis_Support_Game)
+- [8 The Spanish Pond Game](#The_Spanish_Pond_Game)
+- [9 Imperial Spain](#Imperial_Spain)
+- [10 Ministers](#Ministers)
+- [11 Resources](#Resources)
 
-Starter
--------
+## Starter
 
 Spain is a fun minor to mess around with, but doesn’t have a whole lot going for it save for its location! This very humble preview is meant to get some semblance of a starter guide going, if for nothing else than to introduce players to a minor nation that can have an impact on the game.
 
@@ -126,8 +125,7 @@ Nationalist Spain has little IC, poor infrastructure, an outdated army and navy 
 
 If you're bored with the other majors and want to play a different kind of game, one that mainly supports the Axis and the AI then Spain is a good choice. If you want to dominate and demolish, well, Spain isn't really for you.
 
-1936 Scenario Civil War
------------------------
+## 1936 Scenario Civil War
 
 I played as Luxemburg until the civil war event pops up on July 18, 1936. I have noticed that 75% of the time the province split gives the Nationalists Seville, Madrid, and Barcelona. The other 25% of the time the Republicans get Madrid and a large portion of southern Spain, and you get Seville and its immediate western province. In this latter scenario I found the Republicans to be in a stronger position only because you need to encircle Madrid to cut off supply to the other armies. That entails taking lower infrastructure provinces to which the AI will often automatically deploy. Pick your poison, my goal was to win the Civil War as fast as possible and get the Nationalist government up and running. If you get the harder province split and want to have a go, kudos to you, and more experience for your generals.
 
@@ -143,15 +141,13 @@ When fighting the Republicans you will loose some of the battles as you are usin
 
 The Spanish Civil War isn't a complex operation, so if you have played HOI2 before you should be able to handle it efficiently. Just remember to assign your leaders and get them experience. Even replace the German and Italian commanders, particularly with the TAC division. You only get 1 tank buster general with Spain, and if you are a proponent of air support for your offensive military operations (how can you not be with 1.03a?) get this guy experience. It will serve you well when (and if) you support Barbarossa.
 
-Victory and Annexation!
------------------------
+## Victory and Annexation!
 
 You have won the war, annexed the Republicans and now own all of Spain. Congrats! You’re on your way to being a solid contributor to the fascist world cause. Now another dirty revelation by your author: I cheated again and gave a slight bump in skill level to a few tech teams. This is optional, but my rationale was more for fun game play than world conquest. I didn't go nuts, but I made three of my teams level 6 and one team level 7. Now this makes the research faster and makes you a more viable force later in the game, particularly if you choose the Axis path so you can maximize blueprints that are given to you. I'm not going to tell you whom to bump, because it's dependent on your play style. Look at the teams you have, determine who fits your needs, and give them a push. Yeah it's a cheat, but our purpose here is to be a viable contributor to the Axis, not just play defense the entire game.
 
 Remember to adjust your sliders as well. You should have done that right when you reloaded as the Nationalists. Either way it's not going to occur every January 1 so you have to remember to do it. There are a lot of options for your sliders. I went for Central Planning because of the bump in IC. Go read the wiki page on the slider settings to get an idea of what's achievable with Spain.
 
-Research Priorities
--------------------
+## Research Priorities
 
 I started researching Carriers right away. Spain has crap for techs and you really have to get up to speed to match Italy or the UK, but if you focus on Carriers you will reap benefits by '39 and you should have a formidable fleet that has 6 carriers with your original surface fleet. You can start building level I carriers right away and I recommend this as it takes a year to complete. They aren't quality ships and they won't upgrade, but as they are being built you're researching more carrier techs and with each one a new CAG upgrade. Crucially, CAGs will upgrade, so your level I carriers, by '39, will have level IV CAGs.
 
@@ -161,8 +157,7 @@ Keep one research slot dedicated to industrial technologies, but stay away from 
 
 The other tech slot should float between doctrines and your desires. The research aspect of the game is really dependent on the player's preference, and because Spain starts with nothing you can determine its path based on your own style. Bear in mind that once you join an alliance you will likely get blueprints given to you. If you plan to join the Allies you might want to research infantry and armor as they will give you plenty of naval techs, and vice versa with the Axis. I used my third tech slot on naval doctrine to support my carrier fleet. Throw in light armor for your small tank army, and advance your air force one tech level before the war.
 
-The State of the Army
----------------------
+## The State of the Army
 
 By the end of the Civil War you have probably noticed a couple of issues with your army.
 
@@ -174,15 +169,13 @@ I also build an offensive air wing comprised of 4 tactical bomber squadrons. Tac
 
 I upgrade my tank armies to 6 total divisions with engineer brigades. Light tanks are fine for early in the game; you aren't launching Barbarossa yourself, so even for all you Panzer generals 6 divisions is sufficient unless you want to go annexing for oil, which might be a fun alternative game. 3 tank divisions is enough to get by, and should be able to hold their own for the early part of the game - particularly for a quick hit in southern France once you join the Axis.
 
-Waiting
--------
+## Waiting
 
 Whatever you decide to do after the Civil War, you're waiting for upgrades and assessing potential military targets. You're also contemplating how you're going to build an air force and tanks when you only have a year and are already dedicated to carriers and CAGs. This is where the Nationalist Spain game is painful, because you have crap to start with. While there are many strategies in HOI, my purpose for this write-up was to show a supporting role for the Axis powers. Their war starts in '39. Yours starts when you want it to. I am not a proponent of building industries or infrastructure, but I accept the other side of the argument that over time it can pay dividends. You decide for yourself. I tweaked my IC to get me 40, then conquered the rest.
 
 I have played offensively and been defeated, and I have played defensively and been defeated. The only time I had a chance of finishing the game as Spain was when my allies (the Axis) got the bitter peace event. We closed off the Mediterranean and Japan was surviving against the US, while I personally performed Sea Lion and after that the UK started to crumble. I bailed on the game for other issues but unless the US had a magic wand I don't think they could have defeated the Axis. As you're waiting for things to upgrade and techs to be researched, decide what you want to do with Spain. Bear in mind that as Spain you're limited in almost every aspect of the HOI2 game engine.
 
-Axis Support Game
------------------
+## Axis Support Game
 
 You can build up your force and once Germany declares on Belgium (normally after Poland in the spring of 1940), you join the Axis or declare on France yourself. If you wait this long, Gibraltar will have 1 garrison division in defense. I said before that your location was an asset. Gibraltar is why. Take it immediately while you press into southern France; you can usually grab some provinces before Vichy, but France will put up a fight. Gibraltar is still the bigger fish mainly because I have yet to see the Italian AI perform well against the UK in Africa. Closing Gibraltar helps, not only that but depending on your force structure you might be able to help Italy out and grab some land yourself in North Africa.
 
@@ -192,8 +185,7 @@ Once the Mediterranean is secure begin fortifying your own coastal defenses. Onl
 
 In a best case scenario Germany got the bitter peace and now you can go for Sea Lion or move on to Canada. In the worst case you helped Italy defeat the UK in Africa and gave yourself the option of going into the Middle East or the Balkans. Either way you supported the Axis's Achilles heel, the Italian AI. Obviously every game varies, Italy might be just fine and you might be free to take Britain or Ireland if you choose.
 
-The Spanish Pond Game
----------------------
+## The Spanish Pond Game
 
 Italy is clearly your superior in terms of IC and tech but it lacks the ability to execute its objectives without help. In short, the AI Italy isn't up to the task (alone) of controlling the Mediterranean. A human-controlled Spain can, at a price, but that price is very high dissent and probable early entry into the war. Personally I have found Yugoslavia to be the best overall target for a couple of reasons. First, you can use your superior navy to support your invasion, second, you have experienced leaders from the Civil War, and third (and most important), you can devote your entire military to the operation without fear of a DOW from the Allies or the Axis.
 
@@ -209,8 +201,7 @@ If Hungary declares I would consider forcing peace with the acceptall cheat, but
 
 How are your relations with the USSR? Might make for a good game if you went Comintern considering your now vast Balkan empire. Then again, that's what Republican Spain is for.
 
-Imperial Spain
---------------
+## Imperial Spain
 
 How could we have gotten this far and not talked about Portugal? Its attractiveness is reduced by the fact that taking it increases your beach provinces in Iberia by 3, which isn't a sexy option by any means. Remember that your IC and TC are limited, so it's not like you're going to have a 75 division army to defend your vast shores. However taking Portugal has one distinct advantage, and that is that you get bases all over the world. Portugal has holdings in Africa as well as Macao in China and East Timor near Australia.
 
@@ -220,12 +211,10 @@ Once you have Macao and get yourself organized you will note a budding little fa
 
 You now have an African base, an Asian base, and a European base from which to stage operations. Will you take out the Dutch? The Belgian Congo isn't far either. India? Basically this gives you options, but remember that as Spain there is only so much you can do. Observing the AI and understanding what it's trying to do (is Japan heading toward India? Is Germany bogged down in the Ardennes?) will let you piggyback and help you gain territory from which you can create an empire.
 
-Ministers
----------
+## Ministers
 
 As it happens, Nationalist Spain has a decent variety available. A man of the people, an administrative genius, a prince a terror (if you conquer). Basically pick your poison. My purpose isn't to get into minister traits and advantages, but you do have some options.
 
-Resources
----------
+## Resources
 
 Once you have annexed the Republicans you're not in too bad a shape. You do need energy, but Germany will often make a trade of 10 supplies for 100 energy without a problem. Remember that you don't need mammoth surpluses as Spain as you don't and won't have the IC to consume them. Grabbing a little oil isn't a bad idea, and here Venezuela will give you a decent deal.

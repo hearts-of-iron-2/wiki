@@ -1,7 +1,8 @@
 ---
 title: China_Improvement_Pack
 ---
- [CCIP Logo](/wiki/index.php?title=Special:Upload&wpDestFile=Ccipbanner.jpg "File:Ccipbanner.jpg")
+
+[CCIP Logo](/wiki/index.php?title=Special:Upload&wpDestFile=Ccipbanner.jpg "File:Ccipbanner.jpg")
 
 All download links are now dead, but the Forum site is still up albeit inactive.
 

@@ -1,11 +1,12 @@
 ---
 title: South_Africa
 ---
- [Country guides](/wiki/Country_guides "Country guides")
+
+[Country guides](/wiki/Country_guides "Country guides")
 
 [Major powers](/wiki/Major_power "Major power")
 
-* * *
+---
 
 [France](/wiki/France "France")  
 [Germany](/wiki/Germany "Germany")  
@@ -17,7 +18,7 @@ title: South_Africa
 
 Regional powers
 
-* * *
+---
 
 [Argentina](/wiki/Argentina "Argentina")  
 [Australia](/wiki/Australia "Australia")  
@@ -41,7 +42,7 @@ Regional powers
 
 [Minor powers](/wiki/Minor_power "Minor power")
 
-* * *
+---
 
 [Austria](/wiki/Austria "Austria")  
 [Chile](/wiki/index.php?title=Chile&action=edit&redlink=1 "Chile (page does not exist)")  
@@ -60,7 +61,7 @@ South Africa
 
 [Micro powers](/wiki/Micro_power "Micro power")
 
-* * *
+---
 
 [Afghanistan](/wiki/Afghanistan "Afghanistan")  
 [Albania](/wiki/Albania "Albania")  
@@ -102,39 +103,36 @@ South Africa
 [Yemen](/wiki/index.php?title=Yemen&action=edit&redlink=1 "Yemen (page does not exist)")  
 [Yunnan](/wiki/Yunnan "Yunnan")
 
-Contents
---------
+## Contents
 
-*   [1 Overview](#Overview)
-    *   [1.1 Advantages](#Advantages)
-    *   [1.2 Disadvantages](#Disadvantages)
-*   [2 Strategies](#Strategies)
-    *   [2.1 African Conquests with the Allies](#African_Conquests_with_the_Allies)
-        *   [2.1.1 Ethiopia](#Ethiopia)
-        *   [2.1.2 Vichy France](#Vichy_France)
-        *   [2.1.3 Portugal](#Portugal)
+- [1 Overview](#Overview)
+  - [1.1 Advantages](#Advantages)
+  - [1.2 Disadvantages](#Disadvantages)
+- [2 Strategies](#Strategies)
+  - [2.1 African Conquests with the Allies](#African_Conquests_with_the_Allies)
+    - [2.1.1 Ethiopia](#Ethiopia)
+    - [2.1.2 Vichy France](#Vichy_France)
+    - [2.1.3 Portugal](#Portugal)
 
-Overview
---------
+## Overview
 
 ### Advantages
 
-*   Powerful allies, in particular the United Kingdom
-*   Decent tech teams (in particular Vickers-Armstrong Ltd. and South Africa Railways)
-*   Decent starting land doctrines
-*   Far from threats
-*   Early peace to build a military
+- Powerful allies, in particular the United Kingdom
+- Decent tech teams (in particular Vickers-Armstrong Ltd. and South Africa Railways)
+- Decent starting land doctrines
+- Far from threats
+- Early peace to build a military
 
 ### Disadvantages
 
-*   Low IC and manpower
-*   Poor starting forces (6 transports and 3 garrisons)
-*   Mediocre starting domestic sliders
-*   Far from countries to annex
-*   Some terrible ministers
+- Low IC and manpower
+- Poor starting forces (6 transports and 3 garrisons)
+- Mediocre starting domestic sliders
+- Far from countries to annex
+- Some terrible ministers
 
-Strategies
-----------
+## Strategies
 
 ### African Conquests with the Allies
 

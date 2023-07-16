@@ -1,11 +1,12 @@
 ---
 title: Manchukuo_strategy
 ---
- [Country guides](/wiki/Country_guides "Country guides")
+
+[Country guides](/wiki/Country_guides "Country guides")
 
 [Major powers](/wiki/Major_power "Major power")
 
-* * *
+---
 
 [France](/wiki/France "France")  
 [Germany](/wiki/Germany "Germany")  
@@ -17,7 +18,7 @@ title: Manchukuo_strategy
 
 Regional powers
 
-* * *
+---
 
 [Argentina](/wiki/Argentina "Argentina")  
 [Australia](/wiki/Australia "Australia")  
@@ -41,7 +42,7 @@ Regional powers
 
 [Minor powers](/wiki/Minor_power "Minor power")
 
-* * *
+---
 
 [Austria](/wiki/Austria "Austria")  
 [Chile](/wiki/index.php?title=Chile&action=edit&redlink=1 "Chile (page does not exist)")  
@@ -60,7 +61,7 @@ Regional powers
 
 [Micro powers](/wiki/Micro_power "Micro power")
 
-* * *
+---
 
 [Afghanistan](/wiki/Afghanistan "Afghanistan")  
 [Albania](/wiki/Albania "Albania")  
@@ -104,41 +105,36 @@ Regional powers
 
 <table class="metadata plainlinks ambox ambox-move" style=""><tbody><tr><td class="mbox-image"><div style="width: 52px;"><img alt="Merge-arrows.gif" data-file-height="20" data-file-width="50" data-url="https://central.paradoxwikis.com/images/8/8b/Merge-arrows.gif" decoding="async" height="20" loading="lazy" src="https://central.paradoxwikis.com/images/8/8b/Merge-arrows.gif" width="50"></div></td><td class="mbox-text" style=""><b><a class="external text" href="https://hoi2.paradoxwikis.com/index.php?title=Manchukuo_strategy&amp;action=edit" rel="nofollow">This </a>article is a candidate to be <a href="/wiki/Template:Merge" title="Template:Merge">merged </a>with <a href="/wiki/Manchukuo" title="Manchukuo">Manchukuo </a>.</b><br><small>Please help to improve the wiki by taking part in the <a class="new" href="/wiki/index.php?title=Talk:Manchukuo_strategy&amp;action=edit&amp;redlink=1" title="Talk:Manchukuo strategy (page does not exist)">discussion </a>of the proposed merger.</small></td></tr></tbody></table>
 
-  
+## Contents
 
-Contents
---------
+- [1 Background](#Background)
+- [2 Walkthrough for 1936 Scenario](#Walkthrough_for_1936_Scenario)
+  - [2.1 Preparing for War](#Preparing_for_War)
+  - [2.2 1936-37](#1936-37)
+  - [2.3 Sino-Japan War](#Sino-Japan_War)
+  - [2.4 Pacific War](#Pacific_War)
+  - [2.5 Japanese-Soviet War](#Japanese-Soviet_War)
+  - [2.6 Whats next for Manchukuo?](#Whats_next_for_Manchukuo.3F)
 
-*   [1 Background](#Background)
-*   [2 Walkthrough for 1936 Scenario](#Walkthrough_for_1936_Scenario)
-    *   [2.1 Preparing for War](#Preparing_for_War)
-    *   [2.2 1936-37](#1936-37)
-    *   [2.3 Sino-Japan War](#Sino-Japan_War)
-    *   [2.4 Pacific War](#Pacific_War)
-    *   [2.5 Japanese-Soviet War](#Japanese-Soviet_War)
-    *   [2.6 Whats next for Manchukuo?](#Whats_next_for_Manchukuo.3F)
-
-Background
-----------
+## Background
 
 [Manchukuo](/wiki/Manchukuo "Manchukuo") starts as a [Puppet](/wiki/index.php?title=Puppet&action=edit&redlink=1 "Puppet (page does not exist)") state, created as a slave of [Japan](/wiki/Japan "Japan") . But Japan's success could lead to opportunities for your own "Empire".
 
-Walkthrough for 1936 Scenario
------------------------------
+## Walkthrough for 1936 Scenario
 
 ### Preparing for War
 
 **Important Research** (Note: Manchuria has terrible tech teams, but can rely on Japanese blueprints. You may be stuck with 1930s technology well into the 1940s, just do what you can do.)
 
-*   All agriculture: More manpower = more infantry.
-*   Industrial: More industry = more infantry.
-*   Infantry: Focus on infantry and supply technologies. If you can, cavalry and mountain troops.
-*   Armor and Artillery: Develop artillery only. If your manage to get 3 tech teams, build
+- All agriculture: More manpower = more infantry.
+- Industrial: More industry = more infantry.
+- Infantry: Focus on infantry and supply technologies. If you can, cavalry and mountain troops.
+- Armor and Artillery: Develop artillery only. If your manage to get 3 tech teams, build
 
 **Trades**
 
-*   Japan: Your one and only resourceful ally, get technologies from them. They will offer you free resources.
-*   Thailand: An okay ally, trade to prop up a fellow desperate Great East Asia Co-Prosperity Sphere nation.
+- Japan: Your one and only resourceful ally, get technologies from them. They will offer you free resources.
+- Thailand: An okay ally, trade to prop up a fellow desperate Great East Asia Co-Prosperity Sphere nation.
 
 ### 1936-37
 

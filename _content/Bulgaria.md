@@ -1,11 +1,12 @@
 ---
 title: Bulgaria
 ---
- [Country guides](/wiki/Country_guides "Country guides")
+
+[Country guides](/wiki/Country_guides "Country guides")
 
 [Major powers](/wiki/Major_power "Major power")
 
-* * *
+---
 
 [France](/wiki/France "France")  
 [Germany](/wiki/Germany "Germany")  
@@ -17,7 +18,7 @@ title: Bulgaria
 
 Regional powers
 
-* * *
+---
 
 [Argentina](/wiki/Argentina "Argentina")  
 [Australia](/wiki/Australia "Australia")  
@@ -41,7 +42,7 @@ Bulgaria
 
 [Minor powers](/wiki/Minor_power "Minor power")
 
-* * *
+---
 
 [Austria](/wiki/Austria "Austria")  
 [Chile](/wiki/index.php?title=Chile&action=edit&redlink=1 "Chile (page does not exist)")  
@@ -60,7 +61,7 @@ Bulgaria
 
 [Micro powers](/wiki/Micro_power "Micro power")
 
-* * *
+---
 
 [Afghanistan](/wiki/Afghanistan "Afghanistan")  
 [Albania](/wiki/Albania "Albania")  
@@ -102,22 +103,21 @@ Bulgaria
 [Yemen](/wiki/index.php?title=Yemen&action=edit&redlink=1 "Yemen (page does not exist)")  
 [Yunnan](/wiki/Yunnan "Yunnan")
 
-Contents
---------
+## Contents
 
-*   [1 Preamble](#Preamble)
-*   [2 Starting Position](#Starting_Position)
-*   [3 In the Beginning](#In_the_Beginning)
-*   [4 First: Greece](#First:_Greece)
-*   [5 Second: Yugoslavia](#Second:_Yugoslavia)
-*   [6 Third: Decide the war against the Soviet Union](#Third:_Decide_the_war_against_the_Soviet_Union)
-*   [7 Next steps](#Next_steps)
-    *   [7.1 Bulgaria strategy starting 1944 year:](#Bulgaria_strategy_starting_1944_year:)
-*   [8 First Steps](#First_Steps)
-*   [9 Germany is down](#Germany_is_down)
-*   [10 Crysis comes](#Crysis_comes)
-*   [11 Peace with Turkey/Greece but still wars](#Peace_with_Turkey.2FGreece_but_still_wars)
-*   [12 Time to become empire](#Time_to_become_empire)
+- [1 Preamble](#Preamble)
+- [2 Starting Position](#Starting_Position)
+- [3 In the Beginning](#In_the_Beginning)
+- [4 First: Greece](#First:_Greece)
+- [5 Second: Yugoslavia](#Second:_Yugoslavia)
+- [6 Third: Decide the war against the Soviet Union](#Third:_Decide_the_war_against_the_Soviet_Union)
+- [7 Next steps](#Next_steps)
+  - [7.1 Bulgaria strategy starting 1944 year:](#Bulgaria_strategy_starting_1944_year:)
+- [8 First Steps](#First_Steps)
+- [9 Germany is down](#Germany_is_down)
+- [10 Crysis comes](#Crysis_comes)
+- [11 Peace with Turkey/Greece but still wars](#Peace_with_Turkey.2FGreece_but_still_wars)
+- [12 Time to become empire](#Time_to_become_empire)
 
 ### Preamble
 
@@ -127,22 +127,22 @@ There are possibly many options for Bulgaria. Other than the historical way, you
 
 Advantages:
 
-*   You sit on a nice spot , because you have no major powers as direct neighbours.
-*   Nice terrain if you have to defend yourself
-*   20 IC, enough for a second research team.
-*   Slider settings allow you to DoW without dissent within three years.
-*   You have an OK industry tech team (level 5), and a nice Land Doctrine research team (level 3) that has the right five specializations for the Firepower-Focus -> Grand Battle Plan path (the doctrines top right).
+- You sit on a nice spot , because you have no major powers as direct neighbours.
+- Nice terrain if you have to defend yourself
+- 20 IC, enough for a second research team.
+- Slider settings allow you to DoW without dissent within three years.
+- You have an OK industry tech team (level 5), and a nice Land Doctrine research team (level 3) that has the right five specializations for the Firepower-Focus -> Grand Battle Plan path (the doctrines top right).
 
 Disadvantages:
 
-*   Few men available, although not as few as the Netherlands or Belgium.
-*   Low IC in the beginning
-*   You start without any useful techs
-*   No navy, no air force
-*   Most research teams are level 3 and have not the best specializations.
-*   Only two research team slots at start
-*   You have to trade for many resources
-*   Your Head of state and Head of Government give you -15 IC. Only a +10 IC Armaments minister makes this tolerable.
+- Few men available, although not as few as the Netherlands or Belgium.
+- Low IC in the beginning
+- You start without any useful techs
+- No navy, no air force
+- Most research teams are level 3 and have not the best specializations.
+- Only two research team slots at start
+- You have to trade for many resources
+- Your Head of state and Head of Government give you -15 IC. Only a +10 IC Armaments minister makes this tolerable.
 
 ### In the Beginning
 
@@ -181,8 +181,6 @@ If, after a long time, the front reaches the Ural, try a spearhead towards Sverd
 ### Next steps
 
 You did it, you helped your ally to win against the Red Army. Main goal achieved. And now? You can use your fighters against the Allied troops in the Mediterranean Sea or over the channel. You can research and build CAS and start to bomb ships and convoys. You can take out Turkey and go for the middle east. You can continue to help the Germans in Persia/India. You can do whatever you want with your shiny little >40 IC Bulgaria :)
-
-  
 
 #### Bulgaria strategy starting 1944 year:
 

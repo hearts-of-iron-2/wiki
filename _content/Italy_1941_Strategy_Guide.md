@@ -1,7 +1,8 @@
 ---
 title: Italy_1941_Strategy_Guide
 ---
- One of my favorite scenarios as it starts you off as set piece almost.
+
+One of my favorite scenarios as it starts you off as set piece almost.
 
 You can defeat the [British](/wiki/index.php?title=British&action=edit&redlink=1 "British (page does not exist)") in [Africa](/wiki/Africa "Africa") \- you just need speed and a sense of urgency (building an [airforce](/wiki/index.php?title=Airforce&action=edit&redlink=1 "Airforce (page does not exist)") is good but long term, you need to defeat the British with what you have.)
 
@@ -27,5 +28,4 @@ You can lay down some Cruisers/DDs/Submarines and Naval aviation regiments. You 
 
 VIII - With a line held in [Egypt](/wiki/index.php?title=Egypt&action=edit&redlink=1 "Egypt (page does not exist)") , the Middle East Secure - you should have some time to build up before the US or British can again field a strong force in the area,,so you can send air support to [Germany](/wiki/Germany "Germany") ,,etc.
 
-[Taken from this thread](http://forum.paradoxplaza.com/forum/showthread.php?t=358160)
-=====================================================================================
+# [Taken from this thread](http://forum.paradoxplaza.com/forum/showthread.php?t=358160)

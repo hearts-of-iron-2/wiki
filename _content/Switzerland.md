@@ -1,11 +1,12 @@
 ---
 title: Switzerland
 ---
- [Country guides](/wiki/Country_guides "Country guides")
+
+[Country guides](/wiki/Country_guides "Country guides")
 
 [Major powers](/wiki/Major_power "Major power")
 
-* * *
+---
 
 [France](/wiki/France "France")  
 [Germany](/wiki/Germany "Germany")  
@@ -17,7 +18,7 @@ title: Switzerland
 
 Regional powers
 
-* * *
+---
 
 [Argentina](/wiki/Argentina "Argentina")  
 [Australia](/wiki/Australia "Australia")  
@@ -41,7 +42,7 @@ Regional powers
 
 [Minor powers](/wiki/Minor_power "Minor power")
 
-* * *
+---
 
 [Austria](/wiki/Austria "Austria")  
 [Chile](/wiki/index.php?title=Chile&action=edit&redlink=1 "Chile (page does not exist)")  
@@ -60,7 +61,7 @@ Switzerland
 
 [Micro powers](/wiki/Micro_power "Micro power")
 
-* * *
+---
 
 [Afghanistan](/wiki/Afghanistan "Afghanistan")  
 [Albania](/wiki/Albania "Albania")  
@@ -104,30 +105,24 @@ Switzerland
 
 On the first look one might be tempted to think that Switzerland is bound to passively watch Europe burn around it. But that is in fact not true. Though Switzerland has no events at all, save for random ones, one can achieve the necessary slider moves and get into some serious Axis action by 1939. The trick is to use the (not so) random events in your favour.
 
-  
+## Contents
 
-Contents
---------
+- [1 Slider moves](#Slider_moves)
+- [2 Ministers](#Ministers)
+- [3 Military](#Military)
+- [4 Production](#Production)
+- [5 Research](#Research)
+- [6 Strategy](#Strategy)
 
-*   [1 Slider moves](#Slider_moves)
-*   [2 Ministers](#Ministers)
-*   [3 Military](#Military)
-*   [4 Production](#Production)
-*   [5 Research](#Research)
-*   [6 Strategy](#Strategy)
-
-Slider moves
-------------
+## Slider moves
 
 The goal is to become an interventionist dictatorship - anything else is secondary - so use your slider moves to aim for that. Using the first move to become more interventionist will trigger an attack on the constitutional policy. If you cave in to the extremists, you're gonna get 2 moves to authoritarian and 2 to closed society for free. It'll change your government type from market liberal to social conservative. Also it will reduce dissent by 5%, so if you want to change any ministers, do it beforehand! Starting from 1937 you should go for authoritarianism. It might trigger some more "random" events (normally an economic policy initiative, because you are still at 7 for free market). You should always choose the option that makes you more interventionist and/or authoritarian, even if you have to pay the price in dissent. But if you don't, you won't be able to go to war in 1939. You will spend most of the time paying down DOW dissent anyways! If you want to devise a clear "random event" strategy, you can look up the conditions for the events in the ML or SC Events file in the database directory.
 
-Ministers
----------
+## Ministers
 
 Switzerland has some ok ministers with more becoming available as your regime changes. Go for everything that ups manpower growth, foreign manpower use and IC bonuses as well as less supply consumption, etc. If you play as Switzerland, you probably already know the basics...
 
-Military
---------
+## Military
 
 Disband your starting infantry! You won't need it until 1939, so why pay for support and upgrade? Switzerland severely lacks manpower and cannot afford to use simple infantry anyways. Tanks + planes + specialized and/or very agile troops together with brigades are the way to victory. It might be advisable to keep the mountaineers and the bomber though. The bomber will let your Air commanders gain some badly needed experience and the mountaineers are a great asset in conquering northern Italy, eastern France and Spain. BUT DON'T REINFORCE THEM YET! That'll only cost manpower and IC just so you can pay more upkeep for them uselessly standing around for three years.
 
@@ -141,8 +136,7 @@ Don't worry about TC and Org.regain for now! Italy and France aren't the SU. One
 
 As soon as you join the Axis and get german blueprints, abandon the superior firepower doctrine and go with the german Spearhead. You'll get all the blueprints from Germany, you have just the man to research it (Henri Guisan) and it fits your (mainly for manpower reasons) tank-based warfare perfectly.
 
-Production
-----------
+## Production
 
 First years are solely IC production, start it in all 4 provinces. You won't be able to produce it all immediately, but that is the only way to get some halfway decent base IC allowing you to have a 2nd research slot before you start to conquer.
 
@@ -152,8 +146,7 @@ As soon as your economy is up and running, you can exchange some supplies for re
 
 You should also get some trade deals with Germany. Depending on which alliance you want to join (I recommend the Axis for the fun and the fitting blueprints) you might have to set priorities. Once you start troop production, build tanks and some fast troops.
 
-Research
---------
+## Research
 
 Until 1939 your research should be focused on IC and manpower generating techs (again don't research in advance!). Also you should make sure that you can produce a somewhat modern army by then. So some newer tank technologys are also necessary. In terms of brigades you are fine for now, since Switzerland starts with some research progress in those.
 
@@ -165,8 +158,7 @@ Naval research and production can wait for now, you don't have a port to deploy 
 
 If you play with tech team takeover, that problem is probably gonna solved, but that would kinda spoil the fun of having a Carrier fleet flying the flag of Switzerland dominate the Mediterranean Sea in my opinion.
 
-Strategy
---------
+## Strategy
 
 I'll only describe the one I used, I'm sure there are a lot more.
 

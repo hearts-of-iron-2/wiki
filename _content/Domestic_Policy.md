@@ -1,38 +1,36 @@
 ---
 title: Domestic_Policy
 ---
- [Template:Anthology](/wiki/index.php?title=Template:Anthology&action=edit&redlink=1 "Template:Anthology (page does not exist)")
+
+[Template:Anthology](/wiki/index.php?title=Template:Anthology&action=edit&redlink=1 "Template:Anthology (page does not exist)")
 
 HOI2 has a very sophisticated domestic policy and politics model, which includes
 
-*   the domestic policy sliders
-*   the ministers available in your Government.
+- the domestic policy sliders
+- the ministers available in your Government.
 
 You can considerably affect your economic wealth and combat performance by changing your slider settings. The settings also add considerably to the flavour of each nation and the game as a whole.
 
-  
+## Contents
 
-Contents
---------
-
-*   [1 Domestic Policy Sliders](#Domestic_Policy_Sliders)
-*   [2 Social Engineering via Slider Changes](#Social_Engineering_via_Slider_Changes)
-*   [3 Which areas of the game are affected by the domestic policy?](#Which_areas_of_the_game_are_affected_by_the_domestic_policy.3F)
-*   [4 Government Type & Sliders](#Government_Type_.26_Sliders)
-    *   [4.1 Democratic - Authoritarian](#Democratic_-_Authoritarian)
-    *   [4.2 Political Left - Political Right](#Political_Left_-_Political_Right)
-*   [5 Changing Governments](#Changing_Governments)
-    *   [5.1 Policy under different Governments](#Policy_under_different_Governments)
-    *   [5.2 Heads of State](#Heads_of_State)
-*   [6 Other Sliders](#Other_Sliders)
-    *   [6.1 Open Society - Closed Society](#Open_Society_-_Closed_Society)
-    *   [6.2 Free Market - Central Planning](#Free_Market_-_Central_Planning)
-    *   [6.3 Standing Army - Drafted Army](#Standing_Army_-_Drafted_Army)
-        *   [6.3.1 In DD + Arma, upgrade time/cost 1/2](#In_DD_.2B_Arma.2C_upgrade_time.2Fcost_1.2F2)
-    *   [6.4 Hawk Lobby - Dove Lobby](#Hawk_Lobby_-_Dove_Lobby)
-    *   [6.5 Interventionism - Isolationism](#Interventionism_-_Isolationism)
-*   [7 Why do I keep getting policy initiative events?](#Why_do_I_keep_getting_policy_initiative_events.3F)
-*   [8 Big changes to policies - One Solution Revolution](#Big_changes_to_policies_-_One_Solution_Revolution)
+- [1 Domestic Policy Sliders](#Domestic_Policy_Sliders)
+- [2 Social Engineering via Slider Changes](#Social_Engineering_via_Slider_Changes)
+- [3 Which areas of the game are affected by the domestic policy?](#Which_areas_of_the_game_are_affected_by_the_domestic_policy.3F)
+- [4 Government Type & Sliders](#Government_Type_.26_Sliders)
+  - [4.1 Democratic - Authoritarian](#Democratic_-_Authoritarian)
+  - [4.2 Political Left - Political Right](#Political_Left_-_Political_Right)
+- [5 Changing Governments](#Changing_Governments)
+  - [5.1 Policy under different Governments](#Policy_under_different_Governments)
+  - [5.2 Heads of State](#Heads_of_State)
+- [6 Other Sliders](#Other_Sliders)
+  - [6.1 Open Society - Closed Society](#Open_Society_-_Closed_Society)
+  - [6.2 Free Market - Central Planning](#Free_Market_-_Central_Planning)
+  - [6.3 Standing Army - Drafted Army](#Standing_Army_-_Drafted_Army)
+    - [6.3.1 In DD + Arma, upgrade time/cost 1/2](#In_DD_.2B_Arma.2C_upgrade_time.2Fcost_1.2F2)
+  - [6.4 Hawk Lobby - Dove Lobby](#Hawk_Lobby_-_Dove_Lobby)
+  - [6.5 Interventionism - Isolationism](#Interventionism_-_Isolationism)
+- [7 Why do I keep getting policy initiative events?](#Why_do_I_keep_getting_policy_initiative_events.3F)
+- [8 Big changes to policies - One Solution Revolution](#Big_changes_to_policies_-_One_Solution_Revolution)
 
 ### Domestic Policy Sliders
 
@@ -42,13 +40,13 @@ Some of them are interdependent. Dependent on your government type, which is det
 
 To summarise, the sliders are:
 
-*   Democratic - Authoritarian
-*   Political Left - Political Right
-*   Open Society - Closed Society
-*   Free Market - Central Planning
-*   Standing Army - Drafted Army
-*   Hawk Lobby - Dove Lobby
-*   Interventionism - Isolationism
+- Democratic - Authoritarian
+- Political Left - Political Right
+- Open Society - Closed Society
+- Free Market - Central Planning
+- Standing Army - Drafted Army
+- Hawk Lobby - Dove Lobby
+- Interventionism - Isolationism
 
 ### Social Engineering via Slider Changes
 
@@ -62,48 +60,48 @@ The better question is, which area is not? Your domestic policy choices will aff
 
 **[Consumer Goods](/wiki/User_guide_to_Consumer_Goods "User guide to Consumer Goods") :**
 
-*   Consumer Goods Demand (Directly affects the amount of consumer goods needed to satisfy the population)
-*   Consumer Goods Money (Modifies the amount of $ generated per consumer good created)
+- Consumer Goods Demand (Directly affects the amount of consumer goods needed to satisfy the population)
+- Consumer Goods Money (Modifies the amount of $ generated per consumer good created)
 
 **[Dissent](/wiki/Dissent "Dissent") :**
 
-*   Dissent in Occupied Territories (Reduces or increases the base dissent values in occupied territories)
-*   Dissent in National Territories (Reduces or increases the base dissent values in national territories)
-*   Dissent Growth (This is a modifier to the daily dissent growth from the current IC's invested in consumer goods. This is not the same as the Consumer Goods Demand modifier)
-*   Partisan Activity
+- Dissent in Occupied Territories (Reduces or increases the base dissent values in occupied territories)
+- Dissent in National Territories (Reduces or increases the base dissent values in national territories)
+- Dissent Growth (This is a modifier to the daily dissent growth from the current IC's invested in consumer goods. This is not the same as the Consumer Goods Demand modifier)
+- Partisan Activity
 
 **Diplomacy:**
 
-*   Democracy or Dictatorship (This is determined by the form of government)
-*   Diplomatic Action Cost (Increases or reduces the cost of all diplomatic actions)
-*   Bad Relations Normalisations Bonus (Affects how quickly other nations get over your bad actions)
-*   Belligerence Needed to Declare War
-*   Can Join Alliances (Whether the nation can join other alliances or not)
-*   Declaration of War Dissent (Dissent per time you DOW. Minimize this by becoming an interventionist autocracy if you want to attack everybody at your leisure.
+- Democracy or Dictatorship (This is determined by the form of government)
+- Diplomatic Action Cost (Increases or reduces the cost of all diplomatic actions)
+- Bad Relations Normalisations Bonus (Affects how quickly other nations get over your bad actions)
+- Belligerence Needed to Declare War
+- Can Join Alliances (Whether the nation can join other alliances or not)
+- Declaration of War Dissent (Dissent per time you DOW. Minimize this by becoming an interventionist autocracy if you want to attack everybody at your leisure.
 
 **Intelligence:**
 
-*   Counter-intelligence Penalty for outsiders (What it says)
+- Counter-intelligence Penalty for outsiders (What it says)
 
 **Manpower:**
 
-*   Manpower growth (Reduces or increases the daily manpower growth)
+- Manpower growth (Reduces or increases the daily manpower growth)
 
 **Production and Upgrading:**
 
-*   IC bonus (Increases IC available)
-*   Production Time and Cost (Reduces or increases the time of producing units and provincial enhancements. Reduces or increases the IC cost of units only. I.e. a -20% modifier reduces both cost and time of an infantry division but only production time of a naval base)
-*   Upgrade time and cost (Reduces or increases the time and cost divisions of upgrading divisions and brigades)
-*   [Gearing Bonus](/wiki/Gearing_Bonus "Gearing Bonus") (This changes the cap of the gearing bonus. A unit in continous production that is never short on IC will keep increasing in gearing bonus until it reaches 35%+Gearing Bonus Cap. As such, this modifier is only relevant for units you are going to be building a lot of)
+- IC bonus (Increases IC available)
+- Production Time and Cost (Reduces or increases the time of producing units and provincial enhancements. Reduces or increases the IC cost of units only. I.e. a -20% modifier reduces both cost and time of an infantry division but only production time of a naval base)
+- Upgrade time and cost (Reduces or increases the time and cost divisions of upgrading divisions and brigades)
+- [Gearing Bonus](/wiki/Gearing_Bonus "Gearing Bonus") (This changes the cap of the gearing bonus. A unit in continous production that is never short on IC will keep increasing in gearing bonus until it reaches 35%+Gearing Bonus Cap. As such, this modifier is only relevant for units you are going to be building a lot of)
 
 **Research:**
 
-*   Tech Team Cost (Reduces or increases the daily cost of tech teams)
+- Tech Team Cost (Reduces or increases the daily cost of tech teams)
 
 **Unit stats:**
 
-*   Manpower Experience (The base experience value that new units will have)
-*   Organisation Bonus (Increases or reduces the organisation of all units by this percentage. E.g. +10% means that 50 org becomes 55, 80 org become 88 etc)
+- Manpower Experience (The base experience value that new units will have)
+- Organisation Bonus (Increases or reduces the organisation of all units by this percentage. E.g. +10% means that 50 org becomes 55, 80 org become 88 etc)
 
 ### Government Type & Sliders
 
@@ -113,7 +111,7 @@ Two sliders determine the type of government you have and, in turn, limit the po
 
 Rulership style from one extreme to the other, this is one of the factors determining goverment type.
 
- 9 8 7 6 5 4 3 2 1 0 DowDissent +10% +8.9% +7.8% +6.7% +5.6% +4.4% +3.3% +2.2% +1.1% +0% BelToAttack yes yes yes yes yes no no no no no Partisans -5% -4% -3% -2% -1% +1% +2% +3% +4% +5% GoodsDemand +20% +16% +12% +8% +4% -4% -8% -12% -16% -20% Puppet dissent 0.5% 1% 1.5% 2% 2.5% 3% 3.5% 4% 4.5% 5% 
+9 8 7 6 5 4 3 2 1 0 DowDissent +10% +8.9% +7.8% +6.7% +5.6% +4.4% +3.3% +2.2% +1.1% +0% BelToAttack yes yes yes yes yes no no no no no Partisans -5% -4% -3% -2% -1% +1% +2% +3% +4% +5% GoodsDemand +20% +16% +12% +8% +4% -4% -8% -12% -16% -20% Puppet dissent 0.5% 1% 1.5% 2% 2.5% 3% 3.5% 4% 4.5% 5%
 
 A Democratic nation needs a certain level of belligerence to attack another nation, but the interventionism-Isolationism slider determines the amount belligerence needed in such cases. This slider also determines whether the Interventionism-Isolationism slider can prevent you from joining/creating alliances or not.
 
@@ -125,11 +123,11 @@ In general, you can appoint ministers who either share ideology with the governm
 
 In Doomsday and Armageddon, you can also nominate "military" ministers (Head of Intelligence and the Chiefs of Staff/Army/Navy/Air Force) if they are within two steps of distance from the government's ideology (e.g. a National Socialist government can nominate a Paternal Autocrat Head of Intelligence). "Civilian" ministers (Foreign, Armaments, and Security) remain limited to one-step ideological tolerance. Once they are in charge, all kinds of ministers (as well as Heads of State and Heads of Government) have a two-step tolerance before changes of ideology force their dismissal.
 
- LEFT RIGHT DEMOCRATIC 9 8 7 6 5 4 3 2 1 0 	9	SD	SL	SL	SL	SL	ML	ML	ML	ML	SC 	8	SD	SD	SL	SL	SL	ML	ML	ML	SC	SC 	7	SD	SD	SD	SL	SL	ML	ML	SC	SC	SC 	6	LWR	SD	SD	SD	SL	ML	SC	SC	SC	PA 	5	LWR	LWR	SD	SD	SD	SC	SC	SC	PA	PA 	4	LE	LWR	LWR	SD	SD	SC	SC	PA	PA	FA 	3	LE	LE	LWR	LWR	SD	SC	PA	PA	FA	FA 	2	ST	LE	LE	LWR	LWR	PA	PA	FA	FA	NS 	1	ST	ST	LE	LE	LWR	PA	FA	FA	NS	NS 	0	ST	ST	ST	LE	LE	FA	FA	NS	NS	NS AUTOCRATIC 
+LEFT RIGHT DEMOCRATIC 9 8 7 6 5 4 3 2 1 0 9 SD SL SL SL SL ML ML ML ML SC 8 SD SD SL SL SL ML ML ML SC SC 7 SD SD SD SL SL ML ML SC SC SC 6 LWR SD SD SD SL ML SC SC SC PA 5 LWR LWR SD SD SD SC SC SC PA PA 4 LE LWR LWR SD SD SC SC PA PA FA 3 LE LE LWR LWR SD SC PA PA FA FA 2 ST LE LE LWR LWR PA PA FA FA NS 1 ST ST LE LE LWR PA FA FA NS NS 0 ST ST ST LE LE FA FA NS NS NS AUTOCRATIC
 
 Key to the above table, in alphabetical order:
 
-FA = Fascist LE = Leninist LWR= Left-Wing Radical ML = Market Liberal NS = National Socialist PA = Paternal Autocrat SC = Social Conservative SD = Social Democratic SL = Social Liberal ST = Stalinist 
+FA = Fascist LE = Leninist LWR= Left-Wing Radical ML = Market Liberal NS = National Socialist PA = Paternal Autocrat SC = Social Conservative SD = Social Democratic SL = Social Liberal ST = Stalinist
 
 ### Changing Governments
 
@@ -137,8 +135,8 @@ Moving the Left/Right and Democratic/Authoritarian sliders changes the type of g
 
 The government determines
 
-*   allowable Society and Economy slider positions
-*   The Head of State and available Ministers
+- allowable Society and Economy slider positions
+- The Head of State and available Ministers
 
 #### Policy under different Governments
 
@@ -158,13 +156,11 @@ A Head of State will resign/be ovethrown if the governemnt type is radically dif
 
 Moving Germany left, for instance, replaces Hitler's National Socialist government with a Stalinist one under someone called Renn. Then making Germany democratic introduces a Social Liberal government under Wilhelm II (a Paternal Autocrat). Moving the Germany to the Right to a Market Liberal government retains Wilhelm II. Then moving back towards full Authoritarianism results in a National Socialist state. Because Wilhelm II is Paternal Autocrat, he remains in power even when Germany returns to Nazism.
 
-  
-
 ### Other Sliders
 
 #### Open Society - Closed Society
 
- 0 1 2 3 4 5 6 7 8 9 DisGrowth +10% +8% +6% +4% +2% -2% -4% -6% -8% -10% DisNat +40% +30% +20% +10% N/A -10% -20% -30% -40% -50% DisOcc -40% -30% -20% -10% N/A +10% +20% +30% +40% +50% CounterInt -40% -30% -20% -10% N/A +10% +20% +30% +40% +50% TechCost +20% +16% +12% +8% +4% -4% -8% 12% -16% -20% 
+0 1 2 3 4 5 6 7 8 9 DisGrowth +10% +8% +6% +4% +2% -2% -4% -6% -8% -10% DisNat +40% +30% +20% +10% N/A -10% -20% -30% -40% -50% DisOcc -40% -30% -20% -10% N/A +10% +20% +30% +40% +50% CounterInt -40% -30% -20% -10% N/A +10% +20% +30% +40% +50% TechCost +20% +16% +12% +8% +4% -4% -8% 12% -16% -20%
 
 Limitations: All Authoritarian forms of government limit you to a relatively Closed society. Stalinist and National Socialist governments allow virtually no openness.
 
@@ -176,7 +172,7 @@ Fundamentally, an open society will experience internal dissent (dissent in nati
 
 #### Free Market - Central Planning
 
- 0 1 2 3 4 5 6 7 8 9 GoodsMoney +40% +30% +20% +10% N/A -10% -20% -30% -40% -50% GoodsDemand +20% +16% +12% +8% +4% -4% -8% -12% -16% -20% TechCost +25% +20% +15% +10% +5% -5% -10% -15% -20% -25% UpgradeCost -25% -20% -15% -10% -5% +5% +10% +15% +20% +25% ProdCost -20% -15% -10% N/A N/A N/A N/A N/A N/A N/A ICBonus N/A N/A N/A N/A N/A N/A N/A +15% +20% +25% 
+0 1 2 3 4 5 6 7 8 9 GoodsMoney +40% +30% +20% +10% N/A -10% -20% -30% -40% -50% GoodsDemand +20% +16% +12% +8% +4% -4% -8% -12% -16% -20% TechCost +25% +20% +15% +10% +5% -5% -10% -15% -20% -25% UpgradeCost -25% -20% -15% -10% -5% +5% +10% +15% +20% +25% ProdCost -20% -15% -10% N/A N/A N/A N/A N/A N/A N/A ICBonus N/A N/A N/A N/A N/A N/A N/A +15% +20% +25%
 
 It is in your interest to be at one extreme or the other because of the very big production or IC bonuses.
 
@@ -194,7 +190,7 @@ Conclusion: Go to whichever extreme is closest at the beginning. Both nationaliz
 
 #### Standing Army - Drafted Army
 
- 0 1 2 3 4 5 6 7 8 9 Manpower XP +20% +15% +10% +5% N/A N/A N/A N/A N/A N/A Gearing -10% -8% -6% -4% -2% +2% +4% +6% +8% +10% OrgBonus +10% +8% +6% +4% +2% -2% -4% -6% -8% -10% Upgr Time/Cost +10% +20% +30% +40% +50% +60% +70% +80% +90% +100% 
+0 1 2 3 4 5 6 7 8 9 Manpower XP +20% +15% +10% +5% N/A N/A N/A N/A N/A N/A Gearing -10% -8% -6% -4% -2% +2% +4% +6% +8% +10% OrgBonus +10% +8% +6% +4% +2% -2% -4% -6% -8% -10% Upgr Time/Cost +10% +20% +30% +40% +50% +60% +70% +80% +90% +100%
 
 Unless you are going to be producing a LOT of the same type of unit, a standing army is clearly superior to a drafted one. A drafted army is most interesting when coupled with slider settings that reduce upgrading costs, as it then makes sense to start e.g. a 99 production of '36 infantry, give them highest priority, and just keep on producing them until '41 or even '43 infantry is available, as the total cost of production plus one or two upgrades will be less than producing new units without the accumulated gearing bonus. Fundamentally, parallel builds to fit the situation on hand works for everybody but long serial builds are the domain of the drafted army.
 
@@ -204,7 +200,7 @@ In DD + Arma, the upgrade time/cost part of the Army slider was cut in half. The
 
 #### Hawk Lobby - Dove Lobby
 
- 0 1 2 3 4 5 6 7 8 9 GoodsMoney N/A N/A N/A N/A N/A +10% +20% +30% +40% +50% ProdCost -20% -15% -10% -5% N/A N/A N/A N/A N/A N/A DisGrowth -10% -8% -6% -4% -2% +2% +4% +6% +8% +10% ManGrowth +10% +8% +6% +4% +2% -2% -4% -6% -8% -10% 
+0 1 2 3 4 5 6 7 8 9 GoodsMoney N/A N/A N/A N/A N/A +10% +20% +30% +40% +50% ProdCost -20% -15% -10% -5% N/A N/A N/A N/A N/A N/A DisGrowth -10% -8% -6% -4% -2% +2% +4% +6% +8% +10% ManGrowth +10% +8% +6% +4% +2% -2% -4% -6% -8% -10%
 
 This is the choice between Guns and Butter? Given that HoI2 is a wargame, there can be only one answer: GUNS! (And the more, the merrier)
 
@@ -212,7 +208,7 @@ Note that many countries get 'free' moves along this slider from scripted events
 
 #### Interventionism - Isolationism
 
- 0 1 2 3 4 5 6 7 8 9 DipCost -40% -30% -20% -10% +0% +10% +20% +30% +40% +50% BadRelBonus -80% -60% -40% -20% +0% +20% +40% +60% +80% +100% DowDissent +0% +1.1% +2.2% +3.3% +4.4% +5.6% +6.7% +7.8% +8.9% +10% GoodsDemand +10% +20% +30% +40% +50% +60% +70% +80% +90% +100% BelToAttack 1 9 19 29 39 49 59 69 79 89 JoinAlliance yes yes yes yes yes no no no no no 
+0 1 2 3 4 5 6 7 8 9 DipCost -40% -30% -20% -10% +0% +10% +20% +30% +40% +50% BadRelBonus -80% -60% -40% -20% +0% +20% +40% +60% +80% +100% DowDissent +0% +1.1% +2.2% +3.3% +4.4% +5.6% +6.7% +7.8% +8.9% +10% GoodsDemand +10% +20% +30% +40% +50% +60% +70% +80% +90% +100% BelToAttack 1 9 19 29 39 49 59 69 79 89 JoinAlliance yes yes yes yes yes no no no no no
 
 Note: BelToAttack and JoinAlliance are only active when the leadership is very democratic (see Democratic-Authoritarian). However, under those circumstances this is one of the most important sliders in the game as too high isolationism will prevent you from acting against other nations; you will only be able to react. In some ways, this slider can be considered representative of the War Entry from Hearts of Iron 1, except that it is more generalised and not directed against any particular nation but against all aggressive nations. So long as other nations play fairly nice and only invade and conquer just a little bit, the democratic isolationist country will not be able to act because of public opinion. As a rule of thumb, if you are unsure of which dp-slider to move in your yearly dp-change (you DO try to maximize your social engineering skills, presumably), going more interventionist is almost certainly a good choice. If your nation is very democratic, you need it to be able to act rather than merely reacting; if your nation is not, then you need it to reduce the dissent cost of your next declaration of war.
 

@@ -1,23 +1,23 @@
 ---
 title: National_Security
 ---
- An overview of what various nations would consider tolerable international conduct, 1936-41.
 
-Contents
---------
+An overview of what various nations would consider tolerable international conduct, 1936-41.
 
-*   [1 Spheres of Interest](#Spheres_of_Interest)
-*   [2 Spheres of Influence](#Spheres_of_Influence)
-*   [3 British Naval Security](#British_Naval_Security)
-*   [4 The Monroe Doctrine and Western Hemispheric Security](#The_Monroe_Doctrine_and_Western_Hemispheric_Security)
-*   [5 The Soviet Union](#The_Soviet_Union)
-    *   [5.1 The Soviet Union vs Germany](#The_Soviet_Union_vs_Germany)
-    *   [5.2 The Soviet Far East](#The_Soviet_Far_East)
-*   [6 Integrity of China](#Integrity_of_China)
-*   [7 Southeast Asia](#Southeast_Asia)
-    *   [7.1 US Attitude](#US_Attitude)
-    *   [7.2 The Japanese move into Southern Indochina and the US Embargo](#The_Japanese_move_into_Southern_Indochina_and_the_US_Embargo)
-*   [8 Footnotes](#Footnotes)
+## Contents
+
+- [1 Spheres of Interest](#Spheres_of_Interest)
+- [2 Spheres of Influence](#Spheres_of_Influence)
+- [3 British Naval Security](#British_Naval_Security)
+- [4 The Monroe Doctrine and Western Hemispheric Security](#The_Monroe_Doctrine_and_Western_Hemispheric_Security)
+- [5 The Soviet Union](#The_Soviet_Union)
+  - [5.1 The Soviet Union vs Germany](#The_Soviet_Union_vs_Germany)
+  - [5.2 The Soviet Far East](#The_Soviet_Far_East)
+- [6 Integrity of China](#Integrity_of_China)
+- [7 Southeast Asia](#Southeast_Asia)
+  - [7.1 US Attitude](#US_Attitude)
+  - [7.2 The Japanese move into Southern Indochina and the US Embargo](#The_Japanese_move_into_Southern_Indochina_and_the_US_Embargo)
+- [8 Footnotes](#Footnotes)
 
 ### Spheres of Interest
 
@@ -103,7 +103,6 @@ On July 23, Vichy permitted Japan to establish naval and air bases in Southern I
 
 The US response to Japan's move into southern Indochina was rather severe given that Japan was already in the north and the deployment of its troops south met no French resistance (indeed, the US acted before Japan actually moved in). This suggests that any further major act of aggression on Japan's part would have been met by war with the US. That realisation, plus the impact of the embargo, may have been instrumental in determining that Japan's next attack would fall on Pearl Harbor rather than Vladivostok (as British intelligence had believed in July).
 
-Footnotes
----------
+## Footnotes
 
 1.  [↑](#cite_ref-1) Tarling, Nicholas (1996). _Britain, Southeast Asia and the onset of the Pacific war_ . Cambridge University Press. p. 225. ISBN 0-521-55346-6.

@@ -1,16 +1,16 @@
 ---
 title: Event_ID_Ranges
 ---
- Key
----
 
-The Bolded word is the file events are in(IE: Deaths = Death\_events.txt)  
+## Key
+
+The Bolded word is the file events are in(IE: Deaths = Death_events.txt)  
 The Number is the event range I think each file has(Paradox didn't list the event range for all the files)  
 The free IDs list what IDs are currently not in use for that range  
 If the line has something in brackets next to it, It's an event that is non native to the country or event range (IE Event 3900 in the UK's event file)  
 Any Unlisted ID/ID Range is probably free  
-For exampel: event 300 000 is free (this is tested).  
-  
+For exampel: event 300 000 is free (this is tested).
+
 **As of the 1.2 patch the Death events file has had events removed and altered, Sadly all paradox said on this was "Revised, removed and edited some death events."  
 This leads me to believe that some IDs have been freed that are not listed. It would be a large amount of work to shift through 350+ events just to find a few unlisted IDs, So it is currently unchanged. Make note however, No events have been added, the old free IDs are still free.**
 

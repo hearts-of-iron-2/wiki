@@ -1,21 +1,20 @@
 ---
 title: Technology_and_Research_FAQ
 ---
- Contents
---------
 
-*   [1 Technology and Research](#Technology_and_Research)
-    *   [1.1 How many tech teams slots can a country have?](#How_many_tech_teams_slots_can_a_country_have.3F)
-    *   [1.2 Why isn't Rolls-Royce in the game?](#Why_isn.27t_Rolls-Royce_in_the_game.3F)
-    *   [1.3 What effect does blueprint have?](#What_effect_does_blueprint_have.3F)
-    *   [1.4 What is the difference between blue and red specialties?](#What_is_the_difference_between_blue_and_red_specialties.3F)
-    *   [1.5 Why the last part (fifth) of the research sub-topic seem to take longer time than the others?](#Why_the_last_part_.28fifth.29_of_the_research_sub-topic_seem_to_take_longer_time_than_the_others.3F)
-    *   [1.6 What effect does it have if I have research team with matching specialty with my research topic?](#What_effect_does_it_have_if_I_have_research_team_with_matching_specialty_with_my_research_topic.3F)
-    *   [1.7 What's the deal with oil conversion techs?](#What.27s_the_deal_with_oil_conversion_techs.3F)
-    *   [1.8 What do Encryption/Decryption technologies actually do?](#What_do_Encryption.2FDecryption_technologies_actually_do.3F)
+## Contents
 
-Technology and Research
-=======================
+- [1 Technology and Research](#Technology_and_Research)
+  - [1.1 How many tech teams slots can a country have?](#How_many_tech_teams_slots_can_a_country_have.3F)
+  - [1.2 Why isn't Rolls-Royce in the game?](#Why_isn.27t_Rolls-Royce_in_the_game.3F)
+  - [1.3 What effect does blueprint have?](#What_effect_does_blueprint_have.3F)
+  - [1.4 What is the difference between blue and red specialties?](#What_is_the_difference_between_blue_and_red_specialties.3F)
+  - [1.5 Why the last part (fifth) of the research sub-topic seem to take longer time than the others?](#Why_the_last_part_.28fifth.29_of_the_research_sub-topic_seem_to_take_longer_time_than_the_others.3F)
+  - [1.6 What effect does it have if I have research team with matching specialty with my research topic?](#What_effect_does_it_have_if_I_have_research_team_with_matching_specialty_with_my_research_topic.3F)
+  - [1.7 What's the deal with oil conversion techs?](#What.27s_the_deal_with_oil_conversion_techs.3F)
+  - [1.8 What do Encryption/Decryption technologies actually do?](#What_do_Encryption.2FDecryption_technologies_actually_do.3F)
+
+# Technology and Research
 
 ### How many tech teams slots can a country have?
 
@@ -38,7 +37,7 @@ Red denotes doctrines.
 
 ### Why the last part (fifth) of the research sub-topic seem to take longer time than the others?
 
-The last part of many research categories take twice as long as the other sub-topics. Unfortunately there is no sure-fire in-game way of knowing whether a particular category has a double\_time last component. Although a good rule of thumb is that if the last component is named either "prototype" or "processes" it will take twice as long as normal. Version 1.2 highlights the difficult component with a very high value e.g. 20.
+The last part of many research categories take twice as long as the other sub-topics. Unfortunately there is no sure-fire in-game way of knowing whether a particular category has a double_time last component. Although a good rule of thumb is that if the last component is named either "prototype" or "processes" it will take twice as long as normal. Version 1.2 highlights the difficult component with a very high value e.g. 20.
 
 ### What effect does it have if I have research team with matching specialty with my research topic?
 
@@ -46,7 +45,7 @@ The sub-topic that uses that matching specialty will have the research time halv
 
 ### What's the deal with oil conversion techs?
 
-See the primer on [Energy\_to\_Oil\_Conversion](/wiki/Energy_to_Oil_Conversion "Energy to Oil Conversion") .
+See the primer on [Energy_to_Oil_Conversion](/wiki/Energy_to_Oil_Conversion "Energy to Oil Conversion") .
 
 ### What do Encryption/Decryption technologies actually do?
 

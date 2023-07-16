@@ -1,12 +1,12 @@
 ---
 title: Strategy_for_Spanish_Civil_War
 ---
- [Template:Scenario guides](/wiki/index.php?title=Template:Scenario_guides&action=edit&redlink=1 "Template:Scenario guides (page does not exist)")
 
- [![Shieldspa.jpg](/images/c/ca/Shieldspa.jpg)](/wiki/File:Shieldspa.jpg)[![Vs.jpg](/images/9/93/Vs.jpg) ](/wiki/File:Vs.jpg)[![Shieldspr.jpg](/images/3/36/Shieldspr.jpg)](/wiki/File:Shieldspr.jpg)
+[Template:Scenario guides](/wiki/index.php?title=Template:Scenario_guides&action=edit&redlink=1 "Template:Scenario guides (page does not exist)")
 
-Republican Strategy
--------------------
+[![Shieldspa.jpg](/images/c/ca/Shieldspa.jpg)](/wiki/File:Shieldspa.jpg)[![Vs.jpg](/images/9/93/Vs.jpg) ](/wiki/File:Vs.jpg)[![Shieldspr.jpg](/images/3/36/Shieldspr.jpg)](/wiki/File:Shieldspr.jpg)
+
+## Republican Strategy
 
 Start out by sending all of your garrisons to the provinces around Seville, so you can bring your mobile troops north to face the Nationalists. Also send your navy to the Baleric Islands to maintain your toehold there. Remember that you won't be producing any more units or getting reinforcements, so what you have is what you get.
 

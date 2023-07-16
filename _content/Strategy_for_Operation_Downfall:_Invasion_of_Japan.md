@@ -1,12 +1,12 @@
 ---
 title: Strategy_for_Operation_Downfall:_Invasion_of_Japan
 ---
- [Template:Scenario guides](/wiki/index.php?title=Template:Scenario_guides&action=edit&redlink=1 "Template:Scenario guides (page does not exist)")
 
- [![Shieldjap.jpg](/images/c/cd/Shieldjap.jpg)](/wiki/File:Shieldjap.jpg)[![Vs.jpg](/images/9/93/Vs.jpg) ](/wiki/File:Vs.jpg)[![Shieldsov.jpg](/images/1/1c/Shieldsov.jpg) ](/wiki/File:Shieldsov.jpg)[![Shieldals.jpg](/images/5/57/Shieldals.jpg)](/wiki/File:Shieldals.jpg)
+[Template:Scenario guides](/wiki/index.php?title=Template:Scenario_guides&action=edit&redlink=1 "Template:Scenario guides (page does not exist)")
 
-Operation Downfall: Strategy for the Allies
--------------------------------------------
+[![Shieldjap.jpg](/images/c/cd/Shieldjap.jpg)](/wiki/File:Shieldjap.jpg)[![Vs.jpg](/images/9/93/Vs.jpg) ](/wiki/File:Vs.jpg)[![Shieldsov.jpg](/images/1/1c/Shieldsov.jpg) ](/wiki/File:Shieldsov.jpg)[![Shieldals.jpg](/images/5/57/Shieldals.jpg)](/wiki/File:Shieldals.jpg)
+
+## Operation Downfall: Strategy for the Allies
 
 The main way to beat this scenario is to hack slowly away at the Japanese possessions. By this I mean first take the southern part of the Korean peninsula (if you play as the Allies, the USSR should handle this). Next, go for Taiwan. All during this time, by the way, you should be using all of your planes to bomb Japanese positions everywhere.
 

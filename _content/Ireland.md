@@ -1,11 +1,12 @@
 ---
 title: Ireland
 ---
- [Country guides](/wiki/Country_guides "Country guides")
+
+[Country guides](/wiki/Country_guides "Country guides")
 
 [Major powers](/wiki/Major_power "Major power")
 
-* * *
+---
 
 [France](/wiki/France "France")  
 [Germany](/wiki/Germany "Germany")  
@@ -17,7 +18,7 @@ title: Ireland
 
 Regional powers
 
-* * *
+---
 
 [Argentina](/wiki/Argentina "Argentina")  
 [Australia](/wiki/Australia "Australia")  
@@ -41,7 +42,7 @@ Regional powers
 
 [Minor powers](/wiki/Minor_power "Minor power")
 
-* * *
+---
 
 [Austria](/wiki/Austria "Austria")  
 [Chile](/wiki/index.php?title=Chile&action=edit&redlink=1 "Chile (page does not exist)")  
@@ -60,7 +61,7 @@ Ireland
 
 [Micro powers](/wiki/Micro_power "Micro power")
 
-* * *
+---
 
 [Afghanistan](/wiki/Afghanistan "Afghanistan")  
 [Albania](/wiki/Albania "Albania")  
@@ -102,34 +103,28 @@ Ireland
 [Yemen](/wiki/index.php?title=Yemen&action=edit&redlink=1 "Yemen (page does not exist)")  
 [Yunnan](/wiki/Yunnan "Yunnan")
 
-  
+## Contents
 
-Contents
---------
+- [1 Overview](#Overview)
+- [2 Technology](#Technology)
+- [3 Diplomacy](#Diplomacy)
+  - [3.1 Foreign Policy Initiative](#Foreign_Policy_Initiative)
+  - [3.2 Demand Territory](#Demand_Territory)
 
-*   [1 Overview](#Overview)
-*   [2 Technology](#Technology)
-*   [3 Diplomacy](#Diplomacy)
-    *   [3.1 Foreign Policy Initiative](#Foreign_Policy_Initiative)
-    *   [3.2 Demand Territory](#Demand_Territory)
-
-Overview
---------
+## Overview
 
 Ireland has got to be one of the least played nations in HoI2. The reason being;it is almost completely isolationist and 'borders' one of the most powerful nations on the globe, at the time. Playing Ireland may seem pointless, but do not be tricked; Ireland has an impressive group of tech teams and leaders. Some advantages of the republic include the following:
 
-*   A wide range of tech teams, including a team with nuclear physics.
-*   Strong Generals
-*   Good leaders
-*   A small surplus of resources
+- A wide range of tech teams, including a team with nuclear physics.
+- Strong Generals
+- Good leaders
+- A small surplus of resources
 
-Technology
-----------
+## Technology
 
 Ireland has excellent industrial, aircraft, naval, air doctrine, and naval doctrines tech teams. Basically, it lacks in ground combat and ground doctrine tech teams. Focus on researching current year technologies because of the penalty involved with researching ahead of the 'historical' year. Research in manufacturing, infantry, and Grand Battle Plan should be given top priority.
 
-Diplomacy
----------
+## Diplomacy
 
 Ireland, due to it being completely neutral, has little to no potential for alliances. However, events such as 'foreign policy initiative' may allow Ireland to become more interventionist.
 

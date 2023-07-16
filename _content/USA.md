@@ -1,13 +1,14 @@
 ---
 title: USA
 ---
- [File:Usa-topbar.JPG](/wiki/index.php?title=Special:Upload&wpDestFile=Usa-topbar.JPG "File:Usa-topbar.JPG")
+
+[File:Usa-topbar.JPG](/wiki/index.php?title=Special:Upload&wpDestFile=Usa-topbar.JPG "File:Usa-topbar.JPG")
 
 [Country guides](/wiki/Country_guides "Country guides")
 
 [Major powers](/wiki/Major_power "Major power")
 
-* * *
+---
 
 [France](/wiki/France "France")  
 [Germany](/wiki/Germany "Germany")  
@@ -19,7 +20,7 @@ USA
 
 Regional powers
 
-* * *
+---
 
 [Argentina](/wiki/Argentina "Argentina")  
 [Australia](/wiki/Australia "Australia")  
@@ -43,7 +44,7 @@ Regional powers
 
 [Minor powers](/wiki/Minor_power "Minor power")
 
-* * *
+---
 
 [Austria](/wiki/Austria "Austria")  
 [Chile](/wiki/index.php?title=Chile&action=edit&redlink=1 "Chile (page does not exist)")  
@@ -62,7 +63,7 @@ Regional powers
 
 [Micro powers](/wiki/Micro_power "Micro power")
 
-* * *
+---
 
 [Afghanistan](/wiki/Afghanistan "Afghanistan")  
 [Albania](/wiki/Albania "Albania")  
@@ -106,53 +107,47 @@ Regional powers
 
 [Template:USAStrategyGuides](/wiki/index.php?title=Template:USAStrategyGuides&action=edit&redlink=1 "Template:USAStrategyGuides (page does not exist)")
 
-  
+## Contents
 
-Contents
---------
+- [1 Overview](#Overview)
+- [2 Technology](#Technology)
+- [3 Diplomacy](#Diplomacy)
+  - [3.1 Alliances](#Alliances)
+  - [3.2 Sliders](#Sliders)
+  - [3.3 Ministers](#Ministers)
+- [4 Intelligence](#Intelligence)
+- [5 Economy](#Economy)
+  - [5.1 Trading](#Trading)
+  - [5.2 Industrial Production](#Industrial_Production)
+- [6 Military](#Military)
+  - [6.1 Army](#Army)
+  - [6.2 Navy](#Navy)
+  - [6.3 Air Force](#Air_Force)
+- [7 Events](#Events)
+  - [7.1 Election of 1936](#Election_of_1936)
+  - [7.2 Revolution](#Revolution)
+  - [7.3 Pitman Act: Assistance to China](#Pitman_Act:_Assistance_to_China)
+  - [7.4 Nanking Massacre](#Nanking_Massacre)
+  - [7.5 Panay Incident](#Panay_Incident)
+  - [7.6 Gearing up for War](#Gearing_up_for_War)
+  - [7.7 Arsenal of Democracy](#Arsenal_of_Democracy)
+  - [7.8 Lend Lease Act](#Lend_Lease_Act)
+- [8 War](#War)
+  - [8.1 War with Japan](#War_with_Japan)
+  - [8.2 War with Germany](#War_with_Germany)
+- [9 Gaming the System](#Gaming_the_System)
 
-*   [1 Overview](#Overview)
-*   [2 Technology](#Technology)
-*   [3 Diplomacy](#Diplomacy)
-    *   [3.1 Alliances](#Alliances)
-    *   [3.2 Sliders](#Sliders)
-    *   [3.3 Ministers](#Ministers)
-*   [4 Intelligence](#Intelligence)
-*   [5 Economy](#Economy)
-    *   [5.1 Trading](#Trading)
-    *   [5.2 Industrial Production](#Industrial_Production)
-*   [6 Military](#Military)
-    *   [6.1 Army](#Army)
-    *   [6.2 Navy](#Navy)
-    *   [6.3 Air Force](#Air_Force)
-*   [7 Events](#Events)
-    *   [7.1 Election of 1936](#Election_of_1936)
-    *   [7.2 Revolution](#Revolution)
-    *   [7.3 Pitman Act: Assistance to China](#Pitman_Act:_Assistance_to_China)
-    *   [7.4 Nanking Massacre](#Nanking_Massacre)
-    *   [7.5 Panay Incident](#Panay_Incident)
-    *   [7.6 Gearing up for War](#Gearing_up_for_War)
-    *   [7.7 Arsenal of Democracy](#Arsenal_of_Democracy)
-    *   [7.8 Lend Lease Act](#Lend_Lease_Act)
-*   [8 War](#War)
-    *   [8.1 War with Japan](#War_with_Japan)
-    *   [8.2 War with Germany](#War_with_Germany)
-*   [9 Gaming the System](#Gaming_the_System)
-
-Overview
---------
+## Overview
 
 The United States is perhaps the easiest nation to play. The USA is separated from hostile nations by two huge oceans, and it also has the highest industrial capacity of all nations. The resource production of the USA is the best in the game as well, with enough resources to supply the nation's entire industrial base even after considerable growth. For these reasons, a player can choose nearly any strategy with the USA for a successful game.
 
 The USA starts with a solid navy, but is exceedingly weak in most other regards. The army is a skeleton crew, the airforce moderate and starting tech poor (aside from industrial and naval). Worse, isolationist policies hamstring the nation and lock you into a high percent of consumer goods production. Your industrial base is massive and has even greater potentital, plus you have the resources on your home soil to properly exploit industrial expansion . Your tech teams are excellent, allowing you to pursue several possible strategic avenues. The USA has the potential to do just about anything you want.
 
-Technology
-----------
+## Technology
 
 The USA has some of the best research teams in the world, second only to Germany overall. The US does start significantly behind other major nations in starting technologies, however. The US land doctrine of Superior Firepower is one of the worst trees possible, becoming truly effectively only after 1944. Some players may choose to abandon this tree for that reason, however doing so could be considered [gamey](/wiki/Gamey_tactics "Gamey tactics") since the US is tremendously overpowered in every other respect. By August, 1937, it is possible for the USA to have researched _every_ 1936 and 1937 technology.
 
-Diplomacy
----------
+## Diplomacy
 
 ### Alliances
 
@@ -166,13 +161,11 @@ The USA's weakest point are its political sliders. The USA begins the game with 
 
 Total slider moves by events: Drafted Army:-1 Hawk: +10 Interventionism:+8
 
-Intelligence
-------------
+## Intelligence
 
 The USA creates more money than any other nation in the game, making it particularly well suited for the Intelligence system. The counter-point, however, is the the US open society causes severe penalties for spying.
 
-Economy
--------
+## Economy
 
 ### Trading
 
@@ -182,8 +175,7 @@ The USA does not have to exert any effort in trading. It is fairly easy for the 
 
 In the early years of the game, the USA has very little use for its IC other than ship building and IC building. While IC spamming is certainly possible, the USA begins the game with over 100 more IC than any other nation. Therefore, a balance of IC building and naval building is recommended. An early starting run of 4 - 6 IC provides a fairly good balance.
 
-Military
---------
+## Military
 
 ### Army
 
@@ -197,13 +189,12 @@ The United States begins the game with an enormous Navy (112 ships in total), th
 
 The USA can build an extremely powerful Air Force if desired. As is the case with every nation, TAC and CAS are extremely effective units. STRAT is not usually useful in the game, but for the USA can be used to deliver nukes and bomb the Japanese mainland, for example, into submission.
 
-Events
-------
+## Events
 
 ### Election of 1936
 
-*   Roosevelt: Dissent -2, Manpower +20.
-*   Landon: Political Right set to 2, Isolationism +1, Dissent +2; +10 IC.
+- Roosevelt: Dissent -2, Manpower +20.
+- Landon: Political Right set to 2, Isolationism +1, Dissent +2; +10 IC.
 
 ### Revolution
 
@@ -213,8 +204,8 @@ If the USA ever gets 65 dissent or higher, a revolution event will fire and the 
 
 This will occur after the Japanese invasion of China, around July 1, 1937. In HoI2, the Japanese will never take over China. In DD and ARMA, the Japanese will always defeat China. The US has two options:
 
-*   Pass the Act: -1000 supplies.
-*   Do not Pass the Act: +1 isolationism
+- Pass the Act: -1000 supplies.
+- Do not Pass the Act: +1 isolationism
 
 ### Nanking Massacre
 
@@ -228,28 +219,28 @@ In May, 1939, Japanese vessels will sink a US warship in China. The USA will rec
 
 **After the Dutch capitulation, typically in May, 1940:**
 
-*   Prepare for War: +3 IC, +3 Hawk, +200 Manpower, Peace time modified by +25%.
-*   These measures are not needed: +1 dove; +50 manpower
+- Prepare for War: +3 IC, +3 Hawk, +200 Manpower, Peace time modified by +25%.
+- These measures are not needed: +1 dove; +50 manpower
 
 **After the German attack on the Soviet Union:**
 
-*   Prepare for War: +3 IC, +1 Hawk, +1 Isolationism, +100 Manpower, Peace time modified by +15%.
-*   These measures are not needed: +1 dove; +50 manpower
+- Prepare for War: +3 IC, +1 Hawk, +1 Isolationism, +100 Manpower, Peace time modified by +15%.
+- These measures are not needed: +1 dove; +50 manpower
 
 **August, 1941**
 
-*   Prepare for War: +3 IC, +1 Hawk, +1 Isolationism, +100 Manpower, Peace time modified by +15%.
-*   These measures are not needed: +1 dove; +50 manpower
+- Prepare for War: +3 IC, +1 Hawk, +1 Isolationism, +100 Manpower, Peace time modified by +15%.
+- These measures are not needed: +1 dove; +50 manpower
 
 **Destroyers for Bases** In the Summer of 1940 this event will fire.
 
-*   Sign the Agreement: +5 manpower, -50 convoy escorts
-*   We need these ships: +1 isolationism
+- Sign the Agreement: +5 manpower, -50 convoy escorts
+- We need these ships: +1 isolationism
 
 **Presidential Election: 1940'**
 
-*   Roosevelt: Dissent -2; Manpower +10.
-*   Wilkie: Change of government
+- Roosevelt: Dissent -2; Manpower +10.
+- Wilkie: Change of government
 
 **There is one more thing, the Japanese surprise attack. This has to be added but one caveat, I have seen the Japanese surprise attack on Pearl have two different values:**
 
@@ -257,28 +248,27 @@ The Japanese Surprise attack on Pearl Harbor can sometimes NOT happen, so do not
 
 **Normal Japanese Surprise attack on Pearl Harbor:**
 
-*   +2 Hawk, +3 Intervention
+- +2 Hawk, +3 Intervention
 
 **Occasional value for the same attack (not sure what modifies it, maybe random chance?):**
 
-*   +3 Hawk, +4 Intervention
+- +3 Hawk, +4 Intervention
 
 ### Arsenal of Democracy
 
 Occurs when the USA goes to war with Germany (likely around December 1941 or later):
 
-*   Pass the Act: -5000 supplies, -2500 oil, -2500 metal. Interventionism +1. Provides considerable help to the Allies.
-*   Remain Completely Neutral: Isolationism +1
+- Pass the Act: -5000 supplies, -2500 oil, -2500 metal. Interventionism +1. Provides considerable help to the Allies.
+- Remain Completely Neutral: Isolationism +1
 
 ### Lend Lease Act
 
 This event provides considerable help to the UK and the USSR.
 
-*   Pass the Act: -5000 Supplies, -2500 Oil, -2500 Metal
-*   Don't Pass: +1 Isolationism
+- Pass the Act: -5000 Supplies, -2500 Oil, -2500 Metal
+- Don't Pass: +1 Isolationism
 
-War
----
+## War
 
 ### War with Japan
 
@@ -288,10 +278,9 @@ Around December, 1941, Japan will DOW on the USA. The war against Japan is extre
 
 War with Germany is also quite easy, mainly since it does not defend its Atlantic wall. Most players will instead travel through North Africa and Italy, proceeded by an invasion of France.
 
-Gaming the System
------------------
+## Gaming the System
 
 A player of the USA can use a litany of [gamey tactics](/wiki/Gamey_tactics "Gamey tactics") , including:
 
-*   Early declaration of war to erase the IC penalties
-*   Early to join the Allies, and help research
+- Early declaration of war to erase the IC penalties
+- Early to join the Allies, and help research

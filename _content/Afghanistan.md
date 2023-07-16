@@ -1,11 +1,12 @@
 ---
 title: Afghanistan
 ---
- [Country guides](/wiki/Country_guides "Country guides")
+
+[Country guides](/wiki/Country_guides "Country guides")
 
 [Major powers](/wiki/Major_power "Major power")
 
-* * *
+---
 
 [France](/wiki/France "France")  
 [Germany](/wiki/Germany "Germany")  
@@ -17,7 +18,7 @@ title: Afghanistan
 
 Regional powers
 
-* * *
+---
 
 [Argentina](/wiki/Argentina "Argentina")  
 [Australia](/wiki/Australia "Australia")  
@@ -41,7 +42,7 @@ Regional powers
 
 [Minor powers](/wiki/Minor_power "Minor power")
 
-* * *
+---
 
 [Austria](/wiki/Austria "Austria")  
 [Chile](/wiki/index.php?title=Chile&action=edit&redlink=1 "Chile (page does not exist)")  
@@ -60,7 +61,7 @@ Regional powers
 
 [Micro powers](/wiki/Micro_power "Micro power")
 
-* * *
+---
 
 Afghanistan  
 [Albania](/wiki/Albania "Albania")  
@@ -104,35 +105,31 @@ Afghanistan
 
 **Afghanistan** is small mountain nation in central asia. It's neighbours are [USSR](/wiki/index.php?title=USSR&action=edit&redlink=1 "USSR (page does not exist)") , [British India](/wiki/United_Kingdom "United Kingdom") , [Sinkiang](/wiki/index.php?title=Sinkiang&action=edit&redlink=1 "Sinkiang (page does not exist)") and [Persia](/wiki/Persia "Persia") . You have 6 IC but, because your ministers are so damned bad, you can use only 5.
 
-Contents
---------
+## Contents
 
-*   [1 General tips](#General_tips)
-*   [2 Preview](#Preview)
-*   [3 Before war](#Before_war)
-    *   [3.1 Policies](#Policies)
-    *   [3.2 Research and build](#Research_and_build)
-*   [4 First expansions](#First_expansions)
-    *   [4.1 Persia](#Persia)
-    *   [4.2 Sinkiang](#Sinkiang)
-    *   [4.3 Whats next?](#Whats_next.3F)
-*   [5 Against Soviet Union](#Against_Soviet_Union)
+- [1 General tips](#General_tips)
+- [2 Preview](#Preview)
+- [3 Before war](#Before_war)
+  - [3.1 Policies](#Policies)
+  - [3.2 Research and build](#Research_and_build)
+- [4 First expansions](#First_expansions)
+  - [4.1 Persia](#Persia)
+  - [4.2 Sinkiang](#Sinkiang)
+  - [4.3 Whats next?](#Whats_next.3F)
+- [5 Against Soviet Union](#Against_Soviet_Union)
 
-General tips
-------------
+## General tips
 
 1.  Defeat your weak enemies in 1936, before they can build up their armies.
 2.  Best doctrines for Afghanistan are Mobility Focus/Human Wave, or Firepower Focus/Grand Battle Plan.
 3.  Build only infantry and cavalry.
 4.  Don't join the Axis. This will lead you to a two front war.
 
-Preview
--------
+## Preview
 
 As you see, Afghanistan is not a very powerful nation. On the contrary, it's between two of the world's greatest nations. But there are a few good things. You have 7 divisions, one of them is normal infantry and another is cavalry. Their strength is low, but that's not a problem. Just reinforce them to 100 strength and you have the most powerful army in central Asia. You don't have many resources, but you get enough resources from your motherland. You have surpluses of energy and you can trade it away for supplies. Your state may be isolated by major powers, but I've played HoI2 over one year, and the AI has never attacked Afghanistan. But most things make your game hard. Your slides suck, but it's not a problem, because you never have to hurry playing Afghanistan. Your government's isolationism makes it a bit difficult to declare wars, because your dissent skyrockets in every DoW. Your ministers are also very bad: _[Muhammed Zahir](http://en.wikipedia.org/wiki/Mohammed_Zahir_Shah)_ is an _autocratic charmer_ , which means -10% IC.
 
-Before war
-----------
+## Before war
 
 Preparing your nation for war!
 
@@ -146,8 +143,7 @@ You have only one tech team, and it's really bad. Skill level is 1 and component
 
 You have to build 'normal' infantry units, which forms the core of your armies. Militias are also good, because you have so little IC. Build and use cavalry as quick-movement troops, that you can use to encircle enemies, break frontlines etc. But remember, that Afghanistan lacks the IC to fight Blitzkrieg. Put your artillery on militia units, that makes them more powerful.
 
-First expansions
-----------------
+## First expansions
 
 ### Persia
 
@@ -161,7 +157,6 @@ After annexing Persia turn around and move all your troops to Sinkiang border. Y
 
 You now have have about 10 IC, but you can use only portion of it. Now you have years of time to build up. Build enough consumer goods that your dissent is again zero. You can try to conquer Tibet and Yunnan clique (before Yunnan joins to Chinese united front). Build new divisions and prepare for war...
 
-Against Soviet Union
---------------------
+## Against Soviet Union
 
 Germans DoW USSR in 1941. Wait that they conquer all big cities, like Leningrad, Stalingrad, Moscow, Kiev etc. Wait that Red army is almost destroyed and Germans attacking over Ural and Caucasus. Then declare war, right year would be some 1943. If you can take Baku oilfields, it's great thing, but declaring war so early will almost surely condemn you to die. But in Central Asia there's enough to conquer anyway. From Sinkiang you can push on Soviet satellites in Far East.

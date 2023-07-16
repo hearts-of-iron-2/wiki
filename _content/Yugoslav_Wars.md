@@ -1,7 +1,8 @@
 ---
 title: Yugoslav_Wars
 ---
- \[ [\[1\]](http://img38.imageshack.us/img38/9817/logojx.png) \]
+
+\[ [\[1\]](http://img38.imageshack.us/img38/9817/logojx.png) \]
 
 \[ [\[2\]](http://img690.imageshack.us/img690/1423/selectionbutton.jpg) \]
 
@@ -15,7 +16,6 @@ The countrys:
 
 ALB Albania BOS Bosnia CRO Croatia SER Serbia SLV Slovenia MTN Montenegro U00 NATO U01 Kosova U02 Vojvodina U03 Herzeg-Bosna U04 Republika Srpska U05 Sandzak U06 Republika Srpska Krajina U07 Serbia and Montenegro U08 Federal Republic of Yugoslavia U09 Autonomous Province of Western Bosnia U10 Macedonia YUG Socialist Federal Republic of Yugoslavia
 
-  
 Timelines:
 
 Albania Albania, recently regaining its independancy from the Axis occupation of World War II, was the only Country in the East that was able to throw the Germans out without the assistance of Communist Troops. Enver Hoxha, a French-Educated Politican became the leader of the Communist Party, and ruled the country with an iron fist for almost 40 Years, established an Alliance with the Soviet Union. After breaking with the Soviet Union, Albania was closely tied to Mao Zedong's China, receiving a lot of aid from the Asian power. In the 70s, following the death of Mao Zedong and the ending of Albania's political ties with China, a lot of state officials were purged in the 70s. Following the Death of Enver Hoxha, the Iron Fisted Dictator of Albania, only time may tell what the future of this country might be, a country that has fought so hard and long for its independence...

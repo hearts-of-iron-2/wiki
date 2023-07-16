@@ -1,11 +1,12 @@
 ---
 title: Aircraft_Tech_Tree
 ---
- [Tech Tree](/wiki/Tech_Tree "Tech Tree")
+
+[Tech Tree](/wiki/Tech_Tree "Tech Tree")
 
 Regular
 
-* * *
+---
 
 Aircraft  
 [Armor and Artillery](/wiki/Armor_and_Artillery_Tech_Tree "Armor and Artillery Tech Tree")  
@@ -16,56 +17,54 @@ Aircraft
 
 Doctrines
 
-* * *
+---
 
 [Land](/wiki/Land_Doctrine_Tech_Tree "Land Doctrine Tech Tree")  
 [Air](/wiki/Air_Doctrine_Tech_Tree "Air Doctrine Tech Tree")  
 [Naval](/wiki/Naval_Doctrine_Tech_Tree "Naval Doctrine Tech Tree")
 
-Contents
---------
+## Contents
 
-*   [1 Early Fighter](#Early_Fighter)
-    *   [1.1 Interwar Fighter](#Interwar_Fighter)
-    *   [1.2 Early Fighter](#Early_Fighter_2)
-*   [2 Interceptor](#Interceptor)
-    *   [2.1 Basic Interceptor](#Basic_Interceptor)
-    *   [2.2 Improved Interceptor](#Improved_Interceptor)
-    *   [2.3 Advanced Interceptor](#Advanced_Interceptor)
-*   [3 Fighter](#Fighter)
-    *   [3.1 Basic Fighter](#Basic_Fighter)
-    *   [3.2 Improved Fighter](#Improved_Fighter)
-    *   [3.3 Advanced Fighter](#Advanced_Fighter)
-*   [4 Escort Fighter](#Escort_Fighter)
-    *   [4.1 Basic Escort Fighter](#Basic_Escort_Fighter)
-    *   [4.2 Improved Escort Fighter](#Improved_Escort_Fighter)
-    *   [4.3 Advanced Escort Fighter](#Advanced_Escort_Fighter)
-*   [5 Early Bomber](#Early_Bomber)
-    *   [5.1 Interwar Bomber](#Interwar_Bomber)
-    *   [5.2 Early Bomber](#Early_Bomber_2)
-*   [6 Tactical Bomber](#Tactical_Bomber)
-    *   [6.1 Basic Tactical Bomber](#Basic_Tactical_Bomber)
-    *   [6.2 Improved Tactical Bomber](#Improved_Tactical_Bomber)
-    *   [6.3 Advanced Tactical Bomber](#Advanced_Tactical_Bomber)
-*   [7 Close Air Support](#Close_Air_Support)
-    *   [7.1 Basic Close Air Support Aircraft](#Basic_Close_Air_Support_Aircraft)
-    *   [7.2 Improved Close Air Support Aircraft](#Improved_Close_Air_Support_Aircraft)
-    *   [7.3 Advanced Close Air Support Aircraft](#Advanced_Close_Air_Support_Aircraft)
-*   [8 Naval Bomber](#Naval_Bomber)
-    *   [8.1 Basic Naval Bomber](#Basic_Naval_Bomber)
-    *   [8.2 Improved Naval Bomber](#Improved_Naval_Bomber)
-    *   [8.3 Advanced Naval Bomber](#Advanced_Naval_Bomber)
-*   [9 Strategic Bomber](#Strategic_Bomber)
-    *   [9.1 Basic Strategic Bomber](#Basic_Strategic_Bomber)
-    *   [9.2 Improved Strategic Bomber](#Improved_Strategic_Bomber)
-    *   [9.3 Advanced Strategic Bomber](#Advanced_Strategic_Bomber)
-*   [10 Air Transport](#Air_Transport)
-    *   [10.1 Basic Air Transport](#Basic_Air_Transport)
-    *   [10.2 Improved Air Transport](#Improved_Air_Transport)
-    *   [10.3 Advanced Air Transport](#Advanced_Air_Transport)
+- [1 Early Fighter](#Early_Fighter)
+  - [1.1 Interwar Fighter](#Interwar_Fighter)
+  - [1.2 Early Fighter](#Early_Fighter_2)
+- [2 Interceptor](#Interceptor)
+  - [2.1 Basic Interceptor](#Basic_Interceptor)
+  - [2.2 Improved Interceptor](#Improved_Interceptor)
+  - [2.3 Advanced Interceptor](#Advanced_Interceptor)
+- [3 Fighter](#Fighter)
+  - [3.1 Basic Fighter](#Basic_Fighter)
+  - [3.2 Improved Fighter](#Improved_Fighter)
+  - [3.3 Advanced Fighter](#Advanced_Fighter)
+- [4 Escort Fighter](#Escort_Fighter)
+  - [4.1 Basic Escort Fighter](#Basic_Escort_Fighter)
+  - [4.2 Improved Escort Fighter](#Improved_Escort_Fighter)
+  - [4.3 Advanced Escort Fighter](#Advanced_Escort_Fighter)
+- [5 Early Bomber](#Early_Bomber)
+  - [5.1 Interwar Bomber](#Interwar_Bomber)
+  - [5.2 Early Bomber](#Early_Bomber_2)
+- [6 Tactical Bomber](#Tactical_Bomber)
+  - [6.1 Basic Tactical Bomber](#Basic_Tactical_Bomber)
+  - [6.2 Improved Tactical Bomber](#Improved_Tactical_Bomber)
+  - [6.3 Advanced Tactical Bomber](#Advanced_Tactical_Bomber)
+- [7 Close Air Support](#Close_Air_Support)
+  - [7.1 Basic Close Air Support Aircraft](#Basic_Close_Air_Support_Aircraft)
+  - [7.2 Improved Close Air Support Aircraft](#Improved_Close_Air_Support_Aircraft)
+  - [7.3 Advanced Close Air Support Aircraft](#Advanced_Close_Air_Support_Aircraft)
+- [8 Naval Bomber](#Naval_Bomber)
+  - [8.1 Basic Naval Bomber](#Basic_Naval_Bomber)
+  - [8.2 Improved Naval Bomber](#Improved_Naval_Bomber)
+  - [8.3 Advanced Naval Bomber](#Advanced_Naval_Bomber)
+- [9 Strategic Bomber](#Strategic_Bomber)
+  - [9.1 Basic Strategic Bomber](#Basic_Strategic_Bomber)
+  - [9.2 Improved Strategic Bomber](#Improved_Strategic_Bomber)
+  - [9.3 Advanced Strategic Bomber](#Advanced_Strategic_Bomber)
+- [10 Air Transport](#Air_Transport)
+  - [10.1 Basic Air Transport](#Basic_Air_Transport)
+  - [10.2 Improved Air Transport](#Improved_Air_Transport)
+  - [10.3 Advanced Air Transport](#Advanced_Air_Transport)
 
-Early Fighter
--------------
+## Early Fighter
 
 ### Interwar Fighter
 
@@ -75,8 +74,7 @@ Early Fighter
 
 <table border="1" cellpadding="5" width="98%"><tbody><tr><td><ul><li>Historic Year: 1936</li><li>Prerequisites:</li></ul><dl><dd><ul><li><a href="/wiki/Aircraft_Tech_Tree#Interwar_Fighter" title="Aircraft Tech Tree">Interwar Fighter</a></li></ul></dd></dl><ul><li>Effects:</li></ul><dl><dd><ul><li>New Model interceptor 1</li></ul></dd></dl></td><td><p>8 - <a class="image" href="/wiki/File:Aeronautics.png" title="aeronautics"><img alt="aeronautics" data-file-height="24" data-file-width="24" data-url="/images/a/a1/Aeronautics.png" decoding="async" height="24" loading="lazy" src="/images/a/a1/Aeronautics.png" width="24"> </a>- Early Short Range Engine</p><p>8 - <a class="image" href="/wiki/File:Aeronautics.png" title="aeronautics"><img alt="aeronautics" data-file-height="24" data-file-width="24" data-url="/images/a/a1/Aeronautics.png" decoding="async" height="24" loading="lazy" src="/images/a/a1/Aeronautics.png" width="24"> </a>- Early Fighter Airframe</p><p>6 - <a class="image" href="/wiki/File:Artillery.png" title="artillery"><img alt="artillery" data-file-height="24" data-file-width="24" data-url="/images/d/d8/Artillery.png" decoding="async" height="24" loading="lazy" src="/images/d/d8/Artillery.png" width="24"> </a>- 6.5mm MGs</p><p>8 - <a class="image" href="/wiki/File:Electronics.png" title="electronics"><img alt="electronics" data-file-height="24" data-file-width="24" data-url="/images/d/dd/Electronics.png" decoding="async" height="24" loading="lazy" src="/images/d/dd/Electronics.png" width="24"> </a>- Optical Signaling</p><p>8 - <a class="image" href="/wiki/File:Technical_efficiency.png" title="technical_efficiency"><img alt="technical_efficiency" data-file-height="24" data-file-width="24" data-url="/images/9/9d/Technical_efficiency.png" decoding="async" height="24" loading="lazy" src="/images/9/9d/Technical_efficiency.png" width="24"> </a>- Early Fighter Prototype Tests (D)</p></td></tr></tbody></table>
 
-Interceptor
------------
+## Interceptor
 
 ### Basic Interceptor
 
@@ -90,8 +88,7 @@ Interceptor
 
 <table border="1" cellpadding="5" width="98%"><tbody><tr><td><ul><li>Historic Year: 1943</li><li>Prerequisites:</li></ul><dl><dd><ul><li><a href="/wiki/Aircraft_Tech_Tree#Improved_Interceptor" title="Aircraft Tech Tree">Improved Interceptor</a></li></ul></dd></dl><ul><li>Effects:</li></ul><dl><dd><ul><li>New Model interceptor 4</li><li>Model is now obsolete. interceptor 2</li></ul></dd></dl></td><td><p>8 - <a class="image" href="/wiki/File:Aeronautics.png" title="aeronautics"><img alt="aeronautics" data-file-height="24" data-file-width="24" data-url="/images/a/a1/Aeronautics.png" decoding="async" height="24" loading="lazy" src="/images/a/a1/Aeronautics.png" width="24"> </a>- Advanced Short Range Engine</p><p>8 - <a class="image" href="/wiki/File:Aeronautics.png" title="aeronautics"><img alt="aeronautics" data-file-height="24" data-file-width="24" data-url="/images/a/a1/Aeronautics.png" decoding="async" height="24" loading="lazy" src="/images/a/a1/Aeronautics.png" width="24"> </a>- Advanced Interceptor Airframe</p><p>8 - <a class="image" href="/wiki/File:Artillery.png" title="artillery"><img alt="artillery" data-file-height="24" data-file-width="24" data-url="/images/d/d8/Artillery.png" decoding="async" height="24" loading="lazy" src="/images/d/d8/Artillery.png" width="24"> </a>- 20mm Cannons</p><p>8 - <a class="image" href="/wiki/File:Electronics.png" title="electronics"><img alt="electronics" data-file-height="24" data-file-width="24" data-url="/images/d/dd/Electronics.png" decoding="async" height="24" loading="lazy" src="/images/d/dd/Electronics.png" width="24"> </a>- Basic Centimetric Airborne Interceptor Radar</p><p>8 - <a class="image" href="/wiki/File:Technical_efficiency.png" title="technical_efficiency"><img alt="technical_efficiency" data-file-height="24" data-file-width="24" data-url="/images/9/9d/Technical_efficiency.png" decoding="async" height="24" loading="lazy" src="/images/9/9d/Technical_efficiency.png" width="24"> </a>- Advanced Interceptor Prototype Tests (D)</p></td></tr></tbody></table>
 
-Fighter
--------
+## Fighter
 
 ### Basic Fighter
 
@@ -105,8 +102,7 @@ Fighter
 
 <table border="1" cellpadding="5" width="98%"><tbody><tr><td><ul><li>Historic Year: 1943</li><li>Prerequisites:</li></ul><dl><dd><ul><li><a href="/wiki/Aircraft_Tech_Tree#Improved_Fighter" title="Aircraft Tech Tree">Improved Fighter</a></li></ul></dd></dl><ul><li>Effects:</li></ul><dl><dd><ul><li>New Model multi_role 2</li><li>Model is now obsolete. multi_role 0</li></ul></dd></dl></td><td><p>8 - <a class="image" href="/wiki/File:Aeronautics.png" title="aeronautics"><img alt="aeronautics" data-file-height="24" data-file-width="24" data-url="/images/a/a1/Aeronautics.png" decoding="async" height="24" loading="lazy" src="/images/a/a1/Aeronautics.png" width="24"> </a>- Advanced Medium Range Engine</p><p>8 - <a class="image" href="/wiki/File:Aeronautics.png" title="aeronautics"><img alt="aeronautics" data-file-height="24" data-file-width="24" data-url="/images/a/a1/Aeronautics.png" decoding="async" height="24" loading="lazy" src="/images/a/a1/Aeronautics.png" width="24"> </a>- Advanced Fighter Airframe</p><p>8 - <a class="image" href="/wiki/File:Artillery.png" title="artillery"><img alt="artillery" data-file-height="24" data-file-width="24" data-url="/images/d/d8/Artillery.png" decoding="async" height="24" loading="lazy" src="/images/d/d8/Artillery.png" width="24"> </a>- 20mm Cannons</p><p>8 - <a class="image" href="/wiki/File:Electronics.png" title="electronics"><img alt="electronics" data-file-height="24" data-file-width="24" data-url="/images/d/dd/Electronics.png" decoding="async" height="24" loading="lazy" src="/images/d/dd/Electronics.png" width="24"> </a>- Basic Centimetric Airborne Interceptor Radar</p><p>8 - <a class="image" href="/wiki/File:Technical_efficiency.png" title="technical_efficiency"><img alt="technical_efficiency" data-file-height="24" data-file-width="24" data-url="/images/9/9d/Technical_efficiency.png" decoding="async" height="24" loading="lazy" src="/images/9/9d/Technical_efficiency.png" width="24"> </a>- Advanced Fighter Prototype Tests (D)</p></td></tr></tbody></table>
 
-Escort Fighter
---------------
+## Escort Fighter
 
 ### Basic Escort Fighter
 
@@ -120,8 +116,7 @@ Escort Fighter
 
 <table border="1" cellpadding="5" width="98%"><tbody><tr><td><ul><li>Historic Year: 1943</li><li>Prerequisites:</li></ul><dl><dd><ul><li><a href="/wiki/Aircraft_Tech_Tree#Improved_Escort_Fighter" title="Aircraft Tech Tree">Improved Escort Fighter</a></li></ul></dd></dl><ul><li>Effects:</li></ul><dl><dd><ul><li>New Model escort 2</li><li>Model is now obsolete. escort 0</li></ul></dd></dl></td><td><p>8 - <a class="image" href="/wiki/File:Aeronautics.png" title="aeronautics"><img alt="aeronautics" data-file-height="24" data-file-width="24" data-url="/images/a/a1/Aeronautics.png" decoding="async" height="24" loading="lazy" src="/images/a/a1/Aeronautics.png" width="24"> </a>- Advanced Long Range Engine</p><p>8 - <a class="image" href="/wiki/File:Aeronautics.png" title="aeronautics"><img alt="aeronautics" data-file-height="24" data-file-width="24" data-url="/images/a/a1/Aeronautics.png" decoding="async" height="24" loading="lazy" src="/images/a/a1/Aeronautics.png" width="24"> </a>- Advanced Escort Fighter Airframe</p><p>8 - <a class="image" href="/wiki/File:Artillery.png" title="artillery"><img alt="artillery" data-file-height="24" data-file-width="24" data-url="/images/d/d8/Artillery.png" decoding="async" height="24" loading="lazy" src="/images/d/d8/Artillery.png" width="24"> </a>- 20mm Cannons</p><p>8 - <a class="image" href="/wiki/File:Electronics.png" title="electronics"><img alt="electronics" data-file-height="24" data-file-width="24" data-url="/images/d/dd/Electronics.png" decoding="async" height="24" loading="lazy" src="/images/d/dd/Electronics.png" width="24"> </a>- Basic Centimetric Airborne Interceptor Radar</p><p>8 - <a class="image" href="/wiki/File:Technical_efficiency.png" title="technical_efficiency"><img alt="technical_efficiency" data-file-height="24" data-file-width="24" data-url="/images/9/9d/Technical_efficiency.png" decoding="async" height="24" loading="lazy" src="/images/9/9d/Technical_efficiency.png" width="24"> </a>- Advanced Escort Fighter Prototype Tests (D)</p></td></tr></tbody></table>
 
-Early Bomber
-------------
+## Early Bomber
 
 ### Interwar Bomber
 
@@ -131,8 +126,7 @@ Early Bomber
 
 <table border="1" cellpadding="5" width="98%"><tbody><tr><td><ul><li>Historic Year: 1936</li><li>Prerequisites:</li></ul><dl><dd><ul><li><a href="/wiki/Aircraft_Tech_Tree#Interwar_Bomber" title="Aircraft Tech Tree">Interwar Bomber</a></li></ul></dd></dl><ul><li>Effects:</li></ul><dl><dd><ul><li>New Model tactical_bomber 1</li></ul></dd></dl></td><td><p>8 - <a class="image" href="/wiki/File:Aeronautics.png" title="aeronautics"><img alt="aeronautics" data-file-height="24" data-file-width="24" data-url="/images/a/a1/Aeronautics.png" decoding="async" height="24" loading="lazy" src="/images/a/a1/Aeronautics.png" width="24"> </a>- Early Short-Range Bomber Engine</p><p>8 - <a class="image" href="/wiki/File:Aeronautics.png" title="aeronautics"><img alt="aeronautics" data-file-height="24" data-file-width="24" data-url="/images/a/a1/Aeronautics.png" decoding="async" height="24" loading="lazy" src="/images/a/a1/Aeronautics.png" width="24"> </a>- Early Bomber Airframe</p><p>8 - <a class="image" href="/wiki/File:Mechanics.png" title="mechanics"><img alt="mechanics" data-file-height="24" data-file-width="24" data-url="/images/a/a1/Mechanics.png" decoding="async" height="24" loading="lazy" src="/images/a/a1/Mechanics.png" width="24"> </a>- Internal Bomb Loads</p><p>8 - <a class="image" href="/wiki/File:Electronics.png" title="electronics"><img alt="electronics" data-file-height="24" data-file-width="24" data-url="/images/d/dd/Electronics.png" decoding="async" height="24" loading="lazy" src="/images/d/dd/Electronics.png" width="24"> </a>- Improved Radio Navigation</p><p>8 - <a class="image" href="/wiki/File:Technical_efficiency.png" title="technical_efficiency"><img alt="technical_efficiency" data-file-height="24" data-file-width="24" data-url="/images/9/9d/Technical_efficiency.png" decoding="async" height="24" loading="lazy" src="/images/9/9d/Technical_efficiency.png" width="24"> </a>- Early Bomber Prototype Tests (D)</p></td></tr></tbody></table>
 
-Tactical Bomber
----------------
+## Tactical Bomber
 
 ### Basic Tactical Bomber
 
@@ -146,8 +140,7 @@ Tactical Bomber
 
 <table border="1" cellpadding="5" width="98%"><tbody><tr><td><ul><li>Historic Year: 1943</li><li>Prerequisites:</li></ul><dl><dd><ul><li><a href="/wiki/Aircraft_Tech_Tree#Improved_Tactical_Bomber" title="Aircraft Tech Tree">Improved Tactical Bomber</a></li></ul></dd></dl><ul><li>Effects:</li></ul><dl><dd><ul><li>New Model tactical_bomber 4</li><li>Model is now obsolete. tactical_bomber 2</li></ul></dd></dl></td><td><p>8 - <a class="image" href="/wiki/File:Aeronautics.png" title="aeronautics"><img alt="aeronautics" data-file-height="24" data-file-width="24" data-url="/images/a/a1/Aeronautics.png" decoding="async" height="24" loading="lazy" src="/images/a/a1/Aeronautics.png" width="24"> </a>- Advanced Medium-Range Bomber Engine</p><p>8 - <a class="image" href="/wiki/File:Aeronautics.png" title="aeronautics"><img alt="aeronautics" data-file-height="24" data-file-width="24" data-url="/images/a/a1/Aeronautics.png" decoding="async" height="24" loading="lazy" src="/images/a/a1/Aeronautics.png" width="24"> </a>- Advanced Medium Bomber Airframe</p><p>8 - <a class="image" href="/wiki/File:Chemistry.png" title="chemistry"><img alt="chemistry" data-file-height="24" data-file-width="24" data-url="/images/1/19/Chemistry.png" decoding="async" height="24" loading="lazy" src="/images/1/19/Chemistry.png" width="24"> </a>- 5 ton Freefall Bombs</p><p>8 - <a class="image" href="/wiki/File:Electronics.png" title="electronics"><img alt="electronics" data-file-height="24" data-file-width="24" data-url="/images/d/dd/Electronics.png" decoding="async" height="24" loading="lazy" src="/images/d/dd/Electronics.png" width="24"> </a>- Improved Centimetric Airborne Radar Navigation</p><p>8 - <a class="image" href="/wiki/File:Technical_efficiency.png" title="technical_efficiency"><img alt="technical_efficiency" data-file-height="24" data-file-width="24" data-url="/images/9/9d/Technical_efficiency.png" decoding="async" height="24" loading="lazy" src="/images/9/9d/Technical_efficiency.png" width="24"> </a>- Advanced Medium-Range Bomber Prototype Tests (D)</p></td></tr></tbody></table>
 
-Close Air Support
------------------
+## Close Air Support
 
 ### Basic Close Air Support Aircraft
 
@@ -161,8 +154,7 @@ Close Air Support
 
 <table border="1" cellpadding="5" width="98%"><tbody><tr><td><ul><li>Historic Year: 1943</li><li>Prerequisites:</li></ul><dl><dd><ul><li><a href="/wiki/Aircraft_Tech_Tree#Improved_Close_Air_Support_Aircraft" title="Aircraft Tech Tree">Improved Close Air Support Aircraft</a></li></ul></dd></dl><ul><li>Effects:</li></ul><dl><dd><ul><li>New Model cas 2</li><li>Model is now obsolete. cas 0</li></ul></dd></dl></td><td><p>8 - <a class="image" href="/wiki/File:Aeronautics.png" title="aeronautics"><img alt="aeronautics" data-file-height="24" data-file-width="24" data-url="/images/a/a1/Aeronautics.png" decoding="async" height="24" loading="lazy" src="/images/a/a1/Aeronautics.png" width="24"> </a>- Advanced Short-Range Bomber Engine</p><p>8 - <a class="image" href="/wiki/File:Aeronautics.png" title="aeronautics"><img alt="aeronautics" data-file-height="24" data-file-width="24" data-url="/images/a/a1/Aeronautics.png" decoding="async" height="24" loading="lazy" src="/images/a/a1/Aeronautics.png" width="24"> </a>- Advanced Light Bomber Airframe</p><p>8 - <a class="image" href="/wiki/File:Chemistry.png" title="chemistry"><img alt="chemistry" data-file-height="24" data-file-width="24" data-url="/images/1/19/Chemistry.png" decoding="async" height="24" loading="lazy" src="/images/1/19/Chemistry.png" width="24"> </a>- Napalm Bombs</p><p>8 - <a class="image" href="/wiki/File:Electronics.png" title="electronics"><img alt="electronics" data-file-height="24" data-file-width="24" data-url="/images/d/dd/Electronics.png" decoding="async" height="24" loading="lazy" src="/images/d/dd/Electronics.png" width="24"> </a>- Improved Centimetric Airborne Radar Navigation</p><p>8 - <a class="image" href="/wiki/File:Technical_efficiency.png" title="technical_efficiency"><img alt="technical_efficiency" data-file-height="24" data-file-width="24" data-url="/images/9/9d/Technical_efficiency.png" decoding="async" height="24" loading="lazy" src="/images/9/9d/Technical_efficiency.png" width="24"> </a>- Advanced Light Bomber Prototype Tests (D)</p></td></tr></tbody></table>
 
-Naval Bomber
-------------
+## Naval Bomber
 
 ### Basic Naval Bomber
 
@@ -176,8 +168,7 @@ Naval Bomber
 
 <table border="1" cellpadding="5" width="98%"><tbody><tr><td><ul><li>Historic Year: 1943</li><li>Prerequisites:</li></ul><dl><dd><ul><li><a href="/wiki/Aircraft_Tech_Tree#Improved_Naval_Bomber" title="Aircraft Tech Tree">Improved Naval Bomber</a></li></ul></dd></dl><ul><li>Effects:</li></ul><dl><dd><ul><li>New Model naval_bomber 2</li><li>Model is now obsolete. naval_bomber 0</li></ul></dd></dl></td><td><p>8 - <a class="image" href="/wiki/File:Aeronautics.png" title="aeronautics"><img alt="aeronautics" data-file-height="24" data-file-width="24" data-url="/images/a/a1/Aeronautics.png" decoding="async" height="24" loading="lazy" src="/images/a/a1/Aeronautics.png" width="24"> </a>- Advanced Medium-Range Bomber Engine</p><p>8 - <a class="image" href="/wiki/File:Aeronautics.png" title="aeronautics"><img alt="aeronautics" data-file-height="24" data-file-width="24" data-url="/images/a/a1/Aeronautics.png" decoding="async" height="24" loading="lazy" src="/images/a/a1/Aeronautics.png" width="24"> </a>- Advanced Medium Bomber Airframe</p><p>8 - <a class="image" href="/wiki/File:Chemistry.png" title="chemistry"><img alt="chemistry" data-file-height="24" data-file-width="24" data-url="/images/1/19/Chemistry.png" decoding="async" height="24" loading="lazy" src="/images/1/19/Chemistry.png" width="24"> </a>- Airborne Homing Torpedos</p><p>8 - <a class="image" href="/wiki/File:Electronics.png" title="electronics"><img alt="electronics" data-file-height="24" data-file-width="24" data-url="/images/d/dd/Electronics.png" decoding="async" height="24" loading="lazy" src="/images/d/dd/Electronics.png" width="24"> </a>- Improved Centimetric Airborne Radar Navigation</p><p>8 - <a class="image" href="/wiki/File:Technical_efficiency.png" title="technical_efficiency"><img alt="technical_efficiency" data-file-height="24" data-file-width="24" data-url="/images/9/9d/Technical_efficiency.png" decoding="async" height="24" loading="lazy" src="/images/9/9d/Technical_efficiency.png" width="24"> </a>- Advanced Medium-Range Bomber Prototype Tests (D)</p></td></tr></tbody></table>
 
-Strategic Bomber
-----------------
+## Strategic Bomber
 
 ### Basic Strategic Bomber
 
@@ -191,8 +182,7 @@ Strategic Bomber
 
 <table border="1" cellpadding="5" width="98%"><tbody><tr><td><ul><li>Historic Year: 1943</li><li>Prerequisites:</li></ul><dl><dd><ul><li><a href="/wiki/Aircraft_Tech_Tree#Improved_Strategic_Bomber" title="Aircraft Tech Tree">Improved Strategic Bomber</a></li></ul></dd></dl><ul><li>Effects:</li></ul><dl><dd><ul><li>New Model strategic_bomber 2</li><li>Model is now obsolete. strategic_bomber 0</li></ul></dd></dl></td><td><p>8 - <a class="image" href="/wiki/File:Aeronautics.png" title="aeronautics"><img alt="aeronautics" data-file-height="24" data-file-width="24" data-url="/images/a/a1/Aeronautics.png" decoding="async" height="24" loading="lazy" src="/images/a/a1/Aeronautics.png" width="24"> </a>- Advanced Long-Range Bomber Engine</p><p>8 - <a class="image" href="/wiki/File:Aeronautics.png" title="aeronautics"><img alt="aeronautics" data-file-height="24" data-file-width="24" data-url="/images/a/a1/Aeronautics.png" decoding="async" height="24" loading="lazy" src="/images/a/a1/Aeronautics.png" width="24"> </a>- Advanced Heavy Bomber Airframe</p><p>8 - <a class="image" href="/wiki/File:Artillery.png" title="artillery"><img alt="artillery" data-file-height="24" data-file-width="24" data-url="/images/d/d8/Artillery.png" decoding="async" height="24" loading="lazy" src="/images/d/d8/Artillery.png" width="24"> </a>- Payload Drop Computers</p><p>8 - <a class="image" href="/wiki/File:Electronics.png" title="electronics"><img alt="electronics" data-file-height="24" data-file-width="24" data-url="/images/d/dd/Electronics.png" decoding="async" height="24" loading="lazy" src="/images/d/dd/Electronics.png" width="24"> </a>- Improved Centimetric Airborne Radar Navigation</p><p>8 - <a class="image" href="/wiki/File:Technical_efficiency.png" title="technical_efficiency"><img alt="technical_efficiency" data-file-height="24" data-file-width="24" data-url="/images/9/9d/Technical_efficiency.png" decoding="async" height="24" loading="lazy" src="/images/9/9d/Technical_efficiency.png" width="24"> </a>- Advanced Heavy Bomber Prototype Tests (D)</p></td></tr></tbody></table>
 
-Air Transport
--------------
+## Air Transport
 
 ### Basic Air Transport
 
