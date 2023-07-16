@@ -5,7 +5,9 @@
     "build": "next build",
     "static": "next build && next export && touch ./out/.nojekyll",
     "start": "next start",
-    "typecheck": "tsc"
+    "typecheck": "tsc",
+    "lint-staged": "lint-staged",
+    "husky": "husky install"
   },
   "dependencies": {
     "classnames": "^2.3.2",
@@ -32,6 +34,8 @@
     "daisyui": "^3.1.6",
     "directory-tree": "^3.5.1",
     "glob": "^10.3.1",
+    "husky": "^8.0.3",
+    "lint-staged": "^13.2.3",
     "next-pwa": "^5.6.0",
     "postcss": "^8.4.24",
     "prettier": "^3.0.0",
