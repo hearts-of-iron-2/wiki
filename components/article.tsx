@@ -2,16 +2,16 @@ import ArticleType from "../interfaces/article";
 import ArticleBody from "./article-body";
 
 type Props = {
-  content: ArticleType;
+  article: ArticleType;
 };
 
-const Article = ({ content }: Props) => {
+const Article = ({ article }: Props) => {
   return (
     <article className="h-full w-full">
       <h1 className="text-4xl max-w-2xl">
-        {(content?.title?.toString() || "").replace(/_/gm, " ")}
+        {(article?.title?.toString() || "").replace(/_/gm, " ")}
       </h1>
-      <ArticleBody content={content?.content} />
+      <ArticleBody content={article?.html} />
     </article>
   );
 };

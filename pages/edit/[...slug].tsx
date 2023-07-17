@@ -1,19 +1,13 @@
-import {
-  getArticleBySlug,
-  getArticleSlugs,
-  getArticleTree,
-} from "../../lib/api";
-import markdownToHtml from "../../lib/markdownToHtml";
+import { getArticleBySlug, getArticleSlugs } from "../../lib/api";
 import type ArticleType from "../../interfaces/article";
-import WikiPage from "../../components/wiki-page";
+import EasyMdeComponent from "../../components/easymde";
 
 type Props = {
   article: ArticleType;
-  articleTree: any;
 };
 
-export default function Article({ article, articleTree }: Props) {
-  return <WikiPage articleTree={articleTree} article={article} />;
+export default function Edit({ article }: Props) {
+  return <EasyMdeComponent article={article} />;
 }
 
 type Params = {
@@ -28,24 +22,15 @@ export async function getStaticProps({ params }: Params) {
     "slug",
     "markdown",
   ]);
-  const markdown = article.markdown || "";
-  const html = await markdownToHtml(markdown);
-  const articleTree = getArticleTree();
-
   return {
     props: {
-      article: {
-        ...article,
-        html,
-      },
-      articleTree: articleTree,
+      article,
     },
   };
 }
 
 export async function getStaticPaths() {
   const articles = getArticleSlugs();
-
   return {
     paths: articles.map((a) => {
       return {

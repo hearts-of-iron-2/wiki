@@ -39,7 +39,7 @@ export default function WikiPage({ article, articleTree }: Props) {
                 />
               </svg>
             </label>
-            <Article content={article} />
+            <Article article={article} />
           </div>
         </div>
       </Container>

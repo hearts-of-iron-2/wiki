@@ -1,7 +1,7 @@
 type ArticleType = {
   slug: string;
   title: string;
-  content: string;
+  html: string;
   markdown: string;
 };
 
