@@ -1,5 +1,5 @@
 import { useEffect } from "react";
-import ArticleType from "../interfaces/article";
+import ArticleType from "../../interfaces/article";
 import "easymde/dist/easymde.min.css";
 
 type Props = {

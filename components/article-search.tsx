@@ -50,7 +50,6 @@ const ArticleSearch = ({ articleTree }: Props) => {
             const searchTerm = (e.target as HTMLInputElement).value;
             if (searchTerm && searchTerm !== "") {
               const searchResult = fuse.search(searchTerm).map((r) => r.item);
-              console.log(searchResult);
               setOpen(true);
               setVisibleArticleTree(searchResult);
             } else {
