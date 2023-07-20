@@ -47,6 +47,8 @@ export function getArticleBySlug(
 
   const items: Items = {};
 
+  items["path"] = fullPath;
+
   // Ensure only the minimal needed data is exposed
   fields.forEach((field) => {
     if (field === "slug") {

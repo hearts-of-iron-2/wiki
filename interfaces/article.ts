@@ -3,6 +3,7 @@ type ArticleType = {
   title: string;
   html: string;
   markdown: string;
+  path: string;
 };
 
 export default ArticleType;

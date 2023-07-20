@@ -1,14 +1,12 @@
-import { StateValue } from "xstate";
-
 type Props = {
   next: Function;
   previous: Function;
-  machine: any;
-  state: StateValue;
+  state: any;
 };
 
-const StepsComponent = ({ next, previous, machine, state }: Props) => {
+const StepsComponent = ({ next, previous, state }: Props) => {
   const generateSteps = () => {
+    const machine = state.machine;
     let res = [];
     let i = 0;
     let passedCurrent = false;
@@ -21,20 +19,19 @@ const StepsComponent = ({ next, previous, machine, state }: Props) => {
           {step}
         </li>
       );
-      passedCurrent = passedCurrent || step === state;
+      passedCurrent = passedCurrent || step === state.value;
     }
     return res;
   };
 
   const hasNext = (): boolean => {
-    const allStates = Object.keys(machine.states);
-    const statesLen = allStates.length;
-    return state !== allStates[statesLen - 1] && state !== "auth";
+    const next = state.machine.config.states[state.value].on["NEXT"];
+    return next && state.value !== "auth";
   };
 
   const hasPrevious = (): boolean => {
-    const allStates = Object.keys(machine.states);
-    return state !== allStates[0];
+    const previous = state.machine.config.states[state.value].on["PREV"];
+    return previous;
   };
 
   return (

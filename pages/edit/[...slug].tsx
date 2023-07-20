@@ -3,12 +3,14 @@ import type ArticleType from "../../interfaces/article";
 import EasyMdeComponent from "../../components/edit/easymde";
 import Layout from "../../components/layout";
 import Container from "../../components/container";
-import LoginComponent from "../../components/login";
-import MetaEditComponent from "../../components/edit/metaedit";
+import EditFinish from "../../components/edit/metaedit";
 import { useMachine } from "@xstate/react";
 import { editMachine } from "../../lib/state/editMachine";
 import StepsComponent from "../../components/edit/steps";
 import { StateValue } from "xstate";
+import LoginComponent from "../../components/login";
+import { useState } from "react";
+import { Commit } from "../../lib/types/commit";
 
 type Props = {
   article: ArticleType;
@@ -16,6 +18,12 @@ type Props = {
 
 export default function Edit({ article }: Props) {
   const [state, send] = useMachine(editMachine);
+  const [commit, setCommit] = useState<Commit>({
+    path: article.path,
+    newPath: article.path,
+    commitMessage: "Changing the content",
+    content: article.markdown,
+  });
 
   const next = () => {
     send("NEXT");
@@ -25,16 +33,14 @@ export default function Edit({ article }: Props) {
     send("PREV");
   };
 
-  const selectComponent = (state: StateValue, article: ArticleType) => {
+  const selectComponent = (state: StateValue) => {
     switch (state) {
       case "auth":
         return <LoginComponent success={next} />;
-      case "meta":
-        return <MetaEditComponent />;
       case "edit":
-        return <EasyMdeComponent article={article} />;
+        return <EasyMdeComponent commit={commit} setCommit={setCommit} />;
       case "finish":
-        return <div>finish</div>;
+        return <EditFinish commit={commit} />;
     }
   };
 
@@ -42,13 +48,8 @@ export default function Edit({ article }: Props) {
     <Layout>
       <Container>
         <div className="flex flex-col w-full">
-          <StepsComponent
-            next={next}
-            previous={previous}
-            machine={editMachine}
-            state={state.value}
-          />
-          {selectComponent(state.value, article)}
+          <StepsComponent next={next} previous={previous} state={state} />
+          {selectComponent(state.value)}
         </div>
       </Container>
     </Layout>

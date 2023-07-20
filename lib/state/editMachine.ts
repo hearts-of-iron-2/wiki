@@ -4,9 +4,8 @@ export const editMachine = createMachine({
   id: "edit",
   initial: "auth",
   states: {
-    auth: { on: { NEXT: "meta" } },
-    meta: { on: { NEXT: "edit", PREV: "auth" } },
-    edit: { on: { NEXT: "finish", PREV: "meta" } },
+    auth: { on: { NEXT: "edit" } },
+    edit: { on: { NEXT: "finish" } },
     finish: { on: { PREV: "edit" } },
   },
 });
