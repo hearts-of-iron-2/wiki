@@ -18,10 +18,9 @@ const EditFinish = ({ commit }: Props) => {
       newPath: path,
       content: btoa(commit.content),
     };
-    const response = supabase.functions.invoke("gh-update", {
+    supabase.functions.invoke("gh-update", {
       body: data,
     });
-    response.then((res) => console.log(res));
   };
 
   return (
