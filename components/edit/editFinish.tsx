@@ -10,17 +10,26 @@ type Props = {
 const EditFinish = ({ commit }: Props) => {
   const [commitMessage, setCommitMessage] = useState(commit.commitMessage);
   const [path, setPath] = useState(commit.path);
+  const [loading, setLoading] = useState(false);
+  const [error, setError] = useState(undefined);
+  const [successMessage, setSuccessMessage] = useState(undefined);
 
-  const commitChanges = () => {
+  const commitChanges = async () => {
     const data = {
       ...commit,
       commitMessage,
       newPath: path,
       content: btoa(commit.content),
     };
-    supabase.functions.invoke("gh-update", {
+    setLoading(true);
+    const response = await supabase.functions.invoke("gh-update", {
       body: data,
     });
+    if (response.error) {
+      setError(response.error);
+    }
+    setSuccessMessage("Updated successfully.");
+    setLoading(false);
   };
 
   return (
@@ -35,8 +44,23 @@ const EditFinish = ({ commit }: Props) => {
         value={path}
         onInput={(v: string) => setPath(v)}
       />
+      <div className={`m-4 w-fit alert alert-error ${error ? "" : "hidden"}`}>
+        <span>{error}</span>
+      </div>
+      <div
+        className={`m-4 w-fit alert alert-success ${
+          successMessage ? "" : "hidden"
+        }`}
+      >
+        <span>{successMessage}</span>
+      </div>
       <button onClick={commitChanges} className="btn btn-outline btn-success">
         Commit changes
+        <span
+          className={`loading loading-infinity loading-lg ${
+            loading ? "" : "hidden"
+          }`}
+        ></span>
       </button>
     </div>
   );
