@@ -27,8 +27,9 @@ export async function getStaticProps({ params }: Params) {
     "title",
     "slug",
     "markdown",
+    "content",
   ]);
-  const markdown = article.markdown || "";
+  const markdown = article.content || "";
   const html = await markdownToHtml(markdown);
   const articleTree = getArticleTree();
 

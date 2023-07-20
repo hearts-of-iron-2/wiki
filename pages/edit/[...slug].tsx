@@ -3,7 +3,7 @@ import type ArticleType from "../../interfaces/article";
 import EasyMdeComponent from "../../components/edit/easymde";
 import Layout from "../../components/layout";
 import Container from "../../components/container";
-import EditFinish from "../../components/edit/metaedit";
+import EditFinish from "../../components/edit/editFinish";
 import { useMachine } from "@xstate/react";
 import { editMachine } from "../../lib/state/editMachine";
 import StepsComponent from "../../components/edit/steps";

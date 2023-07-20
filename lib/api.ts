@@ -54,8 +54,12 @@ export function getArticleBySlug(
     if (field === "slug") {
       items[field] = realSlug;
     }
-    if (field === "markdown") {
+    if (field === "content") {
       items[field] = content;
+    }
+
+    if (field === "markdown") {
+      items[field] = fileContents;
     }
 
     if (typeof data[field] !== "undefined") {
