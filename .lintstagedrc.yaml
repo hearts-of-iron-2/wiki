@@ -1,0 +1,6 @@
+'*.tsx':
+  prettier --write
+'*.md':
+  prettier --write
+'*.ts':
+  prettier --write

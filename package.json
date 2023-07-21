@@ -5,13 +5,23 @@
     "build": "next build",
     "static": "next build && next export && touch ./out/.nojekyll",
     "start": "next start",
-    "typecheck": "tsc"
+    "typecheck": "tsc",
+    "lint-staged": "lint-staged",
+    "husky": "husky install"
   },
   "dependencies": {
+    "@supabase/auth-helpers-nextjs": "^0.7.3",
+    "@supabase/auth-ui-react": "^0.4.2",
+    "@supabase/auth-ui-shared": "^0.1.6",
+    "@supabase/supabase-js": "^2.26.0",
+    "@types/uuid": "^9.0.2",
+    "@xstate/react": "^3.2.2",
     "classnames": "^2.3.2",
     "date-fns": "^2.30.0",
+    "easymde": "^2.18.0",
     "fuse.js": "^6.6.2",
     "gray-matter": "^4.0.3",
+    "js-base64": "^3.7.5",
     "next": "latest",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
@@ -22,7 +32,9 @@
     "remark-parse": "^10.0.2",
     "remark-rehype": "^10.1.0",
     "typescript": "^4.9.5",
-    "unified": "^10.1.2"
+    "unified": "^10.1.2",
+    "uuid": "^9.0.0",
+    "xstate": "^4.38.1"
   },
   "devDependencies": {
     "@types/node": "^18.16.18",
@@ -32,6 +44,8 @@
     "daisyui": "^3.1.6",
     "directory-tree": "^3.5.1",
     "glob": "^10.3.1",
+    "husky": "^8.0.3",
+    "lint-staged": "^13.2.3",
     "next-pwa": "^5.6.0",
     "postcss": "^8.4.24",
     "prettier": "^3.0.0",

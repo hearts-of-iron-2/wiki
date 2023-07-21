@@ -3,6 +3,7 @@ import { join } from "path";
 import matter from "gray-matter";
 import { globSync } from "glob";
 import directoryTree from "directory-tree";
+import ArticleType from "../interfaces/article";
 
 const contentDirectory = "_content";
 
@@ -31,7 +32,10 @@ export function getArticleTree() {
   return tree.children;
 }
 
-export function getArticleBySlug(slug: string, fields: string[] = []) {
+export function getArticleBySlug(
+  slug: string,
+  fields: string[] = []
+): ArticleType {
   const realSlug = slug.replace(/\.md$/, "");
   const fullPath = join(contentDirectory, `${realSlug}.md`);
   const fileContents = fs.readFileSync(fullPath, "utf8");
@@ -43,6 +47,8 @@ export function getArticleBySlug(slug: string, fields: string[] = []) {
 
   const items: Items = {};
 
+  items["path"] = fullPath;
+
   // Ensure only the minimal needed data is exposed
   fields.forEach((field) => {
     if (field === "slug") {
@@ -52,11 +58,16 @@ export function getArticleBySlug(slug: string, fields: string[] = []) {
       items[field] = content;
     }
 
+    if (field === "markdown") {
+      items[field] = fileContents;
+    }
+
     if (typeof data[field] !== "undefined") {
       items[field] = data[field];
     }
   });
 
+  // @ts-ignore
   return items;
 }
 

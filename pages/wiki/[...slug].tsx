@@ -26,16 +26,18 @@ export async function getStaticProps({ params }: Params) {
   const article = getArticleBySlug(params.slug.join("/"), [
     "title",
     "slug",
+    "markdown",
     "content",
   ]);
-  const content = await markdownToHtml(article.content || "");
+  const markdown = article.content || "";
+  const html = await markdownToHtml(markdown);
   const articleTree = getArticleTree();
 
   return {
     props: {
       article: {
         ...article,
-        content,
+        html,
       },
       articleTree: articleTree,
     },

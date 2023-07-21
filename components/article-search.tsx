@@ -31,6 +31,12 @@ const ArticleSearch = ({ articleTree }: Props) => {
               "/wiki/" +
               node.path.replace(/_content\//, "").replace(/\.md/gm, "")
             }
+            onClick={() => {
+              const drawerState = document.getElementById(
+                "my-drawer"
+              ) as HTMLInputElement;
+              drawerState.checked = false;
+            }}
           >
             {node.name.replace(/_/gm, " ").replace(/\.md/gm, "")}
           </Link>
@@ -50,7 +56,6 @@ const ArticleSearch = ({ articleTree }: Props) => {
             const searchTerm = (e.target as HTMLInputElement).value;
             if (searchTerm && searchTerm !== "") {
               const searchResult = fuse.search(searchTerm).map((r) => r.item);
-              console.log(searchResult);
               setOpen(true);
               setVisibleArticleTree(searchResult);
             } else {

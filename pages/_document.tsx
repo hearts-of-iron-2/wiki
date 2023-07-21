@@ -2,7 +2,7 @@ import { Head, Html, Main, NextScript } from "next/document";
 
 export default function Document() {
   return (
-    <Html lang="en">
+    <Html data-theme="light" lang="en">
       <Head>
         <script src="/js/detectIframe.js"></script>
         <link rel="manifest" href="/manifest.json" />
