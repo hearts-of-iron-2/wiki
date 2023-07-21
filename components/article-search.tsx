@@ -31,6 +31,12 @@ const ArticleSearch = ({ articleTree }: Props) => {
               "/wiki/" +
               node.path.replace(/_content\//, "").replace(/\.md/gm, "")
             }
+            onClick={() => {
+              const drawerState = document.getElementById(
+                "my-drawer"
+              ) as HTMLInputElement;
+              drawerState.checked = false;
+            }}
           >
             {node.name.replace(/_/gm, " ").replace(/\.md/gm, "")}
           </Link>

@@ -1,10 +1,9 @@
 import { createMachine } from "xstate";
 
 export const editMachine = createMachine({
-  id: "edit",
-  initial: "auth",
+  id: "editMachine",
+  initial: "edit",
   states: {
-    auth: { on: { NEXT: "edit" } },
     edit: { on: { NEXT: "finish" } },
     finish: { on: { PREV: "edit" } },
   },

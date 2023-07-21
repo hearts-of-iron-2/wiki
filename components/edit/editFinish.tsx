@@ -2,6 +2,7 @@ import { useState } from "react";
 import { supabase } from "../../lib/supabase";
 import { Commit } from "../../lib/types/commit";
 import TextInput from "../textInput";
+import { encode } from "js-base64";
 
 type Props = {
   commit: Commit;
@@ -19,7 +20,7 @@ const EditFinish = ({ commit }: Props) => {
       ...commit,
       commitMessage,
       newPath: path,
-      content: btoa(commit.content),
+      content: encode(commit.content),
     };
     setLoading(true);
     const response = await supabase.functions.invoke("gh-update", {

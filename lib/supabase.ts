@@ -48,13 +48,7 @@ export const supabase = createClient(projectUrl, anonKey, {
   auth: {
     detectSessionInUrl: true,
     persistSession: true,
+    flowType: "pkce",
     storage,
   },
 });
-
-export const isUserLoggedIn = async () => {
-  const {
-    data: { user },
-  } = await supabase.auth.getUser();
-  return user !== undefined && user !== null;
-};

@@ -8,9 +8,9 @@ import { useMachine } from "@xstate/react";
 import { editMachine } from "../../lib/state/editMachine";
 import StepsComponent from "../../components/edit/steps";
 import { StateValue } from "xstate";
-import LoginComponent from "../../components/login";
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import { Commit } from "../../lib/types/commit";
+import { supabase } from "../../lib/supabase";
 
 type Props = {
   article: ArticleType;
@@ -25,6 +25,20 @@ export default function Edit({ article }: Props) {
     content: article.markdown,
   });
 
+  useEffect(() => {
+    supabase.auth
+      .getUser()
+      .then((res) => res.data.user)
+      .then((user) => {
+        if (user?.role !== "github_editor") {
+          alert(
+            "This account is not authorized to edit the content. Please contact the admin on Discord to ask for permissions."
+          );
+          window.close();
+        }
+      });
+  }, []);
+
   const next = () => {
     send("NEXT");
   };
@@ -35,10 +49,6 @@ export default function Edit({ article }: Props) {
 
   const selectComponent = (state: StateValue) => {
     switch (state) {
-      case "auth":
-        return (
-          <LoginComponent redirectTo={`/edit/${article.slug}`} success={next} />
-        );
       case "edit":
         return <EasyMdeComponent commit={commit} setCommit={setCommit} />;
       case "finish":
