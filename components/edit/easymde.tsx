@@ -1,6 +1,7 @@
 import { useEffect } from "react";
 import "easymde/dist/easymde.min.css";
 import { Commit } from "../../lib/types/commit";
+import { runInBrowser } from "../../lib/clientside";
 
 type Props = {
   commit: Commit;
@@ -11,7 +12,7 @@ const EasyMdeComponent = ({ commit, setCommit }: Props) => {
   let mde = undefined;
 
   useEffect(() => {
-    if (typeof window !== "undefined") {
+    runInBrowser(() => {
       const EasyMDE = require("easymde");
       mde = mde || new EasyMDE();
       mde.codemirror.on("change", () => {
@@ -20,7 +21,7 @@ const EasyMdeComponent = ({ commit, setCommit }: Props) => {
           content: mde.value(),
         });
       });
-    }
+    });
   }, []);
 
   return (

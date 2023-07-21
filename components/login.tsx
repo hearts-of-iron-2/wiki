@@ -5,9 +5,10 @@ import { isUserLoggedIn, supabase } from "../lib/supabase";
 
 type Props = {
   success: Function;
+  redirectTo: string;
 };
 
-const LoginComponent = ({ success }: Props) => {
+const LoginComponent = ({ success, redirectTo }: Props) => {
   useEffect(() => {
     const checkUser = async () => {
       if (await isUserLoggedIn()) {
@@ -23,7 +24,7 @@ const LoginComponent = ({ success }: Props) => {
         providers={["discord"]}
         supabaseClient={supabase}
         appearance={{ theme: ThemeSupa }}
-        onlyThirdPartyProviders={true}
+        redirectTo={`${redirectTo}`}
       />
     </div>
   );

@@ -36,7 +36,9 @@ export default function Edit({ article }: Props) {
   const selectComponent = (state: StateValue) => {
     switch (state) {
       case "auth":
-        return <LoginComponent success={next} />;
+        return (
+          <LoginComponent redirectTo={`/edit/${article.slug}`} success={next} />
+        );
       case "edit":
         return <EasyMdeComponent commit={commit} setCommit={setCommit} />;
       case "finish":

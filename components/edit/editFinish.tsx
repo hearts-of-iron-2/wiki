@@ -25,11 +25,17 @@ const EditFinish = ({ commit }: Props) => {
     const response = await supabase.functions.invoke("gh-update", {
       body: data,
     });
+    setLoading(false);
     if (response.error) {
-      setError(response.error);
+      const statusCode = response.error.context.status;
+      setError(
+        statusCode === 401
+          ? "This account is not authorized to make changes. Please contact the owner for access using the Discord server."
+          : `Error updating content. Please contact the owner on Discord and quote this error code: ${statusCode}.`
+      );
+      return;
     }
     setSuccessMessage("Updated successfully.");
-    setLoading(false);
   };
 
   return (
@@ -45,7 +51,7 @@ const EditFinish = ({ commit }: Props) => {
         onInput={(v: string) => setPath(v)}
       />
       <div className={`m-4 w-fit alert alert-error ${error ? "" : "hidden"}`}>
-        <span>{error}</span>
+        <span>{`${error}`}</span>
       </div>
       <div
         className={`m-4 w-fit alert alert-success ${
