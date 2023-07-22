@@ -4,7 +4,6 @@
     "dev": "next",
     "build": "next build",
     "static": "next build && next export && touch ./out/.nojekyll",
-    "gh-pages": "./gh-pages.sh",
     "start": "next start",
     "typecheck": "tsc",
     "lint-staged": "lint-staged",
