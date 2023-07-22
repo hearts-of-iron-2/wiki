@@ -2,6 +2,66 @@
 title: Main_Page
 ---
 
- <table style="width:100%;background-color:#3c5a6e;border:1px solid #cccccc;-moz-border-radius:20px"><tbody><tr><td style="width:45%;color:#000"><table style="width:100%;border:solid 0px;background:none"><tbody><tr><td style="width:100%px;text-align:center;white-space:nowrap;color:#fff"><div style="font-size:195%;border:none;margin: 0;padding:.1em;color:#fff"><img alt="" data-file-height="280" data-file-width="940" data-url="/images/6/6c/HOI2_wiki_logo.png" decoding="async" height="280" loading="lazy" src="/images/6/6c/HOI2_wiki_logo.png" width="940"></div></td></tr></tbody></table></td><td style="width:100%px;font-size:125%;text-align:center;color:#fff"><p>The <a class="mw-redirect" href="/wiki/Hearts_of_Iron_II" title="Hearts of Iron II">Hearts of Iron II </a>encyclopedia.</p></td></tr></tbody></table>
+::: mw-parser-output
+::: header
++-----------------------------------+:---------------------------------:+
+| +:----------------------------:+ | The [Hearts of Iron |
+| | ::: {style="font-s | | II](/wiki/Hearts_of_Iron_II "     |
+| | ize:195%;border:none;margin: |  | Hearts of Iron II"){.mw-redirect} |
+| | 0;padding:.1em;color:#fff"} | | encyclopedia. |
+| | ![](/images/6/6c/HOI2_wiki | | |
+| | \_logo.png){file-height="280" | | |
+| | file-width="940" | | |
+| | url="/ima | | |
+| | ges/6/6c/HOI2_wiki_logo.png" | | |
+| | decoding="async" | | |
+| | height="280" loading="lazy" | | |
+| | width="940"} | | |
+| | ::: | | |
+| +------------------------------+ | |
++-----------------------------------+-----------------------------------+
+:::
 
-<table cellpadding="0" cellspacing="0" style="background:transparent;" width="100%"><tbody><tr><td style="vertical-align:top; padding-right:0.5em;" width="75%"><h2 id="mf-content" style="border:none; background:#3c5a6e; padding:0.2em 0; margin:0; color:#fff; font-size:125%; font-weight:bold; text-indent:0.5em; font-variant:small-caps;border:1px solid #cccccc;"><span class="mw-headline" id="About_this_site">About this site</span></h2><div id="mf-content" style="margin-bottom:1em; padding:0.25em 0.4em 0.25em 0.4em;"><div class="floatright"><a class="image" href="/wiki/File:HOI2_Box.png" title="HOI2 Box"><img alt="HOI2 Box" data-file-height="500" data-file-width="354" data-url="/images/thumb/0/03/HOI2_Box.png/150px-HOI2_Box.png" decoding="async" height="212" loading="lazy" src="/images/thumb/0/03/HOI2_Box.png/150px-HOI2_Box.png" srcset="/images/thumb/0/03/HOI2_Box.png/225px-HOI2_Box.png 1.5x, /images/thumb/0/03/HOI2_Box.png/300px-HOI2_Box.png 2x" width="150"></a></div><p><i><b><a class="mw-redirect" href="/wiki/Hearts_of_Iron_II" title="Hearts of Iron II">Hearts of Iron II </a></b></i>is a grand strategy computer game by <a href="/wiki/Paradox_Interactive" title="Paradox Interactive">Paradox Interactive </a>.</p></div></td><td style="vertical-align:top; padding-left:0.5em;" width="25%"><h2 id="mf-content" style="border:none; background:#3c5a6e; padding:0.2em 0; margin:0; color:#fff; font-size:125%; font-weight:bold; text-indent:0.5em; font-variant:small-caps;border:1px solid #cccccc;"><span class="mw-headline" id="Sections">Sections</span></h2><div id="mf-content" style="margin-bottom:1em; padding:0.25em 0.4em 0.25em 0.4em;"><ul><li><a href="/wiki/Country_guides" title="Country guides">‏‎Country guides</a></li><li><a class="mw-redirect" href="/wiki/Major_power" title="Major power">‏‎Major power‏‎</a></li><li><a class="mw-redirect" href="/wiki/Minor_power" title="Minor power">Minor power‏‎</a></li><li><a href="/wiki/Assorted_guides" title="Assorted guides">Assorted guides</a></li><li><a href="/wiki/Reference_material" title="Reference material">Reference material</a></li><li><a href="/wiki/Mods_and_modding" title="Mods and modding">Mods and modding</a></li><li><a href="/wiki/Utilities" title="Utilities">Utilities</a></li><li><a href="/wiki/Technical_issues" title="Technical issues">Technical issues</a></li><li><a href="/wiki/Links" title="Links">Links</a></li><li><a href="/wiki/Special:AllPages" title="Special:AllPages">All pages</a></li></ul></div></td></tr></tbody></table>
++-----------------------------------+-----------------------------------+
+| ## [ About this sit | ## [ |
+| e ]{#About_this_site .mw-headline | Sections ]{#Sections .mw-headline |
+| } {#mf-content style="border:none | } {#mf-content style="border:none |
+| ; background:#3c5a6e; padding:0.2 | ; background:#3c5a6e; padding:0.2 |
+| em 0; margin:0; color:#fff; font- | em 0; margin:0; color:#fff; font- |
+| size:125%; font-weight:bold; text | size:125%; font-weight:bold; text |
+| -indent:0.5em; font-variant:small | -indent:0.5em; font-variant:small |
+| -caps;border:1px solid #cccccc;"} | -caps;border:1px solid #cccccc;"} |
+| | |
+| ::: {#mf-cont | ::: {#mf-cont |
+| ent style="margin-bottom:1em; pad | ent style="margin-bottom:1em; pad |
+| ding:0.25em 0.4em 0.25em 0.4em;"} | ding:0.25em 0.4em 0.25em 0.4em;"} |
+| ::: floatright | - [‏‎Country |
+| [![HOI2                           |     guides](/wiki |
+| Box](/im | /Country_guides "Country guides") |
+| ages/thumb/0/03/HOI2_Box.png/150p | - [‏‎Major |
+| x-HOI2_Box.png){file-height="500" | power‏‎](/wiki/Major_p |
+| file-width="354" | ower "Major power"){.mw-redirect} |
+| url="/images/thumb/0/03 | - [Minor |
+| /HOI2_Box.png/150px-HOI2_Box.png" | power‏‎](/wiki/Minor_p |
+| decoding="async" height="212" | ower "Minor power"){.mw-redirect} |
+| loading="lazy" | - [Assorted |
+| srcset="/images/thum | guides](/wiki/A |
+| b/0/03/HOI2_Box.png/225px-HOI2_Bo | ssorted_guides "Assorted guides") |
+| x.png 1.5x, /images/thumb/0/03/HO | - [Reference |
+| I2_Box.png/300px-HOI2_Box.png 2x" | material](/wiki/Referen |
+| width="150"}](/wiki/File | ce_material "Reference material") |
+| :HOI2_Box.png "HOI2 Box"){.image} | - [Mods and |
+| ::: | modding](/wiki/Mod |
+| | s_and_modding "Mods and modding") |
+| **_[Hearts of Iron | - [Utilit |
+| II](/wiki/Hearts_of_Iron_II "Hea | ies](/wiki/Utilities "Utilities") |
+| rts of Iron II"){.mw-redirect}_** | - [Technical |
+| is a grand strategy computer game | issues](/wiki/Tec |
+| by [Paradox | hnical_issues "Technical issues") |
+| Interactive](/wiki/Paradox_I | - [Links](/wiki/Links "Links") |
+| nteractive "Paradox Interactive") | - [All |
+| . | pages](/wiki/Spe |
+| ::: | cial:AllPages "Special:AllPages") |
+| | ::: |
++-----------------------------------+-----------------------------------+
+:::

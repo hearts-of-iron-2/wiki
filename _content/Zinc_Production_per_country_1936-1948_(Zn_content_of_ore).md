@@ -2,8 +2,33 @@
 title: Zinc_Production_per_country_1936-1948_(Zn_content_of_ore)
 ---
 
+::: mw-parser-output
 Source: BR Mitchell.
 
 Numbers are 1000s of metric tons
 
-<table border="1"><tbody><tr><td></td><td>1936</td><td>1937</td><td>1938</td><td>1939</td><td>1940</td><td>1941</td><td>1942</td><td>1943</td><td>1944</td><td>1945</td><td>1946</td><td>1947</td><td>1948</td></tr><tr><td>Australia</td><td>193</td><td>207</td><td>224</td><td>220</td><td>246</td><td>251</td><td>224</td><td>184</td><td>176</td><td>153</td><td>175</td><td>185</td><td>194</td></tr><tr><td>Burma</td><td>62</td><td>59</td><td>57</td><td>55</td><td>52</td><td>51</td><td>?</td><td>?</td><td>?</td><td>?</td><td>?</td><td>?</td><td>2</td></tr><tr><td>Canada</td><td>151</td><td>168</td><td>173</td><td>179</td><td>192</td><td>232</td><td>263</td><td>277</td><td>250</td><td>235</td><td>214</td><td>189</td><td>212</td></tr><tr><td>Germany</td><td>156.5</td><td>165.6</td><td>196.4</td><td>190.2</td><td>261.8</td><td>287</td><td>277.7</td><td>297.5</td><td>?</td><td>?</td><td>?</td><td>?</td><td>53.6</td></tr><tr><td>Italy</td><td>68.2</td><td>73.7</td><td>107.7</td><td>106</td><td>81.6</td><td>70.7</td><td>75.9</td><td>67.9</td><td>21.2</td><td>10.3</td><td>25.4</td><td>57.8</td><td>73.5</td></tr><tr><td>Japan</td><td>38</td><td>45</td><td>51</td><td>52</td><td>70</td><td>74</td><td>82</td><td>91</td><td>82</td><td>31</td><td>21</td><td>27</td><td>33</td></tr><tr><td>Korea</td><td>1</td><td>0</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>3</td><td>2</td><td>?</td><td>?</td><td>?</td><td>13</td></tr><tr><td>Mexico</td><td>150</td><td>155</td><td>172</td><td>134</td><td>115</td><td>155</td><td>189</td><td>197</td><td>219</td><td>210</td><td>139</td><td>196</td><td>179</td></tr><tr><td>Namibia</td><td>0</td><td>0</td><td>0</td><td>11</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>12</td></tr><tr><td>Newfoundland</td><td>64</td><td>64</td><td>67</td><td>60</td><td>65</td><td>63</td><td>51</td><td>60</td><td>64</td><td>51</td><td>49</td><td>40</td><td>39</td></tr><tr><td>Peru</td><td>11</td><td>29</td><td>25</td><td>36</td><td>18</td><td>23</td><td>24</td><td>33</td><td>49</td><td>61</td><td>53</td><td>58</td><td>59</td></tr><tr><td>Poland</td><td>55</td><td>72</td><td>70</td><td>?</td><td>?</td><td>?</td><td>?</td><td>?</td><td>?</td><td>?</td><td>46</td><td>57</td><td>71</td></tr><tr><td>Turkey</td><td>13</td><td>15</td><td>17</td><td>14</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>2</td></tr><tr><td>USA</td><td>522</td><td>568</td><td>419</td><td>530</td><td>603</td><td>680</td><td>697</td><td>675</td><td>652</td><td>557</td><td>521</td><td>578</td><td>571</td></tr><tr><td>Yugoslavia</td><td>30.5</td><td>47.7</td><td>44.5</td><td>33.1</td><td>31.8</td><td>?</td><td>?</td><td>?</td><td>?</td><td>7.7</td><td>22.4</td><td>35</td><td>36.7</td></tr><tr><td>Zaire</td><td>0</td><td>3</td><td>6</td><td>10</td><td>25</td><td>26</td><td>41</td><td>47</td><td>55</td><td>75</td><td>89</td><td>99</td><td>126</td></tr><tr><td>Zambia</td><td>27</td><td>19</td><td>13</td><td>15</td><td>15</td><td>18</td><td>18</td><td>17</td><td>19</td><td>15</td><td>17</td><td>21</td><td>22</td></tr></tbody></table>
+---
+
+                 1936    1937    1938    1939    1940    1941   1942    1943    1944   1945   1946   1947   1948
+
+Australia 193 207 224 220 246 251 224 184 176 153 175 185 194
+Burma 62 59 57 55 52 51 ? ? ? ? ? ? 2
+Canada 151 168 173 179 192 232 263 277 250 235 214 189 212
+Germany 156.5 165.6 196.4 190.2 261.8 287 277.7 297.5 ? ? ? ? 53.6
+Italy 68.2 73.7 107.7 106 81.6 70.7 75.9 67.9 21.2 10.3 25.4 57.8 73.5
+Japan 38 45 51 52 70 74 82 91 82 31 21 27 33
+Korea 1 0 1 1 1 1 1 3 2 ? ? ? 13
+Mexico 150 155 172 134 115 155 189 197 219 210 139 196 179
+Namibia 0 0 0 11 1 0 0 0 0 0 0 0 12
+Newfoundland 64 64 67 60 65 63 51 60 64 51 49 40 39
+Peru 11 29 25 36 18 23 24 33 49 61 53 58 59
+Poland 55 72 70 ? ? ? ? ? ? ? 46 57 71
+Turkey 13 15 17 14 0 0 0 0 0 0 0 1 2
+USA 522 568 419 530 603 680 697 675 652 557 521 578 571
+Yugoslavia 30.5 47.7 44.5 33.1 31.8 ? ? ? ? 7.7 22.4 35 36.7
+Zaire 0 3 6 10 25 26 41 47 55 75 89 99 126
+Zambia 27 19 13 15 15 18 18 17 19 15 17 21 22
+
+---
+
+:::

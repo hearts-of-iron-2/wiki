@@ -2,962 +2,14803 @@
 title: Provinces_by_ID,_part_1
 ---
 
-This overview shows provinces with IDs ranging from **1** to **849** sorted numerically. Continued in [Part 2 ( **850** to **1699** )](/wiki/Provinces_by_ID,_part_2 "Provinces by ID, part 2") and [Part 3 ( **1700** to **2601**](/wiki/Provinces_by_ID,_part_3 "Provinces by ID, part 3") .
+::: mw-parser-output
+This overview shows provinces with IDs ranging from **1** to **849**
+sorted numerically. Continued in [Part 2 ( **850** to **1699**
+)](/wiki/Provinces_by_ID,_part_2 "Provinces by ID, part 2") and [Part 3
+( **1700** to
+**2601**](/wiki/Provinces_by_ID,_part_3 "Provinces by ID, part 3") .
 
-## Contents
+::: {#toc .toc aria-labelledby="mw-toc-heading" role="navigation"}
+::: {.toctitle dir="ltr" lang="en"}
 
-- [1 1](#1)
-- [2 51](#51)
-- [3 101](#101)
-- [4 151](#151)
-- [5 201](#201)
-- [6 251](#251)
-- [7 301](#301)
-- [8 351](#351)
-- [9 401](#401)
-- [10 451](#451)
-- [11 501](#501)
-- [12 551](#551)
-- [13 601](#601)
-- [14 651](#651)
-- [15 701](#701)
-- [16 751](#751)
-- [17 801](#801)
+## Contents {#mw-toc-heading}
+
+[ ]{.toctogglespan}
+:::
+
+- [[ 1 ]{.tocnumber} [ 1 ]{.toctext}](#1)
+- [[ 2 ]{.tocnumber} [ 51 ]{.toctext}](#51)
+- [[ 3 ]{.tocnumber} [ 101 ]{.toctext}](#101)
+- [[ 4 ]{.tocnumber} [ 151 ]{.toctext}](#151)
+- [[ 5 ]{.tocnumber} [ 201 ]{.toctext}](#201)
+- [[ 6 ]{.tocnumber} [ 251 ]{.toctext}](#251)
+- [[ 7 ]{.tocnumber} [ 301 ]{.toctext}](#301)
+- [[ 8 ]{.tocnumber} [ 351 ]{.toctext}](#351)
+- [[ 9 ]{.tocnumber} [ 401 ]{.toctext}](#401)
+- [[ 10 ]{.tocnumber} [ 451 ]{.toctext}](#451)
+- [[ 11 ]{.tocnumber} [ 501 ]{.toctext}](#501)
+- [[ 12 ]{.tocnumber} [ 551 ]{.toctext}](#551)
+- [[ 13 ]{.tocnumber} [ 601 ]{.toctext}](#601)
+- [[ 14 ]{.tocnumber} [ 651 ]{.toctext}](#651)
+- [[ 15 ]{.tocnumber} [ 701 ]{.toctext}](#701)
+- [[ 16 ]{.tocnumber} [ 751 ]{.toctext}](#751)
+- [[ 17 ]{.tocnumber} [ 801 ]{.toctext}](#801)
+  :::
 
 Data has been updated for version **1.1** .
 
-| ID  | Province name | Area | Region | Continent | Terrain | Climate | Infra | Beach? | IC  | Manpower | Energy | Oil | Metal | Rare Materials |
-| --- | ------------- | ---- | ------ | --------- | ------- | ------- | ----- | ------ | --- | -------- | ------ | --- | ----- | -------------- |
+<table data-border="1" data-cellpadding="1" data-cellspacing="0"
+style="font-size: 85%; border: gray solid 1px; border-collapse: collapse; text-align: center;"
+width="95%">
+<colgroup>
+<col style="width: 6%" />
+<col style="width: 6%" />
+<col style="width: 6%" />
+<col style="width: 6%" />
+<col style="width: 6%" />
+<col style="width: 6%" />
+<col style="width: 6%" />
+<col style="width: 6%" />
+<col style="width: 6%" />
+<col style="width: 6%" />
+<col style="width: 6%" />
+<col style="width: 6%" />
+<col style="width: 6%" />
+<col style="width: 6%" />
+<col style="width: 6%" />
+</colgroup>
+<tbody>
+<tr class="header" data-bgcolor="ffff66">
+<th>ID</th>
+<th>Province name</th>
+<th>Area</th>
+<th>Region</th>
+<th>Continent</th>
+<th>Terrain</th>
+<th>Climate</th>
+<th>Infra</th>
+<th>Beach?</th>
+<th>IC</th>
+<th>Manpower</th>
+<th>Energy</th>
+<th>Oil</th>
+<th>Metal</th>
+<th>Rare Materials</th>
+</tr>
 
-|
-1
-
-- | Reykjavik | Iceland | Iceland | Europe | Clear | Temperate | 60 | Yes | | | | | | |
-  | 2 | Höfn | Iceland | Iceland | Europe | Clear | Temperate | 60 | No | | | | | | |
-  | 3 | Stornoway | North Scotland | Scotland | Europe | Clear | Temperate | 80 | No | | | | | | |
-  | 4 | As Suwayz | Suez Channel Area | Egypt | Asia | Desert | Arid | 20 | No | | | | | | |
-  | 5 | Scapa Flow | North Scotland | Scotland | Europe | Clear | Temperate | 80 | No | | | | | | |
-  | 6 | Inverness | North Scotland | Scotland | Europe | Mountain | Temperate | 80 | No | | | | | | |
-  | 7 | Aberdeen | North Scotland | Scotland | Europe | Hills | Temperate | 80 | No | 2 | 1 | 2 | | 1 | |
-  | 8 | Dunfermline | South Scotland | Scotland | Europe | Hills | Temperate | 80 | No | 2 | | 1 | | | |
-  | 9 | Glasgow | South Scotland | Scotland | Europe | Hills | Temperate | 100 | Yes | 6 | 2 | 6 | | 3 | 2 |
-  | 10 | Edinburgh | South Scotland | Scotland | Europe | Hills | Temperate | 100 | Yes | 2 | 1 | 54 | | 19 | |
-  | 11 | Sunderland | North England | England | Europe | Hills | Temperate | 100 | Yes | 7 | 3 | 263 | | 3 | 1 |
-  | 12 | Blackpool | North England | England | Europe | Hills | Temperate | 100 | Yes | 3 | 4 | 8 | | 23 | 2 |
-  | 13 | Sheffield | North England | England | Europe | Clear | Temperate | 100 | Yes | 8 | 2 | 55 | | 20 | 1 |
-  | 14 | Liverpool | North England | England | Europe | Clear | Temperate | 100 | Yes | 14 | 7 | 65 | | 7 | 4 |
-  | 15 | Cardiff | West England | England | Europe | Hills | Temperate | 100 | No | 5 | 2 | 108 | | 3 | 2 |
-  | 16 | Birmingham | West England | England | Europe | Urban | Temperate | 100 | No | 12 | 6 | 12 | | 6 | 3 |
-  | 17 | Norwich | East England | England | Europe | Clear | Temperate | 100 | Yes | 5 | 3 | 7 | | 4 | 2 |
-  | 18 | Calais | Pas de Calais | France | Europe | Clear | Temperate | 100 | Yes | | | | | | |
-  | 19 | London | East England | England | Europe | Urban | Temperate | 100 | No | 14 | 11 | 22 | | 11 | 6 |
-  | 20 | Dover | East England | England | Europe | Clear | Temperate | 100 | Yes | 4 | 4 | 7 | | 4 | 2 |
-  | 21 | Portsmouth | East England | England | Europe | Clear | Temperate | 100 | Yes | 4 | 1 | 3 | | 1 | |
-  | 22 | Bristol | West England | England | Europe | Clear | Temperate | 100 | Yes | 4 | 2 | 4 | | 2 | |
-  | 23 | Plymouth | West England | England | Europe | Clear | Temperate | 100 | Yes | 3 | 1 | 2 | | 4 | |
-  | 24 | Cork | Eire | Ireland | Europe | Hills | Temperate | 100 | Yes | 1 | 1 | 1 | | | |
-  | 25 | Galway | Eire | Ireland | Europe | Clear | Temperate | 100 | No | | | | | | |
-  | 26 | Sligo | Eire | Ireland | Europe | Clear | Temperate | 100 | No | | | | | | |
-  | 27 | Letterkenny | Eire | Ireland | Europe | Hills | Temperate | 100 | Yes | | | | | | |
-  | 28 | Belfast | North Ireland | Ireland | Europe | Hills | Temperate | 100 | Yes | 3 | 1 | 2 | | 1 | |
-  | 29 | Portadown | North Ireland | Ireland | Europe | Hills | Temperate | 100 | No | 1 | | 1 | | | |
-  | 30 | Dublin | Eire | Ireland | Europe | Hills | Temperate | 100 | No | 3 | 3 | 5 | | 3 | 1 |
-  | 31 | Malta | Sicilian Gap | Italy | Europe | Clear | Mediterranean | 80 | Yes | | | | | | |
-  | 32 | Brest | Brittany | France | Europe | Clear | Temperate | 100 | Yes | | 1 | | | | |
-  | 33 | Rennes | Brittany | France | Europe | Clear | Temperate | 100 | Yes | 4 | 2 | 4 | | 2 | 1 |
-  | 34 | Lorient | Brittany | France | Europe | Clear | Temperate | 100 | Yes | | 1 | | | | |
-  | 35 | Nantes | Brittany | France | Europe | Clear | Temperate | 100 | Yes | 4 | 2 | 4 | | 2 | 1 |
-  | 36 | Angers | Brittany | France | Europe | Clear | Temperate | 100 | No | | 1 | | | | |
-  | 37 | Avranches | Normandy | France | Europe | Clear | Temperate | 100 | No | | 1 | | | | |
-  | 38 | Cherbourg | Normandy | France | Europe | Clear | Temperate | 100 | No | | 1 | | | | |
-  | 39 | Caen | Normandy | France | Europe | Clear | Temperate | 100 | Yes | 2 | 1 | 2 | | 1 | |
-  | 40 | Argentan | Normandy | France | Europe | Clear | Temperate | 100 | No | | 1 | | | | |
-  | 41 | Le Havre | Normandy | France | Europe | Clear | Temperate | 100 | Yes | 2 | 1 | 2 | | 1 | |
-  | 42 | Dieppe | Pas de Calais | France | Europe | Clear | Temperate | 100 | Yes | | 1 | | | | |
-  | 43 | Dunkerque | Pas de Calais | France | Europe | Clear | Temperate | 100 | Yes | | 1 | | | | |
-  | 44 | Lille | Pas de Calais | France | Europe | Clear | Temperate | 100 | No | 6 | 3 | 48 | | 3 | 2 |
-  | 45 | Ghent | Flanders | Benelux | Europe | Clear | Temperate | 100 | Yes | 5 | 2 | 5 | | 3 | 2 |
-  | 46 | Rotterdam | Netherlands | Benelux | Europe | Marsh | Temperate | 100 | Yes | 5 | 2 | | | 3 | |
-  | 47 | Amsterdam | Netherlands | Benelux | Europe | Clear | Temperate | 100 | Yes | 8 | 7 | 13 | | 7 | 4 |
-  | 48 | Utrecht | Netherlands | Benelux | Europe | Marsh | Temperate | 100 | No | 1 | 1 | 1 | | | |
-  | 49 | Eindhoven | Netherlands | Benelux | Europe | Clear | Temperate | 100 | No | 3 | 2 | 27 | | 2 | 1 |
-  | 50 | Antwerp | Flanders | Benelux | Europe | Clear | Temperate | 100 | No | 3 | 2 | 3 | | 2 | 1 |
-  | ID | Province name | Area | Region | Continent | Terrain | Climate | Infra | Beach? | IC | Manpower | Energy | Oil | Metal | Rare Materials |
-  |
-
-## 51
-
-| Brussels | Flanders | Benelux | Europe | Clear | Temperate | 100 | No | 7 | 5 | 10 | | 5 | 4 |
-| 52 | Mons | Flanders | Benelux | Europe | Forest | Temperate | 100 | No | 2 | 1 | 21 | | 1 | |
-| 53 | Valenciennes | Pas de Calais | France | Europe | Forest | Temperate | 100 | No | | 1 | | | | |
-| 54 | Amiens | Pas de Calais | France | Europe | Clear | Temperate | 100 | No | 2 | 1 | 2 | | 1 | |
-| 55 | Compiègne | Paris | France | Europe | Forest | Temperate | 100 | No | 2 | 1 | 2 | | 1 | |
-| 56 | Paris | Paris | France | Europe | Clear | Temperate | 100 | No | 17 | 11 | 22 | | 11 | 6 |
-| 57 | Orléans | Paris | France | Europe | Clear | Temperate | 100 | No | 3 | 2 | 3 | | 2 | 1 |
-| 58 | Le Mans | Loire | France | Europe | Clear | Temperate | 100 | No | | 1 | | | | |
-| 59 | Cholet | Loire | France | Europe | Clear | Temperate | 100 | Yes | | 1 | | | | |
-| 60 | Tours | Loire | France | Europe | Clear | Temperate | 100 | No | | 1 | | | | |
-| 61 | Bourges | Loire | France | Europe | Forest | Temperate | 100 | No | | 1 | | | | |
-| 62 | Auxerre | Loire | France | Europe | Clear | Temperate | 100 | No | | 1 | | | | |
-| 63 | Troyes | Bourgogne_Champagne | France | Europe | Clear | Temperate | 100 | No | | 1 | | | | |
-| 64 | Reims | Bourgogne_Champagne | France | Europe | Forest | Temperate | 100 | No | | 1 | | | | |
-| 65 | Namur | Wallonia | Benelux | Europe | Forest | Temperate | 100 | No | 1 | 1 | 20 | | | |
-| 66 | Aachen | Westphalen | Germany | Europe | Forest | Temperate | 100 | No | | 1 | 31 | | | |
-| 67 | Essen | Westphalen | Germany | Europe | Urban | Temperate | 100 | No | 4 | 2 | 97 | | 2 | 1 |
-| 68 | Liège | Wallonia | Benelux | Europe | Hills | Temperate | 100 | No | 2 | 1 | 22 | | 1 | |
-| 69 | Bastogne | Wallonia | Benelux | Europe | Forest | Temperate | 100 | No | | | | | | |
-| 70 | Arlon | Wallonia | Benelux | Europe | Forest | Temperate | 100 | No | | | | | | |
-| 71 | Luxembourg | Wallonia | Benelux | Europe | Forest | Temperate | 100 | No | 5 | 2 | 10 | | 21 | 3 |
-| 72 | Metz | Lorraine_Alsace | France | Europe | Hills | Temperate | 100 | No | 3 | 2 | 3 | | 82 | 2 |
-| 73 | Strasbourg | Lorraine_Alsace | France | Europe | Forest | Temperate | 100 | No | 2 | 1 | 44 | | 1 | 2 |
-| 74 | Saarbrücken | Westphalen | Germany | Europe | Hills | Temperate | 100 | No | 4 | 1 | 66 | | 2 | 1 |
-| 75 | Cologne | Westphalen | Germany | Europe | Clear | Temperate | 100 | No | 12 | 5 | 12 | | 6 | 3 |
-| 76 | Dortmund | Westphalen | Germany | Europe | Hills | Temperate | 100 | No | 5 | 2 | 183 | | 38 | 1 |
-| 77 | Arnhem | Netherlands | Benelux | Europe | Clear | Temperate | 100 | No | 4 | 2 | 4 | | | 1 |
-| 78 | Leeuwarden | Netherlands | Benelux | Europe | Clear | Temperate | 100 | Yes | 1 | | 1 | | | |
-| 79 | Groningen | Netherlands | Benelux | Europe | Clear | Temperate | 100 | No | 1 | | 1 | | | |
-| 80 | Wilhelmshafen | Holstein_Mecklemburg | Germany | Europe | Clear | Temperate | 100 | No | 3 | 1 | 3 | | 2 | 1 |
-| 81 | Münster | Hannover_Magdeburg | Germany | Europe | Clear | Temperate | 100 | No | 5 | 2 | 5 | | 2 | 1 |
-| 82 | Kassel | Hessen | Germany | Europe | Forest | Temperate | 100 | No | 2 | 1 | 2 | | 1 | |
-| 83 | Schweinfurt | Hessen | Germany | Europe | Hills | Temperate | 100 | No | 5 | 2 | 5 | | 2 | 1 |
-| 84 | Erfurt | Hessen | Germany | Europe | Clear | Temperate | 100 | No | | | | | | |
-| 85 | Göttingen | Hannover_Magdeburg | Germany | Europe | Clear | Temperate | 100 | No | | | | | | |
-| 86 | Hannover | Hannover_Magdeburg | Germany | Europe | Clear | Temperate | 100 | No | 4 | 2 | 4 | 2 | 14 | 13 |
-| 87 | Bremen | Holstein_Mecklemburg | Germany | Europe | Clear | Temperate | 100 | No | 2 | 1 | 2 | | 1 | |
-| 88 | Hamburg | Holstein_Mecklemburg | Germany | Europe | Urban | Temperate | 100 | No | 3 | 1 | 3 | | 2 | 1 |
-| 89 | Lübeck | Holstein_Mecklemburg | Germany | Europe | Clear | Temperate | 100 | Yes | | | | | | |
-| 90 | Kiel | Holstein_Mecklemburg | Germany | Europe | Clear | Temperate | 100 | Yes | 3 | 1 | | | 2 | 1 |
-| 91 | Kolding | Denmark | Denmark | Europe | Clear | Temperate | 100 | Yes | | | | | | |
-| 92 | Århus | Denmark | Denmark | Europe | Clear | Temperate | 100 | Yes | 2 | 2 | 2 | | 1 | 1 |
-| 93 | Malmö | Goetaland | Sweden | Europe | Clear | Temperate | 80 | Yes | 2 | 1 | 2 | | 1 | 1 |
-| 94 | Noginsk | Moscow | Russia | Europe | Clear | Muddy | 60 | No | | | 21 | | | |
-| 95 | Karlskrona | Goetaland | Sweden | Europe | Clear | Temperate | 80 | Yes | | | | | | |
-| 96 | Gotland | Oestra Svealand | Sweden | Europe | Clear | Temperate | 80 | Yes | | | | | | |
-| 97 | Jönköping | Goetaland | Sweden | Europe | Forest | Temperate | 80 | Yes | 1 | 1 | 1 | | | |
-| 98 | Göteborg | Goetaland | Sweden | Europe | Clear | Temperate | 80 | Yes | 1 | 1 | 1 | | 1 | 1 |
-| 99 | Skövde | Goetaland | Sweden | Europe | Clear | Temperate | 80 | No | | | | | | |
-| 100 | Norrköping | Oestra Svealand | Sweden | Europe | Clear | Temperate | 80 | Yes | 1 | | 1 | | | |
-| ID | Province name | Area | Region | Continent | Terrain | Climate | Infra | Beach? | IC | Manpower | Energy | Oil | Metal | Rare Materials |
-|
-
-## 101
-
-| Stockholm | Oestra Svealand | Sweden | Europe | Clear | Temperate | 80 | Yes | 7 | 7 | 12 | | 7 | 4 |
-| 102 | Uppsala | Oestra Svealand | Sweden | Europe | Clear | Temperate | 80 | Yes | | | | | | |
-| 103 | Åland | South Finland | Finland | Europe | Forest | Temperate | 80 | Yes | | | | | | |
-| 104 | Västerås | Oestra Svealand | Sweden | Europe | Clear | Temperate | 80 | No | | | | | | |
-| 105 | Karlstad | Vaestra Svealand | Sweden | Europe | Forest | Temperate | 80 | No | 1 | 1 | 1 | | | |
-| 106 | Åmål | Vaestra Svealand | Sweden | Europe | Forest | Subarctic | 80 | No | 1 | | 1 | | | |
-| 107 | Oslo | Southern Norway | Norway | Europe | Clear | Temperate | 80 | Yes | 7 | 7 | 12 | | 6 | 4 |
-| 108 | Kristiansand | Southern Norway | Norway | Europe | Hills | Temperate | 80 | Yes | 1 | | 1 | | 3 | |
-| 109 | Stavanger | Southern Norway | Norway | Europe | Hills | Temperate | 80 | Yes | | | | | | |
-| 110 | Bergen | Southern Norway | Norway | Europe | Mountain | Temperate | 80 | Yes | 1 | | 1 | | | |
-| 111 | Hamar | Southern Norway | Norway | Europe | Forest | Subarctic | 60 | No | 1 | 1 | 1 | | 1 | 1 |
-| 112 | Ludvika | Vaestra Svealand | Sweden | Europe | Forest | Subarctic | 60 | No | | | | | | |
-| 113 | Falun | Vaestra Svealand | Sweden | Europe | Forest | Subarctic | 60 | No | 1 | | 1 | | 18 | |
-| 114 | Gävle | Nedre Norrland | Sweden | Europe | Clear | Temperate | 80 | Yes | 1 | | 1 | | | |
-| 115 | Sveg | Vaestra Svealand | Sweden | Europe | Forest | Subarctic | 60 | No | | | | | | |
-| 116 | Röros | Southcentral Norway | Norway | Europe | Hills | Subarctic | 60 | No | | | 5 | | | |
-| 117 | Ålesund | Southcentral Norway | Norway | Europe | Mountain | Temperate | 80 | Yes | | | | | | |
-| 118 | Trondheim | Central Norway | Norway | Europe | Forest | Temperate | 80 | Yes | 1 | | 6 | | | |
-| 119 | Östersund | Nedre Norrland | Sweden | Europe | Forest | Subarctic | 60 | No | | | | | | |
-| 120 | Sundsvall | Nedre Norrland | Sweden | Europe | Forest | Temperate | 80 | Yes | 1 | | 1 | | | |
-| 121 | Vilhelmina | Nedre Norrland | Sweden | Europe | Forest | Subarctic | 60 | No | | | | | | |
-| 122 | Umeå | Oevre Norrland | Sweden | Europe | Clear | Subarctic | 80 | Yes | 1 | | 1 | | | |
-| 123 | Gällivare | Oevre Norrland | Sweden | Europe | Hills | Subarctic | 60 | No | | | | | | |
-| 124 | Mo i Rana | Central Norway | Norway | Europe | Hills | Subarctic | 60 | Yes | | | | | 2 | |
-| 125 | Narvik | Northern Norway | Norway | Europe | Mountain | Subarctic | 60 | Yes | | | | | | |
-| 126 | Kiruna | Oevre Norrland | Sweden | Europe | Mountain | Subarctic | 60 | No | | | | | 30 | |
-| 127 | Luleå | Oevre Norrland | Sweden | Europe | Clear | Subarctic | 80 | Yes | | | | | | |
-| 128 | Hammerfest | Northern Norway | Norway | Europe | Mountain | Subarctic | 40 | No | | | | | | |
-| 129 | Vardö | Northern Norway | Norway | Europe | Clear | Subarctic | 40 | No | | | | | | |
-| 130 | Rovaniemi | Lapland | Finland | Europe | Hills | Subarctic | 40 | No | | | | | | |
-| 131 | Tornio | Oesterbotten | Finland | Europe | Hills | Subarctic | 80 | Yes | | | | | | |
-| 132 | Petsamo | Lapland | Finland | Europe | Hills | Subarctic | 40 | No | | | | | | 4 |
-| 133 | Murmansk | Lapland | White Sea Tundra | Europe | Hills | Subarctic | 40 | Yes | | | | | | |
-| 134 | Kola | Lapland | White Sea Tundra | Europe | Marsh | Subarctic | 40 | No | | | | | | |
-| 135 | Kandalaksja | Lapland | White Sea Tundra | Europe | Forest | Subarctic | 40 | No | | | | | | |
-| 136 | Kajaani | Lapland | Finland | Europe | Forest | Subarctic | 50 | No | | | | | | |
-| 137 | Oulu | Oesterbotten | Finland | Europe | Forest | Subarctic | 80 | Yes | 1 | | 1 | | | |
-| 138 | Vaasa | Oesterbotten | Finland | Europe | Clear | Temperate | 80 | Yes | 1 | 1 | 1 | | 1 | |
-| 139 | Seinäjoki | Oesterbotten | Finland | Europe | Forest | Subarctic | 80 | No | | | | | | |
-| 140 | Pori | South Finland | Finland | Europe | Clear | Temperate | 80 | Yes | | | | | | |
-| 141 | Turku | South Finland | Finland | Europe | Clear | Temperate | 80 | Yes | 1 | 1 | 1 | | 1 | |
-| 142 | Helsinki | South Finland | Finland | Europe | Clear | Temperate | 80 | Yes | 6 | 6 | 11 | | 7 | 4 |
-| 143 | Tampere | Central Finland | Finland | Europe | Forest | Temperate | 80 | No | 1 | | 1 | | | |
-| 144 | Mikkeli | Central Finland | Finland | Europe | Forest | Subarctic | 60 | No | 1 | | 1 | | | |
-| 145 | Viipuri | Karelia | Finland | Europe | Forest | Muddy | 80 | Yes | 1 | 1 | 1 | | 1 | 1 |
-| 146 | Sortavala | Karelia | Finland | Europe | Forest | Subarctic | 50 | No | | | | | | |
-| 147 | Jyväskylä | Central Finland | Finland | Europe | Forest | Subarctic | 60 | No | | | | | | |
-| 148 | Kuopio | Oesterbotten | Finland | Europe | Forest | Subarctic | 60 | No | 1 | | 1 | | | |
-| 149 | Joensuu | Karelia | Finland | Europe | Forest | Subarctic | 50 | No | | | | | | |
-| 150 | Kem | Karelia | White Sea Tundra | Europe | Marsh | Subarctic | 40 | No | | | | | | |
-| ID | Province name | Area | Region | Continent | Terrain | Climate | Infra | Beach? | IC | Manpower | Energy | Oil | Metal | Rare Materials |
-|
-
-## 151
-
-| Segezha | Karelia | White Sea Tundra | Europe | Marsh | Subarctic | 40 | No | | | | | | |
-| 152 | Petrozavodsk | Karelia | White Sea Tundra | Europe | Forest | Subarctic | 50 | No | | | | | | |
-| 153 | Molotovsk | Arkhangelsk | White Sea Tundra | Europe | Forest | Subarctic | 50 | No | | | | | | |
-| 154 | Archangelsk | Arkhangelsk | White Sea Tundra | Europe | Forest | Subarctic | 50 | Yes | 1 | 1 | 1 | | | |
-| 155 | Penza | Penza | Russia | Europe | Clear | Muddy | 50 | No | 1 | 1 | 1 | | | |
-| 156 | Balashov | Penza | Russia | Europe | Clear | Muddy | 50 | No | | | | | | |
-| 157 | Uryupinsk | Penza | Russia | Europe | Clear | Muddy | 50 | No | | | | | | |
-| 158 | Kuznetsk | Penza | Russia | Europe | Forest | Muddy | 60 | No | | | | | | |
-| 159 | Kamyshin | Stalingrad | Russia | Europe | Clear | Muddy | 60 | No | | | | | | |
-| 160 | Frolovo | Rostov | Russia | Europe | Clear | Muddy | 60 | No | | | | | | |
-| 161 | Surovikino | Rostov | Russia | Europe | Clear | Muddy | 60 | No | | | | | | |
-| 162 | Kalach | Stalingrad | Russia | Europe | Clear | Muddy | 60 | No | | | | | | |
-| 163 | Stalingrad | Stalingrad | Russia | Europe | Urban | Muddy | 60 | No | 1 | 1 | 1 | | | |
-| 164 | Cherny Yar | Stalingrad | Russia | Europe | Clear | Muddy | 60 | No | | | | | | |
-| 165 | Konosha | Arkhangelsk | White Sea Tundra | Europe | Forest | Subarctic | 50 | No | | | | | | |
-| 166 | Kostroma | Nizhnij Novgorod | Russia | Europe | Forest | Muddy | 50 | No | 1 | 1 | 1 | | | |
-| 167 | Ivanovo | Nizhnij Novgorod | Russia | Europe | Marsh | Muddy | 40 | No | 1 | 1 | 1 | | | |
-| 168 | Gorkij | Nizhnij Novgorod | Russia | Europe | Marsh | Muddy | 50 | No | 3 | 3 | 3 | | 3 | 2 |
-| 169 | Arzamas | Nizhnij Novgorod | Russia | Europe | Clear | Muddy | 60 | No | | | | | | |
-| 170 | Totma | Arkhangelsk | White Sea Tundra | Europe | Forest | Subarctic | 50 | No | | | | | | |
-| 171 | Volodga | Arkhangelsk | White Sea Tundra | Europe | Forest | Subarctic | 50 | No | 1 | 1 | 1 | | | |
-| 172 | Cherepovets | Kostroma | Russia | Europe | Forest | Muddy | 60 | No | | | | | | |
-| 173 | Bezhetsk | Kostroma | Russia | Europe | Forest | Muddy | 60 | No | | | | | | |
-| 174 | Kalinin | Moscow | Russia | Europe | Forest | Muddy | 60 | No | 1 | 1 | 1 | | | |
-| 175 | Moscow | Moscow | Russia | Europe | Urban | Muddy | 70 | No | 12 | 13 | 72 | | 27 | 15 |
-| 176 | Rybinsk | Moscow | Russia | Europe | Forest | Muddy | 60 | No | | | | | | |
-| 177 | Danilov | Vladimir | Russia | Europe | Forest | Muddy | 60 | No | | | | | | |
-| 178 | Yaroslavl | Vladimir | Russia | Europe | Forest | Muddy | 60 | No | 1 | 1 | 1 | | | |
-| 179 | Murom | Vladimir | Russia | Europe | Forest | Muddy | 60 | No | | | | | | |
-| 180 | Vladimir | Vladimir | Russia | Europe | Forest | Muddy | 60 | No | 1 | 1 | 1 | | | |
-| 181 | Kaluga | Moscow | Russia | Europe | Forest | Muddy | 60 | No | 1 | 1 | 1 | | | |
-| 182 | Mozhaisk | Moscow | Russia | Europe | Forest | Muddy | 60 | No | | | 21 | | | |
-| 183 | Vytegra | Kostroma | Russia | Europe | Forest | Subarctic | 60 | No | | | | | | |
-| 184 | Tikhvin | Kostroma | Russia | Europe | Forest | Muddy | 60 | No | | | | | | |
-| 185 | Volkhov | Kostroma | Russia | Europe | Forest | Muddy | 60 | No | | | | | | |
-| 186 | Luga | Leningrad | Russia | Europe | Forest | Muddy | 60 | No | | | | | | |
-| 187 | Leningrad | Leningrad | Russia | Europe | Urban | Muddy | 80 | Yes | 3 | 3 | 3 | | 3 | 1 |
-| 188 | Kingisepp | Leningrad | Russia | Europe | Marsh | Muddy | 40 | Yes | | | | | | |
-| 189 | Novgorod | Novgorod | Russia | Europe | Marsh | Muddy | 40 | No | | 1 | | | | |
-| 190 | Staraya Russa | Novgorod | Russia | Europe | Marsh | Muddy | 40 | No | | | | | | |
-| 191 | Porkhov | Novgorod | Russia | Europe | Forest | Muddy | 60 | No | | | | | | |
-| 192 | Gdov | Leningrad | Russia | Europe | Marsh | Muddy | 40 | No | | | | | | |
-| 193 | Narva | Estonia | Baltic States | Europe | Marsh | Muddy | 80 | Yes | | | | | | |
-| 194 | Tallinn | Estonia | Baltic States | Europe | Clear | Muddy | 80 | Yes | 6 | 6 | 11 | | 6 | 3 |
-| 195 | Tartu | Estonia | Baltic States | Europe | Forest | Muddy | 80 | No | | | | | | |
-| 196 | Pärnu | Estonia | Baltic States | Europe | Forest | Muddy | 80 | Yes | | | | | | |
-| 197 | Riga | Latvia | Baltic States | Europe | Forest | Muddy | 80 | Yes | 6 | 6 | 11 | | 6 | 4 |
-| 198 | Gulbene | Latvia | Baltic States | Europe | Forest | Muddy | 80 | No | | | | | | |
-| 199 | Voru | Estonia | Baltic States | Europe | Forest | Muddy | 60 | No | | | | | | |
-| 200 | Pskov | Pskov | Russia | Europe | Forest | Muddy | 60 | No | 1 | 1 | 1 | | | |
-| ID | Province name | Area | Region | Continent | Terrain | Climate | Infra | Beach? | IC | Manpower | Energy | Oil | Metal | Rare Materials |
-|
-
-## 201
-
-| Opochka | Pskov | Russia | Europe | Clear | Muddy | 60 | No | | | | | | |
-| 202 | Dagaupulis | Latvia | Baltic States | Europe | Clear | Muddy | 60 | No | 1 | | 1 | | 1 | |
-| 203 | Jekapils | Lithuania | Baltic States | Europe | Forest | Muddy | 60 | No | | | | | | |
-| 204 | Jelgava | Memel | Baltic States | Europe | forest | Muddy | 80 | Yes | 1 | 1 | 1 | | | |
-| 205 | Mazirbe | Memel | Baltic States | Europe | Forest | Muddy | 80 | Yes | | | | | | |
-| 206 | Memel | Memel | Baltic States | Europe | Clear | Muddy | 80 | Yes | 1 | | 1 | | | |
-| 207 | Kaunas | Lithuania | Baltic States | Europe | Marsh | Muddy | 60 | No | 7 | 7 | 12 | | 6 | 4 |
-| 208 | Wilno | Lithuania | Baltic States | Europe | forest | Muddy | 60 | No | 1 | 1 | 1 | | | |
-| 209 | Grodno | Grodno | Belarus | Europe | Forest | Muddy | 60 | No | | | | | | |
-| 210 | Baranowicze | Grodno | Belarus | Europe | forest | Muddy | 60 | No | 1 | 1 | 1 | | | |
-| 211 | Lida | Grodno | Belarus | Europe | clear | Muddy | 60 | No | | | | | | |
-| 212 | Minsk | Minsk | Belarus | Europe | Forest | Muddy | 60 | No | 2 | 1 | 2 | | 2 | 1 |
-| 213 | Molodeczno | Polotsk | Belarus | Europe | clear | Muddy | 60 | No | | | | | | |
-| 214 | Swieciany | Polotsk | Belarus | Europe | clear | Muddy | 60 | No | | | | | | |
-| 215 | Novorzhev | Novgorod | Russia | Europe | Forest | Muddy | 60 | No | | | | | | |
-| 216 | Nevel | Velikiye Luki | Russia | Europe | Clear | Muddy | 60 | No | | | | | | |
-| 217 | Vitebsk | Smolensk | Russia | Europe | Forest | Muddy | 60 | No | 1 | 1 | 1 | | | |
-| 218 | Orsha | Smolensk | Russia | Europe | Forest | Muddy | 60 | No | | | | | | |
-| 219 | Smolensk | Smolensk | Russia | Europe | Forest | Muddy | 60 | No | 1 | 1 | 1 | | | |
-| 220 | Mogilev | Smolensk | Russia | Europe | Forest | Muddy | 60 | No | 1 | 1 | 1 | | | |
-| 221 | Bobraisk | Minsk | Belarus | Europe | Clear | Muddy | 60 | No | | | | | | |
-| 222 | Luniniec | Minsk | Belarus | Europe | marsh | Muddy | 40 | No | | | | | | |
-| 223 | | \- | \- | \- | Ocean | Temperate | 100 | No | | | | | | |
-| 224 | | \- | \- | \- | Ocean | Temperate | 100 | No | | | | | | |
-| 225 | Mozyr | Minsk | Belarus | Europe | Marsh | Muddy | 40 | No | | | | | | |
-| 226 | Korosten | Kiev | Ukraine | Europe | Marsh | Muddy | 40 | No | | | | | | |
-| 227 | Zhitomir | Kiev | Ukraine | Europe | Clear | Muddy | 60 | No | 1 | 1 | 1 | | | |
-| 228 | Vinnitsa | Kiev | Ukraine | Europe | Clear | Muddy | 60 | No | 3 | 3 | 3 | | 3 | 1 |
-| 229 | Stanislawow | Transnistria | Poland | Europe | clear | Muddy | 60 | No | 2 | 1 | | | 1 | |
-| 230 | Beltsy | Bessarabia | Romania | Europe | Hills | Muddy | 80 | No | 2 | 1 | 2 | | 1 | 1 |
-| 231 | Mogilev Podolski | Transnistria | Ukraine | Europe | Clear | Muddy | 60 | No | | | | | | |
-| 232 | Balta | Transnistria | Ukraine | Europe | Clear | Muddy | 60 | No | | | | | | |
-| 233 | Odessa | Odessa | Ukraine | Europe | Clear | Mediterranean | 80 | Yes | 2 | 1 | 2 | | 2 | 1 |
-| 234 | Kherson | Odessa | Ukraine | Europe | Clear | Mediterranean | 60 | Yes | 1 | 1 | 1 | | | |
-| 235 | Dnepropetrovsk | Dnepropretovsk | Ukraine | Europe | Clear | Muddy | 60 | No | 2 | 2 | 150 | | 6 | 3 |
-| 236 | Krivoy Rog | Dnepropretovsk | Ukraine | Europe | Clear | Muddy | 60 | No | 1 | 1 | 147 | | 99 | |
-| 237 | Cherkassy | Kiev | Ukraine | Europe | Clear | Muddy | 60 | No | 1 | 1 | 1 | | | |
-| 238 | Kiev | Kiev | Ukraine | Europe | Urban | Muddy | 70 | No | 2 | 2 | 2 | | 2 | 1 |
-| 239 | Priluki | Kiev | Ukraine | Europe | Clear | Muddy | 60 | No | | | | | | |
-| 240 | Vyshgorod | Kiev | Ukraine | Europe | Clear | Muddy | 60 | No | | | | | | |
-| 241 | Chernigov | Kursk | Ukraine | Europe | Clear | Muddy | 60 | No | 1 | 1 | 1 | | | |
-| 242 | Konotop | Kursk | Ukraine | Europe | Clear | Muddy | 60 | No | | | | | | |
-| 243 | Kursk | Kursk | Ukraine | Europe | Clear | Muddy | 60 | No | 1 | 1 | 3 | | 99 | |
-| 244 | Sumy | Kursk | Ukraine | Europe | Clear | Muddy | 60 | No | 1 | 1 | 1 | | | |
-| 245 | Poltava | Dnepropretovsk | Ukraine | Europe | Clear | Muddy | 60 | No | 1 | 1 | 1 | | | |
-| 246 | Zaporozhye | Dnepropretovsk | Ukraine | Europe | Clear | Muddy | 60 | No | 1 | 1 | 159 | | | |
-| 247 | Belgorod | Kursk | Ukraine | Europe | Clear | Muddy | 60 | No | 1 | 1 | 1 | | | |
-| 248 | Kharkov | Kharkov | Ukraine | Europe | Clear | Muddy | 60 | No | 2 | 2 | 2 | | 2 | 1 |
-| 249 | Stalino | Kharkov | Ukraine | Europe | Clear | Muddy | 60 | No | 5 | 5 | 192 | | 15 | 6 |
-| 250 | Melitopol | Kharkov | Ukraine | Europe | Clear | Mediterranean | 60 | Yes | | | | | | |
-| ID | Province name | Area | Region | Continent | Terrain | Climate | Infra | Beach? | IC | Manpower | Energy | Oil | Metal | Rare Materials |
-|
-
-## 251
-
-| Perekop | Odessa | Ukraine | Europe | Clear | Mediterranean | 60 | Yes | | | | | | |
-| 252 | Yevpatoriya | Krim | Ukraine | Europe | Clear | Mediterranean | 60 | Yes | | | | | | |
-| 253 | Sevastopol | Krim | Ukraine | Europe | Hills | Mediterranean | 70 | Yes | 1 | 1 | 1 | | | |
-| 254 | Kerch | Krim | Ukraine | Europe | Hills | Mediterranean | 60 | No | | | | | | |
-| 255 | Novorossisk | Krasnodar | Kaukasus | Europe | Hills | Mediterranean | 60 | No | | | | | | |
-| 256 | Krasnodar | Krasnodar | Kaukasus | Europe | Clear | Muddy | 60 | No | 2 | 2 | 2 | | 2 | 1 |
-| 257 | Tikhoretsk | Krasnodar | Kaukasus | Europe | Clear | Muddy | 60 | No | | | | | | |
-| 258 | Rostov | Rostov | Kaukasus | Europe | Clear | Muddy | 60 | No | 2 | 2 | 2 | | 2 | 1 |
-| 259 | Kamensk-Shakhtinski | Saransk | Ukraine | Europe | Clear | Muddy | 60 | No | | | | | | |
-| 260 | Bilovodsk | Saransk | Ukraine | Europe | Clear | Muddy | 60 | No | | | | | | |
-| 261 | Rossosh | Saransk | Ukraine | Europe | Clear | Muddy | 60 | No | | | | | | |
-| 262 | Ostrogozhsk | Saransk | Ukraine | Europe | Clear | Muddy | 60 | No | | | | | | |
-| 263 | Svoboda | Tambov | Russia | Europe | Clear | Muddy | 60 | No | | | | | | |
-| 264 | Pavlovsk | Tambov | Russia | Europe | Clear | Muddy | 60 | No | | | | | | |
-| 265 | Boguchar | Saransk | Ukraine | Europe | Clear | Muddy | 60 | No | | | | | | |
-| 266 | Kashary | Rostov | Ukraine | Europe | Clear | Muddy | 60 | No | | | | | | |
-| 267 | Bokovskaya | Rostov | Ukraine | Europe | Clear | Muddy | 60 | No | | | | | | |
-| 268 | Morozovsk | Rostov | Ukraine | Europe | Clear | Muddy | 60 | No | | | | | | |
-| 269 | Konstatinovsk | Rostov | Kaukasus | Europe | Clear | Muddy | 60 | No | | | | | | |
-| 270 | Salsk | Krasnodar | Kaukasus | Europe | Clear | Muddy | 60 | No | | | | | | |
-| 271 | Kotelnikovo | Stalingrad | Russia | Europe | Clear | Muddy | 60 | No | | | | | | |
-| 272 | Zhlobin | Rogachev | Russia | Europe | Clear | Muddy | 60 | No | | | | | | |
-| 273 | Gomel | Rogachev | Russia | Europe | Forest | Muddy | 60 | No | 1 | 1 | 1 | | | |
-| 274 | Rogachev | Rogachev | Russia | Europe | Forest | Muddy | 60 | No | | | | | | |
-| 275 | Roslavl | Rogachev | Russia | Europe | Clear | Muddy | 60 | No | | | | | | |
-| 276 | Klintsy | Ryazan | Russia | Europe | Clear | Muddy | 60 | No | | | | | | |
-| 277 | Bryansk | Ryazan | Russia | Europe | Forest | Muddy | 60 | No | 1 | 1 | 1 | | | |
-| 278 | Tula | Ryazan | Russia | Europe | Clear | Muddy | 60 | No | 1 | 1 | 1 | | | |
-| 279 | Ryazan | Ryazan | Russia | Europe | Clear | Muddy | 60 | No | 1 | 1 | 1 | | | |
-| 280 | Tambov | Tambov | Russia | Europe | Clear | Muddy | 60 | No | 1 | 1 | 1 | | | |
-| 281 | Lipetsk | Tambov | Russia | Europe | Clear | Muddy | 60 | No | 1 | 1 | 1 | | | |
-| 282 | Orel | Ryazan | Russia | Europe | Clear | Muddy | 60 | No | 1 | 1 | 1 | | | |
-| 283 | Voronezh | Tambov | Russia | Europe | Clear | Muddy | 60 | No | 2 | 2 | 2 | | 2 | 1 |
-| 284 | Borisglebsk | Tambov | Russia | Europe | Clear | Muddy | 50 | No | | | | | | |
-| 285 | Vyazma | Velikiye Luki | Russia | Europe | Marsh | Muddy | 40 | No | | | | | | |
-| 286 | Toropets | Velikiye Luki | Russia | Europe | Forest | Muddy | 60 | No | | | | | | |
-| 287 | Velikiye Luki | Velikiye Luki | Russia | Europe | Marsh | Muddy | 40 | No | | | | | | |
-| 288 | Rzhev | Moscow | Russia | Europe | Marsh | Muddy | 40 | No | | | | | | |
-| 289 | Demyansk | Novgorod | Russia | Europe | Forest | Muddy | 60 | No | | | | | | |
-| 290 | Öresund | Kattegat | Baltic Sea | Europe | Ocean | Temperate | 100 | No | | | | | | |
-| 291 | | \- | \- | \- | Ocean | \- | 100 | No | | | | | | |
-| 292 | Aalborg | Denmark | Denmark | Europe | Clear | Temperate | 100 | Yes | 1 | | 1 | | | |
-| 293 | Odense | Denmark | Denmark | Europe | Clear | Temperate | 100 | Yes | 1 | | 5 | | 1 | |
-| 294 | Copenhagen | Denmark | Denmark | Europe | Clear | Temperate | 100 | Yes | 9 | 7 | 14 | | 7 | 4 |
-| 295 | Bornholm | Denmark | Denmark | Europe | Clear | Temperate | 100 | Yes | | | | | | |
-| 296 | Rostock | Holstein_Mecklemburg | Germany | Europe | Clear | Temperate | 100 | Yes | 2 | 1 | 2 | | 1 | |
-| 297 | Wolfsburg | Hannover_Magdeburg | Germany | Europe | Clear | Temperate | 100 | No | | | | | | |
-| 298 | Magdeburg | Hannover_Magdeburg | Germany | Europe | Clear | Temperate | 100 | No | 3 | 1 | 3 | | 2 | 1 |
-| 299 | Potsdam | Brandenburg | Germany | Europe | Clear | Temperate | 100 | No | | | | | | |
-| 300 | Berlin | Brandenburg | Germany | Europe | Urban | Temperate | 100 | No | 19 | 10 | 24 | | 12 | 6 |
-| ID | Province name | Area | Region | Continent | Terrain | Climate | Infra | Beach? | IC | Manpower | Energy | Oil | Metal | Rare Materials |
-|
-
-## 301
-
-| Stralsund | Brandenburg | Germany | Europe | Forest | Temperate | 100 | Yes | | | | | | |
-| 302 | Stettin | Brandenburg | Germany | Europe | Clear | Temperate | 100 | Yes | 4 | 2 | 4 | | 2 | 1 |
-| 303 | Danzig | East Prussia | Germany | Europe | forest | Temperate | 100 | Yes | 1 | 1 | 1 | | | |
-| 304 | Elbing | East Prussia | Germany | Europe | clear | Temperate | 100 | Yes | | | | | | |
-| 305 | Torun | East Prussia | Germany | Europe | clear | Temperate | 100 | No | | | | | | |
-| 306 | Bydgoszcz | Poznan | Poland | Europe | clear | Temperate | 80 | No | | | | | | |
-| 307 | Poznan | Poznan | Poland | Europe | clear | Temperate | 80 | No | 1 | 2 | 3 | | 2 | 1 |
-| 308 | Küstrin | Brandenburg | Germany | Europe | Clear | Temperate | 100 | No | | | | | | |
-| 309 | Cottbus | Sachsen | Germany | Europe | Clear | Temperate | 100 | No | | | 12 | | | |
-| 310 | Leipzig | Sachsen | Germany | Europe | Clear | Temperate | 100 | No | 3 | 1 | 158 | | 3 | 1 |
-| 311 | Dresden | Sachsen | Germany | Europe | Hills | Temperate | 100 | No | 10 | 4 | 10 | | 5 | 3 |
-| 312 | Nuremberg | Bavaria | Germany | Europe | Hills | Temperate | 100 | No | 6 | 3 | 6 | | 7 | 2 |
-| 313 | Frankfurt-am-Main | Baden_Wurttemberg | Germany | Europe | Hills | Temperate | 100 | No | 7 | 3 | 7 | | 4 | 2 |
-| 314 | Stuttgart | Baden_Wurttemberg | Germany | Europe | Hills | Temperate | 100 | No | 11 | 4 | 11 | | 5 | 2 |
-| 315 | Freiburg | Baden_Wurttemberg | Germany | Europe | Clear | Temperate | 100 | No | | | | | | |
-| 316 | Mulhouse | Lorraine_Alsace | France | Europe | Forest | Temperate | 100 | No | | | | | | 5 |
-| 317 | Chaumont | Bourgogne_Champagne | France | Europe | Forest | Temperate | 100 | No | | | | | | |
-| 318 | Dijon | Bourgogne_Champagne | France | Europe | Hills | Temperate | 100 | No | 3 | 1 | 3 | | 2 | 1 |
-| 319 | Chalon-sur-Saône | Bourgogne_Champagne | France | Europe | Clear | Temperate | 100 | No | | | 11 | | | |
-| 320 | Vichy | Limousin_Auvergne | France | Europe | Clear | Temperate | 100 | No | | | | | | |
-| 321 | Châteauroux | Limousin_Auvergne | France | Europe | Clear | Temperate | 100 | No | | | | | | |
-| 322 | Limoges | Limousin_Auvergne | France | Europe | Forest | Temperate | 100 | No | 1 | 1 | 1 | | | |
-| 323 | La Rochelle | Aquitaine | France | Europe | Forest | Temperate | 100 | No | 3 | 1 | 3 | | 2 | 1 |
-| 324 | Bergerac | Limousin_Auvergne | France | Europe | Forest | Temperate | 100 | No | | | | | | |
-| 325 | Bordeaux | Aquitaine | France | Europe | Clear | Temperate | 100 | Yes | 4 | 2 | 4 | | 1 | |
-| 326 | Dax | Aquitaine | France | Europe | Forest | Temperate | 100 | Yes | | | | | | |
-| 327 | Auch | Aquitaine | France | Europe | Forest | Temperate | 100 | No | | | | | | |
-| 328 | Pau | Pyrenees_Languedoc | France | Europe | Mountain | Temperate | 80 | No | | | | | | |
-| 329 | Huesca | Catalonia | Spain | Europe | Mountain | Temperate | 40 | No | | | | | | |
-| 330 | Saragossa | Cantabric Chain | Spain | Europe | Hills | Mediterranean | 70 | No | 2 | 1 | 2 | | 1 | |
-| 331 | Bilbao | Cantabric Chain | Spain | Europe | Mountain | Temperate | 50 | Yes | 2 | 1 | 2 | | 1 | 1 |
-| 332 | Oviedo | Cantabric Chain | Spain | Europe | Mountain | Temperate | 40 | Yes | 2 | 1 | 13 | | 6 | |
-| 333 | Burgos | Continental Spain | Spain | Europe | Hills | Mediterranean | 60 | No | | | 11 | | 4 | |
-| 334 | La Coruña | Cantabric Chain | Spain | Europe | Forest | Mediterranean | 40 | No | 3 | 2 | 3 | | 2 | 1 |
-| 335 | Oporto | Portugal | Portugal | Europe | Clear | Mediterranean | 70 | No | 3 | 2 | 3 | | 2 | 1 |
-| 336 | Lissabon | Portugal | Portugal | Europe | Clear | Mediterranean | 80 | Yes | 9 | 7 | 14 | | 7 | 4 |
-| 337 | Guarda | Portugal | Portugal | Europe | Hills | Mediterranean | 70 | No | 1 | 1 | 1 | | 1 | |
-| 338 | Salamanca | Continental Spain | Spain | Europe | Clear | Mediterranean | 60 | No | | | | | | |
-| 339 | Valladolid | Continental Spain | Spain | Europe | Clear | Mediterranean | 60 | No | 4 | 2 | 8 | | 6 | 1 |
-| 340 | Sigüenza | Central Spain | Spain | Europe | Hills | Mediterranean | 60 | No | | | | | | |
-| 341 | Madrid | Central Spain | Spain | Europe | Urban | Mediterranean | 80 | No | 7 | 6 | 12 | | 6 | 5 |
-| 342 | Guadalajara | Central Spain | Spain | Europe | Clear | Mediterranean | 60 | No | 3 | 2 | 3 | | 2 | 1 |
-| 343 | Badajoz | Central Spain | Spain | Europe | Hills | Mediterranean | 60 | No | 2 | 1 | 2 | | 4 | |
-| 344 | Evora | Portugal | Portugal | Europe | Clear | Mediterranean | 60 | No | 1 | | 1 | | | |
-| 345 | Faro | Portugal | Portugal | Europe | Clear | Mediterranean | 60 | Yes | 1 | 1 | 1 | | | |
-| 346 | Huelva | West Andalucia | Spain | Europe | Hills | Mediterranean | 60 | Yes | | | | | 2 | |
-| 347 | Seville | West Andalucia | Spain | Europe | Clear | Mediterranean | 60 | Yes | 7 | 4 | 7 | | 7 | 6 |
-| 348 | Gibraltar | West Andalucia | Spain | Europe | Hills | Mediterranean | 80 | No | | | | | | |
-| 349 | Málaga | West Andalucia | Spain | Europe | Hills | Mediterranean | 60 | No | | | | | | |
-| 350 | Almería | East Andalucia | Spain | Europe | Mountain | Mediterranean | 40 | No | | | | | | |
-| ID | Province name | Area | Region | Continent | Terrain | Climate | Infra | Beach? | IC | Manpower | Energy | Oil | Metal | Rare Materials |
-|
-
-## 351
-
-| Jaén | East Andalucia | Spain | Europe | Hills | Mediterranean | 60 | No | | | | | 2 | 9 |
-| 352 | Murcia | Levant | Spain | Europe | Clear | Mediterranean | 60 | Yes | 1 | 1 | 1 | | | |
-| 353 | Albacete | East Andalucia | Spain | Europe | Hills | Mediterranean | 60 | No | | | | | | |
-| 354 | València | Levant | Spain | Europe | Hills | Mediterranean | 70 | Yes | 3 | 2 | 3 | | 1 | 1 |
-| 355 | Castellón | Levant | Spain | Europe | Hills | Mediterranean | 60 | No | | | | | | |
-| 356 | Tarragona | Catalonia | Spain | Europe | Hills | Mediterranean | 70 | Yes | | | | | | |
-| 357 | Barcelona | Catalonia | Spain | Europe | Hills | Mediterranean | 80 | Yes | 4 | 3 | 4 | | 2 | 3 |
-| 358 | Perpignan | Pyrenees_Languedoc | France | Europe | Clear | Mediterranean | 100 | Yes | | | | | | |
-| 359 | Toulouse | Pyrenees_Languedoc | France | Europe | Clear | Temperate | 100 | No | 4 | 2 | 4 | | 2 | 1 |
-| 360 | Clermont-Ferrand | Limousin_Auvergne | France | Europe | Hills | Temperate | 100 | No | 2 | 1 | 2 | | 1 | |
-| 361 | Saint-Etienne | Pyrenees_Languedoc | France | Europe | Hills | Temperate | 100 | No | | | 11 | | | |
-| 362 | Montpellier | Pyrenees_Languedoc | France | Europe | Clear | Mediterranean | 100 | Yes | 3 | 2 | 3 | | 18 | 1 |
-| 363 | Nîmes | Pyrenees_Languedoc | France | Europe | Clear | Mediterranean | 100 | No | | | | | | |
-| 364 | Marseille | Alpes_Provence | France | Europe | Clear | Mediterranean | 100 | Yes | 4 | 2 | 4 | | 2 | 1 |
-| 365 | Toulon | Alpes_Provence | France | Europe | Hills | Mediterranean | 100 | Yes | | | | | 15 | |
-| 366 | Nice | Alpes_Provence | France | Europe | Hills | Mediterranean | 100 | Yes | | | | | | |
-| 367 | Corsica | Ligurian Islands | France | Europe | Hills | Mediterranean | 60 | Yes | 1 | | 1 | | | |
-| 368 | Genoa | North Italy | Italy | Europe | Hills | Mediterranean | 100 | No | 3 | 1 | 3 | | 2 | 1 |
-| 369 | La Spezia | Appennine Ridge | Italy | Europe | Hills | Mediterranean | 80 | No | | | | | | |
-| 370 | Milan | North Italy | Italy | Europe | Clear | Mediterranean | 100 | No | 12 | 5 | 12 | | 6 | 3 |
-| 371 | Trento | North Italy | Italy | Europe | Mountain | Temperate | 80 | No | 1 | | 1 | | | |
-| 372 | Chur | Switzerland | Switzerland | Europe | Mountain | Temperate | 80 | No | | | | | | |
-| 373 | Lech | Austria | Austria | Europe | Mountain | Temperate | 100 | No | | | 5 | | | |
-| 374 | Friedrichshafen | Bavaria | Germany | Europe | Forest | Temperate | 100 | No | | | | | | |
-| 375 | Regensburg | Bavaria | Germany | Europe | Forest | Temperate | 100 | No | | | | | | |
-| 376 | Munich | Bavaria | Germany | Europe | Hills | Temperate | 100 | No | 5 | 2 | 5 | | 2 | 1 |
-| 377 | Innsbruck | Austria | Austria | Europe | Mountain | Temperate | 80 | No | 1 | 1 | 6 | | 4 | |
-| 378 | Venice | North Italy | Italy | Europe | Clear | Mediterranean | 100 | No | 10 | 4 | 13 | | 7 | 3 |
-| 379 | Ferrara | Appennine Ridge | Italy | Europe | Clear | Mediterranean | 80 | No | | | | | | |
-| 380 | Ljubljana | Croatia | Balkan | Europe | Hills | Temperate | 80 | No | 2 | 1 | 2 | | 1 | 1 |
-| 381 | Rijeka | Croatia | Balkan | Europe | Hills | Mediterranean | 80 | No | | | | | | |
-| 382 | Zagreb | Croatia | Balkan | Europe | Hills | Temperate | 80 | No | 3 | 2 | 3 | | 2 | 1 |
-| 383 | Banja Luka | Croatia | Balkan | Europe | Hills | Temperate | 70 | No | | | | | | |
-| 384 | Split | Croatia | Balkan | Europe | Hills | Mediterranean | 70 | Yes | 2 | 1 | 2 | | 1 | |
-| 385 | Zenica | Bosnia | Balkan | Europe | Hills | Temperate | 70 | No | | | | | | |
-| 386 | Sarajevo | Bosnia | Balkan | Europe | Hills | Temperate | 70 | No | 3 | 2 | 3 | | 2 | 1 |
-| 387 | Mostar | Bosnia | Balkan | Europe | Mountain | Mediterranean | 60 | No | | | | | | |
-| 388 | Dubrovnik | Bosnia | Balkan | Europe | Clear | Mediterranean | 80 | Yes | | | | | | |
-| 389 | Podgorica | East Serbia | Balkan | Europe | Mountain | Mediterranean | 60 | No | 1 | 1 | 1 | | 13 | |
-| 390 | Tirana | Albania | Balkan | Europe | Mountain | Mediterranean | 60 | Yes | 4 | 2 | 11 | 3 | 6 | 3 |
-| 391 | Vlorë | Albania | Balkan | Europe | Hills | Mediterranean | 60 | No | | | | | | |
-| 392 | Ioannina | Thrace | Balkan | Europe | Hills | Mediterranean | 70 | No | | | | | 4 | |
-| 393 | Kefalonia | Attica | Balkan | Europe | Hills | Mediterranean | 80 | Yes | | | | | | |
-| 394 | Patras | Attica | Balkan | Europe | Clear | Mediterranean | 80 | Yes | | | | | | |
-| 395 | Corinthe | Attica | Balkan | Europe | Hills | Mediterranean | 80 | No | 2 | 1 | 2 | | 1 | |
-| 396 | Crete | Greek Island | Balkan | Europe | Hills | Mediterranean | 60 | Yes | 1 | | 1 | | | |
-| 397 | Sea of Marmara | Black Sea | Black Sea | Europe | Ocean | Mediterranean | 100 | No | | | | | | |
-| 398 | Dodecanese | Greek Island | Balkan | Europe | Hills | Mediterranean | 80 | Yes | | | | | | |
-| 399 | Rhodes | Greek Island | Balkan | Europe | Hills | Mediterranean | 80 | Yes | | | | | | |
-| 400 | The Cyclades | Attica | Balkan | Europe | Hills | Mediterranean | 80 | Yes | 1 | 1 | 1 | | 1 | |
-| ID | Province name | Area | Region | Continent | Terrain | Climate | Infra | Beach? | IC | Manpower | Energy | Oil | Metal | Rare Materials |
-|
-
-## 401
-
-| Athens | Attica | Balkan | Europe | Clear | Mediterranean | 80 | Yes | 7 | 6 | 12 | | 6 | 4 |
-| 402 | Agrinio | Thrace | Balkan | Europe | Hills | Mediterranean | 80 | No | | | | | | |
-| 403 | Larisa | Thrace | Balkan | Europe | Hills | Mediterranean | 80 | No | 2 | 1 | 2 | | 1 | 1 |
-| 404 | Haifa | Palestine | Middle East | Asia | Hills | Mediterranean | 60 | Yes | | | | | | |
-| 405 | The Dardanelles | Bosporus | Balkan | Europe | Clear | Mediterranean | 80 | Yes | | | | | | |
-| 406 | Eilat | Palestine | Middle East | Asia | Desert | Arid | 40 | Yes | | | | | | |
-| 407 | Ar-Ruwayshid | Transjordan | Middle East | Asia | Desert | Arid | 20 | No | | | | | | |
-| 408 | Bursa | Bosporus | Anatolia | Asia | Hills | Mediterranean | 60 | Yes | | 1 | | | | |
-| 409 | Istanbul | Bosporus | Anatolia | Europe | Hills | Mediterranean | 60 | Yes | 1 | 1 | 1 | | 2 | 1 |
-| 410 | Kavala | Thrace | Balkan | Europe | Hills | Mediterranean | 80 | Yes | | | | | | |
-| 411 | Salonika | Thrace | Balkan | Europe | Hills | Mediterranean | 80 | Yes | 2 | 2 | 2 | | 4 | 1 |
-| 412 | Edessa | Thrace | Balkan | Europe | Clear | Mediterranean | 70 | No | | | | | | |
-| 413 | Skopje | East Serbia | Balkan | Europe | Mountain | Mediterranean | 60 | No | 1 | 1 | 1 | | 2 | |
-| 414 | Stip | East Serbia | Balkan | Europe | Hills | Mediterranean | 70 | No | | | | | | |
-| 415 | Pristina | East Serbia | Balkan | Europe | Hills | Mediterranean | 70 | No | 2 | 1 | 2 | | 6 | 4 |
-| 416 | Gorna Dzhumaya | Bulgaria | Balkan | Europe | Mountain | Mediterranean | 60 | No | | | | | | |
-| 417 | Sofia | Bulgaria | Balkan | Europe | Mountain | Temperate | 60 | No | 7 | 6 | 16 | | 6 | 4 |
-| 418 | Nis | East Serbia | Balkan | Europe | Hills | Temperate | 80 | No | | | 7 | | 5 | |
-| 419 | Vraca | Bulgaria | Balkan | Europe | Mountain | Temperate | 60 | No | 1 | 1 | 1 | | | |
-| 420 | Pleven | Bulgaria | Balkan | Europe | Mountain | Temperate | 60 | No | 2 | 1 | 2 | | 1 | |
-| 421 | Plovdiv | Bulgaria | Balkan | Europe | Mountain | Mediterranean | 60 | No | 3 | 2 | 3 | | 2 | 2 |
-| 422 | Varna | Bulgaria | Balkan | Europe | Hills | Mediterranean | 80 | Yes | 2 | 1 | 2 | | 1 | 1 |
-| 423 | Constanta | South Romania | Romania | Europe | Clear | Mediterranean | 80 | Yes | 1 | | 1 | | | |
-| 424 | Bucharest | South Romania | Romania | Europe | Clear | Temperate | 80 | No | 7 | 6 | 12 | 2 | 6 | 4 |
-| 425 | Pitesti | South Romania | Romania | Europe | Clear | Temperate | 80 | No | | | | | | |
-| 426 | Craiova | South Romania | Romania | Europe | Mountain | Temperate | 60 | No | 2 | 1 | 2 | | 1 | 1 |
-| 427 | Sibiu | Transylvania | Romania | Europe | Mountain | Temperate | 60 | No | 1 | 1 | 1 | | | |
-| 428 | Cluj-Napoca | Transylvania | Romania | Europe | Hills | Temperate | 80 | No | 2 | 1 | 2 | | 3 | 1 |
-| 429 | Bacau | Transylvania | Romania | Europe | Mountain | Temperate | 60 | No | 1 | 1 | 5 | | | |
-| 430 | Brasov | Transylvania | Romania | Europe | Mountain | Temperate | 60 | No | 1 | | 1 | | | |
-| 431 | Ploesti | North Romania | Romania | Europe | Clear | Temperate | 80 | No | 1 | 1 | 1 | 26 | | |
-| 432 | Braila | North Romania | Romania | Europe | Clear | Temperate | 80 | No | 1 | 1 | 1 | | | |
-| 433 | Iasi | Bessarabia | Romania | Europe | Clear | Muddy | 80 | No | 3 | 2 | 5 | | 5 | 1 |
-| 434 | Chisinev | Bessarabia | Romania | Europe | Hills | Muddy | 80 | No | 2 | 1 | 2 | | 2 | 1 |
-| 435 | Ismail | Bessarabia | Romania | Europe | Clear | Muddy | 80 | Yes | | | | | | |
-| 436 | Tulcea | North Romania | Romania | Europe | Clear | Muddy | 80 | No | | | | | | |
-| 437 | Izmir | Bosporus | Anatolia | Asia | Hills | Mediterranean | 60 | Yes | 1 | 1 | 4 | | | |
-| 438 | Antalya | Anatolian South Coast | Anatolia | Asia | Mountain | Mediterranean | 60 | No | 1 | 1 | 1 | | | |
-| 439 | Izmit | Bosporus | Anatolia | Asia | Hills | Mediterranean | 60 | Yes | | 1 | 4 | | | |
-| 440 | Karabük | Anatolian North Coast | Anatolia | Asia | Hills | Mediterranean | 60 | No | | | | | | |
-| 441 | Afyonkarahisar | Central Turkey | Anatolia | Asia | Clear | Temperate | 40 | No | | | | | | |
-| 442 | Konya | Central Turkey | Anatolia | Asia | Clear | Temperate | 40 | No | | | | | | |
-| 443 | Mersin | Anatolian South Coast | Anatolia | Asia | Mountain | Mediterranean | 60 | No | | | 6 | | | |
-| 444 | Cyprus | Anatolian South Coast | Anatolia | Europe | Hills | Mediterranean | 60 | Yes | | | | | 2 | |
-| 445 | Gaziantep | Anatolian South Coast | Anatolia | Asia | Mountain | Mediterranean | 60 | Yes | | | 5 | | | |
-| 446 | Kayseri | Central Turkey | Anatolia | Asia | Clear | Temperate | 40 | No | | | | | | |
-| 447 | Sivas | Central Turkey | Anatolia | Asia | Hills | Mediterranean | 40 | No | 1 | 1 | 1 | | | 3 |
-| 448 | Ankara | Central Turkey | Anatolia | Asia | Clear | Temperate | 60 | No | 6 | 6 | 11 | | 3 | 5 |
-| 449 | Samsun | Anatolian North Coast | Anatolia | Asia | Hills | Mediterranean | 60 | Yes | | | | | | |
-| 450 | Trebizond | Anatolian North Coast | Anatolia | Asia | Mountain | Mediterranean | 60 | No | | 1 | | | 2 | |
-| ID | Province name | Area | Region | Continent | Terrain | Climate | Infra | Beach? | IC | Manpower | Energy | Oil | Metal | Rare Materials |
-|
-
-## 451
-
-| Novi Pazar | East Serbia | Balkan | Europe | Hills | Temperate | 70 | No | | | | | | |
-| 452 | Uzice | Central Serbia | Balkan | Europe | Hills | Temperate | 70 | No | | | | | | |
-| 453 | Belgrade | Central Serbia | Balkan | Europe | Hills | Temperate | 80 | No | 9 | 8 | 14 | | 7 | 4 |
-| 454 | Osijek | Central Serbia | Balkan | Europe | Clear | Temperate | 80 | No | | | | | | |
-| 455 | Bjelovar | Croatia | Balkan | Europe | Clear | Temperate | 80 | No | | | | | | |
-| 456 | Pecs | Western Hungary | Hungary | Europe | Clear | Temperate | 80 | No | 1 | 1 | 15 | | 1 | |
-| 457 | Budapest | Western Hungary | Hungary | Europe | Clear | Temperate | 80 | No | 9 | 8 | 14 | | 7 | 5 |
-| 458 | Györ | Western Hungary | Hungary | Europe | Clear | Temperate | 80 | No | 2 | 1 | 2 | 2 | 27 | 1 |
-| 459 | Maribor | Croatia | Balkan | Europe | Clear | Temperate | 80 | No | | | | | | |
-| 460 | Graz | Austria | Austria | Europe | Hills | Temperate | 100 | No | 3 | 1 | 7 | | 9 | 1 |
-| 461 | Klagenfurt | Austria | Austria | Europe | Mountain | Temperate | 80 | No | 1 | | 1 | | | |
-| 462 | Salzburg | Austria | Austria | Europe | Hills | Temperate | 100 | No | 1 | | 1 | | | |
-| 463 | Vienna | Austria | Austria | Europe | Hills | Temperate | 100 | No | 11 | 8 | 16 | 2 | 8 | 6 |
-| 464 | Hollabrunn | Austria | Austria | Europe | Forest | Temperate | 100 | No | | | | | | |
-| 465 | Linz | Austria | Austria | Europe | Forest | Temperate | 100 | No | 2 | 1 | 2 | | 1 | 1 |
-| 466 | Strakonice | Bohemia | Czechoslovakia | Europe | Hills | Temperate | 100 | No | | | | | | |
-| 467 | Tábor | Bohemia | Czechoslovakia | Europe | Clear | Temperate | 100 | No | 1 | 1 | 1 | | | |
-| 468 | Kutna Hora | Bohemia | Czechoslovakia | Europe | Clear | Temperate | 100 | No | 2 | 1 | 2 | | 1 | |
-| 469 | Prague | Bohemia | Czechoslovakia | Europe | Clear | Temperate | 100 | No | 4 | 2 | 4 | | 2 | 2 |
-| 470 | Pilsen | Bohemia | Czechoslovakia | Europe | Clear | Temperate | 100 | No | 2 | 1 | 38 | | 1 | |
-| 471 | Ústí | Bohemia | Czechoslovakia | Europe | Hills | Temperate | 100 | No | 2 | 1 | 2 | | 1 | |
-| 472 | Liberec | Bohemia | Czechoslovakia | Europe | Hills | Temperate | 100 | No | | | | | | |
-| 473 | Breslau | Brandenburg | Germany | Europe | Hills | Temperate | 100 | No | 6 | 2 | 68 | | 3 | 2 |
-| 474 | Ostrava | Slovakia | Czechoslovakia | Europe | Clear | Temperate | 100 | No | 3 | 1 | 39 | | 2 | 1 |
-| 475 | Brno | Slovakia | Czechoslovakia | Europe | Clear | Temperate | 100 | No | 4 | 2 | 4 | | 2 | 2 |
-| 476 | Bratislava | Slovakia | Czechoslovakia | Europe | Clear | Temperate | 100 | No | 3 | 1 | 3 | | 2 | 2 |
-| 477 | Banská Bystrica | Slovakia | Czechoslovakia | Europe | Clear | Temperate | 100 | No | 2 | 1 | 2 | | 1 | |
-| 478 | Zilina | Slovakia | Czechoslovakia | Europe | Hills | Temperate | 100 | No | | | | | | |
-| 479 | Cracow | Krakow | Poland | Europe | hills | Temperate | 80 | No | 3 | 2 | 83 | | 11 | 1 |
-| 480 | Kielce | Krakow | Poland | Europe | forest | Temperate | 80 | No | 4 | 2 | 4 | | 5 | 1 |
-| 481 | Czestochowa | Poznan | Poland | Europe | clear | Temperate | 80 | No | 1 | 1 | 1 | | 1 | |
-| 482 | Oppeln | Poznan | Poland | Europe | clear | Temperate | 80 | No | 8 | 3 | 27 | | 20 | 2 |
-| 483 | Lodz | Poznan | Poland | Europe | clear | Temperate | 80 | No | 3 | 2 | 3 | | 1 | 1 |
-| 484 | Radom | Warsaw | Poland | Europe | clear | Temperate | 80 | No | | | | | | |
-| 485 | Warsaw | Warsaw | Poland | Europe | urban | Temperate | 80 | No | 8 | 8 | 15 | | 9 | 5 |
-| 486 | Lomza | Warsaw | Poland | Europe | clear | Temperate | 80 | No | | | | | | |
-| 487 | Lublin | Warsaw | Poland | Europe | clear | Temperate | 80 | No | 2 | 2 | 39 | | 1 | 1 |
-| 488 | Zamosc | Lvov | Poland | Europe | clear | Temperate | 80 | No | | | | | | |
-| 489 | Przemysl | Krakow | Poland | Europe | hills | Temperate | 80 | No | | | | | | |
-| 490 | Kosice | Slovakia | Czechoslovakia | Europe | Forest | Temperate | 80 | No | 2 | 1 | 2 | | 1 | |
-| 491 | Miskolc | Eastern Hungary | Hungary | Europe | Clear | Temperate | 80 | No | 2 | 1 | 2 | | 1 | |
-| 492 | Szeged | Eastern Hungary | Hungary | Europe | Clear | Temperate | 80 | No | 1 | 1 | 1 | | | |
-| 493 | Novi Sad | Central Serbia | Balkan | Europe | Clear | Temperate | 80 | No | 2 | 1 | 2 | | 1 | 1 |
-| 494 | Zrenjanin | Central Serbia | Balkan | Europe | Clear | Temperate | 80 | No | | | | | | |
-| 495 | Timisoara | South Romania | Romania | Europe | Clear | Temperate | 80 | No | 1 | 1 | 1 | | 1 | |
-| 496 | Arad | Transylvania | Romania | Europe | Clear | Temperate | 80 | No | 1 | 1 | 1 | | | |
-| 497 | Debrecen | Eastern Hungary | Hungary | Europe | Clear | Temperate | 80 | No | 2 | 1 | 2 | | 1 | |
-| 498 | Satu Mare | Transylvania | Romania | Europe | Hills | Temperate | 80 | No | 1 | 1 | 1 | | | |
-| 499 | Presov | Slovakia | Czechoslovakia | Europe | Hills | Temperate | 80 | No | | | | | | |
-| 500 | Stryj | Lvov | Poland | Europe | clear | Muddy | 80 | No | | | | | | |
-| ID | Province name | Area | Region | Continent | Terrain | Climate | Infra | Beach? | IC | Manpower | Energy | Oil | Metal | Rare Materials |
-|
-
-## 501
-
-| Lvov | Lvov | Poland | Europe | clear | Muddy | 80 | No | 2 | 2 | 4 | 2 | 2 | 1 |
-| 502 | Tarnopol | Lvov | Poland | Europe | clear | Muddy | 60 | No | 2 | 1 | 2 | | 1 | |
-| 503 | Pinsk | Brest Litovsk | Poland | Europe | marsh | Muddy | 60 | No | 1 | 1 | 1 | | | |
-| 504 | Brest Litovsk | Brest Litovsk | Poland | Europe | clear | Muddy | 60 | No | | | | | | |
-| 505 | Bielsk | Brest Litovsk | Poland | Europe | marsh | Muddy | 60 | No | | | | | | |
-| 506 | Kowel | Lvov | Poland | Europe | clear | Muddy | 60 | No | | | | | | |
-| 507 | Slonim | Brest Litovsk | Poland | Europe | forest | Muddy | 60 | No | | | | | | |
-| 508 | Bialystok | Brest Litovsk | Poland | Europe | clear | Muddy | 80 | No | 2 | 1 | 2 | | 1 | 1 |
-| 509 | Suwalki | East Prussia | Poland | Europe | forest | Muddy | 80 | No | | | | | | |
-| 510 | Königsberg | East Prussia | Baltic States | Europe | forest | Muddy | 100 | Yes | 6 | 3 | 6 | | 3 | 2 |
-| 511 | Alytus | Lithuania | Poland | Europe | Forest | Muddy | 80 | No | 1 | 1 | 1 | | 1 | 1 |
-| 512 | Bologna | Appennine Ridge | Italy | Europe | Hills | Mediterranean | 80 | No | 7 | 3 | 7 | | 4 | 2 |
-| 513 | Florence | Appennine Ridge | Italy | Europe | Hills | Mediterranean | 80 | Yes | 3 | 3 | 3 | | 3 | 1 |
-| 514 | Rimini | Appennine Ridge | Italy | Europe | Hills | Mediterranean | 80 | Yes | | | | | | |
-| 515 | Rome | Central Italy | Italy | Europe | Hills | Mediterranean | 80 | No | 8 | 8 | 15 | | 7 | 4 |
-| 516 | Perugia | Central Italy | Italy | Europe | Hills | Mediterranean | 80 | No | 1 | 1 | 1 | | | |
-| 517 | Pescara | Central Italy | Italy | Europe | Hills | Mediterranean | 80 | No | 3 | 3 | 3 | | 2 | 1 |
-| 518 | Cassino | Central Italy | Italy | Europe | Mountain | Mediterranean | 60 | No | | | | | | |
-| 519 | Anzio | Central Italy | Italy | Europe | Hills | Mediterranean | 80 | Yes | | | | | | |
-| 520 | Foggia | South Italy | Italy | Europe | Clear | Mediterranean | 80 | Yes | 1 | 2 | 5 | | 1 | |
-| 521 | Naples | South Italy | Italy | Europe | Clear | Mediterranean | 80 | Yes | 4 | 3 | 4 | | 4 | 1 |
-| 522 | Potenza | South Italy | Italy | Europe | Hills | Mediterranean | 80 | No | | | | | | |
-| 523 | Taranto | South Italy | Italy | Europe | Clear | Mediterranean | 60 | Yes | | | | | | |
-| 524 | Reggio di Calabria | South Italy | Italy | Europe | Clear | Mediterranean | 60 | No | 1 | 2 | 1 | | | |
-| 525 | Palermo | Sicilian Gap | Italy | Europe | Hills | Mediterranean | 60 | Yes | 2 | 4 | 2 | | 1 | 4 |
-| 526 | Catania | Sicilian Gap | Italy | Europe | Hills | Mediterranean | 60 | Yes | | | | | | |
-| 527 | Grenoble | Alpes_Provence | France | Europe | Mountain | Temperate | 80 | No | | | | | | |
-| 528 | Lyon | Alpes_Provence | France | Europe | Hills | Temperate | 100 | No | 6 | 3 | 6 | | 3 | 2 |
-| 529 | Besançon | Bourgogne_Champagne | France | Europe | Hills | Temperate | 100 | No | 1 | 1 | 1 | | | |
-| 530 | Geneva | Switzerland | Switzerland | Europe | Hills | Temperate | 100 | No | 3 | 2 | 3 | | 2 | 1 |
-| 531 | Turin | North Italy | Italy | Europe | Hills | Temperate | 100 | No | 7 | 3 | 7 | | 3 | 2 |
-| 532 | Bern | Switzerland | Switzerland | Europe | Mountain | Temperate | 80 | No | 7 | 5 | 12 | | 6 | 3 |
-| 533 | Zürich | Switzerland | Switzerland | Europe | Hills | Temperate | 100 | No | 4 | 2 | 4 | | 2 | 1 |
-| 534 | Sardinia | Ligurian Islands | Italy | Europe | Hills | Mediterranean | 60 | Yes | 1 | 1 | 1 | | 14 | |
-| 535 | Mallorca | Baleares | Spain | Europe | Hills | Mediterranean | 60 | Yes | | | | | | |
-| 536 | Menorca | Baleares | Spain | Europe | Clear | Mediterranean | 60 | Yes | | | | | | |
-| 537 | Ibiza | Baleares | Spain | Europe | Clear | Mediterranean | 50 | Yes | | | | | | |
-| 538 | Bermuda | Bermuda | Caribbean | North America | Clear | Mediterranean | 60 | Yes | | | | | | |
-| 539 | Managua | Nicaragua | Central America | North America | Hills | Tropical | 60 | Yes | 6 | 6 | 11 | | 6 | 3 |
-| 540 | San José | Panaman Ridge | Central America | North America | Mountain | Tropical | 60 | Yes | 5 | 5 | 10 | | 5 | 3 |
-| 541 | Vancouver | British Columbia | Western Canada | North America | forest | Temperate | 80 | Yes | 1 | | 1 | | 3 | |
-| 542 | Kiska Island | West Aleutians | Alaska | North America | Clear | Subarctic | 40 | Yes | | | | | | |
-| 543 | Amchitka Island | West Aleutians | Alaska | North America | Hills | Subarctic | 40 | Yes | | | | | | |
-| 544 | Andreanof Islands | West Aleutians | Alaska | North America | Hills | Subarctic | 40 | Yes | | | | | | |
-| 545 | Yunaska Island | Alaskan Archipelago | Alaska | North America | Hills | Subarctic | 40 | Yes | | | | | | |
-| 546 | Umnak Island | Alaskan Archipelago | Alaska | North America | Hills | Subarctic | 40 | Yes | | | | | | |
-| 547 | Unalaska Island | Alaskan Archipelago | Alaska | North America | Hills | Subarctic | 40 | Yes | | | | | | |
-| 548 | Unimak Island | Alaskan Archipelago | Alaska | North America | Hills | Subarctic | 40 | Yes | | | | | | |
-| 549 | Anchorage | Alaska | Alaska | North America | Hills | Subarctic | 40 | No | | | | | | |
-| 550 | Seward Peninsula | Alaska | Alaska | North America | forest | Arctic | 40 | No | | | | | | |
-| ID | Province name | Area | Region | Continent | Terrain | Climate | Infra | Beach? | IC | Manpower | Energy | Oil | Metal | Rare Materials |
-|
-
-## 551
-
-| Fairbanks | Alaska | Alaska | North America | forest | Arctic | 20 | No | | | | | | |
-| 552 | Whitehorse | Yukon | Northern Canada | North America | Mountain | Arctic | 20 | No | | | | | | |
-| 553 | Juneau | Alaska | Alaska | North America | Forest | Subarctic | 40 | Yes | | | | | | |
-| 554 | Prince George | British Columbia | Western Canada | North America | Mountain | Subarctic | 40 | No | | | 4 | | | |
-| 555 | Kamloops | British Columbia | Western Canada | North America | Mountain | Subarctic | 80 | No | | | | | | |
-| 556 | Vancouver Island | British Columbia | Western Canada | North America | forest | Temperate | 80 | Yes | 1 | | 1 | | 27 | |
-| 557 | Fort McMurray | Alberta | Western Canada | North America | Clear | Subarctic | 40 | No | | | | | | |
-| 558 | Yellowknife | Yukon | Northern Canada | North America | Hills | Arctic | 20 | No | | | | | | |
-| 559 | Kugluktuk | Northwest Territories | Northern Canada | North America | Hills | Arctic | 20 | No | | | | | | |
-| 560 | Repulse Bay | Northwest Territories | Northern Canada | North America | Hills | Arctic | 20 | No | | | | | | |
-| 561 | Rankin Inlet | Northwest Territories | Northern Canada | North America | Hills | Arctic | 20 | No | | | | | | |
-| 562 | Rowne | Brest Litovsk | Poland | Europe | clear | Muddy | 60 | No | 3 | 2 | | | 1 | 1 |
-| 563 | Baffin Island | Northwest Territories | Northern Canada | North America | Hills | Arctic | 20 | Yes | | | | | | |
-| 564 | Radisson | Quebec | Eastern Canada | North America | Hills | Subarctic | 40 | No | | | | | | |
-| 565 | Fort Severn | Ontario | Canada | North America | Hills | Subarctic | 60 | No | | | | | 6 | |
-| 566 | Churchill | Manitoba | Canada | North America | Hills | Subarctic | 40 | No | | | | | 5 | |
-| 567 | Dauphin | Manitoba | Canada | North America | Clear | Subarctic | 60 | No | | | | | 3 | |
-| 568 | Brandon | Manitoba | Canada | North America | Clear | Subarctic | 80 | No | 1 | | 1 | | | |
-| 569 | Winnipeg | Manitoba | Canada | North America | Clear | Subarctic | 80 | No | 1 | | 1 | | | |
-| 570 | Norway House | Manitoba | Canada | North America | Clear | Subarctic | 60 | No | | | | | | |
-| 571 | Thunder Bay | Ontario | Canada | North America | Forest | Subarctic | 80 | No | | | | | 6 | |
-| 572 | Sault Ste Marie | Ontario | Canada | North America | Forest | Subarctic | 80 | No | 1 | 1 | 1 | | 6 | |
-| 573 | Val d'Or | Quebec | Eastern Canada | North America | Forest | Subarctic | 60 | No | | | | | 7 | |
-| 574 | Sept-Îles | Quebec | Eastern Canada | North America | Hills | Subarctic | 60 | Yes | | | | | 2 | |
-| 575 | Labrador | New Foundland | Eastern Canada | North America | Hills | Subarctic | 60 | Yes | | | | | | |
-| 576 | Newfoundland | New Foundland | Eastern Canada | North America | Hills | Temperate | 60 | Yes | 1 | | 1 | | 14 | |
-| 577 | Siauliau | Memel | Baltic States | Europe | Hills | Muddy | 80 | No | | | | | | |
-| 578 | Cape Breton | Nova Scotia | Eastern Canada | North America | Hills | Temperate | 60 | Yes | 1 | | 1 | | | |
-| 579 | Halifax | Nova Scotia | Eastern Canada | North America | Clear | Temperate | 60 | Yes | 1 | | 19 | | | |
-| 580 | Moncton | New Brunswick | Eastern Canada | North America | Clear | Temperate | 60 | Yes | | | | | | |
-| 581 | Saint John | New Brunswick | Eastern Canada | North America | Clear | Temperate | 60 | Yes | | | | | | |
-| 582 | Greenville | Maine | Northeast US | North America | Clear | Temperate | 80 | No | | | | | | |
-| 583 | Portland | Maine | Northeast US | North America | Clear | Temperate | 80 | Yes | 2 | 1 | 2 | | | |
-| 584 | Sherbrooke | Quebec | Eastern Canada | North America | Clear | Temperate | 60 | No | 3 | 2 | 3 | | 2 | 2 |
-| 585 | Montréal | Quebec | Eastern Canada | North America | Clear | Temperate | 80 | No | | | | | | |
-| 586 | Québec City | Quebec | Eastern Canada | North America | Clear | Subarctic | 80 | Yes | 3 | 2 | 3 | | 3 | 2 |
-| 587 | Gatineau | Quebec | Eastern Canada | North America | Clear | Temperate | 60 | No | | | | | | |
-| 588 | Ottawa | Ontario | Canada | North America | Clear | Temperate | 80 | No | 5 | 5 | 10 | | 5 | 3 |
-| 589 | Toronto | Ontario | Canada | North America | Clear | Temperate | 80 | No | 2 | 1 | 2 | | 2 | 1 |
-| 590 | Windsor | Ontario | Canada | North America | Clear | Temperate | 80 | No | 2 | 1 | 2 | | 2 | |
-| 591 | Kingston | Ontario | Canada | North America | Clear | Temperate | 80 | No | 2 | 1 | 2 | | 2 | |
-| 592 | Plattsburgh | New York | Northeast US | North America | Hills | Temperate | 80 | No | | | | | | |
-| 593 | Watertown | New York | Northeast US | North America | Hills | Temperate | 80 | No | | | | | | |
-| 594 | Montpelier | Vermont | Northeast US | North America | Hills | Temperate | 80 | No | 1 | | 1 | | | |
-| 595 | Concord | New Hampshire | Northeast US | North America | Mountain | Temperate | 100 | No | | | | | | |
-| 596 | Manchester | New Hampshire | Northeast US | North America | Clear | Temperate | 100 | Yes | 1 | | 1 | | | |
-| 597 | Bennington | Vermont | Northeast US | North America | Hills | Temperate | 80 | No | | | | | | |
-| 598 | Albany | New York | Northeast US | North America | Hills | Temperate | 80 | No | 3 | 1 | 3 | | 2 | 1 |
-| 599 | Worcester | Massachussets | Northeast US | North America | Forest | Temperate | 100 | No | 3 | 1 | 3 | | 2 | 1 |
-| 600 | Boston | Massachussets | Northeast US | North America | Urban | Temperate | 100 | No | 6 | 3 | 6 | | 3 | 2 |
-| ID | Province name | Area | Region | Continent | Terrain | Climate | Infra | Beach? | IC | Manpower | Energy | Oil | Metal | Rare Materials |
-|
-
-## 601
-
-| Hartford | Connecticut_Rhode Island | Northeast US | North America | Clear | Temperate | 80 | Yes | 5 | 2 | 5 | | 3 | 1 |
-| 602 | New York | New York | Northeast US | North America | Urban | Temperate | 100 | Yes | 14 | 11 | 6 | | 3 | 2 |
-| 603 | Newark | New Jersey | Northeast US | North America | Urban | Temperate | 100 | Yes | 13 | 5 | 18 | | 9 | 5 |
-| 604 | Atlantic City | New Jersey | Northeast US | North America | Clear | Temperate | 100 | Yes | 9 | 4 | 9 | | 9 | 2 |
-| 605 | Dover | Maryland_Delaware | Northeast US | North America | Clear | Temperate | 100 | Yes | 1 | | 1 | | | |
-| 606 | Washington D.C. | Maryland_Delaware | Northeast US | North America | Urban | Temperate | 100 | No | 6 | 6 | 11 | | 6 | 3 |
-| 607 | Baltimore | Maryland_Delaware | Northeast US | North America | Clear | Temperate | 100 | No | 4 | 2 | 31 | | 12 | 1 |
-| 608 | Philadelphia | Pennsylvania | Northeast US | North America | Urban | Temperate | 100 | No | 12 | 6 | 12 | | 6 | 3 |
-| 609 | Harrisburg | Pennsylvania | Northeast US | North America | Hills | Temperate | 80 | No | 4 | 2 | 145 | | 2 | 1 |
-| 610 | Scranton | Pennsylvania | Northeast US | North America | Hills | Temperate | 80 | No | | | | | | |
-| 611 | Altoona | Pennsylvania | Northeast US | North America | Forest | Temperate | 100 | No | | | | | | |
-| 612 | Syracuse | New York | Northeast US | North America | Forest | Temperate | 100 | No | 3 | 1 | 3 | | 18 | 1 |
-| 613 | Buffalo | New York | Northeast US | North America | Clear | Temperate | 100 | No | | | | | 62 | |
-| 614 | Pittsburgh | Pennsylvania | Northeast US | North America | Urban | Temperate | 100 | No | 4 | 2 | 98 | | 2 | 1 |
-| 615 | Cleveland | Ohio | Northeast US | North America | clear | Temperate | 80 | No | 7 | 3 | 45 | 8 | 18 | 2 |
-| 616 | Detroit | Michigan | Midwest US | North America | urban | Temperate | 80 | No | 8 | 4 | 8 | | | 2 |
-| 617 | Flint | Michigan | Midwest US | North America | forest | Temperate | 80 | No | | | | 4 | | |
-| 618 | Great Rapids | Michigan | Midwest US | North America | clear | Temperate | 80 | No | 3 | 1 | 3 | | | 1 |
-| 619 | Indianapolis | Indiana | Midwest US | North America | clear | Temperate | 80 | No | 4 | 2 | 4 | | | 1 |
-| 620 | Chicago | Illinois | Midwest US | North America | urban | Temperate | 80 | No | 10 | 5 | 10 | | 5 | 3 |
-| 621 | Milwaukee | Wisconsin | Midwest US | North America | clear | Temperate | 80 | No | 6 | 3 | 6 | | 3 | 2 |
-| 622 | Marquette | Michigan | Midwest US | North America | forest | Temperate | 80 | No | | | | | 37 | |
-| 623 | Green Bay | Wisconsin | Midwest US | North America | forest | Temperate | 80 | No | | | | | | |
-| 624 | Madison | Wisconsin | Midwest US | North America | forest | Temperate | 80 | No | | | | | | |
-| 625 | Peoria | Illinois | Midwest US | North America | clear | Temperate | 80 | No | 3 | 2 | 3 | | 21 | 1 |
-| 626 | Decatur | Illinois | Midwest US | North America | clear | Temperate | 80 | No | 3 | 2 | 66 | | | 1 |
-| 627 | Evansville | Indiana | Midwest US | North America | clear | Temperate | 80 | No | 4 | 2 | 41 | | | 1 |
-| 628 | Columbus | Ohio | Northeast US | North America | clear | Temperate | 80 | No | 7 | 3 | 45 | | | 2 |
-| 629 | Charleston | West Virginia | Northeast US | North America | Mountain | Temperate | 60 | No | 4 | 2 | 111 | | 2 | 1 |
-| 630 | Clarksburg | West Virginia | Northeast US | North America | Mountain | Temperate | 60 | No | | | 107 | | 9 | |
-| 631 | Charlotteville | Virginia | Northeast US | North America | Forest | Temperate | 80 | No | 2 | 1 | 2 | | | |
-| 632 | Richmond | Virginia | Northeast US | North America | Clear | Temperate | 80 | No | 2 | 1 | 2 | | 1 | 1 |
-| 633 | Norfolk | Virginia | Northeast US | North America | Clear | Temperate | 80 | Yes | 2 | 1 | 2 | | 1 | |
-| 634 | Wilmington | North Carolina | Southeast US | North America | Marsh | Subtropical | 80 | Yes | | | | | | |
-| 635 | Fayetteville | North Carolina | Southeast US | North America | Clear | Subtropical | 80 | No | 2 | 1 | 2 | | 1 | |
-| 636 | Raleigh | North Carolina | Southeast US | North America | Clear | Subtropical | 80 | No | 2 | 1 | 2 | | 1 | |
-| 637 | Charlotte | North Carolina | Southeast US | North America | Hills | Subtropical | 80 | No | 2 | 1 | 2 | | 1 | |
-| 638 | Roanoke | Virginia | Northeast US | North America | Forest | Temperate | 80 | No | | | | | | |
-| 639 | Marion | Virginia | Northeast US | North America | Mountain | Temperate | 60 | No | | | 101 | | | |
-| 640 | Louisville | Kentucky | Midwest US | North America | forest | Temperate | 80 | No | 6 | 3 | 127 | | 9 | 2 |
-| 641 | Owensboro | Kentucky | Midwest US | North America | clear | Temperate | 80 | No | | | 134 | | | |
-| 642 | Nashville | Tennessee | Southeast US | North America | hills | Subtropical | 80 | No | 2 | 1 | 23 | | 21 | |
-| 643 | Asheville | North Carolina | Southeast US | North America | Mountain | Temperate | 60 | No | | | | | | |
-| 644 | Charleston | South Carolina | Southeast US | North America | Marsh | Subtropical | 80 | Yes | 2 | 1 | 2 | | 1 | |
-| 645 | Columbia | South Carolina | Southeast US | North America | Clear | Subtropical | 80 | No | 2 | 1 | 2 | | 8 | |
-| 646 | Savannah | Georgia | Southeast US | North America | Marsh | Subtropical | 80 | Yes | | | | | | |
-| 647 | Macon | Georgia | Southeast US | North America | Clear | Subtropical | 80 | No | | | | | | |
-| 648 | Jacksonville | Florida | Southeast US | North America | Marsh | Subtropical | 80 | Yes | 1 | | 1 | | | 1 |
-| 649 | Tampa | Florida | Southeast US | North America | Clear | Subtropical | 80 | Yes | 1 | | 1 | | | 7 |
-| 650 | Orlando | Florida | Southeast US | North America | Clear | Subtropical | 80 | Yes | 1 | | 1 | | | |
-| ID | Province name | Area | Region | Continent | Terrain | Climate | Infra | Beach? | IC | Manpower | Energy | Oil | Metal | Rare Materials |
-|
-
-## 651
-
-| Miami | Florida | Southeast US | North America | Marsh | Tropical | 80 | Yes | 1 | | 1 | | | 1 |
-| 652 | Andros | Bahamas Islands | Caribbean | North America | Clear | Tropical | 60 | Yes | | | | | | |
-| 653 | New Providence | Bahamas Islands | Caribbean | North America | Clear | Tropical | 60 | Yes | | | | | | |
-| 654 | Havana | Cuba | Caribbean | North America | Hills | Tropical | 60 | Yes | 6 | 6 | 11 | | 6 | 3 |
-| 655 | Santa Clara | Cuba | Caribbean | North America | Hills | Tropical | 60 | Yes | 1 | 1 | 1 | | 1 | |
-| 656 | Camagüey | Cuba | Caribbean | North America | Hills | Tropical | 60 | Yes | | | | | | |
-| 657 | Guantánamo | Cuba | Caribbean | North America | Mountain | Mediterranean | 60 | Yes | 1 | 1 | 1 | | | |
-| 658 | Hawaii | Hawaii | American Pacific | Asia | Mountain | Tropical | 80 | Yes | | | | | | |
-| 659 | Maui | Hawaii | American Pacific | Asia | Mountain | Tropical | 80 | Yes | | | | | | |
-| 660 | Kauai | Hawaii | American Pacific | Asia | jungle | Tropical | 80 | Yes | | | | | | |
-| 661 | Niihau | Hawaii | American Pacific | Asia | Clear | Tropical | 80 | Yes | 1 | | 1 | | | |
-| 662 | Midway Island | Midway | American Pacific | Asia | Clear | Tropical | 80 | Yes | | | | | | |
-| 663 | Pearl Harbour | Hawaii | American Pacific | Asia | Hills | Tropical | 80 | Yes | | | | | | |
-| 664 | Grand Bahama | Bahamas Islands | Caribbean | North America | Clear | Tropical | 60 | Yes | | | | | | |
-| 665 | The Abacos | Bahamas Islands | Caribbean | North America | Clear | Tropical | 60 | Yes | | | | | | |
-| 666 | Eleuthera | Bahamas Islands | Caribbean | North America | Clear | Tropical | 60 | Yes | | | | | | |
-| 667 | Buenos Aires | La Plata | Rio de la Plata | South America | Clear | Mediterranean | 60 | Yes | 10 | 8 | 15 | | 8 | 4 |
-| 668 | Long Island | Bahamas Islands | Caribbean | North America | Clear | Tropical | 60 | Yes | | | | | | |
-| 669 | Augusta | Georgia | Southeast US | North America | Clear | Subtropical | 80 | No | 3 | 2 | 3 | | 2 | 1 |
-| 670 | Atlanta | Georgia | Southeast US | North America | Hills | Subtropical | 80 | No | 3 | 2 | 3 | | 2 | 1 |
-| 671 | Chattanooga | Tennessee | Southeast US | North America | Hills | Subtropical | 60 | No | 2 | 1 | 23 | | 4 | 1 |
-| 672 | Birmingham | Alabama | Southeast US | North America | Forest | Subtropical | 80 | No | 3 | 1 | 66 | | 95 | 1 |
-| 673 | Memphis | Tennessee | Southeast US | North America | clear | Subtropical | 80 | No | 2 | 1 | 2 | | 1 | 1 |
-| 674 | Greenville | Mississippi | Southcentral US | North America | clear | Subtropical | 80 | No | | | | | | |
-| 675 | Jackson | Mississippi | Southcentral US | North America | Forest | Subtropical | 80 | No | 2 | 1 | 2 | 8 | 1 | |
-| 676 | Mobile | Alabama | Southeast US | North America | Clear | Subtropical | 80 | Yes | 3 | 1 | 3 | | 2 | 1 |
-| 677 | Tallahassee | Florida | Southeast US | North America | Forest | Subtropical | 80 | Yes | 1 | | 1 | | | 8 |
-| 678 | Biloxi | Mississippi | Southcentral US | North America | clear | Subtropical | 80 | Yes | 2 | 1 | 2 | | 1 | |
-| 679 | Baton Rouge | Louisiana | Southcentral US | North America | marsh | Subtropical | 80 | Yes | 2 | 1 | 2 | | 1 | |
-| 680 | New Orleans | Louisiana | Southcentral US | North America | marsh | Subtropical | 80 | No | 2 | 1 | 2 | | 1 | |
-| 681 | Alexandria | Louisiana | Southcentral US | North America | forest | Subtropical | 80 | No | | | | | | |
-| 682 | Monroe | Louisiana | Southcentral US | North America | clear | Subtropical | 80 | No | | | | 62 | | |
-| 683 | Pine Bluff | Arkansas | Southcentral US | North America | forest | Subtropical | 80 | No | | | | | | |
-| 684 | Little Rock | Arkansas | Southcentral US | North America | clear | Subtropical | 80 | No | 2 | 1 | 2 | | 40 | |
-| 685 | Jonesboro | Arkansas | Southcentral US | North America | clear | Subtropical | 80 | No | | | | | | |
-| 686 | Fort Smith | Arkansas | Southcentral US | North America | hills | Subtropical | 80 | No | 2 | 1 | 2 | | 1 | |
-| 687 | Cape Girardeau | Missouri | Midwest US | North America | forest | Temperate | 80 | No | | | | | | |
-| 688 | Springfield | Missouri | Midwest US | North America | clear | Temperate | 80 | No | | | | | | |
-| 689 | St. Louis | Missouri | Midwest US | North America | clear | Temperate | 80 | No | 4 | 2 | 4 | | 2 | 1 |
-| 690 | Kansas City | Missouri | Midwest US | North America | clear | Temperate | 80 | No | 4 | 2 | 4 | 2 | 2 | |
-| 691 | Cedar Rapids | Iowa | Midwest US | North America | clear | Temperate | 80 | No | 3 | 1 | 3 | | 2 | 1 |
-| 692 | Des Moines | Iowa | Midwest US | North America | clear | Temperate | 80 | No | 3 | 1 | 3 | | 2 | 1 |
-| 693 | Minneapolis | Minnesota | Midwest US | North America | Clear | Temperate | 80 | No | 6 | 3 | 6 | | 3 | 2 |
-| 694 | Duluth | Minnesota | Midwest US | North America | forest | Temperate | 80 | No | | | | | 50 | |
-| 695 | Moorhead | Minnesota | Midwest US | North America | clear | Temperate | 80 | No | | | | | | |
-| 696 | Worthington | Minnesota | Midwest US | North America | clear | Temperate | 80 | No | | | | | | |
-| 697 | Fargo | North Dakota | Midwest US | North America | clear | Temperate | 80 | No | | | | | | |
-| 698 | Bismarck | North Dakota | Midwest US | North America | clear | Temperate | 80 | No | 1 | 1 | 15 | 8 | | |
-| 699 | Dickinson | North Dakota | Midwest US | North America | clear | Temperate | 80 | No | | | | | | |
-| 700 | Fort Peck | Montana | Northwest US | North America | clear | Temperate | 80 | No | | | | | | |
-| ID | Province name | Area | Region | Continent | Terrain | Climate | Infra | Beach? | IC | Manpower | Energy | Oil | Metal | Rare Materials |
-|
-
-## 701
-
-| Miles City | Montana | Northwest US | North America | clear | Temperate | 80 | No | | | | | | |
-| 702 | Dodson | Montana | Northwest US | North America | hills | Temperate | 80 | No | | | | | | |
-| 703 | Billings | Montana | Northwest US | North America | Mountain | Temperate | 60 | No | | | | | | |
-| 704 | Casper | Wyoming | Northwest US | North America | Mountain | Temperate | 60 | No | | | | 24 | | |
-| 705 | Rock Springs | Wyoming | Northwest US | North America | Mountain | Temperate | 60 | No | | | | | | |
-| 706 | Grand Junction | Colorado | Southcentral US | North America | Mountain | Temperate | 60 | No | | | 12 | | | |
-| 707 | Denver | Colorado | Southcentral US | North America | plains | Temperate | 60 | No | 2 | 1 | 2 | 16 | 1 | |
-| 708 | Aspen | Colorado | Southcentral US | North America | Mountain | Temperate | 80 | No | | | 12 | | | |
-| 709 | Pueblo | Colorado | Southcentral US | North America | plains | Temperate | 80 | No | | | | | | |
-| 710 | Dodge City | Kansas | Southcentral US | North America | clear | Temperate | 80 | No | | | | | | |
-| 711 | Wichita | Kansas | Southcentral US | North America | clear | Temperate | 80 | No | 2 | 1 | 2 | | 1 | |
-| 712 | Enid | Oklahoma | Southcentral US | North America | Clear | Temperate | 80 | No | | | | | | |
-| 713 | Oklahoma City | Oklahoma | Southcentral US | North America | Clear | Temperate | 80 | No | 2 | 1 | 2 | 40 | 1 | |
-| 714 | Lawton | Oklahoma | Southcentral US | North America | Clear | Temperate | 80 | No | | | | | | |
-| 715 | Dallas | Texas | Southcentral US | North America | forest | Subtropical | 80 | No | 5 | 3 | 23 | 50 | 3 | 1 |
-| 716 | Houston | Texas | Southcentral US | North America | marsh | Subtropical | 80 | Yes | 5 | 3 | 5 | 50 | 3 | 83 |
-| 717 | San Antonio | Texas | Southcentral US | North America | hills | Subtropical | 80 | No | | | 18 | | | |
-| 718 | El Paso | Texas | Southcentral US | North America | desert | Arid | 60 | No | | | | | | |
-| 719 | Abilene | Texas | Southcentral US | North America | clear | Mediterranean | 80 | No | | | | | | |
-| 720 | Amarillo | Texas | Southcentral US | North America | clear | Mediterranean | 80 | No | | | | | 11 | |
-| 721 | Lubbock | Texas | Southcentral US | North America | clear | Mediterranean | 80 | No | | | | 152 | | |
-| 722 | Roswell | New Mexico | Southcentral US | North America | desert | Arid | 60 | No | | | | 24 | | 5 |
-| 723 | Las Cruces | New Mexico | Southcentral US | North America | desert | Arid | 60 | No | | | | | 6 | |
-| 724 | Albuquerque | New Mexico | Southcentral US | North America | hills | Mediterranean | 80 | No | | | | | | |
-| 725 | Santa Fe | New Mexico | Southcentral US | North America | hills | Mediterranean | 80 | No | 1 | 1 | 1 | | | |
-| 726 | Los Alamos | New Mexico | Southcentral US | North America | desert | Arid | 60 | No | | | | 24 | | |
-| 727 | Silver City | New Mexico | Southcentral US | North America | desert | Arid | 60 | No | | | | | 54 | |
-| 728 | Tucson | Arizona | Southwest US | North America | desert | Arid | 60 | No | | | | | | |
-| 729 | Yuma | Arizona | Southwest US | North America | desert | Arid | 60 | No | | | | | | |
-| 730 | Phoenix | Arizona | Southwest US | North America | desert | Arid | 60 | No | 1 | 1 | 1 | | | |
-| 731 | Delano Peak | Arizona | Southwest US | North America | hills | Temperate | 80 | No | | | | | | |
-| 732 | Provo | Utah | Southwest US | North America | Mountain | Temperate | 60 | No | | | 30 | | | |
-| 733 | Salt Lake City | Utah | Southwest US | North America | desert | Arid | 60 | No | 1 | 1 | 1 | | | |
-| 734 | Las Vegas | Nevada | Southwest US | North America | desert | Arid | 60 | No | | | | | | |
-| 735 | Mojave Desert | California | Southwest US | North America | Mountain | Arid | 60 | No | | | | | | |
-| 736 | Imperial Valley | California | Southwest US | North America | Desert | Arid | 60 | No | | | | | | |
-| 737 | Mexicali | Lower California | Mexico | North America | Hills | Mediterranean | 60 | Yes | | | | | | |
-| 738 | La Paz | Lower California | Mexico | North America | Hills | Mediterranean | 60 | Yes | | | | | | |
-| 739 | Hermosillo | Lower California | Mexico | North America | Desert | Arid | 60 | Yes | | | | | | |
-| 740 | Nogales | Chihuahua | Mexico | North America | Hills | Mediterranean | 60 | No | | | | | 6 | |
-| 741 | Ciudad Juárez | Chihuahua | Mexico | North America | Desert | Arid | 60 | No | | | | | | |
-| 742 | Chihuahua | Chihuahua | Mexico | North America | Desert | Arid | 60 | No | | | | | 14 | |
-| 743 | Culiacán | Lower California | Mexico | North America | Forest | Subtropical | 60 | Yes | 1 | 1 | 1 | | | |
-| 744 | Durango | Chihuahua | Mexico | North America | Mountain | Subtropical | 60 | No | | | | | | |
-| 745 | Monclova | Chihuahua | Mexico | North America | Clear | Subtropical | 60 | No | 1 | 1 | 5 | | 4 | |
-| 746 | Midland | Texas | Southcentral US | North America | clear | Subtropical | 80 | No | | | | | | |
-| 747 | Monterrey | Mexico City | Mexico | North America | Hills | Subtropical | 60 | No | 1 | 1 | 1 | | | |
-| 748 | Corpus Christi | Texas | Southcentral US | North America | Clear | Subtropical | 80 | Yes | 3 | 1 | 3 | | 2 | 1 |
-| 749 | Tampico | Vera Cruz | Mexico | North America | Clear | Subtropical | 60 | Yes | | | | 10 | | |
-| 750 | León | Mexico City | Mexico | North America | Mountain | Subtropical | 60 | No | 1 | 1 | 1 | | 11 | |
-| ID | Province name | Area | Region | Continent | Terrain | Climate | Infra | Beach? | IC | Manpower | Energy | Oil | Metal | Rare Materials |
-|
-
-## 751
-
-| Guadalajara | Mexico City | Mexico | North America | Forest | Subtropical | 60 | Yes | 2 | 2 | 2 | | 1 | 1 |
-| 752 | Mexico City | Mexico City | Mexico | North America | Mountain | Subtropical | 60 | No | 7 | 7 | 12 | | 7 | 4 |
-| 753 | Puebla | Vera Cruz | Mexico | North America | Forest | Subtropical | 60 | Yes | 3 | 3 | 3 | | 2 | 1 |
-| 754 | Acapulco | Vera Cruz | Mexico | North America | Mountain | Subtropical | 60 | Yes | 1 | 1 | 1 | | | |
-| 755 | Villahermosa | Central Rainforests | Mexico | North America | Jungle | Tropical | 60 | Yes | 1 | 1 | 1 | 10 | | |
-| 756 | Mérida | Central Rainforests | Mexico | North America | Jungle | Tropical | 60 | Yes | 1 | 1 | 1 | | | |
-| 757 | Guatemala | Central Rainforests | Central America | North America | Mountain | Tropical | 60 | Yes | 7 | 7 | 12 | | 7 | 3 |
-| 758 | Belize City | Central Rainforests | Central America | North America | Jungle | Tropical | 60 | Yes | | | | | | |
-| 759 | San Salvador | Central Rainforests | Central America | North America | Hills | Tropical | 60 | Yes | 6 | 6 | 11 | | 6 | 3 |
-| 760 | Tegucigalpa | Central Rainforests | Central America | North America | Mountain | Tropical | 60 | Yes | 6 | 6 | 11 | | 6 | 3 |
-| 761 | San Diego | California | Southwest US | North America | Hills | Mediterranean | 80 | Yes | 3 | 2 | 3 | | 8 | 1 |
-| 762 | Los Angeles | California | Southwest US | North America | Hills | Mediterranean | 80 | Yes | 6 | 3 | 6 | 44 | 3 | 2 |
-| 763 | Fresno | California | Southwest US | North America | Clear | Mediterranean | 80 | No | | | | 42 | | |
-| 764 | Sacramento | California | Southwest US | North America | Hills | Mediterranean | 80 | No | | | | | | |
-| 765 | San Francisco | California | Southwest US | North America | Hills | Mediterranean | 80 | Yes | 6 | 3 | 6 | | 3 | 2 |
-| 766 | Redding | California | Southwest US | North America | Forest | Temperate | 80 | No | | | | | | |
-| 767 | Sierra Nevada | California | Southwest US | North America | Mountain | Temperate | 60 | No | | | | | | |
-| 768 | Reno | Nevada | Southwest US | North America | Desert | Arid | 60 | No | | | | | | |
-| 769 | Harney Basin | Oregon | Northwest US | North America | Desert | Arid | 60 | No | | | | | | |
-| 770 | Pocatello | Idaho | Northwest US | North America | Hills | Temperate | 60 | No | | | | | | |
-| 771 | Boise | Idaho | Northwest US | North America | Mountain | Temperate | 60 | No | | | | | | |
-| 772 | Anaconda | Montana | Northwest US | North America | Mountain | Temperate | 60 | No | 1 | 1 | 1 | | | |
-| 773 | Missoula | Montana | Northwest US | North America | Mountain | Temperate | 60 | No | | | | | | |
-| 774 | Great Falls | Montana | Northwest US | North America | Mountain | Temperate | 60 | No | | | | | | |
-| 775 | Butte | Montana | Northwest US | North America | Mountain | Temperate | 60 | No | | | | | | |
-| 776 | Lewiston | Idaho | Northwest US | North America | Mountain | Temperate | 60 | No | | | | | | |
-| 777 | Elk City | Idaho | Northwest US | North America | Mountain | Temperate | 60 | No | | | | | | |
-| 778 | Blue Mountains | Oregon | Northwest US | North America | hills | Temperate | 80 | No | | | | | | |
-| 779 | Spokane | Washington | Northwest US | North America | forest | Temperate | 80 | No | | | | | | |
-| 780 | Seattle | Washington | Northwest US | North America | forest | Temperate | 80 | Yes | 2 | 1 | 2 | | 1 | |
-| 781 | Richland | Washington | Northwest US | North America | Mountain | Temperate | 60 | No | | | | | | |
-| 782 | Tacoma | Washington | Northwest US | North America | Forest | Temperate | 80 | Yes | 2 | 1 | 2 | | 1 | |
-| 783 | Portland | Oregon | Northwest US | North America | Forest | Temperate | 80 | No | 2 | 1 | 2 | | 1 | |
-| 784 | Mount Hood | Oregon | Northwest US | North America | Mountain | Temperate | 60 | No | | | | | | |
-| 785 | Klamath Falls | Oregon | Northwest US | North America | Mountain | Temperate | 60 | No | | | | | | |
-| 786 | Eugene | Oregon | Northwest US | North America | Forest | Temperate | 80 | No | | | | | | |
-| 787 | Rapid City | South Dakota | Midwest US | North America | hills | Temperate | 80 | No | | | | | | |
-| 788 | Sioux Falls | South Dakota | Midwest US | North America | clear | Temperate | 80 | No | 1 | 1 | 1 | | | |
-| 789 | Omaha | Nebraska | Midwest US | North America | clear | Temperate | 80 | No | 3 | 1 | 3 | | 2 | |
-| 790 | Scottsbluff | Nebraska | Midwest US | North America | clear | Temperate | 80 | No | | | | | 32 | |
-| 791 | Smoky Hill | Kansas | Southcentral US | North America | clear | Temperate | 80 | No | | | | 16 | | |
-| 792 | Topeka | Kansas | Southcentral US | North America | clear | Temperate | 80 | No | 2 | 1 | 2 | | 11 | |
-| 793 | Tulsa | Oklahoma | Southcentral US | North America | Clear | Temperate | 80 | No | 2 | 1 | 2 | 38 | 11 | |
-| 794 | Fort Resolution | Northwest Territories | Northern Canada | North America | Clear | Arctic | 20 | No | | | | | | |
-| 795 | Prince Albert | Saskatchewan | Canada | North America | Clear | Subarctic | 40 | No | | | | | | |
-| 796 | Edmonton | Alberta | Western Canada | North America | Clear | Subarctic | 60 | No | 1 | 1 | 7 | 4 | | |
-| 797 | Calgary | Alberta | Western Canada | North America | Clear | Subarctic | 80 | No | 1 | | 7 | | | |
-| 798 | Saskatoon | Saskatchewan | Canada | North America | Clear | Subarctic | 60 | No | 1 | 1 | 1 | | | |
-| 799 | Regina | Saskatchewan | Canada | North America | Clear | Subarctic | 80 | No | 1 | 1 | 1 | | | |
-| 800 | Greenland | Greenland | Greenland | North America | Clear | Arctic | 20 | Yes | | | | | | |
-| ID | Province name | Area | Region | Continent | Terrain | Climate | Infra | Beach? | IC | Manpower | Energy | Oil | Metal | Rare Materials |
-|
-
-## 801
-
-| Curacao | Hispaniola | Caribbean | North America | Hills | Tropical | 60 | Yes | 1 | 1 | | | | |
-| 802 | Barquisimeto | Maracaibo | Grand Colombia | South America | Hills | Tropical | 60 | Yes | | | | | | |
-| 803 | Barranquilla | Maracaibo | Grand Colombia | South America | Clear | Tropical | 60 | Yes | 2 | 2 | 2 | | 1 | |
-| 804 | Maracaibo | Maracaibo | Grand Colombia | South America | Mountain | Subtropical | 60 | Yes | 1 | 1 | 1 | 110 | | |
-| 805 | St. Lucia | Antilles | Caribbean | North America | Mountain | Subtropical | 60 | Yes | | | | | | |
-| 806 | St. George's | Antilles | Caribbean | North America | Hills | Tropical | 60 | Yes | | | | | | |
-| 807 | Barbados | Antilles | Caribbean | North America | Hills | Tropical | 60 | Yes | | | | | | |
-| 808 | Tobago | Antilles | Caribbean | North America | Jungle | Tropical | 60 | Yes | | | | | | |
-| 809 | Trinidad | Antilles | Caribbean | North America | Clear | Tropical | 60 | Yes | | | | 10 | | |
-| 810 | Cumaná | Caracas | Grand Colombia | South America | Jungle | Tropical | 60 | Yes | 1 | 1 | 1 | | 1 | |
-| 811 | Caracas | Caracas | Grand Colombia | South America | Jungle | Tropical | 60 | Yes | 6 | 6 | 11 | | 6 | 3 |
-| 812 | Cúcuta | Maracaibo | Grand Colombia | South America | Hills | Tropical | 40 | No | | | | | | |
-| 813 | Bogotá | Panaman Ridge | Grand Colombia | South America | Mountain | Tropical | 60 | No | 7 | 7 | 12 | 10 | 7 | 4 |
-| 814 | Guayaquil | Quito | Andes | South America | Clear | Mediterranean | 60 | Yes | 1 | 1 | 1 | | | |
-| 815 | Quito | Quito | Andes | South America | Mountain | Temperate | 60 | No | 5 | 6 | 10 | | 5 | 3 |
-| 816 | Trujillo | Lima | Andes | South America | Mountain | Mediterranean | 60 | Yes | 1 | 1 | 1 | 6 | 1 | 1 |
-| 817 | Tigre | Quito | Amazonas | South America | Jungle | Tropical | 40 | No | | | | 2 | | |
-| 818 | Iquitos | Iquitos | Amazonas | South America | Jungle | Tropical | 20 | No | | | | | | |
-| 819 | Mitú | Iquitos | Amazonas | South America | Jungle | Tropical | 20 | No | | | | | | |
-| 820 | Solimões | Manaus | Amazonas | South America | Jungle | Tropical | 20 | No | | | | | | |
-| 821 | Pucallpa | Lima | Amazonas | South America | Jungle | Tropical | 20 | No | | | | | | |
-| 822 | Rio Branco | Manaus | Amazonas | South America | Jungle | Tropical | 20 | No | | | | | | 1 |
-| 823 | Tefé | Manaus | Amazonas | South America | Jungle | Tropical | 20 | No | | | | | | |
-| 824 | Manaus | Manaus | Amazonas | South America | Jungle | Tropical | 40 | No | | | | | | 3 |
-| 825 | Pôrto Velho | Manaus | Amazonas | South America | Jungle | Tropical | 20 | No | | | | | | 2 |
-| 826 | Santarém | Manaus | Amazonas | South America | Jungle | Tropical | 40 | No | | | | | | 3 |
-| 827 | Riberalta | La Paz | Amazonas | South America | Hills | Tropical | 20 | No | | | | | | |
-| 828 | Cobija | La Paz | Amazonas | South America | Jungle | Tropical | 20 | No | | | | | | |
-| 829 | Cuzco | Lima | Amazonas | South America | Mountain | Temperate | 60 | No | 1 | 1 | 1 | | | |
-| 830 | Lima | Lima | Andes | South America | Mountain | Mediterranean | 60 | Yes | 7 | 7 | 12 | | 12 | 3 |
-| 831 | Arequipa | Lima | Andes | South America | Mountain | Mediterranean | 60 | Yes | 1 | 1 | 1 | | 4 | |
-| 832 | La Paz | La Paz | Andes | South America | Mountain | Temperate | 60 | No | 6 | 6 | 11 | | 32 | 3 |
-| 833 | Perseverancia | Mato Grosso | Brazilian Highlands | South America | Jungle | Mediterranean | 20 | No | | | | | | |
-| 834 | Cuiabá | Mato Grosso | Brazilian Highlands | South America | Hills | Subtropical | 40 | No | | | | | | |
-| 835 | Mato Grosso | Mato Grosso | Brazilian Highlands | South America | Clear | Subtropical | 40 | No | | | | | | |
-| 836 | Santa Cruz | Asuncion | Gran Chaco | South America | Desert | Arid | 40 | No | | | | | | |
-| 837 | Asunción | Asuncion | Gran Chaco | South America | Clear | Subtropical | 40 | No | 5 | 5 | 10 | | 5 | 3 |
-| 838 | Sucre | Asuncion | Andes | South America | Mountain | Temperate | 40 | No | 1 | 1 | | | 32 | |
-| 839 | Antofagasta | Chile | Andes | South America | Desert | Arid | 60 | Yes | 1 | | 1 | | 56 | |
-| 840 | Santiago | Chile | Andes | South America | Mountain | Mediterranean | 60 | Yes | 9 | 7 | 15 | | 10 | 4 |
-| 841 | Juan Fernández Archipelago | Chilean Archipelago | Andes | South America | Clear | Temperate | 60 | Yes | | | | | | |
-| 842 | Isla San Félix | Chilean Archipelago | Andes | South America | Clear | Temperate | 60 | Yes | | | | | | |
-| 843 | San Miguel de Tucumán | Upper Argentine | Andes | South America | Mountain | Temperate | 40 | No | 1 | 1 | 1 | | 2 | |
-| 844 | Corrientes | Upper Argentine | Gran Chaco | South America | Jungle | Subtropical | 40 | No | | | | | | |
-| 845 | Córdoba | Upper Argentine | Gran Chaco | South America | Hills | Subtropical | 40 | No | 2 | 1 | 5 | | 1 | |
-| 846 | Ciudad del Este | Upper Argentine | Gran Chaco | South America | Jungle | Subtropical | 60 | No | 1 | 1 | | | | |
-| 847 | Curitiba | Sao Paulo | Brazilian Highlands | South America | Mountain | Mediterranean | 60 | Yes | 2 | 2 | 7 | | 1 | |
-| 848 | Pôrto Alegre | Sao Paulo | Brazilian Highlands | South America | Hills | Mediterranean | 60 | Yes | 2 | 2 | 4 | | 1 | |
-| 849 | Montevideo | La Plata | Rio de la Plata | South America | Hills | Mediterranean | 60 | Yes | 8 | 7 | 14 | | 7 | 4 |
+<tr class="odd">
+<th><h2 id="section"><span id="1" class="mw-headline"> 1
+</span></h2></th>
+<th>Reykjavik</th>
+<th>Iceland</th>
+<th>Iceland</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Temperate</th>
+<th>60</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2</th>
+<th>Höfn</th>
+<th>Iceland</th>
+<th>Iceland</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Temperate</th>
+<th>60</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>3</th>
+<th>Stornoway</th>
+<th>North Scotland</th>
+<th>Scotland</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Temperate</th>
+<th>80</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>4</th>
+<th>As Suwayz</th>
+<th>Suez Channel Area</th>
+<th>Egypt</th>
+<th>Asia</th>
+<th>Desert</th>
+<th>Arid</th>
+<th>20</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>5</th>
+<th>Scapa Flow</th>
+<th>North Scotland</th>
+<th>Scotland</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Temperate</th>
+<th>80</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>6</th>
+<th>Inverness</th>
+<th>North Scotland</th>
+<th>Scotland</th>
+<th>Europe</th>
+<th>Mountain</th>
+<th>Temperate</th>
+<th>80</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>7</th>
+<th>Aberdeen</th>
+<th>North Scotland</th>
+<th>Scotland</th>
+<th>Europe</th>
+<th>Hills</th>
+<th>Temperate</th>
+<th>80</th>
+<th>No</th>
+<th>2</th>
+<th>1</th>
+<th>2</th>
+<th></th>
+<th>1</th>
+<th></th>
+</tr>
+<tr class="even">
+<th>8</th>
+<th>Dunfermline</th>
+<th>South Scotland</th>
+<th>Scotland</th>
+<th>Europe</th>
+<th>Hills</th>
+<th>Temperate</th>
+<th>80</th>
+<th>No</th>
+<th>2</th>
+<th></th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>9</th>
+<th>Glasgow</th>
+<th>South Scotland</th>
+<th>Scotland</th>
+<th>Europe</th>
+<th>Hills</th>
+<th>Temperate</th>
+<th>100</th>
+<th>Yes</th>
+<th>6</th>
+<th>2</th>
+<th>6</th>
+<th></th>
+<th>3</th>
+<th>2</th>
+</tr>
+<tr class="even">
+<th>10</th>
+<th>Edinburgh</th>
+<th>South Scotland</th>
+<th>Scotland</th>
+<th>Europe</th>
+<th>Hills</th>
+<th>Temperate</th>
+<th>100</th>
+<th>Yes</th>
+<th>2</th>
+<th>1</th>
+<th>54</th>
+<th></th>
+<th>19</th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>11</th>
+<th>Sunderland</th>
+<th>North England</th>
+<th>England</th>
+<th>Europe</th>
+<th>Hills</th>
+<th>Temperate</th>
+<th>100</th>
+<th>Yes</th>
+<th>7</th>
+<th>3</th>
+<th>263</th>
+<th></th>
+<th>3</th>
+<th>1</th>
+</tr>
+<tr class="even">
+<th>12</th>
+<th>Blackpool</th>
+<th>North England</th>
+<th>England</th>
+<th>Europe</th>
+<th>Hills</th>
+<th>Temperate</th>
+<th>100</th>
+<th>Yes</th>
+<th>3</th>
+<th>4</th>
+<th>8</th>
+<th></th>
+<th>23</th>
+<th>2</th>
+</tr>
+<tr class="odd">
+<th>13</th>
+<th>Sheffield</th>
+<th>North England</th>
+<th>England</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Temperate</th>
+<th>100</th>
+<th>Yes</th>
+<th>8</th>
+<th>2</th>
+<th>55</th>
+<th></th>
+<th>20</th>
+<th>1</th>
+</tr>
+<tr class="even">
+<th>14</th>
+<th>Liverpool</th>
+<th>North England</th>
+<th>England</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Temperate</th>
+<th>100</th>
+<th>Yes</th>
+<th>14</th>
+<th>7</th>
+<th>65</th>
+<th></th>
+<th>7</th>
+<th>4</th>
+</tr>
+<tr class="odd">
+<th>15</th>
+<th>Cardiff</th>
+<th>West England</th>
+<th>England</th>
+<th>Europe</th>
+<th>Hills</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th>5</th>
+<th>2</th>
+<th>108</th>
+<th></th>
+<th>3</th>
+<th>2</th>
+</tr>
+<tr class="even">
+<th>16</th>
+<th>Birmingham</th>
+<th>West England</th>
+<th>England</th>
+<th>Europe</th>
+<th>Urban</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th>12</th>
+<th>6</th>
+<th>12</th>
+<th></th>
+<th>6</th>
+<th>3</th>
+</tr>
+<tr class="odd">
+<th>17</th>
+<th>Norwich</th>
+<th>East England</th>
+<th>England</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Temperate</th>
+<th>100</th>
+<th>Yes</th>
+<th>5</th>
+<th>3</th>
+<th>7</th>
+<th></th>
+<th>4</th>
+<th>2</th>
+</tr>
+<tr class="even">
+<th>18</th>
+<th>Calais</th>
+<th>Pas de Calais</th>
+<th>France</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Temperate</th>
+<th>100</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>19</th>
+<th>London</th>
+<th>East England</th>
+<th>England</th>
+<th>Europe</th>
+<th>Urban</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th>14</th>
+<th>11</th>
+<th>22</th>
+<th></th>
+<th>11</th>
+<th>6</th>
+</tr>
+<tr class="even">
+<th>20</th>
+<th>Dover</th>
+<th>East England</th>
+<th>England</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Temperate</th>
+<th>100</th>
+<th>Yes</th>
+<th>4</th>
+<th>4</th>
+<th>7</th>
+<th></th>
+<th>4</th>
+<th>2</th>
+</tr>
+<tr class="odd">
+<th>21</th>
+<th>Portsmouth</th>
+<th>East England</th>
+<th>England</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Temperate</th>
+<th>100</th>
+<th>Yes</th>
+<th>4</th>
+<th>1</th>
+<th>3</th>
+<th></th>
+<th>1</th>
+<th></th>
+</tr>
+<tr class="even">
+<th>22</th>
+<th>Bristol</th>
+<th>West England</th>
+<th>England</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Temperate</th>
+<th>100</th>
+<th>Yes</th>
+<th>4</th>
+<th>2</th>
+<th>4</th>
+<th></th>
+<th>2</th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>23</th>
+<th>Plymouth</th>
+<th>West England</th>
+<th>England</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Temperate</th>
+<th>100</th>
+<th>Yes</th>
+<th>3</th>
+<th>1</th>
+<th>2</th>
+<th></th>
+<th>4</th>
+<th></th>
+</tr>
+<tr class="even">
+<th>24</th>
+<th>Cork</th>
+<th>Eire</th>
+<th>Ireland</th>
+<th>Europe</th>
+<th>Hills</th>
+<th>Temperate</th>
+<th>100</th>
+<th>Yes</th>
+<th>1</th>
+<th>1</th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>25</th>
+<th>Galway</th>
+<th>Eire</th>
+<th>Ireland</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>26</th>
+<th>Sligo</th>
+<th>Eire</th>
+<th>Ireland</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>27</th>
+<th>Letterkenny</th>
+<th>Eire</th>
+<th>Ireland</th>
+<th>Europe</th>
+<th>Hills</th>
+<th>Temperate</th>
+<th>100</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>28</th>
+<th>Belfast</th>
+<th>North Ireland</th>
+<th>Ireland</th>
+<th>Europe</th>
+<th>Hills</th>
+<th>Temperate</th>
+<th>100</th>
+<th>Yes</th>
+<th>3</th>
+<th>1</th>
+<th>2</th>
+<th></th>
+<th>1</th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>29</th>
+<th>Portadown</th>
+<th>North Ireland</th>
+<th>Ireland</th>
+<th>Europe</th>
+<th>Hills</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th>1</th>
+<th></th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>30</th>
+<th>Dublin</th>
+<th>Eire</th>
+<th>Ireland</th>
+<th>Europe</th>
+<th>Hills</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th>3</th>
+<th>3</th>
+<th>5</th>
+<th></th>
+<th>3</th>
+<th>1</th>
+</tr>
+<tr class="odd">
+<th>31</th>
+<th>Malta</th>
+<th>Sicilian Gap</th>
+<th>Italy</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Mediterranean</th>
+<th>80</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>32</th>
+<th>Brest</th>
+<th>Brittany</th>
+<th>France</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Temperate</th>
+<th>100</th>
+<th>Yes</th>
+<th></th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>33</th>
+<th>Rennes</th>
+<th>Brittany</th>
+<th>France</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Temperate</th>
+<th>100</th>
+<th>Yes</th>
+<th>4</th>
+<th>2</th>
+<th>4</th>
+<th></th>
+<th>2</th>
+<th>1</th>
+</tr>
+<tr class="even">
+<th>34</th>
+<th>Lorient</th>
+<th>Brittany</th>
+<th>France</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Temperate</th>
+<th>100</th>
+<th>Yes</th>
+<th></th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>35</th>
+<th>Nantes</th>
+<th>Brittany</th>
+<th>France</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Temperate</th>
+<th>100</th>
+<th>Yes</th>
+<th>4</th>
+<th>2</th>
+<th>4</th>
+<th></th>
+<th>2</th>
+<th>1</th>
+</tr>
+<tr class="even">
+<th>36</th>
+<th>Angers</th>
+<th>Brittany</th>
+<th>France</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>37</th>
+<th>Avranches</th>
+<th>Normandy</th>
+<th>France</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>38</th>
+<th>Cherbourg</th>
+<th>Normandy</th>
+<th>France</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>39</th>
+<th>Caen</th>
+<th>Normandy</th>
+<th>France</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Temperate</th>
+<th>100</th>
+<th>Yes</th>
+<th>2</th>
+<th>1</th>
+<th>2</th>
+<th></th>
+<th>1</th>
+<th></th>
+</tr>
+<tr class="even">
+<th>40</th>
+<th>Argentan</th>
+<th>Normandy</th>
+<th>France</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>41</th>
+<th>Le Havre</th>
+<th>Normandy</th>
+<th>France</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Temperate</th>
+<th>100</th>
+<th>Yes</th>
+<th>2</th>
+<th>1</th>
+<th>2</th>
+<th></th>
+<th>1</th>
+<th></th>
+</tr>
+<tr class="even">
+<th>42</th>
+<th>Dieppe</th>
+<th>Pas de Calais</th>
+<th>France</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Temperate</th>
+<th>100</th>
+<th>Yes</th>
+<th></th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>43</th>
+<th>Dunkerque</th>
+<th>Pas de Calais</th>
+<th>France</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Temperate</th>
+<th>100</th>
+<th>Yes</th>
+<th></th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>44</th>
+<th>Lille</th>
+<th>Pas de Calais</th>
+<th>France</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th>6</th>
+<th>3</th>
+<th>48</th>
+<th></th>
+<th>3</th>
+<th>2</th>
+</tr>
+<tr class="odd">
+<th>45</th>
+<th>Ghent</th>
+<th>Flanders</th>
+<th>Benelux</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Temperate</th>
+<th>100</th>
+<th>Yes</th>
+<th>5</th>
+<th>2</th>
+<th>5</th>
+<th></th>
+<th>3</th>
+<th>2</th>
+</tr>
+<tr class="even">
+<th>46</th>
+<th>Rotterdam</th>
+<th>Netherlands</th>
+<th>Benelux</th>
+<th>Europe</th>
+<th>Marsh</th>
+<th>Temperate</th>
+<th>100</th>
+<th>Yes</th>
+<th>5</th>
+<th>2</th>
+<th></th>
+<th></th>
+<th>3</th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>47</th>
+<th>Amsterdam</th>
+<th>Netherlands</th>
+<th>Benelux</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Temperate</th>
+<th>100</th>
+<th>Yes</th>
+<th>8</th>
+<th>7</th>
+<th>13</th>
+<th></th>
+<th>7</th>
+<th>4</th>
+</tr>
+<tr class="even">
+<th>48</th>
+<th>Utrecht</th>
+<th>Netherlands</th>
+<th>Benelux</th>
+<th>Europe</th>
+<th>Marsh</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th>1</th>
+<th>1</th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>49</th>
+<th>Eindhoven</th>
+<th>Netherlands</th>
+<th>Benelux</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th>3</th>
+<th>2</th>
+<th>27</th>
+<th></th>
+<th>2</th>
+<th>1</th>
+</tr>
+<tr class="even">
+<th>50</th>
+<th>Antwerp</th>
+<th>Flanders</th>
+<th>Benelux</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th>3</th>
+<th>2</th>
+<th>3</th>
+<th></th>
+<th>2</th>
+<th>1</th>
+</tr>
+<tr class="odd" data-bgcolor="ffff66">
+<th>ID</th>
+<th>Province name</th>
+<th>Area</th>
+<th>Region</th>
+<th>Continent</th>
+<th>Terrain</th>
+<th>Climate</th>
+<th>Infra</th>
+<th>Beach?</th>
+<th>IC</th>
+<th>Manpower</th>
+<th>Energy</th>
+<th>Oil</th>
+<th>Metal</th>
+<th>Rare Materials</th>
+</tr>
+<tr class="even">
+<th><h2 id="section-1"><span id="51" class="mw-headline"> 51
+</span></h2></th>
+<th>Brussels</th>
+<th>Flanders</th>
+<th>Benelux</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th>7</th>
+<th>5</th>
+<th>10</th>
+<th></th>
+<th>5</th>
+<th>4</th>
+</tr>
+<tr class="odd">
+<th>52</th>
+<th>Mons</th>
+<th>Flanders</th>
+<th>Benelux</th>
+<th>Europe</th>
+<th>Forest</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th>2</th>
+<th>1</th>
+<th>21</th>
+<th></th>
+<th>1</th>
+<th></th>
+</tr>
+<tr class="even">
+<th>53</th>
+<th>Valenciennes</th>
+<th>Pas de Calais</th>
+<th>France</th>
+<th>Europe</th>
+<th>Forest</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>54</th>
+<th>Amiens</th>
+<th>Pas de Calais</th>
+<th>France</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th>2</th>
+<th>1</th>
+<th>2</th>
+<th></th>
+<th>1</th>
+<th></th>
+</tr>
+<tr class="even">
+<th>55</th>
+<th>Compiègne</th>
+<th>Paris</th>
+<th>France</th>
+<th>Europe</th>
+<th>Forest</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th>2</th>
+<th>1</th>
+<th>2</th>
+<th></th>
+<th>1</th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>56</th>
+<th>Paris</th>
+<th>Paris</th>
+<th>France</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th>17</th>
+<th>11</th>
+<th>22</th>
+<th></th>
+<th>11</th>
+<th>6</th>
+</tr>
+<tr class="even">
+<th>57</th>
+<th>Orléans</th>
+<th>Paris</th>
+<th>France</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th>3</th>
+<th>2</th>
+<th>3</th>
+<th></th>
+<th>2</th>
+<th>1</th>
+</tr>
+<tr class="odd">
+<th>58</th>
+<th>Le Mans</th>
+<th>Loire</th>
+<th>France</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>59</th>
+<th>Cholet</th>
+<th>Loire</th>
+<th>France</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Temperate</th>
+<th>100</th>
+<th>Yes</th>
+<th></th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>60</th>
+<th>Tours</th>
+<th>Loire</th>
+<th>France</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>61</th>
+<th>Bourges</th>
+<th>Loire</th>
+<th>France</th>
+<th>Europe</th>
+<th>Forest</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>62</th>
+<th>Auxerre</th>
+<th>Loire</th>
+<th>France</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>63</th>
+<th>Troyes</th>
+<th>Bourgogne_Champagne</th>
+<th>France</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>64</th>
+<th>Reims</th>
+<th>Bourgogne_Champagne</th>
+<th>France</th>
+<th>Europe</th>
+<th>Forest</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>65</th>
+<th>Namur</th>
+<th>Wallonia</th>
+<th>Benelux</th>
+<th>Europe</th>
+<th>Forest</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th>1</th>
+<th>1</th>
+<th>20</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>66</th>
+<th>Aachen</th>
+<th>Westphalen</th>
+<th>Germany</th>
+<th>Europe</th>
+<th>Forest</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th>1</th>
+<th>31</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>67</th>
+<th>Essen</th>
+<th>Westphalen</th>
+<th>Germany</th>
+<th>Europe</th>
+<th>Urban</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th>4</th>
+<th>2</th>
+<th>97</th>
+<th></th>
+<th>2</th>
+<th>1</th>
+</tr>
+<tr class="odd">
+<th>68</th>
+<th>Liège</th>
+<th>Wallonia</th>
+<th>Benelux</th>
+<th>Europe</th>
+<th>Hills</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th>2</th>
+<th>1</th>
+<th>22</th>
+<th></th>
+<th>1</th>
+<th></th>
+</tr>
+<tr class="even">
+<th>69</th>
+<th>Bastogne</th>
+<th>Wallonia</th>
+<th>Benelux</th>
+<th>Europe</th>
+<th>Forest</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>70</th>
+<th>Arlon</th>
+<th>Wallonia</th>
+<th>Benelux</th>
+<th>Europe</th>
+<th>Forest</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>71</th>
+<th>Luxembourg</th>
+<th>Wallonia</th>
+<th>Benelux</th>
+<th>Europe</th>
+<th>Forest</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th>5</th>
+<th>2</th>
+<th>10</th>
+<th></th>
+<th>21</th>
+<th>3</th>
+</tr>
+<tr class="odd">
+<th>72</th>
+<th>Metz</th>
+<th>Lorraine_Alsace</th>
+<th>France</th>
+<th>Europe</th>
+<th>Hills</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th>3</th>
+<th>2</th>
+<th>3</th>
+<th></th>
+<th>82</th>
+<th>2</th>
+</tr>
+<tr class="even">
+<th>73</th>
+<th>Strasbourg</th>
+<th>Lorraine_Alsace</th>
+<th>France</th>
+<th>Europe</th>
+<th>Forest</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th>2</th>
+<th>1</th>
+<th>44</th>
+<th></th>
+<th>1</th>
+<th>2</th>
+</tr>
+<tr class="odd">
+<th>74</th>
+<th>Saarbrücken</th>
+<th>Westphalen</th>
+<th>Germany</th>
+<th>Europe</th>
+<th>Hills</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th>4</th>
+<th>1</th>
+<th>66</th>
+<th></th>
+<th>2</th>
+<th>1</th>
+</tr>
+<tr class="even">
+<th>75</th>
+<th>Cologne</th>
+<th>Westphalen</th>
+<th>Germany</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th>12</th>
+<th>5</th>
+<th>12</th>
+<th></th>
+<th>6</th>
+<th>3</th>
+</tr>
+<tr class="odd">
+<th>76</th>
+<th>Dortmund</th>
+<th>Westphalen</th>
+<th>Germany</th>
+<th>Europe</th>
+<th>Hills</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th>5</th>
+<th>2</th>
+<th>183</th>
+<th></th>
+<th>38</th>
+<th>1</th>
+</tr>
+<tr class="even">
+<th>77</th>
+<th>Arnhem</th>
+<th>Netherlands</th>
+<th>Benelux</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th>4</th>
+<th>2</th>
+<th>4</th>
+<th></th>
+<th></th>
+<th>1</th>
+</tr>
+<tr class="odd">
+<th>78</th>
+<th>Leeuwarden</th>
+<th>Netherlands</th>
+<th>Benelux</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Temperate</th>
+<th>100</th>
+<th>Yes</th>
+<th>1</th>
+<th></th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>79</th>
+<th>Groningen</th>
+<th>Netherlands</th>
+<th>Benelux</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th>1</th>
+<th></th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>80</th>
+<th>Wilhelmshafen</th>
+<th>Holstein_Mecklemburg</th>
+<th>Germany</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th>3</th>
+<th>1</th>
+<th>3</th>
+<th></th>
+<th>2</th>
+<th>1</th>
+</tr>
+<tr class="even">
+<th>81</th>
+<th>Münster</th>
+<th>Hannover_Magdeburg</th>
+<th>Germany</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th>5</th>
+<th>2</th>
+<th>5</th>
+<th></th>
+<th>2</th>
+<th>1</th>
+</tr>
+<tr class="odd">
+<th>82</th>
+<th>Kassel</th>
+<th>Hessen</th>
+<th>Germany</th>
+<th>Europe</th>
+<th>Forest</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th>2</th>
+<th>1</th>
+<th>2</th>
+<th></th>
+<th>1</th>
+<th></th>
+</tr>
+<tr class="even">
+<th>83</th>
+<th>Schweinfurt</th>
+<th>Hessen</th>
+<th>Germany</th>
+<th>Europe</th>
+<th>Hills</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th>5</th>
+<th>2</th>
+<th>5</th>
+<th></th>
+<th>2</th>
+<th>1</th>
+</tr>
+<tr class="odd">
+<th>84</th>
+<th>Erfurt</th>
+<th>Hessen</th>
+<th>Germany</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>85</th>
+<th>Göttingen</th>
+<th>Hannover_Magdeburg</th>
+<th>Germany</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>86</th>
+<th>Hannover</th>
+<th>Hannover_Magdeburg</th>
+<th>Germany</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th>4</th>
+<th>2</th>
+<th>4</th>
+<th>2</th>
+<th>14</th>
+<th>13</th>
+</tr>
+<tr class="even">
+<th>87</th>
+<th>Bremen</th>
+<th>Holstein_Mecklemburg</th>
+<th>Germany</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th>2</th>
+<th>1</th>
+<th>2</th>
+<th></th>
+<th>1</th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>88</th>
+<th>Hamburg</th>
+<th>Holstein_Mecklemburg</th>
+<th>Germany</th>
+<th>Europe</th>
+<th>Urban</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th>3</th>
+<th>1</th>
+<th>3</th>
+<th></th>
+<th>2</th>
+<th>1</th>
+</tr>
+<tr class="even">
+<th>89</th>
+<th>Lübeck</th>
+<th>Holstein_Mecklemburg</th>
+<th>Germany</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Temperate</th>
+<th>100</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>90</th>
+<th>Kiel</th>
+<th>Holstein_Mecklemburg</th>
+<th>Germany</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Temperate</th>
+<th>100</th>
+<th>Yes</th>
+<th>3</th>
+<th>1</th>
+<th></th>
+<th></th>
+<th>2</th>
+<th>1</th>
+</tr>
+<tr class="even">
+<th>91</th>
+<th>Kolding</th>
+<th>Denmark</th>
+<th>Denmark</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Temperate</th>
+<th>100</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>92</th>
+<th>Århus</th>
+<th>Denmark</th>
+<th>Denmark</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Temperate</th>
+<th>100</th>
+<th>Yes</th>
+<th>2</th>
+<th>2</th>
+<th>2</th>
+<th></th>
+<th>1</th>
+<th>1</th>
+</tr>
+<tr class="even">
+<th>93</th>
+<th>Malmö</th>
+<th>Goetaland</th>
+<th>Sweden</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Temperate</th>
+<th>80</th>
+<th>Yes</th>
+<th>2</th>
+<th>1</th>
+<th>2</th>
+<th></th>
+<th>1</th>
+<th>1</th>
+</tr>
+<tr class="odd">
+<th>94</th>
+<th>Noginsk</th>
+<th>Moscow</th>
+<th>Russia</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Muddy</th>
+<th>60</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th>21</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>95</th>
+<th>Karlskrona</th>
+<th>Goetaland</th>
+<th>Sweden</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Temperate</th>
+<th>80</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>96</th>
+<th>Gotland</th>
+<th>Oestra Svealand</th>
+<th>Sweden</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Temperate</th>
+<th>80</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>97</th>
+<th>Jönköping</th>
+<th>Goetaland</th>
+<th>Sweden</th>
+<th>Europe</th>
+<th>Forest</th>
+<th>Temperate</th>
+<th>80</th>
+<th>Yes</th>
+<th>1</th>
+<th>1</th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>98</th>
+<th>Göteborg</th>
+<th>Goetaland</th>
+<th>Sweden</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Temperate</th>
+<th>80</th>
+<th>Yes</th>
+<th>1</th>
+<th>1</th>
+<th>1</th>
+<th></th>
+<th>1</th>
+<th>1</th>
+</tr>
+<tr class="even">
+<th>99</th>
+<th>Skövde</th>
+<th>Goetaland</th>
+<th>Sweden</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Temperate</th>
+<th>80</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>100</th>
+<th>Norrköping</th>
+<th>Oestra Svealand</th>
+<th>Sweden</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Temperate</th>
+<th>80</th>
+<th>Yes</th>
+<th>1</th>
+<th></th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even" data-bgcolor="ffff66">
+<th>ID</th>
+<th>Province name</th>
+<th>Area</th>
+<th>Region</th>
+<th>Continent</th>
+<th>Terrain</th>
+<th>Climate</th>
+<th>Infra</th>
+<th>Beach?</th>
+<th>IC</th>
+<th>Manpower</th>
+<th>Energy</th>
+<th>Oil</th>
+<th>Metal</th>
+<th>Rare Materials</th>
+</tr>
+<tr class="odd">
+<th><h2 id="section-2"><span id="101" class="mw-headline"> 101
+</span></h2></th>
+<th>Stockholm</th>
+<th>Oestra Svealand</th>
+<th>Sweden</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Temperate</th>
+<th>80</th>
+<th>Yes</th>
+<th>7</th>
+<th>7</th>
+<th>12</th>
+<th></th>
+<th>7</th>
+<th>4</th>
+</tr>
+<tr class="even">
+<th>102</th>
+<th>Uppsala</th>
+<th>Oestra Svealand</th>
+<th>Sweden</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Temperate</th>
+<th>80</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>103</th>
+<th>Åland</th>
+<th>South Finland</th>
+<th>Finland</th>
+<th>Europe</th>
+<th>Forest</th>
+<th>Temperate</th>
+<th>80</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>104</th>
+<th>Västerås</th>
+<th>Oestra Svealand</th>
+<th>Sweden</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Temperate</th>
+<th>80</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>105</th>
+<th>Karlstad</th>
+<th>Vaestra Svealand</th>
+<th>Sweden</th>
+<th>Europe</th>
+<th>Forest</th>
+<th>Temperate</th>
+<th>80</th>
+<th>No</th>
+<th>1</th>
+<th>1</th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>106</th>
+<th>Åmål</th>
+<th>Vaestra Svealand</th>
+<th>Sweden</th>
+<th>Europe</th>
+<th>Forest</th>
+<th>Subarctic</th>
+<th>80</th>
+<th>No</th>
+<th>1</th>
+<th></th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>107</th>
+<th>Oslo</th>
+<th>Southern Norway</th>
+<th>Norway</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Temperate</th>
+<th>80</th>
+<th>Yes</th>
+<th>7</th>
+<th>7</th>
+<th>12</th>
+<th></th>
+<th>6</th>
+<th>4</th>
+</tr>
+<tr class="even">
+<th>108</th>
+<th>Kristiansand</th>
+<th>Southern Norway</th>
+<th>Norway</th>
+<th>Europe</th>
+<th>Hills</th>
+<th>Temperate</th>
+<th>80</th>
+<th>Yes</th>
+<th>1</th>
+<th></th>
+<th>1</th>
+<th></th>
+<th>3</th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>109</th>
+<th>Stavanger</th>
+<th>Southern Norway</th>
+<th>Norway</th>
+<th>Europe</th>
+<th>Hills</th>
+<th>Temperate</th>
+<th>80</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>110</th>
+<th>Bergen</th>
+<th>Southern Norway</th>
+<th>Norway</th>
+<th>Europe</th>
+<th>Mountain</th>
+<th>Temperate</th>
+<th>80</th>
+<th>Yes</th>
+<th>1</th>
+<th></th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>111</th>
+<th>Hamar</th>
+<th>Southern Norway</th>
+<th>Norway</th>
+<th>Europe</th>
+<th>Forest</th>
+<th>Subarctic</th>
+<th>60</th>
+<th>No</th>
+<th>1</th>
+<th>1</th>
+<th>1</th>
+<th></th>
+<th>1</th>
+<th>1</th>
+</tr>
+<tr class="even">
+<th>112</th>
+<th>Ludvika</th>
+<th>Vaestra Svealand</th>
+<th>Sweden</th>
+<th>Europe</th>
+<th>Forest</th>
+<th>Subarctic</th>
+<th>60</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>113</th>
+<th>Falun</th>
+<th>Vaestra Svealand</th>
+<th>Sweden</th>
+<th>Europe</th>
+<th>Forest</th>
+<th>Subarctic</th>
+<th>60</th>
+<th>No</th>
+<th>1</th>
+<th></th>
+<th>1</th>
+<th></th>
+<th>18</th>
+<th></th>
+</tr>
+<tr class="even">
+<th>114</th>
+<th>Gävle</th>
+<th>Nedre Norrland</th>
+<th>Sweden</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Temperate</th>
+<th>80</th>
+<th>Yes</th>
+<th>1</th>
+<th></th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>115</th>
+<th>Sveg</th>
+<th>Vaestra Svealand</th>
+<th>Sweden</th>
+<th>Europe</th>
+<th>Forest</th>
+<th>Subarctic</th>
+<th>60</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>116</th>
+<th>Röros</th>
+<th>Southcentral Norway</th>
+<th>Norway</th>
+<th>Europe</th>
+<th>Hills</th>
+<th>Subarctic</th>
+<th>60</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th>5</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>117</th>
+<th>Ålesund</th>
+<th>Southcentral Norway</th>
+<th>Norway</th>
+<th>Europe</th>
+<th>Mountain</th>
+<th>Temperate</th>
+<th>80</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>118</th>
+<th>Trondheim</th>
+<th>Central Norway</th>
+<th>Norway</th>
+<th>Europe</th>
+<th>Forest</th>
+<th>Temperate</th>
+<th>80</th>
+<th>Yes</th>
+<th>1</th>
+<th></th>
+<th>6</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>119</th>
+<th>Östersund</th>
+<th>Nedre Norrland</th>
+<th>Sweden</th>
+<th>Europe</th>
+<th>Forest</th>
+<th>Subarctic</th>
+<th>60</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>120</th>
+<th>Sundsvall</th>
+<th>Nedre Norrland</th>
+<th>Sweden</th>
+<th>Europe</th>
+<th>Forest</th>
+<th>Temperate</th>
+<th>80</th>
+<th>Yes</th>
+<th>1</th>
+<th></th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>121</th>
+<th>Vilhelmina</th>
+<th>Nedre Norrland</th>
+<th>Sweden</th>
+<th>Europe</th>
+<th>Forest</th>
+<th>Subarctic</th>
+<th>60</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>122</th>
+<th>Umeå</th>
+<th>Oevre Norrland</th>
+<th>Sweden</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Subarctic</th>
+<th>80</th>
+<th>Yes</th>
+<th>1</th>
+<th></th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>123</th>
+<th>Gällivare</th>
+<th>Oevre Norrland</th>
+<th>Sweden</th>
+<th>Europe</th>
+<th>Hills</th>
+<th>Subarctic</th>
+<th>60</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>124</th>
+<th>Mo i Rana</th>
+<th>Central Norway</th>
+<th>Norway</th>
+<th>Europe</th>
+<th>Hills</th>
+<th>Subarctic</th>
+<th>60</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th>2</th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>125</th>
+<th>Narvik</th>
+<th>Northern Norway</th>
+<th>Norway</th>
+<th>Europe</th>
+<th>Mountain</th>
+<th>Subarctic</th>
+<th>60</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>126</th>
+<th>Kiruna</th>
+<th>Oevre Norrland</th>
+<th>Sweden</th>
+<th>Europe</th>
+<th>Mountain</th>
+<th>Subarctic</th>
+<th>60</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th>30</th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>127</th>
+<th>Luleå</th>
+<th>Oevre Norrland</th>
+<th>Sweden</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Subarctic</th>
+<th>80</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>128</th>
+<th>Hammerfest</th>
+<th>Northern Norway</th>
+<th>Norway</th>
+<th>Europe</th>
+<th>Mountain</th>
+<th>Subarctic</th>
+<th>40</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>129</th>
+<th>Vardö</th>
+<th>Northern Norway</th>
+<th>Norway</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Subarctic</th>
+<th>40</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>130</th>
+<th>Rovaniemi</th>
+<th>Lapland</th>
+<th>Finland</th>
+<th>Europe</th>
+<th>Hills</th>
+<th>Subarctic</th>
+<th>40</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>131</th>
+<th>Tornio</th>
+<th>Oesterbotten</th>
+<th>Finland</th>
+<th>Europe</th>
+<th>Hills</th>
+<th>Subarctic</th>
+<th>80</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>132</th>
+<th>Petsamo</th>
+<th>Lapland</th>
+<th>Finland</th>
+<th>Europe</th>
+<th>Hills</th>
+<th>Subarctic</th>
+<th>40</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th>4</th>
+</tr>
+<tr class="odd">
+<th>133</th>
+<th>Murmansk</th>
+<th>Lapland</th>
+<th>White Sea Tundra</th>
+<th>Europe</th>
+<th>Hills</th>
+<th>Subarctic</th>
+<th>40</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>134</th>
+<th>Kola</th>
+<th>Lapland</th>
+<th>White Sea Tundra</th>
+<th>Europe</th>
+<th>Marsh</th>
+<th>Subarctic</th>
+<th>40</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>135</th>
+<th>Kandalaksja</th>
+<th>Lapland</th>
+<th>White Sea Tundra</th>
+<th>Europe</th>
+<th>Forest</th>
+<th>Subarctic</th>
+<th>40</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>136</th>
+<th>Kajaani</th>
+<th>Lapland</th>
+<th>Finland</th>
+<th>Europe</th>
+<th>Forest</th>
+<th>Subarctic</th>
+<th>50</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>137</th>
+<th>Oulu</th>
+<th>Oesterbotten</th>
+<th>Finland</th>
+<th>Europe</th>
+<th>Forest</th>
+<th>Subarctic</th>
+<th>80</th>
+<th>Yes</th>
+<th>1</th>
+<th></th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>138</th>
+<th>Vaasa</th>
+<th>Oesterbotten</th>
+<th>Finland</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Temperate</th>
+<th>80</th>
+<th>Yes</th>
+<th>1</th>
+<th>1</th>
+<th>1</th>
+<th></th>
+<th>1</th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>139</th>
+<th>Seinäjoki</th>
+<th>Oesterbotten</th>
+<th>Finland</th>
+<th>Europe</th>
+<th>Forest</th>
+<th>Subarctic</th>
+<th>80</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>140</th>
+<th>Pori</th>
+<th>South Finland</th>
+<th>Finland</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Temperate</th>
+<th>80</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>141</th>
+<th>Turku</th>
+<th>South Finland</th>
+<th>Finland</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Temperate</th>
+<th>80</th>
+<th>Yes</th>
+<th>1</th>
+<th>1</th>
+<th>1</th>
+<th></th>
+<th>1</th>
+<th></th>
+</tr>
+<tr class="even">
+<th>142</th>
+<th>Helsinki</th>
+<th>South Finland</th>
+<th>Finland</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Temperate</th>
+<th>80</th>
+<th>Yes</th>
+<th>6</th>
+<th>6</th>
+<th>11</th>
+<th></th>
+<th>7</th>
+<th>4</th>
+</tr>
+<tr class="odd">
+<th>143</th>
+<th>Tampere</th>
+<th>Central Finland</th>
+<th>Finland</th>
+<th>Europe</th>
+<th>Forest</th>
+<th>Temperate</th>
+<th>80</th>
+<th>No</th>
+<th>1</th>
+<th></th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>144</th>
+<th>Mikkeli</th>
+<th>Central Finland</th>
+<th>Finland</th>
+<th>Europe</th>
+<th>Forest</th>
+<th>Subarctic</th>
+<th>60</th>
+<th>No</th>
+<th>1</th>
+<th></th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>145</th>
+<th>Viipuri</th>
+<th>Karelia</th>
+<th>Finland</th>
+<th>Europe</th>
+<th>Forest</th>
+<th>Muddy</th>
+<th>80</th>
+<th>Yes</th>
+<th>1</th>
+<th>1</th>
+<th>1</th>
+<th></th>
+<th>1</th>
+<th>1</th>
+</tr>
+<tr class="even">
+<th>146</th>
+<th>Sortavala</th>
+<th>Karelia</th>
+<th>Finland</th>
+<th>Europe</th>
+<th>Forest</th>
+<th>Subarctic</th>
+<th>50</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>147</th>
+<th>Jyväskylä</th>
+<th>Central Finland</th>
+<th>Finland</th>
+<th>Europe</th>
+<th>Forest</th>
+<th>Subarctic</th>
+<th>60</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>148</th>
+<th>Kuopio</th>
+<th>Oesterbotten</th>
+<th>Finland</th>
+<th>Europe</th>
+<th>Forest</th>
+<th>Subarctic</th>
+<th>60</th>
+<th>No</th>
+<th>1</th>
+<th></th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>149</th>
+<th>Joensuu</th>
+<th>Karelia</th>
+<th>Finland</th>
+<th>Europe</th>
+<th>Forest</th>
+<th>Subarctic</th>
+<th>50</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>150</th>
+<th>Kem</th>
+<th>Karelia</th>
+<th>White Sea Tundra</th>
+<th>Europe</th>
+<th>Marsh</th>
+<th>Subarctic</th>
+<th>40</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd" data-bgcolor="ffff66">
+<th>ID</th>
+<th>Province name</th>
+<th>Area</th>
+<th>Region</th>
+<th>Continent</th>
+<th>Terrain</th>
+<th>Climate</th>
+<th>Infra</th>
+<th>Beach?</th>
+<th>IC</th>
+<th>Manpower</th>
+<th>Energy</th>
+<th>Oil</th>
+<th>Metal</th>
+<th>Rare Materials</th>
+</tr>
+<tr class="even">
+<th><h2 id="section-3"><span id="151" class="mw-headline"> 151
+</span></h2></th>
+<th>Segezha</th>
+<th>Karelia</th>
+<th>White Sea Tundra</th>
+<th>Europe</th>
+<th>Marsh</th>
+<th>Subarctic</th>
+<th>40</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>152</th>
+<th>Petrozavodsk</th>
+<th>Karelia</th>
+<th>White Sea Tundra</th>
+<th>Europe</th>
+<th>Forest</th>
+<th>Subarctic</th>
+<th>50</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>153</th>
+<th>Molotovsk</th>
+<th>Arkhangelsk</th>
+<th>White Sea Tundra</th>
+<th>Europe</th>
+<th>Forest</th>
+<th>Subarctic</th>
+<th>50</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>154</th>
+<th>Archangelsk</th>
+<th>Arkhangelsk</th>
+<th>White Sea Tundra</th>
+<th>Europe</th>
+<th>Forest</th>
+<th>Subarctic</th>
+<th>50</th>
+<th>Yes</th>
+<th>1</th>
+<th>1</th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>155</th>
+<th>Penza</th>
+<th>Penza</th>
+<th>Russia</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Muddy</th>
+<th>50</th>
+<th>No</th>
+<th>1</th>
+<th>1</th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>156</th>
+<th>Balashov</th>
+<th>Penza</th>
+<th>Russia</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Muddy</th>
+<th>50</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>157</th>
+<th>Uryupinsk</th>
+<th>Penza</th>
+<th>Russia</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Muddy</th>
+<th>50</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>158</th>
+<th>Kuznetsk</th>
+<th>Penza</th>
+<th>Russia</th>
+<th>Europe</th>
+<th>Forest</th>
+<th>Muddy</th>
+<th>60</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>159</th>
+<th>Kamyshin</th>
+<th>Stalingrad</th>
+<th>Russia</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Muddy</th>
+<th>60</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>160</th>
+<th>Frolovo</th>
+<th>Rostov</th>
+<th>Russia</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Muddy</th>
+<th>60</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>161</th>
+<th>Surovikino</th>
+<th>Rostov</th>
+<th>Russia</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Muddy</th>
+<th>60</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>162</th>
+<th>Kalach</th>
+<th>Stalingrad</th>
+<th>Russia</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Muddy</th>
+<th>60</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>163</th>
+<th>Stalingrad</th>
+<th>Stalingrad</th>
+<th>Russia</th>
+<th>Europe</th>
+<th>Urban</th>
+<th>Muddy</th>
+<th>60</th>
+<th>No</th>
+<th>1</th>
+<th>1</th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>164</th>
+<th>Cherny Yar</th>
+<th>Stalingrad</th>
+<th>Russia</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Muddy</th>
+<th>60</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>165</th>
+<th>Konosha</th>
+<th>Arkhangelsk</th>
+<th>White Sea Tundra</th>
+<th>Europe</th>
+<th>Forest</th>
+<th>Subarctic</th>
+<th>50</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>166</th>
+<th>Kostroma</th>
+<th>Nizhnij Novgorod</th>
+<th>Russia</th>
+<th>Europe</th>
+<th>Forest</th>
+<th>Muddy</th>
+<th>50</th>
+<th>No</th>
+<th>1</th>
+<th>1</th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>167</th>
+<th>Ivanovo</th>
+<th>Nizhnij Novgorod</th>
+<th>Russia</th>
+<th>Europe</th>
+<th>Marsh</th>
+<th>Muddy</th>
+<th>40</th>
+<th>No</th>
+<th>1</th>
+<th>1</th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>168</th>
+<th>Gorkij</th>
+<th>Nizhnij Novgorod</th>
+<th>Russia</th>
+<th>Europe</th>
+<th>Marsh</th>
+<th>Muddy</th>
+<th>50</th>
+<th>No</th>
+<th>3</th>
+<th>3</th>
+<th>3</th>
+<th></th>
+<th>3</th>
+<th>2</th>
+</tr>
+<tr class="even">
+<th>169</th>
+<th>Arzamas</th>
+<th>Nizhnij Novgorod</th>
+<th>Russia</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Muddy</th>
+<th>60</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>170</th>
+<th>Totma</th>
+<th>Arkhangelsk</th>
+<th>White Sea Tundra</th>
+<th>Europe</th>
+<th>Forest</th>
+<th>Subarctic</th>
+<th>50</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>171</th>
+<th>Volodga</th>
+<th>Arkhangelsk</th>
+<th>White Sea Tundra</th>
+<th>Europe</th>
+<th>Forest</th>
+<th>Subarctic</th>
+<th>50</th>
+<th>No</th>
+<th>1</th>
+<th>1</th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>172</th>
+<th>Cherepovets</th>
+<th>Kostroma</th>
+<th>Russia</th>
+<th>Europe</th>
+<th>Forest</th>
+<th>Muddy</th>
+<th>60</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>173</th>
+<th>Bezhetsk</th>
+<th>Kostroma</th>
+<th>Russia</th>
+<th>Europe</th>
+<th>Forest</th>
+<th>Muddy</th>
+<th>60</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>174</th>
+<th>Kalinin</th>
+<th>Moscow</th>
+<th>Russia</th>
+<th>Europe</th>
+<th>Forest</th>
+<th>Muddy</th>
+<th>60</th>
+<th>No</th>
+<th>1</th>
+<th>1</th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>175</th>
+<th>Moscow</th>
+<th>Moscow</th>
+<th>Russia</th>
+<th>Europe</th>
+<th>Urban</th>
+<th>Muddy</th>
+<th>70</th>
+<th>No</th>
+<th>12</th>
+<th>13</th>
+<th>72</th>
+<th></th>
+<th>27</th>
+<th>15</th>
+</tr>
+<tr class="odd">
+<th>176</th>
+<th>Rybinsk</th>
+<th>Moscow</th>
+<th>Russia</th>
+<th>Europe</th>
+<th>Forest</th>
+<th>Muddy</th>
+<th>60</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>177</th>
+<th>Danilov</th>
+<th>Vladimir</th>
+<th>Russia</th>
+<th>Europe</th>
+<th>Forest</th>
+<th>Muddy</th>
+<th>60</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>178</th>
+<th>Yaroslavl</th>
+<th>Vladimir</th>
+<th>Russia</th>
+<th>Europe</th>
+<th>Forest</th>
+<th>Muddy</th>
+<th>60</th>
+<th>No</th>
+<th>1</th>
+<th>1</th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>179</th>
+<th>Murom</th>
+<th>Vladimir</th>
+<th>Russia</th>
+<th>Europe</th>
+<th>Forest</th>
+<th>Muddy</th>
+<th>60</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>180</th>
+<th>Vladimir</th>
+<th>Vladimir</th>
+<th>Russia</th>
+<th>Europe</th>
+<th>Forest</th>
+<th>Muddy</th>
+<th>60</th>
+<th>No</th>
+<th>1</th>
+<th>1</th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>181</th>
+<th>Kaluga</th>
+<th>Moscow</th>
+<th>Russia</th>
+<th>Europe</th>
+<th>Forest</th>
+<th>Muddy</th>
+<th>60</th>
+<th>No</th>
+<th>1</th>
+<th>1</th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>182</th>
+<th>Mozhaisk</th>
+<th>Moscow</th>
+<th>Russia</th>
+<th>Europe</th>
+<th>Forest</th>
+<th>Muddy</th>
+<th>60</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th>21</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>183</th>
+<th>Vytegra</th>
+<th>Kostroma</th>
+<th>Russia</th>
+<th>Europe</th>
+<th>Forest</th>
+<th>Subarctic</th>
+<th>60</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>184</th>
+<th>Tikhvin</th>
+<th>Kostroma</th>
+<th>Russia</th>
+<th>Europe</th>
+<th>Forest</th>
+<th>Muddy</th>
+<th>60</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>185</th>
+<th>Volkhov</th>
+<th>Kostroma</th>
+<th>Russia</th>
+<th>Europe</th>
+<th>Forest</th>
+<th>Muddy</th>
+<th>60</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>186</th>
+<th>Luga</th>
+<th>Leningrad</th>
+<th>Russia</th>
+<th>Europe</th>
+<th>Forest</th>
+<th>Muddy</th>
+<th>60</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>187</th>
+<th>Leningrad</th>
+<th>Leningrad</th>
+<th>Russia</th>
+<th>Europe</th>
+<th>Urban</th>
+<th>Muddy</th>
+<th>80</th>
+<th>Yes</th>
+<th>3</th>
+<th>3</th>
+<th>3</th>
+<th></th>
+<th>3</th>
+<th>1</th>
+</tr>
+<tr class="odd">
+<th>188</th>
+<th>Kingisepp</th>
+<th>Leningrad</th>
+<th>Russia</th>
+<th>Europe</th>
+<th>Marsh</th>
+<th>Muddy</th>
+<th>40</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>189</th>
+<th>Novgorod</th>
+<th>Novgorod</th>
+<th>Russia</th>
+<th>Europe</th>
+<th>Marsh</th>
+<th>Muddy</th>
+<th>40</th>
+<th>No</th>
+<th></th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>190</th>
+<th>Staraya Russa</th>
+<th>Novgorod</th>
+<th>Russia</th>
+<th>Europe</th>
+<th>Marsh</th>
+<th>Muddy</th>
+<th>40</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>191</th>
+<th>Porkhov</th>
+<th>Novgorod</th>
+<th>Russia</th>
+<th>Europe</th>
+<th>Forest</th>
+<th>Muddy</th>
+<th>60</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>192</th>
+<th>Gdov</th>
+<th>Leningrad</th>
+<th>Russia</th>
+<th>Europe</th>
+<th>Marsh</th>
+<th>Muddy</th>
+<th>40</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>193</th>
+<th>Narva</th>
+<th>Estonia</th>
+<th>Baltic States</th>
+<th>Europe</th>
+<th>Marsh</th>
+<th>Muddy</th>
+<th>80</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>194</th>
+<th>Tallinn</th>
+<th>Estonia</th>
+<th>Baltic States</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Muddy</th>
+<th>80</th>
+<th>Yes</th>
+<th>6</th>
+<th>6</th>
+<th>11</th>
+<th></th>
+<th>6</th>
+<th>3</th>
+</tr>
+<tr class="even">
+<th>195</th>
+<th>Tartu</th>
+<th>Estonia</th>
+<th>Baltic States</th>
+<th>Europe</th>
+<th>Forest</th>
+<th>Muddy</th>
+<th>80</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>196</th>
+<th>Pärnu</th>
+<th>Estonia</th>
+<th>Baltic States</th>
+<th>Europe</th>
+<th>Forest</th>
+<th>Muddy</th>
+<th>80</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>197</th>
+<th>Riga</th>
+<th>Latvia</th>
+<th>Baltic States</th>
+<th>Europe</th>
+<th>Forest</th>
+<th>Muddy</th>
+<th>80</th>
+<th>Yes</th>
+<th>6</th>
+<th>6</th>
+<th>11</th>
+<th></th>
+<th>6</th>
+<th>4</th>
+</tr>
+<tr class="odd">
+<th>198</th>
+<th>Gulbene</th>
+<th>Latvia</th>
+<th>Baltic States</th>
+<th>Europe</th>
+<th>Forest</th>
+<th>Muddy</th>
+<th>80</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>199</th>
+<th>Voru</th>
+<th>Estonia</th>
+<th>Baltic States</th>
+<th>Europe</th>
+<th>Forest</th>
+<th>Muddy</th>
+<th>60</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>200</th>
+<th>Pskov</th>
+<th>Pskov</th>
+<th>Russia</th>
+<th>Europe</th>
+<th>Forest</th>
+<th>Muddy</th>
+<th>60</th>
+<th>No</th>
+<th>1</th>
+<th>1</th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even" data-bgcolor="ffff66">
+<th>ID</th>
+<th>Province name</th>
+<th>Area</th>
+<th>Region</th>
+<th>Continent</th>
+<th>Terrain</th>
+<th>Climate</th>
+<th>Infra</th>
+<th>Beach?</th>
+<th>IC</th>
+<th>Manpower</th>
+<th>Energy</th>
+<th>Oil</th>
+<th>Metal</th>
+<th>Rare Materials</th>
+</tr>
+<tr class="odd">
+<th><h2 id="section-4"><span id="201" class="mw-headline"> 201
+</span></h2></th>
+<th>Opochka</th>
+<th>Pskov</th>
+<th>Russia</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Muddy</th>
+<th>60</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>202</th>
+<th>Dagaupulis</th>
+<th>Latvia</th>
+<th>Baltic States</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Muddy</th>
+<th>60</th>
+<th>No</th>
+<th>1</th>
+<th></th>
+<th>1</th>
+<th></th>
+<th>1</th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>203</th>
+<th>Jekapils</th>
+<th>Lithuania</th>
+<th>Baltic States</th>
+<th>Europe</th>
+<th>Forest</th>
+<th>Muddy</th>
+<th>60</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>204</th>
+<th>Jelgava</th>
+<th>Memel</th>
+<th>Baltic States</th>
+<th>Europe</th>
+<th>forest</th>
+<th>Muddy</th>
+<th>80</th>
+<th>Yes</th>
+<th>1</th>
+<th>1</th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>205</th>
+<th>Mazirbe</th>
+<th>Memel</th>
+<th>Baltic States</th>
+<th>Europe</th>
+<th>Forest</th>
+<th>Muddy</th>
+<th>80</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>206</th>
+<th>Memel</th>
+<th>Memel</th>
+<th>Baltic States</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Muddy</th>
+<th>80</th>
+<th>Yes</th>
+<th>1</th>
+<th></th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>207</th>
+<th>Kaunas</th>
+<th>Lithuania</th>
+<th>Baltic States</th>
+<th>Europe</th>
+<th>Marsh</th>
+<th>Muddy</th>
+<th>60</th>
+<th>No</th>
+<th>7</th>
+<th>7</th>
+<th>12</th>
+<th></th>
+<th>6</th>
+<th>4</th>
+</tr>
+<tr class="even">
+<th>208</th>
+<th>Wilno</th>
+<th>Lithuania</th>
+<th>Baltic States</th>
+<th>Europe</th>
+<th>forest</th>
+<th>Muddy</th>
+<th>60</th>
+<th>No</th>
+<th>1</th>
+<th>1</th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>209</th>
+<th>Grodno</th>
+<th>Grodno</th>
+<th>Belarus</th>
+<th>Europe</th>
+<th>Forest</th>
+<th>Muddy</th>
+<th>60</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>210</th>
+<th>Baranowicze</th>
+<th>Grodno</th>
+<th>Belarus</th>
+<th>Europe</th>
+<th>forest</th>
+<th>Muddy</th>
+<th>60</th>
+<th>No</th>
+<th>1</th>
+<th>1</th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>211</th>
+<th>Lida</th>
+<th>Grodno</th>
+<th>Belarus</th>
+<th>Europe</th>
+<th>clear</th>
+<th>Muddy</th>
+<th>60</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>212</th>
+<th>Minsk</th>
+<th>Minsk</th>
+<th>Belarus</th>
+<th>Europe</th>
+<th>Forest</th>
+<th>Muddy</th>
+<th>60</th>
+<th>No</th>
+<th>2</th>
+<th>1</th>
+<th>2</th>
+<th></th>
+<th>2</th>
+<th>1</th>
+</tr>
+<tr class="odd">
+<th>213</th>
+<th>Molodeczno</th>
+<th>Polotsk</th>
+<th>Belarus</th>
+<th>Europe</th>
+<th>clear</th>
+<th>Muddy</th>
+<th>60</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>214</th>
+<th>Swieciany</th>
+<th>Polotsk</th>
+<th>Belarus</th>
+<th>Europe</th>
+<th>clear</th>
+<th>Muddy</th>
+<th>60</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>215</th>
+<th>Novorzhev</th>
+<th>Novgorod</th>
+<th>Russia</th>
+<th>Europe</th>
+<th>Forest</th>
+<th>Muddy</th>
+<th>60</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>216</th>
+<th>Nevel</th>
+<th>Velikiye Luki</th>
+<th>Russia</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Muddy</th>
+<th>60</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>217</th>
+<th>Vitebsk</th>
+<th>Smolensk</th>
+<th>Russia</th>
+<th>Europe</th>
+<th>Forest</th>
+<th>Muddy</th>
+<th>60</th>
+<th>No</th>
+<th>1</th>
+<th>1</th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>218</th>
+<th>Orsha</th>
+<th>Smolensk</th>
+<th>Russia</th>
+<th>Europe</th>
+<th>Forest</th>
+<th>Muddy</th>
+<th>60</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>219</th>
+<th>Smolensk</th>
+<th>Smolensk</th>
+<th>Russia</th>
+<th>Europe</th>
+<th>Forest</th>
+<th>Muddy</th>
+<th>60</th>
+<th>No</th>
+<th>1</th>
+<th>1</th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>220</th>
+<th>Mogilev</th>
+<th>Smolensk</th>
+<th>Russia</th>
+<th>Europe</th>
+<th>Forest</th>
+<th>Muddy</th>
+<th>60</th>
+<th>No</th>
+<th>1</th>
+<th>1</th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>221</th>
+<th>Bobraisk</th>
+<th>Minsk</th>
+<th>Belarus</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Muddy</th>
+<th>60</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>222</th>
+<th>Luniniec</th>
+<th>Minsk</th>
+<th>Belarus</th>
+<th>Europe</th>
+<th>marsh</th>
+<th>Muddy</th>
+<th>40</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>223</th>
+<th></th>
+<th>-</th>
+<th>-</th>
+<th>-</th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>224</th>
+<th></th>
+<th>-</th>
+<th>-</th>
+<th>-</th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>225</th>
+<th>Mozyr</th>
+<th>Minsk</th>
+<th>Belarus</th>
+<th>Europe</th>
+<th>Marsh</th>
+<th>Muddy</th>
+<th>40</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>226</th>
+<th>Korosten</th>
+<th>Kiev</th>
+<th>Ukraine</th>
+<th>Europe</th>
+<th>Marsh</th>
+<th>Muddy</th>
+<th>40</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>227</th>
+<th>Zhitomir</th>
+<th>Kiev</th>
+<th>Ukraine</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Muddy</th>
+<th>60</th>
+<th>No</th>
+<th>1</th>
+<th>1</th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>228</th>
+<th>Vinnitsa</th>
+<th>Kiev</th>
+<th>Ukraine</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Muddy</th>
+<th>60</th>
+<th>No</th>
+<th>3</th>
+<th>3</th>
+<th>3</th>
+<th></th>
+<th>3</th>
+<th>1</th>
+</tr>
+<tr class="odd">
+<th>229</th>
+<th>Stanislawow</th>
+<th>Transnistria</th>
+<th>Poland</th>
+<th>Europe</th>
+<th>clear</th>
+<th>Muddy</th>
+<th>60</th>
+<th>No</th>
+<th>2</th>
+<th>1</th>
+<th></th>
+<th></th>
+<th>1</th>
+<th></th>
+</tr>
+<tr class="even">
+<th>230</th>
+<th>Beltsy</th>
+<th>Bessarabia</th>
+<th>Romania</th>
+<th>Europe</th>
+<th>Hills</th>
+<th>Muddy</th>
+<th>80</th>
+<th>No</th>
+<th>2</th>
+<th>1</th>
+<th>2</th>
+<th></th>
+<th>1</th>
+<th>1</th>
+</tr>
+<tr class="odd">
+<th>231</th>
+<th>Mogilev Podolski</th>
+<th>Transnistria</th>
+<th>Ukraine</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Muddy</th>
+<th>60</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>232</th>
+<th>Balta</th>
+<th>Transnistria</th>
+<th>Ukraine</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Muddy</th>
+<th>60</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>233</th>
+<th>Odessa</th>
+<th>Odessa</th>
+<th>Ukraine</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Mediterranean</th>
+<th>80</th>
+<th>Yes</th>
+<th>2</th>
+<th>1</th>
+<th>2</th>
+<th></th>
+<th>2</th>
+<th>1</th>
+</tr>
+<tr class="even">
+<th>234</th>
+<th>Kherson</th>
+<th>Odessa</th>
+<th>Ukraine</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Mediterranean</th>
+<th>60</th>
+<th>Yes</th>
+<th>1</th>
+<th>1</th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>235</th>
+<th>Dnepropetrovsk</th>
+<th>Dnepropretovsk</th>
+<th>Ukraine</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Muddy</th>
+<th>60</th>
+<th>No</th>
+<th>2</th>
+<th>2</th>
+<th>150</th>
+<th></th>
+<th>6</th>
+<th>3</th>
+</tr>
+<tr class="even">
+<th>236</th>
+<th>Krivoy Rog</th>
+<th>Dnepropretovsk</th>
+<th>Ukraine</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Muddy</th>
+<th>60</th>
+<th>No</th>
+<th>1</th>
+<th>1</th>
+<th>147</th>
+<th></th>
+<th>99</th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>237</th>
+<th>Cherkassy</th>
+<th>Kiev</th>
+<th>Ukraine</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Muddy</th>
+<th>60</th>
+<th>No</th>
+<th>1</th>
+<th>1</th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>238</th>
+<th>Kiev</th>
+<th>Kiev</th>
+<th>Ukraine</th>
+<th>Europe</th>
+<th>Urban</th>
+<th>Muddy</th>
+<th>70</th>
+<th>No</th>
+<th>2</th>
+<th>2</th>
+<th>2</th>
+<th></th>
+<th>2</th>
+<th>1</th>
+</tr>
+<tr class="odd">
+<th>239</th>
+<th>Priluki</th>
+<th>Kiev</th>
+<th>Ukraine</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Muddy</th>
+<th>60</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>240</th>
+<th>Vyshgorod</th>
+<th>Kiev</th>
+<th>Ukraine</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Muddy</th>
+<th>60</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>241</th>
+<th>Chernigov</th>
+<th>Kursk</th>
+<th>Ukraine</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Muddy</th>
+<th>60</th>
+<th>No</th>
+<th>1</th>
+<th>1</th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>242</th>
+<th>Konotop</th>
+<th>Kursk</th>
+<th>Ukraine</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Muddy</th>
+<th>60</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>243</th>
+<th>Kursk</th>
+<th>Kursk</th>
+<th>Ukraine</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Muddy</th>
+<th>60</th>
+<th>No</th>
+<th>1</th>
+<th>1</th>
+<th>3</th>
+<th></th>
+<th>99</th>
+<th></th>
+</tr>
+<tr class="even">
+<th>244</th>
+<th>Sumy</th>
+<th>Kursk</th>
+<th>Ukraine</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Muddy</th>
+<th>60</th>
+<th>No</th>
+<th>1</th>
+<th>1</th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>245</th>
+<th>Poltava</th>
+<th>Dnepropretovsk</th>
+<th>Ukraine</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Muddy</th>
+<th>60</th>
+<th>No</th>
+<th>1</th>
+<th>1</th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>246</th>
+<th>Zaporozhye</th>
+<th>Dnepropretovsk</th>
+<th>Ukraine</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Muddy</th>
+<th>60</th>
+<th>No</th>
+<th>1</th>
+<th>1</th>
+<th>159</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>247</th>
+<th>Belgorod</th>
+<th>Kursk</th>
+<th>Ukraine</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Muddy</th>
+<th>60</th>
+<th>No</th>
+<th>1</th>
+<th>1</th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>248</th>
+<th>Kharkov</th>
+<th>Kharkov</th>
+<th>Ukraine</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Muddy</th>
+<th>60</th>
+<th>No</th>
+<th>2</th>
+<th>2</th>
+<th>2</th>
+<th></th>
+<th>2</th>
+<th>1</th>
+</tr>
+<tr class="odd">
+<th>249</th>
+<th>Stalino</th>
+<th>Kharkov</th>
+<th>Ukraine</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Muddy</th>
+<th>60</th>
+<th>No</th>
+<th>5</th>
+<th>5</th>
+<th>192</th>
+<th></th>
+<th>15</th>
+<th>6</th>
+</tr>
+<tr class="even">
+<th>250</th>
+<th>Melitopol</th>
+<th>Kharkov</th>
+<th>Ukraine</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Mediterranean</th>
+<th>60</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd" data-bgcolor="ffff66">
+<th>ID</th>
+<th>Province name</th>
+<th>Area</th>
+<th>Region</th>
+<th>Continent</th>
+<th>Terrain</th>
+<th>Climate</th>
+<th>Infra</th>
+<th>Beach?</th>
+<th>IC</th>
+<th>Manpower</th>
+<th>Energy</th>
+<th>Oil</th>
+<th>Metal</th>
+<th>Rare Materials</th>
+</tr>
+<tr class="even">
+<th><h2 id="section-5"><span id="251" class="mw-headline"> 251
+</span></h2></th>
+<th>Perekop</th>
+<th>Odessa</th>
+<th>Ukraine</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Mediterranean</th>
+<th>60</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>252</th>
+<th>Yevpatoriya</th>
+<th>Krim</th>
+<th>Ukraine</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Mediterranean</th>
+<th>60</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>253</th>
+<th>Sevastopol</th>
+<th>Krim</th>
+<th>Ukraine</th>
+<th>Europe</th>
+<th>Hills</th>
+<th>Mediterranean</th>
+<th>70</th>
+<th>Yes</th>
+<th>1</th>
+<th>1</th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>254</th>
+<th>Kerch</th>
+<th>Krim</th>
+<th>Ukraine</th>
+<th>Europe</th>
+<th>Hills</th>
+<th>Mediterranean</th>
+<th>60</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>255</th>
+<th>Novorossisk</th>
+<th>Krasnodar</th>
+<th>Kaukasus</th>
+<th>Europe</th>
+<th>Hills</th>
+<th>Mediterranean</th>
+<th>60</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>256</th>
+<th>Krasnodar</th>
+<th>Krasnodar</th>
+<th>Kaukasus</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Muddy</th>
+<th>60</th>
+<th>No</th>
+<th>2</th>
+<th>2</th>
+<th>2</th>
+<th></th>
+<th>2</th>
+<th>1</th>
+</tr>
+<tr class="even">
+<th>257</th>
+<th>Tikhoretsk</th>
+<th>Krasnodar</th>
+<th>Kaukasus</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Muddy</th>
+<th>60</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>258</th>
+<th>Rostov</th>
+<th>Rostov</th>
+<th>Kaukasus</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Muddy</th>
+<th>60</th>
+<th>No</th>
+<th>2</th>
+<th>2</th>
+<th>2</th>
+<th></th>
+<th>2</th>
+<th>1</th>
+</tr>
+<tr class="even">
+<th>259</th>
+<th>Kamensk-Shakhtinski</th>
+<th>Saransk</th>
+<th>Ukraine</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Muddy</th>
+<th>60</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>260</th>
+<th>Bilovodsk</th>
+<th>Saransk</th>
+<th>Ukraine</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Muddy</th>
+<th>60</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>261</th>
+<th>Rossosh</th>
+<th>Saransk</th>
+<th>Ukraine</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Muddy</th>
+<th>60</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>262</th>
+<th>Ostrogozhsk</th>
+<th>Saransk</th>
+<th>Ukraine</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Muddy</th>
+<th>60</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>263</th>
+<th>Svoboda</th>
+<th>Tambov</th>
+<th>Russia</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Muddy</th>
+<th>60</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>264</th>
+<th>Pavlovsk</th>
+<th>Tambov</th>
+<th>Russia</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Muddy</th>
+<th>60</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>265</th>
+<th>Boguchar</th>
+<th>Saransk</th>
+<th>Ukraine</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Muddy</th>
+<th>60</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>266</th>
+<th>Kashary</th>
+<th>Rostov</th>
+<th>Ukraine</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Muddy</th>
+<th>60</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>267</th>
+<th>Bokovskaya</th>
+<th>Rostov</th>
+<th>Ukraine</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Muddy</th>
+<th>60</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>268</th>
+<th>Morozovsk</th>
+<th>Rostov</th>
+<th>Ukraine</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Muddy</th>
+<th>60</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>269</th>
+<th>Konstatinovsk</th>
+<th>Rostov</th>
+<th>Kaukasus</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Muddy</th>
+<th>60</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>270</th>
+<th>Salsk</th>
+<th>Krasnodar</th>
+<th>Kaukasus</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Muddy</th>
+<th>60</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>271</th>
+<th>Kotelnikovo</th>
+<th>Stalingrad</th>
+<th>Russia</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Muddy</th>
+<th>60</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>272</th>
+<th>Zhlobin</th>
+<th>Rogachev</th>
+<th>Russia</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Muddy</th>
+<th>60</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>273</th>
+<th>Gomel</th>
+<th>Rogachev</th>
+<th>Russia</th>
+<th>Europe</th>
+<th>Forest</th>
+<th>Muddy</th>
+<th>60</th>
+<th>No</th>
+<th>1</th>
+<th>1</th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>274</th>
+<th>Rogachev</th>
+<th>Rogachev</th>
+<th>Russia</th>
+<th>Europe</th>
+<th>Forest</th>
+<th>Muddy</th>
+<th>60</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>275</th>
+<th>Roslavl</th>
+<th>Rogachev</th>
+<th>Russia</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Muddy</th>
+<th>60</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>276</th>
+<th>Klintsy</th>
+<th>Ryazan</th>
+<th>Russia</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Muddy</th>
+<th>60</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>277</th>
+<th>Bryansk</th>
+<th>Ryazan</th>
+<th>Russia</th>
+<th>Europe</th>
+<th>Forest</th>
+<th>Muddy</th>
+<th>60</th>
+<th>No</th>
+<th>1</th>
+<th>1</th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>278</th>
+<th>Tula</th>
+<th>Ryazan</th>
+<th>Russia</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Muddy</th>
+<th>60</th>
+<th>No</th>
+<th>1</th>
+<th>1</th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>279</th>
+<th>Ryazan</th>
+<th>Ryazan</th>
+<th>Russia</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Muddy</th>
+<th>60</th>
+<th>No</th>
+<th>1</th>
+<th>1</th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>280</th>
+<th>Tambov</th>
+<th>Tambov</th>
+<th>Russia</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Muddy</th>
+<th>60</th>
+<th>No</th>
+<th>1</th>
+<th>1</th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>281</th>
+<th>Lipetsk</th>
+<th>Tambov</th>
+<th>Russia</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Muddy</th>
+<th>60</th>
+<th>No</th>
+<th>1</th>
+<th>1</th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>282</th>
+<th>Orel</th>
+<th>Ryazan</th>
+<th>Russia</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Muddy</th>
+<th>60</th>
+<th>No</th>
+<th>1</th>
+<th>1</th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>283</th>
+<th>Voronezh</th>
+<th>Tambov</th>
+<th>Russia</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Muddy</th>
+<th>60</th>
+<th>No</th>
+<th>2</th>
+<th>2</th>
+<th>2</th>
+<th></th>
+<th>2</th>
+<th>1</th>
+</tr>
+<tr class="odd">
+<th>284</th>
+<th>Borisglebsk</th>
+<th>Tambov</th>
+<th>Russia</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Muddy</th>
+<th>50</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>285</th>
+<th>Vyazma</th>
+<th>Velikiye Luki</th>
+<th>Russia</th>
+<th>Europe</th>
+<th>Marsh</th>
+<th>Muddy</th>
+<th>40</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>286</th>
+<th>Toropets</th>
+<th>Velikiye Luki</th>
+<th>Russia</th>
+<th>Europe</th>
+<th>Forest</th>
+<th>Muddy</th>
+<th>60</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>287</th>
+<th>Velikiye Luki</th>
+<th>Velikiye Luki</th>
+<th>Russia</th>
+<th>Europe</th>
+<th>Marsh</th>
+<th>Muddy</th>
+<th>40</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>288</th>
+<th>Rzhev</th>
+<th>Moscow</th>
+<th>Russia</th>
+<th>Europe</th>
+<th>Marsh</th>
+<th>Muddy</th>
+<th>40</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>289</th>
+<th>Demyansk</th>
+<th>Novgorod</th>
+<th>Russia</th>
+<th>Europe</th>
+<th>Forest</th>
+<th>Muddy</th>
+<th>60</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>290</th>
+<th>Öresund</th>
+<th>Kattegat</th>
+<th>Baltic Sea</th>
+<th>Europe</th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>291</th>
+<th></th>
+<th>-</th>
+<th>-</th>
+<th>-</th>
+<th>Ocean</th>
+<th>-</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>292</th>
+<th>Aalborg</th>
+<th>Denmark</th>
+<th>Denmark</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Temperate</th>
+<th>100</th>
+<th>Yes</th>
+<th>1</th>
+<th></th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>293</th>
+<th>Odense</th>
+<th>Denmark</th>
+<th>Denmark</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Temperate</th>
+<th>100</th>
+<th>Yes</th>
+<th>1</th>
+<th></th>
+<th>5</th>
+<th></th>
+<th>1</th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>294</th>
+<th>Copenhagen</th>
+<th>Denmark</th>
+<th>Denmark</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Temperate</th>
+<th>100</th>
+<th>Yes</th>
+<th>9</th>
+<th>7</th>
+<th>14</th>
+<th></th>
+<th>7</th>
+<th>4</th>
+</tr>
+<tr class="even">
+<th>295</th>
+<th>Bornholm</th>
+<th>Denmark</th>
+<th>Denmark</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Temperate</th>
+<th>100</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>296</th>
+<th>Rostock</th>
+<th>Holstein_Mecklemburg</th>
+<th>Germany</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Temperate</th>
+<th>100</th>
+<th>Yes</th>
+<th>2</th>
+<th>1</th>
+<th>2</th>
+<th></th>
+<th>1</th>
+<th></th>
+</tr>
+<tr class="even">
+<th>297</th>
+<th>Wolfsburg</th>
+<th>Hannover_Magdeburg</th>
+<th>Germany</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>298</th>
+<th>Magdeburg</th>
+<th>Hannover_Magdeburg</th>
+<th>Germany</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th>3</th>
+<th>1</th>
+<th>3</th>
+<th></th>
+<th>2</th>
+<th>1</th>
+</tr>
+<tr class="even">
+<th>299</th>
+<th>Potsdam</th>
+<th>Brandenburg</th>
+<th>Germany</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>300</th>
+<th>Berlin</th>
+<th>Brandenburg</th>
+<th>Germany</th>
+<th>Europe</th>
+<th>Urban</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th>19</th>
+<th>10</th>
+<th>24</th>
+<th></th>
+<th>12</th>
+<th>6</th>
+</tr>
+<tr class="even" data-bgcolor="ffff66">
+<th>ID</th>
+<th>Province name</th>
+<th>Area</th>
+<th>Region</th>
+<th>Continent</th>
+<th>Terrain</th>
+<th>Climate</th>
+<th>Infra</th>
+<th>Beach?</th>
+<th>IC</th>
+<th>Manpower</th>
+<th>Energy</th>
+<th>Oil</th>
+<th>Metal</th>
+<th>Rare Materials</th>
+</tr>
+<tr class="odd">
+<th><h2 id="section-6"><span id="301" class="mw-headline"> 301
+</span></h2></th>
+<th>Stralsund</th>
+<th>Brandenburg</th>
+<th>Germany</th>
+<th>Europe</th>
+<th>Forest</th>
+<th>Temperate</th>
+<th>100</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>302</th>
+<th>Stettin</th>
+<th>Brandenburg</th>
+<th>Germany</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Temperate</th>
+<th>100</th>
+<th>Yes</th>
+<th>4</th>
+<th>2</th>
+<th>4</th>
+<th></th>
+<th>2</th>
+<th>1</th>
+</tr>
+<tr class="odd">
+<th>303</th>
+<th>Danzig</th>
+<th>East Prussia</th>
+<th>Germany</th>
+<th>Europe</th>
+<th>forest</th>
+<th>Temperate</th>
+<th>100</th>
+<th>Yes</th>
+<th>1</th>
+<th>1</th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>304</th>
+<th>Elbing</th>
+<th>East Prussia</th>
+<th>Germany</th>
+<th>Europe</th>
+<th>clear</th>
+<th>Temperate</th>
+<th>100</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>305</th>
+<th>Torun</th>
+<th>East Prussia</th>
+<th>Germany</th>
+<th>Europe</th>
+<th>clear</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>306</th>
+<th>Bydgoszcz</th>
+<th>Poznan</th>
+<th>Poland</th>
+<th>Europe</th>
+<th>clear</th>
+<th>Temperate</th>
+<th>80</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>307</th>
+<th>Poznan</th>
+<th>Poznan</th>
+<th>Poland</th>
+<th>Europe</th>
+<th>clear</th>
+<th>Temperate</th>
+<th>80</th>
+<th>No</th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th></th>
+<th>2</th>
+<th>1</th>
+</tr>
+<tr class="even">
+<th>308</th>
+<th>Küstrin</th>
+<th>Brandenburg</th>
+<th>Germany</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>309</th>
+<th>Cottbus</th>
+<th>Sachsen</th>
+<th>Germany</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th>12</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>310</th>
+<th>Leipzig</th>
+<th>Sachsen</th>
+<th>Germany</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th>3</th>
+<th>1</th>
+<th>158</th>
+<th></th>
+<th>3</th>
+<th>1</th>
+</tr>
+<tr class="odd">
+<th>311</th>
+<th>Dresden</th>
+<th>Sachsen</th>
+<th>Germany</th>
+<th>Europe</th>
+<th>Hills</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th>10</th>
+<th>4</th>
+<th>10</th>
+<th></th>
+<th>5</th>
+<th>3</th>
+</tr>
+<tr class="even">
+<th>312</th>
+<th>Nuremberg</th>
+<th>Bavaria</th>
+<th>Germany</th>
+<th>Europe</th>
+<th>Hills</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th>6</th>
+<th>3</th>
+<th>6</th>
+<th></th>
+<th>7</th>
+<th>2</th>
+</tr>
+<tr class="odd">
+<th>313</th>
+<th>Frankfurt-am-Main</th>
+<th>Baden_Wurttemberg</th>
+<th>Germany</th>
+<th>Europe</th>
+<th>Hills</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th>7</th>
+<th>3</th>
+<th>7</th>
+<th></th>
+<th>4</th>
+<th>2</th>
+</tr>
+<tr class="even">
+<th>314</th>
+<th>Stuttgart</th>
+<th>Baden_Wurttemberg</th>
+<th>Germany</th>
+<th>Europe</th>
+<th>Hills</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th>11</th>
+<th>4</th>
+<th>11</th>
+<th></th>
+<th>5</th>
+<th>2</th>
+</tr>
+<tr class="odd">
+<th>315</th>
+<th>Freiburg</th>
+<th>Baden_Wurttemberg</th>
+<th>Germany</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>316</th>
+<th>Mulhouse</th>
+<th>Lorraine_Alsace</th>
+<th>France</th>
+<th>Europe</th>
+<th>Forest</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th>5</th>
+</tr>
+<tr class="odd">
+<th>317</th>
+<th>Chaumont</th>
+<th>Bourgogne_Champagne</th>
+<th>France</th>
+<th>Europe</th>
+<th>Forest</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>318</th>
+<th>Dijon</th>
+<th>Bourgogne_Champagne</th>
+<th>France</th>
+<th>Europe</th>
+<th>Hills</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th>3</th>
+<th>1</th>
+<th>3</th>
+<th></th>
+<th>2</th>
+<th>1</th>
+</tr>
+<tr class="odd">
+<th>319</th>
+<th>Chalon-sur-Saône</th>
+<th>Bourgogne_Champagne</th>
+<th>France</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th>11</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>320</th>
+<th>Vichy</th>
+<th>Limousin_Auvergne</th>
+<th>France</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>321</th>
+<th>Châteauroux</th>
+<th>Limousin_Auvergne</th>
+<th>France</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>322</th>
+<th>Limoges</th>
+<th>Limousin_Auvergne</th>
+<th>France</th>
+<th>Europe</th>
+<th>Forest</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th>1</th>
+<th>1</th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>323</th>
+<th>La Rochelle</th>
+<th>Aquitaine</th>
+<th>France</th>
+<th>Europe</th>
+<th>Forest</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th>3</th>
+<th>1</th>
+<th>3</th>
+<th></th>
+<th>2</th>
+<th>1</th>
+</tr>
+<tr class="even">
+<th>324</th>
+<th>Bergerac</th>
+<th>Limousin_Auvergne</th>
+<th>France</th>
+<th>Europe</th>
+<th>Forest</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>325</th>
+<th>Bordeaux</th>
+<th>Aquitaine</th>
+<th>France</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Temperate</th>
+<th>100</th>
+<th>Yes</th>
+<th>4</th>
+<th>2</th>
+<th>4</th>
+<th></th>
+<th>1</th>
+<th></th>
+</tr>
+<tr class="even">
+<th>326</th>
+<th>Dax</th>
+<th>Aquitaine</th>
+<th>France</th>
+<th>Europe</th>
+<th>Forest</th>
+<th>Temperate</th>
+<th>100</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>327</th>
+<th>Auch</th>
+<th>Aquitaine</th>
+<th>France</th>
+<th>Europe</th>
+<th>Forest</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>328</th>
+<th>Pau</th>
+<th>Pyrenees_Languedoc</th>
+<th>France</th>
+<th>Europe</th>
+<th>Mountain</th>
+<th>Temperate</th>
+<th>80</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>329</th>
+<th>Huesca</th>
+<th>Catalonia</th>
+<th>Spain</th>
+<th>Europe</th>
+<th>Mountain</th>
+<th>Temperate</th>
+<th>40</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>330</th>
+<th>Saragossa</th>
+<th>Cantabric Chain</th>
+<th>Spain</th>
+<th>Europe</th>
+<th>Hills</th>
+<th>Mediterranean</th>
+<th>70</th>
+<th>No</th>
+<th>2</th>
+<th>1</th>
+<th>2</th>
+<th></th>
+<th>1</th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>331</th>
+<th>Bilbao</th>
+<th>Cantabric Chain</th>
+<th>Spain</th>
+<th>Europe</th>
+<th>Mountain</th>
+<th>Temperate</th>
+<th>50</th>
+<th>Yes</th>
+<th>2</th>
+<th>1</th>
+<th>2</th>
+<th></th>
+<th>1</th>
+<th>1</th>
+</tr>
+<tr class="even">
+<th>332</th>
+<th>Oviedo</th>
+<th>Cantabric Chain</th>
+<th>Spain</th>
+<th>Europe</th>
+<th>Mountain</th>
+<th>Temperate</th>
+<th>40</th>
+<th>Yes</th>
+<th>2</th>
+<th>1</th>
+<th>13</th>
+<th></th>
+<th>6</th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>333</th>
+<th>Burgos</th>
+<th>Continental Spain</th>
+<th>Spain</th>
+<th>Europe</th>
+<th>Hills</th>
+<th>Mediterranean</th>
+<th>60</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th>11</th>
+<th></th>
+<th>4</th>
+<th></th>
+</tr>
+<tr class="even">
+<th>334</th>
+<th>La Coruña</th>
+<th>Cantabric Chain</th>
+<th>Spain</th>
+<th>Europe</th>
+<th>Forest</th>
+<th>Mediterranean</th>
+<th>40</th>
+<th>No</th>
+<th>3</th>
+<th>2</th>
+<th>3</th>
+<th></th>
+<th>2</th>
+<th>1</th>
+</tr>
+<tr class="odd">
+<th>335</th>
+<th>Oporto</th>
+<th>Portugal</th>
+<th>Portugal</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Mediterranean</th>
+<th>70</th>
+<th>No</th>
+<th>3</th>
+<th>2</th>
+<th>3</th>
+<th></th>
+<th>2</th>
+<th>1</th>
+</tr>
+<tr class="even">
+<th>336</th>
+<th>Lissabon</th>
+<th>Portugal</th>
+<th>Portugal</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Mediterranean</th>
+<th>80</th>
+<th>Yes</th>
+<th>9</th>
+<th>7</th>
+<th>14</th>
+<th></th>
+<th>7</th>
+<th>4</th>
+</tr>
+<tr class="odd">
+<th>337</th>
+<th>Guarda</th>
+<th>Portugal</th>
+<th>Portugal</th>
+<th>Europe</th>
+<th>Hills</th>
+<th>Mediterranean</th>
+<th>70</th>
+<th>No</th>
+<th>1</th>
+<th>1</th>
+<th>1</th>
+<th></th>
+<th>1</th>
+<th></th>
+</tr>
+<tr class="even">
+<th>338</th>
+<th>Salamanca</th>
+<th>Continental Spain</th>
+<th>Spain</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Mediterranean</th>
+<th>60</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>339</th>
+<th>Valladolid</th>
+<th>Continental Spain</th>
+<th>Spain</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Mediterranean</th>
+<th>60</th>
+<th>No</th>
+<th>4</th>
+<th>2</th>
+<th>8</th>
+<th></th>
+<th>6</th>
+<th>1</th>
+</tr>
+<tr class="even">
+<th>340</th>
+<th>Sigüenza</th>
+<th>Central Spain</th>
+<th>Spain</th>
+<th>Europe</th>
+<th>Hills</th>
+<th>Mediterranean</th>
+<th>60</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>341</th>
+<th>Madrid</th>
+<th>Central Spain</th>
+<th>Spain</th>
+<th>Europe</th>
+<th>Urban</th>
+<th>Mediterranean</th>
+<th>80</th>
+<th>No</th>
+<th>7</th>
+<th>6</th>
+<th>12</th>
+<th></th>
+<th>6</th>
+<th>5</th>
+</tr>
+<tr class="even">
+<th>342</th>
+<th>Guadalajara</th>
+<th>Central Spain</th>
+<th>Spain</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Mediterranean</th>
+<th>60</th>
+<th>No</th>
+<th>3</th>
+<th>2</th>
+<th>3</th>
+<th></th>
+<th>2</th>
+<th>1</th>
+</tr>
+<tr class="odd">
+<th>343</th>
+<th>Badajoz</th>
+<th>Central Spain</th>
+<th>Spain</th>
+<th>Europe</th>
+<th>Hills</th>
+<th>Mediterranean</th>
+<th>60</th>
+<th>No</th>
+<th>2</th>
+<th>1</th>
+<th>2</th>
+<th></th>
+<th>4</th>
+<th></th>
+</tr>
+<tr class="even">
+<th>344</th>
+<th>Evora</th>
+<th>Portugal</th>
+<th>Portugal</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Mediterranean</th>
+<th>60</th>
+<th>No</th>
+<th>1</th>
+<th></th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>345</th>
+<th>Faro</th>
+<th>Portugal</th>
+<th>Portugal</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Mediterranean</th>
+<th>60</th>
+<th>Yes</th>
+<th>1</th>
+<th>1</th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>346</th>
+<th>Huelva</th>
+<th>West Andalucia</th>
+<th>Spain</th>
+<th>Europe</th>
+<th>Hills</th>
+<th>Mediterranean</th>
+<th>60</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th>2</th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>347</th>
+<th>Seville</th>
+<th>West Andalucia</th>
+<th>Spain</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Mediterranean</th>
+<th>60</th>
+<th>Yes</th>
+<th>7</th>
+<th>4</th>
+<th>7</th>
+<th></th>
+<th>7</th>
+<th>6</th>
+</tr>
+<tr class="even">
+<th>348</th>
+<th>Gibraltar</th>
+<th>West Andalucia</th>
+<th>Spain</th>
+<th>Europe</th>
+<th>Hills</th>
+<th>Mediterranean</th>
+<th>80</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>349</th>
+<th>Málaga</th>
+<th>West Andalucia</th>
+<th>Spain</th>
+<th>Europe</th>
+<th>Hills</th>
+<th>Mediterranean</th>
+<th>60</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>350</th>
+<th>Almería</th>
+<th>East Andalucia</th>
+<th>Spain</th>
+<th>Europe</th>
+<th>Mountain</th>
+<th>Mediterranean</th>
+<th>40</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd" data-bgcolor="ffff66">
+<th>ID</th>
+<th>Province name</th>
+<th>Area</th>
+<th>Region</th>
+<th>Continent</th>
+<th>Terrain</th>
+<th>Climate</th>
+<th>Infra</th>
+<th>Beach?</th>
+<th>IC</th>
+<th>Manpower</th>
+<th>Energy</th>
+<th>Oil</th>
+<th>Metal</th>
+<th>Rare Materials</th>
+</tr>
+<tr class="even">
+<th><h2 id="section-7"><span id="351" class="mw-headline"> 351
+</span></h2></th>
+<th>Jaén</th>
+<th>East Andalucia</th>
+<th>Spain</th>
+<th>Europe</th>
+<th>Hills</th>
+<th>Mediterranean</th>
+<th>60</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th>2</th>
+<th>9</th>
+</tr>
+<tr class="odd">
+<th>352</th>
+<th>Murcia</th>
+<th>Levant</th>
+<th>Spain</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Mediterranean</th>
+<th>60</th>
+<th>Yes</th>
+<th>1</th>
+<th>1</th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>353</th>
+<th>Albacete</th>
+<th>East Andalucia</th>
+<th>Spain</th>
+<th>Europe</th>
+<th>Hills</th>
+<th>Mediterranean</th>
+<th>60</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>354</th>
+<th>València</th>
+<th>Levant</th>
+<th>Spain</th>
+<th>Europe</th>
+<th>Hills</th>
+<th>Mediterranean</th>
+<th>70</th>
+<th>Yes</th>
+<th>3</th>
+<th>2</th>
+<th>3</th>
+<th></th>
+<th>1</th>
+<th>1</th>
+</tr>
+<tr class="even">
+<th>355</th>
+<th>Castellón</th>
+<th>Levant</th>
+<th>Spain</th>
+<th>Europe</th>
+<th>Hills</th>
+<th>Mediterranean</th>
+<th>60</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>356</th>
+<th>Tarragona</th>
+<th>Catalonia</th>
+<th>Spain</th>
+<th>Europe</th>
+<th>Hills</th>
+<th>Mediterranean</th>
+<th>70</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>357</th>
+<th>Barcelona</th>
+<th>Catalonia</th>
+<th>Spain</th>
+<th>Europe</th>
+<th>Hills</th>
+<th>Mediterranean</th>
+<th>80</th>
+<th>Yes</th>
+<th>4</th>
+<th>3</th>
+<th>4</th>
+<th></th>
+<th>2</th>
+<th>3</th>
+</tr>
+<tr class="odd">
+<th>358</th>
+<th>Perpignan</th>
+<th>Pyrenees_Languedoc</th>
+<th>France</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Mediterranean</th>
+<th>100</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>359</th>
+<th>Toulouse</th>
+<th>Pyrenees_Languedoc</th>
+<th>France</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th>4</th>
+<th>2</th>
+<th>4</th>
+<th></th>
+<th>2</th>
+<th>1</th>
+</tr>
+<tr class="odd">
+<th>360</th>
+<th>Clermont-Ferrand</th>
+<th>Limousin_Auvergne</th>
+<th>France</th>
+<th>Europe</th>
+<th>Hills</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th>2</th>
+<th>1</th>
+<th>2</th>
+<th></th>
+<th>1</th>
+<th></th>
+</tr>
+<tr class="even">
+<th>361</th>
+<th>Saint-Etienne</th>
+<th>Pyrenees_Languedoc</th>
+<th>France</th>
+<th>Europe</th>
+<th>Hills</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th>11</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>362</th>
+<th>Montpellier</th>
+<th>Pyrenees_Languedoc</th>
+<th>France</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Mediterranean</th>
+<th>100</th>
+<th>Yes</th>
+<th>3</th>
+<th>2</th>
+<th>3</th>
+<th></th>
+<th>18</th>
+<th>1</th>
+</tr>
+<tr class="even">
+<th>363</th>
+<th>Nîmes</th>
+<th>Pyrenees_Languedoc</th>
+<th>France</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Mediterranean</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>364</th>
+<th>Marseille</th>
+<th>Alpes_Provence</th>
+<th>France</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Mediterranean</th>
+<th>100</th>
+<th>Yes</th>
+<th>4</th>
+<th>2</th>
+<th>4</th>
+<th></th>
+<th>2</th>
+<th>1</th>
+</tr>
+<tr class="even">
+<th>365</th>
+<th>Toulon</th>
+<th>Alpes_Provence</th>
+<th>France</th>
+<th>Europe</th>
+<th>Hills</th>
+<th>Mediterranean</th>
+<th>100</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th>15</th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>366</th>
+<th>Nice</th>
+<th>Alpes_Provence</th>
+<th>France</th>
+<th>Europe</th>
+<th>Hills</th>
+<th>Mediterranean</th>
+<th>100</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>367</th>
+<th>Corsica</th>
+<th>Ligurian Islands</th>
+<th>France</th>
+<th>Europe</th>
+<th>Hills</th>
+<th>Mediterranean</th>
+<th>60</th>
+<th>Yes</th>
+<th>1</th>
+<th></th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>368</th>
+<th>Genoa</th>
+<th>North Italy</th>
+<th>Italy</th>
+<th>Europe</th>
+<th>Hills</th>
+<th>Mediterranean</th>
+<th>100</th>
+<th>No</th>
+<th>3</th>
+<th>1</th>
+<th>3</th>
+<th></th>
+<th>2</th>
+<th>1</th>
+</tr>
+<tr class="even">
+<th>369</th>
+<th>La Spezia</th>
+<th>Appennine Ridge</th>
+<th>Italy</th>
+<th>Europe</th>
+<th>Hills</th>
+<th>Mediterranean</th>
+<th>80</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>370</th>
+<th>Milan</th>
+<th>North Italy</th>
+<th>Italy</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Mediterranean</th>
+<th>100</th>
+<th>No</th>
+<th>12</th>
+<th>5</th>
+<th>12</th>
+<th></th>
+<th>6</th>
+<th>3</th>
+</tr>
+<tr class="even">
+<th>371</th>
+<th>Trento</th>
+<th>North Italy</th>
+<th>Italy</th>
+<th>Europe</th>
+<th>Mountain</th>
+<th>Temperate</th>
+<th>80</th>
+<th>No</th>
+<th>1</th>
+<th></th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>372</th>
+<th>Chur</th>
+<th>Switzerland</th>
+<th>Switzerland</th>
+<th>Europe</th>
+<th>Mountain</th>
+<th>Temperate</th>
+<th>80</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>373</th>
+<th>Lech</th>
+<th>Austria</th>
+<th>Austria</th>
+<th>Europe</th>
+<th>Mountain</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th>5</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>374</th>
+<th>Friedrichshafen</th>
+<th>Bavaria</th>
+<th>Germany</th>
+<th>Europe</th>
+<th>Forest</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>375</th>
+<th>Regensburg</th>
+<th>Bavaria</th>
+<th>Germany</th>
+<th>Europe</th>
+<th>Forest</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>376</th>
+<th>Munich</th>
+<th>Bavaria</th>
+<th>Germany</th>
+<th>Europe</th>
+<th>Hills</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th>5</th>
+<th>2</th>
+<th>5</th>
+<th></th>
+<th>2</th>
+<th>1</th>
+</tr>
+<tr class="even">
+<th>377</th>
+<th>Innsbruck</th>
+<th>Austria</th>
+<th>Austria</th>
+<th>Europe</th>
+<th>Mountain</th>
+<th>Temperate</th>
+<th>80</th>
+<th>No</th>
+<th>1</th>
+<th>1</th>
+<th>6</th>
+<th></th>
+<th>4</th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>378</th>
+<th>Venice</th>
+<th>North Italy</th>
+<th>Italy</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Mediterranean</th>
+<th>100</th>
+<th>No</th>
+<th>10</th>
+<th>4</th>
+<th>13</th>
+<th></th>
+<th>7</th>
+<th>3</th>
+</tr>
+<tr class="even">
+<th>379</th>
+<th>Ferrara</th>
+<th>Appennine Ridge</th>
+<th>Italy</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Mediterranean</th>
+<th>80</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>380</th>
+<th>Ljubljana</th>
+<th>Croatia</th>
+<th>Balkan</th>
+<th>Europe</th>
+<th>Hills</th>
+<th>Temperate</th>
+<th>80</th>
+<th>No</th>
+<th>2</th>
+<th>1</th>
+<th>2</th>
+<th></th>
+<th>1</th>
+<th>1</th>
+</tr>
+<tr class="even">
+<th>381</th>
+<th>Rijeka</th>
+<th>Croatia</th>
+<th>Balkan</th>
+<th>Europe</th>
+<th>Hills</th>
+<th>Mediterranean</th>
+<th>80</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>382</th>
+<th>Zagreb</th>
+<th>Croatia</th>
+<th>Balkan</th>
+<th>Europe</th>
+<th>Hills</th>
+<th>Temperate</th>
+<th>80</th>
+<th>No</th>
+<th>3</th>
+<th>2</th>
+<th>3</th>
+<th></th>
+<th>2</th>
+<th>1</th>
+</tr>
+<tr class="even">
+<th>383</th>
+<th>Banja Luka</th>
+<th>Croatia</th>
+<th>Balkan</th>
+<th>Europe</th>
+<th>Hills</th>
+<th>Temperate</th>
+<th>70</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>384</th>
+<th>Split</th>
+<th>Croatia</th>
+<th>Balkan</th>
+<th>Europe</th>
+<th>Hills</th>
+<th>Mediterranean</th>
+<th>70</th>
+<th>Yes</th>
+<th>2</th>
+<th>1</th>
+<th>2</th>
+<th></th>
+<th>1</th>
+<th></th>
+</tr>
+<tr class="even">
+<th>385</th>
+<th>Zenica</th>
+<th>Bosnia</th>
+<th>Balkan</th>
+<th>Europe</th>
+<th>Hills</th>
+<th>Temperate</th>
+<th>70</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>386</th>
+<th>Sarajevo</th>
+<th>Bosnia</th>
+<th>Balkan</th>
+<th>Europe</th>
+<th>Hills</th>
+<th>Temperate</th>
+<th>70</th>
+<th>No</th>
+<th>3</th>
+<th>2</th>
+<th>3</th>
+<th></th>
+<th>2</th>
+<th>1</th>
+</tr>
+<tr class="even">
+<th>387</th>
+<th>Mostar</th>
+<th>Bosnia</th>
+<th>Balkan</th>
+<th>Europe</th>
+<th>Mountain</th>
+<th>Mediterranean</th>
+<th>60</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>388</th>
+<th>Dubrovnik</th>
+<th>Bosnia</th>
+<th>Balkan</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Mediterranean</th>
+<th>80</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>389</th>
+<th>Podgorica</th>
+<th>East Serbia</th>
+<th>Balkan</th>
+<th>Europe</th>
+<th>Mountain</th>
+<th>Mediterranean</th>
+<th>60</th>
+<th>No</th>
+<th>1</th>
+<th>1</th>
+<th>1</th>
+<th></th>
+<th>13</th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>390</th>
+<th>Tirana</th>
+<th>Albania</th>
+<th>Balkan</th>
+<th>Europe</th>
+<th>Mountain</th>
+<th>Mediterranean</th>
+<th>60</th>
+<th>Yes</th>
+<th>4</th>
+<th>2</th>
+<th>11</th>
+<th>3</th>
+<th>6</th>
+<th>3</th>
+</tr>
+<tr class="even">
+<th>391</th>
+<th>Vlorë</th>
+<th>Albania</th>
+<th>Balkan</th>
+<th>Europe</th>
+<th>Hills</th>
+<th>Mediterranean</th>
+<th>60</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>392</th>
+<th>Ioannina</th>
+<th>Thrace</th>
+<th>Balkan</th>
+<th>Europe</th>
+<th>Hills</th>
+<th>Mediterranean</th>
+<th>70</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th>4</th>
+<th></th>
+</tr>
+<tr class="even">
+<th>393</th>
+<th>Kefalonia</th>
+<th>Attica</th>
+<th>Balkan</th>
+<th>Europe</th>
+<th>Hills</th>
+<th>Mediterranean</th>
+<th>80</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>394</th>
+<th>Patras</th>
+<th>Attica</th>
+<th>Balkan</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Mediterranean</th>
+<th>80</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>395</th>
+<th>Corinthe</th>
+<th>Attica</th>
+<th>Balkan</th>
+<th>Europe</th>
+<th>Hills</th>
+<th>Mediterranean</th>
+<th>80</th>
+<th>No</th>
+<th>2</th>
+<th>1</th>
+<th>2</th>
+<th></th>
+<th>1</th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>396</th>
+<th>Crete</th>
+<th>Greek Island</th>
+<th>Balkan</th>
+<th>Europe</th>
+<th>Hills</th>
+<th>Mediterranean</th>
+<th>60</th>
+<th>Yes</th>
+<th>1</th>
+<th></th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>397</th>
+<th>Sea of Marmara</th>
+<th>Black Sea</th>
+<th>Black Sea</th>
+<th>Europe</th>
+<th>Ocean</th>
+<th>Mediterranean</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>398</th>
+<th>Dodecanese</th>
+<th>Greek Island</th>
+<th>Balkan</th>
+<th>Europe</th>
+<th>Hills</th>
+<th>Mediterranean</th>
+<th>80</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>399</th>
+<th>Rhodes</th>
+<th>Greek Island</th>
+<th>Balkan</th>
+<th>Europe</th>
+<th>Hills</th>
+<th>Mediterranean</th>
+<th>80</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>400</th>
+<th>The Cyclades</th>
+<th>Attica</th>
+<th>Balkan</th>
+<th>Europe</th>
+<th>Hills</th>
+<th>Mediterranean</th>
+<th>80</th>
+<th>Yes</th>
+<th>1</th>
+<th>1</th>
+<th>1</th>
+<th></th>
+<th>1</th>
+<th></th>
+</tr>
+<tr class="even" data-bgcolor="ffff66">
+<th>ID</th>
+<th>Province name</th>
+<th>Area</th>
+<th>Region</th>
+<th>Continent</th>
+<th>Terrain</th>
+<th>Climate</th>
+<th>Infra</th>
+<th>Beach?</th>
+<th>IC</th>
+<th>Manpower</th>
+<th>Energy</th>
+<th>Oil</th>
+<th>Metal</th>
+<th>Rare Materials</th>
+</tr>
+<tr class="odd">
+<th><h2 id="section-8"><span id="401" class="mw-headline"> 401
+</span></h2></th>
+<th>Athens</th>
+<th>Attica</th>
+<th>Balkan</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Mediterranean</th>
+<th>80</th>
+<th>Yes</th>
+<th>7</th>
+<th>6</th>
+<th>12</th>
+<th></th>
+<th>6</th>
+<th>4</th>
+</tr>
+<tr class="even">
+<th>402</th>
+<th>Agrinio</th>
+<th>Thrace</th>
+<th>Balkan</th>
+<th>Europe</th>
+<th>Hills</th>
+<th>Mediterranean</th>
+<th>80</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>403</th>
+<th>Larisa</th>
+<th>Thrace</th>
+<th>Balkan</th>
+<th>Europe</th>
+<th>Hills</th>
+<th>Mediterranean</th>
+<th>80</th>
+<th>No</th>
+<th>2</th>
+<th>1</th>
+<th>2</th>
+<th></th>
+<th>1</th>
+<th>1</th>
+</tr>
+<tr class="even">
+<th>404</th>
+<th>Haifa</th>
+<th>Palestine</th>
+<th>Middle East</th>
+<th>Asia</th>
+<th>Hills</th>
+<th>Mediterranean</th>
+<th>60</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>405</th>
+<th>The Dardanelles</th>
+<th>Bosporus</th>
+<th>Balkan</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Mediterranean</th>
+<th>80</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>406</th>
+<th>Eilat</th>
+<th>Palestine</th>
+<th>Middle East</th>
+<th>Asia</th>
+<th>Desert</th>
+<th>Arid</th>
+<th>40</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>407</th>
+<th>Ar-Ruwayshid</th>
+<th>Transjordan</th>
+<th>Middle East</th>
+<th>Asia</th>
+<th>Desert</th>
+<th>Arid</th>
+<th>20</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>408</th>
+<th>Bursa</th>
+<th>Bosporus</th>
+<th>Anatolia</th>
+<th>Asia</th>
+<th>Hills</th>
+<th>Mediterranean</th>
+<th>60</th>
+<th>Yes</th>
+<th></th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>409</th>
+<th>Istanbul</th>
+<th>Bosporus</th>
+<th>Anatolia</th>
+<th>Europe</th>
+<th>Hills</th>
+<th>Mediterranean</th>
+<th>60</th>
+<th>Yes</th>
+<th>1</th>
+<th>1</th>
+<th>1</th>
+<th></th>
+<th>2</th>
+<th>1</th>
+</tr>
+<tr class="even">
+<th>410</th>
+<th>Kavala</th>
+<th>Thrace</th>
+<th>Balkan</th>
+<th>Europe</th>
+<th>Hills</th>
+<th>Mediterranean</th>
+<th>80</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>411</th>
+<th>Salonika</th>
+<th>Thrace</th>
+<th>Balkan</th>
+<th>Europe</th>
+<th>Hills</th>
+<th>Mediterranean</th>
+<th>80</th>
+<th>Yes</th>
+<th>2</th>
+<th>2</th>
+<th>2</th>
+<th></th>
+<th>4</th>
+<th>1</th>
+</tr>
+<tr class="even">
+<th>412</th>
+<th>Edessa</th>
+<th>Thrace</th>
+<th>Balkan</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Mediterranean</th>
+<th>70</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>413</th>
+<th>Skopje</th>
+<th>East Serbia</th>
+<th>Balkan</th>
+<th>Europe</th>
+<th>Mountain</th>
+<th>Mediterranean</th>
+<th>60</th>
+<th>No</th>
+<th>1</th>
+<th>1</th>
+<th>1</th>
+<th></th>
+<th>2</th>
+<th></th>
+</tr>
+<tr class="even">
+<th>414</th>
+<th>Stip</th>
+<th>East Serbia</th>
+<th>Balkan</th>
+<th>Europe</th>
+<th>Hills</th>
+<th>Mediterranean</th>
+<th>70</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>415</th>
+<th>Pristina</th>
+<th>East Serbia</th>
+<th>Balkan</th>
+<th>Europe</th>
+<th>Hills</th>
+<th>Mediterranean</th>
+<th>70</th>
+<th>No</th>
+<th>2</th>
+<th>1</th>
+<th>2</th>
+<th></th>
+<th>6</th>
+<th>4</th>
+</tr>
+<tr class="even">
+<th>416</th>
+<th>Gorna Dzhumaya</th>
+<th>Bulgaria</th>
+<th>Balkan</th>
+<th>Europe</th>
+<th>Mountain</th>
+<th>Mediterranean</th>
+<th>60</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>417</th>
+<th>Sofia</th>
+<th>Bulgaria</th>
+<th>Balkan</th>
+<th>Europe</th>
+<th>Mountain</th>
+<th>Temperate</th>
+<th>60</th>
+<th>No</th>
+<th>7</th>
+<th>6</th>
+<th>16</th>
+<th></th>
+<th>6</th>
+<th>4</th>
+</tr>
+<tr class="even">
+<th>418</th>
+<th>Nis</th>
+<th>East Serbia</th>
+<th>Balkan</th>
+<th>Europe</th>
+<th>Hills</th>
+<th>Temperate</th>
+<th>80</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th>7</th>
+<th></th>
+<th>5</th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>419</th>
+<th>Vraca</th>
+<th>Bulgaria</th>
+<th>Balkan</th>
+<th>Europe</th>
+<th>Mountain</th>
+<th>Temperate</th>
+<th>60</th>
+<th>No</th>
+<th>1</th>
+<th>1</th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>420</th>
+<th>Pleven</th>
+<th>Bulgaria</th>
+<th>Balkan</th>
+<th>Europe</th>
+<th>Mountain</th>
+<th>Temperate</th>
+<th>60</th>
+<th>No</th>
+<th>2</th>
+<th>1</th>
+<th>2</th>
+<th></th>
+<th>1</th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>421</th>
+<th>Plovdiv</th>
+<th>Bulgaria</th>
+<th>Balkan</th>
+<th>Europe</th>
+<th>Mountain</th>
+<th>Mediterranean</th>
+<th>60</th>
+<th>No</th>
+<th>3</th>
+<th>2</th>
+<th>3</th>
+<th></th>
+<th>2</th>
+<th>2</th>
+</tr>
+<tr class="even">
+<th>422</th>
+<th>Varna</th>
+<th>Bulgaria</th>
+<th>Balkan</th>
+<th>Europe</th>
+<th>Hills</th>
+<th>Mediterranean</th>
+<th>80</th>
+<th>Yes</th>
+<th>2</th>
+<th>1</th>
+<th>2</th>
+<th></th>
+<th>1</th>
+<th>1</th>
+</tr>
+<tr class="odd">
+<th>423</th>
+<th>Constanta</th>
+<th>South Romania</th>
+<th>Romania</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Mediterranean</th>
+<th>80</th>
+<th>Yes</th>
+<th>1</th>
+<th></th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>424</th>
+<th>Bucharest</th>
+<th>South Romania</th>
+<th>Romania</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Temperate</th>
+<th>80</th>
+<th>No</th>
+<th>7</th>
+<th>6</th>
+<th>12</th>
+<th>2</th>
+<th>6</th>
+<th>4</th>
+</tr>
+<tr class="odd">
+<th>425</th>
+<th>Pitesti</th>
+<th>South Romania</th>
+<th>Romania</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Temperate</th>
+<th>80</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>426</th>
+<th>Craiova</th>
+<th>South Romania</th>
+<th>Romania</th>
+<th>Europe</th>
+<th>Mountain</th>
+<th>Temperate</th>
+<th>60</th>
+<th>No</th>
+<th>2</th>
+<th>1</th>
+<th>2</th>
+<th></th>
+<th>1</th>
+<th>1</th>
+</tr>
+<tr class="odd">
+<th>427</th>
+<th>Sibiu</th>
+<th>Transylvania</th>
+<th>Romania</th>
+<th>Europe</th>
+<th>Mountain</th>
+<th>Temperate</th>
+<th>60</th>
+<th>No</th>
+<th>1</th>
+<th>1</th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>428</th>
+<th>Cluj-Napoca</th>
+<th>Transylvania</th>
+<th>Romania</th>
+<th>Europe</th>
+<th>Hills</th>
+<th>Temperate</th>
+<th>80</th>
+<th>No</th>
+<th>2</th>
+<th>1</th>
+<th>2</th>
+<th></th>
+<th>3</th>
+<th>1</th>
+</tr>
+<tr class="odd">
+<th>429</th>
+<th>Bacau</th>
+<th>Transylvania</th>
+<th>Romania</th>
+<th>Europe</th>
+<th>Mountain</th>
+<th>Temperate</th>
+<th>60</th>
+<th>No</th>
+<th>1</th>
+<th>1</th>
+<th>5</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>430</th>
+<th>Brasov</th>
+<th>Transylvania</th>
+<th>Romania</th>
+<th>Europe</th>
+<th>Mountain</th>
+<th>Temperate</th>
+<th>60</th>
+<th>No</th>
+<th>1</th>
+<th></th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>431</th>
+<th>Ploesti</th>
+<th>North Romania</th>
+<th>Romania</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Temperate</th>
+<th>80</th>
+<th>No</th>
+<th>1</th>
+<th>1</th>
+<th>1</th>
+<th>26</th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>432</th>
+<th>Braila</th>
+<th>North Romania</th>
+<th>Romania</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Temperate</th>
+<th>80</th>
+<th>No</th>
+<th>1</th>
+<th>1</th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>433</th>
+<th>Iasi</th>
+<th>Bessarabia</th>
+<th>Romania</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Muddy</th>
+<th>80</th>
+<th>No</th>
+<th>3</th>
+<th>2</th>
+<th>5</th>
+<th></th>
+<th>5</th>
+<th>1</th>
+</tr>
+<tr class="even">
+<th>434</th>
+<th>Chisinev</th>
+<th>Bessarabia</th>
+<th>Romania</th>
+<th>Europe</th>
+<th>Hills</th>
+<th>Muddy</th>
+<th>80</th>
+<th>No</th>
+<th>2</th>
+<th>1</th>
+<th>2</th>
+<th></th>
+<th>2</th>
+<th>1</th>
+</tr>
+<tr class="odd">
+<th>435</th>
+<th>Ismail</th>
+<th>Bessarabia</th>
+<th>Romania</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Muddy</th>
+<th>80</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>436</th>
+<th>Tulcea</th>
+<th>North Romania</th>
+<th>Romania</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Muddy</th>
+<th>80</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>437</th>
+<th>Izmir</th>
+<th>Bosporus</th>
+<th>Anatolia</th>
+<th>Asia</th>
+<th>Hills</th>
+<th>Mediterranean</th>
+<th>60</th>
+<th>Yes</th>
+<th>1</th>
+<th>1</th>
+<th>4</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>438</th>
+<th>Antalya</th>
+<th>Anatolian South Coast</th>
+<th>Anatolia</th>
+<th>Asia</th>
+<th>Mountain</th>
+<th>Mediterranean</th>
+<th>60</th>
+<th>No</th>
+<th>1</th>
+<th>1</th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>439</th>
+<th>Izmit</th>
+<th>Bosporus</th>
+<th>Anatolia</th>
+<th>Asia</th>
+<th>Hills</th>
+<th>Mediterranean</th>
+<th>60</th>
+<th>Yes</th>
+<th></th>
+<th>1</th>
+<th>4</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>440</th>
+<th>Karabük</th>
+<th>Anatolian North Coast</th>
+<th>Anatolia</th>
+<th>Asia</th>
+<th>Hills</th>
+<th>Mediterranean</th>
+<th>60</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>441</th>
+<th>Afyonkarahisar</th>
+<th>Central Turkey</th>
+<th>Anatolia</th>
+<th>Asia</th>
+<th>Clear</th>
+<th>Temperate</th>
+<th>40</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>442</th>
+<th>Konya</th>
+<th>Central Turkey</th>
+<th>Anatolia</th>
+<th>Asia</th>
+<th>Clear</th>
+<th>Temperate</th>
+<th>40</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>443</th>
+<th>Mersin</th>
+<th>Anatolian South Coast</th>
+<th>Anatolia</th>
+<th>Asia</th>
+<th>Mountain</th>
+<th>Mediterranean</th>
+<th>60</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th>6</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>444</th>
+<th>Cyprus</th>
+<th>Anatolian South Coast</th>
+<th>Anatolia</th>
+<th>Europe</th>
+<th>Hills</th>
+<th>Mediterranean</th>
+<th>60</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th>2</th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>445</th>
+<th>Gaziantep</th>
+<th>Anatolian South Coast</th>
+<th>Anatolia</th>
+<th>Asia</th>
+<th>Mountain</th>
+<th>Mediterranean</th>
+<th>60</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th>5</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>446</th>
+<th>Kayseri</th>
+<th>Central Turkey</th>
+<th>Anatolia</th>
+<th>Asia</th>
+<th>Clear</th>
+<th>Temperate</th>
+<th>40</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>447</th>
+<th>Sivas</th>
+<th>Central Turkey</th>
+<th>Anatolia</th>
+<th>Asia</th>
+<th>Hills</th>
+<th>Mediterranean</th>
+<th>40</th>
+<th>No</th>
+<th>1</th>
+<th>1</th>
+<th>1</th>
+<th></th>
+<th></th>
+<th>3</th>
+</tr>
+<tr class="even">
+<th>448</th>
+<th>Ankara</th>
+<th>Central Turkey</th>
+<th>Anatolia</th>
+<th>Asia</th>
+<th>Clear</th>
+<th>Temperate</th>
+<th>60</th>
+<th>No</th>
+<th>6</th>
+<th>6</th>
+<th>11</th>
+<th></th>
+<th>3</th>
+<th>5</th>
+</tr>
+<tr class="odd">
+<th>449</th>
+<th>Samsun</th>
+<th>Anatolian North Coast</th>
+<th>Anatolia</th>
+<th>Asia</th>
+<th>Hills</th>
+<th>Mediterranean</th>
+<th>60</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>450</th>
+<th>Trebizond</th>
+<th>Anatolian North Coast</th>
+<th>Anatolia</th>
+<th>Asia</th>
+<th>Mountain</th>
+<th>Mediterranean</th>
+<th>60</th>
+<th>No</th>
+<th></th>
+<th>1</th>
+<th></th>
+<th></th>
+<th>2</th>
+<th></th>
+</tr>
+<tr class="odd" data-bgcolor="ffff66">
+<th>ID</th>
+<th>Province name</th>
+<th>Area</th>
+<th>Region</th>
+<th>Continent</th>
+<th>Terrain</th>
+<th>Climate</th>
+<th>Infra</th>
+<th>Beach?</th>
+<th>IC</th>
+<th>Manpower</th>
+<th>Energy</th>
+<th>Oil</th>
+<th>Metal</th>
+<th>Rare Materials</th>
+</tr>
+<tr class="even">
+<th><h2 id="section-9"><span id="451" class="mw-headline"> 451
+</span></h2></th>
+<th>Novi Pazar</th>
+<th>East Serbia</th>
+<th>Balkan</th>
+<th>Europe</th>
+<th>Hills</th>
+<th>Temperate</th>
+<th>70</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>452</th>
+<th>Uzice</th>
+<th>Central Serbia</th>
+<th>Balkan</th>
+<th>Europe</th>
+<th>Hills</th>
+<th>Temperate</th>
+<th>70</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>453</th>
+<th>Belgrade</th>
+<th>Central Serbia</th>
+<th>Balkan</th>
+<th>Europe</th>
+<th>Hills</th>
+<th>Temperate</th>
+<th>80</th>
+<th>No</th>
+<th>9</th>
+<th>8</th>
+<th>14</th>
+<th></th>
+<th>7</th>
+<th>4</th>
+</tr>
+<tr class="odd">
+<th>454</th>
+<th>Osijek</th>
+<th>Central Serbia</th>
+<th>Balkan</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Temperate</th>
+<th>80</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>455</th>
+<th>Bjelovar</th>
+<th>Croatia</th>
+<th>Balkan</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Temperate</th>
+<th>80</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>456</th>
+<th>Pecs</th>
+<th>Western Hungary</th>
+<th>Hungary</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Temperate</th>
+<th>80</th>
+<th>No</th>
+<th>1</th>
+<th>1</th>
+<th>15</th>
+<th></th>
+<th>1</th>
+<th></th>
+</tr>
+<tr class="even">
+<th>457</th>
+<th>Budapest</th>
+<th>Western Hungary</th>
+<th>Hungary</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Temperate</th>
+<th>80</th>
+<th>No</th>
+<th>9</th>
+<th>8</th>
+<th>14</th>
+<th></th>
+<th>7</th>
+<th>5</th>
+</tr>
+<tr class="odd">
+<th>458</th>
+<th>Györ</th>
+<th>Western Hungary</th>
+<th>Hungary</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Temperate</th>
+<th>80</th>
+<th>No</th>
+<th>2</th>
+<th>1</th>
+<th>2</th>
+<th>2</th>
+<th>27</th>
+<th>1</th>
+</tr>
+<tr class="even">
+<th>459</th>
+<th>Maribor</th>
+<th>Croatia</th>
+<th>Balkan</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Temperate</th>
+<th>80</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>460</th>
+<th>Graz</th>
+<th>Austria</th>
+<th>Austria</th>
+<th>Europe</th>
+<th>Hills</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th>3</th>
+<th>1</th>
+<th>7</th>
+<th></th>
+<th>9</th>
+<th>1</th>
+</tr>
+<tr class="even">
+<th>461</th>
+<th>Klagenfurt</th>
+<th>Austria</th>
+<th>Austria</th>
+<th>Europe</th>
+<th>Mountain</th>
+<th>Temperate</th>
+<th>80</th>
+<th>No</th>
+<th>1</th>
+<th></th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>462</th>
+<th>Salzburg</th>
+<th>Austria</th>
+<th>Austria</th>
+<th>Europe</th>
+<th>Hills</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th>1</th>
+<th></th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>463</th>
+<th>Vienna</th>
+<th>Austria</th>
+<th>Austria</th>
+<th>Europe</th>
+<th>Hills</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th>11</th>
+<th>8</th>
+<th>16</th>
+<th>2</th>
+<th>8</th>
+<th>6</th>
+</tr>
+<tr class="odd">
+<th>464</th>
+<th>Hollabrunn</th>
+<th>Austria</th>
+<th>Austria</th>
+<th>Europe</th>
+<th>Forest</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>465</th>
+<th>Linz</th>
+<th>Austria</th>
+<th>Austria</th>
+<th>Europe</th>
+<th>Forest</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th>2</th>
+<th>1</th>
+<th>2</th>
+<th></th>
+<th>1</th>
+<th>1</th>
+</tr>
+<tr class="odd">
+<th>466</th>
+<th>Strakonice</th>
+<th>Bohemia</th>
+<th>Czechoslovakia</th>
+<th>Europe</th>
+<th>Hills</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>467</th>
+<th>Tábor</th>
+<th>Bohemia</th>
+<th>Czechoslovakia</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th>1</th>
+<th>1</th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>468</th>
+<th>Kutna Hora</th>
+<th>Bohemia</th>
+<th>Czechoslovakia</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th>2</th>
+<th>1</th>
+<th>2</th>
+<th></th>
+<th>1</th>
+<th></th>
+</tr>
+<tr class="even">
+<th>469</th>
+<th>Prague</th>
+<th>Bohemia</th>
+<th>Czechoslovakia</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th>4</th>
+<th>2</th>
+<th>4</th>
+<th></th>
+<th>2</th>
+<th>2</th>
+</tr>
+<tr class="odd">
+<th>470</th>
+<th>Pilsen</th>
+<th>Bohemia</th>
+<th>Czechoslovakia</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th>2</th>
+<th>1</th>
+<th>38</th>
+<th></th>
+<th>1</th>
+<th></th>
+</tr>
+<tr class="even">
+<th>471</th>
+<th>Ústí</th>
+<th>Bohemia</th>
+<th>Czechoslovakia</th>
+<th>Europe</th>
+<th>Hills</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th>2</th>
+<th>1</th>
+<th>2</th>
+<th></th>
+<th>1</th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>472</th>
+<th>Liberec</th>
+<th>Bohemia</th>
+<th>Czechoslovakia</th>
+<th>Europe</th>
+<th>Hills</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>473</th>
+<th>Breslau</th>
+<th>Brandenburg</th>
+<th>Germany</th>
+<th>Europe</th>
+<th>Hills</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th>6</th>
+<th>2</th>
+<th>68</th>
+<th></th>
+<th>3</th>
+<th>2</th>
+</tr>
+<tr class="odd">
+<th>474</th>
+<th>Ostrava</th>
+<th>Slovakia</th>
+<th>Czechoslovakia</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th>3</th>
+<th>1</th>
+<th>39</th>
+<th></th>
+<th>2</th>
+<th>1</th>
+</tr>
+<tr class="even">
+<th>475</th>
+<th>Brno</th>
+<th>Slovakia</th>
+<th>Czechoslovakia</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th>4</th>
+<th>2</th>
+<th>4</th>
+<th></th>
+<th>2</th>
+<th>2</th>
+</tr>
+<tr class="odd">
+<th>476</th>
+<th>Bratislava</th>
+<th>Slovakia</th>
+<th>Czechoslovakia</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th>3</th>
+<th>1</th>
+<th>3</th>
+<th></th>
+<th>2</th>
+<th>2</th>
+</tr>
+<tr class="even">
+<th>477</th>
+<th>Banská Bystrica</th>
+<th>Slovakia</th>
+<th>Czechoslovakia</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th>2</th>
+<th>1</th>
+<th>2</th>
+<th></th>
+<th>1</th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>478</th>
+<th>Zilina</th>
+<th>Slovakia</th>
+<th>Czechoslovakia</th>
+<th>Europe</th>
+<th>Hills</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>479</th>
+<th>Cracow</th>
+<th>Krakow</th>
+<th>Poland</th>
+<th>Europe</th>
+<th>hills</th>
+<th>Temperate</th>
+<th>80</th>
+<th>No</th>
+<th>3</th>
+<th>2</th>
+<th>83</th>
+<th></th>
+<th>11</th>
+<th>1</th>
+</tr>
+<tr class="odd">
+<th>480</th>
+<th>Kielce</th>
+<th>Krakow</th>
+<th>Poland</th>
+<th>Europe</th>
+<th>forest</th>
+<th>Temperate</th>
+<th>80</th>
+<th>No</th>
+<th>4</th>
+<th>2</th>
+<th>4</th>
+<th></th>
+<th>5</th>
+<th>1</th>
+</tr>
+<tr class="even">
+<th>481</th>
+<th>Czestochowa</th>
+<th>Poznan</th>
+<th>Poland</th>
+<th>Europe</th>
+<th>clear</th>
+<th>Temperate</th>
+<th>80</th>
+<th>No</th>
+<th>1</th>
+<th>1</th>
+<th>1</th>
+<th></th>
+<th>1</th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>482</th>
+<th>Oppeln</th>
+<th>Poznan</th>
+<th>Poland</th>
+<th>Europe</th>
+<th>clear</th>
+<th>Temperate</th>
+<th>80</th>
+<th>No</th>
+<th>8</th>
+<th>3</th>
+<th>27</th>
+<th></th>
+<th>20</th>
+<th>2</th>
+</tr>
+<tr class="even">
+<th>483</th>
+<th>Lodz</th>
+<th>Poznan</th>
+<th>Poland</th>
+<th>Europe</th>
+<th>clear</th>
+<th>Temperate</th>
+<th>80</th>
+<th>No</th>
+<th>3</th>
+<th>2</th>
+<th>3</th>
+<th></th>
+<th>1</th>
+<th>1</th>
+</tr>
+<tr class="odd">
+<th>484</th>
+<th>Radom</th>
+<th>Warsaw</th>
+<th>Poland</th>
+<th>Europe</th>
+<th>clear</th>
+<th>Temperate</th>
+<th>80</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>485</th>
+<th>Warsaw</th>
+<th>Warsaw</th>
+<th>Poland</th>
+<th>Europe</th>
+<th>urban</th>
+<th>Temperate</th>
+<th>80</th>
+<th>No</th>
+<th>8</th>
+<th>8</th>
+<th>15</th>
+<th></th>
+<th>9</th>
+<th>5</th>
+</tr>
+<tr class="odd">
+<th>486</th>
+<th>Lomza</th>
+<th>Warsaw</th>
+<th>Poland</th>
+<th>Europe</th>
+<th>clear</th>
+<th>Temperate</th>
+<th>80</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>487</th>
+<th>Lublin</th>
+<th>Warsaw</th>
+<th>Poland</th>
+<th>Europe</th>
+<th>clear</th>
+<th>Temperate</th>
+<th>80</th>
+<th>No</th>
+<th>2</th>
+<th>2</th>
+<th>39</th>
+<th></th>
+<th>1</th>
+<th>1</th>
+</tr>
+<tr class="odd">
+<th>488</th>
+<th>Zamosc</th>
+<th>Lvov</th>
+<th>Poland</th>
+<th>Europe</th>
+<th>clear</th>
+<th>Temperate</th>
+<th>80</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>489</th>
+<th>Przemysl</th>
+<th>Krakow</th>
+<th>Poland</th>
+<th>Europe</th>
+<th>hills</th>
+<th>Temperate</th>
+<th>80</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>490</th>
+<th>Kosice</th>
+<th>Slovakia</th>
+<th>Czechoslovakia</th>
+<th>Europe</th>
+<th>Forest</th>
+<th>Temperate</th>
+<th>80</th>
+<th>No</th>
+<th>2</th>
+<th>1</th>
+<th>2</th>
+<th></th>
+<th>1</th>
+<th></th>
+</tr>
+<tr class="even">
+<th>491</th>
+<th>Miskolc</th>
+<th>Eastern Hungary</th>
+<th>Hungary</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Temperate</th>
+<th>80</th>
+<th>No</th>
+<th>2</th>
+<th>1</th>
+<th>2</th>
+<th></th>
+<th>1</th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>492</th>
+<th>Szeged</th>
+<th>Eastern Hungary</th>
+<th>Hungary</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Temperate</th>
+<th>80</th>
+<th>No</th>
+<th>1</th>
+<th>1</th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>493</th>
+<th>Novi Sad</th>
+<th>Central Serbia</th>
+<th>Balkan</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Temperate</th>
+<th>80</th>
+<th>No</th>
+<th>2</th>
+<th>1</th>
+<th>2</th>
+<th></th>
+<th>1</th>
+<th>1</th>
+</tr>
+<tr class="odd">
+<th>494</th>
+<th>Zrenjanin</th>
+<th>Central Serbia</th>
+<th>Balkan</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Temperate</th>
+<th>80</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>495</th>
+<th>Timisoara</th>
+<th>South Romania</th>
+<th>Romania</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Temperate</th>
+<th>80</th>
+<th>No</th>
+<th>1</th>
+<th>1</th>
+<th>1</th>
+<th></th>
+<th>1</th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>496</th>
+<th>Arad</th>
+<th>Transylvania</th>
+<th>Romania</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Temperate</th>
+<th>80</th>
+<th>No</th>
+<th>1</th>
+<th>1</th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>497</th>
+<th>Debrecen</th>
+<th>Eastern Hungary</th>
+<th>Hungary</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Temperate</th>
+<th>80</th>
+<th>No</th>
+<th>2</th>
+<th>1</th>
+<th>2</th>
+<th></th>
+<th>1</th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>498</th>
+<th>Satu Mare</th>
+<th>Transylvania</th>
+<th>Romania</th>
+<th>Europe</th>
+<th>Hills</th>
+<th>Temperate</th>
+<th>80</th>
+<th>No</th>
+<th>1</th>
+<th>1</th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>499</th>
+<th>Presov</th>
+<th>Slovakia</th>
+<th>Czechoslovakia</th>
+<th>Europe</th>
+<th>Hills</th>
+<th>Temperate</th>
+<th>80</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>500</th>
+<th>Stryj</th>
+<th>Lvov</th>
+<th>Poland</th>
+<th>Europe</th>
+<th>clear</th>
+<th>Muddy</th>
+<th>80</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even" data-bgcolor="ffff66">
+<th>ID</th>
+<th>Province name</th>
+<th>Area</th>
+<th>Region</th>
+<th>Continent</th>
+<th>Terrain</th>
+<th>Climate</th>
+<th>Infra</th>
+<th>Beach?</th>
+<th>IC</th>
+<th>Manpower</th>
+<th>Energy</th>
+<th>Oil</th>
+<th>Metal</th>
+<th>Rare Materials</th>
+</tr>
+<tr class="odd">
+<th><h2 id="section-10"><span id="501" class="mw-headline"> 501
+</span></h2></th>
+<th>Lvov</th>
+<th>Lvov</th>
+<th>Poland</th>
+<th>Europe</th>
+<th>clear</th>
+<th>Muddy</th>
+<th>80</th>
+<th>No</th>
+<th>2</th>
+<th>2</th>
+<th>4</th>
+<th>2</th>
+<th>2</th>
+<th>1</th>
+</tr>
+<tr class="even">
+<th>502</th>
+<th>Tarnopol</th>
+<th>Lvov</th>
+<th>Poland</th>
+<th>Europe</th>
+<th>clear</th>
+<th>Muddy</th>
+<th>60</th>
+<th>No</th>
+<th>2</th>
+<th>1</th>
+<th>2</th>
+<th></th>
+<th>1</th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>503</th>
+<th>Pinsk</th>
+<th>Brest Litovsk</th>
+<th>Poland</th>
+<th>Europe</th>
+<th>marsh</th>
+<th>Muddy</th>
+<th>60</th>
+<th>No</th>
+<th>1</th>
+<th>1</th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>504</th>
+<th>Brest Litovsk</th>
+<th>Brest Litovsk</th>
+<th>Poland</th>
+<th>Europe</th>
+<th>clear</th>
+<th>Muddy</th>
+<th>60</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>505</th>
+<th>Bielsk</th>
+<th>Brest Litovsk</th>
+<th>Poland</th>
+<th>Europe</th>
+<th>marsh</th>
+<th>Muddy</th>
+<th>60</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>506</th>
+<th>Kowel</th>
+<th>Lvov</th>
+<th>Poland</th>
+<th>Europe</th>
+<th>clear</th>
+<th>Muddy</th>
+<th>60</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>507</th>
+<th>Slonim</th>
+<th>Brest Litovsk</th>
+<th>Poland</th>
+<th>Europe</th>
+<th>forest</th>
+<th>Muddy</th>
+<th>60</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>508</th>
+<th>Bialystok</th>
+<th>Brest Litovsk</th>
+<th>Poland</th>
+<th>Europe</th>
+<th>clear</th>
+<th>Muddy</th>
+<th>80</th>
+<th>No</th>
+<th>2</th>
+<th>1</th>
+<th>2</th>
+<th></th>
+<th>1</th>
+<th>1</th>
+</tr>
+<tr class="odd">
+<th>509</th>
+<th>Suwalki</th>
+<th>East Prussia</th>
+<th>Poland</th>
+<th>Europe</th>
+<th>forest</th>
+<th>Muddy</th>
+<th>80</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>510</th>
+<th>Königsberg</th>
+<th>East Prussia</th>
+<th>Baltic States</th>
+<th>Europe</th>
+<th>forest</th>
+<th>Muddy</th>
+<th>100</th>
+<th>Yes</th>
+<th>6</th>
+<th>3</th>
+<th>6</th>
+<th></th>
+<th>3</th>
+<th>2</th>
+</tr>
+<tr class="odd">
+<th>511</th>
+<th>Alytus</th>
+<th>Lithuania</th>
+<th>Poland</th>
+<th>Europe</th>
+<th>Forest</th>
+<th>Muddy</th>
+<th>80</th>
+<th>No</th>
+<th>1</th>
+<th>1</th>
+<th>1</th>
+<th></th>
+<th>1</th>
+<th>1</th>
+</tr>
+<tr class="even">
+<th>512</th>
+<th>Bologna</th>
+<th>Appennine Ridge</th>
+<th>Italy</th>
+<th>Europe</th>
+<th>Hills</th>
+<th>Mediterranean</th>
+<th>80</th>
+<th>No</th>
+<th>7</th>
+<th>3</th>
+<th>7</th>
+<th></th>
+<th>4</th>
+<th>2</th>
+</tr>
+<tr class="odd">
+<th>513</th>
+<th>Florence</th>
+<th>Appennine Ridge</th>
+<th>Italy</th>
+<th>Europe</th>
+<th>Hills</th>
+<th>Mediterranean</th>
+<th>80</th>
+<th>Yes</th>
+<th>3</th>
+<th>3</th>
+<th>3</th>
+<th></th>
+<th>3</th>
+<th>1</th>
+</tr>
+<tr class="even">
+<th>514</th>
+<th>Rimini</th>
+<th>Appennine Ridge</th>
+<th>Italy</th>
+<th>Europe</th>
+<th>Hills</th>
+<th>Mediterranean</th>
+<th>80</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>515</th>
+<th>Rome</th>
+<th>Central Italy</th>
+<th>Italy</th>
+<th>Europe</th>
+<th>Hills</th>
+<th>Mediterranean</th>
+<th>80</th>
+<th>No</th>
+<th>8</th>
+<th>8</th>
+<th>15</th>
+<th></th>
+<th>7</th>
+<th>4</th>
+</tr>
+<tr class="even">
+<th>516</th>
+<th>Perugia</th>
+<th>Central Italy</th>
+<th>Italy</th>
+<th>Europe</th>
+<th>Hills</th>
+<th>Mediterranean</th>
+<th>80</th>
+<th>No</th>
+<th>1</th>
+<th>1</th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>517</th>
+<th>Pescara</th>
+<th>Central Italy</th>
+<th>Italy</th>
+<th>Europe</th>
+<th>Hills</th>
+<th>Mediterranean</th>
+<th>80</th>
+<th>No</th>
+<th>3</th>
+<th>3</th>
+<th>3</th>
+<th></th>
+<th>2</th>
+<th>1</th>
+</tr>
+<tr class="even">
+<th>518</th>
+<th>Cassino</th>
+<th>Central Italy</th>
+<th>Italy</th>
+<th>Europe</th>
+<th>Mountain</th>
+<th>Mediterranean</th>
+<th>60</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>519</th>
+<th>Anzio</th>
+<th>Central Italy</th>
+<th>Italy</th>
+<th>Europe</th>
+<th>Hills</th>
+<th>Mediterranean</th>
+<th>80</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>520</th>
+<th>Foggia</th>
+<th>South Italy</th>
+<th>Italy</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Mediterranean</th>
+<th>80</th>
+<th>Yes</th>
+<th>1</th>
+<th>2</th>
+<th>5</th>
+<th></th>
+<th>1</th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>521</th>
+<th>Naples</th>
+<th>South Italy</th>
+<th>Italy</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Mediterranean</th>
+<th>80</th>
+<th>Yes</th>
+<th>4</th>
+<th>3</th>
+<th>4</th>
+<th></th>
+<th>4</th>
+<th>1</th>
+</tr>
+<tr class="even">
+<th>522</th>
+<th>Potenza</th>
+<th>South Italy</th>
+<th>Italy</th>
+<th>Europe</th>
+<th>Hills</th>
+<th>Mediterranean</th>
+<th>80</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>523</th>
+<th>Taranto</th>
+<th>South Italy</th>
+<th>Italy</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Mediterranean</th>
+<th>60</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>524</th>
+<th>Reggio di Calabria</th>
+<th>South Italy</th>
+<th>Italy</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Mediterranean</th>
+<th>60</th>
+<th>No</th>
+<th>1</th>
+<th>2</th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>525</th>
+<th>Palermo</th>
+<th>Sicilian Gap</th>
+<th>Italy</th>
+<th>Europe</th>
+<th>Hills</th>
+<th>Mediterranean</th>
+<th>60</th>
+<th>Yes</th>
+<th>2</th>
+<th>4</th>
+<th>2</th>
+<th></th>
+<th>1</th>
+<th>4</th>
+</tr>
+<tr class="even">
+<th>526</th>
+<th>Catania</th>
+<th>Sicilian Gap</th>
+<th>Italy</th>
+<th>Europe</th>
+<th>Hills</th>
+<th>Mediterranean</th>
+<th>60</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>527</th>
+<th>Grenoble</th>
+<th>Alpes_Provence</th>
+<th>France</th>
+<th>Europe</th>
+<th>Mountain</th>
+<th>Temperate</th>
+<th>80</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>528</th>
+<th>Lyon</th>
+<th>Alpes_Provence</th>
+<th>France</th>
+<th>Europe</th>
+<th>Hills</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th>6</th>
+<th>3</th>
+<th>6</th>
+<th></th>
+<th>3</th>
+<th>2</th>
+</tr>
+<tr class="odd">
+<th>529</th>
+<th>Besançon</th>
+<th>Bourgogne_Champagne</th>
+<th>France</th>
+<th>Europe</th>
+<th>Hills</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th>1</th>
+<th>1</th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>530</th>
+<th>Geneva</th>
+<th>Switzerland</th>
+<th>Switzerland</th>
+<th>Europe</th>
+<th>Hills</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th>3</th>
+<th>2</th>
+<th>3</th>
+<th></th>
+<th>2</th>
+<th>1</th>
+</tr>
+<tr class="odd">
+<th>531</th>
+<th>Turin</th>
+<th>North Italy</th>
+<th>Italy</th>
+<th>Europe</th>
+<th>Hills</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th>7</th>
+<th>3</th>
+<th>7</th>
+<th></th>
+<th>3</th>
+<th>2</th>
+</tr>
+<tr class="even">
+<th>532</th>
+<th>Bern</th>
+<th>Switzerland</th>
+<th>Switzerland</th>
+<th>Europe</th>
+<th>Mountain</th>
+<th>Temperate</th>
+<th>80</th>
+<th>No</th>
+<th>7</th>
+<th>5</th>
+<th>12</th>
+<th></th>
+<th>6</th>
+<th>3</th>
+</tr>
+<tr class="odd">
+<th>533</th>
+<th>Zürich</th>
+<th>Switzerland</th>
+<th>Switzerland</th>
+<th>Europe</th>
+<th>Hills</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th>4</th>
+<th>2</th>
+<th>4</th>
+<th></th>
+<th>2</th>
+<th>1</th>
+</tr>
+<tr class="even">
+<th>534</th>
+<th>Sardinia</th>
+<th>Ligurian Islands</th>
+<th>Italy</th>
+<th>Europe</th>
+<th>Hills</th>
+<th>Mediterranean</th>
+<th>60</th>
+<th>Yes</th>
+<th>1</th>
+<th>1</th>
+<th>1</th>
+<th></th>
+<th>14</th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>535</th>
+<th>Mallorca</th>
+<th>Baleares</th>
+<th>Spain</th>
+<th>Europe</th>
+<th>Hills</th>
+<th>Mediterranean</th>
+<th>60</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>536</th>
+<th>Menorca</th>
+<th>Baleares</th>
+<th>Spain</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Mediterranean</th>
+<th>60</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>537</th>
+<th>Ibiza</th>
+<th>Baleares</th>
+<th>Spain</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Mediterranean</th>
+<th>50</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>538</th>
+<th>Bermuda</th>
+<th>Bermuda</th>
+<th>Caribbean</th>
+<th>North America</th>
+<th>Clear</th>
+<th>Mediterranean</th>
+<th>60</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>539</th>
+<th>Managua</th>
+<th>Nicaragua</th>
+<th>Central America</th>
+<th>North America</th>
+<th>Hills</th>
+<th>Tropical</th>
+<th>60</th>
+<th>Yes</th>
+<th>6</th>
+<th>6</th>
+<th>11</th>
+<th></th>
+<th>6</th>
+<th>3</th>
+</tr>
+<tr class="even">
+<th>540</th>
+<th>San José</th>
+<th>Panaman Ridge</th>
+<th>Central America</th>
+<th>North America</th>
+<th>Mountain</th>
+<th>Tropical</th>
+<th>60</th>
+<th>Yes</th>
+<th>5</th>
+<th>5</th>
+<th>10</th>
+<th></th>
+<th>5</th>
+<th>3</th>
+</tr>
+<tr class="odd">
+<th>541</th>
+<th>Vancouver</th>
+<th>British Columbia</th>
+<th>Western Canada</th>
+<th>North America</th>
+<th>forest</th>
+<th>Temperate</th>
+<th>80</th>
+<th>Yes</th>
+<th>1</th>
+<th></th>
+<th>1</th>
+<th></th>
+<th>3</th>
+<th></th>
+</tr>
+<tr class="even">
+<th>542</th>
+<th>Kiska Island</th>
+<th>West Aleutians</th>
+<th>Alaska</th>
+<th>North America</th>
+<th>Clear</th>
+<th>Subarctic</th>
+<th>40</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>543</th>
+<th>Amchitka Island</th>
+<th>West Aleutians</th>
+<th>Alaska</th>
+<th>North America</th>
+<th>Hills</th>
+<th>Subarctic</th>
+<th>40</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>544</th>
+<th>Andreanof Islands</th>
+<th>West Aleutians</th>
+<th>Alaska</th>
+<th>North America</th>
+<th>Hills</th>
+<th>Subarctic</th>
+<th>40</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>545</th>
+<th>Yunaska Island</th>
+<th>Alaskan Archipelago</th>
+<th>Alaska</th>
+<th>North America</th>
+<th>Hills</th>
+<th>Subarctic</th>
+<th>40</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>546</th>
+<th>Umnak Island</th>
+<th>Alaskan Archipelago</th>
+<th>Alaska</th>
+<th>North America</th>
+<th>Hills</th>
+<th>Subarctic</th>
+<th>40</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>547</th>
+<th>Unalaska Island</th>
+<th>Alaskan Archipelago</th>
+<th>Alaska</th>
+<th>North America</th>
+<th>Hills</th>
+<th>Subarctic</th>
+<th>40</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>548</th>
+<th>Unimak Island</th>
+<th>Alaskan Archipelago</th>
+<th>Alaska</th>
+<th>North America</th>
+<th>Hills</th>
+<th>Subarctic</th>
+<th>40</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>549</th>
+<th>Anchorage</th>
+<th>Alaska</th>
+<th>Alaska</th>
+<th>North America</th>
+<th>Hills</th>
+<th>Subarctic</th>
+<th>40</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>550</th>
+<th>Seward Peninsula</th>
+<th>Alaska</th>
+<th>Alaska</th>
+<th>North America</th>
+<th>forest</th>
+<th>Arctic</th>
+<th>40</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd" data-bgcolor="ffff66">
+<th>ID</th>
+<th>Province name</th>
+<th>Area</th>
+<th>Region</th>
+<th>Continent</th>
+<th>Terrain</th>
+<th>Climate</th>
+<th>Infra</th>
+<th>Beach?</th>
+<th>IC</th>
+<th>Manpower</th>
+<th>Energy</th>
+<th>Oil</th>
+<th>Metal</th>
+<th>Rare Materials</th>
+</tr>
+<tr class="even">
+<th><h2 id="section-11"><span id="551" class="mw-headline"> 551
+</span></h2></th>
+<th>Fairbanks</th>
+<th>Alaska</th>
+<th>Alaska</th>
+<th>North America</th>
+<th>forest</th>
+<th>Arctic</th>
+<th>20</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>552</th>
+<th>Whitehorse</th>
+<th>Yukon</th>
+<th>Northern Canada</th>
+<th>North America</th>
+<th>Mountain</th>
+<th>Arctic</th>
+<th>20</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>553</th>
+<th>Juneau</th>
+<th>Alaska</th>
+<th>Alaska</th>
+<th>North America</th>
+<th>Forest</th>
+<th>Subarctic</th>
+<th>40</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>554</th>
+<th>Prince George</th>
+<th>British Columbia</th>
+<th>Western Canada</th>
+<th>North America</th>
+<th>Mountain</th>
+<th>Subarctic</th>
+<th>40</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th>4</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>555</th>
+<th>Kamloops</th>
+<th>British Columbia</th>
+<th>Western Canada</th>
+<th>North America</th>
+<th>Mountain</th>
+<th>Subarctic</th>
+<th>80</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>556</th>
+<th>Vancouver Island</th>
+<th>British Columbia</th>
+<th>Western Canada</th>
+<th>North America</th>
+<th>forest</th>
+<th>Temperate</th>
+<th>80</th>
+<th>Yes</th>
+<th>1</th>
+<th></th>
+<th>1</th>
+<th></th>
+<th>27</th>
+<th></th>
+</tr>
+<tr class="even">
+<th>557</th>
+<th>Fort McMurray</th>
+<th>Alberta</th>
+<th>Western Canada</th>
+<th>North America</th>
+<th>Clear</th>
+<th>Subarctic</th>
+<th>40</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>558</th>
+<th>Yellowknife</th>
+<th>Yukon</th>
+<th>Northern Canada</th>
+<th>North America</th>
+<th>Hills</th>
+<th>Arctic</th>
+<th>20</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>559</th>
+<th>Kugluktuk</th>
+<th>Northwest Territories</th>
+<th>Northern Canada</th>
+<th>North America</th>
+<th>Hills</th>
+<th>Arctic</th>
+<th>20</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>560</th>
+<th>Repulse Bay</th>
+<th>Northwest Territories</th>
+<th>Northern Canada</th>
+<th>North America</th>
+<th>Hills</th>
+<th>Arctic</th>
+<th>20</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>561</th>
+<th>Rankin Inlet</th>
+<th>Northwest Territories</th>
+<th>Northern Canada</th>
+<th>North America</th>
+<th>Hills</th>
+<th>Arctic</th>
+<th>20</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>562</th>
+<th>Rowne</th>
+<th>Brest Litovsk</th>
+<th>Poland</th>
+<th>Europe</th>
+<th>clear</th>
+<th>Muddy</th>
+<th>60</th>
+<th>No</th>
+<th>3</th>
+<th>2</th>
+<th></th>
+<th></th>
+<th>1</th>
+<th>1</th>
+</tr>
+<tr class="even">
+<th>563</th>
+<th>Baffin Island</th>
+<th>Northwest Territories</th>
+<th>Northern Canada</th>
+<th>North America</th>
+<th>Hills</th>
+<th>Arctic</th>
+<th>20</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>564</th>
+<th>Radisson</th>
+<th>Quebec</th>
+<th>Eastern Canada</th>
+<th>North America</th>
+<th>Hills</th>
+<th>Subarctic</th>
+<th>40</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>565</th>
+<th>Fort Severn</th>
+<th>Ontario</th>
+<th>Canada</th>
+<th>North America</th>
+<th>Hills</th>
+<th>Subarctic</th>
+<th>60</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th>6</th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>566</th>
+<th>Churchill</th>
+<th>Manitoba</th>
+<th>Canada</th>
+<th>North America</th>
+<th>Hills</th>
+<th>Subarctic</th>
+<th>40</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th>5</th>
+<th></th>
+</tr>
+<tr class="even">
+<th>567</th>
+<th>Dauphin</th>
+<th>Manitoba</th>
+<th>Canada</th>
+<th>North America</th>
+<th>Clear</th>
+<th>Subarctic</th>
+<th>60</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th>3</th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>568</th>
+<th>Brandon</th>
+<th>Manitoba</th>
+<th>Canada</th>
+<th>North America</th>
+<th>Clear</th>
+<th>Subarctic</th>
+<th>80</th>
+<th>No</th>
+<th>1</th>
+<th></th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>569</th>
+<th>Winnipeg</th>
+<th>Manitoba</th>
+<th>Canada</th>
+<th>North America</th>
+<th>Clear</th>
+<th>Subarctic</th>
+<th>80</th>
+<th>No</th>
+<th>1</th>
+<th></th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>570</th>
+<th>Norway House</th>
+<th>Manitoba</th>
+<th>Canada</th>
+<th>North America</th>
+<th>Clear</th>
+<th>Subarctic</th>
+<th>60</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>571</th>
+<th>Thunder Bay</th>
+<th>Ontario</th>
+<th>Canada</th>
+<th>North America</th>
+<th>Forest</th>
+<th>Subarctic</th>
+<th>80</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th>6</th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>572</th>
+<th>Sault Ste Marie</th>
+<th>Ontario</th>
+<th>Canada</th>
+<th>North America</th>
+<th>Forest</th>
+<th>Subarctic</th>
+<th>80</th>
+<th>No</th>
+<th>1</th>
+<th>1</th>
+<th>1</th>
+<th></th>
+<th>6</th>
+<th></th>
+</tr>
+<tr class="even">
+<th>573</th>
+<th>Val d'Or</th>
+<th>Quebec</th>
+<th>Eastern Canada</th>
+<th>North America</th>
+<th>Forest</th>
+<th>Subarctic</th>
+<th>60</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th>7</th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>574</th>
+<th>Sept-Îles</th>
+<th>Quebec</th>
+<th>Eastern Canada</th>
+<th>North America</th>
+<th>Hills</th>
+<th>Subarctic</th>
+<th>60</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th>2</th>
+<th></th>
+</tr>
+<tr class="even">
+<th>575</th>
+<th>Labrador</th>
+<th>New Foundland</th>
+<th>Eastern Canada</th>
+<th>North America</th>
+<th>Hills</th>
+<th>Subarctic</th>
+<th>60</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>576</th>
+<th>Newfoundland</th>
+<th>New Foundland</th>
+<th>Eastern Canada</th>
+<th>North America</th>
+<th>Hills</th>
+<th>Temperate</th>
+<th>60</th>
+<th>Yes</th>
+<th>1</th>
+<th></th>
+<th>1</th>
+<th></th>
+<th>14</th>
+<th></th>
+</tr>
+<tr class="even">
+<th>577</th>
+<th>Siauliau</th>
+<th>Memel</th>
+<th>Baltic States</th>
+<th>Europe</th>
+<th>Hills</th>
+<th>Muddy</th>
+<th>80</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>578</th>
+<th>Cape Breton</th>
+<th>Nova Scotia</th>
+<th>Eastern Canada</th>
+<th>North America</th>
+<th>Hills</th>
+<th>Temperate</th>
+<th>60</th>
+<th>Yes</th>
+<th>1</th>
+<th></th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>579</th>
+<th>Halifax</th>
+<th>Nova Scotia</th>
+<th>Eastern Canada</th>
+<th>North America</th>
+<th>Clear</th>
+<th>Temperate</th>
+<th>60</th>
+<th>Yes</th>
+<th>1</th>
+<th></th>
+<th>19</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>580</th>
+<th>Moncton</th>
+<th>New Brunswick</th>
+<th>Eastern Canada</th>
+<th>North America</th>
+<th>Clear</th>
+<th>Temperate</th>
+<th>60</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>581</th>
+<th>Saint John</th>
+<th>New Brunswick</th>
+<th>Eastern Canada</th>
+<th>North America</th>
+<th>Clear</th>
+<th>Temperate</th>
+<th>60</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>582</th>
+<th>Greenville</th>
+<th>Maine</th>
+<th>Northeast US</th>
+<th>North America</th>
+<th>Clear</th>
+<th>Temperate</th>
+<th>80</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>583</th>
+<th>Portland</th>
+<th>Maine</th>
+<th>Northeast US</th>
+<th>North America</th>
+<th>Clear</th>
+<th>Temperate</th>
+<th>80</th>
+<th>Yes</th>
+<th>2</th>
+<th>1</th>
+<th>2</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>584</th>
+<th>Sherbrooke</th>
+<th>Quebec</th>
+<th>Eastern Canada</th>
+<th>North America</th>
+<th>Clear</th>
+<th>Temperate</th>
+<th>60</th>
+<th>No</th>
+<th>3</th>
+<th>2</th>
+<th>3</th>
+<th></th>
+<th>2</th>
+<th>2</th>
+</tr>
+<tr class="even">
+<th>585</th>
+<th>Montréal</th>
+<th>Quebec</th>
+<th>Eastern Canada</th>
+<th>North America</th>
+<th>Clear</th>
+<th>Temperate</th>
+<th>80</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>586</th>
+<th>Québec City</th>
+<th>Quebec</th>
+<th>Eastern Canada</th>
+<th>North America</th>
+<th>Clear</th>
+<th>Subarctic</th>
+<th>80</th>
+<th>Yes</th>
+<th>3</th>
+<th>2</th>
+<th>3</th>
+<th></th>
+<th>3</th>
+<th>2</th>
+</tr>
+<tr class="even">
+<th>587</th>
+<th>Gatineau</th>
+<th>Quebec</th>
+<th>Eastern Canada</th>
+<th>North America</th>
+<th>Clear</th>
+<th>Temperate</th>
+<th>60</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>588</th>
+<th>Ottawa</th>
+<th>Ontario</th>
+<th>Canada</th>
+<th>North America</th>
+<th>Clear</th>
+<th>Temperate</th>
+<th>80</th>
+<th>No</th>
+<th>5</th>
+<th>5</th>
+<th>10</th>
+<th></th>
+<th>5</th>
+<th>3</th>
+</tr>
+<tr class="even">
+<th>589</th>
+<th>Toronto</th>
+<th>Ontario</th>
+<th>Canada</th>
+<th>North America</th>
+<th>Clear</th>
+<th>Temperate</th>
+<th>80</th>
+<th>No</th>
+<th>2</th>
+<th>1</th>
+<th>2</th>
+<th></th>
+<th>2</th>
+<th>1</th>
+</tr>
+<tr class="odd">
+<th>590</th>
+<th>Windsor</th>
+<th>Ontario</th>
+<th>Canada</th>
+<th>North America</th>
+<th>Clear</th>
+<th>Temperate</th>
+<th>80</th>
+<th>No</th>
+<th>2</th>
+<th>1</th>
+<th>2</th>
+<th></th>
+<th>2</th>
+<th></th>
+</tr>
+<tr class="even">
+<th>591</th>
+<th>Kingston</th>
+<th>Ontario</th>
+<th>Canada</th>
+<th>North America</th>
+<th>Clear</th>
+<th>Temperate</th>
+<th>80</th>
+<th>No</th>
+<th>2</th>
+<th>1</th>
+<th>2</th>
+<th></th>
+<th>2</th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>592</th>
+<th>Plattsburgh</th>
+<th>New York</th>
+<th>Northeast US</th>
+<th>North America</th>
+<th>Hills</th>
+<th>Temperate</th>
+<th>80</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>593</th>
+<th>Watertown</th>
+<th>New York</th>
+<th>Northeast US</th>
+<th>North America</th>
+<th>Hills</th>
+<th>Temperate</th>
+<th>80</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>594</th>
+<th>Montpelier</th>
+<th>Vermont</th>
+<th>Northeast US</th>
+<th>North America</th>
+<th>Hills</th>
+<th>Temperate</th>
+<th>80</th>
+<th>No</th>
+<th>1</th>
+<th></th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>595</th>
+<th>Concord</th>
+<th>New Hampshire</th>
+<th>Northeast US</th>
+<th>North America</th>
+<th>Mountain</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>596</th>
+<th>Manchester</th>
+<th>New Hampshire</th>
+<th>Northeast US</th>
+<th>North America</th>
+<th>Clear</th>
+<th>Temperate</th>
+<th>100</th>
+<th>Yes</th>
+<th>1</th>
+<th></th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>597</th>
+<th>Bennington</th>
+<th>Vermont</th>
+<th>Northeast US</th>
+<th>North America</th>
+<th>Hills</th>
+<th>Temperate</th>
+<th>80</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>598</th>
+<th>Albany</th>
+<th>New York</th>
+<th>Northeast US</th>
+<th>North America</th>
+<th>Hills</th>
+<th>Temperate</th>
+<th>80</th>
+<th>No</th>
+<th>3</th>
+<th>1</th>
+<th>3</th>
+<th></th>
+<th>2</th>
+<th>1</th>
+</tr>
+<tr class="even">
+<th>599</th>
+<th>Worcester</th>
+<th>Massachussets</th>
+<th>Northeast US</th>
+<th>North America</th>
+<th>Forest</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th>3</th>
+<th>1</th>
+<th>3</th>
+<th></th>
+<th>2</th>
+<th>1</th>
+</tr>
+<tr class="odd">
+<th>600</th>
+<th>Boston</th>
+<th>Massachussets</th>
+<th>Northeast US</th>
+<th>North America</th>
+<th>Urban</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th>6</th>
+<th>3</th>
+<th>6</th>
+<th></th>
+<th>3</th>
+<th>2</th>
+</tr>
+<tr class="even" data-bgcolor="ffff66">
+<th>ID</th>
+<th>Province name</th>
+<th>Area</th>
+<th>Region</th>
+<th>Continent</th>
+<th>Terrain</th>
+<th>Climate</th>
+<th>Infra</th>
+<th>Beach?</th>
+<th>IC</th>
+<th>Manpower</th>
+<th>Energy</th>
+<th>Oil</th>
+<th>Metal</th>
+<th>Rare Materials</th>
+</tr>
+<tr class="odd">
+<th><h2 id="section-12"><span id="601" class="mw-headline"> 601
+</span></h2></th>
+<th>Hartford</th>
+<th>Connecticut_Rhode Island</th>
+<th>Northeast US</th>
+<th>North America</th>
+<th>Clear</th>
+<th>Temperate</th>
+<th>80</th>
+<th>Yes</th>
+<th>5</th>
+<th>2</th>
+<th>5</th>
+<th></th>
+<th>3</th>
+<th>1</th>
+</tr>
+<tr class="even">
+<th>602</th>
+<th>New York</th>
+<th>New York</th>
+<th>Northeast US</th>
+<th>North America</th>
+<th>Urban</th>
+<th>Temperate</th>
+<th>100</th>
+<th>Yes</th>
+<th>14</th>
+<th>11</th>
+<th>6</th>
+<th></th>
+<th>3</th>
+<th>2</th>
+</tr>
+<tr class="odd">
+<th>603</th>
+<th>Newark</th>
+<th>New Jersey</th>
+<th>Northeast US</th>
+<th>North America</th>
+<th>Urban</th>
+<th>Temperate</th>
+<th>100</th>
+<th>Yes</th>
+<th>13</th>
+<th>5</th>
+<th>18</th>
+<th></th>
+<th>9</th>
+<th>5</th>
+</tr>
+<tr class="even">
+<th>604</th>
+<th>Atlantic City</th>
+<th>New Jersey</th>
+<th>Northeast US</th>
+<th>North America</th>
+<th>Clear</th>
+<th>Temperate</th>
+<th>100</th>
+<th>Yes</th>
+<th>9</th>
+<th>4</th>
+<th>9</th>
+<th></th>
+<th>9</th>
+<th>2</th>
+</tr>
+<tr class="odd">
+<th>605</th>
+<th>Dover</th>
+<th>Maryland_Delaware</th>
+<th>Northeast US</th>
+<th>North America</th>
+<th>Clear</th>
+<th>Temperate</th>
+<th>100</th>
+<th>Yes</th>
+<th>1</th>
+<th></th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>606</th>
+<th>Washington D.C.</th>
+<th>Maryland_Delaware</th>
+<th>Northeast US</th>
+<th>North America</th>
+<th>Urban</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th>6</th>
+<th>6</th>
+<th>11</th>
+<th></th>
+<th>6</th>
+<th>3</th>
+</tr>
+<tr class="odd">
+<th>607</th>
+<th>Baltimore</th>
+<th>Maryland_Delaware</th>
+<th>Northeast US</th>
+<th>North America</th>
+<th>Clear</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th>4</th>
+<th>2</th>
+<th>31</th>
+<th></th>
+<th>12</th>
+<th>1</th>
+</tr>
+<tr class="even">
+<th>608</th>
+<th>Philadelphia</th>
+<th>Pennsylvania</th>
+<th>Northeast US</th>
+<th>North America</th>
+<th>Urban</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th>12</th>
+<th>6</th>
+<th>12</th>
+<th></th>
+<th>6</th>
+<th>3</th>
+</tr>
+<tr class="odd">
+<th>609</th>
+<th>Harrisburg</th>
+<th>Pennsylvania</th>
+<th>Northeast US</th>
+<th>North America</th>
+<th>Hills</th>
+<th>Temperate</th>
+<th>80</th>
+<th>No</th>
+<th>4</th>
+<th>2</th>
+<th>145</th>
+<th></th>
+<th>2</th>
+<th>1</th>
+</tr>
+<tr class="even">
+<th>610</th>
+<th>Scranton</th>
+<th>Pennsylvania</th>
+<th>Northeast US</th>
+<th>North America</th>
+<th>Hills</th>
+<th>Temperate</th>
+<th>80</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>611</th>
+<th>Altoona</th>
+<th>Pennsylvania</th>
+<th>Northeast US</th>
+<th>North America</th>
+<th>Forest</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>612</th>
+<th>Syracuse</th>
+<th>New York</th>
+<th>Northeast US</th>
+<th>North America</th>
+<th>Forest</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th>3</th>
+<th>1</th>
+<th>3</th>
+<th></th>
+<th>18</th>
+<th>1</th>
+</tr>
+<tr class="odd">
+<th>613</th>
+<th>Buffalo</th>
+<th>New York</th>
+<th>Northeast US</th>
+<th>North America</th>
+<th>Clear</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th>62</th>
+<th></th>
+</tr>
+<tr class="even">
+<th>614</th>
+<th>Pittsburgh</th>
+<th>Pennsylvania</th>
+<th>Northeast US</th>
+<th>North America</th>
+<th>Urban</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th>4</th>
+<th>2</th>
+<th>98</th>
+<th></th>
+<th>2</th>
+<th>1</th>
+</tr>
+<tr class="odd">
+<th>615</th>
+<th>Cleveland</th>
+<th>Ohio</th>
+<th>Northeast US</th>
+<th>North America</th>
+<th>clear</th>
+<th>Temperate</th>
+<th>80</th>
+<th>No</th>
+<th>7</th>
+<th>3</th>
+<th>45</th>
+<th>8</th>
+<th>18</th>
+<th>2</th>
+</tr>
+<tr class="even">
+<th>616</th>
+<th>Detroit</th>
+<th>Michigan</th>
+<th>Midwest US</th>
+<th>North America</th>
+<th>urban</th>
+<th>Temperate</th>
+<th>80</th>
+<th>No</th>
+<th>8</th>
+<th>4</th>
+<th>8</th>
+<th></th>
+<th></th>
+<th>2</th>
+</tr>
+<tr class="odd">
+<th>617</th>
+<th>Flint</th>
+<th>Michigan</th>
+<th>Midwest US</th>
+<th>North America</th>
+<th>forest</th>
+<th>Temperate</th>
+<th>80</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th>4</th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>618</th>
+<th>Great Rapids</th>
+<th>Michigan</th>
+<th>Midwest US</th>
+<th>North America</th>
+<th>clear</th>
+<th>Temperate</th>
+<th>80</th>
+<th>No</th>
+<th>3</th>
+<th>1</th>
+<th>3</th>
+<th></th>
+<th></th>
+<th>1</th>
+</tr>
+<tr class="odd">
+<th>619</th>
+<th>Indianapolis</th>
+<th>Indiana</th>
+<th>Midwest US</th>
+<th>North America</th>
+<th>clear</th>
+<th>Temperate</th>
+<th>80</th>
+<th>No</th>
+<th>4</th>
+<th>2</th>
+<th>4</th>
+<th></th>
+<th></th>
+<th>1</th>
+</tr>
+<tr class="even">
+<th>620</th>
+<th>Chicago</th>
+<th>Illinois</th>
+<th>Midwest US</th>
+<th>North America</th>
+<th>urban</th>
+<th>Temperate</th>
+<th>80</th>
+<th>No</th>
+<th>10</th>
+<th>5</th>
+<th>10</th>
+<th></th>
+<th>5</th>
+<th>3</th>
+</tr>
+<tr class="odd">
+<th>621</th>
+<th>Milwaukee</th>
+<th>Wisconsin</th>
+<th>Midwest US</th>
+<th>North America</th>
+<th>clear</th>
+<th>Temperate</th>
+<th>80</th>
+<th>No</th>
+<th>6</th>
+<th>3</th>
+<th>6</th>
+<th></th>
+<th>3</th>
+<th>2</th>
+</tr>
+<tr class="even">
+<th>622</th>
+<th>Marquette</th>
+<th>Michigan</th>
+<th>Midwest US</th>
+<th>North America</th>
+<th>forest</th>
+<th>Temperate</th>
+<th>80</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th>37</th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>623</th>
+<th>Green Bay</th>
+<th>Wisconsin</th>
+<th>Midwest US</th>
+<th>North America</th>
+<th>forest</th>
+<th>Temperate</th>
+<th>80</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>624</th>
+<th>Madison</th>
+<th>Wisconsin</th>
+<th>Midwest US</th>
+<th>North America</th>
+<th>forest</th>
+<th>Temperate</th>
+<th>80</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>625</th>
+<th>Peoria</th>
+<th>Illinois</th>
+<th>Midwest US</th>
+<th>North America</th>
+<th>clear</th>
+<th>Temperate</th>
+<th>80</th>
+<th>No</th>
+<th>3</th>
+<th>2</th>
+<th>3</th>
+<th></th>
+<th>21</th>
+<th>1</th>
+</tr>
+<tr class="even">
+<th>626</th>
+<th>Decatur</th>
+<th>Illinois</th>
+<th>Midwest US</th>
+<th>North America</th>
+<th>clear</th>
+<th>Temperate</th>
+<th>80</th>
+<th>No</th>
+<th>3</th>
+<th>2</th>
+<th>66</th>
+<th></th>
+<th></th>
+<th>1</th>
+</tr>
+<tr class="odd">
+<th>627</th>
+<th>Evansville</th>
+<th>Indiana</th>
+<th>Midwest US</th>
+<th>North America</th>
+<th>clear</th>
+<th>Temperate</th>
+<th>80</th>
+<th>No</th>
+<th>4</th>
+<th>2</th>
+<th>41</th>
+<th></th>
+<th></th>
+<th>1</th>
+</tr>
+<tr class="even">
+<th>628</th>
+<th>Columbus</th>
+<th>Ohio</th>
+<th>Northeast US</th>
+<th>North America</th>
+<th>clear</th>
+<th>Temperate</th>
+<th>80</th>
+<th>No</th>
+<th>7</th>
+<th>3</th>
+<th>45</th>
+<th></th>
+<th></th>
+<th>2</th>
+</tr>
+<tr class="odd">
+<th>629</th>
+<th>Charleston</th>
+<th>West Virginia</th>
+<th>Northeast US</th>
+<th>North America</th>
+<th>Mountain</th>
+<th>Temperate</th>
+<th>60</th>
+<th>No</th>
+<th>4</th>
+<th>2</th>
+<th>111</th>
+<th></th>
+<th>2</th>
+<th>1</th>
+</tr>
+<tr class="even">
+<th>630</th>
+<th>Clarksburg</th>
+<th>West Virginia</th>
+<th>Northeast US</th>
+<th>North America</th>
+<th>Mountain</th>
+<th>Temperate</th>
+<th>60</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th>107</th>
+<th></th>
+<th>9</th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>631</th>
+<th>Charlotteville</th>
+<th>Virginia</th>
+<th>Northeast US</th>
+<th>North America</th>
+<th>Forest</th>
+<th>Temperate</th>
+<th>80</th>
+<th>No</th>
+<th>2</th>
+<th>1</th>
+<th>2</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>632</th>
+<th>Richmond</th>
+<th>Virginia</th>
+<th>Northeast US</th>
+<th>North America</th>
+<th>Clear</th>
+<th>Temperate</th>
+<th>80</th>
+<th>No</th>
+<th>2</th>
+<th>1</th>
+<th>2</th>
+<th></th>
+<th>1</th>
+<th>1</th>
+</tr>
+<tr class="odd">
+<th>633</th>
+<th>Norfolk</th>
+<th>Virginia</th>
+<th>Northeast US</th>
+<th>North America</th>
+<th>Clear</th>
+<th>Temperate</th>
+<th>80</th>
+<th>Yes</th>
+<th>2</th>
+<th>1</th>
+<th>2</th>
+<th></th>
+<th>1</th>
+<th></th>
+</tr>
+<tr class="even">
+<th>634</th>
+<th>Wilmington</th>
+<th>North Carolina</th>
+<th>Southeast US</th>
+<th>North America</th>
+<th>Marsh</th>
+<th>Subtropical</th>
+<th>80</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>635</th>
+<th>Fayetteville</th>
+<th>North Carolina</th>
+<th>Southeast US</th>
+<th>North America</th>
+<th>Clear</th>
+<th>Subtropical</th>
+<th>80</th>
+<th>No</th>
+<th>2</th>
+<th>1</th>
+<th>2</th>
+<th></th>
+<th>1</th>
+<th></th>
+</tr>
+<tr class="even">
+<th>636</th>
+<th>Raleigh</th>
+<th>North Carolina</th>
+<th>Southeast US</th>
+<th>North America</th>
+<th>Clear</th>
+<th>Subtropical</th>
+<th>80</th>
+<th>No</th>
+<th>2</th>
+<th>1</th>
+<th>2</th>
+<th></th>
+<th>1</th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>637</th>
+<th>Charlotte</th>
+<th>North Carolina</th>
+<th>Southeast US</th>
+<th>North America</th>
+<th>Hills</th>
+<th>Subtropical</th>
+<th>80</th>
+<th>No</th>
+<th>2</th>
+<th>1</th>
+<th>2</th>
+<th></th>
+<th>1</th>
+<th></th>
+</tr>
+<tr class="even">
+<th>638</th>
+<th>Roanoke</th>
+<th>Virginia</th>
+<th>Northeast US</th>
+<th>North America</th>
+<th>Forest</th>
+<th>Temperate</th>
+<th>80</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>639</th>
+<th>Marion</th>
+<th>Virginia</th>
+<th>Northeast US</th>
+<th>North America</th>
+<th>Mountain</th>
+<th>Temperate</th>
+<th>60</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th>101</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>640</th>
+<th>Louisville</th>
+<th>Kentucky</th>
+<th>Midwest US</th>
+<th>North America</th>
+<th>forest</th>
+<th>Temperate</th>
+<th>80</th>
+<th>No</th>
+<th>6</th>
+<th>3</th>
+<th>127</th>
+<th></th>
+<th>9</th>
+<th>2</th>
+</tr>
+<tr class="odd">
+<th>641</th>
+<th>Owensboro</th>
+<th>Kentucky</th>
+<th>Midwest US</th>
+<th>North America</th>
+<th>clear</th>
+<th>Temperate</th>
+<th>80</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th>134</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>642</th>
+<th>Nashville</th>
+<th>Tennessee</th>
+<th>Southeast US</th>
+<th>North America</th>
+<th>hills</th>
+<th>Subtropical</th>
+<th>80</th>
+<th>No</th>
+<th>2</th>
+<th>1</th>
+<th>23</th>
+<th></th>
+<th>21</th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>643</th>
+<th>Asheville</th>
+<th>North Carolina</th>
+<th>Southeast US</th>
+<th>North America</th>
+<th>Mountain</th>
+<th>Temperate</th>
+<th>60</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>644</th>
+<th>Charleston</th>
+<th>South Carolina</th>
+<th>Southeast US</th>
+<th>North America</th>
+<th>Marsh</th>
+<th>Subtropical</th>
+<th>80</th>
+<th>Yes</th>
+<th>2</th>
+<th>1</th>
+<th>2</th>
+<th></th>
+<th>1</th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>645</th>
+<th>Columbia</th>
+<th>South Carolina</th>
+<th>Southeast US</th>
+<th>North America</th>
+<th>Clear</th>
+<th>Subtropical</th>
+<th>80</th>
+<th>No</th>
+<th>2</th>
+<th>1</th>
+<th>2</th>
+<th></th>
+<th>8</th>
+<th></th>
+</tr>
+<tr class="even">
+<th>646</th>
+<th>Savannah</th>
+<th>Georgia</th>
+<th>Southeast US</th>
+<th>North America</th>
+<th>Marsh</th>
+<th>Subtropical</th>
+<th>80</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>647</th>
+<th>Macon</th>
+<th>Georgia</th>
+<th>Southeast US</th>
+<th>North America</th>
+<th>Clear</th>
+<th>Subtropical</th>
+<th>80</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>648</th>
+<th>Jacksonville</th>
+<th>Florida</th>
+<th>Southeast US</th>
+<th>North America</th>
+<th>Marsh</th>
+<th>Subtropical</th>
+<th>80</th>
+<th>Yes</th>
+<th>1</th>
+<th></th>
+<th>1</th>
+<th></th>
+<th></th>
+<th>1</th>
+</tr>
+<tr class="odd">
+<th>649</th>
+<th>Tampa</th>
+<th>Florida</th>
+<th>Southeast US</th>
+<th>North America</th>
+<th>Clear</th>
+<th>Subtropical</th>
+<th>80</th>
+<th>Yes</th>
+<th>1</th>
+<th></th>
+<th>1</th>
+<th></th>
+<th></th>
+<th>7</th>
+</tr>
+<tr class="even">
+<th>650</th>
+<th>Orlando</th>
+<th>Florida</th>
+<th>Southeast US</th>
+<th>North America</th>
+<th>Clear</th>
+<th>Subtropical</th>
+<th>80</th>
+<th>Yes</th>
+<th>1</th>
+<th></th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd" data-bgcolor="ffff66">
+<th>ID</th>
+<th>Province name</th>
+<th>Area</th>
+<th>Region</th>
+<th>Continent</th>
+<th>Terrain</th>
+<th>Climate</th>
+<th>Infra</th>
+<th>Beach?</th>
+<th>IC</th>
+<th>Manpower</th>
+<th>Energy</th>
+<th>Oil</th>
+<th>Metal</th>
+<th>Rare Materials</th>
+</tr>
+<tr class="even">
+<th><h2 id="section-13"><span id="651" class="mw-headline"> 651
+</span></h2></th>
+<th>Miami</th>
+<th>Florida</th>
+<th>Southeast US</th>
+<th>North America</th>
+<th>Marsh</th>
+<th>Tropical</th>
+<th>80</th>
+<th>Yes</th>
+<th>1</th>
+<th></th>
+<th>1</th>
+<th></th>
+<th></th>
+<th>1</th>
+</tr>
+<tr class="odd">
+<th>652</th>
+<th>Andros</th>
+<th>Bahamas Islands</th>
+<th>Caribbean</th>
+<th>North America</th>
+<th>Clear</th>
+<th>Tropical</th>
+<th>60</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>653</th>
+<th>New Providence</th>
+<th>Bahamas Islands</th>
+<th>Caribbean</th>
+<th>North America</th>
+<th>Clear</th>
+<th>Tropical</th>
+<th>60</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>654</th>
+<th>Havana</th>
+<th>Cuba</th>
+<th>Caribbean</th>
+<th>North America</th>
+<th>Hills</th>
+<th>Tropical</th>
+<th>60</th>
+<th>Yes</th>
+<th>6</th>
+<th>6</th>
+<th>11</th>
+<th></th>
+<th>6</th>
+<th>3</th>
+</tr>
+<tr class="even">
+<th>655</th>
+<th>Santa Clara</th>
+<th>Cuba</th>
+<th>Caribbean</th>
+<th>North America</th>
+<th>Hills</th>
+<th>Tropical</th>
+<th>60</th>
+<th>Yes</th>
+<th>1</th>
+<th>1</th>
+<th>1</th>
+<th></th>
+<th>1</th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>656</th>
+<th>Camagüey</th>
+<th>Cuba</th>
+<th>Caribbean</th>
+<th>North America</th>
+<th>Hills</th>
+<th>Tropical</th>
+<th>60</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>657</th>
+<th>Guantánamo</th>
+<th>Cuba</th>
+<th>Caribbean</th>
+<th>North America</th>
+<th>Mountain</th>
+<th>Mediterranean</th>
+<th>60</th>
+<th>Yes</th>
+<th>1</th>
+<th>1</th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>658</th>
+<th>Hawaii</th>
+<th>Hawaii</th>
+<th>American Pacific</th>
+<th>Asia</th>
+<th>Mountain</th>
+<th>Tropical</th>
+<th>80</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>659</th>
+<th>Maui</th>
+<th>Hawaii</th>
+<th>American Pacific</th>
+<th>Asia</th>
+<th>Mountain</th>
+<th>Tropical</th>
+<th>80</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>660</th>
+<th>Kauai</th>
+<th>Hawaii</th>
+<th>American Pacific</th>
+<th>Asia</th>
+<th>jungle</th>
+<th>Tropical</th>
+<th>80</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>661</th>
+<th>Niihau</th>
+<th>Hawaii</th>
+<th>American Pacific</th>
+<th>Asia</th>
+<th>Clear</th>
+<th>Tropical</th>
+<th>80</th>
+<th>Yes</th>
+<th>1</th>
+<th></th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>662</th>
+<th>Midway Island</th>
+<th>Midway</th>
+<th>American Pacific</th>
+<th>Asia</th>
+<th>Clear</th>
+<th>Tropical</th>
+<th>80</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>663</th>
+<th>Pearl Harbour</th>
+<th>Hawaii</th>
+<th>American Pacific</th>
+<th>Asia</th>
+<th>Hills</th>
+<th>Tropical</th>
+<th>80</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>664</th>
+<th>Grand Bahama</th>
+<th>Bahamas Islands</th>
+<th>Caribbean</th>
+<th>North America</th>
+<th>Clear</th>
+<th>Tropical</th>
+<th>60</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>665</th>
+<th>The Abacos</th>
+<th>Bahamas Islands</th>
+<th>Caribbean</th>
+<th>North America</th>
+<th>Clear</th>
+<th>Tropical</th>
+<th>60</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>666</th>
+<th>Eleuthera</th>
+<th>Bahamas Islands</th>
+<th>Caribbean</th>
+<th>North America</th>
+<th>Clear</th>
+<th>Tropical</th>
+<th>60</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>667</th>
+<th>Buenos Aires</th>
+<th>La Plata</th>
+<th>Rio de la Plata</th>
+<th>South America</th>
+<th>Clear</th>
+<th>Mediterranean</th>
+<th>60</th>
+<th>Yes</th>
+<th>10</th>
+<th>8</th>
+<th>15</th>
+<th></th>
+<th>8</th>
+<th>4</th>
+</tr>
+<tr class="odd">
+<th>668</th>
+<th>Long Island</th>
+<th>Bahamas Islands</th>
+<th>Caribbean</th>
+<th>North America</th>
+<th>Clear</th>
+<th>Tropical</th>
+<th>60</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>669</th>
+<th>Augusta</th>
+<th>Georgia</th>
+<th>Southeast US</th>
+<th>North America</th>
+<th>Clear</th>
+<th>Subtropical</th>
+<th>80</th>
+<th>No</th>
+<th>3</th>
+<th>2</th>
+<th>3</th>
+<th></th>
+<th>2</th>
+<th>1</th>
+</tr>
+<tr class="odd">
+<th>670</th>
+<th>Atlanta</th>
+<th>Georgia</th>
+<th>Southeast US</th>
+<th>North America</th>
+<th>Hills</th>
+<th>Subtropical</th>
+<th>80</th>
+<th>No</th>
+<th>3</th>
+<th>2</th>
+<th>3</th>
+<th></th>
+<th>2</th>
+<th>1</th>
+</tr>
+<tr class="even">
+<th>671</th>
+<th>Chattanooga</th>
+<th>Tennessee</th>
+<th>Southeast US</th>
+<th>North America</th>
+<th>Hills</th>
+<th>Subtropical</th>
+<th>60</th>
+<th>No</th>
+<th>2</th>
+<th>1</th>
+<th>23</th>
+<th></th>
+<th>4</th>
+<th>1</th>
+</tr>
+<tr class="odd">
+<th>672</th>
+<th>Birmingham</th>
+<th>Alabama</th>
+<th>Southeast US</th>
+<th>North America</th>
+<th>Forest</th>
+<th>Subtropical</th>
+<th>80</th>
+<th>No</th>
+<th>3</th>
+<th>1</th>
+<th>66</th>
+<th></th>
+<th>95</th>
+<th>1</th>
+</tr>
+<tr class="even">
+<th>673</th>
+<th>Memphis</th>
+<th>Tennessee</th>
+<th>Southeast US</th>
+<th>North America</th>
+<th>clear</th>
+<th>Subtropical</th>
+<th>80</th>
+<th>No</th>
+<th>2</th>
+<th>1</th>
+<th>2</th>
+<th></th>
+<th>1</th>
+<th>1</th>
+</tr>
+<tr class="odd">
+<th>674</th>
+<th>Greenville</th>
+<th>Mississippi</th>
+<th>Southcentral US</th>
+<th>North America</th>
+<th>clear</th>
+<th>Subtropical</th>
+<th>80</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>675</th>
+<th>Jackson</th>
+<th>Mississippi</th>
+<th>Southcentral US</th>
+<th>North America</th>
+<th>Forest</th>
+<th>Subtropical</th>
+<th>80</th>
+<th>No</th>
+<th>2</th>
+<th>1</th>
+<th>2</th>
+<th>8</th>
+<th>1</th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>676</th>
+<th>Mobile</th>
+<th>Alabama</th>
+<th>Southeast US</th>
+<th>North America</th>
+<th>Clear</th>
+<th>Subtropical</th>
+<th>80</th>
+<th>Yes</th>
+<th>3</th>
+<th>1</th>
+<th>3</th>
+<th></th>
+<th>2</th>
+<th>1</th>
+</tr>
+<tr class="even">
+<th>677</th>
+<th>Tallahassee</th>
+<th>Florida</th>
+<th>Southeast US</th>
+<th>North America</th>
+<th>Forest</th>
+<th>Subtropical</th>
+<th>80</th>
+<th>Yes</th>
+<th>1</th>
+<th></th>
+<th>1</th>
+<th></th>
+<th></th>
+<th>8</th>
+</tr>
+<tr class="odd">
+<th>678</th>
+<th>Biloxi</th>
+<th>Mississippi</th>
+<th>Southcentral US</th>
+<th>North America</th>
+<th>clear</th>
+<th>Subtropical</th>
+<th>80</th>
+<th>Yes</th>
+<th>2</th>
+<th>1</th>
+<th>2</th>
+<th></th>
+<th>1</th>
+<th></th>
+</tr>
+<tr class="even">
+<th>679</th>
+<th>Baton Rouge</th>
+<th>Louisiana</th>
+<th>Southcentral US</th>
+<th>North America</th>
+<th>marsh</th>
+<th>Subtropical</th>
+<th>80</th>
+<th>Yes</th>
+<th>2</th>
+<th>1</th>
+<th>2</th>
+<th></th>
+<th>1</th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>680</th>
+<th>New Orleans</th>
+<th>Louisiana</th>
+<th>Southcentral US</th>
+<th>North America</th>
+<th>marsh</th>
+<th>Subtropical</th>
+<th>80</th>
+<th>No</th>
+<th>2</th>
+<th>1</th>
+<th>2</th>
+<th></th>
+<th>1</th>
+<th></th>
+</tr>
+<tr class="even">
+<th>681</th>
+<th>Alexandria</th>
+<th>Louisiana</th>
+<th>Southcentral US</th>
+<th>North America</th>
+<th>forest</th>
+<th>Subtropical</th>
+<th>80</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>682</th>
+<th>Monroe</th>
+<th>Louisiana</th>
+<th>Southcentral US</th>
+<th>North America</th>
+<th>clear</th>
+<th>Subtropical</th>
+<th>80</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th>62</th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>683</th>
+<th>Pine Bluff</th>
+<th>Arkansas</th>
+<th>Southcentral US</th>
+<th>North America</th>
+<th>forest</th>
+<th>Subtropical</th>
+<th>80</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>684</th>
+<th>Little Rock</th>
+<th>Arkansas</th>
+<th>Southcentral US</th>
+<th>North America</th>
+<th>clear</th>
+<th>Subtropical</th>
+<th>80</th>
+<th>No</th>
+<th>2</th>
+<th>1</th>
+<th>2</th>
+<th></th>
+<th>40</th>
+<th></th>
+</tr>
+<tr class="even">
+<th>685</th>
+<th>Jonesboro</th>
+<th>Arkansas</th>
+<th>Southcentral US</th>
+<th>North America</th>
+<th>clear</th>
+<th>Subtropical</th>
+<th>80</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>686</th>
+<th>Fort Smith</th>
+<th>Arkansas</th>
+<th>Southcentral US</th>
+<th>North America</th>
+<th>hills</th>
+<th>Subtropical</th>
+<th>80</th>
+<th>No</th>
+<th>2</th>
+<th>1</th>
+<th>2</th>
+<th></th>
+<th>1</th>
+<th></th>
+</tr>
+<tr class="even">
+<th>687</th>
+<th>Cape Girardeau</th>
+<th>Missouri</th>
+<th>Midwest US</th>
+<th>North America</th>
+<th>forest</th>
+<th>Temperate</th>
+<th>80</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>688</th>
+<th>Springfield</th>
+<th>Missouri</th>
+<th>Midwest US</th>
+<th>North America</th>
+<th>clear</th>
+<th>Temperate</th>
+<th>80</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>689</th>
+<th>St. Louis</th>
+<th>Missouri</th>
+<th>Midwest US</th>
+<th>North America</th>
+<th>clear</th>
+<th>Temperate</th>
+<th>80</th>
+<th>No</th>
+<th>4</th>
+<th>2</th>
+<th>4</th>
+<th></th>
+<th>2</th>
+<th>1</th>
+</tr>
+<tr class="odd">
+<th>690</th>
+<th>Kansas City</th>
+<th>Missouri</th>
+<th>Midwest US</th>
+<th>North America</th>
+<th>clear</th>
+<th>Temperate</th>
+<th>80</th>
+<th>No</th>
+<th>4</th>
+<th>2</th>
+<th>4</th>
+<th>2</th>
+<th>2</th>
+<th></th>
+</tr>
+<tr class="even">
+<th>691</th>
+<th>Cedar Rapids</th>
+<th>Iowa</th>
+<th>Midwest US</th>
+<th>North America</th>
+<th>clear</th>
+<th>Temperate</th>
+<th>80</th>
+<th>No</th>
+<th>3</th>
+<th>1</th>
+<th>3</th>
+<th></th>
+<th>2</th>
+<th>1</th>
+</tr>
+<tr class="odd">
+<th>692</th>
+<th>Des Moines</th>
+<th>Iowa</th>
+<th>Midwest US</th>
+<th>North America</th>
+<th>clear</th>
+<th>Temperate</th>
+<th>80</th>
+<th>No</th>
+<th>3</th>
+<th>1</th>
+<th>3</th>
+<th></th>
+<th>2</th>
+<th>1</th>
+</tr>
+<tr class="even">
+<th>693</th>
+<th>Minneapolis</th>
+<th>Minnesota</th>
+<th>Midwest US</th>
+<th>North America</th>
+<th>Clear</th>
+<th>Temperate</th>
+<th>80</th>
+<th>No</th>
+<th>6</th>
+<th>3</th>
+<th>6</th>
+<th></th>
+<th>3</th>
+<th>2</th>
+</tr>
+<tr class="odd">
+<th>694</th>
+<th>Duluth</th>
+<th>Minnesota</th>
+<th>Midwest US</th>
+<th>North America</th>
+<th>forest</th>
+<th>Temperate</th>
+<th>80</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th>50</th>
+<th></th>
+</tr>
+<tr class="even">
+<th>695</th>
+<th>Moorhead</th>
+<th>Minnesota</th>
+<th>Midwest US</th>
+<th>North America</th>
+<th>clear</th>
+<th>Temperate</th>
+<th>80</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>696</th>
+<th>Worthington</th>
+<th>Minnesota</th>
+<th>Midwest US</th>
+<th>North America</th>
+<th>clear</th>
+<th>Temperate</th>
+<th>80</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>697</th>
+<th>Fargo</th>
+<th>North Dakota</th>
+<th>Midwest US</th>
+<th>North America</th>
+<th>clear</th>
+<th>Temperate</th>
+<th>80</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>698</th>
+<th>Bismarck</th>
+<th>North Dakota</th>
+<th>Midwest US</th>
+<th>North America</th>
+<th>clear</th>
+<th>Temperate</th>
+<th>80</th>
+<th>No</th>
+<th>1</th>
+<th>1</th>
+<th>15</th>
+<th>8</th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>699</th>
+<th>Dickinson</th>
+<th>North Dakota</th>
+<th>Midwest US</th>
+<th>North America</th>
+<th>clear</th>
+<th>Temperate</th>
+<th>80</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>700</th>
+<th>Fort Peck</th>
+<th>Montana</th>
+<th>Northwest US</th>
+<th>North America</th>
+<th>clear</th>
+<th>Temperate</th>
+<th>80</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even" data-bgcolor="ffff66">
+<th>ID</th>
+<th>Province name</th>
+<th>Area</th>
+<th>Region</th>
+<th>Continent</th>
+<th>Terrain</th>
+<th>Climate</th>
+<th>Infra</th>
+<th>Beach?</th>
+<th>IC</th>
+<th>Manpower</th>
+<th>Energy</th>
+<th>Oil</th>
+<th>Metal</th>
+<th>Rare Materials</th>
+</tr>
+<tr class="odd">
+<th><h2 id="section-14"><span id="701" class="mw-headline"> 701
+</span></h2></th>
+<th>Miles City</th>
+<th>Montana</th>
+<th>Northwest US</th>
+<th>North America</th>
+<th>clear</th>
+<th>Temperate</th>
+<th>80</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>702</th>
+<th>Dodson</th>
+<th>Montana</th>
+<th>Northwest US</th>
+<th>North America</th>
+<th>hills</th>
+<th>Temperate</th>
+<th>80</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>703</th>
+<th>Billings</th>
+<th>Montana</th>
+<th>Northwest US</th>
+<th>North America</th>
+<th>Mountain</th>
+<th>Temperate</th>
+<th>60</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>704</th>
+<th>Casper</th>
+<th>Wyoming</th>
+<th>Northwest US</th>
+<th>North America</th>
+<th>Mountain</th>
+<th>Temperate</th>
+<th>60</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th>24</th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>705</th>
+<th>Rock Springs</th>
+<th>Wyoming</th>
+<th>Northwest US</th>
+<th>North America</th>
+<th>Mountain</th>
+<th>Temperate</th>
+<th>60</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>706</th>
+<th>Grand Junction</th>
+<th>Colorado</th>
+<th>Southcentral US</th>
+<th>North America</th>
+<th>Mountain</th>
+<th>Temperate</th>
+<th>60</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th>12</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>707</th>
+<th>Denver</th>
+<th>Colorado</th>
+<th>Southcentral US</th>
+<th>North America</th>
+<th>plains</th>
+<th>Temperate</th>
+<th>60</th>
+<th>No</th>
+<th>2</th>
+<th>1</th>
+<th>2</th>
+<th>16</th>
+<th>1</th>
+<th></th>
+</tr>
+<tr class="even">
+<th>708</th>
+<th>Aspen</th>
+<th>Colorado</th>
+<th>Southcentral US</th>
+<th>North America</th>
+<th>Mountain</th>
+<th>Temperate</th>
+<th>80</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th>12</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>709</th>
+<th>Pueblo</th>
+<th>Colorado</th>
+<th>Southcentral US</th>
+<th>North America</th>
+<th>plains</th>
+<th>Temperate</th>
+<th>80</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>710</th>
+<th>Dodge City</th>
+<th>Kansas</th>
+<th>Southcentral US</th>
+<th>North America</th>
+<th>clear</th>
+<th>Temperate</th>
+<th>80</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>711</th>
+<th>Wichita</th>
+<th>Kansas</th>
+<th>Southcentral US</th>
+<th>North America</th>
+<th>clear</th>
+<th>Temperate</th>
+<th>80</th>
+<th>No</th>
+<th>2</th>
+<th>1</th>
+<th>2</th>
+<th></th>
+<th>1</th>
+<th></th>
+</tr>
+<tr class="even">
+<th>712</th>
+<th>Enid</th>
+<th>Oklahoma</th>
+<th>Southcentral US</th>
+<th>North America</th>
+<th>Clear</th>
+<th>Temperate</th>
+<th>80</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>713</th>
+<th>Oklahoma City</th>
+<th>Oklahoma</th>
+<th>Southcentral US</th>
+<th>North America</th>
+<th>Clear</th>
+<th>Temperate</th>
+<th>80</th>
+<th>No</th>
+<th>2</th>
+<th>1</th>
+<th>2</th>
+<th>40</th>
+<th>1</th>
+<th></th>
+</tr>
+<tr class="even">
+<th>714</th>
+<th>Lawton</th>
+<th>Oklahoma</th>
+<th>Southcentral US</th>
+<th>North America</th>
+<th>Clear</th>
+<th>Temperate</th>
+<th>80</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>715</th>
+<th>Dallas</th>
+<th>Texas</th>
+<th>Southcentral US</th>
+<th>North America</th>
+<th>forest</th>
+<th>Subtropical</th>
+<th>80</th>
+<th>No</th>
+<th>5</th>
+<th>3</th>
+<th>23</th>
+<th>50</th>
+<th>3</th>
+<th>1</th>
+</tr>
+<tr class="even">
+<th>716</th>
+<th>Houston</th>
+<th>Texas</th>
+<th>Southcentral US</th>
+<th>North America</th>
+<th>marsh</th>
+<th>Subtropical</th>
+<th>80</th>
+<th>Yes</th>
+<th>5</th>
+<th>3</th>
+<th>5</th>
+<th>50</th>
+<th>3</th>
+<th>83</th>
+</tr>
+<tr class="odd">
+<th>717</th>
+<th>San Antonio</th>
+<th>Texas</th>
+<th>Southcentral US</th>
+<th>North America</th>
+<th>hills</th>
+<th>Subtropical</th>
+<th>80</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th>18</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>718</th>
+<th>El Paso</th>
+<th>Texas</th>
+<th>Southcentral US</th>
+<th>North America</th>
+<th>desert</th>
+<th>Arid</th>
+<th>60</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>719</th>
+<th>Abilene</th>
+<th>Texas</th>
+<th>Southcentral US</th>
+<th>North America</th>
+<th>clear</th>
+<th>Mediterranean</th>
+<th>80</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>720</th>
+<th>Amarillo</th>
+<th>Texas</th>
+<th>Southcentral US</th>
+<th>North America</th>
+<th>clear</th>
+<th>Mediterranean</th>
+<th>80</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th>11</th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>721</th>
+<th>Lubbock</th>
+<th>Texas</th>
+<th>Southcentral US</th>
+<th>North America</th>
+<th>clear</th>
+<th>Mediterranean</th>
+<th>80</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th>152</th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>722</th>
+<th>Roswell</th>
+<th>New Mexico</th>
+<th>Southcentral US</th>
+<th>North America</th>
+<th>desert</th>
+<th>Arid</th>
+<th>60</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th>24</th>
+<th></th>
+<th>5</th>
+</tr>
+<tr class="odd">
+<th>723</th>
+<th>Las Cruces</th>
+<th>New Mexico</th>
+<th>Southcentral US</th>
+<th>North America</th>
+<th>desert</th>
+<th>Arid</th>
+<th>60</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th>6</th>
+<th></th>
+</tr>
+<tr class="even">
+<th>724</th>
+<th>Albuquerque</th>
+<th>New Mexico</th>
+<th>Southcentral US</th>
+<th>North America</th>
+<th>hills</th>
+<th>Mediterranean</th>
+<th>80</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>725</th>
+<th>Santa Fe</th>
+<th>New Mexico</th>
+<th>Southcentral US</th>
+<th>North America</th>
+<th>hills</th>
+<th>Mediterranean</th>
+<th>80</th>
+<th>No</th>
+<th>1</th>
+<th>1</th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>726</th>
+<th>Los Alamos</th>
+<th>New Mexico</th>
+<th>Southcentral US</th>
+<th>North America</th>
+<th>desert</th>
+<th>Arid</th>
+<th>60</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th>24</th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>727</th>
+<th>Silver City</th>
+<th>New Mexico</th>
+<th>Southcentral US</th>
+<th>North America</th>
+<th>desert</th>
+<th>Arid</th>
+<th>60</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th>54</th>
+<th></th>
+</tr>
+<tr class="even">
+<th>728</th>
+<th>Tucson</th>
+<th>Arizona</th>
+<th>Southwest US</th>
+<th>North America</th>
+<th>desert</th>
+<th>Arid</th>
+<th>60</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>729</th>
+<th>Yuma</th>
+<th>Arizona</th>
+<th>Southwest US</th>
+<th>North America</th>
+<th>desert</th>
+<th>Arid</th>
+<th>60</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>730</th>
+<th>Phoenix</th>
+<th>Arizona</th>
+<th>Southwest US</th>
+<th>North America</th>
+<th>desert</th>
+<th>Arid</th>
+<th>60</th>
+<th>No</th>
+<th>1</th>
+<th>1</th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>731</th>
+<th>Delano Peak</th>
+<th>Arizona</th>
+<th>Southwest US</th>
+<th>North America</th>
+<th>hills</th>
+<th>Temperate</th>
+<th>80</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>732</th>
+<th>Provo</th>
+<th>Utah</th>
+<th>Southwest US</th>
+<th>North America</th>
+<th>Mountain</th>
+<th>Temperate</th>
+<th>60</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th>30</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>733</th>
+<th>Salt Lake City</th>
+<th>Utah</th>
+<th>Southwest US</th>
+<th>North America</th>
+<th>desert</th>
+<th>Arid</th>
+<th>60</th>
+<th>No</th>
+<th>1</th>
+<th>1</th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>734</th>
+<th>Las Vegas</th>
+<th>Nevada</th>
+<th>Southwest US</th>
+<th>North America</th>
+<th>desert</th>
+<th>Arid</th>
+<th>60</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>735</th>
+<th>Mojave Desert</th>
+<th>California</th>
+<th>Southwest US</th>
+<th>North America</th>
+<th>Mountain</th>
+<th>Arid</th>
+<th>60</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>736</th>
+<th>Imperial Valley</th>
+<th>California</th>
+<th>Southwest US</th>
+<th>North America</th>
+<th>Desert</th>
+<th>Arid</th>
+<th>60</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>737</th>
+<th>Mexicali</th>
+<th>Lower California</th>
+<th>Mexico</th>
+<th>North America</th>
+<th>Hills</th>
+<th>Mediterranean</th>
+<th>60</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>738</th>
+<th>La Paz</th>
+<th>Lower California</th>
+<th>Mexico</th>
+<th>North America</th>
+<th>Hills</th>
+<th>Mediterranean</th>
+<th>60</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>739</th>
+<th>Hermosillo</th>
+<th>Lower California</th>
+<th>Mexico</th>
+<th>North America</th>
+<th>Desert</th>
+<th>Arid</th>
+<th>60</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>740</th>
+<th>Nogales</th>
+<th>Chihuahua</th>
+<th>Mexico</th>
+<th>North America</th>
+<th>Hills</th>
+<th>Mediterranean</th>
+<th>60</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th>6</th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>741</th>
+<th>Ciudad Juárez</th>
+<th>Chihuahua</th>
+<th>Mexico</th>
+<th>North America</th>
+<th>Desert</th>
+<th>Arid</th>
+<th>60</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>742</th>
+<th>Chihuahua</th>
+<th>Chihuahua</th>
+<th>Mexico</th>
+<th>North America</th>
+<th>Desert</th>
+<th>Arid</th>
+<th>60</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th>14</th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>743</th>
+<th>Culiacán</th>
+<th>Lower California</th>
+<th>Mexico</th>
+<th>North America</th>
+<th>Forest</th>
+<th>Subtropical</th>
+<th>60</th>
+<th>Yes</th>
+<th>1</th>
+<th>1</th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>744</th>
+<th>Durango</th>
+<th>Chihuahua</th>
+<th>Mexico</th>
+<th>North America</th>
+<th>Mountain</th>
+<th>Subtropical</th>
+<th>60</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>745</th>
+<th>Monclova</th>
+<th>Chihuahua</th>
+<th>Mexico</th>
+<th>North America</th>
+<th>Clear</th>
+<th>Subtropical</th>
+<th>60</th>
+<th>No</th>
+<th>1</th>
+<th>1</th>
+<th>5</th>
+<th></th>
+<th>4</th>
+<th></th>
+</tr>
+<tr class="even">
+<th>746</th>
+<th>Midland</th>
+<th>Texas</th>
+<th>Southcentral US</th>
+<th>North America</th>
+<th>clear</th>
+<th>Subtropical</th>
+<th>80</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>747</th>
+<th>Monterrey</th>
+<th>Mexico City</th>
+<th>Mexico</th>
+<th>North America</th>
+<th>Hills</th>
+<th>Subtropical</th>
+<th>60</th>
+<th>No</th>
+<th>1</th>
+<th>1</th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>748</th>
+<th>Corpus Christi</th>
+<th>Texas</th>
+<th>Southcentral US</th>
+<th>North America</th>
+<th>Clear</th>
+<th>Subtropical</th>
+<th>80</th>
+<th>Yes</th>
+<th>3</th>
+<th>1</th>
+<th>3</th>
+<th></th>
+<th>2</th>
+<th>1</th>
+</tr>
+<tr class="odd">
+<th>749</th>
+<th>Tampico</th>
+<th>Vera Cruz</th>
+<th>Mexico</th>
+<th>North America</th>
+<th>Clear</th>
+<th>Subtropical</th>
+<th>60</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th>10</th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>750</th>
+<th>León</th>
+<th>Mexico City</th>
+<th>Mexico</th>
+<th>North America</th>
+<th>Mountain</th>
+<th>Subtropical</th>
+<th>60</th>
+<th>No</th>
+<th>1</th>
+<th>1</th>
+<th>1</th>
+<th></th>
+<th>11</th>
+<th></th>
+</tr>
+<tr class="odd" data-bgcolor="ffff66">
+<th>ID</th>
+<th>Province name</th>
+<th>Area</th>
+<th>Region</th>
+<th>Continent</th>
+<th>Terrain</th>
+<th>Climate</th>
+<th>Infra</th>
+<th>Beach?</th>
+<th>IC</th>
+<th>Manpower</th>
+<th>Energy</th>
+<th>Oil</th>
+<th>Metal</th>
+<th>Rare Materials</th>
+</tr>
+<tr class="even">
+<th><h2 id="section-15"><span id="751" class="mw-headline"> 751
+</span></h2></th>
+<th>Guadalajara</th>
+<th>Mexico City</th>
+<th>Mexico</th>
+<th>North America</th>
+<th>Forest</th>
+<th>Subtropical</th>
+<th>60</th>
+<th>Yes</th>
+<th>2</th>
+<th>2</th>
+<th>2</th>
+<th></th>
+<th>1</th>
+<th>1</th>
+</tr>
+<tr class="odd">
+<th>752</th>
+<th>Mexico City</th>
+<th>Mexico City</th>
+<th>Mexico</th>
+<th>North America</th>
+<th>Mountain</th>
+<th>Subtropical</th>
+<th>60</th>
+<th>No</th>
+<th>7</th>
+<th>7</th>
+<th>12</th>
+<th></th>
+<th>7</th>
+<th>4</th>
+</tr>
+<tr class="even">
+<th>753</th>
+<th>Puebla</th>
+<th>Vera Cruz</th>
+<th>Mexico</th>
+<th>North America</th>
+<th>Forest</th>
+<th>Subtropical</th>
+<th>60</th>
+<th>Yes</th>
+<th>3</th>
+<th>3</th>
+<th>3</th>
+<th></th>
+<th>2</th>
+<th>1</th>
+</tr>
+<tr class="odd">
+<th>754</th>
+<th>Acapulco</th>
+<th>Vera Cruz</th>
+<th>Mexico</th>
+<th>North America</th>
+<th>Mountain</th>
+<th>Subtropical</th>
+<th>60</th>
+<th>Yes</th>
+<th>1</th>
+<th>1</th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>755</th>
+<th>Villahermosa</th>
+<th>Central Rainforests</th>
+<th>Mexico</th>
+<th>North America</th>
+<th>Jungle</th>
+<th>Tropical</th>
+<th>60</th>
+<th>Yes</th>
+<th>1</th>
+<th>1</th>
+<th>1</th>
+<th>10</th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>756</th>
+<th>Mérida</th>
+<th>Central Rainforests</th>
+<th>Mexico</th>
+<th>North America</th>
+<th>Jungle</th>
+<th>Tropical</th>
+<th>60</th>
+<th>Yes</th>
+<th>1</th>
+<th>1</th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>757</th>
+<th>Guatemala</th>
+<th>Central Rainforests</th>
+<th>Central America</th>
+<th>North America</th>
+<th>Mountain</th>
+<th>Tropical</th>
+<th>60</th>
+<th>Yes</th>
+<th>7</th>
+<th>7</th>
+<th>12</th>
+<th></th>
+<th>7</th>
+<th>3</th>
+</tr>
+<tr class="odd">
+<th>758</th>
+<th>Belize City</th>
+<th>Central Rainforests</th>
+<th>Central America</th>
+<th>North America</th>
+<th>Jungle</th>
+<th>Tropical</th>
+<th>60</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>759</th>
+<th>San Salvador</th>
+<th>Central Rainforests</th>
+<th>Central America</th>
+<th>North America</th>
+<th>Hills</th>
+<th>Tropical</th>
+<th>60</th>
+<th>Yes</th>
+<th>6</th>
+<th>6</th>
+<th>11</th>
+<th></th>
+<th>6</th>
+<th>3</th>
+</tr>
+<tr class="odd">
+<th>760</th>
+<th>Tegucigalpa</th>
+<th>Central Rainforests</th>
+<th>Central America</th>
+<th>North America</th>
+<th>Mountain</th>
+<th>Tropical</th>
+<th>60</th>
+<th>Yes</th>
+<th>6</th>
+<th>6</th>
+<th>11</th>
+<th></th>
+<th>6</th>
+<th>3</th>
+</tr>
+<tr class="even">
+<th>761</th>
+<th>San Diego</th>
+<th>California</th>
+<th>Southwest US</th>
+<th>North America</th>
+<th>Hills</th>
+<th>Mediterranean</th>
+<th>80</th>
+<th>Yes</th>
+<th>3</th>
+<th>2</th>
+<th>3</th>
+<th></th>
+<th>8</th>
+<th>1</th>
+</tr>
+<tr class="odd">
+<th>762</th>
+<th>Los Angeles</th>
+<th>California</th>
+<th>Southwest US</th>
+<th>North America</th>
+<th>Hills</th>
+<th>Mediterranean</th>
+<th>80</th>
+<th>Yes</th>
+<th>6</th>
+<th>3</th>
+<th>6</th>
+<th>44</th>
+<th>3</th>
+<th>2</th>
+</tr>
+<tr class="even">
+<th>763</th>
+<th>Fresno</th>
+<th>California</th>
+<th>Southwest US</th>
+<th>North America</th>
+<th>Clear</th>
+<th>Mediterranean</th>
+<th>80</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th>42</th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>764</th>
+<th>Sacramento</th>
+<th>California</th>
+<th>Southwest US</th>
+<th>North America</th>
+<th>Hills</th>
+<th>Mediterranean</th>
+<th>80</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>765</th>
+<th>San Francisco</th>
+<th>California</th>
+<th>Southwest US</th>
+<th>North America</th>
+<th>Hills</th>
+<th>Mediterranean</th>
+<th>80</th>
+<th>Yes</th>
+<th>6</th>
+<th>3</th>
+<th>6</th>
+<th></th>
+<th>3</th>
+<th>2</th>
+</tr>
+<tr class="odd">
+<th>766</th>
+<th>Redding</th>
+<th>California</th>
+<th>Southwest US</th>
+<th>North America</th>
+<th>Forest</th>
+<th>Temperate</th>
+<th>80</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>767</th>
+<th>Sierra Nevada</th>
+<th>California</th>
+<th>Southwest US</th>
+<th>North America</th>
+<th>Mountain</th>
+<th>Temperate</th>
+<th>60</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>768</th>
+<th>Reno</th>
+<th>Nevada</th>
+<th>Southwest US</th>
+<th>North America</th>
+<th>Desert</th>
+<th>Arid</th>
+<th>60</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>769</th>
+<th>Harney Basin</th>
+<th>Oregon</th>
+<th>Northwest US</th>
+<th>North America</th>
+<th>Desert</th>
+<th>Arid</th>
+<th>60</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>770</th>
+<th>Pocatello</th>
+<th>Idaho</th>
+<th>Northwest US</th>
+<th>North America</th>
+<th>Hills</th>
+<th>Temperate</th>
+<th>60</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>771</th>
+<th>Boise</th>
+<th>Idaho</th>
+<th>Northwest US</th>
+<th>North America</th>
+<th>Mountain</th>
+<th>Temperate</th>
+<th>60</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>772</th>
+<th>Anaconda</th>
+<th>Montana</th>
+<th>Northwest US</th>
+<th>North America</th>
+<th>Mountain</th>
+<th>Temperate</th>
+<th>60</th>
+<th>No</th>
+<th>1</th>
+<th>1</th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>773</th>
+<th>Missoula</th>
+<th>Montana</th>
+<th>Northwest US</th>
+<th>North America</th>
+<th>Mountain</th>
+<th>Temperate</th>
+<th>60</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>774</th>
+<th>Great Falls</th>
+<th>Montana</th>
+<th>Northwest US</th>
+<th>North America</th>
+<th>Mountain</th>
+<th>Temperate</th>
+<th>60</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>775</th>
+<th>Butte</th>
+<th>Montana</th>
+<th>Northwest US</th>
+<th>North America</th>
+<th>Mountain</th>
+<th>Temperate</th>
+<th>60</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>776</th>
+<th>Lewiston</th>
+<th>Idaho</th>
+<th>Northwest US</th>
+<th>North America</th>
+<th>Mountain</th>
+<th>Temperate</th>
+<th>60</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>777</th>
+<th>Elk City</th>
+<th>Idaho</th>
+<th>Northwest US</th>
+<th>North America</th>
+<th>Mountain</th>
+<th>Temperate</th>
+<th>60</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>778</th>
+<th>Blue Mountains</th>
+<th>Oregon</th>
+<th>Northwest US</th>
+<th>North America</th>
+<th>hills</th>
+<th>Temperate</th>
+<th>80</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>779</th>
+<th>Spokane</th>
+<th>Washington</th>
+<th>Northwest US</th>
+<th>North America</th>
+<th>forest</th>
+<th>Temperate</th>
+<th>80</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>780</th>
+<th>Seattle</th>
+<th>Washington</th>
+<th>Northwest US</th>
+<th>North America</th>
+<th>forest</th>
+<th>Temperate</th>
+<th>80</th>
+<th>Yes</th>
+<th>2</th>
+<th>1</th>
+<th>2</th>
+<th></th>
+<th>1</th>
+<th></th>
+</tr>
+<tr class="even">
+<th>781</th>
+<th>Richland</th>
+<th>Washington</th>
+<th>Northwest US</th>
+<th>North America</th>
+<th>Mountain</th>
+<th>Temperate</th>
+<th>60</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>782</th>
+<th>Tacoma</th>
+<th>Washington</th>
+<th>Northwest US</th>
+<th>North America</th>
+<th>Forest</th>
+<th>Temperate</th>
+<th>80</th>
+<th>Yes</th>
+<th>2</th>
+<th>1</th>
+<th>2</th>
+<th></th>
+<th>1</th>
+<th></th>
+</tr>
+<tr class="even">
+<th>783</th>
+<th>Portland</th>
+<th>Oregon</th>
+<th>Northwest US</th>
+<th>North America</th>
+<th>Forest</th>
+<th>Temperate</th>
+<th>80</th>
+<th>No</th>
+<th>2</th>
+<th>1</th>
+<th>2</th>
+<th></th>
+<th>1</th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>784</th>
+<th>Mount Hood</th>
+<th>Oregon</th>
+<th>Northwest US</th>
+<th>North America</th>
+<th>Mountain</th>
+<th>Temperate</th>
+<th>60</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>785</th>
+<th>Klamath Falls</th>
+<th>Oregon</th>
+<th>Northwest US</th>
+<th>North America</th>
+<th>Mountain</th>
+<th>Temperate</th>
+<th>60</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>786</th>
+<th>Eugene</th>
+<th>Oregon</th>
+<th>Northwest US</th>
+<th>North America</th>
+<th>Forest</th>
+<th>Temperate</th>
+<th>80</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>787</th>
+<th>Rapid City</th>
+<th>South Dakota</th>
+<th>Midwest US</th>
+<th>North America</th>
+<th>hills</th>
+<th>Temperate</th>
+<th>80</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>788</th>
+<th>Sioux Falls</th>
+<th>South Dakota</th>
+<th>Midwest US</th>
+<th>North America</th>
+<th>clear</th>
+<th>Temperate</th>
+<th>80</th>
+<th>No</th>
+<th>1</th>
+<th>1</th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>789</th>
+<th>Omaha</th>
+<th>Nebraska</th>
+<th>Midwest US</th>
+<th>North America</th>
+<th>clear</th>
+<th>Temperate</th>
+<th>80</th>
+<th>No</th>
+<th>3</th>
+<th>1</th>
+<th>3</th>
+<th></th>
+<th>2</th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>790</th>
+<th>Scottsbluff</th>
+<th>Nebraska</th>
+<th>Midwest US</th>
+<th>North America</th>
+<th>clear</th>
+<th>Temperate</th>
+<th>80</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th>32</th>
+<th></th>
+</tr>
+<tr class="even">
+<th>791</th>
+<th>Smoky Hill</th>
+<th>Kansas</th>
+<th>Southcentral US</th>
+<th>North America</th>
+<th>clear</th>
+<th>Temperate</th>
+<th>80</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th>16</th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>792</th>
+<th>Topeka</th>
+<th>Kansas</th>
+<th>Southcentral US</th>
+<th>North America</th>
+<th>clear</th>
+<th>Temperate</th>
+<th>80</th>
+<th>No</th>
+<th>2</th>
+<th>1</th>
+<th>2</th>
+<th></th>
+<th>11</th>
+<th></th>
+</tr>
+<tr class="even">
+<th>793</th>
+<th>Tulsa</th>
+<th>Oklahoma</th>
+<th>Southcentral US</th>
+<th>North America</th>
+<th>Clear</th>
+<th>Temperate</th>
+<th>80</th>
+<th>No</th>
+<th>2</th>
+<th>1</th>
+<th>2</th>
+<th>38</th>
+<th>11</th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>794</th>
+<th>Fort Resolution</th>
+<th>Northwest Territories</th>
+<th>Northern Canada</th>
+<th>North America</th>
+<th>Clear</th>
+<th>Arctic</th>
+<th>20</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>795</th>
+<th>Prince Albert</th>
+<th>Saskatchewan</th>
+<th>Canada</th>
+<th>North America</th>
+<th>Clear</th>
+<th>Subarctic</th>
+<th>40</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>796</th>
+<th>Edmonton</th>
+<th>Alberta</th>
+<th>Western Canada</th>
+<th>North America</th>
+<th>Clear</th>
+<th>Subarctic</th>
+<th>60</th>
+<th>No</th>
+<th>1</th>
+<th>1</th>
+<th>7</th>
+<th>4</th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>797</th>
+<th>Calgary</th>
+<th>Alberta</th>
+<th>Western Canada</th>
+<th>North America</th>
+<th>Clear</th>
+<th>Subarctic</th>
+<th>80</th>
+<th>No</th>
+<th>1</th>
+<th></th>
+<th>7</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>798</th>
+<th>Saskatoon</th>
+<th>Saskatchewan</th>
+<th>Canada</th>
+<th>North America</th>
+<th>Clear</th>
+<th>Subarctic</th>
+<th>60</th>
+<th>No</th>
+<th>1</th>
+<th>1</th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>799</th>
+<th>Regina</th>
+<th>Saskatchewan</th>
+<th>Canada</th>
+<th>North America</th>
+<th>Clear</th>
+<th>Subarctic</th>
+<th>80</th>
+<th>No</th>
+<th>1</th>
+<th>1</th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>800</th>
+<th>Greenland</th>
+<th>Greenland</th>
+<th>Greenland</th>
+<th>North America</th>
+<th>Clear</th>
+<th>Arctic</th>
+<th>20</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even" data-bgcolor="ffff66">
+<th>ID</th>
+<th>Province name</th>
+<th>Area</th>
+<th>Region</th>
+<th>Continent</th>
+<th>Terrain</th>
+<th>Climate</th>
+<th>Infra</th>
+<th>Beach?</th>
+<th>IC</th>
+<th>Manpower</th>
+<th>Energy</th>
+<th>Oil</th>
+<th>Metal</th>
+<th>Rare Materials</th>
+</tr>
+<tr class="odd">
+<th><h2 id="section-16"><span id="801" class="mw-headline"> 801
+</span></h2></th>
+<th>Curacao</th>
+<th>Hispaniola</th>
+<th>Caribbean</th>
+<th>North America</th>
+<th>Hills</th>
+<th>Tropical</th>
+<th>60</th>
+<th>Yes</th>
+<th>1</th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>802</th>
+<th>Barquisimeto</th>
+<th>Maracaibo</th>
+<th>Grand Colombia</th>
+<th>South America</th>
+<th>Hills</th>
+<th>Tropical</th>
+<th>60</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>803</th>
+<th>Barranquilla</th>
+<th>Maracaibo</th>
+<th>Grand Colombia</th>
+<th>South America</th>
+<th>Clear</th>
+<th>Tropical</th>
+<th>60</th>
+<th>Yes</th>
+<th>2</th>
+<th>2</th>
+<th>2</th>
+<th></th>
+<th>1</th>
+<th></th>
+</tr>
+<tr class="even">
+<th>804</th>
+<th>Maracaibo</th>
+<th>Maracaibo</th>
+<th>Grand Colombia</th>
+<th>South America</th>
+<th>Mountain</th>
+<th>Subtropical</th>
+<th>60</th>
+<th>Yes</th>
+<th>1</th>
+<th>1</th>
+<th>1</th>
+<th>110</th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>805</th>
+<th>St. Lucia</th>
+<th>Antilles</th>
+<th>Caribbean</th>
+<th>North America</th>
+<th>Mountain</th>
+<th>Subtropical</th>
+<th>60</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>806</th>
+<th>St. George's</th>
+<th>Antilles</th>
+<th>Caribbean</th>
+<th>North America</th>
+<th>Hills</th>
+<th>Tropical</th>
+<th>60</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>807</th>
+<th>Barbados</th>
+<th>Antilles</th>
+<th>Caribbean</th>
+<th>North America</th>
+<th>Hills</th>
+<th>Tropical</th>
+<th>60</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>808</th>
+<th>Tobago</th>
+<th>Antilles</th>
+<th>Caribbean</th>
+<th>North America</th>
+<th>Jungle</th>
+<th>Tropical</th>
+<th>60</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>809</th>
+<th>Trinidad</th>
+<th>Antilles</th>
+<th>Caribbean</th>
+<th>North America</th>
+<th>Clear</th>
+<th>Tropical</th>
+<th>60</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th>10</th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>810</th>
+<th>Cumaná</th>
+<th>Caracas</th>
+<th>Grand Colombia</th>
+<th>South America</th>
+<th>Jungle</th>
+<th>Tropical</th>
+<th>60</th>
+<th>Yes</th>
+<th>1</th>
+<th>1</th>
+<th>1</th>
+<th></th>
+<th>1</th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>811</th>
+<th>Caracas</th>
+<th>Caracas</th>
+<th>Grand Colombia</th>
+<th>South America</th>
+<th>Jungle</th>
+<th>Tropical</th>
+<th>60</th>
+<th>Yes</th>
+<th>6</th>
+<th>6</th>
+<th>11</th>
+<th></th>
+<th>6</th>
+<th>3</th>
+</tr>
+<tr class="even">
+<th>812</th>
+<th>Cúcuta</th>
+<th>Maracaibo</th>
+<th>Grand Colombia</th>
+<th>South America</th>
+<th>Hills</th>
+<th>Tropical</th>
+<th>40</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>813</th>
+<th>Bogotá</th>
+<th>Panaman Ridge</th>
+<th>Grand Colombia</th>
+<th>South America</th>
+<th>Mountain</th>
+<th>Tropical</th>
+<th>60</th>
+<th>No</th>
+<th>7</th>
+<th>7</th>
+<th>12</th>
+<th>10</th>
+<th>7</th>
+<th>4</th>
+</tr>
+<tr class="even">
+<th>814</th>
+<th>Guayaquil</th>
+<th>Quito</th>
+<th>Andes</th>
+<th>South America</th>
+<th>Clear</th>
+<th>Mediterranean</th>
+<th>60</th>
+<th>Yes</th>
+<th>1</th>
+<th>1</th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>815</th>
+<th>Quito</th>
+<th>Quito</th>
+<th>Andes</th>
+<th>South America</th>
+<th>Mountain</th>
+<th>Temperate</th>
+<th>60</th>
+<th>No</th>
+<th>5</th>
+<th>6</th>
+<th>10</th>
+<th></th>
+<th>5</th>
+<th>3</th>
+</tr>
+<tr class="even">
+<th>816</th>
+<th>Trujillo</th>
+<th>Lima</th>
+<th>Andes</th>
+<th>South America</th>
+<th>Mountain</th>
+<th>Mediterranean</th>
+<th>60</th>
+<th>Yes</th>
+<th>1</th>
+<th>1</th>
+<th>1</th>
+<th>6</th>
+<th>1</th>
+<th>1</th>
+</tr>
+<tr class="odd">
+<th>817</th>
+<th>Tigre</th>
+<th>Quito</th>
+<th>Amazonas</th>
+<th>South America</th>
+<th>Jungle</th>
+<th>Tropical</th>
+<th>40</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th>2</th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>818</th>
+<th>Iquitos</th>
+<th>Iquitos</th>
+<th>Amazonas</th>
+<th>South America</th>
+<th>Jungle</th>
+<th>Tropical</th>
+<th>20</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>819</th>
+<th>Mitú</th>
+<th>Iquitos</th>
+<th>Amazonas</th>
+<th>South America</th>
+<th>Jungle</th>
+<th>Tropical</th>
+<th>20</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>820</th>
+<th>Solimões</th>
+<th>Manaus</th>
+<th>Amazonas</th>
+<th>South America</th>
+<th>Jungle</th>
+<th>Tropical</th>
+<th>20</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>821</th>
+<th>Pucallpa</th>
+<th>Lima</th>
+<th>Amazonas</th>
+<th>South America</th>
+<th>Jungle</th>
+<th>Tropical</th>
+<th>20</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>822</th>
+<th>Rio Branco</th>
+<th>Manaus</th>
+<th>Amazonas</th>
+<th>South America</th>
+<th>Jungle</th>
+<th>Tropical</th>
+<th>20</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th>1</th>
+</tr>
+<tr class="odd">
+<th>823</th>
+<th>Tefé</th>
+<th>Manaus</th>
+<th>Amazonas</th>
+<th>South America</th>
+<th>Jungle</th>
+<th>Tropical</th>
+<th>20</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>824</th>
+<th>Manaus</th>
+<th>Manaus</th>
+<th>Amazonas</th>
+<th>South America</th>
+<th>Jungle</th>
+<th>Tropical</th>
+<th>40</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th>3</th>
+</tr>
+<tr class="odd">
+<th>825</th>
+<th>Pôrto Velho</th>
+<th>Manaus</th>
+<th>Amazonas</th>
+<th>South America</th>
+<th>Jungle</th>
+<th>Tropical</th>
+<th>20</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th>2</th>
+</tr>
+<tr class="even">
+<th>826</th>
+<th>Santarém</th>
+<th>Manaus</th>
+<th>Amazonas</th>
+<th>South America</th>
+<th>Jungle</th>
+<th>Tropical</th>
+<th>40</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th>3</th>
+</tr>
+<tr class="odd">
+<th>827</th>
+<th>Riberalta</th>
+<th>La Paz</th>
+<th>Amazonas</th>
+<th>South America</th>
+<th>Hills</th>
+<th>Tropical</th>
+<th>20</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>828</th>
+<th>Cobija</th>
+<th>La Paz</th>
+<th>Amazonas</th>
+<th>South America</th>
+<th>Jungle</th>
+<th>Tropical</th>
+<th>20</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>829</th>
+<th>Cuzco</th>
+<th>Lima</th>
+<th>Amazonas</th>
+<th>South America</th>
+<th>Mountain</th>
+<th>Temperate</th>
+<th>60</th>
+<th>No</th>
+<th>1</th>
+<th>1</th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>830</th>
+<th>Lima</th>
+<th>Lima</th>
+<th>Andes</th>
+<th>South America</th>
+<th>Mountain</th>
+<th>Mediterranean</th>
+<th>60</th>
+<th>Yes</th>
+<th>7</th>
+<th>7</th>
+<th>12</th>
+<th></th>
+<th>12</th>
+<th>3</th>
+</tr>
+<tr class="odd">
+<th>831</th>
+<th>Arequipa</th>
+<th>Lima</th>
+<th>Andes</th>
+<th>South America</th>
+<th>Mountain</th>
+<th>Mediterranean</th>
+<th>60</th>
+<th>Yes</th>
+<th>1</th>
+<th>1</th>
+<th>1</th>
+<th></th>
+<th>4</th>
+<th></th>
+</tr>
+<tr class="even">
+<th>832</th>
+<th>La Paz</th>
+<th>La Paz</th>
+<th>Andes</th>
+<th>South America</th>
+<th>Mountain</th>
+<th>Temperate</th>
+<th>60</th>
+<th>No</th>
+<th>6</th>
+<th>6</th>
+<th>11</th>
+<th></th>
+<th>32</th>
+<th>3</th>
+</tr>
+<tr class="odd">
+<th>833</th>
+<th>Perseverancia</th>
+<th>Mato Grosso</th>
+<th>Brazilian Highlands</th>
+<th>South America</th>
+<th>Jungle</th>
+<th>Mediterranean</th>
+<th>20</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>834</th>
+<th>Cuiabá</th>
+<th>Mato Grosso</th>
+<th>Brazilian Highlands</th>
+<th>South America</th>
+<th>Hills</th>
+<th>Subtropical</th>
+<th>40</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>835</th>
+<th>Mato Grosso</th>
+<th>Mato Grosso</th>
+<th>Brazilian Highlands</th>
+<th>South America</th>
+<th>Clear</th>
+<th>Subtropical</th>
+<th>40</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>836</th>
+<th>Santa Cruz</th>
+<th>Asuncion</th>
+<th>Gran Chaco</th>
+<th>South America</th>
+<th>Desert</th>
+<th>Arid</th>
+<th>40</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>837</th>
+<th>Asunción</th>
+<th>Asuncion</th>
+<th>Gran Chaco</th>
+<th>South America</th>
+<th>Clear</th>
+<th>Subtropical</th>
+<th>40</th>
+<th>No</th>
+<th>5</th>
+<th>5</th>
+<th>10</th>
+<th></th>
+<th>5</th>
+<th>3</th>
+</tr>
+<tr class="even">
+<th>838</th>
+<th>Sucre</th>
+<th>Asuncion</th>
+<th>Andes</th>
+<th>South America</th>
+<th>Mountain</th>
+<th>Temperate</th>
+<th>40</th>
+<th>No</th>
+<th>1</th>
+<th>1</th>
+<th></th>
+<th></th>
+<th>32</th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>839</th>
+<th>Antofagasta</th>
+<th>Chile</th>
+<th>Andes</th>
+<th>South America</th>
+<th>Desert</th>
+<th>Arid</th>
+<th>60</th>
+<th>Yes</th>
+<th>1</th>
+<th></th>
+<th>1</th>
+<th></th>
+<th>56</th>
+<th></th>
+</tr>
+<tr class="even">
+<th>840</th>
+<th>Santiago</th>
+<th>Chile</th>
+<th>Andes</th>
+<th>South America</th>
+<th>Mountain</th>
+<th>Mediterranean</th>
+<th>60</th>
+<th>Yes</th>
+<th>9</th>
+<th>7</th>
+<th>15</th>
+<th></th>
+<th>10</th>
+<th>4</th>
+</tr>
+<tr class="odd">
+<th>841</th>
+<th>Juan Fernández Archipelago</th>
+<th>Chilean Archipelago</th>
+<th>Andes</th>
+<th>South America</th>
+<th>Clear</th>
+<th>Temperate</th>
+<th>60</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>842</th>
+<th>Isla San Félix</th>
+<th>Chilean Archipelago</th>
+<th>Andes</th>
+<th>South America</th>
+<th>Clear</th>
+<th>Temperate</th>
+<th>60</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>843</th>
+<th>San Miguel de Tucumán</th>
+<th>Upper Argentine</th>
+<th>Andes</th>
+<th>South America</th>
+<th>Mountain</th>
+<th>Temperate</th>
+<th>40</th>
+<th>No</th>
+<th>1</th>
+<th>1</th>
+<th>1</th>
+<th></th>
+<th>2</th>
+<th></th>
+</tr>
+<tr class="even">
+<th>844</th>
+<th>Corrientes</th>
+<th>Upper Argentine</th>
+<th>Gran Chaco</th>
+<th>South America</th>
+<th>Jungle</th>
+<th>Subtropical</th>
+<th>40</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>845</th>
+<th>Córdoba</th>
+<th>Upper Argentine</th>
+<th>Gran Chaco</th>
+<th>South America</th>
+<th>Hills</th>
+<th>Subtropical</th>
+<th>40</th>
+<th>No</th>
+<th>2</th>
+<th>1</th>
+<th>5</th>
+<th></th>
+<th>1</th>
+<th></th>
+</tr>
+<tr class="even">
+<th>846</th>
+<th>Ciudad del Este</th>
+<th>Upper Argentine</th>
+<th>Gran Chaco</th>
+<th>South America</th>
+<th>Jungle</th>
+<th>Subtropical</th>
+<th>60</th>
+<th>No</th>
+<th>1</th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>847</th>
+<th>Curitiba</th>
+<th>Sao Paulo</th>
+<th>Brazilian Highlands</th>
+<th>South America</th>
+<th>Mountain</th>
+<th>Mediterranean</th>
+<th>60</th>
+<th>Yes</th>
+<th>2</th>
+<th>2</th>
+<th>7</th>
+<th></th>
+<th>1</th>
+<th></th>
+</tr>
+<tr class="even">
+<th>848</th>
+<th>Pôrto Alegre</th>
+<th>Sao Paulo</th>
+<th>Brazilian Highlands</th>
+<th>South America</th>
+<th>Hills</th>
+<th>Mediterranean</th>
+<th>60</th>
+<th>Yes</th>
+<th>2</th>
+<th>2</th>
+<th>4</th>
+<th></th>
+<th>1</th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>849</th>
+<th>Montevideo</th>
+<th>La Plata</th>
+<th>Rio de la Plata</th>
+<th>South America</th>
+<th>Hills</th>
+<th>Mediterranean</th>
+<th>60</th>
+<th>Yes</th>
+<th>8</th>
+<th>7</th>
+<th>14</th>
+<th></th>
+<th>7</th>
+<th>4</th>
+</tr>
+</tbody>
+</table>
+:::

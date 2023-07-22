@@ -2,1029 +2,15742 @@
 title: Provinces_by_ID,_part_3
 ---
 
-This overview shows provinces with IDs ranging from **1700** to **2700** sorted numerically. Lower ID in [Part 1 ( **1** to **849** )](/wiki/Provinces_by_ID,_part_1 "Provinces by ID, part 1") and [Part 2 ( **850** to **1699**](/wiki/Provinces_by_ID,_part_2 "Provinces by ID, part 2") .
+::: mw-parser-output
+This overview shows provinces with IDs ranging from **1700** to **2700**
+sorted numerically. Lower ID in [Part 1 ( **1** to **849**
+)](/wiki/Provinces_by_ID,_part_1 "Provinces by ID, part 1") and [Part 2
+( **850** to
+**1699**](/wiki/Provinces_by_ID,_part_2 "Provinces by ID, part 2") .
 
-## Contents
+::: {#toc .toc aria-labelledby="mw-toc-heading" role="navigation"}
+::: {.toctitle dir="ltr" lang="en"}
 
-- [1 1700](#1700)
-- [2 1750](#1750)
-- [3 1800](#1800)
-- [4 1850](#1850)
-- [5 1900](#1900)
-- [6 1950](#1950)
-- [7 2000](#2000)
-- [8 2050](#2050)
-- [9 2100](#2100)
-- [10 2150](#2150)
-- [11 2200](#2200)
-- [12 2250](#2250)
-- [13 2300](#2300)
-- [14 2350](#2350)
-- [15 2400](#2400)
-- [16 2450](#2450)
-- [17 2500](#2500)
-- [18 2550](#2550)
-- [19 2600](#2600)
+## Contents {#mw-toc-heading}
+
+[ ]{.toctogglespan}
+:::
+
+- [[ 1 ]{.tocnumber} [ 1700 ]{.toctext}](#1700)
+- [[ 2 ]{.tocnumber} [ 1750 ]{.toctext}](#1750)
+- [[ 3 ]{.tocnumber} [ 1800 ]{.toctext}](#1800)
+- [[ 4 ]{.tocnumber} [ 1850 ]{.toctext}](#1850)
+- [[ 5 ]{.tocnumber} [ 1900 ]{.toctext}](#1900)
+- [[ 6 ]{.tocnumber} [ 1950 ]{.toctext}](#1950)
+- [[ 7 ]{.tocnumber} [ 2000 ]{.toctext}](#2000)
+- [[ 8 ]{.tocnumber} [ 2050 ]{.toctext}](#2050)
+- [[ 9 ]{.tocnumber} [ 2100 ]{.toctext}](#2100)
+- [[ 10 ]{.tocnumber} [ 2150 ]{.toctext}](#2150)
+- [[ 11 ]{.tocnumber} [ 2200 ]{.toctext}](#2200)
+- [[ 12 ]{.tocnumber} [ 2250 ]{.toctext}](#2250)
+- [[ 13 ]{.tocnumber} [ 2300 ]{.toctext}](#2300)
+- [[ 14 ]{.tocnumber} [ 2350 ]{.toctext}](#2350)
+- [[ 15 ]{.tocnumber} [ 2400 ]{.toctext}](#2400)
+- [[ 16 ]{.tocnumber} [ 2450 ]{.toctext}](#2450)
+- [[ 17 ]{.tocnumber} [ 2500 ]{.toctext}](#2500)
+- [[ 18 ]{.tocnumber} [ 2550 ]{.toctext}](#2550)
+- [[ 19 ]{.tocnumber} [ 2600 ]{.toctext}](#2600)
+  :::
 
 Data has been updated for version **1.1** .
 
-| ID  | Province name | Area | Region | Continent | Terrain | Climate | Infra | Beach? | IC  | Manpower | Energy | Oil | Metal | Rare Materials |
-| --- | ------------- | ---- | ------ | --------- | ------- | ------- | ----- | ------ | --- | -------- | ------ | --- | ----- | -------------- |
+<table data-border="1" data-cellpadding="1" data-cellspacing="0"
+style="font-size: 85%; border: gray solid 1px; border-collapse: collapse; text-align: center;"
+width="95%">
+<colgroup>
+<col style="width: 6%" />
+<col style="width: 6%" />
+<col style="width: 6%" />
+<col style="width: 6%" />
+<col style="width: 6%" />
+<col style="width: 6%" />
+<col style="width: 6%" />
+<col style="width: 6%" />
+<col style="width: 6%" />
+<col style="width: 6%" />
+<col style="width: 6%" />
+<col style="width: 6%" />
+<col style="width: 6%" />
+<col style="width: 6%" />
+<col style="width: 6%" />
+</colgroup>
+<tbody>
+<tr class="header" data-bgcolor="ffff66">
+<th>ID</th>
+<th>Province name</th>
+<th>Area</th>
+<th>Region</th>
+<th>Continent</th>
+<th>Terrain</th>
+<th>Climate</th>
+<th>Infra</th>
+<th>Beach?</th>
+<th>IC</th>
+<th>Manpower</th>
+<th>Energy</th>
+<th>Oil</th>
+<th>Metal</th>
+<th>Rare Materials</th>
+</tr>
 
-|
-1700
-
----
-
-| Mount Isa | Darwin | Australia | Asia | Clear | Subtropical | 20 | No | | | | | 3 | |
-| 1701 | Borroloola | Darwin | Australia | Asia | Clear | Subtropical | 40 | Yes | | | | | | |
-| 1702 | Nhulunbuy | Darwin | Australia | Asia | Forest | Subtropical | 40 | Yes | | | | | | |
-| 1703 | Darwin | Darwin | Australia | Asia | Forest | Subtropical | 60 | Yes | | | | | | |
-| 1704 | Katherine | Darwin | Australia | Asia | Forest | Subtropical | 40 | Yes | | | | | | |
-| 1705 | Barrow Creek | Alice Springs | Australia | Asia | Clear | Subtropical | 20 | No | | | | | | |
-| 1706 | Wyndham | Darwin | Australia | Asia | Forest | Subtropical | 20 | No | | | | | | |
-| 1707 | Wave Hill | Darwin | Australia | Asia | Clear | Subtropical | 20 | No | | | | | | |
-| 1708 | Broome | Darwin | Australia | Asia | Clear | Subtropical | 40 | No | | | | | | |
-| 1709 | Goldsworthy | Perth | Australia | Asia | Desert | Arid | 40 | No | | | | | | |
-| 1710 | Carnarvon | Perth | Australia | Asia | Clear | Mediterranean | 60 | Yes | | | | | | |
-| 1711 | Geraldton | Perth | Australia | Asia | Clear | Mediterranean | 60 | Yes | | | | | | |
-| 1712 | Perth | Perth | Australia | Asia | Forest | Mediterranean | 60 | Yes | 1 | | 1 | | | |
-| 1713 | Esperance | Perth | Australia | Asia | Clear | Mediterranean | 20 | Yes | | | | | | |
-| 1714 | Laverton | Alice Springs | Australia | Asia | Desert | Arid | 0 | No | | | | | | |
-| 1715 | Gibson Desert | Alice Springs | Australia | Asia | Desert | Arid | 0 | No | | | | | | |
-| 1716 | Penong | Adelaide | Australia | Asia | Desert | Arid | 20 | Yes | | | | | | |
-| 1717 | Port Lincoln | Adelaide | Australia | Asia | Clear | Mediterranean | 60 | Yes | | | | | | |
-| 1718 | Port Augusta | Adelaide | Australia | Asia | Clear | Mediterranean | 60 | Yes | | | | | | |
-| 1719 | Birdsville | Alice Springs | Australia | Asia | Desert | Arid | 0 | No | | | | | | |
-| 1720 | Quilpie | Alice Springs | Australia | Asia | Clear | Arid | 20 | No | | | | | | |
-| 1721 | Mitchell | Brisbane | Australia | Asia | Clear | Mediterranean | 40 | No | | | 20 | | | |
-| 1722 | Brisbane | Brisbane | Australia | Asia | Hills | Mediterranean | 80 | Yes | 1 | 1 | 1 | | 1 | |
-| 1723 | Coff's Harbour | Brisbane | Australia | Asia | Hills | Mediterranean | 80 | Yes | | | | | | |
-| 1724 | Newcastle | Sydney | Australia | Asia | Hills | Mediterranean | 80 | Yes | | | 20 | | | |
-| 1725 | Wentworth | Sydney | Australia | Asia | Hills | Mediterranean | 40 | No | | | | | | |
-| 1726 | Cobar | Sydney | Australia | Asia | Clear | Mediterranean | 40 | No | | | | | | |
-| 1727 | Sydney | Sydney | Australia | Asia | Hills | Mediterranean | 80 | Yes | 4 | 2 | 4 | | 2 | 1 |
-| 1728 | Canberra | Melbourne | Australia | Asia | Hills | Mediterranean | 80 | Yes | 5 | 5 | 10 | | 5 | 3 |
-| 1729 | Tasmania | Melbourne | Australia | Asia | Hills | Subtropical | 60 | Yes | | | | | 15 | |
-| 1730 | Melbourne | Melbourne | Australia | Asia | Clear | Mediterranean | 80 | Yes | 3 | 2 | 3 | | 2 | 1 |
-| 1731 | Hay | Melbourne | Australia | Asia | Hills | Mediterranean | 40 | No | | | | | | |
-| 1732 | Mount Gambier | Adelaide | Australia | Asia | Clear | Mediterranean | 60 | Yes | | | | | | |
-| 1733 | Adelaide | Adelaide | Australia | Asia | Clear | Mediterranean | 60 | Yes | 1 | 1 | 1 | | | |
-| 1734 | Broken Hill | Adelaide | Australia | Asia | Clear | Mediterranean | 40 | No | | | | | 31 | |
-| 1735 | Palawan | Palawan_Mindoro | Philippines | Asia | Jungle | Tropical | 40 | Yes | | | | | | |
-| 1736 | Mindoro | Palawan_Mindoro | Philippines | Asia | Forest | Tropical | 40 | Yes | | | | | | |
-| 1737 | Manila | Luzon | Philippines | Asia | Clear | Tropical | 60 | No | 4 | 5 | 11 | | 6 | 4 |
-| 1738 | Bataan | Luzon | Philippines | Asia | Hills | Tropical | 60 | No | | | | | | |
-| 1739 | Clark Field | Luzon | Philippines | Asia | Clear | Tropical | 60 | No | | | | | | |
-| 1740 | Lingayen Gulf | Luzon | Philippines | Asia | Clear | Tropical | 60 | Yes | 1 | 1 | 1 | | | |
-| 1741 | Aparri | Luzon | Philippines | Asia | Hills | Tropical | 60 | Yes | | | | | | |
-| 1742 | Lamon Bay | Luzon | Philippines | Asia | Forest | Tropical | 60 | Yes | | | | | | |
-| 1743 | Legaspi | Luzon | Philippines | Asia | Forest | Tropical | 60 | Yes | 1 | 1 | 1 | | | |
-| 1744 | Samar | Leyte Island Group | Philippines | Asia | Jungle | Tropical | 40 | Yes | | | | | | |
-| 1745 | Leyte | Leyte Island Group | Philippines | Asia | Forest | Tropical | 60 | Yes | | | | | | |
-| 1746 | Panay | Leyte Island Group | Philippines | Asia | Jungle | Tropical | 40 | Yes | 1 | 1 | 1 | | 1 | 1 |
-| 1747 | Negros | Leyte Island Group | Philippines | Asia | Forest | Tropical | 40 | Yes | 1 | 1 | 1 | | 1 | |
-| 1748 | Zamboanga | Mindanao | Philippines | Asia | Hills | Tropical | 40 | Yes | | | | | | |
-| 1749 | Cagayan | Mindanao | Philippines | Asia | Forest | Tropical | 40 | Yes | | 1 | | | 4 | |
-| ID | Province name | Area | Region | Continent | Terrain | Climate | Infra | Beach? | IC | Manpower | Energy | Oil | Metal | Rare Materials |
-|
-
-## 1750
-
-| Davao | Mindanao | Philippines | Asia | Forest | Tropical | 40 | Yes | | | | | | |
-| 1751 | Tahiti | Polynesia | American Pacific | Asia | Clear | Tropical | 80 | Yes | | | | | | |
-| 1752 | Fiji | Fiji | American Pacific | Asia | Clear | Tropical | 80 | Yes | | | | | | |
-| 1753 | Vanua Levu | Fiji | American Pacific | Asia | Clear | Tropical | 80 | Yes | | | | | | |
-| 1754 | Lau Group | Fiji | American Pacific | Asia | Clear | Tropical | 80 | Yes | | | | | | |
-| 1755 | Taveuni | Fiji | American Pacific | Asia | Clear | Tropical | 80 | Yes | | | | | | |
-| 1756 | Samoa | Samoa | American Pacific | Asia | Clear | Tropical | 80 | Yes | | | | | | |
-| 1757 | Tamana | South Gilberts | American Pacific | Asia | Clear | Tropical | 80 | Yes | | | | | | |
-| 1758 | Arorae | South Gilberts | American Pacific | Asia | Clear | Tropical | 80 | Yes | | | | | | |
-| 1759 | Tabiteuea | South Gilberts | American Pacific | Asia | Clear | Tropical | 80 | Yes | | | | | | |
-| 1760 | Nonouti | South Gilberts | American Pacific | Asia | Clear | Tropical | 80 | Yes | | | | | | |
-| 1761 | Apamama | North Gilberts | American Pacific | Asia | Clear | Tropical | 80 | Yes | | | | | | |
-| 1762 | Phoenix Island | Phoenix | American Pacific | Asia | Clear | Tropical | 80 | Yes | | | | | | |
-| 1763 | Christmas Island | Phoenix | American Pacific | Asia | Clear | Tropical | 80 | Yes | | | | | | |
-| 1764 | Jarvis Island | Phoenix | American Pacific | Asia | Clear | Tropical | 80 | Yes | | | | | | |
-| 1765 | Palmyra | Phoenix | American Pacific | Asia | Clear | Tropical | 80 | Yes | | | | | | |
-| 1766 | Johnson Island | Johnson Island | American Pacific | Asia | Clear | Tropical | 80 | Yes | | | | | | |
-| 1767 | Makin | North Gilberts | American Pacific | Asia | Clear | Tropical | 80 | Yes | | | | | | |
-| 1768 | Abaiang | North Gilberts | American Pacific | Asia | Clear | Tropical | 80 | Yes | | | | | | |
-| 1769 | Tarawa | North Gilberts | American Pacific | Asia | Clear | Tropical | 80 | Yes | | | | | | |
-| 1770 | Maiana | North Gilberts | American Pacific | Asia | Clear | Tropical | 80 | Yes | | | | | | |
-| 1771 | Mezen | Arkhangelsk | White Sea Tundra | Europe | Marsh | Subarctic | 40 | No | | | | | | |
-| 1772 | Ukhta | Perm | Urals | Asia | Marsh | Arctic | 20 | No | | | | 2 | | |
-| 1773 | Syktyvkar | Perm | Urals | Asia | Marsh | Subarctic | 40 | No | 1 | 1 | 1 | | | |
-| 1774 | Kotelnich | Kazan | Russia | Europe | Forest | Muddy | 60 | No | | | | | | |
-| 1775 | Yoskar Ola | Kazan | Russia | Europe | Forest | Muddy | 50 | No | | | | | | |
-| 1776 | Cheboksary | Kazan | Russia | Europe | Forest | Muddy | 50 | No | 1 | 1 | 1 | | | |
-| 1777 | Saransk | Kazan | Russia | Europe | Clear | Muddy | 60 | No | 1 | 1 | 1 | | | |
-| 1778 | Ulyanovsk | Kuybyshev | Russia | Europe | Forest | Muddy | 60 | No | 1 | 1 | 1 | | | |
-| 1779 | | \- | \- | \- | Ocean | Temperate | 100 | No | | | | | | |
-| 1780 | Kazan | Kuybyshev | Russia | Europe | Clear | Muddy | 60 | No | 2 | 2 | 2 | | 2 | 1 |
-| 1781 | Melekess | Kuybyshev | Russia | Europe | Clear | Muddy | 60 | No | | | | | | |
-| 1782 | Izhevsk | Kazan | Russia | Europe | Forest | Muddy | 60 | No | 1 | 1 | 1 | | | |
-| 1783 | Kirov | Kazan | Russia | Europe | Forest | Muddy | 60 | No | 1 | 1 | 1 | | | |
-| 1784 | Bonin Islands | Bonin | Asian Pacific | Asia | Hills | Subtropical | 60 | Yes | | | | | | |
-| 1785 | Marcus Island | Marcus_Wake | Asian Pacific | Asia | Desert | Arid | 60 | Yes | | | | | | |
-| 1786 | Wake Island | Marcus_Wake | Asian Pacific | Asia | Clear | Tropical | 60 | Yes | | | | | | |
-| 1787 | Rasht | North Persia | Persia | Asia | Mountain | Mediterranean | 40 | No | | | | | | |
-| 1788 | Hamadan | North Persia | Persia | Asia | Mountain | Arid | 40 | No | | | | | | |
-| 1789 | Bakhtaran | South Persia | Persia | Asia | Clear | Arid | 60 | No | | | | | | |
-| 1790 | Hilla | Iraq | Middle East | Asia | Desert | Arid | 40 | No | | | | | | |
-| 1791 | Karbala | Iraq | Middle East | Asia | Desert | Arid | 20 | No | | | | | | |
-| 1792 | Damascus | Lebanon_Syria | Middle East | Asia | Desert | Arid | 40 | No | | 1 | | | | |
-| 1793 | Tripoli | Lebanon_Syria | Middle East | Asia | Hills | Mediterranean | 60 | Yes | | | | | | |
-| 1794 | Beirut | Lebanon_Syria | Middle East | Asia | Hills | Mediterranean | 60 | Yes | 1 | 1 | 1 | | | |
-| 1795 | Golan | Lebanon_Syria | Middle East | Asia | Hills | Mediterranean | 40 | No | | | | | | |
-| 1796 | Amman | Transjordan | Middle East | Asia | Clear | Mediterranean | 40 | No | | | | | | |
-| 1797 | Jerusalem | Palestine | Middle East | Asia | Hills | Mediterranean | 40 | No | | | | | | |
-| 1798 | Tel Aviv | Palestine | Middle East | Asia | Clear | Mediterranean | 60 | Yes | 1 | 1 | 1 | | | |
-| 1799 | Gaza | Palestine | Middle East | Asia | Clear | Mediterranean | 60 | Yes | | | | | | |
-| ID | Province name | Area | Region | Continent | Terrain | Climate | Infra | Beach? | IC | Manpower | Energy | Oil | Metal | Rare Materials |
-|
-
-## 1800
-
-| el-Arish | Palestine | Middle East | Asia | Desert | Arid | 40 | Yes | | | | | | |
-| 1801 | Sharm el-Sheikh | Suez Channel Area | Middle East | Asia | Desert | Arid | 40 | Yes | | | | | | |
-| 1802 | Akaba | Transjordan | Middle East | Asia | Desert | Arid | 20 | No | | | | | | |
-| 1803 | Bayir | Transjordan | Middle East | Asia | Desert | Arid | 20 | No | | | | | | |
-| 1804 | Medina | Hedjaz | Middle East | Asia | Desert | Arid | 40 | No | | | | | | |
-| 1805 | Jawf | Arabian Desert | Middle East | Asia | Desert | Arid | 20 | No | | | | | | |
-| 1806 | Najaf | Iraq | Middle East | Asia | Desert | Arid | 20 | No | | | | | | |
-| 1807 | Riyadh | Arabian Desert | Middle East | Asia | Desert | Arid | 20 | No | 6 | 6 | 11 | | 6 | 3 |
-| 1808 | Jiddah | Hedjaz | Middle East | Asia | Desert | Arid | 40 | No | | | | | | |
-| 1809 | Abha | Hedjaz | Middle East | Asia | Hills | Mediterranean | 40 | Yes | | | | | | |
-| 1810 | | \- | \- | \- | Ocean | Temperate | 100 | No | | | | | | |
-| 1811 | | \- | \- | \- | Ocean | Temperate | 100 | No | | | | | | |
-| 1812 | Sanaa | Hedjaz | Middle East | Asia | Hills | Mediterranean | 40 | Yes | 6 | 7 | 11 | | 6 | 3 |
-| 1813 | Aden | Yemenite Mountains | Middle East | Asia | Hills | Mediterranean | 60 | Yes | | | | | | |
-| 1814 | Mukalla | Yemenite Mountains | Middle East | Asia | Desert | Arid | 40 | No | | | | | | |
-| 1815 | Socotra | Somalia | Horn of Africa | Africa | Hills | Tropical | 40 | Yes | | | | | | |
-| 1816 | The Seychelles | Madagascar | Madagascar | Africa | Clear | Tropical | 40 | Yes | | | | | | |
-| 1817 | Diego Garcia Island | Diego Garcia Island | Diego Garcia Island | Asia | Clear | Tropical | 60 | Yes | | | | | | |
-| 1818 | Rub al Khali | Arabian Desert | Middle East | Asia | Desert | Arid | 0 | No | | | | | | |
-| 1819 | Mascate | Yemenite Mountains | Middle East | Asia | Desert | Arid | 40 | Yes | 5 | 5 | 10 | | 5 | 3 |
-| 1820 | Doha | Persian Gulf Coast | Middle East | Asia | Desert | Arid | 40 | Yes | | | | 4 | | |
-| 1821 | Dammam | Persian Gulf Coast | Middle East | Asia | Desert | Arid | 40 | Yes | | | | 12 | | |
-| 1822 | Kuweit City | Persian Gulf Coast | Middle East | Asia | Desert | Arid | 40 | Yes | | | | 2 | | |
-| 1823 | Basrah | Iraq | Middle East | Asia | Desert | Arid | 60 | Yes | | | | | | |
-| 1824 | Nasiriyah | Iraq | Middle East | Asia | Marsh | Mediterranean | 60 | No | | 1 | | | | |
-| 1825 | Abadan | South Persia | Persia | Asia | Clear | Mediterranean | 60 | Yes | | | | 40 | | |
-| 1826 | Esfahan | South Persia | Persia | Asia | Mountain | Arid | 40 | No | | | | | | |
-| 1827 | Naberezhnye Chelny | Kuybyshev | Russia | Europe | Clear | Muddy | 60 | No | | | | 2 | | |
-| 1828 | Kuybyshev | Kuybyshev | Russia | Europe | Clear | Muddy | 60 | No | 2 | 2 | 6 | 2 | 6 | 3 |
-| 1829 | Engels | Kuybyshev | Russia | Europe | Clear | Muddy | 60 | No | | | | | | |
-| 1830 | Syzran | Kuybyshev | Russia | Europe | Forest | Muddy | 60 | No | | | | | | |
-| 1831 | Nikolayevka | Kuybyshev | Russia | Europe | Forest | Muddy | 60 | No | | | | | | |
-| 1832 | Saratov | Kuybyshev | Russia | Europe | Forest | Muddy | 60 | No | 2 | 2 | 2 | | 2 | 1 |
-| 1833 | Enotaevka | Stalingrad | Russia | Europe | Desert | Arid | 40 | No | | | | | | |
-| 1834 | Krasnya Sloboda | Stalingrad | Russia | Europe | Clear | Muddy | 60 | No | | | | | | |
-| 1835 | Nikolayevsk | Stalingrad | Russia | Europe | Clear | Muddy | 60 | No | | | | | | |
-| 1836 | Elton | Stalingrad | Russia | Europe | Clear | Muddy | 20 | No | | | | | | |
-| 1837 | Elista | Astrakhan | Kaukasus | Europe | Desert | Arid | 40 | No | | | | | | |
-| 1838 | Astrakhan | Astrakhan | Kaukasus | Europe | Marsh | Temperate | 40 | No | | | | | | |
-| 1839 | Novouzensk | Kuybyshev | Russia | Europe | Clear | Muddy | 60 | No | | | | | | |
-| 1840 | Kotlas | Kirov | White Sea Tundra | Europe | Marsh | Subarctic | 40 | No | | | | | | |
-| 1841 | Velikij Ustyug | Kirov | White Sea Tundra | Europe | Forest | Subarctic | 0 | No | | | | | | |
-| 1842 | Bashanta | Astrakhan | Kaukasus | Europe | Clear | Arid | 20 | No | | | | | | |
-| 1843 | Armavil | Krasnodar | Kaukasus | Europe | Hills | Temperate | 60 | No | | | | | | |
-| 1844 | Maikop | Georgia | Kaukasus | Europe | Mountain | Temperate | 40 | No | | | | 6 | | |
-| 1845 | Tuapse | Georgia | Kaukasus | Europe | Mountain | Mediterranean | 40 | No | | | | | | |
-| 1846 | Voroshilovsk | Astrakhan | Kaukasus | Europe | Hills | Arid | 60 | No | 1 | 1 | 1 | | | |
-| 1847 | Grozny | Astrakhan | Kaukasus | Europe | Hills | Mediterranean | 60 | No | 1 | 1 | 3 | 6 | | |
-| 1848 | Batum | Georgia | Kaukasus | Europe | Mountain | Mediterranean | 40 | Yes | | | | | | |
-| 1849 | Nalchik | Georgia | Kaukasus | Europe | Mountain | Temperate | 40 | No | | | | | | |
-| ID | Province name | Area | Region | Continent | Terrain | Climate | Infra | Beach? | IC | Manpower | Energy | Oil | Metal | Rare Materials |
-|
-
-## 1850
-
-| Tblisi | Georgia | Kaukasus | Europe | Mountain | Temperate | 40 | No | 2 | 2 | 15 | | 6 | 3 |
-| 1851 | Kars | Eastern Anatolia | Anatolia | Asia | Hills | Mediterranean | 40 | No | | | | | | |
-| 1852 | Erzurum | Eastern Anatolia | Anatolia | Asia | Hills | Temperate | 40 | No | | | | | | 3 |
-| 1853 | Elazig | Eastern Anatolia | Anatolia | Asia | Hills | Temperate | 40 | No | | | | | | |
-| 1854 | Batman | Eastern Anatolia | Anatolia | Asia | Hills | Mediterranean | 40 | No | | | | | | |
-| 1855 | Van | Eastern Anatolia | Anatolia | Asia | Mountain | Temperate | 40 | No | | | | | | |
-| 1856 | Yerevan | Armenia_Azerbaijan | Kaukasus | Europe | Mountain | Temperate | 40 | No | 1 | 1 | 1 | | | |
-| 1857 | Makhachkala | Armenia_Azerbaijan | Kaukasus | Europe | Mountain | Mediterranean | 40 | No | 1 | 1 | 1 | | | |
-| 1858 | Kirovabad | Armenia_Azerbaijan | Kaukasus | Europe | Mountain | Temperate | 40 | No | | | | | | |
-| 1859 | Tabriz | North Persia | Persia | Asia | Mountain | Temperate | 40 | No | | 1 | | | | |
-| 1860 | Kirkuk | Iraq | Middle East | Asia | Hills | Arid | 40 | No | | | | | | |
-| 1861 | Dair az Zawr | Lebanon_Syria | Middle East | Asia | Clear | Arid | 40 | No | | | | | | |
-| 1862 | Aleppo | Lebanon_Syria | Middle East | Asia | Hills | Mediterranean | 60 | Yes | | | | | | |
-| 1863 | Hims | Lebanon_Syria | Middle East | Asia | Desert | Arid | 20 | No | | | | | | |
-| 1864 | Mosul | Iraq | Middle East | Asia | Clear | Arid | 40 | No | | | | 12 | | |
-| 1865 | Samarra | Iraq | Middle East | Asia | Desert | Arid | 60 | No | | | | | | |
-| 1866 | Baghdad | Iraq | Middle East | Asia | Desert | Arid | 60 | No | 6 | 6 | 11 | | 6 | 3 |
-| 1867 | The Azores | The Azores | Portugal | Africa | Clear | Mediterranean | 40 | Yes | | | | | | |
-| 1868 | Auckland | New Zealand | Australia | Asia | Forest | Mediterranean | 60 | Yes | 1 | 1 | 1 | | 1 | 1 |
-| 1869 | Napier | New Zealand | Australia | Asia | Clear | Mediterranean | 60 | No | | | | | | |
-| 1870 | New Plymouth | New Zealand | Australia | Asia | Clear | Mediterranean | 60 | Yes | | | | | | |
-| 1871 | Wellington | New Zealand | Australia | Asia | Forest | Mediterranean | 80 | Yes | 6 | 5 | 11 | | 5 | 3 |
-| 1872 | Christchurch | New Zealand | Australia | Asia | Hills | Temperate | 80 | Yes | | | 4 | | | |
-| 1873 | Dunedin | New Zealand | Australia | Asia | Hills | Temperate | 60 | No | | | | | | |
-| 1874 | Polotsk | Polotsk | Belarus | Europe | Forest | Muddy | 60 | No | | | | | | |
-| 1875 | | \- | \- | \- | Ocean | Temperate | 100 | No | | | | | | |
-| 1876 | | \- | \- | \- | Ocean | Temperate | 100 | No | | | | | | |
-| 1877 | Fort Hertz | North Burma | Indochine | Asia | Mountain | Subtropical | 20 | No | | | | | | |
-| 1878 | Ledo | East Bengal | India | Asia | Hills | Subtropical | 20 | No | | | | | | |
-| 1879 | Far East Aleutian Plateau | East Bering Sea | Bering Sea | Asia | Ocean | Arctic | 100 | No | | | | | | |
-| 1880 | Norten Sound | East Bering Sea | Bering Sea | Asia | Ocean | Arctic | 100 | No | | | | | | |
-| 1881 | Bristol Bay | East Bering Sea | Bering Sea | Asia | Ocean | Arctic | 100 | No | | | | | | |
-| 1882 | Northwest Aleutian Trench | Aleutians | North Pacific Ocean | Asia | Ocean | Subtropical | 100 | No | | | | | | |
-| 1883 | New Hebrides Trench | East Coral Sea | Coral Sea | Asia | Ocean | Tropical | 100 | No | | | | | | |
-| 1884 | | \- | \- | \- | Ocean | Temperate | 100 | No | | | | | | |
-| 1885 | | \- | \- | \- | Ocean | Temperate | 100 | No | | | | | | |
-| 1886 | | \- | \- | \- | Ocean | Temperate | 100 | No | | | | | | |
-| 1887 | | \- | \- | \- | Ocean | Temperate | 100 | No | | | | | | |
-| 1888 | | \- | \- | \- | Ocean | Temperate | 100 | No | | | | | | |
-| 1889 | | \- | \- | \- | Ocean | Temperate | 100 | No | | | | | | |
-| 1890 | | \- | \- | \- | Ocean | Temperate | 100 | No | | | | | | |
-| 1891 | | \- | \- | \- | Ocean | Temperate | 100 | No | | | | | | |
-| 1892 | | \- | \- | \- | Ocean | Temperate | 100 | No | | | | | | |
-| 1893 | | \- | \- | \- | Ocean | Temperate | 100 | No | | | | | | |
-| 1894 | | \- | \- | \- | Ocean | Temperate | 100 | No | | | | | | |
-| 1895 | | \- | \- | \- | Ocean | Temperate | 100 | No | | | | | | |
-| 1896 | | \- | \- | \- | Ocean | Temperate | 100 | No | | | | | | |
-| 1897 | | \- | \- | \- | Ocean | Temperate | 100 | No | | | | | | |
-| 1898 | Nai Ga | North Burma | Indochine | Asia | Mountain | Subtropical | 20 | No | | | | | | |
-| 1899 | | \- | \- | \- | Ocean | Temperate | 100 | No | | | | | | |
-| ID | Province name | Area | Region | Continent | Terrain | Climate | Infra | Beach? | IC | Manpower | Energy | Oil | Metal | Rare Materials |
-|
-
-## 1900
-
-| West Bering Strait | East Bering Sea | Bering Sea | Asia | Ocean | Arctic | 100 | No | | | | | | |
-| 1901 | East Aleutian Basin | West Bering Sea | Bering Sea | Asia | Ocean | Arctic | 100 | No | | | | | | |
-| 1902 | Southeast Aleutian Basin | West Bering Sea | Bering Sea | Asia | Ocean | Subarctic | 100 | No | | | | | | |
-| 1903 | Far West Aleutian Plateau | East Bering Sea | Bering Sea | Asia | Ocean | Arctic | 100 | No | | | | | | |
-| 1904 | West Aleutian Plateau | East Bering Sea | Bering Sea | Asia | Ocean | Arctic | 100 | No | | | | | | |
-| 1905 | East Bering Strait | East Bering Sea | Bering Sea | Asia | Ocean | Arctic | 100 | No | | | | | | |
-| 1906 | East Aleutian Plateau | East Bering Sea | Bering Sea | Asia | Ocean | Arctic | 100 | No | | | | | | |
-| 1907 | Baku | Armenia_Azerbaijan | Kaukasus | Europe | Clear | Mediterranean | 60 | No | 2 | 2 | 6 | 58 | 6 | 3 |
-| 1908 | Cape Masoala | Northeast Coast of Madagascar | Coast of Madagascar | Asia | Ocean | Tropical | 100 | No | | | | | | |
-| 1909 | Rivière-du-Loup | Quebec | Eastern Canada | North America | Hills | Temperate | 60 | Yes | | | | | | |
-| 1910 | Valdés Peninsula | Coast of Argentina | Southwest Atlantic Ocean | Indian Ocean | Ocean | Temperate | 100 | No | | | | | | |
-| 1911 | Northeast Aleutian Trench | Aleutians | North Pacific Ocean | North America | Ocean | Arctic | 100 | No | | | | | | |
-| 1912 | Cook Inlet | Gulf of Alaska | West Coast of North America | North America | Ocean | Subarctic | 100 | No | | | | | | |
-| 1913 | Cross Sound | Gulf of Alaska | West Coast of North America | North America | Ocean | Subarctic | 100 | No | | | | | | |
-| 1914 | Dixon Entrance | Gulf of Alaska | West Coast of North America | North America | Ocean | Subarctic | 100 | No | | | | | | |
-| 1915 | Gilbert Seamount | Gulf of Alaska | West Coast of North America | North America | Ocean | Subarctic | 100 | No | | | | | | |
-| 1916 | North Aleutian Trench | Aleutians | North Pacific Ocean | North America | Ocean | Subarctic | 100 | No | | | | | | |
-| 1917 | Central Aleutian Trench | Aleutians | North Pacific Ocean | North America | Ocean | Subarctic | 100 | No | | | | | | |
-| 1918 | East Aleutian Trench | Aleutians | North Pacific Ocean | North America | Ocean | Subarctic | 100 | No | | | | | | |
-| 1919 | Tufts Plain | North Northeast Pacific Basin | North Pacific Ocean | North America | Ocean | Subarctic | 100 | No | | | | | | |
-| 1920 | Eickelburg Seamount | West Coast of the United States | West Coast of North America | North America | Ocean | Subarctic | 100 | No | | | | | | |
-| 1921 | Queen Charlotte Sound | Gulf of Alaska | West Coast of North America | North America | Ocean | Subarctic | 100 | No | | | | | | |
-| 1922 | Strait of Juan de Fuca | West Coast of the United States | West Coast of North America | North America | Ocean | Subarctic | 100 | No | | | | | | |
-| 1923 | Willapa Bay | West Coast of the United States | West Coast of North America | North America | Ocean | Temperate | 100 | No | | | | | | |
-| 1924 | Cornstock Seamount | North Northeast Pacific Basin | North Pacific Ocean | North America | Ocean | Temperate | 100 | No | | | | | | |
-| 1925 | Harris Seamount | North Northeast Pacific Basin | North Pacific Ocean | North America | Ocean | Temperate | 100 | No | | | | | | |
-| 1926 | Chinook Trought | Northwest Pacific Basin | North Pacific Ocean | North America | Ocean | Temperate | 100 | No | | | | | | |
-| 1927 | West Hawaiian Rise | Hawaiian Rise | Central Pacific Ocean | North America | Ocean | Subtropical | 100 | No | | | | | | |
-| 1928 | North Hawaiian Rise | Hawaiian Rise | Central Pacific Ocean | North America | Ocean | Temperate | 100 | No | | | | | | |
-| 1929 | North Central Hawaiian Rise | Hawaiian Rise | Central Pacific Ocean | North America | Ocean | Subtropical | 100 | No | | | | | | |
-| 1930 | West Murray Fracture Zone | Hawaiian Rise | Central Pacific Ocean | North America | Ocean | Temperate | 100 | No | | | | | | |
-| 1931 | Mendelssohn Seamount | Hawaiian Rise | Central Pacific Ocean | North America | Ocean | Subtropical | 100 | No | | | | | | |
-| 1932 | East Murray Fracture Zone | North East Pacific Ocean | East Pacific Ocean | Asia | Ocean | Temperate | 100 | No | | | | | | |
-| 1933 | West Mendocino Fracture Zone | North Northeast Pacific Basin | North Pacific Ocean | North America | Ocean | Temperate | 100 | No | | | | | | |
-| 1934 | East Menocino Fracture Zone | North East Pacific Ocean | East Pacific Ocean | Asia | Ocean | Temperate | 100 | No | | | | | | |
-| 1935 | Patton Escarpment | West Coast of the United States | West Coast of North America | North America | Ocean | Temperate | 100 | No | | | | | | |
-| 1936 | Cape Mendocino | West Coast of the United States | West Coast of North America | North America | Ocean | Temperate | 100 | No | | | | | | |
-| 1937 | San Francisco Bay | West Coast of the United States | West Coast of North America | North America | Ocean | Temperate | 100 | No | | | | | | |
-| 1938 | Santa Barbara Channel | West Coast of the United States | West Coast of North America | North America | Ocean | Temperate | 100 | No | | | | | | |
-| 1939 | Sebastian Vizcaino Bay | West Coast of Mexico | West Coast of North America | North America | Ocean | Subtropical | 100 | No | | | | | | |
-| 1940 | Cedros Trench | West Coast of Mexico | West Coast of North America | North America | Ocean | Subtropical | 100 | No | | | | | | |
-| 1941 | Magdelena Bay | West Coast of Mexico | West Coast of North America | North America | Ocean | Tropical | 100 | No | | | | | | |
-| 1942 | East Molokai Fracture Zone | North East Pacific Ocean | East Pacific Ocean | Asia | Ocean | Subtropical | 100 | No | | | | | | |
-| 1943 | West Molokai Fracture Zone | North East Pacific Ocean | East Pacific Ocean | Asia | Ocean | Subtropical | 100 | No | | | | | | |
-| 1944 | French Frigate Shoals | Hawaiian Rise | Central Pacific Ocean | North America | Ocean | Tropical | 100 | No | | | | | | |
-| 1945 | South Central Hawaiian Rise | Hawaiian Rise | Central Pacific Ocean | North America | Ocean | Tropical | 100 | No | | | | | | |
-| 1946 | Magellan Rise | Carolines | Central Pacific Ocean | Asia | Ocean | Tropical | 100 | No | | | | | | |
-| 1947 | South Hawaiian Rise | Hawaiian Rise | Central Pacific Ocean | Asia | Ocean | Tropical | 100 | No | | | | | | |
-| 1948 | West Magellan Rise | Line Islands | South Pacific Ocean | Asia | Ocean | Tropical | 100 | No | | | | | | |
-| 1949 | East Magellan Rise | Line Islands | South Pacific Ocean | Asia | Ocean | Tropical | 100 | No | | | | | | |
-| ID | Province name | Area | Region | Continent | Terrain | Climate | Infra | Beach? | IC | Manpower | Energy | Oil | Metal | Rare Materials |
-|
-
-## 1950
-
-| South Magellan Rise | Line Islands | South Pacific Ocean | Asia | Ocean | Tropical | 100 | No | | | | | | |
-| 1951 | Central Gilberts | Gilberts | South Pacific Ocean | Asia | Ocean | Tropical | 100 | No | | | | | | |
-| 1952 | Gilberts-Phoenix Passage | Line Islands | South Pacific Ocean | Asia | Ocean | Tropical | 100 | No | | | | | | |
-| 1953 | South Line Islands | Line Islands | South Pacific Ocean | Asia | Ocean | Tropical | 100 | No | | | | | | |
-| 1954 | Central Line Islands | Line Islands | South Pacific Ocean | Asia | Ocean | Tropical | 100 | No | | | | | | |
-| 1955 | North Line Islands | Line Islands | South Pacific Ocean | Asia | Ocean | Tropical | 100 | No | | | | | | |
-| 1956 | West Clarion Fracture Zone | Line Islands | South Pacific Ocean | Asia | Ocean | Tropical | 100 | No | | | | | | |
-| 1957 | Far West Clipperton Fracture Zone | Line Islands | South Pacific Ocean | Asia | Ocean | Tropical | 100 | No | | | | | | |
-| 1958 | West Clipperton Fracture Zone | South East Pacific Ocean | East Pacific Ocean | Asia | Ocean | Tropical | 100 | No | | | | | | |
-| 1959 | East Clipperton Fracture Zone | South East Pacific Ocean | East Pacific Ocean | Asia | Ocean | Tropical | 100 | No | | | | | | |
-| 1960 | Far East Clipperton Fracture Zone | South East Pacific Ocean | East Pacific Ocean | Asia | Ocean | Tropical | 100 | No | | | | | | |
-| 1961 | South Guatamala Basin | North Southeast Pacific Ocean | Southeast Pacific Ocean | Indian Ocean | Ocean | Tropical | 100 | No | | | | | | |
-| 1962 | North Guatamala Basin | West Coast of Central America | West Coast of North America | Indian Ocean | Ocean | Tropical | 100 | No | | | | | | |
-| 1963 | North Peru-Chile Trench | West Coast of Peru | West Coast of South America | Indian Ocean | Ocean | Tropical | 100 | No | | | | | | |
-| 1964 | Manta Bay | West Coast of Peru | West Coast of South America | Indian Ocean | Ocean | Tropical | 100 | No | | | | | | |
-| 1965 | Gulf of Guayaquil | West Coast of Peru | West Coast of South America | Indian Ocean | Ocean | Tropical | 100 | No | | | | | | |
-| 1966 | Samanco Bay | West Coast of Peru | West Coast of South America | Indian Ocean | Ocean | Tropical | 100 | No | | | | | | |
-| 1967 | Central Peru-Chile Trench | West Coast of Peru | West Coast of South America | Indian Ocean | Ocean | Tropical | 100 | No | | | | | | |
-| 1968 | Peru Basin | North Southeast Pacific Ocean | Southeast Pacific Ocean | Indian Ocean | Ocean | Tropical | 100 | No | | | | | | |
-| 1969 | East Easter Fracture Zone | North Southeast Pacific Ocean | Southeast Pacific Ocean | Indian Ocean | Ocean | Tropical | 100 | No | | | | | | |
-| 1970 | East Marquesas Fracture Zone | North Southeast Pacific Ocean | Southeast Pacific Ocean | Indian Ocean | Ocean | Tropical | 100 | No | | | | | | |
-| 1971 | West Easter Fracture Zone | North Southeast Pacific Ocean | Southeast Pacific Ocean | Indian Ocean | Ocean | Tropical | 100 | No | | | | | | |
-| 1972 | Central Marquesas Fracture Zone | North Southeast Pacific Ocean | Southeast Pacific Ocean | Indian Ocean | Ocean | Tropical | 100 | No | | | | | | |
-| 1973 | West Marquesas Fracture Zone | North Southeast Pacific Ocean | Southeast Pacific Ocean | Indian Ocean | Ocean | Tropical | 100 | No | | | | | | |
-| 1974 | Manihiki Plateau | Fiji Basin | South Pacific Ocean | Asia | Ocean | Tropical | 100 | No | | | | | | |
-| 1975 | North Tonga Trench | Fiji Basin | South Pacific Ocean | Asia | Ocean | Tropical | 100 | No | | | | | | |
-| 1976 | Norfolk Ridge | Fiji Basin | South Pacific Ocean | Asia | Ocean | Tropical | 100 | No | | | | | | |
-| 1977 | Kermadec Trench | East Cost of New Zealand | Pacific-Antarctic Ridge | Indian Ocean | Ocean | Temperate | 100 | No | | | | | | |
-| 1978 | East Campbell Plateau | Southwest Pacific Basin | Pacific-Antarctic Ridge | Indian Ocean | Ocean | Subarctic | 100 | No | | | | | | |
-| 1979 | West Louisville Ridge | Southwest Pacific Basin | Pacific-Antarctic Ridge | Indian Ocean | Ocean | Temperate | 100 | No | | | | | | |
-| 1980 | West Tonga Trench | Fiji Basin | South Pacific Ocean | Asia | Ocean | Subtropical | 100 | No | | | | | | |
-| 1981 | East Tonga Trench | Fiji Basin | South Pacific Ocean | Asia | Ocean | Subtropical | 100 | No | | | | | | |
-| 1982 | East Louisville Ridge | Southwest Pacific Basin | Pacific-Antarctic Ridge | Indian Ocean | Ocean | Temperate | 100 | No | | | | | | |
-| 1983 | West Udintsev Fracture Zone | Southwest Pacific Basin | Pacific-Antarctic Ridge | Indian Ocean | Ocean | Subarctic | 100 | No | | | | | | |
-| 1984 | Central Udintsev Fracture Zone | Southeast Pacific Basin | Pacific-Antarctic Ridge | Indian Ocean | Ocean | Subarctic | 100 | No | | | | | | |
-| 1985 | West Eltanin Fracture Zone | Southwest Pacific Basin | Pacific-Antarctic Ridge | Indian Ocean | Ocean | Temperate | 100 | No | | | | | | |
-| 1986 | West Challenger Fracture Zone | South Southeast Pacific Ocean | Southeast Pacific Ocean | Indian Ocean | Ocean | Subtropical | 100 | No | | | | | | |
-| 1987 | Central Challenger Fracture Zone | South Southeast Pacific Ocean | Southeast Pacific Ocean | Indian Ocean | Ocean | Subtropical | 100 | No | | | | | | |
-| 1988 | Central Eltanin Fracture Zone | Southeast Pacific Basin | Pacific-Antarctic Ridge | Indian Ocean | Ocean | Temperate | 100 | No | | | | | | |
-| 1989 | East Udintsev Fracture Zone | Southeast Pacific Basin | Pacific-Antarctic Ridge | Indian Ocean | Ocean | Subarctic | 100 | No | | | | | | |
-| 1990 | East Eltanin Fracture Zone | Southeast Pacific Basin | Pacific-Antarctic Ridge | Indian Ocean | Ocean | Temperate | 100 | No | | | | | | |
-| 1991 | East Challenger Fracture Zone | South Southeast Pacific Ocean | Southeast Pacific Ocean | Indian Ocean | Ocean | Subtropical | 100 | No | | | | | | |
-| 1992 | Northwest Humboldt Plain | Southeast Pacific Basin | Pacific-Antarctic Ridge | Indian Ocean | Ocean | Temperate | 100 | No | | | | | | |
-| 1993 | Southwest Humboldt Plain | Southeast Pacific Basin | Pacific-Antarctic Ridge | Indian Ocean | Ocean | Subarctic | 100 | No | | | | | | |
-| 1994 | Southeast Humboldt Plain | West Coast of Chile | West Coast of South America | Indian Ocean | Ocean | Subarctic | 100 | No | | | | | | |
-| 1995 | Strait of Magellan | West Coast of Chile | West Coast of South America | Indian Ocean | Ocean | Subarctic | 100 | No | | | | | | |
-| 1996 | Cape Horn | Coast of Argentina | Southwest Atlantic Ocean | | Ocean | Subarctic | 100 | No | | | | | | |
-| 1997 | San Jorge Gulf | Coast of Argentina | Southwest Atlantic Ocean | | Ocean | Temperate | 100 | No | | | | | | |
-| 1998 | West Falkland Plateau | Coast of Argentina | Southwest Atlantic Ocean | | Ocean | Subarctic | 100 | No | | | | | | |
-| 1999 | West South Georgia Ridge | Coast of Argentina | Southwest Atlantic Ocean | | Ocean | Subarctic | 100 | No | | | | | | |
-| ID | Province name | Area | Region | Continent | Terrain | Climate | Infra | Beach? | IC | Manpower | Energy | Oil | Metal | Rare Materials |
-|
-
-## 2000
-
-| East South Georgia Ridge | Argentine Plain | Southwest Atlantic Ocean | | Ocean | Subarctic | 100 | No | | | | | | |
-| 2001 | East Falkland Plateau | Argentine Plain | Southwest Atlantic Ocean | | Ocean | Subarctic | 100 | No | | | | | | |
-| 2002 | West South Sandwich Trench | Argentine Plain | Southwest Atlantic Ocean | | Ocean | Subarctic | 100 | No | | | | | | |
-| 2003 | East South Sandwich Trench | Argentine Plain | Southwest Atlantic Ocean | | Ocean | Subarctic | 100 | No | | | | | | |
-| 2004 | Southeast Argentine Plain | Argentine Plain | Southwest Atlantic Ocean | | Ocean | Subarctic | 100 | No | | | | | | |
-| 2005 | America-Antactic Ridge | Angola Plain | Southeast Atlantic Ocean | | Ocean | Subarctic | 100 | No | | | | | | |
-| 2006 | West Atlantic-Indian Ridge | Atlantic-Indian Ridge | Cape of Good Hope | | Ocean | Subarctic | 100 | No | | | | | | |
-| 2007 | Cape Plain | Atlantic-Indian Ridge | Cape of Good Hope | | Ocean | Temperate | 100 | No | | | | | | |
-| 2008 | Algoa Bay | Coast of South Africa | Cape of Good Hope | Indian Ocean | Ocean | Subtropical | 100 | No | | | | | | |
-| 2009 | East Atlantic-Indian Ridge | Atlantic-Indian Ridge | Cape of Good Hope | Indian Ocean | Ocean | Subarctic | 100 | No | | | | | | |
-| 2010 | Agulhas Plateau | Atlantic-Indian Ridge | Cape of Good Hope | Indian Ocean | Ocean | Temperate | 100 | No | | | | | | |
-| 2011 | Wild Coast | Coast of South Africa | Cape of Good Hope | Indian Ocean | Ocean | Subtropical | 100 | No | | | | | | |
-| 2012 | Delagoa Bay | Coast of South Africa | Cape of Good Hope | Indian Ocean | Ocean | Subtropical | 100 | No | | | | | | |
-| 2013 | South Natal Basin | Southwest Indian Ocean | South Indian Ocean | Indian Ocean | Ocean | Temperate | 100 | No | | | | | | |
-| 2014 | Southwest Indian Ridge | Southwest Indian Ocean | South Indian Ocean | Indian Ocean | Ocean | Subarctic | 100 | No | | | | | | |
-| 2015 | Southwest Madagascar Basin | Southwest Indian Ocean | South Indian Ocean | Indian Ocean | Ocean | Temperate | 100 | No | | | | | | |
-| 2016 | Inhambane Bay | South Mozambique Channel | Mozambique Channel | Indian Ocean | Ocean | Tropical | 100 | No | | | | | | |
-| 2017 | Sofala Bay | South Mozambique Channel | Mozambique Channel | Indian Ocean | Ocean | Tropical | 100 | No | | | | | | |
-| 2018 | Mouth of the Tsiribihina | South Mozambique Channel | Mozambique Channel | Indian Ocean | Ocean | Tropical | 100 | No | | | | | | |
-| 2019 | Cape Ankaboa | South Mozambique Channel | Mozambique Channel | Indian Ocean | Ocean | Tropical | 100 | No | | | | | | |
-| 2020 | East Natal Basin | Southeast Coast of Madagascar | Coast of Madagascar | Indian Ocean | Ocean | Subtropical | 100 | No | | | | | | |
-| 2021 | Cape Sainte-Maire | Southeast Coast of Madagascar | Coast of Madagascar | Indian Ocean | Ocean | Subtropical | 100 | No | | | | | | |
-| 2022 | Northwest Madagascar Basin | Southeast Coast of Madagascar | Coast of Madagascar | Indian Ocean | Ocean | Subtropical | 100 | No | | | | | | |
-| 2023 | Mouth of the Manambovo | Southeast Coast of Madagascar | Coast of Madagascar | Indian Ocean | Ocean | Subtropical | 100 | No | | | | | | |
-| 2024 | Mouth of the Mananara | Southeast Coast of Madagascar | Coast of Madagascar | Indian Ocean | Ocean | Tropical | 100 | No | | | | | | |
-| 2025 | Northeast Madagascar Basin | Mascarene Plateau | West Indian Ocean | Indian Ocean | Ocean | Subtropical | 100 | No | | | | | | |
-| 2026 | South Mascarene Plateau | Mascarene Plateau | West Indian Ocean | Indian Ocean | Ocean | Subtropical | 100 | No | | | | | | |
-| 2027 | East Mascarene Basin | Northeast Coast of Madagascar | Coast of Madagascar | Indian Ocean | Ocean | Tropical | 100 | No | | | | | | |
-| 2028 | Cape d'Andre | Northeast Coast of Madagascar | Coast of Madagascar | Indian Ocean | Ocean | Tropical | 100 | No | | | | | | |
-| 2029 | Bombetoka Bay | North Mozambique Channel | Mozambique Channel | Indian Ocean | Ocean | Tropical | 100 | No | | | | | | |
-| 2030 | Cape Vilanandro | North Mozambique Channel | Mozambique Channel | Indian Ocean | Ocean | Tropical | 100 | No | | | | | | |
-| 2031 | Zanzibar Channel | North Mozambique Channel | Mozambique Channel | Indian Ocean | Ocean | Tropical | 100 | No | | | | | | |
-| 2032 | South Coast of Somalia | Horn of Africa | Arabian Sea | Indian Ocean | Ocean | Tropical | 100 | No | | | | | | |
-| 2033 | West Mascarene Basin | North Mozambique Channel | Mozambique Channel | Indian Ocean | Ocean | Tropical | 100 | No | | | | | | |
-| 2034 | West Mascarene Plateau | Mascarene Plateau | West Indian Ocean | Indian Ocean | Ocean | Tropical | 100 | No | | | | | | |
-| 2035 | East Somali Basin | South Arabian Sea | Arabian Sea | Indian Ocean | Ocean | Tropical | 100 | No | | | | | | |
-| 2036 | South Arabian Basin | South Arabian Sea | Arabian Sea | Indian Ocean | Ocean | Tropical | 100 | No | | | | | | |
-| 2037 | West Arabian Basin | North Arabian Sea | Arabian Sea | Indian Ocean | Ocean | Subtropical | 100 | No | | | | | | |
-| 2038 | Gulf of Halaniyat | North Arabian Sea | Arabian Sea | Indian Ocean | Ocean | Subtropical | 100 | No | | | | | | |
-| 2039 | Gwatar Bay | North Arabian Sea | Arabian Sea | Indian Ocean | Ocean | Subtropical | 100 | No | | | | | | |
-| 2040 | Gulf of Oman | Persian Gulf | Arabian Sea | Indian Ocean | Ocean | Mediterranean | 100 | No | | | | | | |
-| 2041 | Persian Gulf | Persian Gulf | Arabian Sea | Indian Ocean | Ocean | Mediterranean | 100 | No | | | | | | |
-| 2042 | Mouths of the Indus | North Arabian Sea | Arabian Sea | Indian Ocean | Ocean | Tropical | 100 | No | | | | | | |
-| 2043 | Gulf of Khambhat | North Arabian Sea | Arabian Sea | Indian Ocean | Ocean | Subtropical | 100 | No | | | | | | |
-| 2044 | Padua Bank | South Arabian Sea | Arabian Sea | Indian Ocean | Ocean | Tropical | 100 | No | | | | | | |
-| 2045 | Malabar Coast | South Arabian Sea | Arabian Sea | Indian Ocean | Ocean | Tropical | 100 | No | | | | | | |
-| 2046 | Nine Degree Channel | Coast of Ceylon | Bay of Bengal | Asia | Ocean | Tropical | 100 | No | | | | | | |
-| 2047 | Gulf of Mannar | Coast of Ceylon | Bay of Bengal | Asia | Ocean | Tropical | 100 | No | | | | | | |
-| 2048 | North Mid-Indian Basin | Coast of Ceylon | Bay of Bengal | Asia | Ocean | Tropical | 100 | No | | | | | | |
-| 2049 | South Chagos-Laccadive Plateau | South Arabian Sea | Arabian Sea | Indian Ocean | Ocean | Tropical | 100 | No | | | | | | |
-| ID | Province name | Area | Region | Continent | Terrain | Climate | Infra | Beach? | IC | Manpower | Energy | Oil | Metal | Rare Materials |
-|
-
-## 2050
-
-| East Mascarene Plateau | Mascarene Plateau | West Indian Ocean | Indian Ocean | Ocean | Tropical | 100 | No | | | | | | |
-| 2051 | North Mid-Indian Ridge | Mid-Indian Ridge | West Indian Ocean | Indian Ocean | Ocean | Tropical | 100 | No | | | | | | |
-| 2052 | Central Mid-Indian Basin | Ninetyeast Ridge | East Indian Ocean | Asia | Ocean | Tropical | 100 | No | | | | | | |
-| 2053 | North Ninetyeast Ridge | Ninetyeast Ridge | East Indian Ocean | Asia | Ocean | Tropical | 100 | No | | | | | | |
-| 2054 | South Bay of Bengal | West Bay of Bengal | Bay of Bengal | Asia | Ocean | Tropical | 100 | No | | | | | | |
-| 2055 | Central Bay of Bengal | West Bay of Bengal | Bay of Bengal | Asia | Ocean | Tropical | 100 | No | | | | | | |
-| 2056 | West Andaman Sea | East Bay of Bengal | Bay of Bengal | Asia | Ocean | Tropical | 100 | No | | | | | | |
-| 2057 | Palk Strait | Coast of Ceylon | Bay of Bengal | Asia | Ocean | Tropical | 100 | No | | | | | | |
-| 2058 | Mouths of the Krishna | West Bay of Bengal | Bay of Bengal | Asia | Ocean | Tropical | 100 | No | | | | | | |
-| 2059 | West Mouths of the Ganges | West Bay of Bengal | Bay of Bengal | Asia | Ocean | Tropical | 100 | No | | | | | | |
-| 2060 | East Mouths of the Ganges | East Bay of Bengal | Bay of Bengal | Asia | Ocean | Tropical | 100 | No | | | | | | |
-| 2061 | Gulf of Martapan | East Bay of Bengal | Bay of Bengal | Asia | Ocean | Tropical | 100 | No | | | | | | |
-| 2062 | South Andaman Sea | East Bay of Bengal | Bay of Bengal | Asia | Ocean | Tropical | 100 | No | | | | | | |
-| 2063 | Central Mid-Indian Ridge | Mid-Indian Ridge | West Indian Ocean | Indian Ocean | Ocean | Tropical | 100 | No | | | | | | |
-| 2064 | South Mid-Indian Ridge | Mid-Indian Ridge | West Indian Ocean | Indian Ocean | Ocean | Subtropical | 100 | No | | | | | | |
-| 2065 | Southeast Madagascar Basin | Southwest Indian Ocean | South Indian Ocean | Indian Ocean | Ocean | Temperate | 100 | No | | | | | | |
-| 2066 | Crozet Basin | Southwest Indian Ocean | South Indian Ocean | Indian Ocean | Ocean | Subarctic | 100 | No | | | | | | |
-| 2067 | Southeast Indian Ridge | Southeast Indian Ocean | South Indian Ocean | Indian Ocean | Ocean | Subarctic | 100 | No | | | | | | |
-| 2068 | West Broken Ridge | Southeast Indian Ocean | South Indian Ocean | Indian Ocean | Ocean | Temperate | 100 | No | | | | | | |
-| 2069 | East Broken Ridge | Southeast Indian Ocean | South Indian Ocean | Indian Ocean | Ocean | Temperate | 100 | No | | | | | | |
-| 2070 | South Mid-Indian Basin | Ninetyeast Ridge | East Indian Ocean | Asia | Ocean | Subtropical | 100 | No | | | | | | |
-| 2071 | South Ninetyeast Ridge | Ninetyeast Ridge | East Indian Ocean | Asia | Ocean | Subtropical | 100 | No | | | | | | |
-| 2072 | East Andaman Sea | East Bay of Bengal | Bay of Bengal | Asia | Ocean | Tropical | 100 | No | | | | | | |
-| 2073 | North Malacca Strait | Malacca Strait | Java Sea | Asia | Ocean | Tropical | 100 | No | | | | | | |
-| 2074 | Tapanuli Gulf | Java Ridge | Java Sea | Asia | Ocean | Tropical | 100 | No | | | | | | |
-| 2075 | Mentawi Strait | Java Ridge | Java Sea | Asia | Ocean | Tropical | 100 | No | | | | | | |
-| 2076 | Central Java Trench | Java Trench | East Indian Ocean | Asia | Ocean | Tropical | 100 | No | | | | | | |
-| 2077 | Sunda Strait | Java Ridge | Java Sea | Asia | Ocean | Tropical | 100 | No | | | | | | |
-| 2078 | Investigator Ridge | Ninetyeast Ridge | East Indian Ocean | Asia | Ocean | Tropical | 100 | No | | | | | | |
-| 2079 | Wallaby Plateau | Ninetyeast Ridge | East Indian Ocean | Asia | Ocean | Subtropical | 100 | No | | | | | | |
-| 2080 | South Java Trench | Java Trench | East Indian Ocean | Asia | Ocean | Tropical | 100 | No | | | | | | |
-| 2081 | East Java Trench | Java Ridge | Java Sea | Asia | Ocean | Tropical | 100 | No | | | | | | |
-| 2082 | North Australian Basin | Timor Sea | Java Sea | Asia | Ocean | Tropical | 100 | No | | | | | | |
-| 2083 | Cuvier Plateau | West Coast of Australia | East Indian Ocean | Asia | Ocean | Subtropical | 100 | No | | | | | | |
-| 2084 | Perth Basin | Southeast Indian Ocean | South Indian Ocean | Asia | Ocean | Temperate | 100 | No | | | | | | |
-| 2085 | West South Australian Basin | West Great Australian Bight | Great Australian Bight | Asia | Ocean | Subarctic | 100 | No | | | | | | |
-| 2086 | West Continental Slope | West Great Australian Bight | Great Australian Bight | Asia | Ocean | Temperate | 100 | No | | | | | | |
-| 2087 | Cape Naturaliste | West Coast of Australia | East Indian Ocean | Asia | Ocean | Subtropical | 100 | No | | | | | | |
-| 2088 | Shark Bay | West Coast of Australia | East Indian Ocean | Asia | Ocean | Subtropical | 100 | No | | | | | | |
-| 2089 | Exmouth Gulf | West Coast of Australia | East Indian Ocean | Asia | Ocean | Tropical | 100 | No | | | | | | |
-| 2090 | Exmouth Plateau | Timor Sea | Java Sea | Asia | Ocean | Tropical | 100 | No | | | | | | |
-| 2091 | King Sound | Timor Sea | Java Sea | Asia | Ocean | Tropical | 100 | No | | | | | | |
-| 2092 | East South Australian Basin | East Great Australian Bight | Great Australian Bight | Asia | Ocean | Subarctic | 100 | No | | | | | | |
-| 2093 | East Continental Slope | East Great Australian Bight | Great Australian Bight | Asia | Ocean | Temperate | 100 | No | | | | | | |
-| 2094 | West Cape Howe | West Great Australian Bight | Great Australian Bight | Asia | Ocean | Subtropical | 100 | No | | | | | | |
-| 2095 | Sandy Bight | West Great Australian Bight | Great Australian Bight | Asia | Ocean | Subtropical | 100 | No | | | | | | |
-| 2096 | Head of Bight | East Great Australian Bight | Great Australian Bight | Asia | Ocean | Subtropical | 100 | No | | | | | | |
-| 2097 | Spencer Gulf | East Great Australian Bight | Great Australian Bight | Asia | Ocean | Subtropical | 100 | No | | | | | | |
-| 2098 | West Bass Strait | South Tasman Sea | Tasman Sea | Asia | Ocean | Temperate | 100 | No | | | | | | |
-| 2099 | South Tasman Rise | South Tasman Sea | Tasman Sea | Asia | Ocean | Subarctic | 100 | No | | | | | | |
-| ID | Province name | Area | Region | Continent | Terrain | Climate | Infra | Beach? | IC | Manpower | Energy | Oil | Metal | Rare Materials |
-|
-
-## 2100
-
-| East Bass Strait | South Tasman Sea | Tasman Sea | Asia | Ocean | Temperate | 100 | No | | | | | | |
-| 2101 | East South Solomon Trench | East Coral Sea | Coral Sea | Asia | Ocean | Temperate | 100 | No | | | | | | |
-| 2102 | West Cape | South Tasman Sea | Tasman Sea | Asia | Ocean | Temperate | 100 | No | | | | | | |
-| 2103 | Foveaux Strait | East Cost of New Zealand | Pacific-Antarctic Ridge | Pacific Ocean | Ocean | Temperate | 100 | No | | | | | | |
-| 2104 | West Campbell Plateau | East Cost of New Zealand | Pacific-Antarctic Ridge | Pacific Ocean | Ocean | Subarctic | 100 | No | | | | | | |
-| 2105 | Hawke Bay | East Cost of New Zealand | Pacific-Antarctic Ridge | Pacific Ocean | Ocean | Temperate | 100 | No | | | | | | |
-| 2106 | Bay of Plenty | East Cost of New Zealand | Pacific-Antarctic Ridge | Pacific Ocean | Ocean | Subtropical | 100 | No | | | | | | |
-| 2107 | New Caledonia Basin | North Tasman Sea | Tasman Sea | Pacific Ocean | Ocean | Tropical | 100 | No | | | | | | |
-| 2108 | North Cape | North Tasman Sea | Tasman Sea | Pacific Ocean | Ocean | Subtropical | 100 | No | | | | | | |
-| 2109 | Lord Howe Rise | North Tasman Sea | Tasman Sea | Pacific Ocean | Ocean | Temperate | 100 | No | | | | | | |
-| 2110 | Cook Strait | North Tasman Sea | Tasman Sea | Pacific Ocean | Ocean | Temperate | 100 | No | | | | | | |
-| 2111 | Botany Bay | North Tasman Sea | Tasman Sea | Pacific Ocean | Ocean | Subtropical | 100 | No | | | | | | |
-| 2112 | Cape Byron | North Tasman Sea | Tasman Sea | Pacific Ocean | Ocean | Tropical | 100 | No | | | | | | |
-| 2113 | Southwest Great Barrier Reef | West Coral Sea | Coral Sea | Pacific Ocean | Ocean | Tropical | 100 | No | | | | | | |
-| 2114 | Southeast Great Barrier Reef | West Coral Sea | Coral Sea | Pacific Ocean | Ocean | Tropical | 100 | No | | | | | | |
-| 2115 | Central South Solomon Trench | East Coral Sea | Coral Sea | Pacific Ocean | Ocean | Tropical | 100 | No | | | | | | |
-| 2116 | Northeast Great Barrier Reef | West Coral Sea | Coral Sea | Pacific Ocean | Ocean | Tropical | 100 | No | | | | | | |
-| 2117 | Central Solomon Sea | Solomon Sea | Coral Sea | Pacific Ocean | Ocean | Tropical | 100 | No | | | | | | |
-| 2118 | The Slot | Solomon Sea | Coral Sea | Pacific Ocean | Ocean | Tropical | 100 | No | | | | | | |
-| 2119 | South Solomon Sea | Solomon Sea | Coral Sea | Pacific Ocean | Ocean | Tropical | 100 | No | | | | | | |
-| 2120 | West South Solomon Trench | East Coral Sea | Coral Sea | Pacific Ocean | Ocean | Tropical | 100 | No | | | | | | |
-| 2121 | St. George's Channel | Solomon Sea | Coral Sea | Pacific Ocean | Ocean | Tropical | 100 | No | | | | | | |
-| 2122 | Huon Gulf | Solomon Sea | Coral Sea | Pacific Ocean | Ocean | Tropical | 100 | No | | | | | | |
-| 2123 | Ysabel Channel | South Bismarck Sea | Bismarck Sea | Pacific Ocean | Ocean | Tropical | 100 | No | | | | | | |
-| 2124 | Northwest Gilberts | Gilberts | South Pacific Ocean | Pacific Ocean | Ocean | Tropical | 100 | No | | | | | | |
-| 2125 | West Gilberts | Gilberts | South Pacific Ocean | Pacific Ocean | Ocean | Tropical | 100 | No | | | | | | |
-| 2126 | Gulf of Papua | West Coral Sea | Coral Sea | Pacific Ocean | Ocean | Tropical | 100 | No | | | | | | |
-| 2127 | Goodenough Bay | Solomon Sea | Coral Sea | Pacific Ocean | Ocean | Tropical | 100 | No | | | | | | |
-| 2128 | Northwest Great Barrier Reef | West Coral Sea | Coral Sea | Pacific Ocean | Ocean | Tropical | 100 | No | | | | | | |
-| 2129 | Gulf of Carpentaria | West Coral Sea | Coral Sea | Pacific Ocean | Ocean | Tropical | 100 | No | | | | | | |
-| 2130 | Coast of Merauke | Arafura Sea | Moluccas | Pacific Ocean | Ocean | Tropical | 100 | No | | | | | | |
-| 2131 | Torres Strait | West Coral Sea | Coral Sea | Pacific Ocean | Ocean | Tropical | 100 | No | | | | | | |
-| 2132 | Flamingo Gulf | Arafura Sea | Moluccas | Pacific Ocean | Ocean | Tropical | 100 | No | | | | | | |
-| 2133 | Lakahia Gulf | Arafura Sea | Moluccas | Pacific Ocean | Ocean | Tropical | 100 | No | | | | | | |
-| 2134 | Egeron Strait | Arafura Sea | Moluccas | Pacific Ocean | Ocean | Tropical | 100 | No | | | | | | |
-| 2135 | South Banda Sea | Banda Sea | Moluccas | Pacific Ocean | Ocean | Tropical | 100 | No | | | | | | |
-| 2136 | Arafura Shelf | Arafura Sea | Moluccas | Pacific Ocean | Ocean | Tropical | 100 | No | | | | | | |
-| 2137 | Van Diemen Gulf | Timor Sea | Java Sea | Asia | Ocean | Tropical | 100 | No | | | | | | |
-| 2138 | Savu Sea | Flores Sea | Java Sea | Indian Ocean | Ocean | Tropical | 100 | No | | | | | | |
-| 2139 | South Molucca Sea | Molucca Sea | Moluccas | Pacific Ocean | Ocean | Tropical | 100 | No | | | | | | |
-| 2140 | Sape Strait | Flores Sea | Java Sea | Pacific Ocean | Ocean | Tropical | 100 | No | | | | | | |
-| 2141 | Madura Strait | Flores Sea | Java Sea | Pacific Ocean | Ocean | Tropical | 100 | No | | | | | | |
-| 2142 | Bali Strait | Flores Sea | Java Sea | Indian Ocean | Ocean | Tropical | 100 | No | | | | | | |
-| 2143 | Cape Awarawar | Flores Sea | Java Sea | Pacific Ocean | Ocean | Tropical | 100 | No | | | | | | |
-| 2144 | Gaspar Strait | Java Ridge | Java Sea | Pacific Ocean | Ocean | Tropical | 100 | No | | | | | | |
-| 2145 | Serasan Strait | Coast of Brunei | South China Sea | Pacific Ocean | Ocean | Tropical | 100 | No | | | | | | |
-| 2146 | Bangka Strait | Malacca Strait | Java Sea | Pacific Ocean | Ocean | Tropical | 100 | No | | | | | | |
-| 2147 | South Malacca Strait | Malacca Strait | Java Sea | Indian Ocean | Ocean | Tropical | 100 | No | | | | | | |
-| 2148 | Bight of Bangkok | Gulf of Siam | South China Sea | Pacific Ocean | Ocean | Tropical | 100 | No | | | | | | |
-| 2149 | East Gulf of Siam | Gulf of Siam | South China Sea | Pacific Ocean | Ocean | Tropical | 100 | No | | | | | | |
-| ID | Province name | Area | Region | Continent | Terrain | Climate | Infra | Beach? | IC | Manpower | Energy | Oil | Metal | Rare Materials |
-|
-
-## 2150
-
-| West Gulf of Siam | Gulf of Siam | South China Sea | Pacific Ocean | Ocean | Tropical | 100 | No | | | | | | |
-| 2151 | Strait of Singapore | Gulf of Siam | South China Sea | Pacific Ocean | Ocean | Tropical | 100 | No | | | | | | |
-| 2152 | South Spratly Sea | Spratly Sea | South China Sea | Pacific Ocean | Ocean | Tropical | 100 | No | | | | | | |
-| 2153 | Brunei Bay | Coast of Brunei | South China Sea | Pacific Ocean | Ocean | Tropical | 100 | No | | | | | | |
-| 2154 | Central Spratly Sea | Spratly Sea | South China Sea | Pacific Ocean | Ocean | Tropical | 100 | No | | | | | | |
-| 2155 | Camranh Bay | Coast of Indochina | South China Sea | Pacific Ocean | Ocean | Tropical | 100 | No | | | | | | |
-| 2156 | Gulf of Tonkin | Coast of Indochina | South China Sea | Pacific Ocean | Ocean | Tropical | 100 | No | | | | | | |
-| 2157 | North Spratly Sea | Spratly Sea | South China Sea | Pacific Ocean | Ocean | Tropical | 100 | No | | | | | | |
-| 2158 | Hainan Strait | Coast of Indochina | South China Sea | Pacific Ocean | Ocean | Tropical | 100 | No | | | | | | |
-| 2159 | Palawan Passage | Coast of Brunei | South China Sea | Pacific Ocean | Ocean | Tropical | 100 | No | | | | | | |
-| 2160 | West Celebes Sea | Celebes Sea | Moluccas | Pacific Ocean | Ocean | Tropical | 100 | No | | | | | | |
-| 2161 | Macassar Strait | Flores Sea | Java Sea | Pacific Ocean | Ocean | Tropical | 100 | No | | | | | | |
-| 2162 | North Molucca Sea | Molucca Sea | Moluccas | Pacific Ocean | Ocean | Tropical | 100 | No | | | | | | |
-| 2163 | Central Molucca Sea | Molucca Sea | Moluccas | Pacific Ocean | Ocean | Tropical | 100 | No | | | | | | |
-| 2164 | Ceram Sea | Banda Sea | Moluccas | Pacific Ocean | Ocean | Tropical | 100 | No | | | | | | |
-| 2165 | North Banda Sea | Banda Sea | Moluccas | Pacific Ocean | Ocean | Tropical | 100 | No | | | | | | |
-| 2166 | East Celebes Sea | Celebes Sea | Moluccas | Pacific Ocean | Ocean | Tropical | 100 | No | | | | | | |
-| 2167 | Geelvink Bay | Coast of New Guinea | Bismarck Sea | Pacific Ocean | Ocean | Tropical | 100 | No | | | | | | |
-| 2168 | Humboldt Bay | Coast of New Guinea | Bismarck Sea | Pacific Ocean | Ocean | Tropical | 100 | No | | | | | | |
-| 2169 | Dampier Strait | South Bismarck Sea | Bismarck Sea | Pacific Ocean | Ocean | Tropical | 100 | No | | | | | | |
-| 2170 | East Caroline Basin | Coast of New Guinea | Bismarck Sea | Pacific Ocean | Ocean | Tropical | 100 | No | | | | | | |
-| 2171 | Southwest Marshalls | Carolines | Central Pacific Ocean | Pacific Ocean | Ocean | Tropical | 100 | No | | | | | | |
-| 2172 | Central Marshalls | Carolines | Central Pacific Ocean | Pacific Ocean | Ocean | Tropical | 100 | No | | | | | | |
-| 2173 | South Magellan Seamounts | East Mariana Basin | Central Pacific Ocean | Pacific Ocean | Ocean | Tropical | 100 | No | | | | | | |
-| 2174 | South East Mariana Basin | East Mariana Basin | Central Pacific Ocean | Pacific Ocean | Ocean | Tropical | 100 | No | | | | | | |
-| 2175 | South Mariana Trench | Mariana Trench | Philippine Sea | Pacific Ocean | Ocean | Tropical | 100 | No | | | | | | |
-| 2176 | Mariana Trough | Mariana Trench | Philippine Sea | Pacific Ocean | Ocean | Tropical | 100 | No | | | | | | |
-| 2177 | Yap Trench | North Bismarck Sea | Bismarck Sea | Pacific Ocean | Ocean | Tropical | 100 | No | | | | | | |
-| 2178 | West Caroline Basin | Coast of New Guinea | Bismarck Sea | Pacific Ocean | Ocean | Tropical | 100 | No | | | | | | |
-| 2179 | Buka Passage | South Bismarck Sea | Bismarck Sea | Pacific Ocean | Ocean | Tropical | 100 | No | | | | | | |
-| 2180 | Southeast Marshalls | Carolines | Central Pacific Ocean | Pacific Ocean | Ocean | Tropical | 100 | No | | | | | | |
-| 2181 | North Mariana Trench | Mariana Trench | Philippine Sea | Pacific Ocean | Ocean | Tropical | 100 | No | | | | | | |
-| 2182 | West Mariana Basin | Central Philippine Sea | Philippine Sea | Pacific Ocean | Ocean | Tropical | 100 | No | | | | | | |
-| 2183 | North Kyushu-Palau Trench | Central Philippine Sea | Philippine Sea | Pacific Ocean | Ocean | Tropical | 100 | No | | | | | | |
-| 2184 | Ryukyu Trench | Central Philippine Sea | Philippine Sea | Pacific Ocean | Ocean | Tropical | 100 | No | | | | | | |
-| 2185 | South Ryukyu | Ryukyus | East China Sea | Pacific Ocean | Ocean | Subtropical | 100 | No | | | | | | |
-| 2186 | Hangzhou Bay | Taiwan Strait | East China Sea | Pacific Ocean | Ocean | Subtropical | 100 | No | | | | | | |
-| 2187 | North Ryukyu | Ryukyus | East China Sea | Pacific Ocean | Ocean | Subtropical | 100 | No | | | | | | |
-| 2188 | South Yellow Sea | Yellow Sea | East China Sea | Pacific Ocean | Ocean | Temperate | 100 | No | | | | | | |
-| 2189 | North Yellow Sea | Yellow Sea | East China Sea | Pacific Ocean | Ocean | Temperate | 100 | No | | | | | | |
-| 2190 | Bohai Sea | Yellow Sea | East China Sea | Pacific Ocean | Ocean | Temperate | 100 | No | | | | | | |
-| 2191 | Vladivostok Bay | Sea of Japan | Home Islands | Pacific Ocean | Ocean | Temperate | 100 | No | | | | | | |
-| 2192 | Tsushima Strait | Sea of Japan | Home Islands | Pacific Ocean | Ocean | Temperate | 100 | No | | | | | | |
-| 2193 | Inland Sea | Coast of Japan | Home Islands | Pacific Ocean | Ocean | Temperate | 100 | No | | | | | | |
-| 2194 | Toyama Bay | Sea of Japan | Home Islands | Pacific Ocean | Ocean | Temperate | 100 | No | | | | | | |
-| 2195 | Izu Trench | Coast of Japan | Home Islands | Pacific Ocean | Ocean | Subtropical | 100 | No | | | | | | |
-| 2196 | Bonin Trench | Mid-Pacific Mountains | Central Pacific Ocean | Pacific Ocean | Ocean | Subtropical | 100 | No | | | | | | |
-| 2197 | North East Mariana Basin | East Mariana Basin | Central Pacific Ocean | Pacific Ocean | Ocean | Tropical | 100 | No | | | | | | |
-| 2198 | North Magellan Seamounts | East Mariana Basin | Central Pacific Ocean | Pacific Ocean | Ocean | Tropical | 100 | No | | | | | | |
-| 2199 | Northwest Marshalls | Carolines | Central Pacific Ocean | Pacific Ocean | Ocean | Tropical | 100 | No | | | | | | |
-| ID | Province name | Area | Region | Continent | Terrain | Climate | Infra | Beach? | IC | Manpower | Energy | Oil | Metal | Rare Materials |
-|
-
-## 2200
-
-| Southwest Mid-Pacific Mountains | Mid-Pacific Mountains | Central Pacific Ocean | Pacific Ocean | Ocean | Tropical | 100 | No | | | | | | |
-| 2201 | Southeast Mid-Pacific Mountains | Mid-Pacific Mountains | Central Pacific Ocean | Pacific Ocean | Ocean | Tropical | 100 | No | | | | | | |
-| 2202 | Northeast Marshalls | Carolines | Central Pacific Ocean | Pacific Ocean | Ocean | Tropical | 100 | No | | | | | | |
-| 2203 | Mapmaker Seamounts | Mid-Pacific Mountains | Central Pacific Ocean | Pacific Ocean | Ocean | Subtropical | 100 | No | | | | | | |
-| 2204 | Grosvenor Seamount | Mid-Pacific Mountains | Central Pacific Ocean | Pacific Ocean | Ocean | Subtropical | 100 | No | | | | | | |
-| 2205 | Japan Trench | Coast of Japan | Home Islands | Pacific Ocean | Ocean | Temperate | 100 | No | | | | | | |
-| 2206 | Makarov Seamount | Northwest Pacific Basin | North Pacific Ocean | Pacific Ocean | Ocean | Temperate | 100 | No | | | | | | |
-| 2207 | Shatskiy Rise | Northwest Pacific Basin | North Pacific Ocean | Pacific Ocean | Ocean | Temperate | 100 | No | | | | | | |
-| 2208 | Emperor Seamounts | Northwest Pacific Basin | North Pacific Ocean | Pacific Ocean | Ocean | Temperate | 100 | No | | | | | | |
-| 2209 | Hess Rise | Northwest Pacific Basin | North Pacific Ocean | Pacific Ocean | Ocean | Temperate | 100 | No | | | | | | |
-| 2210 | Isakov Seamount | Northwest Pacific Basin | North Pacific Ocean | Pacific Ocean | Ocean | Temperate | 100 | No | | | | | | |
-| 2211 | South Kurile Trench | Northwest Pacific Basin | North Pacific Ocean | Pacific Ocean | Ocean | Subarctic | 100 | No | | | | | | |
-| 2212 | Abashiri Bay | Coast of Japan | Home Islands | Pacific Ocean | Ocean | Subarctic | 100 | No | | | | | | |
-| 2213 | Tsugaru Strait | Coast of Japan | Home Islands | Pacific Ocean | Ocean | Tropical | 100 | No | | | | | | |
-| 2214 | West Kuril Basin | South Sea of Okhotsk | Sea of Okhotsk | Pacific Ocean | Ocean | Subarctic | 100 | No | | | | | | |
-| 2215 | Southern Gulf of Tartary | South Sea of Okhotsk | Sea of Okhotsk | Pacific Ocean | Ocean | Subarctic | 100 | No | | | | | | |
-| 2216 | Northern Gulf of Tartary | South Sea of Okhotsk | Sea of Okhotsk | Pacific Ocean | Ocean | Subarctic | 100 | No | | | | | | |
-| 2217 | Gulf of Sakhalin | West Sea of Okhotsk | Sea of Okhotsk | Pacific Ocean | Ocean | Subarctic | 100 | No | | | | | | |
-| 2218 | Ulban Bay | West Sea of Okhotsk | Sea of Okhotsk | Pacific Ocean | Ocean | Subarctic | 100 | No | | | | | | |
-| 2219 | Erinea Gulf | West Sea of Okhotsk | Sea of Okhotsk | Pacific Ocean | Ocean | Subarctic | 100 | No | | | | | | |
-| 2220 | Central Sea of Okhotsk | West Sea of Okhotsk | Sea of Okhotsk | Pacific Ocean | Ocean | Subarctic | 100 | No | | | | | | |
-| 2221 | Taui Bay | West Sea of Okhotsk | Sea of Okhotsk | Pacific Ocean | Ocean | Subarctic | 100 | No | | | | | | |
-| 2222 | East Kuril Basin | South Sea of Okhotsk | Sea of Okhotsk | Pacific Ocean | Ocean | Tropical | 100 | No | | | | | | |
-| 2223 | Kurile Strait | South Sea of Okhotsk | Sea of Okhotsk | Pacific Ocean | Ocean | Subarctic | 100 | No | | | | | | |
-| 2224 | East Sea of Okhotsk | East Sea of Okhotsk | Sea of Okhotsk | Pacific Ocean | Ocean | Subarctic | 100 | No | | | | | | |
-| 2225 | Shelikhov Gulf | East Sea of Okhotsk | Sea of Okhotsk | Pacific Ocean | Ocean | Subarctic | 100 | No | | | | | | |
-| 2226 | Penzhina Bay | East Sea of Okhotsk | Sea of Okhotsk | Pacific Ocean | Ocean | Subarctic | 100 | No | | | | | | |
-| 2227 | Kronotski Bay | Coast of Kamchatka | Bering Sea | Pacific Ocean | Ocean | Subarctic | 100 | No | | | | | | |
-| 2228 | Gulf of Kamchatka | Coast of Kamchatka | Bering Sea | Pacific Ocean | Ocean | Arctic | 100 | No | | | | | | |
-| 2229 | North Kurile Trench | Coast of Kamchatka | Bering Sea | Pacific Ocean | Ocean | Subarctic | 100 | No | | | | | | |
-| 2230 | Southwest Aleutian Basin | West Bering Sea | Bering Sea | Pacific Ocean | Ocean | Subarctic | 100 | No | | | | | | |
-| 2231 | South Aleutian Basin | West Bering Sea | Bering Sea | Pacific Ocean | Ocean | Subarctic | 100 | No | | | | | | |
-| 2232 | Central Aleutian Basin | West Bering Sea | Bering Sea | Pacific Ocean | Ocean | Arctic | 100 | No | | | | | | |
-| 2233 | West Aleutian Basin | West Bering Sea | Bering Sea | Pacific Ocean | Ocean | Arctic | 100 | No | | | | | | |
-| 2234 | Northwest Aleutian Basin | West Bering Sea | Bering Sea | Pacific Ocean | Ocean | Arctic | 100 | No | | | | | | |
-| 2235 | South Shirshov Ridge | Coast of Kamchatka | Bering Sea | Pacific Ocean | Ocean | Arctic | 100 | No | | | | | | |
-| 2236 | Olyutorskiy Gulf | Coast of Kamchatka | Bering Sea | Pacific Ocean | Ocean | Arctic | 100 | No | | | | | | |
-| 2237 | Gulf of Anadyr | Coast of Kamchatka | Bering Sea | Pacific Ocean | Ocean | Arctic | 100 | No | | | | | | |
-| 2238 | North Shirshov Ridge | Coast of Kamchatka | Bering Sea | Pacific Ocean | Ocean | Arctic | 100 | No | | | | | | |
-| 2239 | North Aleutian Basin | West Bering Sea | Bering Sea | Pacific Ocean | Ocean | Arctic | 100 | No | | | | | | |
-| 2240 | Gulf of Ob | Lake | Lake | Lake | Ocean | Arctic | 100 | No | | | | | | |
-| 2241 | Lake Baikal | Lake | Lake | Lake | Ocean | Temperate | 100 | No | | | | | | |
-| 2242 | Lake Poyang | Lake | Lake | Lake | Ocean | Subtropical | 100 | No | | | | | | |
-| 2243 | Lake Dongting | Lake | Lake | Lake | Ocean | Temperate | 100 | No | | | | | | |
-| 2244 | Lake Qinghai | Lake | Lake | Lake | Ocean | Mediterranean | 100 | No | | | | | | |
-| 2245 | Lake Zaysan | Lake | Lake | Lake | Ocean | Temperate | 100 | No | | | | | | |
-| 2246 | Lake Balkhash | Lake | Lake | Lake | Ocean | Temperate | 100 | No | | | | | | |
-| 2247 | East Carolines | North Bismarck Sea | Bismarck Sea | | Ocean | Tropical | 100 | No | | | | | | |
-| 2248 | North Carolines | North Bismarck Sea | Bismarck Sea | | Ocean | Tropical | 100 | No | | | | | | |
-| 2249 | Central Carolines | North Bismarck Sea | Bismarck Sea | | Ocean | Tropical | 100 | No | | | | | | |
-| ID | Province name | Area | Region | Continent | Terrain | Climate | Infra | Beach? | IC | Manpower | Energy | Oil | Metal | Rare Materials |
-|
-
-## 2250
-
-| South Philippine Trench | Philipine Trench | Philippine Sea | Pacific Ocean | Ocean | Tropical | 100 | No | | | | | | |
-| 2251 | Davao Gulf | Celebes Sea | Moluccas | Pacific Ocean | Ocean | Tropical | 100 | No | | | | | | |
-| 2252 | Panay Gulf | Sulu Sea | South China Sea | Pacific Ocean | Ocean | Tropical | 100 | No | | | | | | |
-| 2253 | Surigao Strait | Sulu Sea | South China Sea | Pacific Ocean | Ocean | Tropical | 100 | No | | | | | | |
-| 2254 | Sibuyan Sea | Sulu Sea | South China Sea | Pacific Ocean | Ocean | Tropical | 100 | No | | | | | | |
-| 2255 | Leyte Gulf | Philipine Trench | Philippine Sea | Pacific Ocean | Ocean | Tropical | 100 | No | | | | | | |
-| 2256 | Manila Bay | Sulu Sea | South China Sea | Pacific Ocean | Ocean | Tropical | 100 | No | | | | | | |
-| 2257 | Lingayen Gulf | Luzon Strait | South China Sea | Pacific Ocean | Ocean | Tropical | 100 | No | | | | | | |
-| 2258 | Lamon Bay | Philipine Trench | Philippine Sea | Pacific Ocean | Ocean | Tropical | 100 | No | | | | | | |
-| 2259 | San Bernardino Strait | Philipine Trench | Philippine Sea | Pacific Ocean | Ocean | Tropical | 100 | No | | | | | | |
-| 2260 | Oras Bay | Philipine Trench | Philippine Sea | Pacific Ocean | Ocean | Tropical | 100 | No | | | | | | |
-| 2261 | Divilacan Bay | Philipine Trench | Philippine Sea | Pacific Ocean | Ocean | Tropical | 100 | No | | | | | | |
-| 2262 | Babuyan Channel | Luzon Strait | South China Sea | Pacific Ocean | Ocean | Tropical | 100 | No | | | | | | |
-| 2263 | Shenquan Gulf | Taiwan Strait | East China Sea | Pacific Ocean | Ocean | Subtropical | 100 | No | | | | | | |
-| 2264 | North Philippine Trench | Philipine Trench | Philippine Sea | Pacific Ocean | Ocean | Tropical | 100 | No | | | | | | |
-| 2265 | Central Philippine Trench | Philipine Trench | Philippine Sea | Pacific Ocean | Ocean | Tropical | 100 | No | | | | | | |
-| 2266 | South Kyushu-Palau Trench | Central Philippine Sea | Philippine Sea | Pacific Ocean | Ocean | Tropical | 100 | No | | | | | | |
-| 2267 | Palau Trench | Mariana Trench | Philippine Sea | Pacific Ocean | Ocean | Tropical | 100 | No | | | | | | |
-| 2268 | Cape Alguhas | Coast of South Africa | Cape of Good Hope | | Ocean | Temperate | 100 | No | | | | | | |
-| 2269 | False Bay | Coast of South Africa | Cape of Good Hope | | Ocean | Temperate | 100 | No | | | | | | |
-| 2270 | West Walvis Ridge | Angola Plain | Southeast Atlantic Ocean | | Ocean | Temperate | 100 | No | | | | | | |
-| 2271 | Central Angola Plain | Angola Plain | Southeast Atlantic Ocean | | Ocean | Subtropical | 100 | No | | | | | | |
-| 2272 | East Walvis Ridge | Coast of Angola-Namibia | Southeast Atlantic Ocean | | Ocean | Temperate | 100 | No | | | | | | |
-| 2273 | McDougall's Bay | Coast of South Africa | Cape of Good Hope | | Ocean | Temperate | 100 | No | | | | | | |
-| 2274 | Walvis Bay | Coast of Angola-Namibia | Southeast Atlantic Ocean | | Ocean | Temperate | 100 | No | | | | | | |
-| 2275 | Cape Fria | Coast of Angola-Namibia | Southeast Atlantic Ocean | | Ocean | Subtropical | 100 | No | | | | | | |
-| 2276 | Coast of Angola | Coast of Angola-Namibia | Southeast Atlantic Ocean | | Ocean | Tropical | 100 | No | | | | | | |
-| 2277 | East Congo Cone | Coast of Angola-Namibia | Southeast Atlantic Ocean | | Ocean | Tropical | 100 | No | | | | | | |
-| 2278 | Cape Lopez | Coast of Angola-Namibia | Southeast Atlantic Ocean | | Ocean | Tropical | 100 | No | | | | | | |
-| 2279 | Bay of Corisco | Gulf of Guinea | Southcentral Atlantic | | Ocean | Tropical | 100 | No | | | | | | |
-| 2280 | Niger Delta | Gulf of Guinea | Southcentral Atlantic | | Ocean | Tropical | 100 | No | | | | | | |
-| 2281 | Lake Chad | Lake | Lake | Lake | Ocean | Mediterranean | 100 | No | | | | | | |
-| 2282 | Lake Victoria | Lake | Lake | Lake | Ocean | Mediterranean | 100 | No | | | | | | |
-| 2283 | Lake Tanganyika | Lake | Lake | Lake | Ocean | Mediterranean | 100 | No | | | | | | |
-| 2284 | Lake Nyasa | Lake | Lake | Lake | Ocean | Mediterranean | 100 | No | | | | | | |
-| 2285 | East Guinea Bay | Gulf of Guinea | Southcentral Atlantic | | Ocean | Tropical | 100 | No | | | | | | |
-| 2286 | West Congo Cone | Coast of Angola-Namibia | Southeast Atlantic Ocean | | Ocean | Tropical | 100 | No | | | | | | |
-| 2287 | East Guinea Basin | Ascension Fracture Zone | Southcentral Atlantic | | Ocean | Tropical | 100 | No | | | | | | |
-| 2288 | Centralwest Guinea Bay | Gulf of Guinea | Southcentral Atlantic | | Ocean | Tropical | 100 | No | | | | | | |
-| 2289 | Slave Coast | Gulf of Guinea | Southcentral Atlantic | | Ocean | Tropical | 100 | No | | | | | | |
-| 2290 | Gold Coast | Gulf of Guinea | Southcentral Atlantic | | Ocean | Tropical | 100 | No | | | | | | |
-| 2291 | Ivory Coast | Gulf of Guinea | Southcentral Atlantic | | Ocean | Tropical | 100 | No | | | | | | |
-| 2292 | Pepper Coast | Gulf of Guinea | Southcentral Atlantic | | Ocean | Tropical | 100 | No | | | | | | |
-| 2293 | Leonean Archipelago | Coast of Bissao | Eastern Atlantic | | Ocean | Tropical | 100 | No | | | | | | |
-| 2294 | Bijagos Archipelago | Coast of Bissao | Eastern Atlantic | | Ocean | Tropical | 100 | No | | | | | | |
-| 2295 | Gambian Basin | Coast of Bissao | Eastern Atlantic | | Ocean | Tropical | 100 | No | | | | | | |
-| 2296 | Bay of Gambia | Coast of Bissao | Eastern Atlantic | | Ocean | Tropical | 100 | No | | | | | | |
-| 2297 | Cap Blanc | Coast of Africa | Eastern Atlantic | | Ocean | Tropical | 100 | No | | | | | | |
-| 2298 | South Cap Verde Approach | Cap Verde | Eastern Atlantic | | Ocean | Tropical | 100 | No | | | | | | |
-| 2299 | North Cap Verde Approach | Central Atlantic | Eastern Atlantic | | Ocean | Tropical | 100 | No | | | | | | |
-| ID | Province name | Area | Region | Continent | Terrain | Climate | Infra | Beach? | IC | Manpower | Energy | Oil | Metal | Rare Materials |
-|
-
-## 2300
-
-| Canary Approach | Coast of Africa | Eastern Atlantic | | Ocean | Tropical | 100 | No | | | | | | |
-| 2301 | Gulf of Cintra | Coast of Africa | Eastern Atlantic | | Ocean | Tropical | 100 | No | | | | | | |
-| 2302 | Cap Bojador | Coast of Africa | Iberian West Coast | | Ocean | Tropical | 100 | No | | | | | | |
-| 2303 | Cap Draa | Cap St Vincent | Iberian West Coast | | Ocean | Tropical | 100 | No | | | | | | |
-| 2304 | Sea of Azores South | Azores | Iberian West Coast | | Ocean | Subtropical | 100 | No | | | | | | |
-| 2305 | East Mid-Atlantic Ridge | Central Atlantic | Eastern Atlantic | | Ocean | Tropical | 100 | No | | | | | | |
-| 2306 | East Central Mid-Atlantic Ridge | Central Atlantic | Central Mid-Atlantic Ridge | | Ocean | Subtropical | 100 | No | | | | | | |
-| 2307 | Northern South-Central Mid-Atlantic Ridge | South-Central Mid-Atlantic Ridge | Central Mid-Atlantic Ridge | | Ocean | Subtropical | 100 | No | | | | | | |
-| 2308 | Southern Central Mid-Atlantic Ridge | Central Mid-Atlantic Ridge | Central Mid-Atlantic Ridge | | Ocean | Subtropical | 100 | No | | | | | | |
-| 2309 | Northern Central Mid-Atlantic Ridge | Central Mid-Atlantic Ridge | Central Mid-Atlantic Ridge | | Ocean | Temperate | 100 | No | | | | | | |
-| 2310 | South-Eastern Saragasso Sea | Central Mid-Atlantic Ridge | Central Mid-Atlantic Ridge | | Ocean | Subtropical | 100 | No | | | | | | |
-| 2311 | Eastern Sargasso Sea | Central Mid-Atlantic Ridge | Central Mid-Atlantic Ridge | | Ocean | Temperate | 100 | No | | | | | | |
-| 2312 | East Bermuda | Bermuda Triangle | Eastern Seaboard | | Ocean | Temperate | 100 | No | | | | | | |
-| 2313 | Northern Guiana Basin | Guiana Basin | Sargassos | | Ocean | Subtropical | 100 | No | | | | | | |
-| 2314 | South Bermuda | Bermuda Triangle | Sargassos | | Ocean | Subtropical | 100 | No | | | | | | |
-| 2315 | West Bermuda | Bermuda Triangle | Sargassos | | Ocean | Subtropical | 100 | No | | | | | | |
-| 2316 | Blake Plateau | Florida Strait | Sargassos | | Ocean | Subtropical | 100 | No | | | | | | |
-| 2317 | Cape Canaveral | Florida Strait | Sargassos | | Ocean | Subtropical | 100 | No | | | | | | |
-| 2318 | Cape Fear | Florida Strait | Sargassos | | Ocean | Subtropical | 100 | No | | | | | | |
-| 2319 | Lake Erie | Lake | Lake | Lake | Ocean | Temperate | 100 | No | | | | | | |
-| 2320 | Lake Ontario | Lake | Lake | Lake | Ocean | Temperate | 100 | No | | | | | | |
-| 2321 | Lake Huron | Lake | Lake | Lake | Ocean | Temperate | 100 | No | | | | | | |
-| 2322 | Lake Michigan | Lake | Lake | Lake | Ocean | Temperate | 100 | No | | | | | | |
-| 2323 | Lake Superior | Lake | Lake | Lake | Ocean | Temperate | 100 | No | | | | | | |
-| 2324 | Lake Nipigon | Lake | Lake | Lake | Ocean | Temperate | 100 | No | | | | | | |
-| 2325 | Lake Manitoba | Lake | Lake | Lake | Ocean | Subarctic | 100 | No | | | | | | |
-| 2326 | Lake Winnipeg | Lake | Lake | Lake | Ocean | Subarctic | 100 | No | | | | | | |
-| 2327 | Lake Winnipegosis | Lake | Lake | Lake | Ocean | Subarctic | 100 | No | | | | | | |
-| 2328 | Great Slave Lake | Lake | Lake | Lake | Ocean | Arctic | 100 | No | | | | | | |
-| 2329 | Great Bear Lake | Lake | Lake | Lake | Ocean | Temperate | 100 | No | | | | | | |
-| 2330 | Chesterfield Inlet | Hudson Bay | Canadian Arctic | | Ocean | Arctic | 100 | No | | | | | | |
-| 2331 | Foxe Basin | Hudson Bay | Canadian Arctic | | Ocean | Arctic | 100 | No | | | | | | |
-| 2332 | James Bay | Hudson Bay | Canadian Arctic | | Ocean | Arctic | 100 | No | | | | | | |
-| 2333 | Hudson Strait | Hudson Bay | Canadian Arctic | | Ocean | Arctic | 100 | No | | | | | | |
-| 2334 | Bafin Bay | Northern Sea of Labrador | Canadian Arctic | | Ocean | Arctic | 100 | No | | | | | | |
-| 2335 | Melville Bay | Northern Sea of Labrador | Canadian Arctic | | Ocean | Arctic | 100 | No | | | | | | |
-| 2336 | Cumberland Sound | Northern Sea of Labrador | Canadian Arctic | | Ocean | Arctic | 100 | No | | | | | | |
-| 2337 | Ungava Bay | Northern Sea of Labrador | Canadian Arctic | | Ocean | Arctic | 100 | No | | | | | | |
-| 2338 | Goose Bay | Southern Sea of Labrador | Canadian Arctic | | Ocean | Subarctic | 100 | No | | | | | | |
-| 2339 | White Bay | Grand Banks | Grand Banks Shelf | | Ocean | Subarctic | 100 | No | | | | | | |
-| 2340 | Bonavista Bay | Grand Banks | Grand Banks Shelf | | Ocean | Subarctic | 100 | No | | | | | | |
-| 2341 | Fortune Bay | Grand Banks | Grand Banks Shelf | | Ocean | Subarctic | 100 | No | | | | | | |
-| 2342 | Strait Of Belle Isle | Canadian Maritimes | Eastern Seaboard | | Ocean | Temperate | 100 | No | | | | | | |
-| 2343 | Gulf of St. Lawrence | Canadian Maritimes | Eastern Seaboard | | Ocean | Temperate | 100 | No | | | | | | |
-| 2344 | Cabot Strait | Canadian Maritimes | Eastern Seaboard | | Ocean | Temperate | 100 | No | | | | | | |
-| 2345 | Bay of Fundy | Canadian Maritimes | Eastern Seaboard | | Ocean | Temperate | 100 | No | | | | | | |
-| 2346 | Gulf of Maine | US Maritimes | Eastern Seaboard | | Ocean | Temperate | 100 | No | | | | | | |
-| 2347 | Nantucket Sound | US Maritimes | Eastern Seaboard | | Ocean | Temperate | 100 | No | | | | | | |
-| 2348 | Chesapeake Bay | US Maritimes | Eastern Seaboard | | Ocean | Temperate | 100 | No | | | | | | |
-| 2349 | Cape Hatteras | US Maritimes | Eastern Seaboard | | Ocean | Temperate | 100 | No | | | | | | |
-| ID | Province name | Area | Region | Continent | Terrain | Climate | Infra | Beach? | IC | Manpower | Energy | Oil | Metal | Rare Materials |
-|
-
-## 2350
-
-| New England Shelf | US Maritimes | Eastern Seaboard | | Ocean | Temperate | 100 | No | | | | | | |
-| 2351 | North Bermuda | US Maritimes | Eastern Seaboard | | Ocean | Temperate | 100 | No | | | | | | |
-| 2352 | Sable Island Bank | Canadian Maritimes | Eastern Seaboard | | Ocean | Temperate | 100 | No | | | | | | |
-| 2353 | New England Seamounts | The Seamounts | Grand Banks Shelf | | Ocean | Temperate | 100 | No | | | | | | |
-| 2354 | Grand Banks | Grand Banks | Grand Banks Shelf | | Ocean | Subarctic | 100 | No | | | | | | |
-| 2355 | Corner Spearmounts | The Seamounts | Grand Banks Shelf | | Ocean | Temperate | 100 | No | | | | | | |
-| 2356 | Southern North Mid-Atlantic Sea Ridge | The Seamounts | Grand Banks Shelf | | Ocean | Temperate | 100 | No | | | | | | |
-| 2357 | Sea of Azores East | Azores | Iberian West Coast | | Ocean | Tropical | 100 | No | | | | | | |
-| 2358 | Sea of Azores North | Western Approaches | Northeast Atlantic | | Ocean | Temperate | 100 | No | | | | | | |
-| 2359 | Gibbs Fracture East | Western Approaches | Northeast Atlantic | | Ocean | Temperate | 100 | No | | | | | | |
-| 2360 | Flemish Cap | The Seamounts | Grand Banks Shelf | | Ocean | Temperate | 100 | No | | | | | | |
-| 2361 | Gibbs Fracture West | The Seamounts | Grand Banks Shelf | | Ocean | Subarctic | 100 | No | | | | | | |
-| 2362 | South West Sea of Labrador | Southern Sea of Labrador | Canadian Arctic | | Ocean | Subarctic | 100 | No | | | | | | |
-| 2363 | Davis Strait | Northern Sea of Labrador | Canadian Arctic | | Ocean | Subarctic | 100 | No | | | | | | |
-| 2364 | South Central Sea of Labrador | Southern Sea of Labrador | Canadian Arctic | | Ocean | Subarctic | 100 | No | | | | | | |
-| 2365 | Tordenskjold Bank | Greenland Coast | Northeast Atlantic | | Ocean | Subarctic | 100 | No | | | | | | |
-| 2366 | Skjoldungen Bank | Greenland Coast | Northeast Atlantic | | Ocean | Arctic | 100 | No | | | | | | |
-| 2367 | West Denmark Strait | Denmark Strait | Western Ice Sea | | Ocean | Arctic | 100 | No | | | | | | |
-| 2368 | Northwest Denmark Strait | Denmark Strait | Western Ice Sea | | Ocean | Arctic | 100 | No | | | | | | |
-| 2369 | Central Denmark Strait | Denmark Strait | Western Ice Sea | | Ocean | Arctic | 100 | No | | | | | | |
-| 2370 | Irminger Basin | Greenland Coast | Northeast Atlantic | | Ocean | Subarctic | 100 | No | | | | | | |
-| 2371 | Central Sea of Labrador | North Atlantic | Northeast Atlantic | | Ocean | Temperate | 100 | No | | | | | | |
-| 2372 | North Sea of Labrador | North Atlantic | Northeast Atlantic | | Ocean | Temperate | 100 | No | | | | | | |
-| 2373 | South Denmark Strait | North Atlantic | Northeast Atlantic | | Ocean | Temperate | 100 | No | | | | | | |
-| 2374 | Faxa Bay | Denmark Strait | Western Ice Sea | | Ocean | Temperate | 100 | No | | | | | | |
-| 2375 | Huna Bay | Denmark Strait | Western Ice Sea | | Ocean | Subarctic | 100 | No | | | | | | |
-| 2376 | West Greenland Sea | Arctic Ocean | Ice Sea | | Ocean | Subarctic | 100 | No | | | | | | |
-| 2377 | Northwest Faroes Gap | Faroes Gap | Western Ice Sea | | Ocean | Temperate | 100 | No | | | | | | |
-| 2378 | Central Greenland Sea | Arctic Ocean | Ice Sea | | Ocean | Arctic | 100 | No | | | | | | |
-| 2379 | East Greenland Sea | Arctic Ocean | Ice Sea | | Ocean | Arctic | 100 | No | | | | | | |
-| 2380 | South Greenland Sea | Arctic Ocean | Ice Sea | | Ocean | Subarctic | 100 | No | | | | | | |
-| 2381 | Cape Kanin | Barents Sea | Ice Sea | Europe | Ocean | Subarctic | 100 | No | | | | | | |
-| 2382 | Central Barents Sea | Barents Sea | Ice Sea | Europe | Ocean | Arctic | 100 | No | | | | | | |
-| 2383 | South Barents Sea | Barents Sea | Ice Sea | Europe | Ocean | Subarctic | 100 | No | | | | | | |
-| 2384 | White Sea | Barents Sea | Ice Sea | Europe | Ocean | Subarctic | 100 | No | | | | | | |
-| 2385 | Varanger Fjord | Barents Sea | Ice Sea | Europe | Ocean | Subarctic | 100 | No | | | | | | |
-| 2386 | North Cape | Barents Sea | Ice Sea | Europe | Ocean | Subarctic | 100 | No | | | | | | |
-| 2387 | Alten Fjord | Norwegian Sea | Ice Sea | Europe | Ocean | Subarctic | 100 | No | | | | | | |
-| 2388 | Vest Fjord | Norwegian Sea | Ice Sea | Europe | Ocean | Subarctic | 100 | No | | | | | | |
-| 2389 | Trondheim Fjord | Norwegian Sea | Ice Sea | Europe | Ocean | Subarctic | 100 | No | | | | | | |
-| 2390 | Molde Fjord | Norwegian Sea | Ice Sea | Europe | Ocean | Temperate | 100 | No | | | | | | |
-| 2391 | Central Norwegian Sea | Norwegian Sea | Ice Sea | Europe | Ocean | Subarctic | 100 | No | | | | | | |
-| 2392 | Sogne Fjord | East North Sea | North Sea | Europe | Ocean | Temperate | 100 | No | | | | | | |
-| 2393 | Bokn Fjord | East North Sea | North Sea | Europe | Ocean | Temperate | 100 | No | | | | | | |
-| 2394 | Southcentral North Sea | Southeast Northsea | North Sea | Europe | Ocean | Temperate | 100 | No | | | | | | |
-| 2395 | Mouth of the Thames | West Northsea | North Sea | Europe | Ocean | Temperate | 100 | No | | | | | | |
-| 2396 | The Wash | West Northsea | North Sea | Europe | Ocean | Temperate | 100 | No | | | | | | |
-| 2397 | Mouth of the Tyne | West Northsea | North Sea | Europe | Ocean | Temperate | 100 | No | | | | | | |
-| 2398 | Firth of Forth | West Northsea | North Sea | Europe | Ocean | Temperate | 100 | No | | | | | | |
-| 2399 | Dogger Bank | Central Northsea | North Sea | Europe | Ocean | Temperate | 100 | No | | | | | | |
-| ID | Province name | Area | Region | Continent | Terrain | Climate | Infra | Beach? | IC | Manpower | Energy | Oil | Metal | Rare Materials |
-|
-
-## 2400
-
-| Westcentral North Sea | Central Northsea | North Sea | Europe | Ocean | Temperate | 100 | No | | | | | | |
-| 2401 | Rockall Bank | Irish West Coast | Celtic Sea | | Ocean | Temperate | 100 | No | | | | | | |
-| 2402 | Pentland Firth | West Northsea | North Sea | Europe | Ocean | Temperate | 100 | No | | | | | | |
-| 2403 | The Minch | The Hebreides | Celtic Sea | | Ocean | Temperate | 100 | No | | | | | | |
-| 2404 | Little Minch | The Hebreides | Celtic Sea | | Ocean | Temperate | 100 | No | | | | | | |
-| 2405 | North Channel | Irish Sea | Celtic Sea | | Ocean | Temperate | 100 | No | | | | | | |
-| 2406 | Solway Firth | Irish Sea | Celtic Sea | | Ocean | Temperate | 100 | No | | | | | | |
-| 2407 | Donegal Bay | Irish West Coast | Celtic Sea | | Ocean | Temperate | 100 | No | | | | | | |
-| 2408 | Galway Bay | Irish West Coast | Celtic Sea | | Ocean | Temperate | 100 | No | | | | | | |
-| 2409 | Mouth of Shannon | Irish Sea | Celtic Sea | | Ocean | Temperate | 100 | No | | | | | | |
-| 2410 | St. George's Channel | Irish Sea | Celtic Sea | | Ocean | Temperate | 100 | No | | | | | | |
-| 2411 | Celtic Sea | Irish Sea | Celtic Sea | | Ocean | Temperate | 100 | No | | | | | | |
-| 2412 | Eastern English Channel | English Channel | Celtic Sea | | Ocean | Temperate | 100 | No | | | | | | |
-| 2413 | Western English Channel | English Channel | Celtic Sea | | Ocean | Temperate | 100 | No | | | | | | |
-| 2414 | Channel Approach | English Channel | Celtic Sea | | Ocean | Temperate | 100 | No | | | | | | |
-| 2415 | North Bay of Biscaya | Bay of Biscay | Celtic Sea | | Ocean | Temperate | 100 | No | | | | | | |
-| 2416 | Central Bay of Biscaya | Bay of Biscay | Celtic Sea | | Ocean | Temperate | 100 | No | | | | | | |
-| 2417 | South Bay of Biscaya | Bay of Biscay | Celtic Sea | | Ocean | Temperate | 100 | No | | | | | | |
-| 2418 | Southwest Bay of Biscaya | Bay of Biscay | Celtic Sea | | Ocean | Temperate | 100 | No | | | | | | |
-| 2419 | Costa Verde | Cape Finisterre | Celtic Sea | | Ocean | Temperate | 100 | No | | | | | | |
-| 2420 | West Biscaya Basin | Cape Finisterre | Celtic Sea | | Ocean | Temperate | 100 | No | | | | | | |
-| 2421 | Hatton Bank | North Atlantic | Northeast Atlantic | | Ocean | Temperate | 100 | No | | | | | | |
-| 2422 | West Celtic Shelf | Western Approaches | Northeast Atlantic | | Ocean | Temperate | 100 | No | | | | | | |
-| 2423 | Sea of Azores West | Azores | Iberian West Coast | | Ocean | Temperate | 100 | No | | | | | | |
-| 2424 | South Iberian Shelf | Portugese Coast | Iberian West Coast | | Ocean | Temperate | 100 | No | | | | | | |
-| 2425 | Rias Bajas | Cape Finisterre | Iberian West Coast | | Ocean | Temperate | 100 | No | | | | | | |
-| 2426 | Coast of Porto | Portugese Coast | Iberian West Coast | | Ocean | Temperate | 100 | No | | | | | | |
-| 2427 | Coast of Lissabon | Portugese Coast | Iberian West Coast | | Ocean | Temperate | 100 | No | | | | | | |
-| 2428 | Gulf of Cadiz | Cap St Vincent | Iberian West Coast | | Ocean | Subtropical | 100 | No | | | | | | |
-| 2429 | Gulf of Morocco | Cap St Vincent | Iberian West Coast | | Ocean | Subtropical | 100 | No | | | | | | |
-| 2430 | Straits of Gibraltar | Costa del Sol | Western mediterranean | Europe | Ocean | Mediterranean | 100 | No | | | | | | |
-| 2431 | Gulf of Almeira | Costa del Sol | Western mediterranean | Europe | Ocean | Mediterranean | 100 | No | | | | | | |
-| 2432 | Costa Blanca | Costa del Sol | Western mediterranean | Europe | Ocean | Mediterranean | 100 | No | | | | | | |
-| 2433 | Balearic Sea | Gulf of Lyon | Western mediterranean | Europe | Ocean | Mediterranean | 100 | No | | | | | | |
-| 2434 | Coast of Algiers | Algerian Coast | Western mediterranean | Europe | Ocean | Mediterranean | 100 | No | | | | | | |
-| 2435 | Central Gulf of Lyon | Gulf of Lyon | Western mediterranean | Europe | Ocean | Mediterranean | 100 | No | | | | | | |
-| 2436 | Coast of Philippeville | Algerian Coast | Western mediterranean | Europe | Ocean | Mediterranean | 100 | No | | | | | | |
-| 2437 | Gulf of Cagliari | Algerian Coast | Western mediterranean | Europe | Ocean | Mediterranean | 100 | No | | | | | | |
-| 2438 | Gulf of Genoa | Gulf of Lyon | Western mediterranean | Europe | Ocean | Mediterranean | 100 | No | | | | | | |
-| 2439 | Ligurian Sea | Tyrrhenian Sea | Central mediterranean | Europe | Ocean | Mediterranean | 100 | No | | | | | | |
-| 2440 | Gulf of Gabès | Tyrrhenian Sea | Central mediterranean | Europe | Ocean | Mediterranean | 100 | No | | | | | | |
-| 2441 | Gulf of Salerno | Tyrrhenian Sea | Central mediterranean | Europe | Ocean | Mediterranean | 100 | No | | | | | | |
-| 2442 | Gulf of Sidra | Tyrrhenian Sea | Central mediterranean | Europe | Ocean | Mediterranean | 100 | No | | | | | | |
-| 2443 | Gulf of Taranto | Tyrrhenian Sea | Central mediterranean | Europe | Ocean | Mediterranean | 100 | No | | | | | | |
-| 2444 | North Adriatic Sea | Adriatic Sea | Central mediterranean | Europe | Ocean | Mediterranean | 100 | No | | | | | | |
-| 2445 | Central Adriatic Sea | Adriatic Sea | Central mediterranean | Europe | Ocean | Mediterranean | 100 | No | | | | | | |
-| 2446 | South Adriatic Sea | Adriatic Sea | Central mediterranean | Europe | Ocean | Mediterranean | 100 | No | | | | | | |
-| 2447 | Lake Balaton | Lake | Lake | Lake | Ocean | Mediterranean | 100 | No | | | | | | |
-| 2448 | Ionian Sea | Aegean Sea | Central mediterranean | Europe | Ocean | Mediterranean | 100 | No | | | | | | |
-| 2449 | Balta Brailei | Lake | Lake | Lake | Ocean | Temperate | 100 | No | | | | | | |
-| ID | Province name | Area | Region | Continent | Terrain | Climate | Infra | Beach? | IC | Manpower | Energy | Oil | Metal | Rare Materials |
-|
-
-## 2450
-
-| Balta Ialometei | Lake | Lake | Lake | Ocean | Temperate | 100 | No | | | | | | |
-| 2451 | Coast of Tobruk | Egyptian Coast | Eastern Mediterranean | Europe | Ocean | Mediterranean | 100 | No | | | | | | |
-| 2452 | Levant Sea | Egyptian Coast | Eastern Mediterranean | Europe | Ocean | Mediterranean | 100 | No | | | | | | |
-| 2453 | Suez Canal | Red Sea | Arabian Sea | Europe | Ocean | Mediterranean | 100 | No | | | | | | |
-| 2454 | Coast of Alexandria | Egyptian Coast | Eastern Mediterranean | Asia | Ocean | Mediterranean | 100 | No | | | | | | |
-| 2455 | North Red Sea | Red Sea | Arabian Sea | Asia | Ocean | Subtropical | 100 | No | | | | | | |
-| 2456 | South Red Sea | Red Sea | Arabian Sea | Asia | Ocean | Subtropical | 100 | No | | | | | | |
-| 2457 | West Gulf of Aden | Horn of Africa | Arabian Sea | Asia | Ocean | Subtropical | 100 | No | | | | | | |
-| 2458 | Central Gulf of Aden | Horn of Africa | Arabian Sea | Indian Ocean | Ocean | Tropical | 100 | No | | | | | | |
-| 2459 | East Gulf of Aden | Horn of Africa | Arabian Sea | Indian Ocean | Ocean | Subtropical | 100 | No | | | | | | |
-| 2460 | East Coast of Somalia | Horn of Africa | Arabian Sea | Indian Ocean | Ocean | Tropical | 100 | No | | | | | | |
-| 2461 | Southeast Coast of Somalia | Horn of Africa | Arabian Sea | Indian Ocean | Ocean | Tropical | 100 | No | | | | | | |
-| 2462 | West Somali Basin | Horn of Africa | Arabian Sea | Indian Ocean | Ocean | Tropical | 100 | No | | | | | | |
-| 2463 | Sea of Crete | Aegean Sea | Eastern Mediterranean | Europe | Ocean | Mediterranean | 100 | No | | | | | | |
-| 2464 | North Aegean Sea | Aegean Sea | Eastern Mediterranean | Europe | Ocean | Mediterranean | 100 | No | | | | | | |
-| 2465 | South Black Sea | Black Sea | Black Sea | Europe | Ocean | Temperate | 100 | No | | | | | | |
-| 2466 | Central Black Sea | Black Sea | Black Sea | Europe | Ocean | Temperate | 100 | No | | | | | | |
-| 2467 | Southeast Black Sea | Black Sea | Black Sea | Europe | Ocean | Temperate | 100 | No | | | | | | |
-| 2468 | Sea of Azov | Black Sea | Black Sea | Europe | Ocean | Temperate | 100 | No | | | | | | |
-| 2469 | Caspian Sea | Lake | Lake | Europe | Ocean | Mediterranean | 100 | No | | | | | | |
-| 2470 | Aral Sea | Lake | Lake | Europe | Ocean | Mediterranean | 100 | No | | | | | | |
-| 2471 | Cromarty Firth | West Northsea | North Sea | Europe | Ocean | Temperate | 100 | No | | | | | | |
-| 2472 | Waddenzee | Southeast Northsea | North Sea | Europe | Ocean | Temperate | 100 | No | | | | | | |
-| 2473 | Helgoland Bight | Kattegat | North Sea | Europe | Ocean | Temperate | 100 | No | | | | | | |
-| 2474 | Skagerrak | Kattegat | North Sea | Europe | Ocean | Temperate | 100 | No | | | | | | |
-| 2475 | Kattegat | Kattegat | North Sea | Europe | Ocean | Temperate | 100 | No | | | | | | |
-| 2476 | Store Bält | Kattegat | Baltic Sea | Europe | Ocean | Temperate | 100 | No | | | | | | |
-| 2477 | Pomeranian Bay | Southern Baltic | Baltic Sea | Europe | Ocean | Temperate | 100 | No | | | | | | |
-| 2478 | Gulf of Danzig | Southern Baltic | Baltic Sea | Europe | Ocean | Temperate | 100 | No | | | | | | |
-| 2479 | Kalmar Sound | Southern Baltic | Baltic Sea | Europe | Ocean | Temperate | 100 | No | | | | | | |
-| 2480 | Courland Lagoon | Southern Baltic | Baltic Sea | Europe | Ocean | Temperate | 100 | No | | | | | | |
-| 2481 | Coast of Stockholm | Northern Baltic | Baltic Sea | Europe | Ocean | Subarctic | 100 | No | | | | | | |
-| 2482 | Central Baltic Sea | Northern Baltic | Baltic Sea | Europe | Ocean | Subarctic | 100 | No | | | | | | |
-| 2483 | Gulf of Riga | Northern Baltic | Baltic Sea | Europe | Ocean | Subarctic | 100 | No | | | | | | |
-| 2484 | Gulf of Finland | Northern Baltic | Baltic Sea | Europe | Ocean | Subarctic | 100 | No | | | | | | |
-| 2485 | Lake Peipus | Lake | Lake | Europe | Ocean | Subarctic | 100 | No | | | | | | |
-| 2486 | Lake Onega | Lake | Lake | Europe | Ocean | Subarctic | 100 | No | | | | | | |
-| 2487 | Lake Ladoga | Lake | Lake | Europe | Ocean | Subarctic | 100 | No | | | | | | |
-| 2488 | Lake Rybinskyje | Lake | Lake | Europe | Ocean | Subarctic | 100 | No | | | | | | |
-| 2489 | Southwest Gulf of Bothnia | Bothnian Bay | Baltic Sea | Europe | Ocean | Subarctic | 100 | No | | | | | | |
-| 2490 | Vänern & Vättern | Lake | Lake | Europe | Ocean | Subarctic | 100 | No | | | | | | |
-| 2491 | Southeast Gulf of Bothnia | Bothnian Bay | Baltic Sea | Europe | Ocean | Subarctic | 100 | No | | | | | | |
-| 2492 | Central Gulf of Bothnia | Bothnian Bay | Baltic Sea | Europe | Ocean | Subarctic | 100 | No | | | | | | |
-| 2493 | Northeast Gulf of Bothnia | Bothnian Bay | Baltic Sea | Europe | Ocean | Subarctic | 100 | No | | | | | | |
-| 2494 | Northwest Gulf of Bothnia | Bothnian Bay | Baltic Sea | Europe | Ocean | Subarctic | 100 | No | | | | | | |
-| 2495 | West Guinea Basin | Ascension Fracture Zone | Southcentral Atlantic | | Ocean | Tropical | 100 | No | | | | | | |
-| 2496 | South Guinea Basin | Ascension Fracture Zone | Southcentral Atlantic | | Ocean | Tropical | 100 | No | | | | | | |
-| 2497 | Guinea Plain | Pernambuco Plain | Southcentral Atlantic | | Ocean | Tropical | 100 | No | | | | | | |
-| 2498 | West Angola Plain | Angola Plain | Southeast Atlantic Ocean | | Ocean | Subtropical | 100 | No | | | | | | |
-| 2499 | East Argentine Plain | Argentine Plain | Southwest Atlantic Ocean | | Ocean | Tropical | 100 | No | | | | | | |
-| ID | Province name | Area | Region | Continent | Terrain | Climate | Infra | Beach? | IC | Manpower | Energy | Oil | Metal | Rare Materials |
-|
-
-## 2500
-
-| Central Argentine Plain | Argentine Plain | Southwest Atlantic Ocean | | Ocean | Tropical | 100 | No | | | | | | |
-| 2501 | West Argentine Plain | Coast of Uruguay | Southwest Atlantic Ocean | | Ocean | Temperate | 100 | No | | | | | | |
-| 2502 | Blanca Bay | Coast of Uruguay | Southwest Atlantic Ocean | | Ocean | Temperate | 100 | No | | | | | | |
-| 2503 | River Plate | Coast of Uruguay | Southwest Atlantic Ocean | | Ocean | Temperate | 100 | No | | | | | | |
-| 2504 | South Santos Plateau | Coast of Uruguay | Southwest Atlantic Ocean | | Ocean | Subtropical | 100 | No | | | | | | |
-| 2505 | North Santos Plateau | Coast of Brazil | Brazilian Coast | | Ocean | Tropical | 100 | No | | | | | | |
-| 2506 | North Argentine Plain | Coast of Brazil | Brazilian Coast | | Ocean | Tropical | 100 | No | | | | | | |
-| 2507 | Rio Bay | Coast of Brazil | Brazilian Coast | | Ocean | Tropical | 100 | No | | | | | | |
-| 2508 | Baia de Todos os Santos | Coast of Brazil | Brazilian Coast | | Ocean | Tropical | 100 | No | | | | | | |
-| 2509 | Lake Tucuruí | Lake | Lake | | Ocean | Tropical | 100 | No | | | | | | |
-| 2510 | Brazilian Plain | Coast of Recife | Brazilian Coast | | Ocean | Mediterranean | 100 | No | | | | | | |
-| 2511 | Cabo de Sao Roque | Coast of Recife | Brazilian Coast | | Ocean | Tropical | 100 | No | | | | | | |
-| 2512 | East Ceara Deep Sea Plain | Coast of Recife | Brazilian Coast | | Ocean | Tropical | 100 | No | | | | | | |
-| 2513 | Bay of Fortaleza | Coast of Recife | Brazilian Coast | | Ocean | Tropical | 100 | No | | | | | | |
-| 2514 | Bay of Sao Luis | Coast of Recife | Brazilian Coast | | Ocean | Tropical | 100 | No | | | | | | |
-| 2515 | Baja de Marajo | Coast of Guyana | Brazilian Coast | | Ocean | Mediterranean | 100 | No | | | | | | |
-| 2516 | Delta Amazona | Coast of Guyana | Brazilian Coast | | Ocean | Tropical | 100 | No | | | | | | |
-| 2517 | Bay of Guyana | Coast of Guyana | Brazilian Coast | | Ocean | Tropical | 100 | No | | | | | | |
-| 2518 | Bocas del Dragon | Windward Islands | Carribean | | Ocean | Subtropical | 100 | No | | | | | | |
-| 2519 | Lesser Antilles | Windward Islands | Carribean | | Ocean | Subtropical | 100 | No | | | | | | |
-| 2520 | La Tortuga | Windward Islands | Carribean | | Ocean | Subtropical | 100 | No | | | | | | |
-| 2521 | Mona Passage | Windward Islands | Carribean | | Ocean | Subtropical | 100 | No | | | | | | |
-| 2522 | Gulf of Venezuela | Central Carribean | Carribean | | Ocean | Subtropical | 100 | No | | | | | | |
-| 2523 | Gulf of Darien | Central Carribean | Carribean | | Ocean | Subtropical | 100 | No | | | | | | |
-| 2524 | Windward Passage | Central Carribean | Carribean | | Ocean | Subtropical | 100 | No | | | | | | |
-| 2525 | Cape Gracias a Dios | Yucatan Strait | Carribean | | Ocean | Subtropical | 100 | No | | | | | | |
-| 2526 | Gulf of Honduras | Yucatan Strait | Carribean | | Ocean | Subtropical | 100 | No | | | | | | |
-| 2527 | Yucatan Channel | Yucatan Strait | Carribean | | Ocean | Subtropical | 100 | No | | | | | | |
-| 2528 | Campeche Banks | West Gulf of Mexico | Mexican Gulf | | Ocean | Subtropical | 100 | No | | | | | | |
-| 2529 | Gulf of Campeche | West Gulf of Mexico | Mexican Gulf | | Ocean | Subtropical | 100 | No | | | | | | |
-| 2530 | Tamaulipas Bay | West Gulf of Mexico | Mexican Gulf | | Ocean | Subtropical | 100 | No | | | | | | |
-| 2531 | Galveston Bay | West Gulf of Mexico | Mexican Gulf | | Ocean | Subtropical | 100 | No | | | | | | |
-| 2532 | Gulf of Mexico | West Gulf of Mexico | Mexican Gulf | | Ocean | Subtropical | 100 | No | | | | | | |
-| 2533 | Mississippi Delta | East Gulf of Mexico | Mexican Gulf | | Ocean | Subtropical | 100 | No | | | | | | |
-| 2534 | Apalache Bay | East Gulf of Mexico | Mexican Gulf | | Ocean | Subtropical | 100 | No | | | | | | |
-| 2535 | Florida Strait | Florida Strait | Sargassos | | Ocean | Subtropical | 100 | No | | | | | | |
-| 2536 | Old Bahama Channel | Florida Strait | Sargassos | | Ocean | Subtropical | 100 | No | | | | | | |
-| 2537 | Crooked Island Passage | Florida Strait | Sargassos | | Ocean | Subtropical | 100 | No | | | | | | |
-| 2538 | Grand Bahama | Florida Strait | Sargassos | | Ocean | Tropical | 100 | No | | | | | | |
-| 2539 | Mayaguana Passage | Central Carribean | Carribean | | Ocean | Subtropical | 100 | No | | | | | | |
-| 2540 | South Sargasso Sea | Bermuda Triangle | Sargassos | | Ocean | Subtropical | 100 | No | | | | | | |
-| 2541 | Northern Antilles Shelf | Guiana Basin | Sargassos | | Ocean | Tropical | 100 | No | | | | | | |
-| 2542 | West Ceara Deep Sea Plain | Coast of Guyana | Brazilian Coast | | Ocean | Tropical | 100 | No | | | | | | |
-| 2543 | Guiana Basin | Guiana Basin | Central Mid-Atlantic Ridge | | Ocean | Subtropical | 100 | No | | | | | | |
-| 2544 | Eastern Guiana Basin | South-Central Mid-Atlantic Ridge | Central Mid-Atlantic Ridge | | Ocean | Subtropical | 100 | No | | | | | | |
-| 2545 | Southern South-Central Mid-Atlantic Ridge | South-Central Mid-Atlantic Ridge | Central Mid-Atlantic Ridge | | Ocean | Tropical | 100 | No | | | | | | |
-| 2546 | West Romanche Gap | Cap Verde | Eastern Atlantic | | Ocean | Tropical | 100 | No | | | | | | |
-| 2547 | East Romanche Gap | Cap Verde | Eastern Atlantic | | Ocean | Tropical | 100 | No | | | | | | |
-| 2548 | Northeast Argentine Plain | Pernambuco Plain | Southcentral Atlantic | | Ocean | Tropical | 100 | No | | | | | | |
-| 2549 | South Romanche Gap | Pernambuco Plain | Southcentral Atlantic | | Ocean | Tropical | 100 | No | | | | | | |
-| ID | Province name | Area | Region | Continent | Terrain | Climate | Infra | Beach? | IC | Manpower | Energy | Oil | Metal | Rare Materials |
-|
-
-## 2550
-
-| Gulf of Penas | West Coast of Chile | West Coast of South America | North America | Ocean | Temperate | 100 | No | | | | | | |
-| 2551 | Gulf of Corcovado | West Coast of Chile | West Coast of South America | North America | Ocean | Temperate | 100 | No | | | | | | |
-| 2552 | Northeast Humboldt Plain | West Coast of Chile | West Coast of South America | North America | Ocean | Temperate | 100 | No | | | | | | |
-| 2553 | South Peru-Chile Trench | West Coast of Chile | West Coast of South America | North America | Ocean | Subtropical | 100 | No | | | | | | |
-| 2554 | South Nazea Ridge | South Southeast Pacific Ocean | Southeast Pacific Ocean | North America | Ocean | Subtropical | 100 | No | | | | | | |
-| 2555 | North Nazea Ridge | South Southeast Pacific Ocean | Southeast Pacific Ocean | North America | Ocean | Tropical | 100 | No | | | | | | |
-| 2556 | San Nicholas Bay | West Coast of Peru | West Coast of South America | North America | Ocean | Tropical | 100 | No | | | | | | |
-| 2557 | Lake Titicaca | Lake | Lake | North America | Ocean | Tropical | 100 | No | | | | | | |
-| 2558 | Chiquinata Bay | West Coast of Peru | West Coast of South America | North America | Ocean | Tropical | 100 | No | | | | | | |
-| 2559 | Moreno Bay | West Coast of Chile | West Coast of South America | North America | Ocean | Subtropical | 100 | No | | | | | | |
-| 2560 | Coquimbo Bay | West Coast of Chile | West Coast of South America | North America | Ocean | Temperate | 100 | No | | | | | | |
-| 2561 | Manzano Bay | West Coast of Chile | West Coast of South America | Indian Ocean | Ocean | Temperate | 100 | No | | | | | | |
-| 2562 | Necker Ridge | Hawaiian Rise | Central Pacific Ocean | North America | Ocean | Tropical | 100 | No | | | | | | |
-| 2563 | East Hawaiian Rise | Hawaiian Rise | Central Pacific Ocean | North America | Ocean | Tropical | 100 | No | | | | | | |
-| 2564 | Central Clarion Fracture Zone | South East Pacific Ocean | East Pacific Ocean | Indian Ocean | Ocean | Tropical | 100 | No | | | | | | |
-| 2565 | East Clarion Fracture Zone | South East Pacific Ocean | East Pacific Ocean | Indian Ocean | Ocean | Tropical | 100 | No | | | | | | |
-| 2566 | East Pacific Rise | West Coast of Mexico | West Coast of North America | North America | Ocean | Tropical | 100 | No | | | | | | |
-| 2567 | Bay of Banderas | West Coast of Mexico | West Coast of North America | North America | Ocean | Tropical | 100 | No | | | | | | |
-| 2568 | Gulf of California | West Coast of Mexico | West Coast of North America | North America | Ocean | Subtropical | 100 | No | | | | | | |
-| 2569 | Bay of Petacalco | West Coast of Mexico | West Coast of North America | North America | Ocean | Tropical | 100 | No | | | | | | |
-| 2570 | Bahia Dulce | West Coast of Mexico | West Coast of North America | North America | Ocean | Tropical | 100 | No | | | | | | |
-| 2571 | Gulf of Tehuantepec | West Coast of Central America | West Coast of North America | North America | Ocean | Tropical | 100 | No | | | | | | |
-| 2572 | Gulf of Fonseca | West Coast of Central America | West Coast of North America | North America | Ocean | Tropical | 100 | No | | | | | | |
-| 2573 | Coronado Bay | West Coast of Central America | West Coast of North America | North America | Ocean | Tropical | 100 | No | | | | | | |
-| 2574 | Gulf of Panama | West Coast of Central America | West Coast of North America | North America | Ocean | Tropical | 100 | No | | | | | | |
-| 2575 | Panama Canal | West Coast of Central America | West Coast of North America | North America | Ocean | Tropical | 100 | No | | | | | | |
-| 2576 | Maizel Islanads | Central Carribean | Carribean | | Ocean | Subtropical | 100 | No | | | | | | |
-| 2577 | Southern Antilles Shelf | Guiana Basin | Brazilian Coast | | Ocean | Tropical | 100 | No | | | | | | |
-| 2578 | Grand Cayman | Yucatan Strait | Carribean | | Ocean | Subtropical | 100 | No | | | | | | |
-| 2579 | Tampa Bay | East Gulf of Mexico | Mexican Gulf | | Ocean | Subtropical | 100 | No | | | | | | |
-| 2580 | West Guinea Bay | Coast of Bissao | Eastern Atlantic | | Ocean | Tropical | 100 | No | | | | | | |
-| 2581 | Centraleast Guinea Bay | Gulf of Guinea | Southcentral Atlantic | | Ocean | Tropical | 100 | No | | | | | | |
-| 2582 | East Angola Plain | Coast of Angola-Namibia | Southeast Atlantic Ocean | | Ocean | Subtropical | 100 | No | | | | | | |
-| 2583 | West Natal Basin | South Mozambique Channel | Mozambique Channel | Indian Ocean | Ocean | Subtropical | 100 | No | | | | | | |
-| 2584 | North Somali Basin | Horn of Africa | Arabian Sea | Indian Ocean | Ocean | Tropical | 100 | No | | | | | | |
-| 2585 | North Arabian Basin | North Arabian Sea | Arabian Sea | Indian Ocean | Ocean | Subtropical | 100 | No | | | | | | |
-| 2586 | East Arabian Basin | South Arabian Sea | Arabian Sea | Indian Ocean | Ocean | Tropical | 100 | No | | | | | | |
-| 2587 | North Chagos-Laccadive Plateau | South Arabian Sea | Arabian Sea | Indian Ocean | Ocean | Tropical | 100 | No | | | | | | |
-| 2588 | West Java Trench | Java Trench | East Indian Ocean | Asia | Ocean | Tropical | 100 | No | | | | | | |
-| 2589 | Tokyo Bay | Coast of Japan | Home Islands | Asia | Ocean | Temperate | 100 | No | | | | | | |
-| 2590 | Ishikari Bay | Sea of Japan | Home Islands | Asia | Ocean | Temperate | 100 | No | | | | | | |
-| 2591 | East Tasman Plateau | South Tasman Sea | Tasman Sea | Asia | Ocean | Temperate | 100 | No | | | | | | |
-| 2592 | Macquarie Ridge | South Tasman Sea | Tasman Sea | Asia | Ocean | Tropical | 100 | No | | | | | | |
-| 2593 | Madeiran Approach | Cap St Vincent | Iberian West Coast | | Ocean | Subtropical | 100 | No | | | | | | |
-| 2594 | East Cap Verde Approach | Coast of Africa | Eastern Atlantic | | Ocean | Tropical | 100 | No | | | | | | |
-| 2595 | North Iberian Shelf | Portugese Coast | Iberian West Coast | | Ocean | Temperate | 100 | No | | | | | | |
-| 2596 | East Biscaya Basin | Bay of Biscay | Celtic Sea | | Ocean | Temperate | 100 | No | | | | | | |
-| 2597 | East Celtic Shelf | Cape Finisterre | Celtic Sea | | Ocean | Temperate | 100 | No | | | | | | |
-| 2598 | Central Faroes Gap | Faroes Gap | Western Ice Sea | | Ocean | Temperate | 100 | No | | | | | | |
-| 2599 | Southeast Faroes Gap | Faroes Gap | Western Ice Sea | | Ocean | Temperate | 100 | No | | | | | | |
-| ID | Province name | Area | Region | Continent | Terrain | Climate | Infra | Beach? | IC | Manpower | Energy | Oil | Metal | Rare Materials |
-|
-
-## 2600
-
-| East Central North Sea | East North Sea | North Sea | Europe | Ocean | Temperate | 100 | No | | | | | | |
-| 2601 | North Norwegian Sea | Norwegian Sea | Ice Sea | Europe | Ocean | Arctic | 100 | No | | | | | | |
+<tr class="odd">
+<th><h2 id="section"><span id="1700" class="mw-headline"> 1700
+</span></h2></th>
+<th>Mount Isa</th>
+<th>Darwin</th>
+<th>Australia</th>
+<th>Asia</th>
+<th>Clear</th>
+<th>Subtropical</th>
+<th>20</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th>3</th>
+<th></th>
+</tr>
+<tr class="even">
+<th>1701</th>
+<th>Borroloola</th>
+<th>Darwin</th>
+<th>Australia</th>
+<th>Asia</th>
+<th>Clear</th>
+<th>Subtropical</th>
+<th>40</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>1702</th>
+<th>Nhulunbuy</th>
+<th>Darwin</th>
+<th>Australia</th>
+<th>Asia</th>
+<th>Forest</th>
+<th>Subtropical</th>
+<th>40</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>1703</th>
+<th>Darwin</th>
+<th>Darwin</th>
+<th>Australia</th>
+<th>Asia</th>
+<th>Forest</th>
+<th>Subtropical</th>
+<th>60</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>1704</th>
+<th>Katherine</th>
+<th>Darwin</th>
+<th>Australia</th>
+<th>Asia</th>
+<th>Forest</th>
+<th>Subtropical</th>
+<th>40</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>1705</th>
+<th>Barrow Creek</th>
+<th>Alice Springs</th>
+<th>Australia</th>
+<th>Asia</th>
+<th>Clear</th>
+<th>Subtropical</th>
+<th>20</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>1706</th>
+<th>Wyndham</th>
+<th>Darwin</th>
+<th>Australia</th>
+<th>Asia</th>
+<th>Forest</th>
+<th>Subtropical</th>
+<th>20</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>1707</th>
+<th>Wave Hill</th>
+<th>Darwin</th>
+<th>Australia</th>
+<th>Asia</th>
+<th>Clear</th>
+<th>Subtropical</th>
+<th>20</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>1708</th>
+<th>Broome</th>
+<th>Darwin</th>
+<th>Australia</th>
+<th>Asia</th>
+<th>Clear</th>
+<th>Subtropical</th>
+<th>40</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>1709</th>
+<th>Goldsworthy</th>
+<th>Perth</th>
+<th>Australia</th>
+<th>Asia</th>
+<th>Desert</th>
+<th>Arid</th>
+<th>40</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>1710</th>
+<th>Carnarvon</th>
+<th>Perth</th>
+<th>Australia</th>
+<th>Asia</th>
+<th>Clear</th>
+<th>Mediterranean</th>
+<th>60</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>1711</th>
+<th>Geraldton</th>
+<th>Perth</th>
+<th>Australia</th>
+<th>Asia</th>
+<th>Clear</th>
+<th>Mediterranean</th>
+<th>60</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>1712</th>
+<th>Perth</th>
+<th>Perth</th>
+<th>Australia</th>
+<th>Asia</th>
+<th>Forest</th>
+<th>Mediterranean</th>
+<th>60</th>
+<th>Yes</th>
+<th>1</th>
+<th></th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>1713</th>
+<th>Esperance</th>
+<th>Perth</th>
+<th>Australia</th>
+<th>Asia</th>
+<th>Clear</th>
+<th>Mediterranean</th>
+<th>20</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>1714</th>
+<th>Laverton</th>
+<th>Alice Springs</th>
+<th>Australia</th>
+<th>Asia</th>
+<th>Desert</th>
+<th>Arid</th>
+<th>0</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>1715</th>
+<th>Gibson Desert</th>
+<th>Alice Springs</th>
+<th>Australia</th>
+<th>Asia</th>
+<th>Desert</th>
+<th>Arid</th>
+<th>0</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>1716</th>
+<th>Penong</th>
+<th>Adelaide</th>
+<th>Australia</th>
+<th>Asia</th>
+<th>Desert</th>
+<th>Arid</th>
+<th>20</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>1717</th>
+<th>Port Lincoln</th>
+<th>Adelaide</th>
+<th>Australia</th>
+<th>Asia</th>
+<th>Clear</th>
+<th>Mediterranean</th>
+<th>60</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>1718</th>
+<th>Port Augusta</th>
+<th>Adelaide</th>
+<th>Australia</th>
+<th>Asia</th>
+<th>Clear</th>
+<th>Mediterranean</th>
+<th>60</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>1719</th>
+<th>Birdsville</th>
+<th>Alice Springs</th>
+<th>Australia</th>
+<th>Asia</th>
+<th>Desert</th>
+<th>Arid</th>
+<th>0</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>1720</th>
+<th>Quilpie</th>
+<th>Alice Springs</th>
+<th>Australia</th>
+<th>Asia</th>
+<th>Clear</th>
+<th>Arid</th>
+<th>20</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>1721</th>
+<th>Mitchell</th>
+<th>Brisbane</th>
+<th>Australia</th>
+<th>Asia</th>
+<th>Clear</th>
+<th>Mediterranean</th>
+<th>40</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th>20</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>1722</th>
+<th>Brisbane</th>
+<th>Brisbane</th>
+<th>Australia</th>
+<th>Asia</th>
+<th>Hills</th>
+<th>Mediterranean</th>
+<th>80</th>
+<th>Yes</th>
+<th>1</th>
+<th>1</th>
+<th>1</th>
+<th></th>
+<th>1</th>
+<th></th>
+</tr>
+<tr class="even">
+<th>1723</th>
+<th>Coff's Harbour</th>
+<th>Brisbane</th>
+<th>Australia</th>
+<th>Asia</th>
+<th>Hills</th>
+<th>Mediterranean</th>
+<th>80</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>1724</th>
+<th>Newcastle</th>
+<th>Sydney</th>
+<th>Australia</th>
+<th>Asia</th>
+<th>Hills</th>
+<th>Mediterranean</th>
+<th>80</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th>20</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>1725</th>
+<th>Wentworth</th>
+<th>Sydney</th>
+<th>Australia</th>
+<th>Asia</th>
+<th>Hills</th>
+<th>Mediterranean</th>
+<th>40</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>1726</th>
+<th>Cobar</th>
+<th>Sydney</th>
+<th>Australia</th>
+<th>Asia</th>
+<th>Clear</th>
+<th>Mediterranean</th>
+<th>40</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>1727</th>
+<th>Sydney</th>
+<th>Sydney</th>
+<th>Australia</th>
+<th>Asia</th>
+<th>Hills</th>
+<th>Mediterranean</th>
+<th>80</th>
+<th>Yes</th>
+<th>4</th>
+<th>2</th>
+<th>4</th>
+<th></th>
+<th>2</th>
+<th>1</th>
+</tr>
+<tr class="odd">
+<th>1728</th>
+<th>Canberra</th>
+<th>Melbourne</th>
+<th>Australia</th>
+<th>Asia</th>
+<th>Hills</th>
+<th>Mediterranean</th>
+<th>80</th>
+<th>Yes</th>
+<th>5</th>
+<th>5</th>
+<th>10</th>
+<th></th>
+<th>5</th>
+<th>3</th>
+</tr>
+<tr class="even">
+<th>1729</th>
+<th>Tasmania</th>
+<th>Melbourne</th>
+<th>Australia</th>
+<th>Asia</th>
+<th>Hills</th>
+<th>Subtropical</th>
+<th>60</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th>15</th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>1730</th>
+<th>Melbourne</th>
+<th>Melbourne</th>
+<th>Australia</th>
+<th>Asia</th>
+<th>Clear</th>
+<th>Mediterranean</th>
+<th>80</th>
+<th>Yes</th>
+<th>3</th>
+<th>2</th>
+<th>3</th>
+<th></th>
+<th>2</th>
+<th>1</th>
+</tr>
+<tr class="even">
+<th>1731</th>
+<th>Hay</th>
+<th>Melbourne</th>
+<th>Australia</th>
+<th>Asia</th>
+<th>Hills</th>
+<th>Mediterranean</th>
+<th>40</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>1732</th>
+<th>Mount Gambier</th>
+<th>Adelaide</th>
+<th>Australia</th>
+<th>Asia</th>
+<th>Clear</th>
+<th>Mediterranean</th>
+<th>60</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>1733</th>
+<th>Adelaide</th>
+<th>Adelaide</th>
+<th>Australia</th>
+<th>Asia</th>
+<th>Clear</th>
+<th>Mediterranean</th>
+<th>60</th>
+<th>Yes</th>
+<th>1</th>
+<th>1</th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>1734</th>
+<th>Broken Hill</th>
+<th>Adelaide</th>
+<th>Australia</th>
+<th>Asia</th>
+<th>Clear</th>
+<th>Mediterranean</th>
+<th>40</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th>31</th>
+<th></th>
+</tr>
+<tr class="even">
+<th>1735</th>
+<th>Palawan</th>
+<th>Palawan_Mindoro</th>
+<th>Philippines</th>
+<th>Asia</th>
+<th>Jungle</th>
+<th>Tropical</th>
+<th>40</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>1736</th>
+<th>Mindoro</th>
+<th>Palawan_Mindoro</th>
+<th>Philippines</th>
+<th>Asia</th>
+<th>Forest</th>
+<th>Tropical</th>
+<th>40</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>1737</th>
+<th>Manila</th>
+<th>Luzon</th>
+<th>Philippines</th>
+<th>Asia</th>
+<th>Clear</th>
+<th>Tropical</th>
+<th>60</th>
+<th>No</th>
+<th>4</th>
+<th>5</th>
+<th>11</th>
+<th></th>
+<th>6</th>
+<th>4</th>
+</tr>
+<tr class="odd">
+<th>1738</th>
+<th>Bataan</th>
+<th>Luzon</th>
+<th>Philippines</th>
+<th>Asia</th>
+<th>Hills</th>
+<th>Tropical</th>
+<th>60</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>1739</th>
+<th>Clark Field</th>
+<th>Luzon</th>
+<th>Philippines</th>
+<th>Asia</th>
+<th>Clear</th>
+<th>Tropical</th>
+<th>60</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>1740</th>
+<th>Lingayen Gulf</th>
+<th>Luzon</th>
+<th>Philippines</th>
+<th>Asia</th>
+<th>Clear</th>
+<th>Tropical</th>
+<th>60</th>
+<th>Yes</th>
+<th>1</th>
+<th>1</th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>1741</th>
+<th>Aparri</th>
+<th>Luzon</th>
+<th>Philippines</th>
+<th>Asia</th>
+<th>Hills</th>
+<th>Tropical</th>
+<th>60</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>1742</th>
+<th>Lamon Bay</th>
+<th>Luzon</th>
+<th>Philippines</th>
+<th>Asia</th>
+<th>Forest</th>
+<th>Tropical</th>
+<th>60</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>1743</th>
+<th>Legaspi</th>
+<th>Luzon</th>
+<th>Philippines</th>
+<th>Asia</th>
+<th>Forest</th>
+<th>Tropical</th>
+<th>60</th>
+<th>Yes</th>
+<th>1</th>
+<th>1</th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>1744</th>
+<th>Samar</th>
+<th>Leyte Island Group</th>
+<th>Philippines</th>
+<th>Asia</th>
+<th>Jungle</th>
+<th>Tropical</th>
+<th>40</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>1745</th>
+<th>Leyte</th>
+<th>Leyte Island Group</th>
+<th>Philippines</th>
+<th>Asia</th>
+<th>Forest</th>
+<th>Tropical</th>
+<th>60</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>1746</th>
+<th>Panay</th>
+<th>Leyte Island Group</th>
+<th>Philippines</th>
+<th>Asia</th>
+<th>Jungle</th>
+<th>Tropical</th>
+<th>40</th>
+<th>Yes</th>
+<th>1</th>
+<th>1</th>
+<th>1</th>
+<th></th>
+<th>1</th>
+<th>1</th>
+</tr>
+<tr class="even">
+<th>1747</th>
+<th>Negros</th>
+<th>Leyte Island Group</th>
+<th>Philippines</th>
+<th>Asia</th>
+<th>Forest</th>
+<th>Tropical</th>
+<th>40</th>
+<th>Yes</th>
+<th>1</th>
+<th>1</th>
+<th>1</th>
+<th></th>
+<th>1</th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>1748</th>
+<th>Zamboanga</th>
+<th>Mindanao</th>
+<th>Philippines</th>
+<th>Asia</th>
+<th>Hills</th>
+<th>Tropical</th>
+<th>40</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>1749</th>
+<th>Cagayan</th>
+<th>Mindanao</th>
+<th>Philippines</th>
+<th>Asia</th>
+<th>Forest</th>
+<th>Tropical</th>
+<th>40</th>
+<th>Yes</th>
+<th></th>
+<th>1</th>
+<th></th>
+<th></th>
+<th>4</th>
+<th></th>
+</tr>
+<tr class="odd" data-bgcolor="ffff66">
+<th>ID</th>
+<th>Province name</th>
+<th>Area</th>
+<th>Region</th>
+<th>Continent</th>
+<th>Terrain</th>
+<th>Climate</th>
+<th>Infra</th>
+<th>Beach?</th>
+<th>IC</th>
+<th>Manpower</th>
+<th>Energy</th>
+<th>Oil</th>
+<th>Metal</th>
+<th>Rare Materials</th>
+</tr>
+<tr class="even">
+<th><h2 id="section-1"><span id="1750" class="mw-headline"> 1750
+</span></h2></th>
+<th>Davao</th>
+<th>Mindanao</th>
+<th>Philippines</th>
+<th>Asia</th>
+<th>Forest</th>
+<th>Tropical</th>
+<th>40</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>1751</th>
+<th>Tahiti</th>
+<th>Polynesia</th>
+<th>American Pacific</th>
+<th>Asia</th>
+<th>Clear</th>
+<th>Tropical</th>
+<th>80</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>1752</th>
+<th>Fiji</th>
+<th>Fiji</th>
+<th>American Pacific</th>
+<th>Asia</th>
+<th>Clear</th>
+<th>Tropical</th>
+<th>80</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>1753</th>
+<th>Vanua Levu</th>
+<th>Fiji</th>
+<th>American Pacific</th>
+<th>Asia</th>
+<th>Clear</th>
+<th>Tropical</th>
+<th>80</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>1754</th>
+<th>Lau Group</th>
+<th>Fiji</th>
+<th>American Pacific</th>
+<th>Asia</th>
+<th>Clear</th>
+<th>Tropical</th>
+<th>80</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>1755</th>
+<th>Taveuni</th>
+<th>Fiji</th>
+<th>American Pacific</th>
+<th>Asia</th>
+<th>Clear</th>
+<th>Tropical</th>
+<th>80</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>1756</th>
+<th>Samoa</th>
+<th>Samoa</th>
+<th>American Pacific</th>
+<th>Asia</th>
+<th>Clear</th>
+<th>Tropical</th>
+<th>80</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>1757</th>
+<th>Tamana</th>
+<th>South Gilberts</th>
+<th>American Pacific</th>
+<th>Asia</th>
+<th>Clear</th>
+<th>Tropical</th>
+<th>80</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>1758</th>
+<th>Arorae</th>
+<th>South Gilberts</th>
+<th>American Pacific</th>
+<th>Asia</th>
+<th>Clear</th>
+<th>Tropical</th>
+<th>80</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>1759</th>
+<th>Tabiteuea</th>
+<th>South Gilberts</th>
+<th>American Pacific</th>
+<th>Asia</th>
+<th>Clear</th>
+<th>Tropical</th>
+<th>80</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>1760</th>
+<th>Nonouti</th>
+<th>South Gilberts</th>
+<th>American Pacific</th>
+<th>Asia</th>
+<th>Clear</th>
+<th>Tropical</th>
+<th>80</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>1761</th>
+<th>Apamama</th>
+<th>North Gilberts</th>
+<th>American Pacific</th>
+<th>Asia</th>
+<th>Clear</th>
+<th>Tropical</th>
+<th>80</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>1762</th>
+<th>Phoenix Island</th>
+<th>Phoenix</th>
+<th>American Pacific</th>
+<th>Asia</th>
+<th>Clear</th>
+<th>Tropical</th>
+<th>80</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>1763</th>
+<th>Christmas Island</th>
+<th>Phoenix</th>
+<th>American Pacific</th>
+<th>Asia</th>
+<th>Clear</th>
+<th>Tropical</th>
+<th>80</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>1764</th>
+<th>Jarvis Island</th>
+<th>Phoenix</th>
+<th>American Pacific</th>
+<th>Asia</th>
+<th>Clear</th>
+<th>Tropical</th>
+<th>80</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>1765</th>
+<th>Palmyra</th>
+<th>Phoenix</th>
+<th>American Pacific</th>
+<th>Asia</th>
+<th>Clear</th>
+<th>Tropical</th>
+<th>80</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>1766</th>
+<th>Johnson Island</th>
+<th>Johnson Island</th>
+<th>American Pacific</th>
+<th>Asia</th>
+<th>Clear</th>
+<th>Tropical</th>
+<th>80</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>1767</th>
+<th>Makin</th>
+<th>North Gilberts</th>
+<th>American Pacific</th>
+<th>Asia</th>
+<th>Clear</th>
+<th>Tropical</th>
+<th>80</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>1768</th>
+<th>Abaiang</th>
+<th>North Gilberts</th>
+<th>American Pacific</th>
+<th>Asia</th>
+<th>Clear</th>
+<th>Tropical</th>
+<th>80</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>1769</th>
+<th>Tarawa</th>
+<th>North Gilberts</th>
+<th>American Pacific</th>
+<th>Asia</th>
+<th>Clear</th>
+<th>Tropical</th>
+<th>80</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>1770</th>
+<th>Maiana</th>
+<th>North Gilberts</th>
+<th>American Pacific</th>
+<th>Asia</th>
+<th>Clear</th>
+<th>Tropical</th>
+<th>80</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>1771</th>
+<th>Mezen</th>
+<th>Arkhangelsk</th>
+<th>White Sea Tundra</th>
+<th>Europe</th>
+<th>Marsh</th>
+<th>Subarctic</th>
+<th>40</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>1772</th>
+<th>Ukhta</th>
+<th>Perm</th>
+<th>Urals</th>
+<th>Asia</th>
+<th>Marsh</th>
+<th>Arctic</th>
+<th>20</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th>2</th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>1773</th>
+<th>Syktyvkar</th>
+<th>Perm</th>
+<th>Urals</th>
+<th>Asia</th>
+<th>Marsh</th>
+<th>Subarctic</th>
+<th>40</th>
+<th>No</th>
+<th>1</th>
+<th>1</th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>1774</th>
+<th>Kotelnich</th>
+<th>Kazan</th>
+<th>Russia</th>
+<th>Europe</th>
+<th>Forest</th>
+<th>Muddy</th>
+<th>60</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>1775</th>
+<th>Yoskar Ola</th>
+<th>Kazan</th>
+<th>Russia</th>
+<th>Europe</th>
+<th>Forest</th>
+<th>Muddy</th>
+<th>50</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>1776</th>
+<th>Cheboksary</th>
+<th>Kazan</th>
+<th>Russia</th>
+<th>Europe</th>
+<th>Forest</th>
+<th>Muddy</th>
+<th>50</th>
+<th>No</th>
+<th>1</th>
+<th>1</th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>1777</th>
+<th>Saransk</th>
+<th>Kazan</th>
+<th>Russia</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Muddy</th>
+<th>60</th>
+<th>No</th>
+<th>1</th>
+<th>1</th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>1778</th>
+<th>Ulyanovsk</th>
+<th>Kuybyshev</th>
+<th>Russia</th>
+<th>Europe</th>
+<th>Forest</th>
+<th>Muddy</th>
+<th>60</th>
+<th>No</th>
+<th>1</th>
+<th>1</th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>1779</th>
+<th></th>
+<th>-</th>
+<th>-</th>
+<th>-</th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>1780</th>
+<th>Kazan</th>
+<th>Kuybyshev</th>
+<th>Russia</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Muddy</th>
+<th>60</th>
+<th>No</th>
+<th>2</th>
+<th>2</th>
+<th>2</th>
+<th></th>
+<th>2</th>
+<th>1</th>
+</tr>
+<tr class="odd">
+<th>1781</th>
+<th>Melekess</th>
+<th>Kuybyshev</th>
+<th>Russia</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Muddy</th>
+<th>60</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>1782</th>
+<th>Izhevsk</th>
+<th>Kazan</th>
+<th>Russia</th>
+<th>Europe</th>
+<th>Forest</th>
+<th>Muddy</th>
+<th>60</th>
+<th>No</th>
+<th>1</th>
+<th>1</th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>1783</th>
+<th>Kirov</th>
+<th>Kazan</th>
+<th>Russia</th>
+<th>Europe</th>
+<th>Forest</th>
+<th>Muddy</th>
+<th>60</th>
+<th>No</th>
+<th>1</th>
+<th>1</th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>1784</th>
+<th>Bonin Islands</th>
+<th>Bonin</th>
+<th>Asian Pacific</th>
+<th>Asia</th>
+<th>Hills</th>
+<th>Subtropical</th>
+<th>60</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>1785</th>
+<th>Marcus Island</th>
+<th>Marcus_Wake</th>
+<th>Asian Pacific</th>
+<th>Asia</th>
+<th>Desert</th>
+<th>Arid</th>
+<th>60</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>1786</th>
+<th>Wake Island</th>
+<th>Marcus_Wake</th>
+<th>Asian Pacific</th>
+<th>Asia</th>
+<th>Clear</th>
+<th>Tropical</th>
+<th>60</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>1787</th>
+<th>Rasht</th>
+<th>North Persia</th>
+<th>Persia</th>
+<th>Asia</th>
+<th>Mountain</th>
+<th>Mediterranean</th>
+<th>40</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>1788</th>
+<th>Hamadan</th>
+<th>North Persia</th>
+<th>Persia</th>
+<th>Asia</th>
+<th>Mountain</th>
+<th>Arid</th>
+<th>40</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>1789</th>
+<th>Bakhtaran</th>
+<th>South Persia</th>
+<th>Persia</th>
+<th>Asia</th>
+<th>Clear</th>
+<th>Arid</th>
+<th>60</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>1790</th>
+<th>Hilla</th>
+<th>Iraq</th>
+<th>Middle East</th>
+<th>Asia</th>
+<th>Desert</th>
+<th>Arid</th>
+<th>40</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>1791</th>
+<th>Karbala</th>
+<th>Iraq</th>
+<th>Middle East</th>
+<th>Asia</th>
+<th>Desert</th>
+<th>Arid</th>
+<th>20</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>1792</th>
+<th>Damascus</th>
+<th>Lebanon_Syria</th>
+<th>Middle East</th>
+<th>Asia</th>
+<th>Desert</th>
+<th>Arid</th>
+<th>40</th>
+<th>No</th>
+<th></th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>1793</th>
+<th>Tripoli</th>
+<th>Lebanon_Syria</th>
+<th>Middle East</th>
+<th>Asia</th>
+<th>Hills</th>
+<th>Mediterranean</th>
+<th>60</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>1794</th>
+<th>Beirut</th>
+<th>Lebanon_Syria</th>
+<th>Middle East</th>
+<th>Asia</th>
+<th>Hills</th>
+<th>Mediterranean</th>
+<th>60</th>
+<th>Yes</th>
+<th>1</th>
+<th>1</th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>1795</th>
+<th>Golan</th>
+<th>Lebanon_Syria</th>
+<th>Middle East</th>
+<th>Asia</th>
+<th>Hills</th>
+<th>Mediterranean</th>
+<th>40</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>1796</th>
+<th>Amman</th>
+<th>Transjordan</th>
+<th>Middle East</th>
+<th>Asia</th>
+<th>Clear</th>
+<th>Mediterranean</th>
+<th>40</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>1797</th>
+<th>Jerusalem</th>
+<th>Palestine</th>
+<th>Middle East</th>
+<th>Asia</th>
+<th>Hills</th>
+<th>Mediterranean</th>
+<th>40</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>1798</th>
+<th>Tel Aviv</th>
+<th>Palestine</th>
+<th>Middle East</th>
+<th>Asia</th>
+<th>Clear</th>
+<th>Mediterranean</th>
+<th>60</th>
+<th>Yes</th>
+<th>1</th>
+<th>1</th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>1799</th>
+<th>Gaza</th>
+<th>Palestine</th>
+<th>Middle East</th>
+<th>Asia</th>
+<th>Clear</th>
+<th>Mediterranean</th>
+<th>60</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even" data-bgcolor="ffff66">
+<th>ID</th>
+<th>Province name</th>
+<th>Area</th>
+<th>Region</th>
+<th>Continent</th>
+<th>Terrain</th>
+<th>Climate</th>
+<th>Infra</th>
+<th>Beach?</th>
+<th>IC</th>
+<th>Manpower</th>
+<th>Energy</th>
+<th>Oil</th>
+<th>Metal</th>
+<th>Rare Materials</th>
+</tr>
+<tr class="odd">
+<th><h2 id="section-2"><span id="1800" class="mw-headline"> 1800
+</span></h2></th>
+<th>el-Arish</th>
+<th>Palestine</th>
+<th>Middle East</th>
+<th>Asia</th>
+<th>Desert</th>
+<th>Arid</th>
+<th>40</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>1801</th>
+<th>Sharm el-Sheikh</th>
+<th>Suez Channel Area</th>
+<th>Middle East</th>
+<th>Asia</th>
+<th>Desert</th>
+<th>Arid</th>
+<th>40</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>1802</th>
+<th>Akaba</th>
+<th>Transjordan</th>
+<th>Middle East</th>
+<th>Asia</th>
+<th>Desert</th>
+<th>Arid</th>
+<th>20</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>1803</th>
+<th>Bayir</th>
+<th>Transjordan</th>
+<th>Middle East</th>
+<th>Asia</th>
+<th>Desert</th>
+<th>Arid</th>
+<th>20</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>1804</th>
+<th>Medina</th>
+<th>Hedjaz</th>
+<th>Middle East</th>
+<th>Asia</th>
+<th>Desert</th>
+<th>Arid</th>
+<th>40</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>1805</th>
+<th>Jawf</th>
+<th>Arabian Desert</th>
+<th>Middle East</th>
+<th>Asia</th>
+<th>Desert</th>
+<th>Arid</th>
+<th>20</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>1806</th>
+<th>Najaf</th>
+<th>Iraq</th>
+<th>Middle East</th>
+<th>Asia</th>
+<th>Desert</th>
+<th>Arid</th>
+<th>20</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>1807</th>
+<th>Riyadh</th>
+<th>Arabian Desert</th>
+<th>Middle East</th>
+<th>Asia</th>
+<th>Desert</th>
+<th>Arid</th>
+<th>20</th>
+<th>No</th>
+<th>6</th>
+<th>6</th>
+<th>11</th>
+<th></th>
+<th>6</th>
+<th>3</th>
+</tr>
+<tr class="odd">
+<th>1808</th>
+<th>Jiddah</th>
+<th>Hedjaz</th>
+<th>Middle East</th>
+<th>Asia</th>
+<th>Desert</th>
+<th>Arid</th>
+<th>40</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>1809</th>
+<th>Abha</th>
+<th>Hedjaz</th>
+<th>Middle East</th>
+<th>Asia</th>
+<th>Hills</th>
+<th>Mediterranean</th>
+<th>40</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>1810</th>
+<th></th>
+<th>-</th>
+<th>-</th>
+<th>-</th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>1811</th>
+<th></th>
+<th>-</th>
+<th>-</th>
+<th>-</th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>1812</th>
+<th>Sanaa</th>
+<th>Hedjaz</th>
+<th>Middle East</th>
+<th>Asia</th>
+<th>Hills</th>
+<th>Mediterranean</th>
+<th>40</th>
+<th>Yes</th>
+<th>6</th>
+<th>7</th>
+<th>11</th>
+<th></th>
+<th>6</th>
+<th>3</th>
+</tr>
+<tr class="even">
+<th>1813</th>
+<th>Aden</th>
+<th>Yemenite Mountains</th>
+<th>Middle East</th>
+<th>Asia</th>
+<th>Hills</th>
+<th>Mediterranean</th>
+<th>60</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>1814</th>
+<th>Mukalla</th>
+<th>Yemenite Mountains</th>
+<th>Middle East</th>
+<th>Asia</th>
+<th>Desert</th>
+<th>Arid</th>
+<th>40</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>1815</th>
+<th>Socotra</th>
+<th>Somalia</th>
+<th>Horn of Africa</th>
+<th>Africa</th>
+<th>Hills</th>
+<th>Tropical</th>
+<th>40</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>1816</th>
+<th>The Seychelles</th>
+<th>Madagascar</th>
+<th>Madagascar</th>
+<th>Africa</th>
+<th>Clear</th>
+<th>Tropical</th>
+<th>40</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>1817</th>
+<th>Diego Garcia Island</th>
+<th>Diego Garcia Island</th>
+<th>Diego Garcia Island</th>
+<th>Asia</th>
+<th>Clear</th>
+<th>Tropical</th>
+<th>60</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>1818</th>
+<th>Rub al Khali</th>
+<th>Arabian Desert</th>
+<th>Middle East</th>
+<th>Asia</th>
+<th>Desert</th>
+<th>Arid</th>
+<th>0</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>1819</th>
+<th>Mascate</th>
+<th>Yemenite Mountains</th>
+<th>Middle East</th>
+<th>Asia</th>
+<th>Desert</th>
+<th>Arid</th>
+<th>40</th>
+<th>Yes</th>
+<th>5</th>
+<th>5</th>
+<th>10</th>
+<th></th>
+<th>5</th>
+<th>3</th>
+</tr>
+<tr class="odd">
+<th>1820</th>
+<th>Doha</th>
+<th>Persian Gulf Coast</th>
+<th>Middle East</th>
+<th>Asia</th>
+<th>Desert</th>
+<th>Arid</th>
+<th>40</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th>4</th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>1821</th>
+<th>Dammam</th>
+<th>Persian Gulf Coast</th>
+<th>Middle East</th>
+<th>Asia</th>
+<th>Desert</th>
+<th>Arid</th>
+<th>40</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th>12</th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>1822</th>
+<th>Kuweit City</th>
+<th>Persian Gulf Coast</th>
+<th>Middle East</th>
+<th>Asia</th>
+<th>Desert</th>
+<th>Arid</th>
+<th>40</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th>2</th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>1823</th>
+<th>Basrah</th>
+<th>Iraq</th>
+<th>Middle East</th>
+<th>Asia</th>
+<th>Desert</th>
+<th>Arid</th>
+<th>60</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>1824</th>
+<th>Nasiriyah</th>
+<th>Iraq</th>
+<th>Middle East</th>
+<th>Asia</th>
+<th>Marsh</th>
+<th>Mediterranean</th>
+<th>60</th>
+<th>No</th>
+<th></th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>1825</th>
+<th>Abadan</th>
+<th>South Persia</th>
+<th>Persia</th>
+<th>Asia</th>
+<th>Clear</th>
+<th>Mediterranean</th>
+<th>60</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th>40</th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>1826</th>
+<th>Esfahan</th>
+<th>South Persia</th>
+<th>Persia</th>
+<th>Asia</th>
+<th>Mountain</th>
+<th>Arid</th>
+<th>40</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>1827</th>
+<th>Naberezhnye Chelny</th>
+<th>Kuybyshev</th>
+<th>Russia</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Muddy</th>
+<th>60</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th>2</th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>1828</th>
+<th>Kuybyshev</th>
+<th>Kuybyshev</th>
+<th>Russia</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Muddy</th>
+<th>60</th>
+<th>No</th>
+<th>2</th>
+<th>2</th>
+<th>6</th>
+<th>2</th>
+<th>6</th>
+<th>3</th>
+</tr>
+<tr class="even">
+<th>1829</th>
+<th>Engels</th>
+<th>Kuybyshev</th>
+<th>Russia</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Muddy</th>
+<th>60</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>1830</th>
+<th>Syzran</th>
+<th>Kuybyshev</th>
+<th>Russia</th>
+<th>Europe</th>
+<th>Forest</th>
+<th>Muddy</th>
+<th>60</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>1831</th>
+<th>Nikolayevka</th>
+<th>Kuybyshev</th>
+<th>Russia</th>
+<th>Europe</th>
+<th>Forest</th>
+<th>Muddy</th>
+<th>60</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>1832</th>
+<th>Saratov</th>
+<th>Kuybyshev</th>
+<th>Russia</th>
+<th>Europe</th>
+<th>Forest</th>
+<th>Muddy</th>
+<th>60</th>
+<th>No</th>
+<th>2</th>
+<th>2</th>
+<th>2</th>
+<th></th>
+<th>2</th>
+<th>1</th>
+</tr>
+<tr class="even">
+<th>1833</th>
+<th>Enotaevka</th>
+<th>Stalingrad</th>
+<th>Russia</th>
+<th>Europe</th>
+<th>Desert</th>
+<th>Arid</th>
+<th>40</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>1834</th>
+<th>Krasnya Sloboda</th>
+<th>Stalingrad</th>
+<th>Russia</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Muddy</th>
+<th>60</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>1835</th>
+<th>Nikolayevsk</th>
+<th>Stalingrad</th>
+<th>Russia</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Muddy</th>
+<th>60</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>1836</th>
+<th>Elton</th>
+<th>Stalingrad</th>
+<th>Russia</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Muddy</th>
+<th>20</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>1837</th>
+<th>Elista</th>
+<th>Astrakhan</th>
+<th>Kaukasus</th>
+<th>Europe</th>
+<th>Desert</th>
+<th>Arid</th>
+<th>40</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>1838</th>
+<th>Astrakhan</th>
+<th>Astrakhan</th>
+<th>Kaukasus</th>
+<th>Europe</th>
+<th>Marsh</th>
+<th>Temperate</th>
+<th>40</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>1839</th>
+<th>Novouzensk</th>
+<th>Kuybyshev</th>
+<th>Russia</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Muddy</th>
+<th>60</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>1840</th>
+<th>Kotlas</th>
+<th>Kirov</th>
+<th>White Sea Tundra</th>
+<th>Europe</th>
+<th>Marsh</th>
+<th>Subarctic</th>
+<th>40</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>1841</th>
+<th>Velikij Ustyug</th>
+<th>Kirov</th>
+<th>White Sea Tundra</th>
+<th>Europe</th>
+<th>Forest</th>
+<th>Subarctic</th>
+<th>0</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>1842</th>
+<th>Bashanta</th>
+<th>Astrakhan</th>
+<th>Kaukasus</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Arid</th>
+<th>20</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>1843</th>
+<th>Armavil</th>
+<th>Krasnodar</th>
+<th>Kaukasus</th>
+<th>Europe</th>
+<th>Hills</th>
+<th>Temperate</th>
+<th>60</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>1844</th>
+<th>Maikop</th>
+<th>Georgia</th>
+<th>Kaukasus</th>
+<th>Europe</th>
+<th>Mountain</th>
+<th>Temperate</th>
+<th>40</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th>6</th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>1845</th>
+<th>Tuapse</th>
+<th>Georgia</th>
+<th>Kaukasus</th>
+<th>Europe</th>
+<th>Mountain</th>
+<th>Mediterranean</th>
+<th>40</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>1846</th>
+<th>Voroshilovsk</th>
+<th>Astrakhan</th>
+<th>Kaukasus</th>
+<th>Europe</th>
+<th>Hills</th>
+<th>Arid</th>
+<th>60</th>
+<th>No</th>
+<th>1</th>
+<th>1</th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>1847</th>
+<th>Grozny</th>
+<th>Astrakhan</th>
+<th>Kaukasus</th>
+<th>Europe</th>
+<th>Hills</th>
+<th>Mediterranean</th>
+<th>60</th>
+<th>No</th>
+<th>1</th>
+<th>1</th>
+<th>3</th>
+<th>6</th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>1848</th>
+<th>Batum</th>
+<th>Georgia</th>
+<th>Kaukasus</th>
+<th>Europe</th>
+<th>Mountain</th>
+<th>Mediterranean</th>
+<th>40</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>1849</th>
+<th>Nalchik</th>
+<th>Georgia</th>
+<th>Kaukasus</th>
+<th>Europe</th>
+<th>Mountain</th>
+<th>Temperate</th>
+<th>40</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd" data-bgcolor="ffff66">
+<th>ID</th>
+<th>Province name</th>
+<th>Area</th>
+<th>Region</th>
+<th>Continent</th>
+<th>Terrain</th>
+<th>Climate</th>
+<th>Infra</th>
+<th>Beach?</th>
+<th>IC</th>
+<th>Manpower</th>
+<th>Energy</th>
+<th>Oil</th>
+<th>Metal</th>
+<th>Rare Materials</th>
+</tr>
+<tr class="even">
+<th><h2 id="section-3"><span id="1850" class="mw-headline"> 1850
+</span></h2></th>
+<th>Tblisi</th>
+<th>Georgia</th>
+<th>Kaukasus</th>
+<th>Europe</th>
+<th>Mountain</th>
+<th>Temperate</th>
+<th>40</th>
+<th>No</th>
+<th>2</th>
+<th>2</th>
+<th>15</th>
+<th></th>
+<th>6</th>
+<th>3</th>
+</tr>
+<tr class="odd">
+<th>1851</th>
+<th>Kars</th>
+<th>Eastern Anatolia</th>
+<th>Anatolia</th>
+<th>Asia</th>
+<th>Hills</th>
+<th>Mediterranean</th>
+<th>40</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>1852</th>
+<th>Erzurum</th>
+<th>Eastern Anatolia</th>
+<th>Anatolia</th>
+<th>Asia</th>
+<th>Hills</th>
+<th>Temperate</th>
+<th>40</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th>3</th>
+</tr>
+<tr class="odd">
+<th>1853</th>
+<th>Elazig</th>
+<th>Eastern Anatolia</th>
+<th>Anatolia</th>
+<th>Asia</th>
+<th>Hills</th>
+<th>Temperate</th>
+<th>40</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>1854</th>
+<th>Batman</th>
+<th>Eastern Anatolia</th>
+<th>Anatolia</th>
+<th>Asia</th>
+<th>Hills</th>
+<th>Mediterranean</th>
+<th>40</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>1855</th>
+<th>Van</th>
+<th>Eastern Anatolia</th>
+<th>Anatolia</th>
+<th>Asia</th>
+<th>Mountain</th>
+<th>Temperate</th>
+<th>40</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>1856</th>
+<th>Yerevan</th>
+<th>Armenia_Azerbaijan</th>
+<th>Kaukasus</th>
+<th>Europe</th>
+<th>Mountain</th>
+<th>Temperate</th>
+<th>40</th>
+<th>No</th>
+<th>1</th>
+<th>1</th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>1857</th>
+<th>Makhachkala</th>
+<th>Armenia_Azerbaijan</th>
+<th>Kaukasus</th>
+<th>Europe</th>
+<th>Mountain</th>
+<th>Mediterranean</th>
+<th>40</th>
+<th>No</th>
+<th>1</th>
+<th>1</th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>1858</th>
+<th>Kirovabad</th>
+<th>Armenia_Azerbaijan</th>
+<th>Kaukasus</th>
+<th>Europe</th>
+<th>Mountain</th>
+<th>Temperate</th>
+<th>40</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>1859</th>
+<th>Tabriz</th>
+<th>North Persia</th>
+<th>Persia</th>
+<th>Asia</th>
+<th>Mountain</th>
+<th>Temperate</th>
+<th>40</th>
+<th>No</th>
+<th></th>
+<th>1</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>1860</th>
+<th>Kirkuk</th>
+<th>Iraq</th>
+<th>Middle East</th>
+<th>Asia</th>
+<th>Hills</th>
+<th>Arid</th>
+<th>40</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>1861</th>
+<th>Dair az Zawr</th>
+<th>Lebanon_Syria</th>
+<th>Middle East</th>
+<th>Asia</th>
+<th>Clear</th>
+<th>Arid</th>
+<th>40</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>1862</th>
+<th>Aleppo</th>
+<th>Lebanon_Syria</th>
+<th>Middle East</th>
+<th>Asia</th>
+<th>Hills</th>
+<th>Mediterranean</th>
+<th>60</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>1863</th>
+<th>Hims</th>
+<th>Lebanon_Syria</th>
+<th>Middle East</th>
+<th>Asia</th>
+<th>Desert</th>
+<th>Arid</th>
+<th>20</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>1864</th>
+<th>Mosul</th>
+<th>Iraq</th>
+<th>Middle East</th>
+<th>Asia</th>
+<th>Clear</th>
+<th>Arid</th>
+<th>40</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th>12</th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>1865</th>
+<th>Samarra</th>
+<th>Iraq</th>
+<th>Middle East</th>
+<th>Asia</th>
+<th>Desert</th>
+<th>Arid</th>
+<th>60</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>1866</th>
+<th>Baghdad</th>
+<th>Iraq</th>
+<th>Middle East</th>
+<th>Asia</th>
+<th>Desert</th>
+<th>Arid</th>
+<th>60</th>
+<th>No</th>
+<th>6</th>
+<th>6</th>
+<th>11</th>
+<th></th>
+<th>6</th>
+<th>3</th>
+</tr>
+<tr class="odd">
+<th>1867</th>
+<th>The Azores</th>
+<th>The Azores</th>
+<th>Portugal</th>
+<th>Africa</th>
+<th>Clear</th>
+<th>Mediterranean</th>
+<th>40</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>1868</th>
+<th>Auckland</th>
+<th>New Zealand</th>
+<th>Australia</th>
+<th>Asia</th>
+<th>Forest</th>
+<th>Mediterranean</th>
+<th>60</th>
+<th>Yes</th>
+<th>1</th>
+<th>1</th>
+<th>1</th>
+<th></th>
+<th>1</th>
+<th>1</th>
+</tr>
+<tr class="odd">
+<th>1869</th>
+<th>Napier</th>
+<th>New Zealand</th>
+<th>Australia</th>
+<th>Asia</th>
+<th>Clear</th>
+<th>Mediterranean</th>
+<th>60</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>1870</th>
+<th>New Plymouth</th>
+<th>New Zealand</th>
+<th>Australia</th>
+<th>Asia</th>
+<th>Clear</th>
+<th>Mediterranean</th>
+<th>60</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>1871</th>
+<th>Wellington</th>
+<th>New Zealand</th>
+<th>Australia</th>
+<th>Asia</th>
+<th>Forest</th>
+<th>Mediterranean</th>
+<th>80</th>
+<th>Yes</th>
+<th>6</th>
+<th>5</th>
+<th>11</th>
+<th></th>
+<th>5</th>
+<th>3</th>
+</tr>
+<tr class="even">
+<th>1872</th>
+<th>Christchurch</th>
+<th>New Zealand</th>
+<th>Australia</th>
+<th>Asia</th>
+<th>Hills</th>
+<th>Temperate</th>
+<th>80</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th>4</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>1873</th>
+<th>Dunedin</th>
+<th>New Zealand</th>
+<th>Australia</th>
+<th>Asia</th>
+<th>Hills</th>
+<th>Temperate</th>
+<th>60</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>1874</th>
+<th>Polotsk</th>
+<th>Polotsk</th>
+<th>Belarus</th>
+<th>Europe</th>
+<th>Forest</th>
+<th>Muddy</th>
+<th>60</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>1875</th>
+<th></th>
+<th>-</th>
+<th>-</th>
+<th>-</th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>1876</th>
+<th></th>
+<th>-</th>
+<th>-</th>
+<th>-</th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>1877</th>
+<th>Fort Hertz</th>
+<th>North Burma</th>
+<th>Indochine</th>
+<th>Asia</th>
+<th>Mountain</th>
+<th>Subtropical</th>
+<th>20</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>1878</th>
+<th>Ledo</th>
+<th>East Bengal</th>
+<th>India</th>
+<th>Asia</th>
+<th>Hills</th>
+<th>Subtropical</th>
+<th>20</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>1879</th>
+<th>Far East Aleutian Plateau</th>
+<th>East Bering Sea</th>
+<th>Bering Sea</th>
+<th>Asia</th>
+<th>Ocean</th>
+<th>Arctic</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>1880</th>
+<th>Norten Sound</th>
+<th>East Bering Sea</th>
+<th>Bering Sea</th>
+<th>Asia</th>
+<th>Ocean</th>
+<th>Arctic</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>1881</th>
+<th>Bristol Bay</th>
+<th>East Bering Sea</th>
+<th>Bering Sea</th>
+<th>Asia</th>
+<th>Ocean</th>
+<th>Arctic</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>1882</th>
+<th>Northwest Aleutian Trench</th>
+<th>Aleutians</th>
+<th>North Pacific Ocean</th>
+<th>Asia</th>
+<th>Ocean</th>
+<th>Subtropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>1883</th>
+<th>New Hebrides Trench</th>
+<th>East Coral Sea</th>
+<th>Coral Sea</th>
+<th>Asia</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>1884</th>
+<th></th>
+<th>-</th>
+<th>-</th>
+<th>-</th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>1885</th>
+<th></th>
+<th>-</th>
+<th>-</th>
+<th>-</th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>1886</th>
+<th></th>
+<th>-</th>
+<th>-</th>
+<th>-</th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>1887</th>
+<th></th>
+<th>-</th>
+<th>-</th>
+<th>-</th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>1888</th>
+<th></th>
+<th>-</th>
+<th>-</th>
+<th>-</th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>1889</th>
+<th></th>
+<th>-</th>
+<th>-</th>
+<th>-</th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>1890</th>
+<th></th>
+<th>-</th>
+<th>-</th>
+<th>-</th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>1891</th>
+<th></th>
+<th>-</th>
+<th>-</th>
+<th>-</th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>1892</th>
+<th></th>
+<th>-</th>
+<th>-</th>
+<th>-</th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>1893</th>
+<th></th>
+<th>-</th>
+<th>-</th>
+<th>-</th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>1894</th>
+<th></th>
+<th>-</th>
+<th>-</th>
+<th>-</th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>1895</th>
+<th></th>
+<th>-</th>
+<th>-</th>
+<th>-</th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>1896</th>
+<th></th>
+<th>-</th>
+<th>-</th>
+<th>-</th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>1897</th>
+<th></th>
+<th>-</th>
+<th>-</th>
+<th>-</th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>1898</th>
+<th>Nai Ga</th>
+<th>North Burma</th>
+<th>Indochine</th>
+<th>Asia</th>
+<th>Mountain</th>
+<th>Subtropical</th>
+<th>20</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>1899</th>
+<th></th>
+<th>-</th>
+<th>-</th>
+<th>-</th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even" data-bgcolor="ffff66">
+<th>ID</th>
+<th>Province name</th>
+<th>Area</th>
+<th>Region</th>
+<th>Continent</th>
+<th>Terrain</th>
+<th>Climate</th>
+<th>Infra</th>
+<th>Beach?</th>
+<th>IC</th>
+<th>Manpower</th>
+<th>Energy</th>
+<th>Oil</th>
+<th>Metal</th>
+<th>Rare Materials</th>
+</tr>
+<tr class="odd">
+<th><h2 id="section-4"><span id="1900" class="mw-headline"> 1900
+</span></h2></th>
+<th>West Bering Strait</th>
+<th>East Bering Sea</th>
+<th>Bering Sea</th>
+<th>Asia</th>
+<th>Ocean</th>
+<th>Arctic</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>1901</th>
+<th>East Aleutian Basin</th>
+<th>West Bering Sea</th>
+<th>Bering Sea</th>
+<th>Asia</th>
+<th>Ocean</th>
+<th>Arctic</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>1902</th>
+<th>Southeast Aleutian Basin</th>
+<th>West Bering Sea</th>
+<th>Bering Sea</th>
+<th>Asia</th>
+<th>Ocean</th>
+<th>Subarctic</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>1903</th>
+<th>Far West Aleutian Plateau</th>
+<th>East Bering Sea</th>
+<th>Bering Sea</th>
+<th>Asia</th>
+<th>Ocean</th>
+<th>Arctic</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>1904</th>
+<th>West Aleutian Plateau</th>
+<th>East Bering Sea</th>
+<th>Bering Sea</th>
+<th>Asia</th>
+<th>Ocean</th>
+<th>Arctic</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>1905</th>
+<th>East Bering Strait</th>
+<th>East Bering Sea</th>
+<th>Bering Sea</th>
+<th>Asia</th>
+<th>Ocean</th>
+<th>Arctic</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>1906</th>
+<th>East Aleutian Plateau</th>
+<th>East Bering Sea</th>
+<th>Bering Sea</th>
+<th>Asia</th>
+<th>Ocean</th>
+<th>Arctic</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>1907</th>
+<th>Baku</th>
+<th>Armenia_Azerbaijan</th>
+<th>Kaukasus</th>
+<th>Europe</th>
+<th>Clear</th>
+<th>Mediterranean</th>
+<th>60</th>
+<th>No</th>
+<th>2</th>
+<th>2</th>
+<th>6</th>
+<th>58</th>
+<th>6</th>
+<th>3</th>
+</tr>
+<tr class="odd">
+<th>1908</th>
+<th>Cape Masoala</th>
+<th>Northeast Coast of Madagascar</th>
+<th>Coast of Madagascar</th>
+<th>Asia</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>1909</th>
+<th>Rivière-du-Loup</th>
+<th>Quebec</th>
+<th>Eastern Canada</th>
+<th>North America</th>
+<th>Hills</th>
+<th>Temperate</th>
+<th>60</th>
+<th>Yes</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>1910</th>
+<th>Valdés Peninsula</th>
+<th>Coast of Argentina</th>
+<th>Southwest Atlantic Ocean</th>
+<th>Indian Ocean</th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>1911</th>
+<th>Northeast Aleutian Trench</th>
+<th>Aleutians</th>
+<th>North Pacific Ocean</th>
+<th>North America</th>
+<th>Ocean</th>
+<th>Arctic</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>1912</th>
+<th>Cook Inlet</th>
+<th>Gulf of Alaska</th>
+<th>West Coast of North America</th>
+<th>North America</th>
+<th>Ocean</th>
+<th>Subarctic</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>1913</th>
+<th>Cross Sound</th>
+<th>Gulf of Alaska</th>
+<th>West Coast of North America</th>
+<th>North America</th>
+<th>Ocean</th>
+<th>Subarctic</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>1914</th>
+<th>Dixon Entrance</th>
+<th>Gulf of Alaska</th>
+<th>West Coast of North America</th>
+<th>North America</th>
+<th>Ocean</th>
+<th>Subarctic</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>1915</th>
+<th>Gilbert Seamount</th>
+<th>Gulf of Alaska</th>
+<th>West Coast of North America</th>
+<th>North America</th>
+<th>Ocean</th>
+<th>Subarctic</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>1916</th>
+<th>North Aleutian Trench</th>
+<th>Aleutians</th>
+<th>North Pacific Ocean</th>
+<th>North America</th>
+<th>Ocean</th>
+<th>Subarctic</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>1917</th>
+<th>Central Aleutian Trench</th>
+<th>Aleutians</th>
+<th>North Pacific Ocean</th>
+<th>North America</th>
+<th>Ocean</th>
+<th>Subarctic</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>1918</th>
+<th>East Aleutian Trench</th>
+<th>Aleutians</th>
+<th>North Pacific Ocean</th>
+<th>North America</th>
+<th>Ocean</th>
+<th>Subarctic</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>1919</th>
+<th>Tufts Plain</th>
+<th>North Northeast Pacific Basin</th>
+<th>North Pacific Ocean</th>
+<th>North America</th>
+<th>Ocean</th>
+<th>Subarctic</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>1920</th>
+<th>Eickelburg Seamount</th>
+<th>West Coast of the United States</th>
+<th>West Coast of North America</th>
+<th>North America</th>
+<th>Ocean</th>
+<th>Subarctic</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>1921</th>
+<th>Queen Charlotte Sound</th>
+<th>Gulf of Alaska</th>
+<th>West Coast of North America</th>
+<th>North America</th>
+<th>Ocean</th>
+<th>Subarctic</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>1922</th>
+<th>Strait of Juan de Fuca</th>
+<th>West Coast of the United States</th>
+<th>West Coast of North America</th>
+<th>North America</th>
+<th>Ocean</th>
+<th>Subarctic</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>1923</th>
+<th>Willapa Bay</th>
+<th>West Coast of the United States</th>
+<th>West Coast of North America</th>
+<th>North America</th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>1924</th>
+<th>Cornstock Seamount</th>
+<th>North Northeast Pacific Basin</th>
+<th>North Pacific Ocean</th>
+<th>North America</th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>1925</th>
+<th>Harris Seamount</th>
+<th>North Northeast Pacific Basin</th>
+<th>North Pacific Ocean</th>
+<th>North America</th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>1926</th>
+<th>Chinook Trought</th>
+<th>Northwest Pacific Basin</th>
+<th>North Pacific Ocean</th>
+<th>North America</th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>1927</th>
+<th>West Hawaiian Rise</th>
+<th>Hawaiian Rise</th>
+<th>Central Pacific Ocean</th>
+<th>North America</th>
+<th>Ocean</th>
+<th>Subtropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>1928</th>
+<th>North Hawaiian Rise</th>
+<th>Hawaiian Rise</th>
+<th>Central Pacific Ocean</th>
+<th>North America</th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>1929</th>
+<th>North Central Hawaiian Rise</th>
+<th>Hawaiian Rise</th>
+<th>Central Pacific Ocean</th>
+<th>North America</th>
+<th>Ocean</th>
+<th>Subtropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>1930</th>
+<th>West Murray Fracture Zone</th>
+<th>Hawaiian Rise</th>
+<th>Central Pacific Ocean</th>
+<th>North America</th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>1931</th>
+<th>Mendelssohn Seamount</th>
+<th>Hawaiian Rise</th>
+<th>Central Pacific Ocean</th>
+<th>North America</th>
+<th>Ocean</th>
+<th>Subtropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>1932</th>
+<th>East Murray Fracture Zone</th>
+<th>North East Pacific Ocean</th>
+<th>East Pacific Ocean</th>
+<th>Asia</th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>1933</th>
+<th>West Mendocino Fracture Zone</th>
+<th>North Northeast Pacific Basin</th>
+<th>North Pacific Ocean</th>
+<th>North America</th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>1934</th>
+<th>East Menocino Fracture Zone</th>
+<th>North East Pacific Ocean</th>
+<th>East Pacific Ocean</th>
+<th>Asia</th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>1935</th>
+<th>Patton Escarpment</th>
+<th>West Coast of the United States</th>
+<th>West Coast of North America</th>
+<th>North America</th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>1936</th>
+<th>Cape Mendocino</th>
+<th>West Coast of the United States</th>
+<th>West Coast of North America</th>
+<th>North America</th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>1937</th>
+<th>San Francisco Bay</th>
+<th>West Coast of the United States</th>
+<th>West Coast of North America</th>
+<th>North America</th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>1938</th>
+<th>Santa Barbara Channel</th>
+<th>West Coast of the United States</th>
+<th>West Coast of North America</th>
+<th>North America</th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>1939</th>
+<th>Sebastian Vizcaino Bay</th>
+<th>West Coast of Mexico</th>
+<th>West Coast of North America</th>
+<th>North America</th>
+<th>Ocean</th>
+<th>Subtropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>1940</th>
+<th>Cedros Trench</th>
+<th>West Coast of Mexico</th>
+<th>West Coast of North America</th>
+<th>North America</th>
+<th>Ocean</th>
+<th>Subtropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>1941</th>
+<th>Magdelena Bay</th>
+<th>West Coast of Mexico</th>
+<th>West Coast of North America</th>
+<th>North America</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>1942</th>
+<th>East Molokai Fracture Zone</th>
+<th>North East Pacific Ocean</th>
+<th>East Pacific Ocean</th>
+<th>Asia</th>
+<th>Ocean</th>
+<th>Subtropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>1943</th>
+<th>West Molokai Fracture Zone</th>
+<th>North East Pacific Ocean</th>
+<th>East Pacific Ocean</th>
+<th>Asia</th>
+<th>Ocean</th>
+<th>Subtropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>1944</th>
+<th>French Frigate Shoals</th>
+<th>Hawaiian Rise</th>
+<th>Central Pacific Ocean</th>
+<th>North America</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>1945</th>
+<th>South Central Hawaiian Rise</th>
+<th>Hawaiian Rise</th>
+<th>Central Pacific Ocean</th>
+<th>North America</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>1946</th>
+<th>Magellan Rise</th>
+<th>Carolines</th>
+<th>Central Pacific Ocean</th>
+<th>Asia</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>1947</th>
+<th>South Hawaiian Rise</th>
+<th>Hawaiian Rise</th>
+<th>Central Pacific Ocean</th>
+<th>Asia</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>1948</th>
+<th>West Magellan Rise</th>
+<th>Line Islands</th>
+<th>South Pacific Ocean</th>
+<th>Asia</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>1949</th>
+<th>East Magellan Rise</th>
+<th>Line Islands</th>
+<th>South Pacific Ocean</th>
+<th>Asia</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd" data-bgcolor="ffff66">
+<th>ID</th>
+<th>Province name</th>
+<th>Area</th>
+<th>Region</th>
+<th>Continent</th>
+<th>Terrain</th>
+<th>Climate</th>
+<th>Infra</th>
+<th>Beach?</th>
+<th>IC</th>
+<th>Manpower</th>
+<th>Energy</th>
+<th>Oil</th>
+<th>Metal</th>
+<th>Rare Materials</th>
+</tr>
+<tr class="even">
+<th><h2 id="section-5"><span id="1950" class="mw-headline"> 1950
+</span></h2></th>
+<th>South Magellan Rise</th>
+<th>Line Islands</th>
+<th>South Pacific Ocean</th>
+<th>Asia</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>1951</th>
+<th>Central Gilberts</th>
+<th>Gilberts</th>
+<th>South Pacific Ocean</th>
+<th>Asia</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>1952</th>
+<th>Gilberts-Phoenix Passage</th>
+<th>Line Islands</th>
+<th>South Pacific Ocean</th>
+<th>Asia</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>1953</th>
+<th>South Line Islands</th>
+<th>Line Islands</th>
+<th>South Pacific Ocean</th>
+<th>Asia</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>1954</th>
+<th>Central Line Islands</th>
+<th>Line Islands</th>
+<th>South Pacific Ocean</th>
+<th>Asia</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>1955</th>
+<th>North Line Islands</th>
+<th>Line Islands</th>
+<th>South Pacific Ocean</th>
+<th>Asia</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>1956</th>
+<th>West Clarion Fracture Zone</th>
+<th>Line Islands</th>
+<th>South Pacific Ocean</th>
+<th>Asia</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>1957</th>
+<th>Far West Clipperton Fracture Zone</th>
+<th>Line Islands</th>
+<th>South Pacific Ocean</th>
+<th>Asia</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>1958</th>
+<th>West Clipperton Fracture Zone</th>
+<th>South East Pacific Ocean</th>
+<th>East Pacific Ocean</th>
+<th>Asia</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>1959</th>
+<th>East Clipperton Fracture Zone</th>
+<th>South East Pacific Ocean</th>
+<th>East Pacific Ocean</th>
+<th>Asia</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>1960</th>
+<th>Far East Clipperton Fracture Zone</th>
+<th>South East Pacific Ocean</th>
+<th>East Pacific Ocean</th>
+<th>Asia</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>1961</th>
+<th>South Guatamala Basin</th>
+<th>North Southeast Pacific Ocean</th>
+<th>Southeast Pacific Ocean</th>
+<th>Indian Ocean</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>1962</th>
+<th>North Guatamala Basin</th>
+<th>West Coast of Central America</th>
+<th>West Coast of North America</th>
+<th>Indian Ocean</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>1963</th>
+<th>North Peru-Chile Trench</th>
+<th>West Coast of Peru</th>
+<th>West Coast of South America</th>
+<th>Indian Ocean</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>1964</th>
+<th>Manta Bay</th>
+<th>West Coast of Peru</th>
+<th>West Coast of South America</th>
+<th>Indian Ocean</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>1965</th>
+<th>Gulf of Guayaquil</th>
+<th>West Coast of Peru</th>
+<th>West Coast of South America</th>
+<th>Indian Ocean</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>1966</th>
+<th>Samanco Bay</th>
+<th>West Coast of Peru</th>
+<th>West Coast of South America</th>
+<th>Indian Ocean</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>1967</th>
+<th>Central Peru-Chile Trench</th>
+<th>West Coast of Peru</th>
+<th>West Coast of South America</th>
+<th>Indian Ocean</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>1968</th>
+<th>Peru Basin</th>
+<th>North Southeast Pacific Ocean</th>
+<th>Southeast Pacific Ocean</th>
+<th>Indian Ocean</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>1969</th>
+<th>East Easter Fracture Zone</th>
+<th>North Southeast Pacific Ocean</th>
+<th>Southeast Pacific Ocean</th>
+<th>Indian Ocean</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>1970</th>
+<th>East Marquesas Fracture Zone</th>
+<th>North Southeast Pacific Ocean</th>
+<th>Southeast Pacific Ocean</th>
+<th>Indian Ocean</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>1971</th>
+<th>West Easter Fracture Zone</th>
+<th>North Southeast Pacific Ocean</th>
+<th>Southeast Pacific Ocean</th>
+<th>Indian Ocean</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>1972</th>
+<th>Central Marquesas Fracture Zone</th>
+<th>North Southeast Pacific Ocean</th>
+<th>Southeast Pacific Ocean</th>
+<th>Indian Ocean</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>1973</th>
+<th>West Marquesas Fracture Zone</th>
+<th>North Southeast Pacific Ocean</th>
+<th>Southeast Pacific Ocean</th>
+<th>Indian Ocean</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>1974</th>
+<th>Manihiki Plateau</th>
+<th>Fiji Basin</th>
+<th>South Pacific Ocean</th>
+<th>Asia</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>1975</th>
+<th>North Tonga Trench</th>
+<th>Fiji Basin</th>
+<th>South Pacific Ocean</th>
+<th>Asia</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>1976</th>
+<th>Norfolk Ridge</th>
+<th>Fiji Basin</th>
+<th>South Pacific Ocean</th>
+<th>Asia</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>1977</th>
+<th>Kermadec Trench</th>
+<th>East Cost of New Zealand</th>
+<th>Pacific-Antarctic Ridge</th>
+<th>Indian Ocean</th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>1978</th>
+<th>East Campbell Plateau</th>
+<th>Southwest Pacific Basin</th>
+<th>Pacific-Antarctic Ridge</th>
+<th>Indian Ocean</th>
+<th>Ocean</th>
+<th>Subarctic</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>1979</th>
+<th>West Louisville Ridge</th>
+<th>Southwest Pacific Basin</th>
+<th>Pacific-Antarctic Ridge</th>
+<th>Indian Ocean</th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>1980</th>
+<th>West Tonga Trench</th>
+<th>Fiji Basin</th>
+<th>South Pacific Ocean</th>
+<th>Asia</th>
+<th>Ocean</th>
+<th>Subtropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>1981</th>
+<th>East Tonga Trench</th>
+<th>Fiji Basin</th>
+<th>South Pacific Ocean</th>
+<th>Asia</th>
+<th>Ocean</th>
+<th>Subtropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>1982</th>
+<th>East Louisville Ridge</th>
+<th>Southwest Pacific Basin</th>
+<th>Pacific-Antarctic Ridge</th>
+<th>Indian Ocean</th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>1983</th>
+<th>West Udintsev Fracture Zone</th>
+<th>Southwest Pacific Basin</th>
+<th>Pacific-Antarctic Ridge</th>
+<th>Indian Ocean</th>
+<th>Ocean</th>
+<th>Subarctic</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>1984</th>
+<th>Central Udintsev Fracture Zone</th>
+<th>Southeast Pacific Basin</th>
+<th>Pacific-Antarctic Ridge</th>
+<th>Indian Ocean</th>
+<th>Ocean</th>
+<th>Subarctic</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>1985</th>
+<th>West Eltanin Fracture Zone</th>
+<th>Southwest Pacific Basin</th>
+<th>Pacific-Antarctic Ridge</th>
+<th>Indian Ocean</th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>1986</th>
+<th>West Challenger Fracture Zone</th>
+<th>South Southeast Pacific Ocean</th>
+<th>Southeast Pacific Ocean</th>
+<th>Indian Ocean</th>
+<th>Ocean</th>
+<th>Subtropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>1987</th>
+<th>Central Challenger Fracture Zone</th>
+<th>South Southeast Pacific Ocean</th>
+<th>Southeast Pacific Ocean</th>
+<th>Indian Ocean</th>
+<th>Ocean</th>
+<th>Subtropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>1988</th>
+<th>Central Eltanin Fracture Zone</th>
+<th>Southeast Pacific Basin</th>
+<th>Pacific-Antarctic Ridge</th>
+<th>Indian Ocean</th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>1989</th>
+<th>East Udintsev Fracture Zone</th>
+<th>Southeast Pacific Basin</th>
+<th>Pacific-Antarctic Ridge</th>
+<th>Indian Ocean</th>
+<th>Ocean</th>
+<th>Subarctic</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>1990</th>
+<th>East Eltanin Fracture Zone</th>
+<th>Southeast Pacific Basin</th>
+<th>Pacific-Antarctic Ridge</th>
+<th>Indian Ocean</th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>1991</th>
+<th>East Challenger Fracture Zone</th>
+<th>South Southeast Pacific Ocean</th>
+<th>Southeast Pacific Ocean</th>
+<th>Indian Ocean</th>
+<th>Ocean</th>
+<th>Subtropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>1992</th>
+<th>Northwest Humboldt Plain</th>
+<th>Southeast Pacific Basin</th>
+<th>Pacific-Antarctic Ridge</th>
+<th>Indian Ocean</th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>1993</th>
+<th>Southwest Humboldt Plain</th>
+<th>Southeast Pacific Basin</th>
+<th>Pacific-Antarctic Ridge</th>
+<th>Indian Ocean</th>
+<th>Ocean</th>
+<th>Subarctic</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>1994</th>
+<th>Southeast Humboldt Plain</th>
+<th>West Coast of Chile</th>
+<th>West Coast of South America</th>
+<th>Indian Ocean</th>
+<th>Ocean</th>
+<th>Subarctic</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>1995</th>
+<th>Strait of Magellan</th>
+<th>West Coast of Chile</th>
+<th>West Coast of South America</th>
+<th>Indian Ocean</th>
+<th>Ocean</th>
+<th>Subarctic</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>1996</th>
+<th>Cape Horn</th>
+<th>Coast of Argentina</th>
+<th>Southwest Atlantic Ocean</th>
+<th></th>
+<th>Ocean</th>
+<th>Subarctic</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>1997</th>
+<th>San Jorge Gulf</th>
+<th>Coast of Argentina</th>
+<th>Southwest Atlantic Ocean</th>
+<th></th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>1998</th>
+<th>West Falkland Plateau</th>
+<th>Coast of Argentina</th>
+<th>Southwest Atlantic Ocean</th>
+<th></th>
+<th>Ocean</th>
+<th>Subarctic</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>1999</th>
+<th>West South Georgia Ridge</th>
+<th>Coast of Argentina</th>
+<th>Southwest Atlantic Ocean</th>
+<th></th>
+<th>Ocean</th>
+<th>Subarctic</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even" data-bgcolor="ffff66">
+<th>ID</th>
+<th>Province name</th>
+<th>Area</th>
+<th>Region</th>
+<th>Continent</th>
+<th>Terrain</th>
+<th>Climate</th>
+<th>Infra</th>
+<th>Beach?</th>
+<th>IC</th>
+<th>Manpower</th>
+<th>Energy</th>
+<th>Oil</th>
+<th>Metal</th>
+<th>Rare Materials</th>
+</tr>
+<tr class="odd">
+<th><h2 id="section-6"><span id="2000" class="mw-headline"> 2000
+</span></h2></th>
+<th>East South Georgia Ridge</th>
+<th>Argentine Plain</th>
+<th>Southwest Atlantic Ocean</th>
+<th></th>
+<th>Ocean</th>
+<th>Subarctic</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2001</th>
+<th>East Falkland Plateau</th>
+<th>Argentine Plain</th>
+<th>Southwest Atlantic Ocean</th>
+<th></th>
+<th>Ocean</th>
+<th>Subarctic</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2002</th>
+<th>West South Sandwich Trench</th>
+<th>Argentine Plain</th>
+<th>Southwest Atlantic Ocean</th>
+<th></th>
+<th>Ocean</th>
+<th>Subarctic</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2003</th>
+<th>East South Sandwich Trench</th>
+<th>Argentine Plain</th>
+<th>Southwest Atlantic Ocean</th>
+<th></th>
+<th>Ocean</th>
+<th>Subarctic</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2004</th>
+<th>Southeast Argentine Plain</th>
+<th>Argentine Plain</th>
+<th>Southwest Atlantic Ocean</th>
+<th></th>
+<th>Ocean</th>
+<th>Subarctic</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2005</th>
+<th>America-Antactic Ridge</th>
+<th>Angola Plain</th>
+<th>Southeast Atlantic Ocean</th>
+<th></th>
+<th>Ocean</th>
+<th>Subarctic</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2006</th>
+<th>West Atlantic-Indian Ridge</th>
+<th>Atlantic-Indian Ridge</th>
+<th>Cape of Good Hope</th>
+<th></th>
+<th>Ocean</th>
+<th>Subarctic</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2007</th>
+<th>Cape Plain</th>
+<th>Atlantic-Indian Ridge</th>
+<th>Cape of Good Hope</th>
+<th></th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2008</th>
+<th>Algoa Bay</th>
+<th>Coast of South Africa</th>
+<th>Cape of Good Hope</th>
+<th>Indian Ocean</th>
+<th>Ocean</th>
+<th>Subtropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2009</th>
+<th>East Atlantic-Indian Ridge</th>
+<th>Atlantic-Indian Ridge</th>
+<th>Cape of Good Hope</th>
+<th>Indian Ocean</th>
+<th>Ocean</th>
+<th>Subarctic</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2010</th>
+<th>Agulhas Plateau</th>
+<th>Atlantic-Indian Ridge</th>
+<th>Cape of Good Hope</th>
+<th>Indian Ocean</th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2011</th>
+<th>Wild Coast</th>
+<th>Coast of South Africa</th>
+<th>Cape of Good Hope</th>
+<th>Indian Ocean</th>
+<th>Ocean</th>
+<th>Subtropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2012</th>
+<th>Delagoa Bay</th>
+<th>Coast of South Africa</th>
+<th>Cape of Good Hope</th>
+<th>Indian Ocean</th>
+<th>Ocean</th>
+<th>Subtropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2013</th>
+<th>South Natal Basin</th>
+<th>Southwest Indian Ocean</th>
+<th>South Indian Ocean</th>
+<th>Indian Ocean</th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2014</th>
+<th>Southwest Indian Ridge</th>
+<th>Southwest Indian Ocean</th>
+<th>South Indian Ocean</th>
+<th>Indian Ocean</th>
+<th>Ocean</th>
+<th>Subarctic</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2015</th>
+<th>Southwest Madagascar Basin</th>
+<th>Southwest Indian Ocean</th>
+<th>South Indian Ocean</th>
+<th>Indian Ocean</th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2016</th>
+<th>Inhambane Bay</th>
+<th>South Mozambique Channel</th>
+<th>Mozambique Channel</th>
+<th>Indian Ocean</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2017</th>
+<th>Sofala Bay</th>
+<th>South Mozambique Channel</th>
+<th>Mozambique Channel</th>
+<th>Indian Ocean</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2018</th>
+<th>Mouth of the Tsiribihina</th>
+<th>South Mozambique Channel</th>
+<th>Mozambique Channel</th>
+<th>Indian Ocean</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2019</th>
+<th>Cape Ankaboa</th>
+<th>South Mozambique Channel</th>
+<th>Mozambique Channel</th>
+<th>Indian Ocean</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2020</th>
+<th>East Natal Basin</th>
+<th>Southeast Coast of Madagascar</th>
+<th>Coast of Madagascar</th>
+<th>Indian Ocean</th>
+<th>Ocean</th>
+<th>Subtropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2021</th>
+<th>Cape Sainte-Maire</th>
+<th>Southeast Coast of Madagascar</th>
+<th>Coast of Madagascar</th>
+<th>Indian Ocean</th>
+<th>Ocean</th>
+<th>Subtropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2022</th>
+<th>Northwest Madagascar Basin</th>
+<th>Southeast Coast of Madagascar</th>
+<th>Coast of Madagascar</th>
+<th>Indian Ocean</th>
+<th>Ocean</th>
+<th>Subtropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2023</th>
+<th>Mouth of the Manambovo</th>
+<th>Southeast Coast of Madagascar</th>
+<th>Coast of Madagascar</th>
+<th>Indian Ocean</th>
+<th>Ocean</th>
+<th>Subtropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2024</th>
+<th>Mouth of the Mananara</th>
+<th>Southeast Coast of Madagascar</th>
+<th>Coast of Madagascar</th>
+<th>Indian Ocean</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2025</th>
+<th>Northeast Madagascar Basin</th>
+<th>Mascarene Plateau</th>
+<th>West Indian Ocean</th>
+<th>Indian Ocean</th>
+<th>Ocean</th>
+<th>Subtropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2026</th>
+<th>South Mascarene Plateau</th>
+<th>Mascarene Plateau</th>
+<th>West Indian Ocean</th>
+<th>Indian Ocean</th>
+<th>Ocean</th>
+<th>Subtropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2027</th>
+<th>East Mascarene Basin</th>
+<th>Northeast Coast of Madagascar</th>
+<th>Coast of Madagascar</th>
+<th>Indian Ocean</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2028</th>
+<th>Cape d'Andre</th>
+<th>Northeast Coast of Madagascar</th>
+<th>Coast of Madagascar</th>
+<th>Indian Ocean</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2029</th>
+<th>Bombetoka Bay</th>
+<th>North Mozambique Channel</th>
+<th>Mozambique Channel</th>
+<th>Indian Ocean</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2030</th>
+<th>Cape Vilanandro</th>
+<th>North Mozambique Channel</th>
+<th>Mozambique Channel</th>
+<th>Indian Ocean</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2031</th>
+<th>Zanzibar Channel</th>
+<th>North Mozambique Channel</th>
+<th>Mozambique Channel</th>
+<th>Indian Ocean</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2032</th>
+<th>South Coast of Somalia</th>
+<th>Horn of Africa</th>
+<th>Arabian Sea</th>
+<th>Indian Ocean</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2033</th>
+<th>West Mascarene Basin</th>
+<th>North Mozambique Channel</th>
+<th>Mozambique Channel</th>
+<th>Indian Ocean</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2034</th>
+<th>West Mascarene Plateau</th>
+<th>Mascarene Plateau</th>
+<th>West Indian Ocean</th>
+<th>Indian Ocean</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2035</th>
+<th>East Somali Basin</th>
+<th>South Arabian Sea</th>
+<th>Arabian Sea</th>
+<th>Indian Ocean</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2036</th>
+<th>South Arabian Basin</th>
+<th>South Arabian Sea</th>
+<th>Arabian Sea</th>
+<th>Indian Ocean</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2037</th>
+<th>West Arabian Basin</th>
+<th>North Arabian Sea</th>
+<th>Arabian Sea</th>
+<th>Indian Ocean</th>
+<th>Ocean</th>
+<th>Subtropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2038</th>
+<th>Gulf of Halaniyat</th>
+<th>North Arabian Sea</th>
+<th>Arabian Sea</th>
+<th>Indian Ocean</th>
+<th>Ocean</th>
+<th>Subtropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2039</th>
+<th>Gwatar Bay</th>
+<th>North Arabian Sea</th>
+<th>Arabian Sea</th>
+<th>Indian Ocean</th>
+<th>Ocean</th>
+<th>Subtropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2040</th>
+<th>Gulf of Oman</th>
+<th>Persian Gulf</th>
+<th>Arabian Sea</th>
+<th>Indian Ocean</th>
+<th>Ocean</th>
+<th>Mediterranean</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2041</th>
+<th>Persian Gulf</th>
+<th>Persian Gulf</th>
+<th>Arabian Sea</th>
+<th>Indian Ocean</th>
+<th>Ocean</th>
+<th>Mediterranean</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2042</th>
+<th>Mouths of the Indus</th>
+<th>North Arabian Sea</th>
+<th>Arabian Sea</th>
+<th>Indian Ocean</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2043</th>
+<th>Gulf of Khambhat</th>
+<th>North Arabian Sea</th>
+<th>Arabian Sea</th>
+<th>Indian Ocean</th>
+<th>Ocean</th>
+<th>Subtropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2044</th>
+<th>Padua Bank</th>
+<th>South Arabian Sea</th>
+<th>Arabian Sea</th>
+<th>Indian Ocean</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2045</th>
+<th>Malabar Coast</th>
+<th>South Arabian Sea</th>
+<th>Arabian Sea</th>
+<th>Indian Ocean</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2046</th>
+<th>Nine Degree Channel</th>
+<th>Coast of Ceylon</th>
+<th>Bay of Bengal</th>
+<th>Asia</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2047</th>
+<th>Gulf of Mannar</th>
+<th>Coast of Ceylon</th>
+<th>Bay of Bengal</th>
+<th>Asia</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2048</th>
+<th>North Mid-Indian Basin</th>
+<th>Coast of Ceylon</th>
+<th>Bay of Bengal</th>
+<th>Asia</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2049</th>
+<th>South Chagos-Laccadive Plateau</th>
+<th>South Arabian Sea</th>
+<th>Arabian Sea</th>
+<th>Indian Ocean</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd" data-bgcolor="ffff66">
+<th>ID</th>
+<th>Province name</th>
+<th>Area</th>
+<th>Region</th>
+<th>Continent</th>
+<th>Terrain</th>
+<th>Climate</th>
+<th>Infra</th>
+<th>Beach?</th>
+<th>IC</th>
+<th>Manpower</th>
+<th>Energy</th>
+<th>Oil</th>
+<th>Metal</th>
+<th>Rare Materials</th>
+</tr>
+<tr class="even">
+<th><h2 id="section-7"><span id="2050" class="mw-headline"> 2050
+</span></h2></th>
+<th>East Mascarene Plateau</th>
+<th>Mascarene Plateau</th>
+<th>West Indian Ocean</th>
+<th>Indian Ocean</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2051</th>
+<th>North Mid-Indian Ridge</th>
+<th>Mid-Indian Ridge</th>
+<th>West Indian Ocean</th>
+<th>Indian Ocean</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2052</th>
+<th>Central Mid-Indian Basin</th>
+<th>Ninetyeast Ridge</th>
+<th>East Indian Ocean</th>
+<th>Asia</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2053</th>
+<th>North Ninetyeast Ridge</th>
+<th>Ninetyeast Ridge</th>
+<th>East Indian Ocean</th>
+<th>Asia</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2054</th>
+<th>South Bay of Bengal</th>
+<th>West Bay of Bengal</th>
+<th>Bay of Bengal</th>
+<th>Asia</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2055</th>
+<th>Central Bay of Bengal</th>
+<th>West Bay of Bengal</th>
+<th>Bay of Bengal</th>
+<th>Asia</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2056</th>
+<th>West Andaman Sea</th>
+<th>East Bay of Bengal</th>
+<th>Bay of Bengal</th>
+<th>Asia</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2057</th>
+<th>Palk Strait</th>
+<th>Coast of Ceylon</th>
+<th>Bay of Bengal</th>
+<th>Asia</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2058</th>
+<th>Mouths of the Krishna</th>
+<th>West Bay of Bengal</th>
+<th>Bay of Bengal</th>
+<th>Asia</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2059</th>
+<th>West Mouths of the Ganges</th>
+<th>West Bay of Bengal</th>
+<th>Bay of Bengal</th>
+<th>Asia</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2060</th>
+<th>East Mouths of the Ganges</th>
+<th>East Bay of Bengal</th>
+<th>Bay of Bengal</th>
+<th>Asia</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2061</th>
+<th>Gulf of Martapan</th>
+<th>East Bay of Bengal</th>
+<th>Bay of Bengal</th>
+<th>Asia</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2062</th>
+<th>South Andaman Sea</th>
+<th>East Bay of Bengal</th>
+<th>Bay of Bengal</th>
+<th>Asia</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2063</th>
+<th>Central Mid-Indian Ridge</th>
+<th>Mid-Indian Ridge</th>
+<th>West Indian Ocean</th>
+<th>Indian Ocean</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2064</th>
+<th>South Mid-Indian Ridge</th>
+<th>Mid-Indian Ridge</th>
+<th>West Indian Ocean</th>
+<th>Indian Ocean</th>
+<th>Ocean</th>
+<th>Subtropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2065</th>
+<th>Southeast Madagascar Basin</th>
+<th>Southwest Indian Ocean</th>
+<th>South Indian Ocean</th>
+<th>Indian Ocean</th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2066</th>
+<th>Crozet Basin</th>
+<th>Southwest Indian Ocean</th>
+<th>South Indian Ocean</th>
+<th>Indian Ocean</th>
+<th>Ocean</th>
+<th>Subarctic</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2067</th>
+<th>Southeast Indian Ridge</th>
+<th>Southeast Indian Ocean</th>
+<th>South Indian Ocean</th>
+<th>Indian Ocean</th>
+<th>Ocean</th>
+<th>Subarctic</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2068</th>
+<th>West Broken Ridge</th>
+<th>Southeast Indian Ocean</th>
+<th>South Indian Ocean</th>
+<th>Indian Ocean</th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2069</th>
+<th>East Broken Ridge</th>
+<th>Southeast Indian Ocean</th>
+<th>South Indian Ocean</th>
+<th>Indian Ocean</th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2070</th>
+<th>South Mid-Indian Basin</th>
+<th>Ninetyeast Ridge</th>
+<th>East Indian Ocean</th>
+<th>Asia</th>
+<th>Ocean</th>
+<th>Subtropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2071</th>
+<th>South Ninetyeast Ridge</th>
+<th>Ninetyeast Ridge</th>
+<th>East Indian Ocean</th>
+<th>Asia</th>
+<th>Ocean</th>
+<th>Subtropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2072</th>
+<th>East Andaman Sea</th>
+<th>East Bay of Bengal</th>
+<th>Bay of Bengal</th>
+<th>Asia</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2073</th>
+<th>North Malacca Strait</th>
+<th>Malacca Strait</th>
+<th>Java Sea</th>
+<th>Asia</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2074</th>
+<th>Tapanuli Gulf</th>
+<th>Java Ridge</th>
+<th>Java Sea</th>
+<th>Asia</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2075</th>
+<th>Mentawi Strait</th>
+<th>Java Ridge</th>
+<th>Java Sea</th>
+<th>Asia</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2076</th>
+<th>Central Java Trench</th>
+<th>Java Trench</th>
+<th>East Indian Ocean</th>
+<th>Asia</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2077</th>
+<th>Sunda Strait</th>
+<th>Java Ridge</th>
+<th>Java Sea</th>
+<th>Asia</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2078</th>
+<th>Investigator Ridge</th>
+<th>Ninetyeast Ridge</th>
+<th>East Indian Ocean</th>
+<th>Asia</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2079</th>
+<th>Wallaby Plateau</th>
+<th>Ninetyeast Ridge</th>
+<th>East Indian Ocean</th>
+<th>Asia</th>
+<th>Ocean</th>
+<th>Subtropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2080</th>
+<th>South Java Trench</th>
+<th>Java Trench</th>
+<th>East Indian Ocean</th>
+<th>Asia</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2081</th>
+<th>East Java Trench</th>
+<th>Java Ridge</th>
+<th>Java Sea</th>
+<th>Asia</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2082</th>
+<th>North Australian Basin</th>
+<th>Timor Sea</th>
+<th>Java Sea</th>
+<th>Asia</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2083</th>
+<th>Cuvier Plateau</th>
+<th>West Coast of Australia</th>
+<th>East Indian Ocean</th>
+<th>Asia</th>
+<th>Ocean</th>
+<th>Subtropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2084</th>
+<th>Perth Basin</th>
+<th>Southeast Indian Ocean</th>
+<th>South Indian Ocean</th>
+<th>Asia</th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2085</th>
+<th>West South Australian Basin</th>
+<th>West Great Australian Bight</th>
+<th>Great Australian Bight</th>
+<th>Asia</th>
+<th>Ocean</th>
+<th>Subarctic</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2086</th>
+<th>West Continental Slope</th>
+<th>West Great Australian Bight</th>
+<th>Great Australian Bight</th>
+<th>Asia</th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2087</th>
+<th>Cape Naturaliste</th>
+<th>West Coast of Australia</th>
+<th>East Indian Ocean</th>
+<th>Asia</th>
+<th>Ocean</th>
+<th>Subtropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2088</th>
+<th>Shark Bay</th>
+<th>West Coast of Australia</th>
+<th>East Indian Ocean</th>
+<th>Asia</th>
+<th>Ocean</th>
+<th>Subtropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2089</th>
+<th>Exmouth Gulf</th>
+<th>West Coast of Australia</th>
+<th>East Indian Ocean</th>
+<th>Asia</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2090</th>
+<th>Exmouth Plateau</th>
+<th>Timor Sea</th>
+<th>Java Sea</th>
+<th>Asia</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2091</th>
+<th>King Sound</th>
+<th>Timor Sea</th>
+<th>Java Sea</th>
+<th>Asia</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2092</th>
+<th>East South Australian Basin</th>
+<th>East Great Australian Bight</th>
+<th>Great Australian Bight</th>
+<th>Asia</th>
+<th>Ocean</th>
+<th>Subarctic</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2093</th>
+<th>East Continental Slope</th>
+<th>East Great Australian Bight</th>
+<th>Great Australian Bight</th>
+<th>Asia</th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2094</th>
+<th>West Cape Howe</th>
+<th>West Great Australian Bight</th>
+<th>Great Australian Bight</th>
+<th>Asia</th>
+<th>Ocean</th>
+<th>Subtropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2095</th>
+<th>Sandy Bight</th>
+<th>West Great Australian Bight</th>
+<th>Great Australian Bight</th>
+<th>Asia</th>
+<th>Ocean</th>
+<th>Subtropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2096</th>
+<th>Head of Bight</th>
+<th>East Great Australian Bight</th>
+<th>Great Australian Bight</th>
+<th>Asia</th>
+<th>Ocean</th>
+<th>Subtropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2097</th>
+<th>Spencer Gulf</th>
+<th>East Great Australian Bight</th>
+<th>Great Australian Bight</th>
+<th>Asia</th>
+<th>Ocean</th>
+<th>Subtropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2098</th>
+<th>West Bass Strait</th>
+<th>South Tasman Sea</th>
+<th>Tasman Sea</th>
+<th>Asia</th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2099</th>
+<th>South Tasman Rise</th>
+<th>South Tasman Sea</th>
+<th>Tasman Sea</th>
+<th>Asia</th>
+<th>Ocean</th>
+<th>Subarctic</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even" data-bgcolor="ffff66">
+<th>ID</th>
+<th>Province name</th>
+<th>Area</th>
+<th>Region</th>
+<th>Continent</th>
+<th>Terrain</th>
+<th>Climate</th>
+<th>Infra</th>
+<th>Beach?</th>
+<th>IC</th>
+<th>Manpower</th>
+<th>Energy</th>
+<th>Oil</th>
+<th>Metal</th>
+<th>Rare Materials</th>
+</tr>
+<tr class="odd">
+<th><h2 id="section-8"><span id="2100" class="mw-headline"> 2100
+</span></h2></th>
+<th>East Bass Strait</th>
+<th>South Tasman Sea</th>
+<th>Tasman Sea</th>
+<th>Asia</th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2101</th>
+<th>East South Solomon Trench</th>
+<th>East Coral Sea</th>
+<th>Coral Sea</th>
+<th>Asia</th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2102</th>
+<th>West Cape</th>
+<th>South Tasman Sea</th>
+<th>Tasman Sea</th>
+<th>Asia</th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2103</th>
+<th>Foveaux Strait</th>
+<th>East Cost of New Zealand</th>
+<th>Pacific-Antarctic Ridge</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2104</th>
+<th>West Campbell Plateau</th>
+<th>East Cost of New Zealand</th>
+<th>Pacific-Antarctic Ridge</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Subarctic</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2105</th>
+<th>Hawke Bay</th>
+<th>East Cost of New Zealand</th>
+<th>Pacific-Antarctic Ridge</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2106</th>
+<th>Bay of Plenty</th>
+<th>East Cost of New Zealand</th>
+<th>Pacific-Antarctic Ridge</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Subtropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2107</th>
+<th>New Caledonia Basin</th>
+<th>North Tasman Sea</th>
+<th>Tasman Sea</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2108</th>
+<th>North Cape</th>
+<th>North Tasman Sea</th>
+<th>Tasman Sea</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Subtropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2109</th>
+<th>Lord Howe Rise</th>
+<th>North Tasman Sea</th>
+<th>Tasman Sea</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2110</th>
+<th>Cook Strait</th>
+<th>North Tasman Sea</th>
+<th>Tasman Sea</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2111</th>
+<th>Botany Bay</th>
+<th>North Tasman Sea</th>
+<th>Tasman Sea</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Subtropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2112</th>
+<th>Cape Byron</th>
+<th>North Tasman Sea</th>
+<th>Tasman Sea</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2113</th>
+<th>Southwest Great Barrier Reef</th>
+<th>West Coral Sea</th>
+<th>Coral Sea</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2114</th>
+<th>Southeast Great Barrier Reef</th>
+<th>West Coral Sea</th>
+<th>Coral Sea</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2115</th>
+<th>Central South Solomon Trench</th>
+<th>East Coral Sea</th>
+<th>Coral Sea</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2116</th>
+<th>Northeast Great Barrier Reef</th>
+<th>West Coral Sea</th>
+<th>Coral Sea</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2117</th>
+<th>Central Solomon Sea</th>
+<th>Solomon Sea</th>
+<th>Coral Sea</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2118</th>
+<th>The Slot</th>
+<th>Solomon Sea</th>
+<th>Coral Sea</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2119</th>
+<th>South Solomon Sea</th>
+<th>Solomon Sea</th>
+<th>Coral Sea</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2120</th>
+<th>West South Solomon Trench</th>
+<th>East Coral Sea</th>
+<th>Coral Sea</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2121</th>
+<th>St. George's Channel</th>
+<th>Solomon Sea</th>
+<th>Coral Sea</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2122</th>
+<th>Huon Gulf</th>
+<th>Solomon Sea</th>
+<th>Coral Sea</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2123</th>
+<th>Ysabel Channel</th>
+<th>South Bismarck Sea</th>
+<th>Bismarck Sea</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2124</th>
+<th>Northwest Gilberts</th>
+<th>Gilberts</th>
+<th>South Pacific Ocean</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2125</th>
+<th>West Gilberts</th>
+<th>Gilberts</th>
+<th>South Pacific Ocean</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2126</th>
+<th>Gulf of Papua</th>
+<th>West Coral Sea</th>
+<th>Coral Sea</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2127</th>
+<th>Goodenough Bay</th>
+<th>Solomon Sea</th>
+<th>Coral Sea</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2128</th>
+<th>Northwest Great Barrier Reef</th>
+<th>West Coral Sea</th>
+<th>Coral Sea</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2129</th>
+<th>Gulf of Carpentaria</th>
+<th>West Coral Sea</th>
+<th>Coral Sea</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2130</th>
+<th>Coast of Merauke</th>
+<th>Arafura Sea</th>
+<th>Moluccas</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2131</th>
+<th>Torres Strait</th>
+<th>West Coral Sea</th>
+<th>Coral Sea</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2132</th>
+<th>Flamingo Gulf</th>
+<th>Arafura Sea</th>
+<th>Moluccas</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2133</th>
+<th>Lakahia Gulf</th>
+<th>Arafura Sea</th>
+<th>Moluccas</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2134</th>
+<th>Egeron Strait</th>
+<th>Arafura Sea</th>
+<th>Moluccas</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2135</th>
+<th>South Banda Sea</th>
+<th>Banda Sea</th>
+<th>Moluccas</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2136</th>
+<th>Arafura Shelf</th>
+<th>Arafura Sea</th>
+<th>Moluccas</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2137</th>
+<th>Van Diemen Gulf</th>
+<th>Timor Sea</th>
+<th>Java Sea</th>
+<th>Asia</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2138</th>
+<th>Savu Sea</th>
+<th>Flores Sea</th>
+<th>Java Sea</th>
+<th>Indian Ocean</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2139</th>
+<th>South Molucca Sea</th>
+<th>Molucca Sea</th>
+<th>Moluccas</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2140</th>
+<th>Sape Strait</th>
+<th>Flores Sea</th>
+<th>Java Sea</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2141</th>
+<th>Madura Strait</th>
+<th>Flores Sea</th>
+<th>Java Sea</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2142</th>
+<th>Bali Strait</th>
+<th>Flores Sea</th>
+<th>Java Sea</th>
+<th>Indian Ocean</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2143</th>
+<th>Cape Awarawar</th>
+<th>Flores Sea</th>
+<th>Java Sea</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2144</th>
+<th>Gaspar Strait</th>
+<th>Java Ridge</th>
+<th>Java Sea</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2145</th>
+<th>Serasan Strait</th>
+<th>Coast of Brunei</th>
+<th>South China Sea</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2146</th>
+<th>Bangka Strait</th>
+<th>Malacca Strait</th>
+<th>Java Sea</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2147</th>
+<th>South Malacca Strait</th>
+<th>Malacca Strait</th>
+<th>Java Sea</th>
+<th>Indian Ocean</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2148</th>
+<th>Bight of Bangkok</th>
+<th>Gulf of Siam</th>
+<th>South China Sea</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2149</th>
+<th>East Gulf of Siam</th>
+<th>Gulf of Siam</th>
+<th>South China Sea</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd" data-bgcolor="ffff66">
+<th>ID</th>
+<th>Province name</th>
+<th>Area</th>
+<th>Region</th>
+<th>Continent</th>
+<th>Terrain</th>
+<th>Climate</th>
+<th>Infra</th>
+<th>Beach?</th>
+<th>IC</th>
+<th>Manpower</th>
+<th>Energy</th>
+<th>Oil</th>
+<th>Metal</th>
+<th>Rare Materials</th>
+</tr>
+<tr class="even">
+<th><h2 id="section-9"><span id="2150" class="mw-headline"> 2150
+</span></h2></th>
+<th>West Gulf of Siam</th>
+<th>Gulf of Siam</th>
+<th>South China Sea</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2151</th>
+<th>Strait of Singapore</th>
+<th>Gulf of Siam</th>
+<th>South China Sea</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2152</th>
+<th>South Spratly Sea</th>
+<th>Spratly Sea</th>
+<th>South China Sea</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2153</th>
+<th>Brunei Bay</th>
+<th>Coast of Brunei</th>
+<th>South China Sea</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2154</th>
+<th>Central Spratly Sea</th>
+<th>Spratly Sea</th>
+<th>South China Sea</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2155</th>
+<th>Camranh Bay</th>
+<th>Coast of Indochina</th>
+<th>South China Sea</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2156</th>
+<th>Gulf of Tonkin</th>
+<th>Coast of Indochina</th>
+<th>South China Sea</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2157</th>
+<th>North Spratly Sea</th>
+<th>Spratly Sea</th>
+<th>South China Sea</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2158</th>
+<th>Hainan Strait</th>
+<th>Coast of Indochina</th>
+<th>South China Sea</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2159</th>
+<th>Palawan Passage</th>
+<th>Coast of Brunei</th>
+<th>South China Sea</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2160</th>
+<th>West Celebes Sea</th>
+<th>Celebes Sea</th>
+<th>Moluccas</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2161</th>
+<th>Macassar Strait</th>
+<th>Flores Sea</th>
+<th>Java Sea</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2162</th>
+<th>North Molucca Sea</th>
+<th>Molucca Sea</th>
+<th>Moluccas</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2163</th>
+<th>Central Molucca Sea</th>
+<th>Molucca Sea</th>
+<th>Moluccas</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2164</th>
+<th>Ceram Sea</th>
+<th>Banda Sea</th>
+<th>Moluccas</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2165</th>
+<th>North Banda Sea</th>
+<th>Banda Sea</th>
+<th>Moluccas</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2166</th>
+<th>East Celebes Sea</th>
+<th>Celebes Sea</th>
+<th>Moluccas</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2167</th>
+<th>Geelvink Bay</th>
+<th>Coast of New Guinea</th>
+<th>Bismarck Sea</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2168</th>
+<th>Humboldt Bay</th>
+<th>Coast of New Guinea</th>
+<th>Bismarck Sea</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2169</th>
+<th>Dampier Strait</th>
+<th>South Bismarck Sea</th>
+<th>Bismarck Sea</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2170</th>
+<th>East Caroline Basin</th>
+<th>Coast of New Guinea</th>
+<th>Bismarck Sea</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2171</th>
+<th>Southwest Marshalls</th>
+<th>Carolines</th>
+<th>Central Pacific Ocean</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2172</th>
+<th>Central Marshalls</th>
+<th>Carolines</th>
+<th>Central Pacific Ocean</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2173</th>
+<th>South Magellan Seamounts</th>
+<th>East Mariana Basin</th>
+<th>Central Pacific Ocean</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2174</th>
+<th>South East Mariana Basin</th>
+<th>East Mariana Basin</th>
+<th>Central Pacific Ocean</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2175</th>
+<th>South Mariana Trench</th>
+<th>Mariana Trench</th>
+<th>Philippine Sea</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2176</th>
+<th>Mariana Trough</th>
+<th>Mariana Trench</th>
+<th>Philippine Sea</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2177</th>
+<th>Yap Trench</th>
+<th>North Bismarck Sea</th>
+<th>Bismarck Sea</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2178</th>
+<th>West Caroline Basin</th>
+<th>Coast of New Guinea</th>
+<th>Bismarck Sea</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2179</th>
+<th>Buka Passage</th>
+<th>South Bismarck Sea</th>
+<th>Bismarck Sea</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2180</th>
+<th>Southeast Marshalls</th>
+<th>Carolines</th>
+<th>Central Pacific Ocean</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2181</th>
+<th>North Mariana Trench</th>
+<th>Mariana Trench</th>
+<th>Philippine Sea</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2182</th>
+<th>West Mariana Basin</th>
+<th>Central Philippine Sea</th>
+<th>Philippine Sea</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2183</th>
+<th>North Kyushu-Palau Trench</th>
+<th>Central Philippine Sea</th>
+<th>Philippine Sea</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2184</th>
+<th>Ryukyu Trench</th>
+<th>Central Philippine Sea</th>
+<th>Philippine Sea</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2185</th>
+<th>South Ryukyu</th>
+<th>Ryukyus</th>
+<th>East China Sea</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Subtropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2186</th>
+<th>Hangzhou Bay</th>
+<th>Taiwan Strait</th>
+<th>East China Sea</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Subtropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2187</th>
+<th>North Ryukyu</th>
+<th>Ryukyus</th>
+<th>East China Sea</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Subtropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2188</th>
+<th>South Yellow Sea</th>
+<th>Yellow Sea</th>
+<th>East China Sea</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2189</th>
+<th>North Yellow Sea</th>
+<th>Yellow Sea</th>
+<th>East China Sea</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2190</th>
+<th>Bohai Sea</th>
+<th>Yellow Sea</th>
+<th>East China Sea</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2191</th>
+<th>Vladivostok Bay</th>
+<th>Sea of Japan</th>
+<th>Home Islands</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2192</th>
+<th>Tsushima Strait</th>
+<th>Sea of Japan</th>
+<th>Home Islands</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2193</th>
+<th>Inland Sea</th>
+<th>Coast of Japan</th>
+<th>Home Islands</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2194</th>
+<th>Toyama Bay</th>
+<th>Sea of Japan</th>
+<th>Home Islands</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2195</th>
+<th>Izu Trench</th>
+<th>Coast of Japan</th>
+<th>Home Islands</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Subtropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2196</th>
+<th>Bonin Trench</th>
+<th>Mid-Pacific Mountains</th>
+<th>Central Pacific Ocean</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Subtropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2197</th>
+<th>North East Mariana Basin</th>
+<th>East Mariana Basin</th>
+<th>Central Pacific Ocean</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2198</th>
+<th>North Magellan Seamounts</th>
+<th>East Mariana Basin</th>
+<th>Central Pacific Ocean</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2199</th>
+<th>Northwest Marshalls</th>
+<th>Carolines</th>
+<th>Central Pacific Ocean</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even" data-bgcolor="ffff66">
+<th>ID</th>
+<th>Province name</th>
+<th>Area</th>
+<th>Region</th>
+<th>Continent</th>
+<th>Terrain</th>
+<th>Climate</th>
+<th>Infra</th>
+<th>Beach?</th>
+<th>IC</th>
+<th>Manpower</th>
+<th>Energy</th>
+<th>Oil</th>
+<th>Metal</th>
+<th>Rare Materials</th>
+</tr>
+<tr class="odd">
+<th><h2 id="section-10"><span id="2200" class="mw-headline"> 2200
+</span></h2></th>
+<th>Southwest Mid-Pacific Mountains</th>
+<th>Mid-Pacific Mountains</th>
+<th>Central Pacific Ocean</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2201</th>
+<th>Southeast Mid-Pacific Mountains</th>
+<th>Mid-Pacific Mountains</th>
+<th>Central Pacific Ocean</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2202</th>
+<th>Northeast Marshalls</th>
+<th>Carolines</th>
+<th>Central Pacific Ocean</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2203</th>
+<th>Mapmaker Seamounts</th>
+<th>Mid-Pacific Mountains</th>
+<th>Central Pacific Ocean</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Subtropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2204</th>
+<th>Grosvenor Seamount</th>
+<th>Mid-Pacific Mountains</th>
+<th>Central Pacific Ocean</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Subtropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2205</th>
+<th>Japan Trench</th>
+<th>Coast of Japan</th>
+<th>Home Islands</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2206</th>
+<th>Makarov Seamount</th>
+<th>Northwest Pacific Basin</th>
+<th>North Pacific Ocean</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2207</th>
+<th>Shatskiy Rise</th>
+<th>Northwest Pacific Basin</th>
+<th>North Pacific Ocean</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2208</th>
+<th>Emperor Seamounts</th>
+<th>Northwest Pacific Basin</th>
+<th>North Pacific Ocean</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2209</th>
+<th>Hess Rise</th>
+<th>Northwest Pacific Basin</th>
+<th>North Pacific Ocean</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2210</th>
+<th>Isakov Seamount</th>
+<th>Northwest Pacific Basin</th>
+<th>North Pacific Ocean</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2211</th>
+<th>South Kurile Trench</th>
+<th>Northwest Pacific Basin</th>
+<th>North Pacific Ocean</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Subarctic</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2212</th>
+<th>Abashiri Bay</th>
+<th>Coast of Japan</th>
+<th>Home Islands</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Subarctic</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2213</th>
+<th>Tsugaru Strait</th>
+<th>Coast of Japan</th>
+<th>Home Islands</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2214</th>
+<th>West Kuril Basin</th>
+<th>South Sea of Okhotsk</th>
+<th>Sea of Okhotsk</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Subarctic</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2215</th>
+<th>Southern Gulf of Tartary</th>
+<th>South Sea of Okhotsk</th>
+<th>Sea of Okhotsk</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Subarctic</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2216</th>
+<th>Northern Gulf of Tartary</th>
+<th>South Sea of Okhotsk</th>
+<th>Sea of Okhotsk</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Subarctic</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2217</th>
+<th>Gulf of Sakhalin</th>
+<th>West Sea of Okhotsk</th>
+<th>Sea of Okhotsk</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Subarctic</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2218</th>
+<th>Ulban Bay</th>
+<th>West Sea of Okhotsk</th>
+<th>Sea of Okhotsk</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Subarctic</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2219</th>
+<th>Erinea Gulf</th>
+<th>West Sea of Okhotsk</th>
+<th>Sea of Okhotsk</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Subarctic</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2220</th>
+<th>Central Sea of Okhotsk</th>
+<th>West Sea of Okhotsk</th>
+<th>Sea of Okhotsk</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Subarctic</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2221</th>
+<th>Taui Bay</th>
+<th>West Sea of Okhotsk</th>
+<th>Sea of Okhotsk</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Subarctic</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2222</th>
+<th>East Kuril Basin</th>
+<th>South Sea of Okhotsk</th>
+<th>Sea of Okhotsk</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2223</th>
+<th>Kurile Strait</th>
+<th>South Sea of Okhotsk</th>
+<th>Sea of Okhotsk</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Subarctic</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2224</th>
+<th>East Sea of Okhotsk</th>
+<th>East Sea of Okhotsk</th>
+<th>Sea of Okhotsk</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Subarctic</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2225</th>
+<th>Shelikhov Gulf</th>
+<th>East Sea of Okhotsk</th>
+<th>Sea of Okhotsk</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Subarctic</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2226</th>
+<th>Penzhina Bay</th>
+<th>East Sea of Okhotsk</th>
+<th>Sea of Okhotsk</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Subarctic</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2227</th>
+<th>Kronotski Bay</th>
+<th>Coast of Kamchatka</th>
+<th>Bering Sea</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Subarctic</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2228</th>
+<th>Gulf of Kamchatka</th>
+<th>Coast of Kamchatka</th>
+<th>Bering Sea</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Arctic</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2229</th>
+<th>North Kurile Trench</th>
+<th>Coast of Kamchatka</th>
+<th>Bering Sea</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Subarctic</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2230</th>
+<th>Southwest Aleutian Basin</th>
+<th>West Bering Sea</th>
+<th>Bering Sea</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Subarctic</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2231</th>
+<th>South Aleutian Basin</th>
+<th>West Bering Sea</th>
+<th>Bering Sea</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Subarctic</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2232</th>
+<th>Central Aleutian Basin</th>
+<th>West Bering Sea</th>
+<th>Bering Sea</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Arctic</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2233</th>
+<th>West Aleutian Basin</th>
+<th>West Bering Sea</th>
+<th>Bering Sea</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Arctic</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2234</th>
+<th>Northwest Aleutian Basin</th>
+<th>West Bering Sea</th>
+<th>Bering Sea</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Arctic</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2235</th>
+<th>South Shirshov Ridge</th>
+<th>Coast of Kamchatka</th>
+<th>Bering Sea</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Arctic</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2236</th>
+<th>Olyutorskiy Gulf</th>
+<th>Coast of Kamchatka</th>
+<th>Bering Sea</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Arctic</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2237</th>
+<th>Gulf of Anadyr</th>
+<th>Coast of Kamchatka</th>
+<th>Bering Sea</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Arctic</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2238</th>
+<th>North Shirshov Ridge</th>
+<th>Coast of Kamchatka</th>
+<th>Bering Sea</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Arctic</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2239</th>
+<th>North Aleutian Basin</th>
+<th>West Bering Sea</th>
+<th>Bering Sea</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Arctic</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2240</th>
+<th>Gulf of Ob</th>
+<th>Lake</th>
+<th>Lake</th>
+<th>Lake</th>
+<th>Ocean</th>
+<th>Arctic</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2241</th>
+<th>Lake Baikal</th>
+<th>Lake</th>
+<th>Lake</th>
+<th>Lake</th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2242</th>
+<th>Lake Poyang</th>
+<th>Lake</th>
+<th>Lake</th>
+<th>Lake</th>
+<th>Ocean</th>
+<th>Subtropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2243</th>
+<th>Lake Dongting</th>
+<th>Lake</th>
+<th>Lake</th>
+<th>Lake</th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2244</th>
+<th>Lake Qinghai</th>
+<th>Lake</th>
+<th>Lake</th>
+<th>Lake</th>
+<th>Ocean</th>
+<th>Mediterranean</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2245</th>
+<th>Lake Zaysan</th>
+<th>Lake</th>
+<th>Lake</th>
+<th>Lake</th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2246</th>
+<th>Lake Balkhash</th>
+<th>Lake</th>
+<th>Lake</th>
+<th>Lake</th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2247</th>
+<th>East Carolines</th>
+<th>North Bismarck Sea</th>
+<th>Bismarck Sea</th>
+<th></th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2248</th>
+<th>North Carolines</th>
+<th>North Bismarck Sea</th>
+<th>Bismarck Sea</th>
+<th></th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2249</th>
+<th>Central Carolines</th>
+<th>North Bismarck Sea</th>
+<th>Bismarck Sea</th>
+<th></th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd" data-bgcolor="ffff66">
+<th>ID</th>
+<th>Province name</th>
+<th>Area</th>
+<th>Region</th>
+<th>Continent</th>
+<th>Terrain</th>
+<th>Climate</th>
+<th>Infra</th>
+<th>Beach?</th>
+<th>IC</th>
+<th>Manpower</th>
+<th>Energy</th>
+<th>Oil</th>
+<th>Metal</th>
+<th>Rare Materials</th>
+</tr>
+<tr class="even">
+<th><h2 id="section-11"><span id="2250" class="mw-headline"> 2250
+</span></h2></th>
+<th>South Philippine Trench</th>
+<th>Philipine Trench</th>
+<th>Philippine Sea</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2251</th>
+<th>Davao Gulf</th>
+<th>Celebes Sea</th>
+<th>Moluccas</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2252</th>
+<th>Panay Gulf</th>
+<th>Sulu Sea</th>
+<th>South China Sea</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2253</th>
+<th>Surigao Strait</th>
+<th>Sulu Sea</th>
+<th>South China Sea</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2254</th>
+<th>Sibuyan Sea</th>
+<th>Sulu Sea</th>
+<th>South China Sea</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2255</th>
+<th>Leyte Gulf</th>
+<th>Philipine Trench</th>
+<th>Philippine Sea</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2256</th>
+<th>Manila Bay</th>
+<th>Sulu Sea</th>
+<th>South China Sea</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2257</th>
+<th>Lingayen Gulf</th>
+<th>Luzon Strait</th>
+<th>South China Sea</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2258</th>
+<th>Lamon Bay</th>
+<th>Philipine Trench</th>
+<th>Philippine Sea</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2259</th>
+<th>San Bernardino Strait</th>
+<th>Philipine Trench</th>
+<th>Philippine Sea</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2260</th>
+<th>Oras Bay</th>
+<th>Philipine Trench</th>
+<th>Philippine Sea</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2261</th>
+<th>Divilacan Bay</th>
+<th>Philipine Trench</th>
+<th>Philippine Sea</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2262</th>
+<th>Babuyan Channel</th>
+<th>Luzon Strait</th>
+<th>South China Sea</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2263</th>
+<th>Shenquan Gulf</th>
+<th>Taiwan Strait</th>
+<th>East China Sea</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Subtropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2264</th>
+<th>North Philippine Trench</th>
+<th>Philipine Trench</th>
+<th>Philippine Sea</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2265</th>
+<th>Central Philippine Trench</th>
+<th>Philipine Trench</th>
+<th>Philippine Sea</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2266</th>
+<th>South Kyushu-Palau Trench</th>
+<th>Central Philippine Sea</th>
+<th>Philippine Sea</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2267</th>
+<th>Palau Trench</th>
+<th>Mariana Trench</th>
+<th>Philippine Sea</th>
+<th>Pacific Ocean</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2268</th>
+<th>Cape Alguhas</th>
+<th>Coast of South Africa</th>
+<th>Cape of Good Hope</th>
+<th></th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2269</th>
+<th>False Bay</th>
+<th>Coast of South Africa</th>
+<th>Cape of Good Hope</th>
+<th></th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2270</th>
+<th>West Walvis Ridge</th>
+<th>Angola Plain</th>
+<th>Southeast Atlantic Ocean</th>
+<th></th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2271</th>
+<th>Central Angola Plain</th>
+<th>Angola Plain</th>
+<th>Southeast Atlantic Ocean</th>
+<th></th>
+<th>Ocean</th>
+<th>Subtropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2272</th>
+<th>East Walvis Ridge</th>
+<th>Coast of Angola-Namibia</th>
+<th>Southeast Atlantic Ocean</th>
+<th></th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2273</th>
+<th>McDougall's Bay</th>
+<th>Coast of South Africa</th>
+<th>Cape of Good Hope</th>
+<th></th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2274</th>
+<th>Walvis Bay</th>
+<th>Coast of Angola-Namibia</th>
+<th>Southeast Atlantic Ocean</th>
+<th></th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2275</th>
+<th>Cape Fria</th>
+<th>Coast of Angola-Namibia</th>
+<th>Southeast Atlantic Ocean</th>
+<th></th>
+<th>Ocean</th>
+<th>Subtropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2276</th>
+<th>Coast of Angola</th>
+<th>Coast of Angola-Namibia</th>
+<th>Southeast Atlantic Ocean</th>
+<th></th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2277</th>
+<th>East Congo Cone</th>
+<th>Coast of Angola-Namibia</th>
+<th>Southeast Atlantic Ocean</th>
+<th></th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2278</th>
+<th>Cape Lopez</th>
+<th>Coast of Angola-Namibia</th>
+<th>Southeast Atlantic Ocean</th>
+<th></th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2279</th>
+<th>Bay of Corisco</th>
+<th>Gulf of Guinea</th>
+<th>Southcentral Atlantic</th>
+<th></th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2280</th>
+<th>Niger Delta</th>
+<th>Gulf of Guinea</th>
+<th>Southcentral Atlantic</th>
+<th></th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2281</th>
+<th>Lake Chad</th>
+<th>Lake</th>
+<th>Lake</th>
+<th>Lake</th>
+<th>Ocean</th>
+<th>Mediterranean</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2282</th>
+<th>Lake Victoria</th>
+<th>Lake</th>
+<th>Lake</th>
+<th>Lake</th>
+<th>Ocean</th>
+<th>Mediterranean</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2283</th>
+<th>Lake Tanganyika</th>
+<th>Lake</th>
+<th>Lake</th>
+<th>Lake</th>
+<th>Ocean</th>
+<th>Mediterranean</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2284</th>
+<th>Lake Nyasa</th>
+<th>Lake</th>
+<th>Lake</th>
+<th>Lake</th>
+<th>Ocean</th>
+<th>Mediterranean</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2285</th>
+<th>East Guinea Bay</th>
+<th>Gulf of Guinea</th>
+<th>Southcentral Atlantic</th>
+<th></th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2286</th>
+<th>West Congo Cone</th>
+<th>Coast of Angola-Namibia</th>
+<th>Southeast Atlantic Ocean</th>
+<th></th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2287</th>
+<th>East Guinea Basin</th>
+<th>Ascension Fracture Zone</th>
+<th>Southcentral Atlantic</th>
+<th></th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2288</th>
+<th>Centralwest Guinea Bay</th>
+<th>Gulf of Guinea</th>
+<th>Southcentral Atlantic</th>
+<th></th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2289</th>
+<th>Slave Coast</th>
+<th>Gulf of Guinea</th>
+<th>Southcentral Atlantic</th>
+<th></th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2290</th>
+<th>Gold Coast</th>
+<th>Gulf of Guinea</th>
+<th>Southcentral Atlantic</th>
+<th></th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2291</th>
+<th>Ivory Coast</th>
+<th>Gulf of Guinea</th>
+<th>Southcentral Atlantic</th>
+<th></th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2292</th>
+<th>Pepper Coast</th>
+<th>Gulf of Guinea</th>
+<th>Southcentral Atlantic</th>
+<th></th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2293</th>
+<th>Leonean Archipelago</th>
+<th>Coast of Bissao</th>
+<th>Eastern Atlantic</th>
+<th></th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2294</th>
+<th>Bijagos Archipelago</th>
+<th>Coast of Bissao</th>
+<th>Eastern Atlantic</th>
+<th></th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2295</th>
+<th>Gambian Basin</th>
+<th>Coast of Bissao</th>
+<th>Eastern Atlantic</th>
+<th></th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2296</th>
+<th>Bay of Gambia</th>
+<th>Coast of Bissao</th>
+<th>Eastern Atlantic</th>
+<th></th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2297</th>
+<th>Cap Blanc</th>
+<th>Coast of Africa</th>
+<th>Eastern Atlantic</th>
+<th></th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2298</th>
+<th>South Cap Verde Approach</th>
+<th>Cap Verde</th>
+<th>Eastern Atlantic</th>
+<th></th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2299</th>
+<th>North Cap Verde Approach</th>
+<th>Central Atlantic</th>
+<th>Eastern Atlantic</th>
+<th></th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even" data-bgcolor="ffff66">
+<th>ID</th>
+<th>Province name</th>
+<th>Area</th>
+<th>Region</th>
+<th>Continent</th>
+<th>Terrain</th>
+<th>Climate</th>
+<th>Infra</th>
+<th>Beach?</th>
+<th>IC</th>
+<th>Manpower</th>
+<th>Energy</th>
+<th>Oil</th>
+<th>Metal</th>
+<th>Rare Materials</th>
+</tr>
+<tr class="odd">
+<th><h2 id="section-12"><span id="2300" class="mw-headline"> 2300
+</span></h2></th>
+<th>Canary Approach</th>
+<th>Coast of Africa</th>
+<th>Eastern Atlantic</th>
+<th></th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2301</th>
+<th>Gulf of Cintra</th>
+<th>Coast of Africa</th>
+<th>Eastern Atlantic</th>
+<th></th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2302</th>
+<th>Cap Bojador</th>
+<th>Coast of Africa</th>
+<th>Iberian West Coast</th>
+<th></th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2303</th>
+<th>Cap Draa</th>
+<th>Cap St Vincent</th>
+<th>Iberian West Coast</th>
+<th></th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2304</th>
+<th>Sea of Azores South</th>
+<th>Azores</th>
+<th>Iberian West Coast</th>
+<th></th>
+<th>Ocean</th>
+<th>Subtropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2305</th>
+<th>East Mid-Atlantic Ridge</th>
+<th>Central Atlantic</th>
+<th>Eastern Atlantic</th>
+<th></th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2306</th>
+<th>East Central Mid-Atlantic Ridge</th>
+<th>Central Atlantic</th>
+<th>Central Mid-Atlantic Ridge</th>
+<th></th>
+<th>Ocean</th>
+<th>Subtropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2307</th>
+<th>Northern South-Central Mid-Atlantic Ridge</th>
+<th>South-Central Mid-Atlantic Ridge</th>
+<th>Central Mid-Atlantic Ridge</th>
+<th></th>
+<th>Ocean</th>
+<th>Subtropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2308</th>
+<th>Southern Central Mid-Atlantic Ridge</th>
+<th>Central Mid-Atlantic Ridge</th>
+<th>Central Mid-Atlantic Ridge</th>
+<th></th>
+<th>Ocean</th>
+<th>Subtropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2309</th>
+<th>Northern Central Mid-Atlantic Ridge</th>
+<th>Central Mid-Atlantic Ridge</th>
+<th>Central Mid-Atlantic Ridge</th>
+<th></th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2310</th>
+<th>South-Eastern Saragasso Sea</th>
+<th>Central Mid-Atlantic Ridge</th>
+<th>Central Mid-Atlantic Ridge</th>
+<th></th>
+<th>Ocean</th>
+<th>Subtropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2311</th>
+<th>Eastern Sargasso Sea</th>
+<th>Central Mid-Atlantic Ridge</th>
+<th>Central Mid-Atlantic Ridge</th>
+<th></th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2312</th>
+<th>East Bermuda</th>
+<th>Bermuda Triangle</th>
+<th>Eastern Seaboard</th>
+<th></th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2313</th>
+<th>Northern Guiana Basin</th>
+<th>Guiana Basin</th>
+<th>Sargassos</th>
+<th></th>
+<th>Ocean</th>
+<th>Subtropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2314</th>
+<th>South Bermuda</th>
+<th>Bermuda Triangle</th>
+<th>Sargassos</th>
+<th></th>
+<th>Ocean</th>
+<th>Subtropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2315</th>
+<th>West Bermuda</th>
+<th>Bermuda Triangle</th>
+<th>Sargassos</th>
+<th></th>
+<th>Ocean</th>
+<th>Subtropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2316</th>
+<th>Blake Plateau</th>
+<th>Florida Strait</th>
+<th>Sargassos</th>
+<th></th>
+<th>Ocean</th>
+<th>Subtropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2317</th>
+<th>Cape Canaveral</th>
+<th>Florida Strait</th>
+<th>Sargassos</th>
+<th></th>
+<th>Ocean</th>
+<th>Subtropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2318</th>
+<th>Cape Fear</th>
+<th>Florida Strait</th>
+<th>Sargassos</th>
+<th></th>
+<th>Ocean</th>
+<th>Subtropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2319</th>
+<th>Lake Erie</th>
+<th>Lake</th>
+<th>Lake</th>
+<th>Lake</th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2320</th>
+<th>Lake Ontario</th>
+<th>Lake</th>
+<th>Lake</th>
+<th>Lake</th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2321</th>
+<th>Lake Huron</th>
+<th>Lake</th>
+<th>Lake</th>
+<th>Lake</th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2322</th>
+<th>Lake Michigan</th>
+<th>Lake</th>
+<th>Lake</th>
+<th>Lake</th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2323</th>
+<th>Lake Superior</th>
+<th>Lake</th>
+<th>Lake</th>
+<th>Lake</th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2324</th>
+<th>Lake Nipigon</th>
+<th>Lake</th>
+<th>Lake</th>
+<th>Lake</th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2325</th>
+<th>Lake Manitoba</th>
+<th>Lake</th>
+<th>Lake</th>
+<th>Lake</th>
+<th>Ocean</th>
+<th>Subarctic</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2326</th>
+<th>Lake Winnipeg</th>
+<th>Lake</th>
+<th>Lake</th>
+<th>Lake</th>
+<th>Ocean</th>
+<th>Subarctic</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2327</th>
+<th>Lake Winnipegosis</th>
+<th>Lake</th>
+<th>Lake</th>
+<th>Lake</th>
+<th>Ocean</th>
+<th>Subarctic</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2328</th>
+<th>Great Slave Lake</th>
+<th>Lake</th>
+<th>Lake</th>
+<th>Lake</th>
+<th>Ocean</th>
+<th>Arctic</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2329</th>
+<th>Great Bear Lake</th>
+<th>Lake</th>
+<th>Lake</th>
+<th>Lake</th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2330</th>
+<th>Chesterfield Inlet</th>
+<th>Hudson Bay</th>
+<th>Canadian Arctic</th>
+<th></th>
+<th>Ocean</th>
+<th>Arctic</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2331</th>
+<th>Foxe Basin</th>
+<th>Hudson Bay</th>
+<th>Canadian Arctic</th>
+<th></th>
+<th>Ocean</th>
+<th>Arctic</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2332</th>
+<th>James Bay</th>
+<th>Hudson Bay</th>
+<th>Canadian Arctic</th>
+<th></th>
+<th>Ocean</th>
+<th>Arctic</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2333</th>
+<th>Hudson Strait</th>
+<th>Hudson Bay</th>
+<th>Canadian Arctic</th>
+<th></th>
+<th>Ocean</th>
+<th>Arctic</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2334</th>
+<th>Bafin Bay</th>
+<th>Northern Sea of Labrador</th>
+<th>Canadian Arctic</th>
+<th></th>
+<th>Ocean</th>
+<th>Arctic</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2335</th>
+<th>Melville Bay</th>
+<th>Northern Sea of Labrador</th>
+<th>Canadian Arctic</th>
+<th></th>
+<th>Ocean</th>
+<th>Arctic</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2336</th>
+<th>Cumberland Sound</th>
+<th>Northern Sea of Labrador</th>
+<th>Canadian Arctic</th>
+<th></th>
+<th>Ocean</th>
+<th>Arctic</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2337</th>
+<th>Ungava Bay</th>
+<th>Northern Sea of Labrador</th>
+<th>Canadian Arctic</th>
+<th></th>
+<th>Ocean</th>
+<th>Arctic</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2338</th>
+<th>Goose Bay</th>
+<th>Southern Sea of Labrador</th>
+<th>Canadian Arctic</th>
+<th></th>
+<th>Ocean</th>
+<th>Subarctic</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2339</th>
+<th>White Bay</th>
+<th>Grand Banks</th>
+<th>Grand Banks Shelf</th>
+<th></th>
+<th>Ocean</th>
+<th>Subarctic</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2340</th>
+<th>Bonavista Bay</th>
+<th>Grand Banks</th>
+<th>Grand Banks Shelf</th>
+<th></th>
+<th>Ocean</th>
+<th>Subarctic</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2341</th>
+<th>Fortune Bay</th>
+<th>Grand Banks</th>
+<th>Grand Banks Shelf</th>
+<th></th>
+<th>Ocean</th>
+<th>Subarctic</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2342</th>
+<th>Strait Of Belle Isle</th>
+<th>Canadian Maritimes</th>
+<th>Eastern Seaboard</th>
+<th></th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2343</th>
+<th>Gulf of St. Lawrence</th>
+<th>Canadian Maritimes</th>
+<th>Eastern Seaboard</th>
+<th></th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2344</th>
+<th>Cabot Strait</th>
+<th>Canadian Maritimes</th>
+<th>Eastern Seaboard</th>
+<th></th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2345</th>
+<th>Bay of Fundy</th>
+<th>Canadian Maritimes</th>
+<th>Eastern Seaboard</th>
+<th></th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2346</th>
+<th>Gulf of Maine</th>
+<th>US Maritimes</th>
+<th>Eastern Seaboard</th>
+<th></th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2347</th>
+<th>Nantucket Sound</th>
+<th>US Maritimes</th>
+<th>Eastern Seaboard</th>
+<th></th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2348</th>
+<th>Chesapeake Bay</th>
+<th>US Maritimes</th>
+<th>Eastern Seaboard</th>
+<th></th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2349</th>
+<th>Cape Hatteras</th>
+<th>US Maritimes</th>
+<th>Eastern Seaboard</th>
+<th></th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd" data-bgcolor="ffff66">
+<th>ID</th>
+<th>Province name</th>
+<th>Area</th>
+<th>Region</th>
+<th>Continent</th>
+<th>Terrain</th>
+<th>Climate</th>
+<th>Infra</th>
+<th>Beach?</th>
+<th>IC</th>
+<th>Manpower</th>
+<th>Energy</th>
+<th>Oil</th>
+<th>Metal</th>
+<th>Rare Materials</th>
+</tr>
+<tr class="even">
+<th><h2 id="section-13"><span id="2350" class="mw-headline"> 2350
+</span></h2></th>
+<th>New England Shelf</th>
+<th>US Maritimes</th>
+<th>Eastern Seaboard</th>
+<th></th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2351</th>
+<th>North Bermuda</th>
+<th>US Maritimes</th>
+<th>Eastern Seaboard</th>
+<th></th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2352</th>
+<th>Sable Island Bank</th>
+<th>Canadian Maritimes</th>
+<th>Eastern Seaboard</th>
+<th></th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2353</th>
+<th>New England Seamounts</th>
+<th>The Seamounts</th>
+<th>Grand Banks Shelf</th>
+<th></th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2354</th>
+<th>Grand Banks</th>
+<th>Grand Banks</th>
+<th>Grand Banks Shelf</th>
+<th></th>
+<th>Ocean</th>
+<th>Subarctic</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2355</th>
+<th>Corner Spearmounts</th>
+<th>The Seamounts</th>
+<th>Grand Banks Shelf</th>
+<th></th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2356</th>
+<th>Southern North Mid-Atlantic Sea Ridge</th>
+<th>The Seamounts</th>
+<th>Grand Banks Shelf</th>
+<th></th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2357</th>
+<th>Sea of Azores East</th>
+<th>Azores</th>
+<th>Iberian West Coast</th>
+<th></th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2358</th>
+<th>Sea of Azores North</th>
+<th>Western Approaches</th>
+<th>Northeast Atlantic</th>
+<th></th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2359</th>
+<th>Gibbs Fracture East</th>
+<th>Western Approaches</th>
+<th>Northeast Atlantic</th>
+<th></th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2360</th>
+<th>Flemish Cap</th>
+<th>The Seamounts</th>
+<th>Grand Banks Shelf</th>
+<th></th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2361</th>
+<th>Gibbs Fracture West</th>
+<th>The Seamounts</th>
+<th>Grand Banks Shelf</th>
+<th></th>
+<th>Ocean</th>
+<th>Subarctic</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2362</th>
+<th>South West Sea of Labrador</th>
+<th>Southern Sea of Labrador</th>
+<th>Canadian Arctic</th>
+<th></th>
+<th>Ocean</th>
+<th>Subarctic</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2363</th>
+<th>Davis Strait</th>
+<th>Northern Sea of Labrador</th>
+<th>Canadian Arctic</th>
+<th></th>
+<th>Ocean</th>
+<th>Subarctic</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2364</th>
+<th>South Central Sea of Labrador</th>
+<th>Southern Sea of Labrador</th>
+<th>Canadian Arctic</th>
+<th></th>
+<th>Ocean</th>
+<th>Subarctic</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2365</th>
+<th>Tordenskjold Bank</th>
+<th>Greenland Coast</th>
+<th>Northeast Atlantic</th>
+<th></th>
+<th>Ocean</th>
+<th>Subarctic</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2366</th>
+<th>Skjoldungen Bank</th>
+<th>Greenland Coast</th>
+<th>Northeast Atlantic</th>
+<th></th>
+<th>Ocean</th>
+<th>Arctic</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2367</th>
+<th>West Denmark Strait</th>
+<th>Denmark Strait</th>
+<th>Western Ice Sea</th>
+<th></th>
+<th>Ocean</th>
+<th>Arctic</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2368</th>
+<th>Northwest Denmark Strait</th>
+<th>Denmark Strait</th>
+<th>Western Ice Sea</th>
+<th></th>
+<th>Ocean</th>
+<th>Arctic</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2369</th>
+<th>Central Denmark Strait</th>
+<th>Denmark Strait</th>
+<th>Western Ice Sea</th>
+<th></th>
+<th>Ocean</th>
+<th>Arctic</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2370</th>
+<th>Irminger Basin</th>
+<th>Greenland Coast</th>
+<th>Northeast Atlantic</th>
+<th></th>
+<th>Ocean</th>
+<th>Subarctic</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2371</th>
+<th>Central Sea of Labrador</th>
+<th>North Atlantic</th>
+<th>Northeast Atlantic</th>
+<th></th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2372</th>
+<th>North Sea of Labrador</th>
+<th>North Atlantic</th>
+<th>Northeast Atlantic</th>
+<th></th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2373</th>
+<th>South Denmark Strait</th>
+<th>North Atlantic</th>
+<th>Northeast Atlantic</th>
+<th></th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2374</th>
+<th>Faxa Bay</th>
+<th>Denmark Strait</th>
+<th>Western Ice Sea</th>
+<th></th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2375</th>
+<th>Huna Bay</th>
+<th>Denmark Strait</th>
+<th>Western Ice Sea</th>
+<th></th>
+<th>Ocean</th>
+<th>Subarctic</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2376</th>
+<th>West Greenland Sea</th>
+<th>Arctic Ocean</th>
+<th>Ice Sea</th>
+<th></th>
+<th>Ocean</th>
+<th>Subarctic</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2377</th>
+<th>Northwest Faroes Gap</th>
+<th>Faroes Gap</th>
+<th>Western Ice Sea</th>
+<th></th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2378</th>
+<th>Central Greenland Sea</th>
+<th>Arctic Ocean</th>
+<th>Ice Sea</th>
+<th></th>
+<th>Ocean</th>
+<th>Arctic</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2379</th>
+<th>East Greenland Sea</th>
+<th>Arctic Ocean</th>
+<th>Ice Sea</th>
+<th></th>
+<th>Ocean</th>
+<th>Arctic</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2380</th>
+<th>South Greenland Sea</th>
+<th>Arctic Ocean</th>
+<th>Ice Sea</th>
+<th></th>
+<th>Ocean</th>
+<th>Subarctic</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2381</th>
+<th>Cape Kanin</th>
+<th>Barents Sea</th>
+<th>Ice Sea</th>
+<th>Europe</th>
+<th>Ocean</th>
+<th>Subarctic</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2382</th>
+<th>Central Barents Sea</th>
+<th>Barents Sea</th>
+<th>Ice Sea</th>
+<th>Europe</th>
+<th>Ocean</th>
+<th>Arctic</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2383</th>
+<th>South Barents Sea</th>
+<th>Barents Sea</th>
+<th>Ice Sea</th>
+<th>Europe</th>
+<th>Ocean</th>
+<th>Subarctic</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2384</th>
+<th>White Sea</th>
+<th>Barents Sea</th>
+<th>Ice Sea</th>
+<th>Europe</th>
+<th>Ocean</th>
+<th>Subarctic</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2385</th>
+<th>Varanger Fjord</th>
+<th>Barents Sea</th>
+<th>Ice Sea</th>
+<th>Europe</th>
+<th>Ocean</th>
+<th>Subarctic</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2386</th>
+<th>North Cape</th>
+<th>Barents Sea</th>
+<th>Ice Sea</th>
+<th>Europe</th>
+<th>Ocean</th>
+<th>Subarctic</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2387</th>
+<th>Alten Fjord</th>
+<th>Norwegian Sea</th>
+<th>Ice Sea</th>
+<th>Europe</th>
+<th>Ocean</th>
+<th>Subarctic</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2388</th>
+<th>Vest Fjord</th>
+<th>Norwegian Sea</th>
+<th>Ice Sea</th>
+<th>Europe</th>
+<th>Ocean</th>
+<th>Subarctic</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2389</th>
+<th>Trondheim Fjord</th>
+<th>Norwegian Sea</th>
+<th>Ice Sea</th>
+<th>Europe</th>
+<th>Ocean</th>
+<th>Subarctic</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2390</th>
+<th>Molde Fjord</th>
+<th>Norwegian Sea</th>
+<th>Ice Sea</th>
+<th>Europe</th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2391</th>
+<th>Central Norwegian Sea</th>
+<th>Norwegian Sea</th>
+<th>Ice Sea</th>
+<th>Europe</th>
+<th>Ocean</th>
+<th>Subarctic</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2392</th>
+<th>Sogne Fjord</th>
+<th>East North Sea</th>
+<th>North Sea</th>
+<th>Europe</th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2393</th>
+<th>Bokn Fjord</th>
+<th>East North Sea</th>
+<th>North Sea</th>
+<th>Europe</th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2394</th>
+<th>Southcentral North Sea</th>
+<th>Southeast Northsea</th>
+<th>North Sea</th>
+<th>Europe</th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2395</th>
+<th>Mouth of the Thames</th>
+<th>West Northsea</th>
+<th>North Sea</th>
+<th>Europe</th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2396</th>
+<th>The Wash</th>
+<th>West Northsea</th>
+<th>North Sea</th>
+<th>Europe</th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2397</th>
+<th>Mouth of the Tyne</th>
+<th>West Northsea</th>
+<th>North Sea</th>
+<th>Europe</th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2398</th>
+<th>Firth of Forth</th>
+<th>West Northsea</th>
+<th>North Sea</th>
+<th>Europe</th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2399</th>
+<th>Dogger Bank</th>
+<th>Central Northsea</th>
+<th>North Sea</th>
+<th>Europe</th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even" data-bgcolor="ffff66">
+<th>ID</th>
+<th>Province name</th>
+<th>Area</th>
+<th>Region</th>
+<th>Continent</th>
+<th>Terrain</th>
+<th>Climate</th>
+<th>Infra</th>
+<th>Beach?</th>
+<th>IC</th>
+<th>Manpower</th>
+<th>Energy</th>
+<th>Oil</th>
+<th>Metal</th>
+<th>Rare Materials</th>
+</tr>
+<tr class="odd">
+<th><h2 id="section-14"><span id="2400" class="mw-headline"> 2400
+</span></h2></th>
+<th>Westcentral North Sea</th>
+<th>Central Northsea</th>
+<th>North Sea</th>
+<th>Europe</th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2401</th>
+<th>Rockall Bank</th>
+<th>Irish West Coast</th>
+<th>Celtic Sea</th>
+<th></th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2402</th>
+<th>Pentland Firth</th>
+<th>West Northsea</th>
+<th>North Sea</th>
+<th>Europe</th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2403</th>
+<th>The Minch</th>
+<th>The Hebreides</th>
+<th>Celtic Sea</th>
+<th></th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2404</th>
+<th>Little Minch</th>
+<th>The Hebreides</th>
+<th>Celtic Sea</th>
+<th></th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2405</th>
+<th>North Channel</th>
+<th>Irish Sea</th>
+<th>Celtic Sea</th>
+<th></th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2406</th>
+<th>Solway Firth</th>
+<th>Irish Sea</th>
+<th>Celtic Sea</th>
+<th></th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2407</th>
+<th>Donegal Bay</th>
+<th>Irish West Coast</th>
+<th>Celtic Sea</th>
+<th></th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2408</th>
+<th>Galway Bay</th>
+<th>Irish West Coast</th>
+<th>Celtic Sea</th>
+<th></th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2409</th>
+<th>Mouth of Shannon</th>
+<th>Irish Sea</th>
+<th>Celtic Sea</th>
+<th></th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2410</th>
+<th>St. George's Channel</th>
+<th>Irish Sea</th>
+<th>Celtic Sea</th>
+<th></th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2411</th>
+<th>Celtic Sea</th>
+<th>Irish Sea</th>
+<th>Celtic Sea</th>
+<th></th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2412</th>
+<th>Eastern English Channel</th>
+<th>English Channel</th>
+<th>Celtic Sea</th>
+<th></th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2413</th>
+<th>Western English Channel</th>
+<th>English Channel</th>
+<th>Celtic Sea</th>
+<th></th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2414</th>
+<th>Channel Approach</th>
+<th>English Channel</th>
+<th>Celtic Sea</th>
+<th></th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2415</th>
+<th>North Bay of Biscaya</th>
+<th>Bay of Biscay</th>
+<th>Celtic Sea</th>
+<th></th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2416</th>
+<th>Central Bay of Biscaya</th>
+<th>Bay of Biscay</th>
+<th>Celtic Sea</th>
+<th></th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2417</th>
+<th>South Bay of Biscaya</th>
+<th>Bay of Biscay</th>
+<th>Celtic Sea</th>
+<th></th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2418</th>
+<th>Southwest Bay of Biscaya</th>
+<th>Bay of Biscay</th>
+<th>Celtic Sea</th>
+<th></th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2419</th>
+<th>Costa Verde</th>
+<th>Cape Finisterre</th>
+<th>Celtic Sea</th>
+<th></th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2420</th>
+<th>West Biscaya Basin</th>
+<th>Cape Finisterre</th>
+<th>Celtic Sea</th>
+<th></th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2421</th>
+<th>Hatton Bank</th>
+<th>North Atlantic</th>
+<th>Northeast Atlantic</th>
+<th></th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2422</th>
+<th>West Celtic Shelf</th>
+<th>Western Approaches</th>
+<th>Northeast Atlantic</th>
+<th></th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2423</th>
+<th>Sea of Azores West</th>
+<th>Azores</th>
+<th>Iberian West Coast</th>
+<th></th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2424</th>
+<th>South Iberian Shelf</th>
+<th>Portugese Coast</th>
+<th>Iberian West Coast</th>
+<th></th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2425</th>
+<th>Rias Bajas</th>
+<th>Cape Finisterre</th>
+<th>Iberian West Coast</th>
+<th></th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2426</th>
+<th>Coast of Porto</th>
+<th>Portugese Coast</th>
+<th>Iberian West Coast</th>
+<th></th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2427</th>
+<th>Coast of Lissabon</th>
+<th>Portugese Coast</th>
+<th>Iberian West Coast</th>
+<th></th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2428</th>
+<th>Gulf of Cadiz</th>
+<th>Cap St Vincent</th>
+<th>Iberian West Coast</th>
+<th></th>
+<th>Ocean</th>
+<th>Subtropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2429</th>
+<th>Gulf of Morocco</th>
+<th>Cap St Vincent</th>
+<th>Iberian West Coast</th>
+<th></th>
+<th>Ocean</th>
+<th>Subtropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2430</th>
+<th>Straits of Gibraltar</th>
+<th>Costa del Sol</th>
+<th>Western mediterranean</th>
+<th>Europe</th>
+<th>Ocean</th>
+<th>Mediterranean</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2431</th>
+<th>Gulf of Almeira</th>
+<th>Costa del Sol</th>
+<th>Western mediterranean</th>
+<th>Europe</th>
+<th>Ocean</th>
+<th>Mediterranean</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2432</th>
+<th>Costa Blanca</th>
+<th>Costa del Sol</th>
+<th>Western mediterranean</th>
+<th>Europe</th>
+<th>Ocean</th>
+<th>Mediterranean</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2433</th>
+<th>Balearic Sea</th>
+<th>Gulf of Lyon</th>
+<th>Western mediterranean</th>
+<th>Europe</th>
+<th>Ocean</th>
+<th>Mediterranean</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2434</th>
+<th>Coast of Algiers</th>
+<th>Algerian Coast</th>
+<th>Western mediterranean</th>
+<th>Europe</th>
+<th>Ocean</th>
+<th>Mediterranean</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2435</th>
+<th>Central Gulf of Lyon</th>
+<th>Gulf of Lyon</th>
+<th>Western mediterranean</th>
+<th>Europe</th>
+<th>Ocean</th>
+<th>Mediterranean</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2436</th>
+<th>Coast of Philippeville</th>
+<th>Algerian Coast</th>
+<th>Western mediterranean</th>
+<th>Europe</th>
+<th>Ocean</th>
+<th>Mediterranean</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2437</th>
+<th>Gulf of Cagliari</th>
+<th>Algerian Coast</th>
+<th>Western mediterranean</th>
+<th>Europe</th>
+<th>Ocean</th>
+<th>Mediterranean</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2438</th>
+<th>Gulf of Genoa</th>
+<th>Gulf of Lyon</th>
+<th>Western mediterranean</th>
+<th>Europe</th>
+<th>Ocean</th>
+<th>Mediterranean</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2439</th>
+<th>Ligurian Sea</th>
+<th>Tyrrhenian Sea</th>
+<th>Central mediterranean</th>
+<th>Europe</th>
+<th>Ocean</th>
+<th>Mediterranean</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2440</th>
+<th>Gulf of Gabès</th>
+<th>Tyrrhenian Sea</th>
+<th>Central mediterranean</th>
+<th>Europe</th>
+<th>Ocean</th>
+<th>Mediterranean</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2441</th>
+<th>Gulf of Salerno</th>
+<th>Tyrrhenian Sea</th>
+<th>Central mediterranean</th>
+<th>Europe</th>
+<th>Ocean</th>
+<th>Mediterranean</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2442</th>
+<th>Gulf of Sidra</th>
+<th>Tyrrhenian Sea</th>
+<th>Central mediterranean</th>
+<th>Europe</th>
+<th>Ocean</th>
+<th>Mediterranean</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2443</th>
+<th>Gulf of Taranto</th>
+<th>Tyrrhenian Sea</th>
+<th>Central mediterranean</th>
+<th>Europe</th>
+<th>Ocean</th>
+<th>Mediterranean</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2444</th>
+<th>North Adriatic Sea</th>
+<th>Adriatic Sea</th>
+<th>Central mediterranean</th>
+<th>Europe</th>
+<th>Ocean</th>
+<th>Mediterranean</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2445</th>
+<th>Central Adriatic Sea</th>
+<th>Adriatic Sea</th>
+<th>Central mediterranean</th>
+<th>Europe</th>
+<th>Ocean</th>
+<th>Mediterranean</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2446</th>
+<th>South Adriatic Sea</th>
+<th>Adriatic Sea</th>
+<th>Central mediterranean</th>
+<th>Europe</th>
+<th>Ocean</th>
+<th>Mediterranean</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2447</th>
+<th>Lake Balaton</th>
+<th>Lake</th>
+<th>Lake</th>
+<th>Lake</th>
+<th>Ocean</th>
+<th>Mediterranean</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2448</th>
+<th>Ionian Sea</th>
+<th>Aegean Sea</th>
+<th>Central mediterranean</th>
+<th>Europe</th>
+<th>Ocean</th>
+<th>Mediterranean</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2449</th>
+<th>Balta Brailei</th>
+<th>Lake</th>
+<th>Lake</th>
+<th>Lake</th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd" data-bgcolor="ffff66">
+<th>ID</th>
+<th>Province name</th>
+<th>Area</th>
+<th>Region</th>
+<th>Continent</th>
+<th>Terrain</th>
+<th>Climate</th>
+<th>Infra</th>
+<th>Beach?</th>
+<th>IC</th>
+<th>Manpower</th>
+<th>Energy</th>
+<th>Oil</th>
+<th>Metal</th>
+<th>Rare Materials</th>
+</tr>
+<tr class="even">
+<th><h2 id="section-15"><span id="2450" class="mw-headline"> 2450
+</span></h2></th>
+<th>Balta Ialometei</th>
+<th>Lake</th>
+<th>Lake</th>
+<th>Lake</th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2451</th>
+<th>Coast of Tobruk</th>
+<th>Egyptian Coast</th>
+<th>Eastern Mediterranean</th>
+<th>Europe</th>
+<th>Ocean</th>
+<th>Mediterranean</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2452</th>
+<th>Levant Sea</th>
+<th>Egyptian Coast</th>
+<th>Eastern Mediterranean</th>
+<th>Europe</th>
+<th>Ocean</th>
+<th>Mediterranean</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2453</th>
+<th>Suez Canal</th>
+<th>Red Sea</th>
+<th>Arabian Sea</th>
+<th>Europe</th>
+<th>Ocean</th>
+<th>Mediterranean</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2454</th>
+<th>Coast of Alexandria</th>
+<th>Egyptian Coast</th>
+<th>Eastern Mediterranean</th>
+<th>Asia</th>
+<th>Ocean</th>
+<th>Mediterranean</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2455</th>
+<th>North Red Sea</th>
+<th>Red Sea</th>
+<th>Arabian Sea</th>
+<th>Asia</th>
+<th>Ocean</th>
+<th>Subtropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2456</th>
+<th>South Red Sea</th>
+<th>Red Sea</th>
+<th>Arabian Sea</th>
+<th>Asia</th>
+<th>Ocean</th>
+<th>Subtropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2457</th>
+<th>West Gulf of Aden</th>
+<th>Horn of Africa</th>
+<th>Arabian Sea</th>
+<th>Asia</th>
+<th>Ocean</th>
+<th>Subtropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2458</th>
+<th>Central Gulf of Aden</th>
+<th>Horn of Africa</th>
+<th>Arabian Sea</th>
+<th>Indian Ocean</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2459</th>
+<th>East Gulf of Aden</th>
+<th>Horn of Africa</th>
+<th>Arabian Sea</th>
+<th>Indian Ocean</th>
+<th>Ocean</th>
+<th>Subtropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2460</th>
+<th>East Coast of Somalia</th>
+<th>Horn of Africa</th>
+<th>Arabian Sea</th>
+<th>Indian Ocean</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2461</th>
+<th>Southeast Coast of Somalia</th>
+<th>Horn of Africa</th>
+<th>Arabian Sea</th>
+<th>Indian Ocean</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2462</th>
+<th>West Somali Basin</th>
+<th>Horn of Africa</th>
+<th>Arabian Sea</th>
+<th>Indian Ocean</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2463</th>
+<th>Sea of Crete</th>
+<th>Aegean Sea</th>
+<th>Eastern Mediterranean</th>
+<th>Europe</th>
+<th>Ocean</th>
+<th>Mediterranean</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2464</th>
+<th>North Aegean Sea</th>
+<th>Aegean Sea</th>
+<th>Eastern Mediterranean</th>
+<th>Europe</th>
+<th>Ocean</th>
+<th>Mediterranean</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2465</th>
+<th>South Black Sea</th>
+<th>Black Sea</th>
+<th>Black Sea</th>
+<th>Europe</th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2466</th>
+<th>Central Black Sea</th>
+<th>Black Sea</th>
+<th>Black Sea</th>
+<th>Europe</th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2467</th>
+<th>Southeast Black Sea</th>
+<th>Black Sea</th>
+<th>Black Sea</th>
+<th>Europe</th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2468</th>
+<th>Sea of Azov</th>
+<th>Black Sea</th>
+<th>Black Sea</th>
+<th>Europe</th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2469</th>
+<th>Caspian Sea</th>
+<th>Lake</th>
+<th>Lake</th>
+<th>Europe</th>
+<th>Ocean</th>
+<th>Mediterranean</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2470</th>
+<th>Aral Sea</th>
+<th>Lake</th>
+<th>Lake</th>
+<th>Europe</th>
+<th>Ocean</th>
+<th>Mediterranean</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2471</th>
+<th>Cromarty Firth</th>
+<th>West Northsea</th>
+<th>North Sea</th>
+<th>Europe</th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2472</th>
+<th>Waddenzee</th>
+<th>Southeast Northsea</th>
+<th>North Sea</th>
+<th>Europe</th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2473</th>
+<th>Helgoland Bight</th>
+<th>Kattegat</th>
+<th>North Sea</th>
+<th>Europe</th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2474</th>
+<th>Skagerrak</th>
+<th>Kattegat</th>
+<th>North Sea</th>
+<th>Europe</th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2475</th>
+<th>Kattegat</th>
+<th>Kattegat</th>
+<th>North Sea</th>
+<th>Europe</th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2476</th>
+<th>Store Bält</th>
+<th>Kattegat</th>
+<th>Baltic Sea</th>
+<th>Europe</th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2477</th>
+<th>Pomeranian Bay</th>
+<th>Southern Baltic</th>
+<th>Baltic Sea</th>
+<th>Europe</th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2478</th>
+<th>Gulf of Danzig</th>
+<th>Southern Baltic</th>
+<th>Baltic Sea</th>
+<th>Europe</th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2479</th>
+<th>Kalmar Sound</th>
+<th>Southern Baltic</th>
+<th>Baltic Sea</th>
+<th>Europe</th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2480</th>
+<th>Courland Lagoon</th>
+<th>Southern Baltic</th>
+<th>Baltic Sea</th>
+<th>Europe</th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2481</th>
+<th>Coast of Stockholm</th>
+<th>Northern Baltic</th>
+<th>Baltic Sea</th>
+<th>Europe</th>
+<th>Ocean</th>
+<th>Subarctic</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2482</th>
+<th>Central Baltic Sea</th>
+<th>Northern Baltic</th>
+<th>Baltic Sea</th>
+<th>Europe</th>
+<th>Ocean</th>
+<th>Subarctic</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2483</th>
+<th>Gulf of Riga</th>
+<th>Northern Baltic</th>
+<th>Baltic Sea</th>
+<th>Europe</th>
+<th>Ocean</th>
+<th>Subarctic</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2484</th>
+<th>Gulf of Finland</th>
+<th>Northern Baltic</th>
+<th>Baltic Sea</th>
+<th>Europe</th>
+<th>Ocean</th>
+<th>Subarctic</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2485</th>
+<th>Lake Peipus</th>
+<th>Lake</th>
+<th>Lake</th>
+<th>Europe</th>
+<th>Ocean</th>
+<th>Subarctic</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2486</th>
+<th>Lake Onega</th>
+<th>Lake</th>
+<th>Lake</th>
+<th>Europe</th>
+<th>Ocean</th>
+<th>Subarctic</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2487</th>
+<th>Lake Ladoga</th>
+<th>Lake</th>
+<th>Lake</th>
+<th>Europe</th>
+<th>Ocean</th>
+<th>Subarctic</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2488</th>
+<th>Lake Rybinskyje</th>
+<th>Lake</th>
+<th>Lake</th>
+<th>Europe</th>
+<th>Ocean</th>
+<th>Subarctic</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2489</th>
+<th>Southwest Gulf of Bothnia</th>
+<th>Bothnian Bay</th>
+<th>Baltic Sea</th>
+<th>Europe</th>
+<th>Ocean</th>
+<th>Subarctic</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2490</th>
+<th>Vänern &amp; Vättern</th>
+<th>Lake</th>
+<th>Lake</th>
+<th>Europe</th>
+<th>Ocean</th>
+<th>Subarctic</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2491</th>
+<th>Southeast Gulf of Bothnia</th>
+<th>Bothnian Bay</th>
+<th>Baltic Sea</th>
+<th>Europe</th>
+<th>Ocean</th>
+<th>Subarctic</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2492</th>
+<th>Central Gulf of Bothnia</th>
+<th>Bothnian Bay</th>
+<th>Baltic Sea</th>
+<th>Europe</th>
+<th>Ocean</th>
+<th>Subarctic</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2493</th>
+<th>Northeast Gulf of Bothnia</th>
+<th>Bothnian Bay</th>
+<th>Baltic Sea</th>
+<th>Europe</th>
+<th>Ocean</th>
+<th>Subarctic</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2494</th>
+<th>Northwest Gulf of Bothnia</th>
+<th>Bothnian Bay</th>
+<th>Baltic Sea</th>
+<th>Europe</th>
+<th>Ocean</th>
+<th>Subarctic</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2495</th>
+<th>West Guinea Basin</th>
+<th>Ascension Fracture Zone</th>
+<th>Southcentral Atlantic</th>
+<th></th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2496</th>
+<th>South Guinea Basin</th>
+<th>Ascension Fracture Zone</th>
+<th>Southcentral Atlantic</th>
+<th></th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2497</th>
+<th>Guinea Plain</th>
+<th>Pernambuco Plain</th>
+<th>Southcentral Atlantic</th>
+<th></th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2498</th>
+<th>West Angola Plain</th>
+<th>Angola Plain</th>
+<th>Southeast Atlantic Ocean</th>
+<th></th>
+<th>Ocean</th>
+<th>Subtropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2499</th>
+<th>East Argentine Plain</th>
+<th>Argentine Plain</th>
+<th>Southwest Atlantic Ocean</th>
+<th></th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even" data-bgcolor="ffff66">
+<th>ID</th>
+<th>Province name</th>
+<th>Area</th>
+<th>Region</th>
+<th>Continent</th>
+<th>Terrain</th>
+<th>Climate</th>
+<th>Infra</th>
+<th>Beach?</th>
+<th>IC</th>
+<th>Manpower</th>
+<th>Energy</th>
+<th>Oil</th>
+<th>Metal</th>
+<th>Rare Materials</th>
+</tr>
+<tr class="odd">
+<th><h2 id="section-16"><span id="2500" class="mw-headline"> 2500
+</span></h2></th>
+<th>Central Argentine Plain</th>
+<th>Argentine Plain</th>
+<th>Southwest Atlantic Ocean</th>
+<th></th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2501</th>
+<th>West Argentine Plain</th>
+<th>Coast of Uruguay</th>
+<th>Southwest Atlantic Ocean</th>
+<th></th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2502</th>
+<th>Blanca Bay</th>
+<th>Coast of Uruguay</th>
+<th>Southwest Atlantic Ocean</th>
+<th></th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2503</th>
+<th>River Plate</th>
+<th>Coast of Uruguay</th>
+<th>Southwest Atlantic Ocean</th>
+<th></th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2504</th>
+<th>South Santos Plateau</th>
+<th>Coast of Uruguay</th>
+<th>Southwest Atlantic Ocean</th>
+<th></th>
+<th>Ocean</th>
+<th>Subtropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2505</th>
+<th>North Santos Plateau</th>
+<th>Coast of Brazil</th>
+<th>Brazilian Coast</th>
+<th></th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2506</th>
+<th>North Argentine Plain</th>
+<th>Coast of Brazil</th>
+<th>Brazilian Coast</th>
+<th></th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2507</th>
+<th>Rio Bay</th>
+<th>Coast of Brazil</th>
+<th>Brazilian Coast</th>
+<th></th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2508</th>
+<th>Baia de Todos os Santos</th>
+<th>Coast of Brazil</th>
+<th>Brazilian Coast</th>
+<th></th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2509</th>
+<th>Lake Tucuruí</th>
+<th>Lake</th>
+<th>Lake</th>
+<th></th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2510</th>
+<th>Brazilian Plain</th>
+<th>Coast of Recife</th>
+<th>Brazilian Coast</th>
+<th></th>
+<th>Ocean</th>
+<th>Mediterranean</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2511</th>
+<th>Cabo de Sao Roque</th>
+<th>Coast of Recife</th>
+<th>Brazilian Coast</th>
+<th></th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2512</th>
+<th>East Ceara Deep Sea Plain</th>
+<th>Coast of Recife</th>
+<th>Brazilian Coast</th>
+<th></th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2513</th>
+<th>Bay of Fortaleza</th>
+<th>Coast of Recife</th>
+<th>Brazilian Coast</th>
+<th></th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2514</th>
+<th>Bay of Sao Luis</th>
+<th>Coast of Recife</th>
+<th>Brazilian Coast</th>
+<th></th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2515</th>
+<th>Baja de Marajo</th>
+<th>Coast of Guyana</th>
+<th>Brazilian Coast</th>
+<th></th>
+<th>Ocean</th>
+<th>Mediterranean</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2516</th>
+<th>Delta Amazona</th>
+<th>Coast of Guyana</th>
+<th>Brazilian Coast</th>
+<th></th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2517</th>
+<th>Bay of Guyana</th>
+<th>Coast of Guyana</th>
+<th>Brazilian Coast</th>
+<th></th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2518</th>
+<th>Bocas del Dragon</th>
+<th>Windward Islands</th>
+<th>Carribean</th>
+<th></th>
+<th>Ocean</th>
+<th>Subtropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2519</th>
+<th>Lesser Antilles</th>
+<th>Windward Islands</th>
+<th>Carribean</th>
+<th></th>
+<th>Ocean</th>
+<th>Subtropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2520</th>
+<th>La Tortuga</th>
+<th>Windward Islands</th>
+<th>Carribean</th>
+<th></th>
+<th>Ocean</th>
+<th>Subtropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2521</th>
+<th>Mona Passage</th>
+<th>Windward Islands</th>
+<th>Carribean</th>
+<th></th>
+<th>Ocean</th>
+<th>Subtropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2522</th>
+<th>Gulf of Venezuela</th>
+<th>Central Carribean</th>
+<th>Carribean</th>
+<th></th>
+<th>Ocean</th>
+<th>Subtropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2523</th>
+<th>Gulf of Darien</th>
+<th>Central Carribean</th>
+<th>Carribean</th>
+<th></th>
+<th>Ocean</th>
+<th>Subtropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2524</th>
+<th>Windward Passage</th>
+<th>Central Carribean</th>
+<th>Carribean</th>
+<th></th>
+<th>Ocean</th>
+<th>Subtropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2525</th>
+<th>Cape Gracias a Dios</th>
+<th>Yucatan Strait</th>
+<th>Carribean</th>
+<th></th>
+<th>Ocean</th>
+<th>Subtropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2526</th>
+<th>Gulf of Honduras</th>
+<th>Yucatan Strait</th>
+<th>Carribean</th>
+<th></th>
+<th>Ocean</th>
+<th>Subtropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2527</th>
+<th>Yucatan Channel</th>
+<th>Yucatan Strait</th>
+<th>Carribean</th>
+<th></th>
+<th>Ocean</th>
+<th>Subtropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2528</th>
+<th>Campeche Banks</th>
+<th>West Gulf of Mexico</th>
+<th>Mexican Gulf</th>
+<th></th>
+<th>Ocean</th>
+<th>Subtropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2529</th>
+<th>Gulf of Campeche</th>
+<th>West Gulf of Mexico</th>
+<th>Mexican Gulf</th>
+<th></th>
+<th>Ocean</th>
+<th>Subtropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2530</th>
+<th>Tamaulipas Bay</th>
+<th>West Gulf of Mexico</th>
+<th>Mexican Gulf</th>
+<th></th>
+<th>Ocean</th>
+<th>Subtropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2531</th>
+<th>Galveston Bay</th>
+<th>West Gulf of Mexico</th>
+<th>Mexican Gulf</th>
+<th></th>
+<th>Ocean</th>
+<th>Subtropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2532</th>
+<th>Gulf of Mexico</th>
+<th>West Gulf of Mexico</th>
+<th>Mexican Gulf</th>
+<th></th>
+<th>Ocean</th>
+<th>Subtropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2533</th>
+<th>Mississippi Delta</th>
+<th>East Gulf of Mexico</th>
+<th>Mexican Gulf</th>
+<th></th>
+<th>Ocean</th>
+<th>Subtropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2534</th>
+<th>Apalache Bay</th>
+<th>East Gulf of Mexico</th>
+<th>Mexican Gulf</th>
+<th></th>
+<th>Ocean</th>
+<th>Subtropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2535</th>
+<th>Florida Strait</th>
+<th>Florida Strait</th>
+<th>Sargassos</th>
+<th></th>
+<th>Ocean</th>
+<th>Subtropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2536</th>
+<th>Old Bahama Channel</th>
+<th>Florida Strait</th>
+<th>Sargassos</th>
+<th></th>
+<th>Ocean</th>
+<th>Subtropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2537</th>
+<th>Crooked Island Passage</th>
+<th>Florida Strait</th>
+<th>Sargassos</th>
+<th></th>
+<th>Ocean</th>
+<th>Subtropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2538</th>
+<th>Grand Bahama</th>
+<th>Florida Strait</th>
+<th>Sargassos</th>
+<th></th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2539</th>
+<th>Mayaguana Passage</th>
+<th>Central Carribean</th>
+<th>Carribean</th>
+<th></th>
+<th>Ocean</th>
+<th>Subtropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2540</th>
+<th>South Sargasso Sea</th>
+<th>Bermuda Triangle</th>
+<th>Sargassos</th>
+<th></th>
+<th>Ocean</th>
+<th>Subtropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2541</th>
+<th>Northern Antilles Shelf</th>
+<th>Guiana Basin</th>
+<th>Sargassos</th>
+<th></th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2542</th>
+<th>West Ceara Deep Sea Plain</th>
+<th>Coast of Guyana</th>
+<th>Brazilian Coast</th>
+<th></th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2543</th>
+<th>Guiana Basin</th>
+<th>Guiana Basin</th>
+<th>Central Mid-Atlantic Ridge</th>
+<th></th>
+<th>Ocean</th>
+<th>Subtropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2544</th>
+<th>Eastern Guiana Basin</th>
+<th>South-Central Mid-Atlantic Ridge</th>
+<th>Central Mid-Atlantic Ridge</th>
+<th></th>
+<th>Ocean</th>
+<th>Subtropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2545</th>
+<th>Southern South-Central Mid-Atlantic Ridge</th>
+<th>South-Central Mid-Atlantic Ridge</th>
+<th>Central Mid-Atlantic Ridge</th>
+<th></th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2546</th>
+<th>West Romanche Gap</th>
+<th>Cap Verde</th>
+<th>Eastern Atlantic</th>
+<th></th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2547</th>
+<th>East Romanche Gap</th>
+<th>Cap Verde</th>
+<th>Eastern Atlantic</th>
+<th></th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2548</th>
+<th>Northeast Argentine Plain</th>
+<th>Pernambuco Plain</th>
+<th>Southcentral Atlantic</th>
+<th></th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2549</th>
+<th>South Romanche Gap</th>
+<th>Pernambuco Plain</th>
+<th>Southcentral Atlantic</th>
+<th></th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd" data-bgcolor="ffff66">
+<th>ID</th>
+<th>Province name</th>
+<th>Area</th>
+<th>Region</th>
+<th>Continent</th>
+<th>Terrain</th>
+<th>Climate</th>
+<th>Infra</th>
+<th>Beach?</th>
+<th>IC</th>
+<th>Manpower</th>
+<th>Energy</th>
+<th>Oil</th>
+<th>Metal</th>
+<th>Rare Materials</th>
+</tr>
+<tr class="even">
+<th><h2 id="section-17"><span id="2550" class="mw-headline"> 2550
+</span></h2></th>
+<th>Gulf of Penas</th>
+<th>West Coast of Chile</th>
+<th>West Coast of South America</th>
+<th>North America</th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2551</th>
+<th>Gulf of Corcovado</th>
+<th>West Coast of Chile</th>
+<th>West Coast of South America</th>
+<th>North America</th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2552</th>
+<th>Northeast Humboldt Plain</th>
+<th>West Coast of Chile</th>
+<th>West Coast of South America</th>
+<th>North America</th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2553</th>
+<th>South Peru-Chile Trench</th>
+<th>West Coast of Chile</th>
+<th>West Coast of South America</th>
+<th>North America</th>
+<th>Ocean</th>
+<th>Subtropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2554</th>
+<th>South Nazea Ridge</th>
+<th>South Southeast Pacific Ocean</th>
+<th>Southeast Pacific Ocean</th>
+<th>North America</th>
+<th>Ocean</th>
+<th>Subtropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2555</th>
+<th>North Nazea Ridge</th>
+<th>South Southeast Pacific Ocean</th>
+<th>Southeast Pacific Ocean</th>
+<th>North America</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2556</th>
+<th>San Nicholas Bay</th>
+<th>West Coast of Peru</th>
+<th>West Coast of South America</th>
+<th>North America</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2557</th>
+<th>Lake Titicaca</th>
+<th>Lake</th>
+<th>Lake</th>
+<th>North America</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2558</th>
+<th>Chiquinata Bay</th>
+<th>West Coast of Peru</th>
+<th>West Coast of South America</th>
+<th>North America</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2559</th>
+<th>Moreno Bay</th>
+<th>West Coast of Chile</th>
+<th>West Coast of South America</th>
+<th>North America</th>
+<th>Ocean</th>
+<th>Subtropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2560</th>
+<th>Coquimbo Bay</th>
+<th>West Coast of Chile</th>
+<th>West Coast of South America</th>
+<th>North America</th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2561</th>
+<th>Manzano Bay</th>
+<th>West Coast of Chile</th>
+<th>West Coast of South America</th>
+<th>Indian Ocean</th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2562</th>
+<th>Necker Ridge</th>
+<th>Hawaiian Rise</th>
+<th>Central Pacific Ocean</th>
+<th>North America</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2563</th>
+<th>East Hawaiian Rise</th>
+<th>Hawaiian Rise</th>
+<th>Central Pacific Ocean</th>
+<th>North America</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2564</th>
+<th>Central Clarion Fracture Zone</th>
+<th>South East Pacific Ocean</th>
+<th>East Pacific Ocean</th>
+<th>Indian Ocean</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2565</th>
+<th>East Clarion Fracture Zone</th>
+<th>South East Pacific Ocean</th>
+<th>East Pacific Ocean</th>
+<th>Indian Ocean</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2566</th>
+<th>East Pacific Rise</th>
+<th>West Coast of Mexico</th>
+<th>West Coast of North America</th>
+<th>North America</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2567</th>
+<th>Bay of Banderas</th>
+<th>West Coast of Mexico</th>
+<th>West Coast of North America</th>
+<th>North America</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2568</th>
+<th>Gulf of California</th>
+<th>West Coast of Mexico</th>
+<th>West Coast of North America</th>
+<th>North America</th>
+<th>Ocean</th>
+<th>Subtropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2569</th>
+<th>Bay of Petacalco</th>
+<th>West Coast of Mexico</th>
+<th>West Coast of North America</th>
+<th>North America</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2570</th>
+<th>Bahia Dulce</th>
+<th>West Coast of Mexico</th>
+<th>West Coast of North America</th>
+<th>North America</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2571</th>
+<th>Gulf of Tehuantepec</th>
+<th>West Coast of Central America</th>
+<th>West Coast of North America</th>
+<th>North America</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2572</th>
+<th>Gulf of Fonseca</th>
+<th>West Coast of Central America</th>
+<th>West Coast of North America</th>
+<th>North America</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2573</th>
+<th>Coronado Bay</th>
+<th>West Coast of Central America</th>
+<th>West Coast of North America</th>
+<th>North America</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2574</th>
+<th>Gulf of Panama</th>
+<th>West Coast of Central America</th>
+<th>West Coast of North America</th>
+<th>North America</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2575</th>
+<th>Panama Canal</th>
+<th>West Coast of Central America</th>
+<th>West Coast of North America</th>
+<th>North America</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2576</th>
+<th>Maizel Islanads</th>
+<th>Central Carribean</th>
+<th>Carribean</th>
+<th></th>
+<th>Ocean</th>
+<th>Subtropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2577</th>
+<th>Southern Antilles Shelf</th>
+<th>Guiana Basin</th>
+<th>Brazilian Coast</th>
+<th></th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2578</th>
+<th>Grand Cayman</th>
+<th>Yucatan Strait</th>
+<th>Carribean</th>
+<th></th>
+<th>Ocean</th>
+<th>Subtropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2579</th>
+<th>Tampa Bay</th>
+<th>East Gulf of Mexico</th>
+<th>Mexican Gulf</th>
+<th></th>
+<th>Ocean</th>
+<th>Subtropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2580</th>
+<th>West Guinea Bay</th>
+<th>Coast of Bissao</th>
+<th>Eastern Atlantic</th>
+<th></th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2581</th>
+<th>Centraleast Guinea Bay</th>
+<th>Gulf of Guinea</th>
+<th>Southcentral Atlantic</th>
+<th></th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2582</th>
+<th>East Angola Plain</th>
+<th>Coast of Angola-Namibia</th>
+<th>Southeast Atlantic Ocean</th>
+<th></th>
+<th>Ocean</th>
+<th>Subtropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2583</th>
+<th>West Natal Basin</th>
+<th>South Mozambique Channel</th>
+<th>Mozambique Channel</th>
+<th>Indian Ocean</th>
+<th>Ocean</th>
+<th>Subtropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2584</th>
+<th>North Somali Basin</th>
+<th>Horn of Africa</th>
+<th>Arabian Sea</th>
+<th>Indian Ocean</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2585</th>
+<th>North Arabian Basin</th>
+<th>North Arabian Sea</th>
+<th>Arabian Sea</th>
+<th>Indian Ocean</th>
+<th>Ocean</th>
+<th>Subtropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2586</th>
+<th>East Arabian Basin</th>
+<th>South Arabian Sea</th>
+<th>Arabian Sea</th>
+<th>Indian Ocean</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2587</th>
+<th>North Chagos-Laccadive Plateau</th>
+<th>South Arabian Sea</th>
+<th>Arabian Sea</th>
+<th>Indian Ocean</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2588</th>
+<th>West Java Trench</th>
+<th>Java Trench</th>
+<th>East Indian Ocean</th>
+<th>Asia</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2589</th>
+<th>Tokyo Bay</th>
+<th>Coast of Japan</th>
+<th>Home Islands</th>
+<th>Asia</th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2590</th>
+<th>Ishikari Bay</th>
+<th>Sea of Japan</th>
+<th>Home Islands</th>
+<th>Asia</th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2591</th>
+<th>East Tasman Plateau</th>
+<th>South Tasman Sea</th>
+<th>Tasman Sea</th>
+<th>Asia</th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2592</th>
+<th>Macquarie Ridge</th>
+<th>South Tasman Sea</th>
+<th>Tasman Sea</th>
+<th>Asia</th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2593</th>
+<th>Madeiran Approach</th>
+<th>Cap St Vincent</th>
+<th>Iberian West Coast</th>
+<th></th>
+<th>Ocean</th>
+<th>Subtropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2594</th>
+<th>East Cap Verde Approach</th>
+<th>Coast of Africa</th>
+<th>Eastern Atlantic</th>
+<th></th>
+<th>Ocean</th>
+<th>Tropical</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2595</th>
+<th>North Iberian Shelf</th>
+<th>Portugese Coast</th>
+<th>Iberian West Coast</th>
+<th></th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2596</th>
+<th>East Biscaya Basin</th>
+<th>Bay of Biscay</th>
+<th>Celtic Sea</th>
+<th></th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2597</th>
+<th>East Celtic Shelf</th>
+<th>Cape Finisterre</th>
+<th>Celtic Sea</th>
+<th></th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2598</th>
+<th>Central Faroes Gap</th>
+<th>Faroes Gap</th>
+<th>Western Ice Sea</th>
+<th></th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="odd">
+<th>2599</th>
+<th>Southeast Faroes Gap</th>
+<th>Faroes Gap</th>
+<th>Western Ice Sea</th>
+<th></th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even" data-bgcolor="ffff66">
+<th>ID</th>
+<th>Province name</th>
+<th>Area</th>
+<th>Region</th>
+<th>Continent</th>
+<th>Terrain</th>
+<th>Climate</th>
+<th>Infra</th>
+<th>Beach?</th>
+<th>IC</th>
+<th>Manpower</th>
+<th>Energy</th>
+<th>Oil</th>
+<th>Metal</th>
+<th>Rare Materials</th>
+</tr>
+<tr class="odd">
+<th><h2 id="section-18"><span id="2600" class="mw-headline"> 2600
+</span></h2></th>
+<th>East Central North Sea</th>
+<th>East North Sea</th>
+<th>North Sea</th>
+<th>Europe</th>
+<th>Ocean</th>
+<th>Temperate</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr class="even">
+<th>2601</th>
+<th>North Norwegian Sea</th>
+<th>Norwegian Sea</th>
+<th>Ice Sea</th>
+<th>Europe</th>
+<th>Ocean</th>
+<th>Arctic</th>
+<th>100</th>
+<th>No</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+</tbody>
+</table>
+:::

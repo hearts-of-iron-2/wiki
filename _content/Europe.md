@@ -2,6 +2,1092 @@
 title: Europe
 ---
 
- <table class="metadata plainlinks ambox ambox-style" style=""><tbody><tr><td class="mbox-image"><div style="width: 52px;"><a class="image" href="/wiki/File:Wikitext.png"><img alt="Wikitext.png" data-file-height="20" data-file-width="50" data-url="https://central.paradoxwikis.com/images/2/2f/Wikitext.png" decoding="async" height="20" loading="lazy" src="https://central.paradoxwikis.com/images/2/2f/Wikitext.png" width="50"></a></div></td><td class="mbox-text" style=""><b>This article may need to be formatted <a href="/wiki/Template:Wikify" title="Template:Wikify">following an encyclopedic style </a>.</b><br><small>Please help improve <a class="external text" href="https://hoi2.paradoxwikis.com/index.php?title=Europe&amp;action=edit" rel="nofollow">this </a>article if you can.</small></td></tr></tbody></table>
+::: mw-parser-output
++-----------------------------------+-----------------------------------+
+| ::: {style="width: 52px;"} | **This article may need to be |
+| [![Wikitext.png](https://c | formatted [following an |
+| entral.paradoxwikis.com/images/2/ | encyclopedic |
+| 2f/Wikitext.png){file-height="20" | style](/wiki/T |
+| file-width="50" | emplate:Wikify "Template:Wikify") |
+| url="https://central.paradoxwi | .**\ |
+| kis.com/images/2/2f/Wikitext.png" | [Please help improve |
+| decoding="async" height="20" | [this](https://h |
+| loading="lazy" | oi2.paradoxwikis.com/index.php?ti |
+| width="50"}] | tle=Europe&action=edit){.external |
+| (/wiki/File:Wikitext.png){.image} | .text rel="nofollow"} article if |
+| ::: | you can.]{.small} |
++-----------------------------------+-----------------------------------+
 
-<table><tbody><tr><td>Country</td><td></td><td>Required Provinces</td><td></td><td></td><td>Extra Provinces</td><td></td></tr><tr><td>Tag</td><td>Name</td><td>Id</td><td>Name</td><td>Capital</td><td>Id</td><td>name</td></tr><tr><td>ALB</td><td>Albania</td><td>390</td><td>Tirana</td><td>C</td><td>415</td><td>Pristina</td></tr><tr><td></td><td></td><td>391</td><td>Vlorë</td><td></td><td></td><td></td></tr><tr><td>ARM</td><td>Armenia</td><td>1856</td><td>Yerevan</td><td>C</td><td>1851</td><td>Kars</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1858</td><td>Kirovabad</td></tr><tr><td>AUS</td><td>Austria</td><td>373</td><td>Lech</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>377</td><td>Innsbruck</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>460</td><td>Graz</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>461</td><td>Klagenfurt</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>462</td><td>Salzburg</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>463</td><td>Vienna</td><td>C</td><td></td><td></td></tr><tr><td></td><td></td><td>464</td><td>Hollabrunn</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>465</td><td>Linz</td><td></td><td></td><td></td></tr><tr><td>AZB</td><td>Azerbaijan</td><td>1907</td><td>Baku</td><td>C</td><td>1859</td><td>Tabriz</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1858</td><td>Kirovabad</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1857</td><td>Makhachkala</td></tr><tr><td>BEL</td><td>Belgium</td><td>45</td><td>Ghent</td><td></td><td>1095</td><td>Banana</td></tr><tr><td></td><td></td><td>50</td><td>Antwerp</td><td></td><td>1142</td><td>Léopoldville</td></tr><tr><td></td><td></td><td>51</td><td>Brussels</td><td>C</td><td>1071</td><td>Stanleyville</td></tr><tr><td></td><td></td><td>52</td><td>Mons</td><td></td><td>1072</td><td>Buta</td></tr><tr><td></td><td></td><td>65</td><td>Namur</td><td></td><td>1073</td><td>Costermanville</td></tr><tr><td></td><td></td><td>68</td><td>Liège</td><td></td><td>1074</td><td>Coquihatville</td></tr><tr><td></td><td></td><td>69</td><td>Bastogne</td><td></td><td>1143</td><td>Kindu-Port-Empain</td></tr><tr><td></td><td></td><td>70</td><td>Arlon</td><td></td><td>1144</td><td>Albertville</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1127</td><td>Élisabethville</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1098</td><td>Luluabourg</td></tr><tr><td>BLR</td><td>Byelorussia</td><td>212</td><td>Minsk</td><td>C</td><td>273</td><td>Gomel</td></tr><tr><td></td><td></td><td>221</td><td>Bobraisk</td><td></td><td>274</td><td>Rogachev</td></tr><tr><td></td><td></td><td>225</td><td>Mozyr</td><td></td><td>209</td><td>Grodno</td></tr><tr><td></td><td></td><td>218</td><td>Orsha</td><td></td><td>211</td><td>Lida</td></tr><tr><td></td><td></td><td>220</td><td>Mogilev</td><td></td><td>213</td><td>Molodeczno</td></tr><tr><td></td><td></td><td>272</td><td>Zhlobin</td><td></td><td>214</td><td>Swieciany</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>210</td><td>Baranowicze</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>222</td><td>Luniniec</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>503</td><td>Pinsk</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>504</td><td>Brest Litovsk</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>507</td><td>Slonim</td></tr><tr><td>BOS</td><td>Bosnia</td><td>385</td><td>Zenica</td><td></td><td>387</td><td>Mostar</td></tr><tr><td></td><td></td><td>386</td><td>Sarajevo</td><td>C</td><td></td><td></td></tr><tr><td>BUL</td><td>Bulgaria</td><td>419</td><td>Vraca</td><td></td><td>423</td><td>Constanta</td></tr><tr><td></td><td></td><td>420</td><td>Pleven</td><td></td><td>413</td><td>Skopje</td></tr><tr><td></td><td></td><td>422</td><td>Varna</td><td></td><td>414</td><td>Stip</td></tr><tr><td></td><td></td><td>421</td><td>Plovdiv</td><td></td><td>412</td><td>Edessa</td></tr><tr><td></td><td></td><td>417</td><td>Sofia</td><td>C</td><td>411</td><td>Salonika</td></tr><tr><td></td><td></td><td>416</td><td>Gorna Dzhumaya</td><td></td><td>410</td><td>Kavala</td></tr><tr><td>CRO</td><td>Croatia</td><td>382</td><td>Zagreb</td><td>C</td><td>381</td><td>Rijeka</td></tr><tr><td></td><td></td><td>383</td><td>Banja Luka</td><td></td><td>384</td><td>Split</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>387</td><td>Mostar</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>388</td><td>Dubrovnik</td></tr><tr><td>CYP</td><td>Cyprus</td><td>444</td><td>Cyprus</td><td>C</td><td></td><td></td></tr><tr><td>CZE</td><td>Czechoslovakia</td><td>470</td><td>Pilsen</td><td></td><td>471</td><td>Ústí</td></tr><tr><td></td><td></td><td>469</td><td>Prague</td><td>C</td><td>472</td><td>Liberec</td></tr><tr><td></td><td></td><td>468</td><td>Kutna Hora</td><td></td><td>466</td><td>Strakonice</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>467</td><td>Tábor</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>474</td><td>Ostrava</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>475</td><td>Brno</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>478</td><td>Zilina</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>477</td><td>Banská Bystrica</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>490</td><td>Kosice</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>499</td><td>Presov</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>476</td><td>Bratislava</td></tr><tr><td>DDR</td><td>DDR</td><td>298</td><td>Magdeburg</td><td></td><td>80</td><td>Wilhelmshafen</td></tr><tr><td></td><td></td><td>299</td><td>Potsdam</td><td></td><td>81</td><td>Münster</td></tr><tr><td></td><td></td><td>300</td><td>Berlin</td><td>C</td><td>82</td><td>Kassel</td></tr><tr><td></td><td></td><td>301</td><td>Stralsund</td><td></td><td>83</td><td>Schweinfurt</td></tr><tr><td></td><td></td><td>296</td><td>Rostock</td><td></td><td>84</td><td>Erfurt</td></tr><tr><td></td><td></td><td>297</td><td>Wolfsburg</td><td></td><td>85</td><td>Göttingen</td></tr><tr><td></td><td></td><td>310</td><td>Leipzig</td><td></td><td>86</td><td>Hannover</td></tr><tr><td></td><td></td><td>309</td><td>Cottbus</td><td></td><td>87</td><td>Bremen</td></tr><tr><td></td><td></td><td>311</td><td>Dresden</td><td></td><td>88</td><td>Hamburg</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>89</td><td>Lübeck</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>90</td><td>Kiel</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>312</td><td>Nuremberg</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>313</td><td>Frankfurt-am-Main</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>314</td><td>Stuttgart</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>315</td><td>Freiburg</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>375</td><td>Regensburg</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>376</td><td>Munich</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>374</td><td>Friedrichshafen</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>76</td><td>Dortmund</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>67</td><td>Essen</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>75</td><td>Cologne</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>74</td><td>Saarbrücken</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>66</td><td>Aachen</td></tr><tr><td>DEN</td><td>Denmark</td><td>92</td><td>Århus</td><td></td><td>91</td><td>Kolding</td></tr><tr><td></td><td></td><td>292</td><td>Aalborg</td><td></td><td>295</td><td>Bornholm</td></tr><tr><td></td><td></td><td>293</td><td>Odense</td><td></td><td>800</td><td>Greenland</td></tr><tr><td></td><td></td><td>294</td><td>Copenhagen</td><td>C</td><td></td><td></td></tr><tr><td>DFR</td><td>FRG</td><td>80</td><td>Wilhelmshafen</td><td></td><td>298</td><td>Magdeburg</td></tr><tr><td></td><td></td><td>81</td><td>Münster</td><td></td><td>299</td><td>Potsdam</td></tr><tr><td></td><td></td><td>82</td><td>Kassel</td><td></td><td>300</td><td>Berlin</td></tr><tr><td></td><td></td><td>83</td><td>Schweinfurt</td><td></td><td>301</td><td>Stralsund</td></tr><tr><td></td><td></td><td>84</td><td>Erfurt</td><td></td><td>296</td><td>Rostock</td></tr><tr><td></td><td></td><td>85</td><td>Göttingen</td><td></td><td>297</td><td>Wolfsburg</td></tr><tr><td></td><td></td><td>86</td><td>Hannover</td><td></td><td>310</td><td>Leipzig</td></tr><tr><td></td><td></td><td>87</td><td>Bremen</td><td></td><td>309</td><td>Cottbus</td></tr><tr><td></td><td></td><td>88</td><td>Hamburg</td><td></td><td>311</td><td>Dresden</td></tr><tr><td></td><td></td><td>89</td><td>Lübeck</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>90</td><td>Kiel</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>312</td><td>Nuremberg</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>313</td><td>Frankfurt-am-Main</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>314</td><td>Stuttgart</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>315</td><td>Freiburg</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>375</td><td>Regensburg</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>376</td><td>Munich</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>374</td><td>Friedrichshafen</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>76</td><td>Dortmund</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>67</td><td>Essen</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>75</td><td>Cologne</td><td>C</td><td></td><td></td></tr><tr><td></td><td></td><td>74</td><td>Saarbrücken</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>66</td><td>Aachen</td><td></td><td></td><td></td></tr><tr><td>ENG</td><td>United Kingdom</td><td>11</td><td>Sunderland</td><td></td><td>3</td><td>Stornoway</td></tr><tr><td></td><td></td><td>12</td><td>Blackpool</td><td></td><td>5</td><td>Scapa Flow</td></tr><tr><td></td><td></td><td>13</td><td>Sheffield</td><td></td><td>6</td><td>Inverness</td></tr><tr><td></td><td></td><td>14</td><td>Liverpool</td><td></td><td>7</td><td>Aberdeen</td></tr><tr><td></td><td></td><td>15</td><td>Cardiff</td><td></td><td>8</td><td>Dunfermline</td></tr><tr><td></td><td></td><td>16</td><td>Birmingham</td><td></td><td>9</td><td>Glasgow</td></tr><tr><td></td><td></td><td>17</td><td>Norwich</td><td></td><td>10</td><td>Edinburgh</td></tr><tr><td></td><td></td><td>19</td><td>London</td><td>C</td><td></td><td></td></tr><tr><td></td><td></td><td>20</td><td>Dover</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>21</td><td>Portsmouth</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>22</td><td>Bristol</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>23</td><td>Plymouth</td><td></td><td></td><td></td></tr><tr><td>EST</td><td>Estonia</td><td>193</td><td>Narva</td><td></td><td>198</td><td>Gulbene</td></tr><tr><td></td><td></td><td>194</td><td>Tallinn</td><td>C</td><td></td><td></td></tr><tr><td></td><td></td><td>195</td><td>Tartu</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>196</td><td>Pärnu</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>199</td><td>Voru</td><td></td><td></td><td></td></tr><tr><td>EUS</td><td>Euskadi</td><td>331</td><td>Bilbao</td><td>C</td><td>330</td><td>Saragossa</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>326</td><td>Dax</td></tr><tr><td>FIN</td><td>Finland</td><td>103</td><td>Åland</td><td></td><td>145</td><td>Viipuri</td></tr><tr><td></td><td></td><td>141</td><td>Turku</td><td></td><td>146</td><td>Sortavala</td></tr><tr><td></td><td></td><td>142</td><td>Helsinki</td><td>C</td><td>152</td><td>Petrozavodsk</td></tr><tr><td></td><td></td><td>140</td><td>Pori</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>143</td><td>Tampere</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>138</td><td>Vaasa</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>139</td><td>Seinäjoki</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>137</td><td>Oulu</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>131</td><td>Tornio</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>130</td><td>Rovaniemi</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>132</td><td>Petsamo</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>136</td><td>Kajaani</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>148</td><td>Kuopio</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>147</td><td>Jyväskylä</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>144</td><td>Mikkeli</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>149</td><td>Joensuu</td><td></td><td></td><td></td></tr><tr><td>FLA</td><td>Flanders</td><td>45</td><td>Ghent</td><td></td><td>49</td><td>Eindhoven</td></tr><tr><td></td><td></td><td>50</td><td>Antwerp</td><td></td><td>46</td><td>Rotterdam</td></tr><tr><td></td><td></td><td>51</td><td>Brussels</td><td>C</td><td>44</td><td>Lille</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>43</td><td>Dunkerque</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>18</td><td>Calais</td></tr><tr><td>FRA</td><td>France</td><td>529</td><td>Besançon</td><td></td><td>316</td><td>Mulhouse</td></tr><tr><td></td><td></td><td>365</td><td>Toulon</td><td></td><td>73</td><td>Strasbourg</td></tr><tr><td></td><td></td><td>364</td><td>Marseille</td><td></td><td>72</td><td>Metz</td></tr><tr><td></td><td></td><td>363</td><td>Nîmes</td><td></td><td>53</td><td>Valenciennes</td></tr><tr><td></td><td></td><td>362</td><td>Montpellier</td><td></td><td>44</td><td>Lille</td></tr><tr><td></td><td></td><td>358</td><td>Perpignan</td><td></td><td>43</td><td>Dunkerque</td></tr><tr><td></td><td></td><td>328</td><td>Pau</td><td></td><td>18</td><td>Calais</td></tr><tr><td></td><td></td><td>327</td><td>Auch</td><td></td><td>366</td><td>Nice</td></tr><tr><td></td><td></td><td>326</td><td>Dax</td><td></td><td>527</td><td>Grenoble</td></tr><tr><td></td><td></td><td>325</td><td>Bordeaux</td><td></td><td>367</td><td>Corsica</td></tr><tr><td></td><td></td><td>324</td><td>Bergerac</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>359</td><td>Toulouse</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>361</td><td>Saint-Etienne</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>322</td><td>Limoges</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>323</td><td>La Rochelle</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>59</td><td>Cholet</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>60</td><td>Tours</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>61</td><td>Bourges</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>62</td><td>Auxerre</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>63</td><td>Troyes</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>318</td><td>Dijon</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>317</td><td>Chaumont</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>64</td><td>Reims</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>54</td><td>Amiens</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>42</td><td>Dieppe</td><td></td></tr><tr><td></td><td></td><td>55</td><td>Compiègne</td><td></td></tr><tr><td></td><td></td><td>41</td><td>Le Havre</td><td></td></tr><tr><td></td><td></td><td>56</td><td>Paris</td><td>C</td></tr><tr><td></td><td></td><td>57</td><td>Orléans</td><td></td></tr><tr><td></td><td></td><td>58</td><td>Le Mans</td><td></td></tr><tr><td></td><td></td><td>32</td><td>Brest</td><td></td></tr><tr><td></td><td></td><td>33</td><td>Rennes</td><td></td></tr><tr><td></td><td></td><td>34</td><td>Lorient</td><td></td></tr><tr><td></td><td></td><td>35</td><td>Nantes</td><td></td></tr><tr><td></td><td></td><td>36</td><td>Angers</td><td></td></tr><tr><td></td><td></td><td>37</td><td>Avranches</td><td></td></tr><tr><td></td><td></td><td>38</td><td>Cherbourg</td><td></td></tr><tr><td></td><td></td><td>39</td><td>Caen</td><td></td></tr><tr><td></td><td></td><td>40</td><td>Argentan</td><td></td></tr><tr><td></td><td></td><td>320</td><td>Vichy</td><td></td></tr><tr><td></td><td></td><td>321</td><td>Châteauroux</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>528</td><td>Lyon</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>319</td><td>Chalon-sur-Saône</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>360</td><td>Clermont-Ferrand</td><td></td><td></td><td></td></tr><tr><td>GEO</td><td>Georgia</td><td>1848</td><td>Batum</td><td></td><td>1845</td><td>Tuapse</td></tr><tr><td></td><td></td><td>1850</td><td>Tblisi</td><td>C</td><td>1844</td><td>Maikop</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1849</td><td>Nalchik</td></tr><tr><td>GER</td><td>Germany</td><td>66</td><td>Aachen</td><td></td><td>473</td><td>Breslau</td></tr><tr><td></td><td></td><td>67</td><td>Essen</td><td></td><td>482</td><td>Oppeln</td></tr><tr><td></td><td></td><td>74</td><td>Saarbrücken</td><td></td><td>308</td><td>Küstrin</td></tr><tr><td></td><td></td><td>75</td><td>Cologne</td><td></td><td>302</td><td>Stettin</td></tr><tr><td></td><td></td><td>76</td><td>Dortmund</td><td></td><td>304</td><td>Elbing</td></tr><tr><td></td><td></td><td>80</td><td>Wilhelmshafen</td><td></td><td>510</td><td>Königsberg</td></tr><tr><td></td><td></td><td>81</td><td>Münster</td><td></td><td>72</td><td>Metz</td></tr><tr><td></td><td></td><td>82</td><td>Kassel</td><td></td><td>73</td><td>Strasbourg</td></tr><tr><td></td><td></td><td>83</td><td>Schweinfurt</td><td></td><td>316</td><td>Mulhouse</td></tr><tr><td></td><td></td><td>84</td><td>Erfurt</td><td></td><td>71</td><td>Luxembourg</td></tr><tr><td></td><td></td><td>85</td><td>Göttingen</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>86</td><td>Hannover</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>87</td><td>Bremen</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>88</td><td>Hamburg</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>89</td><td>Lübeck</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>90</td><td>Kiel</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>296</td><td>Rostock</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>297</td><td>Wolfsburg</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>298</td><td>Magdeburg</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>299</td><td>Potsdam</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>300</td><td>Berlin</td><td>C</td><td></td><td></td></tr><tr><td></td><td></td><td>301</td><td>Stralsund</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>302</td><td>Stettin</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>309</td><td>Cottbus</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>310</td><td>Leipzig</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>311</td><td>Dresden</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>312</td><td>Nuremberg</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>313</td><td>Frankfurt-am-Main</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>314</td><td>Stuttgart</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>315</td><td>Freiburg</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>374</td><td>Friedrichshafen</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>375</td><td>Regensburg</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>376</td><td>Munich</td><td></td><td></td><td></td></tr><tr><td>GRE</td><td>Greece</td><td>394</td><td>Patras</td><td></td><td>396</td><td>Crete</td></tr><tr><td></td><td></td><td>395</td><td>Corinthe</td><td></td><td>402</td><td>Agrinio</td></tr><tr><td></td><td></td><td>401</td><td>Athens</td><td>C</td><td>403</td><td>Larisa</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>393</td><td>Kefalonia</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>410</td><td>Kavala</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>411</td><td>Salonika</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>412</td><td>Edessa</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>392</td><td>Ioannina</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>400</td><td>The Cyclades</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>405</td><td>The Dardanelles</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>398</td><td>Dodecanese</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>399</td><td>Rhodes</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>413</td><td>Skopje</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>444</td><td>Cyprus</td></tr><tr><td>HOL</td><td>Netherlands</td><td>47</td><td>Amsterdam</td><td>C</td><td>46</td><td>Rotterdam</td></tr><tr><td></td><td></td><td>48</td><td>Utrecht</td><td></td><td>49</td><td>Eindhoven</td></tr><tr><td></td><td></td><td>77</td><td>Arnhem</td><td></td><td>801</td><td>Curacao</td></tr><tr><td></td><td></td><td>78</td><td>Leeuwarden</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>79</td><td>Groningen</td><td></td><td></td><td></td></tr><tr><td>HUN</td><td>Hungary</td><td>456</td><td>Pecs</td><td></td><td>427</td><td>Sibiu</td></tr><tr><td></td><td></td><td>457</td><td>Budapest</td><td>C</td><td>428</td><td>Cluj-Napoca</td></tr><tr><td></td><td></td><td>458</td><td>Györ</td><td></td><td>429</td><td>Bacau</td></tr><tr><td></td><td></td><td>491</td><td>Miskolc</td><td></td><td>430</td><td>Brasov</td></tr><tr><td></td><td></td><td>492</td><td>Szeged</td><td></td><td>496</td><td>Arad</td></tr><tr><td></td><td></td><td>497</td><td>Debrecen</td><td></td><td>498</td><td>Satu Mare</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>499</td><td>Presov</td></tr><tr><td>ICL</td><td>Iceland</td><td>1</td><td>Reykjavik</td><td>C</td><td></td><td></td></tr><tr><td></td><td></td><td>2</td><td>Höfn</td><td></td><td></td><td></td></tr><tr><td>IRE</td><td>Ireland</td><td>27</td><td>Letterkenny</td><td></td><td>29</td><td>Portadown</td></tr><tr><td></td><td></td><td>26</td><td>Sligo</td><td></td><td>28</td><td>Belfast</td></tr><tr><td></td><td></td><td>25</td><td>Galway</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>24</td><td>Cork</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>30</td><td>Dublin</td><td>C</td><td></td><td></td></tr><tr><td>ITA</td><td>Italy</td><td>525</td><td>Palermo</td><td></td><td>371</td><td>Trento</td></tr><tr><td></td><td></td><td>526</td><td>Catania</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>524</td><td>Reggio di Calabria</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>523</td><td>Taranto</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>522</td><td>Potenza</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>521</td><td>Naples</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>520</td><td>Foggia</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>519</td><td>Anzio</td></tr><tr><td></td><td></td><td>518</td><td>Cassino</td></tr><tr><td></td><td></td><td>517</td><td>Pescara</td></tr><tr><td></td><td></td><td>516</td><td>Perugia</td></tr><tr><td></td><td></td><td>515</td><td>Rome</td></tr><tr><td></td><td></td><td>513</td><td>Florence</td></tr><tr><td></td><td></td><td>514</td><td>Rimini</td></tr><tr><td></td><td></td><td>512</td><td>Bologna</td></tr><tr><td></td><td></td><td>379</td><td>Ferrara</td></tr><tr><td></td><td></td><td>369</td><td>La Spezia</td></tr><tr><td></td><td></td><td>368</td><td>Genoa</td></tr><tr><td></td><td></td><td>531</td><td>Turin</td></tr><tr><td></td><td></td><td>370</td><td>Milan</td></tr><tr><td></td><td></td><td>378</td><td>Venice</td></tr><tr><td></td><td></td><td>534</td><td>Sardinia</td></tr><tr><td>LAT</td><td>Latvia</td><td>203</td><td>Jekapils</td><td></td><td>214</td><td>Swieciany</td></tr><tr><td></td><td></td><td>204</td><td>Jelgava</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>205</td><td>Mazirbe</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>197</td><td>Riga</td><td>C</td><td></td><td></td></tr><tr><td></td><td></td><td>202</td><td>Dagaupulis</td><td></td><td></td><td></td></tr><tr><td>LIT</td><td>Lithuania</td><td>207</td><td>Kaunas</td><td></td><td>209</td><td>Grodno</td></tr><tr><td></td><td></td><td>208</td><td>Wilno</td><td>C</td><td>206</td><td>Memel</td></tr><tr><td></td><td></td><td>511</td><td>Alytus</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>577</td><td>Siauliau</td><td></td><td></td><td></td></tr><tr><td>LUX</td><td>Luxemburg</td><td>71</td><td>Luxembourg</td><td>C</td><td>70</td><td>Arlon</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>69</td><td>Bastogne</td></tr><tr><td>MTN</td><td>Montenegro</td><td>389</td><td>Podgorica</td><td>C</td><td></td><td></td></tr><tr><td>NOR</td><td>Norway</td><td>107</td><td>Oslo</td><td>C</td><td></td><td></td></tr><tr><td></td><td></td><td>108</td><td>Kristiansand</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>109</td><td>Stavanger</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>110</td><td>Bergen</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>111</td><td>Hamar</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>116</td><td>Röros</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>117</td><td>Ålesund</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>118</td><td>Trondheim</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>124</td><td>Mo i Rana</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>125</td><td>Narvik</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>128</td><td>Hammerfest</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>129</td><td>Vardö</td><td></td><td></td><td></td></tr><tr><td>POL</td><td>Poland</td><td>485</td><td>Warsaw</td><td>C</td><td>303</td><td>Danzig</td></tr><tr><td></td><td></td><td>484</td><td>Radom</td><td></td><td>302</td><td>Stettin</td></tr><tr><td></td><td></td><td>480</td><td>Kielce</td><td></td><td>308</td><td>Küstrin</td></tr><tr><td></td><td></td><td>487</td><td>Lublin</td><td></td><td>473</td><td>Breslau</td></tr><tr><td></td><td></td><td>488</td><td>Zamosc</td><td></td><td>482</td><td>Oppeln</td></tr><tr><td></td><td></td><td>489</td><td>Przemysl</td><td></td><td>306</td><td>Bydgoszcz</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>307</td><td>Poznan</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>483</td><td>Lodz</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>481</td><td>Czestochowa</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>480</td><td>Kielce</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>479</td><td>Cracow</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>305</td><td>Torun</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>304</td><td>Elbing</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>486</td><td>Lomza</td></tr><tr><td>POR</td><td>Portugal</td><td>335</td><td>Oporto</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>336</td><td>Lissabon</td><td>C</td><td></td><td></td></tr><tr><td></td><td></td><td>337</td><td>Guarda</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>344</td><td>Evora</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>345</td><td>Faro</td><td></td><td></td><td></td></tr><tr><td>ROM</td><td>Romania</td><td>423</td><td>Constanta</td><td></td><td>230</td><td>Beltsy</td></tr><tr><td></td><td></td><td>424</td><td>Bucharest</td><td>C</td><td>434</td><td>Chisinev</td></tr><tr><td></td><td></td><td>425</td><td>Pitesti</td><td></td><td>428</td><td>Cluj-Napoca</td></tr><tr><td></td><td></td><td>431</td><td>Ploesti</td><td></td><td>498</td><td>Satu Mare</td></tr><tr><td></td><td></td><td>426</td><td>Craiova</td><td></td><td>423</td><td>Constanta</td></tr><tr><td></td><td></td><td>495</td><td>Timisoara</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>496</td><td>Arad</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>427</td><td>Sibiu</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>429</td><td>Bacau</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>430</td><td>Brasov</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>432</td><td>Braila</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>436</td><td>Tulcea</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>433</td><td>Iasi</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>435</td><td>Ismail</td><td></td><td></td><td></td></tr><tr><td>RSI</td><td>Italian Social Republic</td><td>370</td><td>Milan</td><td>C</td><td>371</td><td>Trento</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>378</td><td>Venice</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>379</td><td>Ferrara</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>512</td><td>Bologna</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>513</td><td>Florence</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>514</td><td>Rimini</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>515</td><td>Rome</td><td>C</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>516</td><td>Perugia</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>517</td><td>Pescara</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>531</td><td>Turin</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>368</td><td>Genoa</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>369</td><td>La Spezia</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>518</td><td>Cassino</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>519</td><td>Anzio</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>520</td><td>Foggia</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>521</td><td>Naples</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>522</td><td>Potenza</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>523</td><td>Taranto</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>524</td><td>Reggio di Calabria</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>525</td><td>Palermo</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>526</td><td>Catania</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>534</td><td>Sardinia</td></tr><tr><td>RUS</td><td>Russia</td><td>187</td><td>Leningrad</td><td>C</td><td>1771</td><td>Mezen</td></tr><tr><td></td><td></td><td>175</td><td>Moscow</td><td></td><td>1840</td><td>Kotlas</td></tr><tr><td></td><td></td><td>163</td><td>Stalingrad</td><td></td><td>1841</td><td>Velikij Ustyug</td></tr><tr><td></td><td></td><td>219</td><td>Smolensk</td><td></td><td>165</td><td>Konosha</td></tr><tr><td></td><td></td><td>1832</td><td>Saratov</td><td></td><td>153</td><td>Molotovsk</td></tr><tr><td></td><td></td><td>200</td><td>Pskov</td><td></td><td>151</td><td>Segezha</td></tr><tr><td></td><td></td><td>133</td><td>Murmansk</td><td></td><td>152</td><td>Petrozavodsk</td></tr><tr><td></td><td></td><td>154</td><td>Archangelsk</td><td></td><td>150</td><td>Kem</td></tr><tr><td></td><td></td><td>283</td><td>Voronezh</td><td></td><td>135</td><td>Kandalaksja</td></tr><tr><td></td><td></td><td>282</td><td>Orel</td><td></td><td>134</td><td>Kola</td></tr><tr><td></td><td></td><td>178</td><td>Yaroslavl</td><td></td><td>1838</td><td>Astrakhan</td></tr><tr><td></td><td></td><td>189</td><td>Novgorod</td><td></td><td>1847</td><td>Grozny</td></tr><tr><td></td><td></td><td>278</td><td>Tula</td><td></td><td>1846</td><td>Voroshilovsk</td></tr><tr><td></td><td></td><td>243</td><td>Kursk</td><td></td><td>1843</td><td>Armavil</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>255</td><td>Novorossisk</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>256</td><td>Krasnodar</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>257</td><td>Tikhoretsk</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>270</td><td>Salsk</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1842</td><td>Bashanta</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1837</td><td>Elista</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>271</td><td>Kotelnikovo</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>164</td><td>Cherny Yar</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1833</td><td>Enotaevka</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1834</td><td>Krasnya Sloboda</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1836</td><td>Elton</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1839</td><td>Novouzensk</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1835</td><td>Nikolayevsk</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1829</td><td>Engels</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1831</td><td>Nikolayevka</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1830</td><td>Syzran</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1777</td><td>Saransk</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1778</td><td>Ulyanovsk</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1776</td><td>Cheboksary</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1775</td><td>Yoskar Ola</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1780</td><td>Kazan</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1781</td><td>Melekess</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1783</td><td>Kirov</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1774</td><td>Kotelnich</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>162</td><td>Kalach</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>161</td><td>Surovikino</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>160</td><td>Frolovo</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>159</td><td>Kamyshin</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>157</td><td>Uryupinsk</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>156</td><td>Balashov</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>158</td><td>Kuznetsk</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>155</td><td>Penza</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>169</td><td>Arzamas</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>168</td><td>Gorkij</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>167</td><td>Ivanovo</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>179</td><td>Murom</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>180</td><td>Vladimir</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>166</td><td>Kostroma</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>177</td><td>Danilov</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>170</td><td>Totma</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>171</td><td>Volodga</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>172</td><td>Cherepovets</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>173</td><td>Bezhetsk</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>174</td><td>Kalinin</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>176</td><td>Rybinsk</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>181</td><td>Kaluga</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>182</td><td>Mozhaisk</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>183</td><td>Vytegra</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>184</td><td>Tikhvin</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>190</td><td>Staraya Russa</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>191</td><td>Porkhov</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>185</td><td>Volkhov</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>186</td><td>Luga</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>188</td><td>Kingisepp</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>192</td><td>Gdov</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>201</td><td>Opochka</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>275</td><td>Roslavl</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>276</td><td>Klintsy</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>277</td><td>Bryansk</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>279</td><td>Ryazan</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>280</td><td>Tambov</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>281</td><td>Lipetsk</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>284</td><td>Borisglebsk</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>258</td><td>Rostov</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>259</td><td>Kamensk-Shakhtinski</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>262</td><td>Ostrogozhsk</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>261</td><td>Rossosh</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>269</td><td>Konstatinovsk</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>268</td><td>Morozovsk</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>267</td><td>Bokovskaya</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>266</td><td>Kashary</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>265</td><td>Boguchar</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>264</td><td>Pavlovsk</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>263</td><td>Svoboda</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>94</td><td>Noginsk</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>215</td><td>Novorzhev</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>216</td><td>Nevel</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>217</td><td>Vitebsk</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>285</td><td>Vyazma</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>286</td><td>Toropets</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>287</td><td>Velikiye Luki</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>288</td><td>Rzhev</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>289</td><td>Demyansk</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1874</td><td>Polotsk</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1531</td><td>Norilsk</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1532</td><td>Tura</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1533</td><td>Igarka</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1534</td><td>Poloi</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1535</td><td>Angutikha</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1536</td><td>Turukhansk</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1537</td><td>Baikit</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1538</td><td>Severo-Yenisejsk</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1539</td><td>Yenisejsk</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1540</td><td>Kolpachevo</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1543</td><td>Kargasok</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1544</td><td>Tomsk</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1545</td><td>Asino</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1546</td><td>Kemerovo</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1547</td><td>Barnaul</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1549</td><td>Rubcovsk</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1558</td><td>Ojrot-Tura</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1559</td><td>Abakan</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1560</td><td>Krasnoyarsk</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1561</td><td>Achinsk</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1412</td><td>Bodaibo</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1413</td><td>Kachug</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1414</td><td>Ust-Kut</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1415</td><td>Taishet</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1416</td><td>Irkutsk</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1417</td><td>Shushenskoye</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1520</td><td>Ulan-Ude</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1522</td><td>Mogocha</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1521</td><td>Barguzin</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1383</td><td>Borzya</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1384</td><td>Chita</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1156</td><td>Dudinka</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1157</td><td>Khatanga</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1158</td><td>Saskylakh</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1159</td><td>Srednekolymsk</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1160</td><td>Zhigansk</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1161</td><td>Nyurba</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1162</td><td>Erbogachen</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1163</td><td>Yakutsk</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1562</td><td>Kezhma</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1563</td><td>Vanavara</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1409</td><td>Maya</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1410</td><td>Aldan</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1411</td><td>Olekminsk</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1594</td><td>Tobolsk</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1523</td><td>Tynda</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1164</td><td>Khandyga</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1165</td><td>Verkhoyansk</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1155</td><td>Tazov</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1541</td><td>Nizhnevartovsk</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1542</td><td>Aleksandrovskoye</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1548</td><td>Novosibirsk</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1552</td><td>Omsk</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1593</td><td>Tyumen</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1596</td><td>Surgut</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1598</td><td>Tarko-Sale</td></tr><tr><td>SCH</td><td>Switzerland</td><td>532</td><td>Bern</td><td>C</td><td></td><td></td></tr><tr><td></td><td></td><td>530</td><td>Geneva</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>533</td><td>Zürich</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>372</td><td>Chur</td><td></td><td></td><td></td></tr><tr><td>SCA</td><td>Scandinavia</td><td>112</td><td>Ludvika</td><td></td><td>91</td><td>Kolding</td></tr><tr><td></td><td></td><td>126</td><td>Kiruna</td><td></td><td>295</td><td>Bornholm</td></tr><tr><td></td><td></td><td>127</td><td>Luleå</td><td></td><td>800</td><td>Greenland</td></tr><tr><td></td><td></td><td>123</td><td>Gällivare</td><td></td><td>1</td><td>Reykjavik</td></tr><tr><td></td><td></td><td>122</td><td>Umeå</td><td></td><td>2</td><td>Höfn</td></tr><tr><td></td><td></td><td>121</td><td>Vilhelmina</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>120</td><td>Sundsvall</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>119</td><td>Östersund</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>115</td><td>Sveg</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>113</td><td>Falun</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>114</td><td>Gävle</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>106</td><td>Åmål</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>105</td><td>Karlstad</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>104</td><td>Västerås</td><td></td></tr><tr><td></td><td></td><td>102</td><td>Uppsala</td><td></td></tr><tr><td></td><td></td><td>101</td><td>Stockholm</td><td>C</td></tr><tr><td></td><td></td><td>100</td><td>Norrköping</td><td></td></tr><tr><td></td><td></td><td>99</td><td>Skövde</td><td></td></tr><tr><td></td><td></td><td>98</td><td>Göteborg</td><td></td></tr><tr><td></td><td></td><td>97</td><td>Jönköping</td><td></td></tr><tr><td></td><td></td><td>93</td><td>Malmö</td><td></td></tr><tr><td></td><td></td><td>95</td><td>Karlskrona</td><td></td></tr><tr><td></td><td></td><td>96</td><td>Gotland</td><td></td></tr><tr><td></td><td></td><td>92</td><td>Århus</td><td></td></tr><tr><td></td><td></td><td>292</td><td>Aalborg</td><td></td></tr><tr><td></td><td></td><td>293</td><td>Odense</td><td></td></tr><tr><td></td><td></td><td>294</td><td>Copenhagen</td><td></td></tr><tr><td></td><td></td><td>107</td><td>Oslo</td><td></td></tr><tr><td></td><td></td><td>108</td><td>Kristiansand</td><td></td></tr><tr><td></td><td></td><td>109</td><td>Stavanger</td></tr><tr><td></td><td></td><td>110</td><td>Bergen</td></tr><tr><td></td><td></td><td>111</td><td>Hamar</td></tr><tr><td></td><td></td><td>116</td><td>Röros</td></tr><tr><td></td><td></td><td>117</td><td>Ålesund</td></tr><tr><td></td><td></td><td>118</td><td>Trondheim</td></tr><tr><td></td><td></td><td>124</td><td>Mo i Rana</td></tr><tr><td></td><td></td><td>125</td><td>Narvik</td></tr><tr><td></td><td></td><td>128</td><td>Hammerfest</td></tr><tr><td></td><td></td><td>129</td><td>Vardö</td></tr><tr><td>SCO</td><td>Scotland</td><td>3</td><td>Stornoway</td></tr><tr><td></td><td></td><td>5</td><td>Scapa Flow</td></tr><tr><td></td><td></td><td>6</td><td>Inverness</td></tr><tr><td></td><td></td><td>7</td><td>Aberdeen</td></tr><tr><td></td><td></td><td>8</td><td>Dunfermline</td></tr><tr><td></td><td></td><td>9</td><td>Glasgow</td></tr><tr><td></td><td></td><td>10</td><td>Edinburgh</td><td>C</td><td></td><td></td></tr><tr><td>SER</td><td>Serbia</td><td>453</td><td>Belgrade</td><td>C</td><td>415</td><td>Pristina</td></tr><tr><td></td><td></td><td>451</td><td>Novi Pazar</td><td></td><td>418</td><td>Nis</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>494</td><td>Zrenjanin</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>493</td><td>Novi Sad</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>454</td><td>Osijek</td></tr><tr><td>SLO</td><td>Slovakia</td><td>478</td><td>Zilina</td><td></td><td>499</td><td>Presov</td></tr><tr><td></td><td></td><td>477</td><td>Banská Bystrica</td><td>C</td><td></td><td></td></tr><tr><td></td><td></td><td>490</td><td>Kosice</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>476</td><td>Bratislava</td><td></td><td></td><td></td></tr><tr><td>SLV</td><td>Slovenia</td><td>380</td><td>Ljubljana</td><td>C</td><td></td><td></td></tr><tr><td>SOV</td><td>Soviet Union</td><td>266</td><td>Kashary</td><td></td><td>1372</td><td>Vladivostok</td></tr><tr><td></td><td></td><td>269</td><td>Konstatinovsk</td><td></td><td>1373</td><td>Spassk-Dalnij</td></tr><tr><td></td><td></td><td>258</td><td>Rostov</td><td></td><td>1371</td><td>Tetyukhe</td></tr><tr><td></td><td></td><td>1576</td><td>Kostanai</td><td></td><td>1370</td><td>Iman</td></tr><tr><td></td><td></td><td>1169</td><td>0</td><td></td><td>1369</td><td>Ternei</td></tr><tr><td></td><td></td><td>1773</td><td>Syktyvkar</td><td></td><td>1367</td><td>Khabarovsk</td></tr><tr><td></td><td></td><td>1772</td><td>Ukhta</td><td></td><td>1366</td><td>Bogorodskoe</td></tr><tr><td></td><td></td><td>1771</td><td>Mezen</td><td></td><td>1527</td><td>Nikolayevsk-na-Amure</td></tr><tr><td></td><td></td><td>154</td><td>Archangelsk</td><td></td><td>1529</td><td>Birobidzhan</td></tr><tr><td></td><td></td><td>1840</td><td>Kotlas</td><td></td><td>1528</td><td>Blagoveshchensk</td></tr><tr><td></td><td></td><td>1841</td><td>Velikij Ustyug</td><td></td><td>1526</td><td>Chumikan</td></tr><tr><td></td><td></td><td>165</td><td>Konosha</td><td></td><td>1523</td><td>Tynda</td></tr><tr><td></td><td></td><td>153</td><td>Molotovsk</td><td></td><td>1410</td><td>Aldan</td></tr><tr><td></td><td></td><td>151</td><td>Segezha</td><td></td><td>1525</td><td>Okhotsk</td></tr><tr><td></td><td></td><td>152</td><td>Petrozavodsk</td><td></td><td>1524</td><td>Magadan</td></tr><tr><td></td><td></td><td>150</td><td>Kem</td><td></td><td>1409</td><td>Maya</td></tr><tr><td></td><td></td><td>135</td><td>Kandalaksja</td><td></td><td>1164</td><td>Khandyga</td></tr><tr><td></td><td></td><td>134</td><td>Kola</td><td></td><td>1165</td><td>Verkhoyansk</td></tr><tr><td></td><td></td><td>133</td><td>Murmansk</td><td></td><td>1166</td><td>Pevek</td></tr><tr><td></td><td></td><td>1838</td><td>Astrakhan</td><td></td><td>1167</td><td>Evensk</td></tr><tr><td></td><td></td><td>1847</td><td>Grozny</td><td></td><td>1170</td><td>Anadyr</td></tr><tr><td></td><td></td><td>1846</td><td>Voroshilovsk</td><td></td><td>1171</td><td>Palana</td></tr><tr><td></td><td></td><td>1843</td><td>Armavil</td><td></td><td>1172</td><td>Petropavlovsk-Kamchatskij</td></tr><tr><td></td><td></td><td>255</td><td>Novorossisk</td><td></td><td>1405</td><td>Komanderskiye Island</td></tr><tr><td></td><td></td><td>256</td><td>Krasnodar</td><td></td><td>1174</td><td>Shumushushima</td></tr><tr><td></td><td></td><td>257</td><td>Tikhoretsk</td><td></td><td>1175</td><td>Ocha</td></tr><tr><td></td><td></td><td>270</td><td>Salsk</td><td></td><td>1522</td><td>Mogocha</td></tr><tr><td></td><td></td><td>1842</td><td>Bashanta</td><td></td><td>1521</td><td>Barguzin</td></tr><tr><td></td><td></td><td>1837</td><td>Elista</td><td></td><td>1384</td><td>Chita</td></tr><tr><td></td><td></td><td>271</td><td>Kotelnikovo</td><td></td><td>1383</td><td>Borzya</td></tr><tr><td></td><td></td><td>164</td><td>Cherny Yar</td><td></td><td>1520</td><td>Ulan-Ude</td></tr><tr><td></td><td></td><td>1833</td><td>Enotaevka</td><td></td><td>1416</td><td>Irkutsk</td></tr><tr><td></td><td></td><td>1834</td><td>Krasnya Sloboda</td><td></td><td>1415</td><td>Taishet</td></tr><tr><td></td><td></td><td>1836</td><td>Elton</td><td></td><td>1414</td><td>Ust-Kut</td></tr><tr><td></td><td></td><td>1839</td><td>Novouzensk</td><td></td><td>1413</td><td>Kachug</td></tr><tr><td></td><td></td><td>1835</td><td>Nikolayevsk</td><td></td><td>1162</td><td>Erbogachen</td></tr><tr><td></td><td></td><td>1829</td><td>Engels</td><td></td><td>1412</td><td>Bodaibo</td></tr><tr><td></td><td></td><td>1832</td><td>Saratov</td><td></td><td>1411</td><td>Olekminsk</td></tr><tr><td></td><td></td><td>1831</td><td>Nikolayevka</td><td></td><td>1163</td><td>Yakutsk</td></tr><tr><td></td><td></td><td>1830</td><td>Syzran</td><td></td><td>1159</td><td>Srednekolymsk</td></tr><tr><td></td><td></td><td>1777</td><td>Saransk</td><td></td><td>1160</td><td>Zhigansk</td></tr><tr><td></td><td></td><td>1778</td><td>Ulyanovsk</td><td></td><td>1158</td><td>Saskylakh</td></tr><tr><td></td><td></td><td>1776</td><td>Cheboksary</td><td></td><td>1417</td><td>Shushenskoye</td></tr><tr><td></td><td></td><td>1775</td><td>Yoskar Ola</td><td></td><td>1558</td><td>Ojrot-Tura</td></tr><tr><td></td><td></td><td>1780</td><td>Kazan</td><td></td><td>1557</td><td>Bijsk</td></tr><tr><td></td><td></td><td>1781</td><td>Melekess</td><td></td><td>1423</td><td>Ziryanovsk</td></tr><tr><td></td><td></td><td>1782</td><td>Izhevsk</td><td></td><td>1556</td><td>Ust-Kamenogorsk</td></tr><tr><td></td><td></td><td>1783</td><td>Kirov</td><td></td><td>1550</td><td>Semipalatinsk</td></tr><tr><td></td><td></td><td>1774</td><td>Kotelnich</td><td></td><td>1549</td><td>Rubcovsk</td></tr><tr><td></td><td></td><td>163</td><td>Stalingrad</td><td></td><td>1547</td><td>Barnaul</td></tr><tr><td></td><td></td><td>162</td><td>Kalach</td><td></td><td>1546</td><td>Kemerovo</td></tr><tr><td></td><td></td><td>161</td><td>Surovikino</td><td></td><td>1559</td><td>Abakan</td></tr><tr><td></td><td></td><td>160</td><td>Frolovo</td><td></td><td>1561</td><td>Achinsk</td></tr><tr><td></td><td></td><td>159</td><td>Kamyshin</td><td></td><td>1560</td><td>Krasnoyarsk</td></tr><tr><td></td><td></td><td>157</td><td>Uryupinsk</td><td></td><td>1562</td><td>Kezhma</td></tr><tr><td></td><td></td><td>156</td><td>Balashov</td><td></td><td>1563</td><td>Vanavara</td></tr><tr><td></td><td></td><td>158</td><td>Kuznetsk</td><td></td><td>1532</td><td>Tura</td></tr><tr><td></td><td></td><td>155</td><td>Penza</td><td></td><td>1537</td><td>Baikit</td></tr><tr><td></td><td></td><td>169</td><td>Arzamas</td><td></td><td>1538</td><td>Severo-Yenisejsk</td></tr><tr><td></td><td></td><td>168</td><td>Gorkij</td><td></td><td>1545</td><td>Asino</td></tr><tr><td></td><td></td><td>167</td><td>Ivanovo</td><td></td><td>1544</td><td>Tomsk</td></tr><tr><td></td><td></td><td>179</td><td>Murom</td><td></td><td>1548</td><td>Novosibirsk</td></tr><tr><td></td><td></td><td>180</td><td>Vladimir</td><td></td><td>1543</td><td>Kargasok</td></tr><tr><td></td><td></td><td>166</td><td>Kostroma</td><td></td><td>1540</td><td>Kolpachevo</td></tr><tr><td></td><td></td><td>178</td><td>Yaroslavl</td><td></td><td>1539</td><td>Yenisejsk</td></tr><tr><td></td><td></td><td>177</td><td>Danilov</td><td></td><td>1536</td><td>Turukhansk</td></tr><tr><td></td><td></td><td>170</td><td>Totma</td><td></td><td>1535</td><td>Angutikha</td></tr><tr><td></td><td></td><td>171</td><td>Volodga</td><td></td><td>1533</td><td>Igarka</td></tr><tr><td></td><td></td><td>172</td><td>Cherepovets</td><td></td><td>1534</td><td>Poloi</td></tr><tr><td></td><td></td><td>173</td><td>Bezhetsk</td><td></td><td>1157</td><td>Khatanga</td></tr><tr><td></td><td></td><td>174</td><td>Kalinin</td><td></td><td>1531</td><td>Norilsk</td></tr><tr><td></td><td></td><td>175</td><td>Moscow</td><td>C</td><td>1156</td><td>Dudinka</td></tr><tr><td></td><td></td><td>176</td><td>Rybinsk</td><td></td><td>1155</td><td>Tazov</td></tr><tr><td></td><td></td><td>181</td><td>Kaluga</td><td></td><td>1154</td><td>Salekhard</td></tr><tr><td></td><td></td><td>182</td><td>Mozhaisk</td><td></td><td>1565</td><td>Saranpaul</td></tr><tr><td></td><td></td><td>183</td><td>Vytegra</td><td></td><td>1564</td><td>Muzhi</td></tr><tr><td></td><td></td><td>184</td><td>Tikhvin</td><td></td><td>1571</td><td>Serov</td></tr><tr><td></td><td></td><td>190</td><td>Staraya Russa</td><td></td><td>1597</td><td>Khanty-Mansijsk</td></tr><tr><td></td><td></td><td>191</td><td>Porkhov</td><td></td><td>1598</td><td>Tarko-Sale</td></tr><tr><td></td><td></td><td>189</td><td>Novgorod</td><td></td><td>1554</td><td>Karaganda</td></tr><tr><td></td><td></td><td>185</td><td>Volkhov</td><td></td><td>1555</td><td>Balkhash</td></tr><tr><td></td><td></td><td>186</td><td>Luga</td><td></td><td>1553</td><td>Ekibastuz</td></tr><tr><td></td><td></td><td>187</td><td>Leningrad</td><td></td><td>1552</td><td>Omsk</td></tr><tr><td></td><td></td><td>188</td><td>Kingisepp</td><td></td><td>1594</td><td>Tobolsk</td></tr><tr><td></td><td></td><td>192</td><td>Gdov</td><td></td><td>1596</td><td>Surgut</td></tr><tr><td></td><td></td><td>200</td><td>Pskov</td><td></td><td>1573</td><td>Nizhnij Tagil</td></tr><tr><td></td><td></td><td>201</td><td>Opochka</td><td></td><td>1593</td><td>Tyumen</td></tr><tr><td></td><td></td><td>275</td><td>Roslavl</td><td></td><td>1592</td><td>Petropavlovsk</td></tr><tr><td></td><td></td><td>276</td><td>Klintsy</td><td></td><td>1591</td><td>Kokchetav</td></tr><tr><td></td><td></td><td>277</td><td>Bryansk</td><td></td><td>1590</td><td>Akmolinsk</td></tr><tr><td></td><td></td><td>278</td><td>Tula</td><td></td><td>1589</td><td>Samarkandskij</td></tr><tr><td></td><td></td><td>279</td><td>Ryazan</td><td></td><td>1588</td><td>Zhezkazgan</td></tr><tr><td></td><td></td><td>280</td><td>Tambov</td><td></td><td>1587</td><td>Baikonur</td></tr><tr><td></td><td></td><td>281</td><td>Lipetsk</td><td></td><td>1424</td><td>Zhambyl</td></tr><tr><td></td><td></td><td>282</td><td>Orel</td><td></td><td>1586</td><td>Kazalinsk</td></tr><tr><td></td><td></td><td>283</td><td>Voronezh</td><td></td><td>1585</td><td>Nukus</td></tr><tr><td></td><td></td><td>284</td><td>Borisglebsk</td><td></td><td>1584</td><td>Kungrad</td></tr><tr><td></td><td></td><td>262</td><td>Ostrogozhsk</td><td></td><td>1583</td><td>Fort Shevchenko</td></tr><tr><td></td><td></td><td>261</td><td>Rossosh</td><td></td><td>1581</td><td>Turgai</td></tr><tr><td></td><td></td><td>268</td><td>Morozovsk</td><td></td><td>1576</td><td>Kostanai</td></tr><tr><td></td><td></td><td>267</td><td>Bokovskaya</td><td></td><td>1575</td><td>Kurgan</td></tr><tr><td></td><td></td><td>265</td><td>Boguchar</td><td></td><td>1574</td><td>Chelyabinsk</td></tr><tr><td></td><td></td><td>264</td><td>Pavlovsk</td><td></td><td>1572</td><td>Sverdlovsk</td></tr><tr><td></td><td></td><td>263</td><td>Svoboda</td><td></td><td>1566</td><td>Berezniki</td></tr><tr><td></td><td></td><td>94</td><td>Noginsk</td><td></td><td>1567</td><td>Ufa</td></tr><tr><td></td><td></td><td>215</td><td>Novorzhev</td><td></td><td>1570</td><td>Chkalov</td></tr><tr><td></td><td></td><td>216</td><td>Nevel</td><td></td><td>1577</td><td>Orsk</td></tr><tr><td></td><td></td><td>219</td><td>Smolensk</td><td></td><td>1578</td><td>Aktyubinsk</td></tr><tr><td></td><td></td><td>285</td><td>Vyazma</td><td></td><td>1580</td><td>Chelkar</td></tr><tr><td></td><td></td><td>286</td><td>Toropets</td><td></td><td>1582</td><td>Aralsk</td></tr><tr><td></td><td></td><td>287</td><td>Velikiye Luki</td><td></td><td>1579</td><td>Kulsary</td></tr><tr><td></td><td></td><td>288</td><td>Rzhev</td><td></td><td>1569</td><td>Guriev</td></tr><tr><td></td><td></td><td>289</td><td>Demyansk</td><td></td><td>1568</td><td>Uralsk</td></tr><tr><td></td><td></td><td>1431</td><td>Aksu</td><td></td><td>1150</td><td>Osa</td></tr><tr><td></td><td></td><td>1430</td><td>Kashgar</td><td></td><td>1151</td><td>Molotov</td></tr><tr><td></td><td></td><td>1484</td><td>Feyzabad</td><td></td><td>1152</td><td>Storozhevsk</td></tr><tr><td></td><td></td><td>1874</td><td>Polotsk</td><td></td><td>1153</td><td>Troitsko-Pechorsk</td></tr><tr><td></td><td></td><td>94</td><td>Noginsk</td><td></td><td>1169</td><td>0</td></tr><tr><td></td><td></td><td>145</td><td>Viipuri</td><td></td><td>1773</td><td>Syktyvkar</td></tr><tr><td></td><td></td><td>146</td><td>Sortavala</td><td></td><td>1772</td><td>Ukhta</td></tr><tr><td></td><td></td><td>1418</td><td>Kyzyl</td><td></td><td>1771</td><td>Mezen</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>154</td><td>Archangelsk</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1840</td><td>Kotlas</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1841</td><td>Velikij Ustyug</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>165</td><td>Konosha</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>153</td><td>Molotovsk</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>151</td><td>Segezha</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>152</td><td>Petrozavodsk</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>150</td><td>Kem</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>135</td><td>Kandalaksja</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>134</td><td>Kola</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>133</td><td>Murmansk</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1838</td><td>Astrakhan</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1847</td><td>Grozny</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1857</td><td>Makhachkala</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1849</td><td>Nalchik</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1850</td><td>Tblisi</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1848</td><td>Batum</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1845</td><td>Tuapse</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1844</td><td>Maikop</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1846</td><td>Voroshilovsk</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1843</td><td>Armavil</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>255</td><td>Novorossisk</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>256</td><td>Krasnodar</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>257</td><td>Tikhoretsk</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>270</td><td>Salsk</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1842</td><td>Bashanta</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1837</td><td>Elista</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>271</td><td>Kotelnikovo</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>164</td><td>Cherny Yar</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1833</td><td>Enotaevka</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1834</td><td>Krasnya Sloboda</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1836</td><td>Elton</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1839</td><td>Novouzensk</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1827</td><td>Naberezhnye Chelny</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1828</td><td>Kuybyshev</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1835</td><td>Nikolayevsk</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1829</td><td>Engels</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1832</td><td>Saratov</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1831</td><td>Nikolayevka</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1830</td><td>Syzran</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>252</td><td>Yevpatoriya</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>253</td><td>Sevastopol</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>254</td><td>Kerch</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1777</td><td>Saransk</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1778</td><td>Ulyanovsk</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1776</td><td>Cheboksary</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1775</td><td>Yoskar Ola</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1780</td><td>Kazan</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1781</td><td>Melekess</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1782</td><td>Izhevsk</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1783</td><td>Kirov</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1774</td><td>Kotelnich</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>163</td><td>Stalingrad</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>162</td><td>Kalach</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>161</td><td>Surovikino</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>160</td><td>Frolovo</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>159</td><td>Kamyshin</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>157</td><td>Uryupinsk</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>156</td><td>Balashov</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>158</td><td>Kuznetsk</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>155</td><td>Penza</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>169</td><td>Arzamas</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>168</td><td>Gorkij</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>167</td><td>Ivanovo</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>179</td><td>Murom</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>180</td><td>Vladimir</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>166</td><td>Kostroma</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>178</td><td>Yaroslavl</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>177</td><td>Danilov</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>170</td><td>Totma</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>171</td><td>Volodga</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>172</td><td>Cherepovets</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>173</td><td>Bezhetsk</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>174</td><td>Kalinin</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>175</td><td>Moscow</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>176</td><td>Rybinsk</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>181</td><td>Kaluga</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>182</td><td>Mozhaisk</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>183</td><td>Vytegra</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>184</td><td>Tikhvin</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>190</td><td>Staraya Russa</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>191</td><td>Porkhov</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>189</td><td>Novgorod</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>185</td><td>Volkhov</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>186</td><td>Luga</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>187</td><td>Leningrad</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>188</td><td>Kingisepp</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>192</td><td>Gdov</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>200</td><td>Pskov</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>201</td><td>Opochka</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>212</td><td>Minsk</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>225</td><td>Mozyr</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>226</td><td>Korosten</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>227</td><td>Zhitomir</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>228</td><td>Vinnitsa</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>231</td><td>Mogilev Podolski</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>232</td><td>Balta</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>233</td><td>Odessa</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>234</td><td>Kherson</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>251</td><td>Perekop</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>250</td><td>Melitopol</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>235</td><td>Dnepropetrovsk</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>236</td><td>Krivoy Rog</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>237</td><td>Cherkassy</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>238</td><td>Kiev</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>239</td><td>Priluki</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>240</td><td>Vyshgorod</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>220</td><td>Mogilev</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>272</td><td>Zhlobin</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>241</td><td>Chernigov</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>273</td><td>Gomel</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>274</td><td>Rogachev</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>275</td><td>Roslavl</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>276</td><td>Klintsy</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>277</td><td>Bryansk</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>278</td><td>Tula</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>279</td><td>Ryazan</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>280</td><td>Tambov</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>281</td><td>Lipetsk</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>282</td><td>Orel</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>283</td><td>Voronezh</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>284</td><td>Borisglebsk</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>249</td><td>Stalino</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>258</td><td>Rostov</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>259</td><td>Kamensk-Shakhtinski</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>260</td><td>Bilovodsk</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>248</td><td>Kharkov</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>247</td><td>Belgorod</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>243</td><td>Kursk</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>262</td><td>Ostrogozhsk</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>261</td><td>Rossosh</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>269</td><td>Konstatinovsk</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>268</td><td>Morozovsk</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>267</td><td>Bokovskaya</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>266</td><td>Kashary</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>265</td><td>Boguchar</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>264</td><td>Pavlovsk</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>263</td><td>Svoboda</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1490</td><td>Ashgabat</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1491</td><td>Chardzhou</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1485</td><td>Stalinabad</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1487</td><td>Samarkand</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1488</td><td>Navoi</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1427</td><td>Tashkent</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1428</td><td>Osh</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1426</td><td>Kzyl-Orda</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1425</td><td>Chimkent</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1429</td><td>Frunze</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>94</td><td>Noginsk</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>215</td><td>Novorzhev</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>216</td><td>Nevel</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>217</td><td>Vitebsk</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>218</td><td>Orsha</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>219</td><td>Smolensk</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>221</td><td>Bobraisk</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>242</td><td>Konotop</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>244</td><td>Sumy</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>245</td><td>Poltava</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>246</td><td>Zaporozhye</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>285</td><td>Vyazma</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>286</td><td>Toropets</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>287</td><td>Velikiye Luki</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>288</td><td>Rzhev</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>289</td><td>Demyansk</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1149</td><td>Vorkuta</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1161</td><td>Nyurba</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1368</td><td>Komsomolsk-na-Amure</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1422</td><td>Alma-Ata</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1489</td><td>Bukhara</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1856</td><td>Yerevan</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1858</td><td>Kirovabad</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1907</td><td>Baku</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1541</td><td>Nizhnevartovsk</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1542</td><td>Aleksandrovskoye</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1551</td><td>Pavlodar</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1874</td><td>Polotsk</td></tr><tr><td>SPA</td><td>Nationalist Spain</td><td>334</td><td>La Coruña</td><td></td><td>348</td><td>Gibraltar</td></tr><tr><td></td><td></td><td>333</td><td>Burgos</td><td>C</td><td>331</td><td>Bilbao</td></tr><tr><td></td><td></td><td>340</td><td>Sigüenza</td><td></td><td>332</td><td>Oviedo</td></tr><tr><td></td><td></td><td>330</td><td>Saragossa</td><td></td><td>341</td><td>Madrid</td></tr><tr><td></td><td></td><td>329</td><td>Huesca</td><td></td><td>342</td><td>Guadalajara</td></tr><tr><td></td><td></td><td>339</td><td>Valladolid</td><td></td><td>343</td><td>Badajoz</td></tr><tr><td></td><td></td><td>338</td><td>Salamanca</td><td></td><td>346</td><td>Huelva</td></tr><tr><td></td><td></td><td>347</td><td>Seville</td><td></td><td>349</td><td>Málaga</td></tr><tr><td></td><td></td><td>954</td><td>Melilla</td><td></td><td>350</td><td>Almería</td></tr><tr><td></td><td></td><td>955</td><td>Villa Sanjuro</td><td></td><td>351</td><td>Jaén</td></tr><tr><td></td><td></td><td>957</td><td>Ceuta</td><td></td><td>352</td><td>Murcia</td></tr><tr><td></td><td></td><td>961</td><td>Lanzarote</td><td></td><td>353</td><td>Albacete</td></tr><tr><td></td><td></td><td>962</td><td>Fuerteventura</td><td></td><td>354</td><td>València</td></tr><tr><td></td><td></td><td>963</td><td>Gran Canaria</td><td></td><td>355</td><td>Castellón</td></tr><tr><td></td><td></td><td>964</td><td>Tenerife</td><td></td><td>356</td><td>Tarragona</td></tr><tr><td></td><td></td><td>965</td><td>La Palma</td><td></td><td>357</td><td>Barcelona</td></tr><tr><td></td><td></td><td>535</td><td>Mallorca</td><td></td><td>536</td><td>Menorca</td></tr><tr><td></td><td></td><td>537</td><td>Ibiza</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>967</td><td>Ifni</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>971</td><td>El Aaiún</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>972</td><td>Villa Cisneros</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>1091</td><td>Bata</td><td></td><td></td><td></td></tr><tr><td>SPR</td><td>Republican Spain</td><td>329</td><td>Huesca</td><td></td><td>348</td><td>Gibraltar</td></tr><tr><td></td><td></td><td>330</td><td>Saragossa</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>331</td><td>Bilbao</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>332</td><td>Oviedo</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>333</td><td>Burgos</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>334</td><td>La Coruña</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>338</td><td>Salamanca</td><td></td></tr><tr><td></td><td></td><td>339</td><td>Valladolid</td><td></td></tr><tr><td></td><td></td><td>340</td><td>Sigüenza</td><td></td></tr><tr><td></td><td></td><td>341</td><td>Madrid</td><td>C</td></tr><tr><td></td><td></td><td>342</td><td>Guadalajara</td><td></td></tr><tr><td></td><td></td><td>343</td><td>Badajoz</td><td></td></tr><tr><td></td><td></td><td>346</td><td>Huelva</td><td></td></tr><tr><td></td><td></td><td>347</td><td>Seville</td><td></td></tr><tr><td></td><td></td><td>349</td><td>Málaga</td><td></td></tr><tr><td></td><td></td><td>350</td><td>Almería</td><td></td></tr><tr><td></td><td></td><td>351</td><td>Jaén</td><td></td></tr><tr><td></td><td></td><td>352</td><td>Murcia</td><td></td></tr><tr><td></td><td></td><td>353</td><td>Albacete</td><td></td></tr><tr><td></td><td></td><td>354</td><td>València</td><td></td></tr><tr><td></td><td></td><td>355</td><td>Castellón</td><td></td></tr><tr><td></td><td></td><td>356</td><td>Tarragona</td><td></td></tr><tr><td></td><td></td><td>357</td><td>Barcelona</td></tr><tr><td></td><td></td><td>535</td><td>Mallorca</td></tr><tr><td></td><td></td><td>536</td><td>Menorca</td></tr><tr><td></td><td></td><td>537</td><td>Ibiza</td></tr><tr><td></td><td></td><td>961</td><td>Lanzarote</td></tr><tr><td></td><td></td><td>962</td><td>Fuerteventura</td></tr><tr><td></td><td></td><td>963</td><td>Gran Canaria</td></tr><tr><td></td><td></td><td>964</td><td>Tenerife</td></tr><tr><td></td><td></td><td>965</td><td>La Palma</td></tr><tr><td></td><td></td><td>954</td><td>Melilla</td></tr><tr><td></td><td></td><td>955</td><td>Villa Sanjuro</td></tr><tr><td></td><td></td><td>957</td><td>Ceuta</td></tr><tr><td></td><td></td><td>967</td><td>Ifni</td></tr><tr><td></td><td></td><td>971</td><td>El Aaiún</td></tr><tr><td></td><td></td><td>972</td><td>Villa Cisneros</td></tr><tr><td></td><td></td><td>1091</td><td>Bata</td></tr><tr><td>SWE</td><td>Sweden</td><td>112</td><td>Ludvika</td><td></td></tr><tr><td></td><td></td><td>126</td><td>Kiruna</td><td></td></tr><tr><td></td><td></td><td>127</td><td>Luleå</td><td></td></tr><tr><td></td><td></td><td>123</td><td>Gällivare</td><td></td></tr><tr><td></td><td></td><td>122</td><td>Umeå</td><td></td></tr><tr><td></td><td></td><td>121</td><td>Vilhelmina</td><td></td></tr><tr><td></td><td></td><td>120</td><td>Sundsvall</td><td></td></tr><tr><td></td><td></td><td>119</td><td>Östersund</td><td></td></tr><tr><td></td><td></td><td>115</td><td>Sveg</td><td></td></tr><tr><td></td><td></td><td>113</td><td>Falun</td><td></td></tr><tr><td></td><td></td><td>114</td><td>Gävle</td><td></td></tr><tr><td></td><td></td><td>106</td><td>Åmål</td><td></td></tr><tr><td></td><td></td><td>105</td><td>Karlstad</td><td></td></tr><tr><td></td><td></td><td>104</td><td>Västerås</td><td></td></tr><tr><td></td><td></td><td>102</td><td>Uppsala</td><td></td></tr><tr><td></td><td></td><td>101</td><td>Stockholm</td><td>C</td></tr><tr><td></td><td></td><td>100</td><td>Norrköping</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>99</td><td>Skövde</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>98</td><td>Göteborg</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>97</td><td>Jönköping</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>93</td><td>Malmö</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>95</td><td>Karlskrona</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>96</td><td>Gotland</td><td></td><td></td><td></td></tr><tr><td>UKR</td><td>Ukraine</td><td>227</td><td>Zhitomir</td><td></td><td>506</td><td>Kowel</td></tr><tr><td></td><td></td><td>228</td><td>Vinnitsa</td><td></td><td>501</td><td>Lvov</td></tr><tr><td></td><td></td><td>231</td><td>Mogilev Podolski</td><td></td><td>229</td><td>Stanislawow</td></tr><tr><td></td><td></td><td>232</td><td>Balta</td><td></td><td>502</td><td>Tarnopol</td></tr><tr><td></td><td></td><td>233</td><td>Odessa</td><td></td><td>562</td><td>Rowne</td></tr><tr><td></td><td></td><td>234</td><td>Kherson</td><td></td><td>500</td><td>Stryj</td></tr><tr><td></td><td></td><td>226</td><td>Korosten</td><td></td><td>252</td><td>Yevpatoriya</td></tr><tr><td></td><td></td><td>260</td><td>Bilovodsk</td><td></td><td>254</td><td>Kerch</td></tr><tr><td></td><td></td><td>235</td><td>Dnepropetrovsk</td><td></td><td>253</td><td>Sevastopol</td></tr><tr><td></td><td></td><td>236</td><td>Krivoy Rog</td><td></td><td>499</td><td>Presov</td></tr><tr><td></td><td></td><td>237</td><td>Cherkassy</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>238</td><td>Kiev</td><td>C</td><td></td><td></td></tr><tr><td></td><td></td><td>239</td><td>Priluki</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>240</td><td>Vyshgorod</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>242</td><td>Konotop</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>244</td><td>Sumy</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>245</td><td>Poltava</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>246</td><td>Zaporozhye</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>247</td><td>Belgorod</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>248</td><td>Kharkov</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>249</td><td>Stalino</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>250</td><td>Melitopol</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>251</td><td>Perekop</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>241</td><td>Chernigov</td><td></td><td></td><td></td></tr><tr><td>VIC</td><td>Vichy France</td><td>319</td><td>Chalon-sur-Saône</td><td></td><td>956</td><td>Oujda</td></tr><tr><td></td><td></td><td>320</td><td>Vichy</td><td>C</td><td>969</td><td>Bouarfa</td></tr><tr><td></td><td></td><td>321</td><td>Châteauroux</td><td></td><td>968</td><td>Ouezzane</td></tr><tr><td></td><td></td><td>322</td><td>Limoges</td><td></td><td>959</td><td>Marrakech</td></tr><tr><td></td><td></td><td>324</td><td>Bergerac</td><td></td><td>958</td><td>Casablanca</td></tr><tr><td></td><td></td><td>327</td><td>Auch</td><td></td><td>960</td><td>Mogador</td></tr><tr><td></td><td></td><td>328</td><td>Pau</td><td></td><td>966</td><td>Agadir</td></tr><tr><td></td><td></td><td>358</td><td>Perpignan</td><td></td><td>1014</td><td>Fort Laperrine</td></tr><tr><td></td><td></td><td>359</td><td>Toulouse</td><td></td><td>970</td><td>Géryville</td></tr><tr><td></td><td></td><td>360</td><td>Clermont-Ferrand</td><td></td><td>1013</td><td>El-Oued</td></tr><tr><td></td><td></td><td>361</td><td>Saint-Etienne</td><td></td><td>943</td><td>Constantine</td></tr><tr><td></td><td></td><td>362</td><td>Montpellier</td><td></td><td>942</td><td>Bône</td></tr><tr><td></td><td></td><td>363</td><td>Nîmes</td><td></td><td>945</td><td>Philippeville</td></tr><tr><td></td><td></td><td>364</td><td>Marseille</td><td></td><td>944</td><td>Sétif</td></tr><tr><td></td><td></td><td>528</td><td>Lyon</td><td></td><td>946</td><td>Bougie</td></tr><tr><td></td><td></td><td>529</td><td>Besançon</td><td></td><td>947</td><td>Blida</td></tr><tr><td></td><td></td><td>367</td><td>Corsica</td><td></td><td>949</td><td>Algiers</td></tr><tr><td></td><td></td><td>365</td><td>Toulon</td><td></td><td>948</td><td>Mascara</td></tr><tr><td></td><td></td><td>366</td><td>Nice</td><td></td><td>951</td><td>Sidi-Bel-Abbès</td></tr><tr><td></td><td></td><td>527</td><td>Grenoble</td><td></td><td>950</td><td>Mostaganem</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>952</td><td>Tlemcen</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>953</td><td>Oran</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>935</td><td>Gabès</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>934</td><td>Gafsa</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>936</td><td>Sfax</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>938</td><td>Sousse</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>937</td><td>Kassarine</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>939</td><td>Tunis</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>940</td><td>Bizerte</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>941</td><td>Tabarka</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1862</td><td>Aleppo</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1861</td><td>Dair az Zawr</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1863</td><td>Hims</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1792</td><td>Damascus</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1793</td><td>Tripoli</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1794</td><td>Beirut</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1795</td><td>Golan</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1134</td><td>Fianarantsoa</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1137</td><td>Tananarive</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1338</td><td>Rach Gia</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1339</td><td>Battambang</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1340</td><td>Phnom Penh</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1337</td><td>Saigon</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1335</td><td>Nha Trang</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1336</td><td>Pakse</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1334</td><td>Qui Non</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1333</td><td>Da Nang</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1332</td><td>Nhommarath</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1341</td><td>Ubon Ratchthani</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1329</td><td>Vientiane</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1328</td><td>Hanoi</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1306</td><td>Luang Prabang</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1326</td><td>Haiphong</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1081</td><td>Largeau</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1082</td><td>Tibesti</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1083</td><td>Agadez</td></tr><tr><td>WLL</td><td>Wallonia</td><td>52</td><td>Mons</td><td></td><td>53</td><td>Valenciennes</td></tr><tr><td></td><td></td><td>65</td><td>Namur</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>68</td><td>Liège</td><td>C</td><td></td><td></td></tr><tr><td>YUG</td><td>Yugoslavia</td><td>380</td><td>Ljubljana</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>459</td><td>Maribor</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>455</td><td>Bjelovar</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>454</td><td>Osijek</td><td>C</td><td></td><td></td></tr><tr><td></td><td></td><td>453</td><td>Belgrade</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>382</td><td>Zagreb</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>381</td><td>Rijeka</td></tr><tr><td></td><td></td><td>383</td><td>Banja Luka</td></tr><tr><td></td><td></td><td>384</td><td>Split</td></tr><tr><td></td><td></td><td>385</td><td>Zenica</td></tr><tr><td></td><td></td><td>386</td><td>Sarajevo</td></tr><tr><td></td><td></td><td>387</td><td>Mostar</td></tr><tr><td></td><td></td><td>388</td><td>Dubrovnik</td></tr><tr><td></td><td></td><td>389</td><td>Podgorica</td></tr><tr><td></td><td></td><td>451</td><td>Novi Pazar</td></tr><tr><td></td><td></td><td>452</td><td>Uzice</td></tr><tr><td></td><td></td><td>418</td><td>Nis</td></tr><tr><td></td><td></td><td>415</td><td>Pristina</td></tr><tr><td></td><td></td><td>493</td><td>Novi Sad</td></tr><tr><td></td><td></td><td>494</td><td>Zrenjanin</td></tr><tr><td></td><td></td><td>413</td><td>Skopje</td></tr><tr><td></td><td></td><td>414</td><td>Stip</td></tr></tbody></table>
+\
+
+---
+
+Country Required Provinces Extra Provinces  
+ Tag Name Id Name Capital Id name  
+ ALB Albania 390 Tirana C 415 Pristina  
+ 391 Vlorë  
+ ARM Armenia 1856 Yerevan C 1851 Kars  
+ 1858 Kirovabad  
+ AUS Austria 373 Lech  
+ 377 Innsbruck  
+ 460 Graz  
+ 461 Klagenfurt  
+ 462 Salzburg  
+ 463 Vienna C  
+ 464 Hollabrunn  
+ 465 Linz  
+ AZB Azerbaijan 1907 Baku C 1859 Tabriz  
+ 1858 Kirovabad  
+ 1857 Makhachkala  
+ BEL Belgium 45 Ghent 1095 Banana  
+ 50 Antwerp 1142 Léopoldville  
+ 51 Brussels C 1071 Stanleyville  
+ 52 Mons 1072 Buta  
+ 65 Namur 1073 Costermanville  
+ 68 Liège 1074 Coquihatville  
+ 69 Bastogne 1143 Kindu-Port-Empain  
+ 70 Arlon 1144 Albertville  
+ 1127 Élisabethville  
+ 1098 Luluabourg  
+ BLR Byelorussia 212 Minsk C 273 Gomel  
+ 221 Bobraisk 274 Rogachev  
+ 225 Mozyr 209 Grodno  
+ 218 Orsha 211 Lida  
+ 220 Mogilev 213 Molodeczno  
+ 272 Zhlobin 214 Swieciany  
+ 210 Baranowicze  
+ 222 Luniniec  
+ 503 Pinsk  
+ 504 Brest Litovsk  
+ 507 Slonim  
+ BOS Bosnia 385 Zenica 387 Mostar  
+ 386 Sarajevo C  
+ BUL Bulgaria 419 Vraca 423 Constanta  
+ 420 Pleven 413 Skopje  
+ 422 Varna 414 Stip  
+ 421 Plovdiv 412 Edessa  
+ 417 Sofia C 411 Salonika  
+ 416 Gorna Dzhumaya 410 Kavala  
+ CRO Croatia 382 Zagreb C 381 Rijeka  
+ 383 Banja Luka 384 Split  
+ 387 Mostar  
+ 388 Dubrovnik  
+ CYP Cyprus 444 Cyprus C  
+ CZE Czechoslovakia 470 Pilsen 471 Ústí  
+ 469 Prague C 472 Liberec  
+ 468 Kutna Hora 466 Strakonice  
+ 467 Tábor  
+ 474 Ostrava  
+ 475 Brno  
+ 478 Zilina  
+ 477 Banská Bystrica  
+ 490 Kosice  
+ 499 Presov  
+ 476 Bratislava  
+ DDR DDR 298 Magdeburg 80 Wilhelmshafen  
+ 299 Potsdam 81 Münster  
+ 300 Berlin C 82 Kassel  
+ 301 Stralsund 83 Schweinfurt  
+ 296 Rostock 84 Erfurt  
+ 297 Wolfsburg 85 Göttingen  
+ 310 Leipzig 86 Hannover  
+ 309 Cottbus 87 Bremen  
+ 311 Dresden 88 Hamburg  
+ 89 Lübeck  
+ 90 Kiel  
+ 312 Nuremberg  
+ 313 Frankfurt-am-Main  
+ 314 Stuttgart  
+ 315 Freiburg  
+ 375 Regensburg  
+ 376 Munich  
+ 374 Friedrichshafen  
+ 76 Dortmund  
+ 67 Essen  
+ 75 Cologne  
+ 74 Saarbrücken  
+ 66 Aachen  
+ DEN Denmark 92 Århus 91 Kolding  
+ 292 Aalborg 295 Bornholm  
+ 293 Odense 800 Greenland  
+ 294 Copenhagen C  
+ DFR FRG 80 Wilhelmshafen 298 Magdeburg  
+ 81 Münster 299 Potsdam  
+ 82 Kassel 300 Berlin  
+ 83 Schweinfurt 301 Stralsund  
+ 84 Erfurt 296 Rostock  
+ 85 Göttingen 297 Wolfsburg  
+ 86 Hannover 310 Leipzig  
+ 87 Bremen 309 Cottbus  
+ 88 Hamburg 311 Dresden  
+ 89 Lübeck  
+ 90 Kiel  
+ 312 Nuremberg  
+ 313 Frankfurt-am-Main  
+ 314 Stuttgart  
+ 315 Freiburg  
+ 375 Regensburg  
+ 376 Munich  
+ 374 Friedrichshafen  
+ 76 Dortmund  
+ 67 Essen  
+ 75 Cologne C  
+ 74 Saarbrücken  
+ 66 Aachen  
+ ENG United Kingdom 11 Sunderland 3 Stornoway  
+ 12 Blackpool 5 Scapa Flow  
+ 13 Sheffield 6 Inverness  
+ 14 Liverpool 7 Aberdeen  
+ 15 Cardiff 8 Dunfermline  
+ 16 Birmingham 9 Glasgow  
+ 17 Norwich 10 Edinburgh  
+ 19 London C  
+ 20 Dover  
+ 21 Portsmouth  
+ 22 Bristol  
+ 23 Plymouth  
+ EST Estonia 193 Narva 198 Gulbene  
+ 194 Tallinn C  
+ 195 Tartu  
+ 196 Pärnu  
+ 199 Voru  
+ EUS Euskadi 331 Bilbao C 330 Saragossa  
+ 326 Dax  
+ FIN Finland 103 Åland 145 Viipuri  
+ 141 Turku 146 Sortavala  
+ 142 Helsinki C 152 Petrozavodsk  
+ 140 Pori  
+ 143 Tampere  
+ 138 Vaasa  
+ 139 Seinäjoki  
+ 137 Oulu  
+ 131 Tornio  
+ 130 Rovaniemi  
+ 132 Petsamo  
+ 136 Kajaani  
+ 148 Kuopio  
+ 147 Jyväskylä  
+ 144 Mikkeli  
+ 149 Joensuu  
+ FLA Flanders 45 Ghent 49 Eindhoven  
+ 50 Antwerp 46 Rotterdam  
+ 51 Brussels C 44 Lille  
+ 43 Dunkerque  
+ 18 Calais  
+ FRA France 529 Besançon 316 Mulhouse  
+ 365 Toulon 73 Strasbourg  
+ 364 Marseille 72 Metz  
+ 363 Nîmes 53 Valenciennes  
+ 362 Montpellier 44 Lille  
+ 358 Perpignan 43 Dunkerque  
+ 328 Pau 18 Calais  
+ 327 Auch 366 Nice  
+ 326 Dax 527 Grenoble  
+ 325 Bordeaux 367 Corsica  
+ 324 Bergerac  
+ 359 Toulouse  
+ 361 Saint-Etienne  
+ 322 Limoges  
+ 323 La Rochelle  
+ 59 Cholet  
+ 60 Tours  
+ 61 Bourges  
+ 62 Auxerre  
+ 63 Troyes  
+ 318 Dijon  
+ 317 Chaumont  
+ 64 Reims  
+ 54 Amiens  
+ 42 Dieppe  
+ 55 Compiègne  
+ 41 Le Havre  
+ 56 Paris C  
+ 57 Orléans  
+ 58 Le Mans  
+ 32 Brest  
+ 33 Rennes  
+ 34 Lorient  
+ 35 Nantes  
+ 36 Angers  
+ 37 Avranches  
+ 38 Cherbourg  
+ 39 Caen  
+ 40 Argentan  
+ 320 Vichy  
+ 321 Châteauroux  
+ 528 Lyon  
+ 319 Chalon-sur-Saône  
+ 360 Clermont-Ferrand  
+ GEO Georgia 1848 Batum 1845 Tuapse  
+ 1850 Tblisi C 1844 Maikop  
+ 1849 Nalchik  
+ GER Germany 66 Aachen 473 Breslau  
+ 67 Essen 482 Oppeln  
+ 74 Saarbrücken 308 Küstrin  
+ 75 Cologne 302 Stettin  
+ 76 Dortmund 304 Elbing  
+ 80 Wilhelmshafen 510 Königsberg  
+ 81 Münster 72 Metz  
+ 82 Kassel 73 Strasbourg  
+ 83 Schweinfurt 316 Mulhouse  
+ 84 Erfurt 71 Luxembourg  
+ 85 Göttingen  
+ 86 Hannover  
+ 87 Bremen  
+ 88 Hamburg  
+ 89 Lübeck  
+ 90 Kiel  
+ 296 Rostock  
+ 297 Wolfsburg  
+ 298 Magdeburg  
+ 299 Potsdam  
+ 300 Berlin C  
+ 301 Stralsund  
+ 302 Stettin  
+ 309 Cottbus  
+ 310 Leipzig  
+ 311 Dresden  
+ 312 Nuremberg  
+ 313 Frankfurt-am-Main  
+ 314 Stuttgart  
+ 315 Freiburg  
+ 374 Friedrichshafen  
+ 375 Regensburg  
+ 376 Munich  
+ GRE Greece 394 Patras 396 Crete  
+ 395 Corinthe 402 Agrinio  
+ 401 Athens C 403 Larisa  
+ 393 Kefalonia  
+ 410 Kavala  
+ 411 Salonika  
+ 412 Edessa  
+ 392 Ioannina  
+ 400 The Cyclades  
+ 405 The Dardanelles  
+ 398 Dodecanese  
+ 399 Rhodes  
+ 413 Skopje  
+ 444 Cyprus  
+ HOL Netherlands 47 Amsterdam C 46 Rotterdam  
+ 48 Utrecht 49 Eindhoven  
+ 77 Arnhem 801 Curacao  
+ 78 Leeuwarden  
+ 79 Groningen  
+ HUN Hungary 456 Pecs 427 Sibiu  
+ 457 Budapest C 428 Cluj-Napoca  
+ 458 Györ 429 Bacau  
+ 491 Miskolc 430 Brasov  
+ 492 Szeged 496 Arad  
+ 497 Debrecen 498 Satu Mare  
+ 499 Presov  
+ ICL Iceland 1 Reykjavik C  
+ 2 Höfn  
+ IRE Ireland 27 Letterkenny 29 Portadown  
+ 26 Sligo 28 Belfast  
+ 25 Galway  
+ 24 Cork  
+ 30 Dublin C  
+ ITA Italy 525 Palermo 371 Trento  
+ 526 Catania  
+ 524 Reggio di Calabria  
+ 523 Taranto  
+ 522 Potenza  
+ 521 Naples  
+ 520 Foggia  
+ 519 Anzio  
+ 518 Cassino  
+ 517 Pescara  
+ 516 Perugia  
+ 515 Rome  
+ 513 Florence  
+ 514 Rimini  
+ 512 Bologna  
+ 379 Ferrara  
+ 369 La Spezia  
+ 368 Genoa  
+ 531 Turin  
+ 370 Milan  
+ 378 Venice  
+ 534 Sardinia  
+ LAT Latvia 203 Jekapils 214 Swieciany  
+ 204 Jelgava  
+ 205 Mazirbe  
+ 197 Riga C  
+ 202 Dagaupulis  
+ LIT Lithuania 207 Kaunas 209 Grodno  
+ 208 Wilno C 206 Memel  
+ 511 Alytus  
+ 577 Siauliau  
+ LUX Luxemburg 71 Luxembourg C 70 Arlon  
+ 69 Bastogne  
+ MTN Montenegro 389 Podgorica C  
+ NOR Norway 107 Oslo C  
+ 108 Kristiansand  
+ 109 Stavanger  
+ 110 Bergen  
+ 111 Hamar  
+ 116 Röros  
+ 117 Ålesund  
+ 118 Trondheim  
+ 124 Mo i Rana  
+ 125 Narvik  
+ 128 Hammerfest  
+ 129 Vardö  
+ POL Poland 485 Warsaw C 303 Danzig  
+ 484 Radom 302 Stettin  
+ 480 Kielce 308 Küstrin  
+ 487 Lublin 473 Breslau  
+ 488 Zamosc 482 Oppeln  
+ 489 Przemysl 306 Bydgoszcz  
+ 307 Poznan  
+ 483 Lodz  
+ 481 Czestochowa  
+ 480 Kielce  
+ 479 Cracow  
+ 305 Torun  
+ 304 Elbing  
+ 486 Lomza  
+ POR Portugal 335 Oporto  
+ 336 Lissabon C  
+ 337 Guarda  
+ 344 Evora  
+ 345 Faro  
+ ROM Romania 423 Constanta 230 Beltsy  
+ 424 Bucharest C 434 Chisinev  
+ 425 Pitesti 428 Cluj-Napoca  
+ 431 Ploesti 498 Satu Mare  
+ 426 Craiova 423 Constanta  
+ 495 Timisoara  
+ 496 Arad  
+ 427 Sibiu  
+ 429 Bacau  
+ 430 Brasov  
+ 432 Braila  
+ 436 Tulcea  
+ 433 Iasi  
+ 435 Ismail  
+ RSI Italian Social Republic 370 Milan C 371 Trento  
+ 378 Venice  
+ 379 Ferrara  
+ 512 Bologna  
+ 513 Florence  
+ 514 Rimini  
+ 515 Rome C
+516 Perugia  
+ 517 Pescara  
+ 531 Turin  
+ 368 Genoa  
+ 369 La Spezia  
+ 518 Cassino  
+ 519 Anzio  
+ 520 Foggia  
+ 521 Naples  
+ 522 Potenza  
+ 523 Taranto  
+ 524 Reggio di Calabria  
+ 525 Palermo  
+ 526 Catania  
+ 534 Sardinia  
+ RUS Russia 187 Leningrad C 1771 Mezen  
+ 175 Moscow 1840 Kotlas  
+ 163 Stalingrad 1841 Velikij Ustyug  
+ 219 Smolensk 165 Konosha  
+ 1832 Saratov 153 Molotovsk  
+ 200 Pskov 151 Segezha  
+ 133 Murmansk 152 Petrozavodsk  
+ 154 Archangelsk 150 Kem  
+ 283 Voronezh 135 Kandalaksja  
+ 282 Orel 134 Kola  
+ 178 Yaroslavl 1838 Astrakhan  
+ 189 Novgorod 1847 Grozny  
+ 278 Tula 1846 Voroshilovsk  
+ 243 Kursk 1843 Armavil  
+ 255 Novorossisk  
+ 256 Krasnodar  
+ 257 Tikhoretsk  
+ 270 Salsk  
+ 1842 Bashanta  
+ 1837 Elista  
+ 271 Kotelnikovo  
+ 164 Cherny Yar  
+ 1833 Enotaevka  
+ 1834 Krasnya Sloboda  
+ 1836 Elton  
+ 1839 Novouzensk  
+ 1835 Nikolayevsk  
+ 1829 Engels  
+ 1831 Nikolayevka  
+ 1830 Syzran  
+ 1777 Saransk  
+ 1778 Ulyanovsk  
+ 1776 Cheboksary  
+ 1775 Yoskar Ola  
+ 1780 Kazan  
+ 1781 Melekess  
+ 1783 Kirov  
+ 1774 Kotelnich  
+ 162 Kalach  
+ 161 Surovikino  
+ 160 Frolovo  
+ 159 Kamyshin  
+ 157 Uryupinsk  
+ 156 Balashov  
+ 158 Kuznetsk  
+ 155 Penza  
+ 169 Arzamas  
+ 168 Gorkij  
+ 167 Ivanovo  
+ 179 Murom  
+ 180 Vladimir  
+ 166 Kostroma  
+ 177 Danilov  
+ 170 Totma  
+ 171 Volodga  
+ 172 Cherepovets  
+ 173 Bezhetsk  
+ 174 Kalinin  
+ 176 Rybinsk  
+ 181 Kaluga  
+ 182 Mozhaisk  
+ 183 Vytegra  
+ 184 Tikhvin  
+ 190 Staraya Russa  
+ 191 Porkhov  
+ 185 Volkhov  
+ 186 Luga  
+ 188 Kingisepp  
+ 192 Gdov  
+ 201 Opochka  
+ 275 Roslavl  
+ 276 Klintsy  
+ 277 Bryansk  
+ 279 Ryazan  
+ 280 Tambov  
+ 281 Lipetsk  
+ 284 Borisglebsk  
+ 258 Rostov  
+ 259 Kamensk-Shakhtinski  
+ 262 Ostrogozhsk  
+ 261 Rossosh  
+ 269 Konstatinovsk  
+ 268 Morozovsk  
+ 267 Bokovskaya  
+ 266 Kashary  
+ 265 Boguchar  
+ 264 Pavlovsk  
+ 263 Svoboda  
+ 94 Noginsk  
+ 215 Novorzhev  
+ 216 Nevel  
+ 217 Vitebsk  
+ 285 Vyazma  
+ 286 Toropets  
+ 287 Velikiye Luki  
+ 288 Rzhev  
+ 289 Demyansk  
+ 1874 Polotsk  
+ 1531 Norilsk  
+ 1532 Tura  
+ 1533 Igarka  
+ 1534 Poloi  
+ 1535 Angutikha  
+ 1536 Turukhansk  
+ 1537 Baikit  
+ 1538 Severo-Yenisejsk  
+ 1539 Yenisejsk  
+ 1540 Kolpachevo  
+ 1543 Kargasok  
+ 1544 Tomsk  
+ 1545 Asino  
+ 1546 Kemerovo  
+ 1547 Barnaul  
+ 1549 Rubcovsk  
+ 1558 Ojrot-Tura  
+ 1559 Abakan  
+ 1560 Krasnoyarsk  
+ 1561 Achinsk  
+ 1412 Bodaibo  
+ 1413 Kachug  
+ 1414 Ust-Kut  
+ 1415 Taishet  
+ 1416 Irkutsk  
+ 1417 Shushenskoye  
+ 1520 Ulan-Ude  
+ 1522 Mogocha  
+ 1521 Barguzin  
+ 1383 Borzya  
+ 1384 Chita  
+ 1156 Dudinka  
+ 1157 Khatanga  
+ 1158 Saskylakh  
+ 1159 Srednekolymsk  
+ 1160 Zhigansk  
+ 1161 Nyurba  
+ 1162 Erbogachen  
+ 1163 Yakutsk  
+ 1562 Kezhma  
+ 1563 Vanavara  
+ 1409 Maya  
+ 1410 Aldan  
+ 1411 Olekminsk  
+ 1594 Tobolsk  
+ 1523 Tynda  
+ 1164 Khandyga  
+ 1165 Verkhoyansk  
+ 1155 Tazov  
+ 1541 Nizhnevartovsk  
+ 1542 Aleksandrovskoye  
+ 1548 Novosibirsk  
+ 1552 Omsk  
+ 1593 Tyumen  
+ 1596 Surgut  
+ 1598 Tarko-Sale  
+ SCH Switzerland 532 Bern C  
+ 530 Geneva  
+ 533 Zürich  
+ 372 Chur  
+ SCA Scandinavia 112 Ludvika 91 Kolding  
+ 126 Kiruna 295 Bornholm  
+ 127 Luleå 800 Greenland  
+ 123 Gällivare 1 Reykjavik  
+ 122 Umeå 2 Höfn  
+ 121 Vilhelmina  
+ 120 Sundsvall  
+ 119 Östersund  
+ 115 Sveg  
+ 113 Falun  
+ 114 Gävle  
+ 106 Åmål  
+ 105 Karlstad  
+ 104 Västerås  
+ 102 Uppsala  
+ 101 Stockholm C  
+ 100 Norrköping  
+ 99 Skövde  
+ 98 Göteborg  
+ 97 Jönköping  
+ 93 Malmö  
+ 95 Karlskrona  
+ 96 Gotland  
+ 92 Århus  
+ 292 Aalborg  
+ 293 Odense  
+ 294 Copenhagen  
+ 107 Oslo  
+ 108 Kristiansand  
+ 109 Stavanger  
+ 110 Bergen  
+ 111 Hamar  
+ 116 Röros  
+ 117 Ålesund  
+ 118 Trondheim  
+ 124 Mo i Rana  
+ 125 Narvik  
+ 128 Hammerfest  
+ 129 Vardö  
+ SCO Scotland 3 Stornoway  
+ 5 Scapa Flow  
+ 6 Inverness  
+ 7 Aberdeen  
+ 8 Dunfermline  
+ 9 Glasgow  
+ 10 Edinburgh C  
+ SER Serbia 453 Belgrade C 415 Pristina  
+ 451 Novi Pazar 418 Nis  
+ 494 Zrenjanin  
+ 493 Novi Sad  
+ 454 Osijek  
+ SLO Slovakia 478 Zilina 499 Presov  
+ 477 Banská Bystrica C  
+ 490 Kosice  
+ 476 Bratislava  
+ SLV Slovenia 380 Ljubljana C  
+ SOV Soviet Union 266 Kashary 1372 Vladivostok  
+ 269 Konstatinovsk 1373 Spassk-Dalnij  
+ 258 Rostov 1371 Tetyukhe  
+ 1576 Kostanai 1370 Iman  
+ 1169 0 1369 Ternei  
+ 1773 Syktyvkar 1367 Khabarovsk  
+ 1772 Ukhta 1366 Bogorodskoe  
+ 1771 Mezen 1527 Nikolayevsk-na-Amure  
+ 154 Archangelsk 1529 Birobidzhan  
+ 1840 Kotlas 1528 Blagoveshchensk  
+ 1841 Velikij Ustyug 1526 Chumikan  
+ 165 Konosha 1523 Tynda  
+ 153 Molotovsk 1410 Aldan  
+ 151 Segezha 1525 Okhotsk  
+ 152 Petrozavodsk 1524 Magadan  
+ 150 Kem 1409 Maya  
+ 135 Kandalaksja 1164 Khandyga  
+ 134 Kola 1165 Verkhoyansk  
+ 133 Murmansk 1166 Pevek  
+ 1838 Astrakhan 1167 Evensk  
+ 1847 Grozny 1170 Anadyr  
+ 1846 Voroshilovsk 1171 Palana  
+ 1843 Armavil 1172 Petropavlovsk-Kamchatskij  
+ 255 Novorossisk 1405 Komanderskiye Island  
+ 256 Krasnodar 1174 Shumushushima  
+ 257 Tikhoretsk 1175 Ocha  
+ 270 Salsk 1522 Mogocha  
+ 1842 Bashanta 1521 Barguzin  
+ 1837 Elista 1384 Chita  
+ 271 Kotelnikovo 1383 Borzya  
+ 164 Cherny Yar 1520 Ulan-Ude  
+ 1833 Enotaevka 1416 Irkutsk  
+ 1834 Krasnya Sloboda 1415 Taishet  
+ 1836 Elton 1414 Ust-Kut  
+ 1839 Novouzensk 1413 Kachug  
+ 1835 Nikolayevsk 1162 Erbogachen  
+ 1829 Engels 1412 Bodaibo  
+ 1832 Saratov 1411 Olekminsk  
+ 1831 Nikolayevka 1163 Yakutsk  
+ 1830 Syzran 1159 Srednekolymsk  
+ 1777 Saransk 1160 Zhigansk  
+ 1778 Ulyanovsk 1158 Saskylakh  
+ 1776 Cheboksary 1417 Shushenskoye  
+ 1775 Yoskar Ola 1558 Ojrot-Tura  
+ 1780 Kazan 1557 Bijsk  
+ 1781 Melekess 1423 Ziryanovsk  
+ 1782 Izhevsk 1556 Ust-Kamenogorsk  
+ 1783 Kirov 1550 Semipalatinsk  
+ 1774 Kotelnich 1549 Rubcovsk  
+ 163 Stalingrad 1547 Barnaul  
+ 162 Kalach 1546 Kemerovo  
+ 161 Surovikino 1559 Abakan  
+ 160 Frolovo 1561 Achinsk  
+ 159 Kamyshin 1560 Krasnoyarsk  
+ 157 Uryupinsk 1562 Kezhma  
+ 156 Balashov 1563 Vanavara  
+ 158 Kuznetsk 1532 Tura  
+ 155 Penza 1537 Baikit  
+ 169 Arzamas 1538 Severo-Yenisejsk  
+ 168 Gorkij 1545 Asino  
+ 167 Ivanovo 1544 Tomsk  
+ 179 Murom 1548 Novosibirsk  
+ 180 Vladimir 1543 Kargasok  
+ 166 Kostroma 1540 Kolpachevo  
+ 178 Yaroslavl 1539 Yenisejsk  
+ 177 Danilov 1536 Turukhansk  
+ 170 Totma 1535 Angutikha  
+ 171 Volodga 1533 Igarka  
+ 172 Cherepovets 1534 Poloi  
+ 173 Bezhetsk 1157 Khatanga  
+ 174 Kalinin 1531 Norilsk  
+ 175 Moscow C 1156 Dudinka  
+ 176 Rybinsk 1155 Tazov  
+ 181 Kaluga 1154 Salekhard  
+ 182 Mozhaisk 1565 Saranpaul  
+ 183 Vytegra 1564 Muzhi  
+ 184 Tikhvin 1571 Serov  
+ 190 Staraya Russa 1597 Khanty-Mansijsk  
+ 191 Porkhov 1598 Tarko-Sale  
+ 189 Novgorod 1554 Karaganda  
+ 185 Volkhov 1555 Balkhash  
+ 186 Luga 1553 Ekibastuz  
+ 187 Leningrad 1552 Omsk  
+ 188 Kingisepp 1594 Tobolsk  
+ 192 Gdov 1596 Surgut  
+ 200 Pskov 1573 Nizhnij Tagil  
+ 201 Opochka 1593 Tyumen  
+ 275 Roslavl 1592 Petropavlovsk  
+ 276 Klintsy 1591 Kokchetav  
+ 277 Bryansk 1590 Akmolinsk  
+ 278 Tula 1589 Samarkandskij  
+ 279 Ryazan 1588 Zhezkazgan  
+ 280 Tambov 1587 Baikonur  
+ 281 Lipetsk 1424 Zhambyl  
+ 282 Orel 1586 Kazalinsk  
+ 283 Voronezh 1585 Nukus  
+ 284 Borisglebsk 1584 Kungrad  
+ 262 Ostrogozhsk 1583 Fort Shevchenko  
+ 261 Rossosh 1581 Turgai  
+ 268 Morozovsk 1576 Kostanai  
+ 267 Bokovskaya 1575 Kurgan  
+ 265 Boguchar 1574 Chelyabinsk  
+ 264 Pavlovsk 1572 Sverdlovsk  
+ 263 Svoboda 1566 Berezniki  
+ 94 Noginsk 1567 Ufa  
+ 215 Novorzhev 1570 Chkalov  
+ 216 Nevel 1577 Orsk  
+ 219 Smolensk 1578 Aktyubinsk  
+ 285 Vyazma 1580 Chelkar  
+ 286 Toropets 1582 Aralsk  
+ 287 Velikiye Luki 1579 Kulsary  
+ 288 Rzhev 1569 Guriev  
+ 289 Demyansk 1568 Uralsk  
+ 1431 Aksu 1150 Osa  
+ 1430 Kashgar 1151 Molotov  
+ 1484 Feyzabad 1152 Storozhevsk  
+ 1874 Polotsk 1153 Troitsko-Pechorsk  
+ 94 Noginsk 1169 0  
+ 145 Viipuri 1773 Syktyvkar  
+ 146 Sortavala 1772 Ukhta  
+ 1418 Kyzyl 1771 Mezen  
+ 154 Archangelsk  
+ 1840 Kotlas  
+ 1841 Velikij Ustyug  
+ 165 Konosha  
+ 153 Molotovsk  
+ 151 Segezha  
+ 152 Petrozavodsk  
+ 150 Kem  
+ 135 Kandalaksja  
+ 134 Kola  
+ 133 Murmansk  
+ 1838 Astrakhan  
+ 1847 Grozny  
+ 1857 Makhachkala  
+ 1849 Nalchik  
+ 1850 Tblisi  
+ 1848 Batum  
+ 1845 Tuapse  
+ 1844 Maikop  
+ 1846 Voroshilovsk  
+ 1843 Armavil  
+ 255 Novorossisk  
+ 256 Krasnodar  
+ 257 Tikhoretsk  
+ 270 Salsk  
+ 1842 Bashanta  
+ 1837 Elista  
+ 271 Kotelnikovo  
+ 164 Cherny Yar  
+ 1833 Enotaevka  
+ 1834 Krasnya Sloboda  
+ 1836 Elton  
+ 1839 Novouzensk  
+ 1827 Naberezhnye Chelny  
+ 1828 Kuybyshev  
+ 1835 Nikolayevsk  
+ 1829 Engels  
+ 1832 Saratov  
+ 1831 Nikolayevka  
+ 1830 Syzran  
+ 252 Yevpatoriya  
+ 253 Sevastopol  
+ 254 Kerch  
+ 1777 Saransk  
+ 1778 Ulyanovsk  
+ 1776 Cheboksary  
+ 1775 Yoskar Ola  
+ 1780 Kazan  
+ 1781 Melekess  
+ 1782 Izhevsk  
+ 1783 Kirov  
+ 1774 Kotelnich  
+ 163 Stalingrad  
+ 162 Kalach  
+ 161 Surovikino  
+ 160 Frolovo  
+ 159 Kamyshin  
+ 157 Uryupinsk  
+ 156 Balashov  
+ 158 Kuznetsk  
+ 155 Penza  
+ 169 Arzamas  
+ 168 Gorkij  
+ 167 Ivanovo  
+ 179 Murom  
+ 180 Vladimir  
+ 166 Kostroma  
+ 178 Yaroslavl  
+ 177 Danilov  
+ 170 Totma  
+ 171 Volodga  
+ 172 Cherepovets  
+ 173 Bezhetsk  
+ 174 Kalinin  
+ 175 Moscow  
+ 176 Rybinsk  
+ 181 Kaluga  
+ 182 Mozhaisk  
+ 183 Vytegra  
+ 184 Tikhvin  
+ 190 Staraya Russa  
+ 191 Porkhov  
+ 189 Novgorod  
+ 185 Volkhov  
+ 186 Luga  
+ 187 Leningrad  
+ 188 Kingisepp  
+ 192 Gdov  
+ 200 Pskov  
+ 201 Opochka  
+ 212 Minsk  
+ 225 Mozyr  
+ 226 Korosten  
+ 227 Zhitomir  
+ 228 Vinnitsa  
+ 231 Mogilev Podolski  
+ 232 Balta  
+ 233 Odessa  
+ 234 Kherson  
+ 251 Perekop  
+ 250 Melitopol  
+ 235 Dnepropetrovsk  
+ 236 Krivoy Rog  
+ 237 Cherkassy  
+ 238 Kiev  
+ 239 Priluki  
+ 240 Vyshgorod  
+ 220 Mogilev  
+ 272 Zhlobin  
+ 241 Chernigov  
+ 273 Gomel  
+ 274 Rogachev  
+ 275 Roslavl  
+ 276 Klintsy  
+ 277 Bryansk  
+ 278 Tula  
+ 279 Ryazan  
+ 280 Tambov  
+ 281 Lipetsk  
+ 282 Orel  
+ 283 Voronezh  
+ 284 Borisglebsk  
+ 249 Stalino  
+ 258 Rostov  
+ 259 Kamensk-Shakhtinski  
+ 260 Bilovodsk  
+ 248 Kharkov  
+ 247 Belgorod  
+ 243 Kursk  
+ 262 Ostrogozhsk  
+ 261 Rossosh  
+ 269 Konstatinovsk  
+ 268 Morozovsk  
+ 267 Bokovskaya  
+ 266 Kashary  
+ 265 Boguchar  
+ 264 Pavlovsk  
+ 263 Svoboda  
+ 1490 Ashgabat  
+ 1491 Chardzhou  
+ 1485 Stalinabad  
+ 1487 Samarkand  
+ 1488 Navoi  
+ 1427 Tashkent  
+ 1428 Osh  
+ 1426 Kzyl-Orda  
+ 1425 Chimkent  
+ 1429 Frunze  
+ 94 Noginsk  
+ 215 Novorzhev  
+ 216 Nevel  
+ 217 Vitebsk  
+ 218 Orsha  
+ 219 Smolensk  
+ 221 Bobraisk  
+ 242 Konotop  
+ 244 Sumy  
+ 245 Poltava  
+ 246 Zaporozhye  
+ 285 Vyazma  
+ 286 Toropets  
+ 287 Velikiye Luki  
+ 288 Rzhev  
+ 289 Demyansk  
+ 1149 Vorkuta  
+ 1161 Nyurba  
+ 1368 Komsomolsk-na-Amure  
+ 1422 Alma-Ata  
+ 1489 Bukhara  
+ 1856 Yerevan  
+ 1858 Kirovabad  
+ 1907 Baku  
+ 1541 Nizhnevartovsk  
+ 1542 Aleksandrovskoye  
+ 1551 Pavlodar  
+ 1874 Polotsk  
+ SPA Nationalist Spain 334 La Coruña 348 Gibraltar  
+ 333 Burgos C 331 Bilbao  
+ 340 Sigüenza 332 Oviedo  
+ 330 Saragossa 341 Madrid  
+ 329 Huesca 342 Guadalajara  
+ 339 Valladolid 343 Badajoz  
+ 338 Salamanca 346 Huelva  
+ 347 Seville 349 Málaga  
+ 954 Melilla 350 Almería  
+ 955 Villa Sanjuro 351 Jaén  
+ 957 Ceuta 352 Murcia  
+ 961 Lanzarote 353 Albacete  
+ 962 Fuerteventura 354 València  
+ 963 Gran Canaria 355 Castellón  
+ 964 Tenerife 356 Tarragona  
+ 965 La Palma 357 Barcelona  
+ 535 Mallorca 536 Menorca  
+ 537 Ibiza  
+ 967 Ifni  
+ 971 El Aaiún  
+ 972 Villa Cisneros  
+ 1091 Bata  
+ SPR Republican Spain 329 Huesca 348 Gibraltar  
+ 330 Saragossa  
+ 331 Bilbao  
+ 332 Oviedo  
+ 333 Burgos  
+ 334 La Coruña  
+ 338 Salamanca  
+ 339 Valladolid  
+ 340 Sigüenza  
+ 341 Madrid C  
+ 342 Guadalajara  
+ 343 Badajoz  
+ 346 Huelva  
+ 347 Seville  
+ 349 Málaga  
+ 350 Almería  
+ 351 Jaén  
+ 352 Murcia  
+ 353 Albacete  
+ 354 València  
+ 355 Castellón  
+ 356 Tarragona  
+ 357 Barcelona  
+ 535 Mallorca  
+ 536 Menorca  
+ 537 Ibiza  
+ 961 Lanzarote  
+ 962 Fuerteventura  
+ 963 Gran Canaria  
+ 964 Tenerife  
+ 965 La Palma  
+ 954 Melilla  
+ 955 Villa Sanjuro  
+ 957 Ceuta  
+ 967 Ifni  
+ 971 El Aaiún  
+ 972 Villa Cisneros  
+ 1091 Bata  
+ SWE Sweden 112 Ludvika  
+ 126 Kiruna  
+ 127 Luleå  
+ 123 Gällivare  
+ 122 Umeå  
+ 121 Vilhelmina  
+ 120 Sundsvall  
+ 119 Östersund  
+ 115 Sveg  
+ 113 Falun  
+ 114 Gävle  
+ 106 Åmål  
+ 105 Karlstad  
+ 104 Västerås  
+ 102 Uppsala  
+ 101 Stockholm C  
+ 100 Norrköping  
+ 99 Skövde  
+ 98 Göteborg  
+ 97 Jönköping  
+ 93 Malmö  
+ 95 Karlskrona  
+ 96 Gotland  
+ UKR Ukraine 227 Zhitomir 506 Kowel  
+ 228 Vinnitsa 501 Lvov  
+ 231 Mogilev Podolski 229 Stanislawow  
+ 232 Balta 502 Tarnopol  
+ 233 Odessa 562 Rowne  
+ 234 Kherson 500 Stryj  
+ 226 Korosten 252 Yevpatoriya  
+ 260 Bilovodsk 254 Kerch  
+ 235 Dnepropetrovsk 253 Sevastopol  
+ 236 Krivoy Rog 499 Presov  
+ 237 Cherkassy  
+ 238 Kiev C  
+ 239 Priluki  
+ 240 Vyshgorod  
+ 242 Konotop  
+ 244 Sumy  
+ 245 Poltava  
+ 246 Zaporozhye  
+ 247 Belgorod  
+ 248 Kharkov  
+ 249 Stalino  
+ 250 Melitopol  
+ 251 Perekop  
+ 241 Chernigov  
+ VIC Vichy France 319 Chalon-sur-Saône 956 Oujda  
+ 320 Vichy C 969 Bouarfa  
+ 321 Châteauroux 968 Ouezzane  
+ 322 Limoges 959 Marrakech  
+ 324 Bergerac 958 Casablanca  
+ 327 Auch 960 Mogador  
+ 328 Pau 966 Agadir  
+ 358 Perpignan 1014 Fort Laperrine  
+ 359 Toulouse 970 Géryville  
+ 360 Clermont-Ferrand 1013 El-Oued  
+ 361 Saint-Etienne 943 Constantine  
+ 362 Montpellier 942 Bône  
+ 363 Nîmes 945 Philippeville  
+ 364 Marseille 944 Sétif  
+ 528 Lyon 946 Bougie  
+ 529 Besançon 947 Blida  
+ 367 Corsica 949 Algiers  
+ 365 Toulon 948 Mascara  
+ 366 Nice 951 Sidi-Bel-Abbès  
+ 527 Grenoble 950 Mostaganem  
+ 952 Tlemcen  
+ 953 Oran  
+ 935 Gabès  
+ 934 Gafsa  
+ 936 Sfax  
+ 938 Sousse  
+ 937 Kassarine  
+ 939 Tunis  
+ 940 Bizerte  
+ 941 Tabarka  
+ 1862 Aleppo  
+ 1861 Dair az Zawr  
+ 1863 Hims  
+ 1792 Damascus  
+ 1793 Tripoli  
+ 1794 Beirut  
+ 1795 Golan  
+ 1134 Fianarantsoa  
+ 1137 Tananarive  
+ 1338 Rach Gia  
+ 1339 Battambang  
+ 1340 Phnom Penh  
+ 1337 Saigon  
+ 1335 Nha Trang  
+ 1336 Pakse  
+ 1334 Qui Non  
+ 1333 Da Nang  
+ 1332 Nhommarath  
+ 1341 Ubon Ratchthani  
+ 1329 Vientiane  
+ 1328 Hanoi  
+ 1306 Luang Prabang  
+ 1326 Haiphong  
+ 1081 Largeau  
+ 1082 Tibesti  
+ 1083 Agadez  
+ WLL Wallonia 52 Mons 53 Valenciennes  
+ 65 Namur  
+ 68 Liège C  
+ YUG Yugoslavia 380 Ljubljana  
+ 459 Maribor  
+ 455 Bjelovar  
+ 454 Osijek C  
+ 453 Belgrade  
+ 382 Zagreb  
+ 381 Rijeka  
+ 383 Banja Luka  
+ 384 Split  
+ 385 Zenica  
+ 386 Sarajevo  
+ 387 Mostar  
+ 388 Dubrovnik  
+ 389 Podgorica  
+ 451 Novi Pazar  
+ 452 Uzice  
+ 418 Nis  
+ 415 Pristina  
+ 493 Novi Sad  
+ 494 Zrenjanin  
+ 413 Skopje  
+ 414 Stip
+
+---
+
+:::

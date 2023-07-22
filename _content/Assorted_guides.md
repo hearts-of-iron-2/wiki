@@ -2,8 +2,2357 @@
 title: Assorted_guides
 ---
 
-<table cellpadding="10"><tbody><tr valign="top"><td><h2><span id="General_guides_&amp;_FAQ"></span><span class="mw-headline" id="General_guides_.26_FAQ">General guides &amp; FAQ</span></h2><ul><li><a href="/wiki/The_Complete_Newbie_Guide" title="The Complete Newbie Guide">The Complete Newbie Guide</a></li><li><a href="/wiki/General_Gameplay_FAQ" title="General Gameplay FAQ">General Gameplay FAQ</a></li><li><a href="/wiki/Brigade_Strategy_Guide" title="Brigade Strategy Guide">Brigade Strategy Guide</a></li><li><a href="/wiki/Nuclear_Weapons" title="Nuclear Weapons">Nuclear Weapons</a></li><li><a class="external text" href="https://forum.paradoxplaza.com/forum/index.php?forums/hoi2-faq.287/" rel="nofollow">Paradox Plaza FAQ subforum</a></li><li><a href="/wiki/Battle_mechanics_and_formulas" title="Battle mechanics and formulas">Battle mechanics and formulas</a></li></ul></td><td><h2><span id="Domestic_policy_&amp;_economy"></span><span class="mw-headline" id="Domestic_policy_.26_economy">Domestic policy &amp; economy</span></h2><ul><li><a href="/wiki/Domestic_Policy" title="Domestic Policy">Domestic Policy</a></li><li><a href="/wiki/Upgrading_calculations" title="Upgrading calculations">Upgrades</a></li><li><a href="/wiki/Research" title="Research">Research</a></li><li><a href="/wiki/Do_I_build_Factories%3F" title="Do I build Factories?">Expanding Industrial Capacity</a></li></ul></td></tr><tr valign="top"><td><h2><span class="mw-headline" id="Land_guides">Land guides</span></h2><ul><li><a href="/wiki/Beginner%27s_guide_to_army_management" title="Beginner's guide to army management">Beginner's guide to army management</a></li><li><a href="/wiki/Transport_Capacity_and_Supply_Efficiency_FAQ" title="Transport Capacity and Supply Efficiency FAQ">Transport Capacity and Supply Efficiency</a></li><li><a href="/wiki/HQ_Units_in_Action" title="HQ Units in Action">HQ Units</a></li><li><a href="/wiki/Land_Combat_Efficiency" title="Land Combat Efficiency">Land Combat Efficiency</a></li><li><a href="/wiki/Land_Doctrine" title="Land Doctrine">Land Doctrine</a></li><li><a href="/wiki/Conquering_-_What_do_I_gain%3F" title="Conquering - What do I gain?">Conquered Territories</a></li><li><a href="/wiki/Poor_man%27s_army" title="Poor man's army">Small nation armies</a></li><li><a href="/wiki/On_the_subject_of_ground_troop_investments" title="On the subject of ground troop investments">Comparison: Infantry, Motorized, or Mechanized?</a></li><li><a href="/wiki/Militia_Strategy_Guide" title="Militia Strategy Guide">Militia Strategy Guide</a></li><li><a href="/wiki/Conducting_Blitzkrieg_offensives" title="Conducting Blitzkrieg offensives">Conducting Blitzkrieg offensives</a></li></ul></td><td><h2><span id="Naval_&amp;_air_guides"></span><span class="mw-headline" id="Naval_.26_air_guides">Naval &amp; air guides</span></h2><ul><li><a href="/wiki/Naval_Primer" title="Naval Primer">Naval Primer</a></li><li><a href="/wiki/Submarine_Guide" title="Submarine Guide">Submarines</a></li><li><a href="/wiki/Naval_Doctrine" title="Naval Doctrine">Naval Doctrine</a></li><li><a href="/wiki/Effective_Use_of_Airpower" title="Effective Use of Airpower">Effective Use of Airpower</a></li></ul></td></tr></tbody></table>
+::: mw-parser-output
+\
 
-## [Country guides](/wiki/Country_guides "Country guides")
++-----------------------------------+-----------------------------------+
+| ## [ ]{#General*guides*&_F | ## [ ]{# |
+| AQ} [ General guides & FAQ ]{#Gen | Domestic_policy_&_economy} [ Dome |
+| eral_guides_.26*FAQ .mw-headline} | stic policy & economy ]{#Domestic |
+| | \_policy*.26*economy .mw-headline} |
+| - [The Complete Newbie | |
+| G | - [Domestic |
+| uide](/wiki/The_Complete_Newbie_G | Policy](/wiki/D |
+| uide "The Complete Newbie Guide") | omestic_Policy "Domestic Policy") |
+| - [General Gameplay | - |
+| FAQ](/wiki/General_Gam | [Upgrades](/wiki/Upgrading_calcu |
+| eplay_FAQ "General Gameplay FAQ") | lations "Upgrading calculations") |
+| - [Brigade Strategy | - [Res |
+| Guide](/wiki/Brigade_Strateg | earch](/wiki/Research "Research") |
+| y_Guide "Brigade Strategy Guide") | - [Expanding Industrial |
+| - [Nuclear | |
+| Weapons](/wiki/N | Capacity](/wiki/Do_I_build_Fact |
+| uclear_Weapons "Nuclear Weapons") | ories%3F "Do I build Factories?") |
+| - [Paradox Plaza FAQ | |
+| subforum](https://foru | |
+| m.paradoxplaza.com/forum/index.ph | |
+| p?forums/hoi2-faq.287/){.external | |
+| .text rel="nofollow"} | |
+| - [Battle mechanics and | |
+| formulas](/w | |
+| iki/Battle_mechanics_and_formulas | |
+| "Battle mechanics and formulas") | |
++-----------------------------------+-----------------------------------+
+| ## [ Land gu | ## [ ]{#Naval*&_air_ |
+| ides ]{#Land*guides .mw-headline} | guides} [ Naval & air guides ]{#N |
+| | aval*.26*air_guides .mw-headline} |
+| - [Beginner\'s guide to army | |
+| management](/wiki/Beginner%2 | - [Naval |
+| 7s_guide_to_army_management "Begi | Primer](/ |
+| nner's guide to army management") | wiki/Naval_Primer "Naval Primer") |
+| - [Transport Capacity and | - [Submarines](/wiki/S |
+| Supply | ubmarine_Guide "Submarine Guide") |
+| Efficiency] | - [Naval |
+| (/wiki/Transport_Capacity_and_Sup | Doctrine](/wiki |
+| ply_Efficiency_FAQ "Transport Cap | /Naval_Doctrine "Naval Doctrine") |
+| acity and Supply Efficiency FAQ") | - [Effective Use of |
+| - [HQ | Airp |
+| Units](/wiki/HQ_Unit | ower](/wiki/Effective_Use_of_Airp |
+| s_in_Action "HQ Units in Action") | ower "Effective Use of Airpower") |
+| - [Land Combat | |
+| | |
+| Efficiency](/wiki/Land_Combat_Eff | |
+| iciency "Land Combat Efficiency") | |
+| - [Land | |
+| Doctrine](/wi | |
+| ki/Land_Doctrine "Land Doctrine") | |
+| - [Conquered | |
+| Territories](/w | |
+| iki/Conquering*-\_What_do_I_gain%3 | |
+| F "Conquering - What do I gain?") | |
+| - [Small nation | |
+| armies](/wiki/Poo | |
+| r_man%27s_army "Poor man's army") | |
+| - [Comparison: Infantry, | |
+| Motorized, or | |
+| Mechaniz | |
+| ed?](/wiki/On_the_subject_of_grou | |
+| nd_troop_investments "On the subj | |
+| ect of ground troop investments") | |
+| - [Militia Strategy | |
+| Guide](/wiki/Militia_Strateg | |
+| y_Guide "Militia Strategy Guide") | |
+| - [Conducting Blitzkrieg | |
+| offensives](/wiki/Co | |
+| nducting_Blitzkrieg_offensives "C | |
+| onducting Blitzkrieg offensives") | |
++-----------------------------------+-----------------------------------+
 
-<table cellpadding="10"><tbody><tr valign="top"><td width="25%"><h3><span class="mw-headline" id="Major_powers">Major powers</span></h3><p>60 and above Base IC.</p><ul><li><span style="white-space:nowrap;"><a href="/wiki/France" title="France"><img alt="Flag of France" class="thumbborder" data-file-height="600" data-file-width="900" data-url="/images/thumb/d/de/France.png/20px-France.png" decoding="async" height="13" loading="lazy" src="/images/thumb/d/de/France.png/20px-France.png" srcset="/images/thumb/d/de/France.png/30px-France.png 1.5x, /images/thumb/d/de/France.png/40px-France.png 2x" width="20"> </a><a href="/wiki/France" title="France">France</a></span></li><li><span style="white-space:nowrap;"><a href="/wiki/Germany" title="Germany"><img alt="Flag of Germany" class="thumbborder" data-file-height="600" data-file-width="900" data-url="/images/thumb/9/9b/Germany.png/20px-Germany.png" decoding="async" height="13" loading="lazy" src="/images/thumb/9/9b/Germany.png/20px-Germany.png" srcset="/images/thumb/9/9b/Germany.png/30px-Germany.png 1.5x, /images/thumb/9/9b/Germany.png/40px-Germany.png 2x" width="20"> </a><a href="/wiki/Germany" title="Germany">Germany</a></span></li><li><span style="white-space:nowrap;"><a href="/wiki/Italy" title="Italy"><img alt="Flag of Italy" class="thumbborder" data-file-height="533" data-file-width="800" data-url="/images/thumb/2/2a/Italy.png/20px-Italy.png" decoding="async" height="13" loading="lazy" src="/images/thumb/2/2a/Italy.png/20px-Italy.png" srcset="/images/thumb/2/2a/Italy.png/30px-Italy.png 1.5x, /images/thumb/2/2a/Italy.png/40px-Italy.png 2x" width="20"> </a><a href="/wiki/Italy" title="Italy">Italy</a></span></li><li><span style="white-space:nowrap;"><a href="/wiki/Japan" title="Japan"><img alt="Flag of Japan" class="thumbborder" data-file-height="600" data-file-width="900" data-url="/images/thumb/f/fc/Japan.png/20px-Japan.png" decoding="async" height="13" loading="lazy" src="/images/thumb/f/fc/Japan.png/20px-Japan.png" srcset="/images/thumb/f/fc/Japan.png/30px-Japan.png 1.5x, /images/thumb/f/fc/Japan.png/40px-Japan.png 2x" width="20"> </a><a href="/wiki/Japan" title="Japan">Japan</a></span></li><li><span style="white-space:nowrap;"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="Flag of United Kingdom" class="thumbborder" data-file-height="600" data-file-width="900" data-url="/images/thumb/2/29/United_Kingdom.png/20px-United_Kingdom.png" decoding="async" height="13" loading="lazy" src="/images/thumb/2/29/United_Kingdom.png/20px-United_Kingdom.png" srcset="/images/thumb/2/29/United_Kingdom.png/30px-United_Kingdom.png 1.5x, /images/thumb/2/29/United_Kingdom.png/40px-United_Kingdom.png 2x" width="20"> </a><a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a></span></li><li><span style="white-space:nowrap;"><a href="/wiki/USA" title="USA"><img alt="Flag of USA" class="thumbborder" data-file-height="600" data-file-width="900" data-url="/images/thumb/5/55/USA.png/20px-USA.png" decoding="async" height="13" loading="lazy" src="/images/thumb/5/55/USA.png/20px-USA.png" srcset="/images/thumb/5/55/USA.png/30px-USA.png 1.5x, /images/thumb/5/55/USA.png/40px-USA.png 2x" width="20"> </a><a href="/wiki/USA" title="USA">USA</a></span></li><li><span style="white-space:nowrap;"><a href="/wiki/Soviet_Union" title="Soviet Union"><img alt="Flag of Soviet Union" class="thumbborder" data-file-height="600" data-file-width="900" data-url="/images/thumb/6/67/Soviet_Union.png/20px-Soviet_Union.png" decoding="async" height="13" loading="lazy" src="/images/thumb/6/67/Soviet_Union.png/20px-Soviet_Union.png" srcset="/images/thumb/6/67/Soviet_Union.png/30px-Soviet_Union.png 1.5x, /images/thumb/6/67/Soviet_Union.png/40px-Soviet_Union.png 2x" width="20"> </a><a href="/wiki/Soviet_Union" title="Soviet Union">Soviet Union</a></span></li></ul></td><td width="25%"><h3><span class="mw-headline" id="Regional_powers">Regional powers</span></h3><p>Between 20 and 59 Base IC.</p><ul><li><span style="white-space:nowrap;"><a href="/wiki/Argentina" title="Argentina"><img alt="Flag of Argentina" class="thumbborder" data-file-height="600" data-file-width="900" data-url="/images/thumb/a/a2/Argentina.png/20px-Argentina.png" decoding="async" height="13" loading="lazy" src="/images/thumb/a/a2/Argentina.png/20px-Argentina.png" srcset="/images/thumb/a/a2/Argentina.png/30px-Argentina.png 1.5x, /images/thumb/a/a2/Argentina.png/40px-Argentina.png 2x" width="20"> </a><a href="/wiki/Argentina" title="Argentina">Argentina</a></span></li><li><span style="white-space:nowrap;"><a href="/wiki/Australia" title="Australia"><img alt="Flag of Australia" class="thumbborder" data-file-height="600" data-file-width="900" data-url="/images/thumb/4/43/Australia.png/20px-Australia.png" decoding="async" height="13" loading="lazy" src="/images/thumb/4/43/Australia.png/20px-Australia.png" srcset="/images/thumb/4/43/Australia.png/30px-Australia.png 1.5x, /images/thumb/4/43/Australia.png/40px-Australia.png 2x" width="20"> </a><a href="/wiki/Australia" title="Australia">Australia</a></span></li><li><span style="white-space:nowrap;"><a href="/wiki/Belgium" title="Belgium"><img alt="Flag of Belgium" class="thumbborder" data-file-height="600" data-file-width="900" data-url="/images/thumb/3/32/Belgium.png/20px-Belgium.png" decoding="async" height="13" loading="lazy" src="/images/thumb/3/32/Belgium.png/20px-Belgium.png" srcset="/images/thumb/3/32/Belgium.png/30px-Belgium.png 1.5x, /images/thumb/3/32/Belgium.png/40px-Belgium.png 2x" width="20"> </a><a href="/wiki/Belgium" title="Belgium">Belgium</a></span></li><li><span style="white-space:nowrap;"><a href="/wiki/Brazil" title="Brazil"><img alt="Flag of Brazil" class="thumbborder" data-file-height="600" data-file-width="900" data-url="/images/thumb/8/8c/Brazil.png/20px-Brazil.png" decoding="async" height="13" loading="lazy" src="/images/thumb/8/8c/Brazil.png/20px-Brazil.png" srcset="/images/thumb/8/8c/Brazil.png/30px-Brazil.png 1.5x, /images/thumb/8/8c/Brazil.png/40px-Brazil.png 2x" width="20"> </a><a href="/wiki/Brazil" title="Brazil">Brazil</a></span></li><li><span style="white-space:nowrap;"><a href="/wiki/Bulgaria" title="Bulgaria"><img alt="Flag of Bulgaria" class="thumbborder" data-file-height="600" data-file-width="900" data-url="/images/thumb/f/f4/Bulgaria.png/20px-Bulgaria.png" decoding="async" height="13" loading="lazy" src="/images/thumb/f/f4/Bulgaria.png/20px-Bulgaria.png" srcset="/images/thumb/f/f4/Bulgaria.png/30px-Bulgaria.png 1.5x, /images/thumb/f/f4/Bulgaria.png/40px-Bulgaria.png 2x" width="20"> </a><a href="/wiki/Bulgaria" title="Bulgaria">Bulgaria</a></span></li><li><span style="white-space:nowrap;"><a href="/wiki/Canada" title="Canada"><img alt="Flag of Canada" class="thumbborder" data-file-height="600" data-file-width="900" data-url="/images/thumb/a/a3/Canada.png/20px-Canada.png" decoding="async" height="13" loading="lazy" src="/images/thumb/a/a3/Canada.png/20px-Canada.png" srcset="/images/thumb/a/a3/Canada.png/30px-Canada.png 1.5x, /images/thumb/a/a3/Canada.png/40px-Canada.png 2x" width="20"> </a><a href="/wiki/Canada" title="Canada">Canada</a></span></li><li><span style="white-space:nowrap;"><a href="/wiki/Czechoslovakia" title="Czechoslovakia"><img alt="Flag of Czechoslovakia" class="thumbborder" data-file-height="533" data-file-width="800" data-url="/images/thumb/c/c1/Czechoslovakia.png/20px-Czechoslovakia.png" decoding="async" height="13" loading="lazy" src="/images/thumb/c/c1/Czechoslovakia.png/20px-Czechoslovakia.png" srcset="/images/thumb/c/c1/Czechoslovakia.png/30px-Czechoslovakia.png 1.5x, /images/thumb/c/c1/Czechoslovakia.png/40px-Czechoslovakia.png 2x" width="20"> </a><a href="/wiki/Czechoslovakia" title="Czechoslovakia">Czechoslovakia</a></span></li><li><span style="white-space:nowrap;"><a href="/wiki/Guangxi_Clique" title="Guangxi Clique"><img alt="Flag of Guangxi Clique" class="thumbborder" data-file-height="600" data-file-width="900" data-url="/images/thumb/6/68/Guangxi_Clique.png/20px-Guangxi_Clique.png" decoding="async" height="13" loading="lazy" src="/images/thumb/6/68/Guangxi_Clique.png/20px-Guangxi_Clique.png" srcset="/images/thumb/6/68/Guangxi_Clique.png/30px-Guangxi_Clique.png 1.5x, /images/thumb/6/68/Guangxi_Clique.png/40px-Guangxi_Clique.png 2x" width="20"> </a><a href="/wiki/Guangxi_Clique" title="Guangxi Clique">Guangxi Clique</a></span></li><li><span style="white-space:nowrap;"><a href="/wiki/Hungary" title="Hungary"><img alt="Flag of Hungary" class="thumbborder" data-file-height="600" data-file-width="900" data-url="/images/thumb/6/6a/Hungary.png/20px-Hungary.png" decoding="async" height="13" loading="lazy" src="/images/thumb/6/6a/Hungary.png/20px-Hungary.png" srcset="/images/thumb/6/6a/Hungary.png/30px-Hungary.png 1.5x, /images/thumb/6/6a/Hungary.png/40px-Hungary.png 2x" width="20"> </a><a href="/wiki/Hungary" title="Hungary">Hungary</a></span></li><li><span style="white-space:nowrap;"><a href="/wiki/Manchukuo" title="Manchukuo"><img alt="Flag of Manchukuo" class="thumbborder" data-file-height="600" data-file-width="900" data-url="/images/thumb/1/16/Manchukuo.png/20px-Manchukuo.png" decoding="async" height="13" loading="lazy" src="/images/thumb/1/16/Manchukuo.png/20px-Manchukuo.png" srcset="/images/thumb/1/16/Manchukuo.png/30px-Manchukuo.png 1.5x, /images/thumb/1/16/Manchukuo.png/40px-Manchukuo.png 2x" width="20"> </a><a href="/wiki/Manchukuo" title="Manchukuo">Manchukuo</a></span></li><li><span style="white-space:nowrap;"><a href="/wiki/Nationalist_China" title="Nationalist China"><img alt="Flag of Nationalist China" class="thumbborder" data-file-height="600" data-file-width="900" data-url="/images/thumb/7/7e/Nationalist_China.png/20px-Nationalist_China.png" decoding="async" height="13" loading="lazy" src="/images/thumb/7/7e/Nationalist_China.png/20px-Nationalist_China.png" srcset="/images/thumb/7/7e/Nationalist_China.png/30px-Nationalist_China.png 1.5x, /images/thumb/7/7e/Nationalist_China.png/40px-Nationalist_China.png 2x" width="20"> </a><a href="/wiki/Nationalist_China" title="Nationalist China">Nationalist China</a></span></li><li><span style="white-space:nowrap;"><a href="/wiki/Nationalist_Spain" title="Nationalist Spain"><img alt="Flag of Nationalist Spain" class="thumbborder" data-file-height="600" data-file-width="900" data-url="/images/thumb/2/2c/Nationalist_Spain.png/20px-Nationalist_Spain.png" decoding="async" height="13" loading="lazy" src="/images/thumb/2/2c/Nationalist_Spain.png/20px-Nationalist_Spain.png" srcset="/images/thumb/2/2c/Nationalist_Spain.png/30px-Nationalist_Spain.png 1.5x, /images/thumb/2/2c/Nationalist_Spain.png/40px-Nationalist_Spain.png 2x" width="20"> </a><a href="/wiki/Nationalist_Spain" title="Nationalist Spain">Nationalist Spain</a></span></li><li><span style="white-space:nowrap;"><a href="/wiki/Netherlands" title="Netherlands"><img alt="Flag of Netherlands" class="thumbborder" data-file-height="600" data-file-width="900" data-url="/images/thumb/3/32/Netherlands.png/20px-Netherlands.png" decoding="async" height="13" loading="lazy" src="/images/thumb/3/32/Netherlands.png/20px-Netherlands.png" srcset="/images/thumb/3/32/Netherlands.png/30px-Netherlands.png 1.5x, /images/thumb/3/32/Netherlands.png/40px-Netherlands.png 2x" width="20"> </a><a href="/wiki/Netherlands" title="Netherlands">Netherlands</a></span></li><li><span style="white-space:nowrap;"><a href="/wiki/Poland" title="Poland"><img alt="Flag of Poland" class="thumbborder" data-file-height="600" data-file-width="900" data-url="/images/thumb/9/99/Poland.png/20px-Poland.png" decoding="async" height="13" loading="lazy" src="/images/thumb/9/99/Poland.png/20px-Poland.png" srcset="/images/thumb/9/99/Poland.png/30px-Poland.png 1.5x, /images/thumb/9/99/Poland.png/40px-Poland.png 2x" width="20"> </a><a href="/wiki/Poland" title="Poland">Poland</a></span></li><li><span style="white-space:nowrap;"><a href="/wiki/Republican_Spain" title="Republican Spain"><img alt="Flag of Republican Spain" class="thumbborder" data-file-height="600" data-file-width="900" data-url="/images/thumb/2/24/Republican_Spain.png/20px-Republican_Spain.png" decoding="async" height="13" loading="lazy" src="/images/thumb/2/24/Republican_Spain.png/20px-Republican_Spain.png" srcset="/images/thumb/2/24/Republican_Spain.png/30px-Republican_Spain.png 1.5x, /images/thumb/2/24/Republican_Spain.png/40px-Republican_Spain.png 2x" width="20"> </a><a href="/wiki/Republican_Spain" title="Republican Spain">Republican Spain</a></span></li><li><span style="white-space:nowrap;"><a href="/wiki/Romania" title="Romania"><img alt="Flag of Romania" class="thumbborder" data-file-height="600" data-file-width="900" data-url="/images/thumb/8/8f/Romania.png/20px-Romania.png" decoding="async" height="13" loading="lazy" src="/images/thumb/8/8f/Romania.png/20px-Romania.png" srcset="/images/thumb/8/8f/Romania.png/30px-Romania.png 1.5x, /images/thumb/8/8f/Romania.png/40px-Romania.png 2x" width="20"> </a><a href="/wiki/Romania" title="Romania">Romania</a></span></li><li><span style="white-space:nowrap;"><a href="/wiki/Sweden" title="Sweden"><img alt="Flag of Sweden" class="thumbborder" data-file-height="600" data-file-width="900" data-url="/images/thumb/9/98/Sweden.png/20px-Sweden.png" decoding="async" height="13" loading="lazy" src="/images/thumb/9/98/Sweden.png/20px-Sweden.png" srcset="/images/thumb/9/98/Sweden.png/30px-Sweden.png 1.5x, /images/thumb/9/98/Sweden.png/40px-Sweden.png 2x" width="20"> </a><a href="/wiki/Sweden" title="Sweden">Sweden</a></span></li><li><span style="white-space:nowrap;"><a href="/wiki/Turkey" title="Turkey"><img alt="Flag of Turkey" class="thumbborder" data-file-height="600" data-file-width="900" data-url="/images/thumb/b/b3/Turkey.png/20px-Turkey.png" decoding="async" height="13" loading="lazy" src="/images/thumb/b/b3/Turkey.png/20px-Turkey.png" srcset="/images/thumb/b/b3/Turkey.png/30px-Turkey.png 1.5x, /images/thumb/b/b3/Turkey.png/40px-Turkey.png 2x" width="20"> </a><a href="/wiki/Turkey" title="Turkey">Turkey</a></span></li><li><span style="white-space:nowrap;"><a href="/wiki/Vichy_France" title="Vichy France"><img alt="Flag of Vichy France" class="thumbborder" data-file-height="600" data-file-width="900" data-url="/images/thumb/e/ec/Vichy_France.png/20px-Vichy_France.png" decoding="async" height="13" loading="lazy" src="/images/thumb/e/ec/Vichy_France.png/20px-Vichy_France.png" srcset="/images/thumb/e/ec/Vichy_France.png/30px-Vichy_France.png 1.5x, /images/thumb/e/ec/Vichy_France.png/40px-Vichy_France.png 2x" width="20"> </a><a class="new" href="/wiki/index.php?title=Vichy_France&amp;action=edit&amp;redlink=1" title="Vichy France (page does not exist)">Vichy France</a></span></li><li><span style="white-space:nowrap;"><a href="/wiki/Yugoslavia" title="Yugoslavia"><img alt="Flag of Yugoslavia" class="thumbborder" data-file-height="600" data-file-width="900" data-url="/images/thumb/f/f3/Yugoslavia.png/20px-Yugoslavia.png" decoding="async" height="13" loading="lazy" src="/images/thumb/f/f3/Yugoslavia.png/20px-Yugoslavia.png" srcset="/images/thumb/f/f3/Yugoslavia.png/30px-Yugoslavia.png 1.5x, /images/thumb/f/f3/Yugoslavia.png/40px-Yugoslavia.png 2x" width="20"> </a><a href="/wiki/Yugoslavia" title="Yugoslavia">Yugoslavia</a></span></li></ul></td><td width="25%"><h3><span class="mw-headline" id="Minor_powers">Minor powers</span></h3><p>Between 10 and 19 Base IC.</p><ul><li><span style="white-space:nowrap;"><a href="/wiki/Austria" title="Austria"><img alt="Flag of Austria" class="thumbborder" data-file-height="600" data-file-width="900" data-url="/images/thumb/7/7f/Austria.png/20px-Austria.png" decoding="async" height="13" loading="lazy" src="/images/thumb/7/7f/Austria.png/20px-Austria.png" srcset="/images/thumb/7/7f/Austria.png/30px-Austria.png 1.5x, /images/thumb/7/7f/Austria.png/40px-Austria.png 2x" width="20"> </a><a href="/wiki/Austria" title="Austria">Austria</a></span></li><li><span style="white-space:nowrap;"><a href="/wiki/Chile" title="Chile"><img alt="Flag of Chile" class="thumbborder" data-file-height="600" data-file-width="900" data-url="/images/thumb/f/fa/Chile.png/20px-Chile.png" decoding="async" height="13" loading="lazy" src="/images/thumb/f/fa/Chile.png/20px-Chile.png" srcset="/images/thumb/f/fa/Chile.png/30px-Chile.png 1.5x, /images/thumb/f/fa/Chile.png/40px-Chile.png 2x" width="20"> </a><a class="new" href="/wiki/index.php?title=Chile&amp;action=edit&amp;redlink=1" title="Chile (page does not exist)">Chile</a></span></li><li><span style="white-space:nowrap;"><a href="/wiki/Colombia" title="Colombia"><img alt="Flag of Colombia" class="thumbborder" data-file-height="600" data-file-width="900" data-url="/images/thumb/8/80/Colombia.png/20px-Colombia.png" decoding="async" height="13" loading="lazy" src="/images/thumb/8/80/Colombia.png/20px-Colombia.png" srcset="/images/thumb/8/80/Colombia.png/30px-Colombia.png 1.5x, /images/thumb/8/80/Colombia.png/40px-Colombia.png 2x" width="20"> </a><a class="new" href="/wiki/index.php?title=Colombia&amp;action=edit&amp;redlink=1" title="Colombia (page does not exist)">Colombia</a></span></li><li><span style="white-space:nowrap;"><a href="/wiki/Denmark" title="Denmark"><img alt="Flag of Denmark" class="thumbborder" data-file-height="600" data-file-width="900" data-url="/images/thumb/6/69/Denmark.png/20px-Denmark.png" decoding="async" height="13" loading="lazy" src="/images/thumb/6/69/Denmark.png/20px-Denmark.png" srcset="/images/thumb/6/69/Denmark.png/30px-Denmark.png 1.5x, /images/thumb/6/69/Denmark.png/40px-Denmark.png 2x" width="20"> </a><a href="/wiki/Denmark" title="Denmark">Denmark</a></span></li><li><span style="white-space:nowrap;"><a href="/wiki/Finland" title="Finland"><img alt="Flag of Finland" class="thumbborder" data-file-height="600" data-file-width="900" data-url="/images/thumb/c/c4/Finland.png/20px-Finland.png" decoding="async" height="13" loading="lazy" src="/images/thumb/c/c4/Finland.png/20px-Finland.png" srcset="/images/thumb/c/c4/Finland.png/30px-Finland.png 1.5x, /images/thumb/c/c4/Finland.png/40px-Finland.png 2x" width="20"> </a><a href="/wiki/Finland" title="Finland">Finland</a></span></li><li><span style="white-space:nowrap;"><a href="/wiki/Greece" title="Greece"><img alt="Flag of Greece" class="thumbborder" data-file-height="600" data-file-width="900" data-url="/images/thumb/d/d8/Greece.png/20px-Greece.png" decoding="async" height="13" loading="lazy" src="/images/thumb/d/d8/Greece.png/20px-Greece.png" srcset="/images/thumb/d/d8/Greece.png/30px-Greece.png 1.5x, /images/thumb/d/d8/Greece.png/40px-Greece.png 2x" width="20"> </a><a href="/wiki/Greece" title="Greece">Greece</a></span></li><li><span style="white-space:nowrap;"><a href="/wiki/Ireland" title="Ireland"><img alt="Flag of Ireland" class="thumbborder" data-file-height="600" data-file-width="900" data-url="/images/thumb/4/4b/Ireland.png/20px-Ireland.png" decoding="async" height="13" loading="lazy" src="/images/thumb/4/4b/Ireland.png/20px-Ireland.png" srcset="/images/thumb/4/4b/Ireland.png/30px-Ireland.png 1.5x, /images/thumb/4/4b/Ireland.png/40px-Ireland.png 2x" width="20"> </a><a href="/wiki/Ireland" title="Ireland">Ireland</a></span></li><li><span style="white-space:nowrap;"><a href="/wiki/Mexico" title="Mexico"><img alt="Flag of Mexico" class="thumbborder" data-file-height="600" data-file-width="900" data-url="/images/thumb/0/0a/Mexico.png/20px-Mexico.png" decoding="async" height="13" loading="lazy" src="/images/thumb/0/0a/Mexico.png/20px-Mexico.png" srcset="/images/thumb/0/0a/Mexico.png/30px-Mexico.png 1.5x, /images/thumb/0/0a/Mexico.png/40px-Mexico.png 2x" width="20"> </a><a href="/wiki/Mexico" title="Mexico">Mexico</a></span></li><li><span style="white-space:nowrap;"><a href="/wiki/Norway" title="Norway"><img alt="Flag of Norway" class="thumbborder" data-file-height="533" data-file-width="800" data-url="/images/thumb/0/0f/Norway.png/20px-Norway.png" decoding="async" height="13" loading="lazy" src="/images/thumb/0/0f/Norway.png/20px-Norway.png" srcset="/images/thumb/0/0f/Norway.png/30px-Norway.png 1.5x, /images/thumb/0/0f/Norway.png/40px-Norway.png 2x" width="20"> </a><a class="new" href="/wiki/index.php?title=Norway&amp;action=edit&amp;redlink=1" title="Norway (page does not exist)">Norway</a></span></li><li><span style="white-space:nowrap;"><a href="/wiki/Peru" title="Peru"><img alt="Flag of Peru" class="thumbborder" data-file-height="600" data-file-width="900" data-url="/images/thumb/a/a8/Peru.png/20px-Peru.png" decoding="async" height="13" loading="lazy" src="/images/thumb/a/a8/Peru.png/20px-Peru.png" srcset="/images/thumb/a/a8/Peru.png/30px-Peru.png 1.5x, /images/thumb/a/a8/Peru.png/40px-Peru.png 2x" width="20"> </a><a href="/wiki/Peru" title="Peru">Peru</a></span></li><li><span style="white-space:nowrap;"><a href="/wiki/Portugal" title="Portugal"><img alt="Flag of Portugal" class="thumbborder" data-file-height="600" data-file-width="900" data-url="/images/thumb/1/12/Portugal.png/20px-Portugal.png" decoding="async" height="13" loading="lazy" src="/images/thumb/1/12/Portugal.png/20px-Portugal.png" srcset="/images/thumb/1/12/Portugal.png/30px-Portugal.png 1.5x, /images/thumb/1/12/Portugal.png/40px-Portugal.png 2x" width="20"> </a><a href="/wiki/Portugal" title="Portugal">Portugal</a></span></li><li><span style="white-space:nowrap;"><a href="/wiki/Shanxi" title="Shanxi"><img alt="Flag of Shanxi" class="thumbborder" data-file-height="600" data-file-width="900" data-url="/images/thumb/d/d0/Shanxi.png/20px-Shanxi.png" decoding="async" height="13" loading="lazy" src="/images/thumb/d/d0/Shanxi.png/20px-Shanxi.png" srcset="/images/thumb/d/d0/Shanxi.png/30px-Shanxi.png 1.5x, /images/thumb/d/d0/Shanxi.png/40px-Shanxi.png 2x" width="20"> </a><a href="/wiki/Shanxi" title="Shanxi">Shanxi</a></span></li><li><span style="white-space:nowrap;"><a href="/wiki/South_Africa" title="South Africa"><img alt="Flag of South Africa" class="thumbborder" data-file-height="533" data-file-width="800" data-url="/images/thumb/e/ef/South_Africa.png/20px-South_Africa.png" decoding="async" height="13" loading="lazy" src="/images/thumb/e/ef/South_Africa.png/20px-South_Africa.png" srcset="/images/thumb/e/ef/South_Africa.png/30px-South_Africa.png 1.5x, /images/thumb/e/ef/South_Africa.png/40px-South_Africa.png 2x" width="20"> </a><a href="/wiki/South_Africa" title="South Africa">South Africa</a></span></li><li><span style="white-space:nowrap;"><a href="/wiki/Slovakia" title="Slovakia"><img alt="Flag of Slovakia" class="thumbborder" data-file-height="600" data-file-width="900" data-url="/images/thumb/8/89/Slovakia.png/20px-Slovakia.png" decoding="async" height="13" loading="lazy" src="/images/thumb/8/89/Slovakia.png/20px-Slovakia.png" srcset="/images/thumb/8/89/Slovakia.png/30px-Slovakia.png 1.5x, /images/thumb/8/89/Slovakia.png/40px-Slovakia.png 2x" width="20"> </a><a href="/wiki/Slovakia" title="Slovakia">Slovakia</a></span></li><li><span style="white-space:nowrap;"><a href="/wiki/Switzerland" title="Switzerland"><img alt="Flag of Switzerland" class="thumbborder" data-file-height="600" data-file-width="900" data-url="/images/thumb/0/01/Switzerland.png/20px-Switzerland.png" decoding="async" height="13" loading="lazy" src="/images/thumb/0/01/Switzerland.png/20px-Switzerland.png" srcset="/images/thumb/0/01/Switzerland.png/30px-Switzerland.png 1.5x, /images/thumb/0/01/Switzerland.png/40px-Switzerland.png 2x" width="20"> </a><a href="/wiki/Switzerland" title="Switzerland">Switzerland</a></span></li></ul></td><td width="25%"><h3><span class="mw-headline" id="Micro_powers">Micro powers</span></h3><p>Below 10 Base IC.</p><ul><li><span style="white-space:nowrap;"><a href="/wiki/Afghanistan" title="Afghanistan"><img alt="Flag of Afghanistan" class="thumbborder" data-file-height="600" data-file-width="900" data-url="/images/thumb/7/7d/Afghanistan.png/20px-Afghanistan.png" decoding="async" height="13" loading="lazy" src="/images/thumb/7/7d/Afghanistan.png/20px-Afghanistan.png" srcset="/images/thumb/7/7d/Afghanistan.png/30px-Afghanistan.png 1.5x, /images/thumb/7/7d/Afghanistan.png/40px-Afghanistan.png 2x" width="20"> </a><a href="/wiki/Afghanistan" title="Afghanistan">Afghanistan</a></span></li><li><span style="white-space:nowrap;"><a href="/wiki/Albania" title="Albania"><img alt="Flag of Albania" class="thumbborder" data-file-height="600" data-file-width="900" data-url="/images/thumb/0/07/Albania.png/20px-Albania.png" decoding="async" height="13" loading="lazy" src="/images/thumb/0/07/Albania.png/20px-Albania.png" srcset="/images/thumb/0/07/Albania.png/30px-Albania.png 1.5x, /images/thumb/0/07/Albania.png/40px-Albania.png 2x" width="20"> </a><a href="/wiki/Albania" title="Albania">Albania</a></span></li><li><span style="white-space:nowrap;"><a href="/wiki/Bhutan" title="Bhutan"><img alt="Flag of Bhutan" class="thumbborder" data-file-height="600" data-file-width="900" data-url="/images/thumb/8/85/Bhutan.png/20px-Bhutan.png" decoding="async" height="13" loading="lazy" src="/images/thumb/8/85/Bhutan.png/20px-Bhutan.png" srcset="/images/thumb/8/85/Bhutan.png/30px-Bhutan.png 1.5x, /images/thumb/8/85/Bhutan.png/40px-Bhutan.png 2x" width="20"> </a><a href="/wiki/Bhutan" title="Bhutan">Bhutan</a></span></li><li><span style="white-space:nowrap;"><a href="/wiki/Bolivia" title="Bolivia"><img alt="Flag of Bolivia" class="thumbborder" data-file-height="600" data-file-width="900" data-url="/images/thumb/3/38/Bolivia.png/20px-Bolivia.png" decoding="async" height="13" loading="lazy" src="/images/thumb/3/38/Bolivia.png/20px-Bolivia.png" srcset="/images/thumb/3/38/Bolivia.png/30px-Bolivia.png 1.5x, /images/thumb/3/38/Bolivia.png/40px-Bolivia.png 2x" width="20"> </a><a class="new" href="/wiki/index.php?title=Bolivia&amp;action=edit&amp;redlink=1" title="Bolivia (page does not exist)">Bolivia</a></span></li><li><span style="white-space:nowrap;"><a href="/wiki/Communist_China" title="Communist China"><img alt="Flag of Communist China" class="thumbborder" data-file-height="600" data-file-width="900" data-url="/images/thumb/1/1a/Communist_China.png/20px-Communist_China.png" decoding="async" height="13" loading="lazy" src="/images/thumb/1/1a/Communist_China.png/20px-Communist_China.png" srcset="/images/thumb/1/1a/Communist_China.png/30px-Communist_China.png 1.5x, /images/thumb/1/1a/Communist_China.png/40px-Communist_China.png 2x" width="20"> </a><a href="/wiki/Communist_China" title="Communist China">Communist China</a></span></li><li><span style="white-space:nowrap;"><a href="/wiki/Costa_Rica" title="Costa Rica"><img alt="Flag of Costa Rica" class="thumbborder" data-file-height="600" data-file-width="900" data-url="/images/thumb/d/da/Costa_Rica.png/20px-Costa_Rica.png" decoding="async" height="13" loading="lazy" src="/images/thumb/d/da/Costa_Rica.png/20px-Costa_Rica.png" srcset="/images/thumb/d/da/Costa_Rica.png/30px-Costa_Rica.png 1.5x, /images/thumb/d/da/Costa_Rica.png/40px-Costa_Rica.png 2x" width="20"> </a><a class="new" href="/wiki/index.php?title=Costa_Rica&amp;action=edit&amp;redlink=1" title="Costa Rica (page does not exist)">Costa Rica</a></span></li><li><span style="white-space:nowrap;"><a href="/wiki/Cuba" title="Cuba"><img alt="Flag of Cuba" class="thumbborder" data-file-height="600" data-file-width="900" data-url="/images/thumb/6/6c/Cuba.png/20px-Cuba.png" decoding="async" height="13" loading="lazy" src="/images/thumb/6/6c/Cuba.png/20px-Cuba.png" srcset="/images/thumb/6/6c/Cuba.png/30px-Cuba.png 1.5x, /images/thumb/6/6c/Cuba.png/40px-Cuba.png 2x" width="20"> </a><a href="/wiki/Cuba" title="Cuba">Cuba</a></span></li><li><span style="white-space:nowrap;"><a href="/wiki/Dominican_Republic" title="Dominican Republic"><img alt="Flag of Dominican Republic" class="thumbborder" data-file-height="600" data-file-width="900" data-url="/images/thumb/5/5b/Dominican_Republic.png/20px-Dominican_Republic.png" decoding="async" height="13" loading="lazy" src="/images/thumb/5/5b/Dominican_Republic.png/20px-Dominican_Republic.png" srcset="/images/thumb/5/5b/Dominican_Republic.png/30px-Dominican_Republic.png 1.5x, /images/thumb/5/5b/Dominican_Republic.png/40px-Dominican_Republic.png 2x" width="20"> </a><a href="/wiki/Dominican_Republic" title="Dominican Republic">Dominican Republic</a></span></li><li><span style="white-space:nowrap;"><a href="/wiki/Ecuador" title="Ecuador"><img alt="Flag of Ecuador" class="thumbborder" data-file-height="600" data-file-width="900" data-url="/images/thumb/b/b2/Ecuador.png/20px-Ecuador.png" decoding="async" height="13" loading="lazy" src="/images/thumb/b/b2/Ecuador.png/20px-Ecuador.png" srcset="/images/thumb/b/b2/Ecuador.png/30px-Ecuador.png 1.5x, /images/thumb/b/b2/Ecuador.png/40px-Ecuador.png 2x" width="20"> </a><a class="new" href="/wiki/index.php?title=Ecuador&amp;action=edit&amp;redlink=1" title="Ecuador (page does not exist)">Ecuador</a></span></li><li><span style="white-space:nowrap;"><a href="/wiki/El_Salvador" title="El Salvador"><img alt="Flag of El Salvador" class="thumbborder" data-file-height="600" data-file-width="900" data-url="/images/thumb/5/5c/El_Salvador.png/20px-El_Salvador.png" decoding="async" height="13" loading="lazy" src="/images/thumb/5/5c/El_Salvador.png/20px-El_Salvador.png" srcset="/images/thumb/5/5c/El_Salvador.png/30px-El_Salvador.png 1.5x, /images/thumb/5/5c/El_Salvador.png/40px-El_Salvador.png 2x" width="20"> </a><a class="new" href="/wiki/index.php?title=El_Salvador&amp;action=edit&amp;redlink=1" title="El Salvador (page does not exist)">El Salvador</a></span></li><li><span style="white-space:nowrap;"><a href="/wiki/Estonia" title="Estonia"><img alt="Flag of Estonia" class="thumbborder" data-file-height="600" data-file-width="900" data-url="/images/thumb/6/6f/Estonia.png/20px-Estonia.png" decoding="async" height="13" loading="lazy" src="/images/thumb/6/6f/Estonia.png/20px-Estonia.png" srcset="/images/thumb/6/6f/Estonia.png/30px-Estonia.png 1.5x, /images/thumb/6/6f/Estonia.png/40px-Estonia.png 2x" width="20"> </a><a href="/wiki/Estonia" title="Estonia">Estonia</a></span></li><li><span style="white-space:nowrap;"><a href="/wiki/Ethiopia" title="Ethiopia"><img alt="Flag of Ethiopia" class="thumbborder" data-file-height="600" data-file-width="900" data-url="/images/thumb/0/06/Ethiopia.png/20px-Ethiopia.png" decoding="async" height="13" loading="lazy" src="/images/thumb/0/06/Ethiopia.png/20px-Ethiopia.png" srcset="/images/thumb/0/06/Ethiopia.png/30px-Ethiopia.png 1.5x, /images/thumb/0/06/Ethiopia.png/40px-Ethiopia.png 2x" width="20"> </a><a href="/wiki/Ethiopia" title="Ethiopia">Ethiopia</a></span></li><li><span style="white-space:nowrap;"><a href="/wiki/Guatemala" title="Guatemala"><img alt="Flag of Guatemala" class="thumbborder" data-file-height="600" data-file-width="900" data-url="/images/thumb/5/55/Guatemala.png/20px-Guatemala.png" decoding="async" height="13" loading="lazy" src="/images/thumb/5/55/Guatemala.png/20px-Guatemala.png" srcset="/images/thumb/5/55/Guatemala.png/30px-Guatemala.png 1.5x, /images/thumb/5/55/Guatemala.png/40px-Guatemala.png 2x" width="20"> </a><a href="/wiki/Guatemala" title="Guatemala">Guatemala</a></span></li><li><span style="white-space:nowrap;"><a href="/wiki/Haiti" title="Haiti"><img alt="Flag of Haiti" class="thumbborder" data-file-height="600" data-file-width="900" data-url="/images/thumb/2/28/Haiti.png/20px-Haiti.png" decoding="async" height="13" loading="lazy" src="/images/thumb/2/28/Haiti.png/20px-Haiti.png" srcset="/images/thumb/2/28/Haiti.png/30px-Haiti.png 1.5x, /images/thumb/2/28/Haiti.png/40px-Haiti.png 2x" width="20"> </a><a class="new" href="/wiki/index.php?title=Haiti&amp;action=edit&amp;redlink=1" title="Haiti (page does not exist)">Haiti</a></span></li><li><span style="white-space:nowrap;"><a href="/wiki/Honduras" title="Honduras"><img alt="Flag of Honduras" class="thumbborder" data-file-height="600" data-file-width="900" data-url="/images/thumb/0/09/Honduras.png/20px-Honduras.png" decoding="async" height="13" loading="lazy" src="/images/thumb/0/09/Honduras.png/20px-Honduras.png" srcset="/images/thumb/0/09/Honduras.png/30px-Honduras.png 1.5x, /images/thumb/0/09/Honduras.png/40px-Honduras.png 2x" width="20"> </a><a class="new" href="/wiki/index.php?title=Honduras&amp;action=edit&amp;redlink=1" title="Honduras (page does not exist)">Honduras</a></span></li><li><span style="white-space:nowrap;"><a href="/wiki/Iraq" title="Iraq"><img alt="Flag of Iraq" class="thumbborder" data-file-height="600" data-file-width="900" data-url="/images/thumb/c/c4/Iraq.png/20px-Iraq.png" decoding="async" height="13" loading="lazy" src="/images/thumb/c/c4/Iraq.png/20px-Iraq.png" srcset="/images/thumb/c/c4/Iraq.png/30px-Iraq.png 1.5x, /images/thumb/c/c4/Iraq.png/40px-Iraq.png 2x" width="20"> </a><a href="/wiki/Iraq" title="Iraq">Iraq</a></span></li><li><span style="white-space:nowrap;"><a href="/wiki/Latvia" title="Latvia"><img alt="Flag of Latvia" class="thumbborder" data-file-height="600" data-file-width="900" data-url="/images/thumb/7/7c/Latvia.png/20px-Latvia.png" decoding="async" height="13" loading="lazy" src="/images/thumb/7/7c/Latvia.png/20px-Latvia.png" srcset="/images/thumb/7/7c/Latvia.png/30px-Latvia.png 1.5x, /images/thumb/7/7c/Latvia.png/40px-Latvia.png 2x" width="20"> </a><a href="/wiki/Latvia" title="Latvia">Latvia</a></span></li><li><span style="white-space:nowrap;"><a href="/wiki/Liberia" title="Liberia"><img alt="Flag of Liberia" class="thumbborder" data-file-height="600" data-file-width="900" data-url="/images/thumb/0/05/Liberia.png/20px-Liberia.png" decoding="async" height="13" loading="lazy" src="/images/thumb/0/05/Liberia.png/20px-Liberia.png" srcset="/images/thumb/0/05/Liberia.png/30px-Liberia.png 1.5x, /images/thumb/0/05/Liberia.png/40px-Liberia.png 2x" width="20"> </a><a href="/wiki/Liberia" title="Liberia">Liberia</a></span></li><li><span style="white-space:nowrap;"><a href="/wiki/Lithuania" title="Lithuania"><img alt="Flag of Lithuania" class="thumbborder" data-file-height="600" data-file-width="900" data-url="/images/thumb/d/d9/Lithuania.png/20px-Lithuania.png" decoding="async" height="13" loading="lazy" src="/images/thumb/d/d9/Lithuania.png/20px-Lithuania.png" srcset="/images/thumb/d/d9/Lithuania.png/30px-Lithuania.png 1.5x, /images/thumb/d/d9/Lithuania.png/40px-Lithuania.png 2x" width="20"> </a><a href="/wiki/Lithuania" title="Lithuania">Lithuania</a></span></li><li><span style="white-space:nowrap;"><a href="/wiki/Luxemburg" title="Luxemburg"><img alt="Flag of Luxemburg" class="thumbborder" data-file-height="600" data-file-width="900" data-url="/images/thumb/5/53/Luxemburg.png/20px-Luxemburg.png" decoding="async" height="13" loading="lazy" src="/images/thumb/5/53/Luxemburg.png/20px-Luxemburg.png" srcset="/images/thumb/5/53/Luxemburg.png/30px-Luxemburg.png 1.5x, /images/thumb/5/53/Luxemburg.png/40px-Luxemburg.png 2x" width="20"> </a><a href="/wiki/Luxemburg" title="Luxemburg">Luxemburg</a></span></li><li><span style="white-space:nowrap;"><a href="/wiki/Mongolia" title="Mongolia"><img alt="Flag of Mongolia" class="thumbborder" data-file-height="600" data-file-width="900" data-url="/images/thumb/b/bc/Mongolia.png/20px-Mongolia.png" decoding="async" height="13" loading="lazy" src="/images/thumb/b/bc/Mongolia.png/20px-Mongolia.png" srcset="/images/thumb/b/bc/Mongolia.png/30px-Mongolia.png 1.5x, /images/thumb/b/bc/Mongolia.png/40px-Mongolia.png 2x" width="20"> </a><a href="/wiki/Mongolia" title="Mongolia">Mongolia</a></span></li><li><span style="white-space:nowrap;"><a href="/wiki/Nepal" title="Nepal"><img alt="Flag of Nepal" class="thumbborder" data-file-height="600" data-file-width="900" data-url="/images/thumb/3/3a/Nepal.png/20px-Nepal.png" decoding="async" height="13" loading="lazy" src="/images/thumb/3/3a/Nepal.png/20px-Nepal.png" srcset="/images/thumb/3/3a/Nepal.png/30px-Nepal.png 1.5x, /images/thumb/3/3a/Nepal.png/40px-Nepal.png 2x" width="20"> </a><a class="new" href="/wiki/index.php?title=Nepal&amp;action=edit&amp;redlink=1" title="Nepal (page does not exist)">Nepal</a></span></li><li><span style="white-space:nowrap;"><a href="/wiki/New_Zealand" title="New Zealand"><img alt="Flag of New Zealand" class="thumbborder" data-file-height="600" data-file-width="900" data-url="/images/thumb/d/d9/New_Zealand.png/20px-New_Zealand.png" decoding="async" height="13" loading="lazy" src="/images/thumb/d/d9/New_Zealand.png/20px-New_Zealand.png" srcset="/images/thumb/d/d9/New_Zealand.png/30px-New_Zealand.png 1.5x, /images/thumb/d/d9/New_Zealand.png/40px-New_Zealand.png 2x" width="20"> </a><a href="/wiki/New_Zealand" title="New Zealand">New Zealand</a></span></li><li><span style="white-space:nowrap;"><a href="/wiki/Nicaragua" title="Nicaragua"><img alt="Flag of Nicaragua" class="thumbborder" data-file-height="600" data-file-width="900" data-url="/images/thumb/9/91/Nicaragua.png/20px-Nicaragua.png" decoding="async" height="13" loading="lazy" src="/images/thumb/9/91/Nicaragua.png/20px-Nicaragua.png" srcset="/images/thumb/9/91/Nicaragua.png/30px-Nicaragua.png 1.5x, /images/thumb/9/91/Nicaragua.png/40px-Nicaragua.png 2x" width="20"> </a><a class="new" href="/wiki/index.php?title=Nicaragua&amp;action=edit&amp;redlink=1" title="Nicaragua (page does not exist)">Nicaragua</a></span></li><li><span style="white-space:nowrap;"><a href="/wiki/Oman" title="Oman"><img alt="Flag of Oman" class="thumbborder" data-file-height="217" data-file-width="327" data-url="/images/thumb/2/27/Oman.png/20px-Oman.png" decoding="async" height="13" loading="lazy" src="/images/thumb/2/27/Oman.png/20px-Oman.png" srcset="/images/thumb/2/27/Oman.png/30px-Oman.png 1.5x, /images/thumb/2/27/Oman.png/40px-Oman.png 2x" width="20"> </a><a class="new" href="/wiki/index.php?title=Oman&amp;action=edit&amp;redlink=1" title="Oman (page does not exist)">Oman</a></span></li><li><span style="white-space:nowrap;"><a href="/wiki/Panama" title="Panama"><img alt="Flag of Panama" class="thumbborder" data-file-height="600" data-file-width="900" data-url="/images/thumb/3/3f/Panama.png/20px-Panama.png" decoding="async" height="13" loading="lazy" src="/images/thumb/3/3f/Panama.png/20px-Panama.png" srcset="/images/thumb/3/3f/Panama.png/30px-Panama.png 1.5x, /images/thumb/3/3f/Panama.png/40px-Panama.png 2x" width="20"> </a><a class="new" href="/wiki/index.php?title=Panama&amp;action=edit&amp;redlink=1" title="Panama (page does not exist)">Panama</a></span></li><li><span style="white-space:nowrap;"><a href="/wiki/Paraguay" title="Paraguay"><img alt="Flag of Paraguay" class="thumbborder" data-file-height="600" data-file-width="900" data-url="/images/thumb/5/57/Paraguay.png/20px-Paraguay.png" decoding="async" height="13" loading="lazy" src="/images/thumb/5/57/Paraguay.png/20px-Paraguay.png" srcset="/images/thumb/5/57/Paraguay.png/30px-Paraguay.png 1.5x, /images/thumb/5/57/Paraguay.png/40px-Paraguay.png 2x" width="20"> </a><a class="new" href="/wiki/index.php?title=Paraguay&amp;action=edit&amp;redlink=1" title="Paraguay (page does not exist)">Paraguay</a></span></li><li><span style="white-space:nowrap;"><a href="/wiki/Persia" title="Persia"><img alt="Flag of Persia" class="thumbborder" data-file-height="600" data-file-width="900" data-url="/images/thumb/0/01/Persia.png/20px-Persia.png" decoding="async" height="13" loading="lazy" src="/images/thumb/0/01/Persia.png/20px-Persia.png" srcset="/images/thumb/0/01/Persia.png/30px-Persia.png 1.5x, /images/thumb/0/01/Persia.png/40px-Persia.png 2x" width="20"> </a><a href="/wiki/Persia" title="Persia">Persia</a></span></li><li><span style="white-space:nowrap;"><a href="/wiki/Philippines" title="Philippines"><img alt="Flag of Philippines" class="thumbborder" data-file-height="600" data-file-width="900" data-url="/images/thumb/3/3b/Philippines.png/20px-Philippines.png" decoding="async" height="13" loading="lazy" src="/images/thumb/3/3b/Philippines.png/20px-Philippines.png" srcset="/images/thumb/3/3b/Philippines.png/30px-Philippines.png 1.5x, /images/thumb/3/3b/Philippines.png/40px-Philippines.png 2x" width="20"> </a><a class="new" href="/wiki/index.php?title=Philippines&amp;action=edit&amp;redlink=1" title="Philippines (page does not exist)">Philippines</a></span></li><li><span style="white-space:nowrap;"><a href="/wiki/Saudi_Arabia" title="Saudi Arabia"><img alt="Flag of Saudi Arabia" class="thumbborder" data-file-height="600" data-file-width="900" data-url="/images/thumb/1/1f/Saudi_Arabia.png/20px-Saudi_Arabia.png" decoding="async" height="13" loading="lazy" src="/images/thumb/1/1f/Saudi_Arabia.png/20px-Saudi_Arabia.png" srcset="/images/thumb/1/1f/Saudi_Arabia.png/30px-Saudi_Arabia.png 1.5x, /images/thumb/1/1f/Saudi_Arabia.png/40px-Saudi_Arabia.png 2x" width="20"> </a><a class="new" href="/wiki/index.php?title=Saudi_Arabia&amp;action=edit&amp;redlink=1" title="Saudi Arabia (page does not exist)">Saudi Arabia</a></span></li><li><span style="white-space:nowrap;"><a href="/wiki/Siam" title="Siam"><img alt="Flag of Siam" class="thumbborder" data-file-height="600" data-file-width="900" data-url="/images/thumb/7/7e/Siam.png/20px-Siam.png" decoding="async" height="13" loading="lazy" src="/images/thumb/7/7e/Siam.png/20px-Siam.png" srcset="/images/thumb/7/7e/Siam.png/30px-Siam.png 1.5x, /images/thumb/7/7e/Siam.png/40px-Siam.png 2x" width="20"> </a><a href="/wiki/Siam" title="Siam">Siam</a></span></li><li><span style="white-space:nowrap;"><a href="/wiki/Sinkiang" title="Sinkiang"><img alt="Flag of Sinkiang" class="thumbborder" data-file-height="600" data-file-width="900" data-url="/images/thumb/b/b8/Sinkiang.png/20px-Sinkiang.png" decoding="async" height="13" loading="lazy" src="/images/thumb/b/b8/Sinkiang.png/20px-Sinkiang.png" srcset="/images/thumb/b/b8/Sinkiang.png/30px-Sinkiang.png 1.5x, /images/thumb/b/b8/Sinkiang.png/40px-Sinkiang.png 2x" width="20"> </a><a class="new" href="/wiki/index.php?title=Sinkiang&amp;action=edit&amp;redlink=1" title="Sinkiang (page does not exist)">Sinkiang</a></span></li><li><span style="white-space:nowrap;"><a href="/wiki/Tannu_Tuva" title="Tannu Tuva"><img alt="Flag of Tannu Tuva" class="thumbborder" data-file-height="600" data-file-width="900" data-url="/images/thumb/5/54/Tannu_Tuva.png/20px-Tannu_Tuva.png" decoding="async" height="13" loading="lazy" src="/images/thumb/5/54/Tannu_Tuva.png/20px-Tannu_Tuva.png" srcset="/images/thumb/5/54/Tannu_Tuva.png/30px-Tannu_Tuva.png 1.5x, /images/thumb/5/54/Tannu_Tuva.png/40px-Tannu_Tuva.png 2x" width="20"> </a><a href="/wiki/Tannu_Tuva" title="Tannu Tuva">Tannu Tuva</a></span></li><li><span style="white-space:nowrap;"><a href="/wiki/Tibet" title="Tibet"><img alt="Flag of Tibet" class="thumbborder" data-file-height="600" data-file-width="900" data-url="/images/thumb/0/03/Tibet.png/20px-Tibet.png" decoding="async" height="13" loading="lazy" src="/images/thumb/0/03/Tibet.png/20px-Tibet.png" srcset="/images/thumb/0/03/Tibet.png/30px-Tibet.png 1.5x, /images/thumb/0/03/Tibet.png/40px-Tibet.png 2x" width="20"> </a><a class="new" href="/wiki/index.php?title=Tibet&amp;action=edit&amp;redlink=1" title="Tibet (page does not exist)">Tibet</a></span></li><li><span style="white-space:nowrap;"><a href="/wiki/Uruguay" title="Uruguay"><img alt="Flag of Uruguay" class="thumbborder" data-file-height="600" data-file-width="900" data-url="/images/thumb/2/29/Uruguay.png/20px-Uruguay.png" decoding="async" height="13" loading="lazy" src="/images/thumb/2/29/Uruguay.png/20px-Uruguay.png" srcset="/images/thumb/2/29/Uruguay.png/30px-Uruguay.png 1.5x, /images/thumb/2/29/Uruguay.png/40px-Uruguay.png 2x" width="20"> </a><a class="new" href="/wiki/index.php?title=Uruguay&amp;action=edit&amp;redlink=1" title="Uruguay (page does not exist)">Uruguay</a></span></li><li><span style="white-space:nowrap;"><a href="/wiki/Venezuela" title="Venezuela"><img alt="Flag of Venezuela" class="thumbborder" data-file-height="600" data-file-width="900" data-url="/images/thumb/5/5d/Venezuela.png/20px-Venezuela.png" decoding="async" height="13" loading="lazy" src="/images/thumb/5/5d/Venezuela.png/20px-Venezuela.png" srcset="/images/thumb/5/5d/Venezuela.png/30px-Venezuela.png 1.5x, /images/thumb/5/5d/Venezuela.png/40px-Venezuela.png 2x" width="20"> </a><a class="new" href="/wiki/index.php?title=Venezuela&amp;action=edit&amp;redlink=1" title="Venezuela (page does not exist)">Venezuela</a></span></li><li><span style="white-space:nowrap;"><a href="/wiki/Xibei_San_Ma" title="Xibei San Ma"><img alt="Flag of Xibei San Ma" class="thumbborder" data-file-height="600" data-file-width="900" data-url="/images/thumb/6/6e/Xibei_San_Ma.png/20px-Xibei_San_Ma.png" decoding="async" height="13" loading="lazy" src="/images/thumb/6/6e/Xibei_San_Ma.png/20px-Xibei_San_Ma.png" srcset="/images/thumb/6/6e/Xibei_San_Ma.png/30px-Xibei_San_Ma.png 1.5x, /images/thumb/6/6e/Xibei_San_Ma.png/40px-Xibei_San_Ma.png 2x" width="20"> </a><a href="/wiki/Xibei_San_Ma" title="Xibei San Ma">Xibei San Ma</a></span></li><li><span style="white-space:nowrap;"><a href="/wiki/Yemen" title="Yemen"><img alt="Flag of Yemen" class="thumbborder" data-file-height="600" data-file-width="900" data-url="/images/thumb/f/fc/Yemen.png/20px-Yemen.png" decoding="async" height="13" loading="lazy" src="/images/thumb/f/fc/Yemen.png/20px-Yemen.png" srcset="/images/thumb/f/fc/Yemen.png/30px-Yemen.png 1.5x, /images/thumb/f/fc/Yemen.png/40px-Yemen.png 2x" width="20"> </a><a class="new" href="/wiki/index.php?title=Yemen&amp;action=edit&amp;redlink=1" title="Yemen (page does not exist)">Yemen</a></span></li><li><span style="white-space:nowrap;"><a href="/wiki/Yunnan" title="Yunnan"><img alt="Flag of Yunnan" class="thumbborder" data-file-height="600" data-file-width="900" data-url="/images/thumb/3/3b/Yunnan.png/20px-Yunnan.png" decoding="async" height="13" loading="lazy" src="/images/thumb/3/3b/Yunnan.png/20px-Yunnan.png" srcset="/images/thumb/3/3b/Yunnan.png/30px-Yunnan.png 1.5x, /images/thumb/3/3b/Yunnan.png/40px-Yunnan.png 2x" width="20"> </a><a href="/wiki/Yunnan" title="Yunnan">Yunnan</a></span></li></ul></td></tr><tr valign="top"><td colspan="4"><h2><span class="mw-headline" id="Guides_to_battlescenarios">Guides to battlescenarios</span></h2><ul><li><a href="/wiki/Strategy_for_Ardennes_Offensive" title="Strategy for Ardennes Offensive">Strategy for Ardennes Offensive</a></li><li><a class="new" href="/wiki/index.php?title=Strategy_for_Battle_of_the_Coral_Sea&amp;action=edit&amp;redlink=1" title="Strategy for Battle of the Coral Sea (page does not exist)">Strategy for Battle of the Coral Sea</a></li><li><a href="/wiki/Strategy_for_D-Day" title="Strategy for D-Day">Strategy for D-Day</a></li><li><a href="/wiki/Strategy_for_Desert_Fox" title="Strategy for Desert Fox">Strategy for Desert Fox</a></li><li><a href="/wiki/Strategy_for_Fall_Barbarossa" title="Strategy for Fall Barbarossa">Strategy for Fall Barbarossa</a></li><li><a href="/wiki/Strategy_for_Fall_Blau" title="Strategy for Fall Blau">Strategy for Fall Blau</a></li><li><a class="new" href="/wiki/index.php?title=Strategy_for_Fall_Gelb&amp;action=edit&amp;redlink=1" title="Strategy for Fall Gelb (page does not exist)">Strategy for Fall Gelb</a></li><li><a href="/wiki/Strategy_for_Fall_Gr%C3%BCn" title="Strategy for Fall Grün">Strategy for Fall Grün</a></li><li><a href="/wiki/Strategy_for_Fall_Wei%C3%9F" title="Strategy for Fall Weiß">Strategy for Fall Weiß</a></li><li><a href="/wiki/Strategy_for_Operation_Downfall:_Invasion_of_Japan" title="Strategy for Operation Downfall: Invasion of Japan">Strategy for Operation Downfall: Invasion of Japan</a></li><li><a href="/wiki/Strategy_for_Operation_Husky" title="Strategy for Operation Husky">Strategy for Operation Husky</a></li><li><a href="/wiki/Strategy_for_Platinean_War" title="Strategy for Platinean War">Strategy for Platinean War</a></li><li><a class="new" href="/wiki/index.php?title=Strategy_for_Southern_Conquests&amp;action=edit&amp;redlink=1" title="Strategy for Southern Conquests (page does not exist)">Strategy for Southern Conquests</a></li><li><a href="/wiki/Strategy_for_Spanish_Civil_War" title="Strategy for Spanish Civil War">Strategy for Spanish Civil War</a></li><li><a href="/wiki/Strategy_for_Operation_Watchtower" title="Strategy for Operation Watchtower">Strategy for Operation Watchtower</a></li><li><a href="/wiki/Strategy_for_Winter_War" title="Strategy for Winter War">Strategy for Winter War</a></li></ul><p><br></p><h2><span class="mw-headline" id="Armageddon_and_The_Abyss_scenarios_guides">Armageddon and The Abyss scenarios guides</span></h2><table cellpadding="10"><tbody><tr valign="top"><td width="33%"><h3><span class="mw-headline" id="Democratic_powers">Democratic powers</span></h3><ul><li><a class="new" href="/wiki/index.php?title=Special:Upload&amp;wpDestFile=Uau.gif" title="File:Uau.gif">File:Uau.gif </a><a class="new" href="/wiki/index.php?title=Australasia_Strategy&amp;action=edit&amp;redlink=1" title="Australasia Strategy (page does not exist)">Australasia Strategy</a></li><li><a class="new" href="/wiki/index.php?title=Special:Upload&amp;wpDestFile=Ubo.gif" title="File:Ubo.gif">File:Ubo.gif </a><a class="new" href="/wiki/index.php?title=Bourbon_Strategy&amp;action=edit&amp;redlink=1" title="Bourbon Strategy (page does not exist)">Bourbon Strategy</a></li><li><a class="new" href="/wiki/index.php?title=Special:Upload&amp;wpDestFile=Uch.gif" title="File:Uch.gif">File:Uch.gif </a><a class="new" href="/wiki/index.php?title=Republic_of_China_Strategy&amp;action=edit&amp;redlink=1" title="Republic of China Strategy (page does not exist)">Republic of China Strategy</a></li><li><a class="new" href="/wiki/index.php?title=Special:Upload&amp;wpDestFile=Ugs.gif" title="File:Ugs.gif">File:Ugs.gif </a><a class="new" href="/wiki/index.php?title=Armageddon_Sweden_Strategy&amp;action=edit&amp;redlink=1" title="Armageddon Sweden Strategy (page does not exist)">Sweden Strategy</a></li><li><a class="new" href="/wiki/index.php?title=Special:Upload&amp;wpDestFile=Utc.gif" title="File:Utc.gif">File:Utc.gif </a><a class="new" href="/wiki/index.php?title=The_Cossacks_Strategy&amp;action=edit&amp;redlink=1" title="The Cossacks Strategy (page does not exist)">The Cossacks Strategy</a></li><li><a class="new" href="/wiki/index.php?title=Special:Upload&amp;wpDestFile=Usn.gif" title="File:Usn.gif">File:Usn.gif </a><a href="/wiki/USNA_Strategy" title="USNA Strategy">USNA Strategy</a></li></ul></td><td width="33%"><h3><span class="mw-headline" id="Fascist_powers">Fascist powers</span></h3><ul><li><a class="new" href="/wiki/index.php?title=Special:Upload&amp;wpDestFile=Uer.gif" title="File:Uer.gif">File:Uer.gif </a><a class="new" href="/wiki/index.php?title=Empire_of_Russia_Strategy&amp;action=edit&amp;redlink=1" title="Empire of Russia Strategy (page does not exist)">Empire of Russia Strategy</a></li><li><a class="new" href="/wiki/index.php?title=Special:Upload&amp;wpDestFile=Uir.gif" title="File:Uir.gif">File:Uir.gif </a><a class="new" href="/wiki/index.php?title=Indian_Republic_Strategy&amp;action=edit&amp;redlink=1" title="Indian Republic Strategy (page does not exist)">Indian Republic Strategy</a></li><li><a class="new" href="/wiki/index.php?title=Special:Upload&amp;wpDestFile=Uic.gif" title="File:Uic.gif">File:Uic.gif </a><a class="new" href="/wiki/index.php?title=Indo_China_Strategy&amp;action=edit&amp;redlink=1" title="Indo China Strategy (page does not exist)">Indo China Strategy</a></li><li><a class="new" href="/wiki/index.php?title=Special:Upload&amp;wpDestFile=Upr.gif" title="File:Upr.gif">File:Upr.gif </a><a href="/wiki/Prussia_Strategy" title="Prussia Strategy">Prussia Strategy</a></li><li><a class="new" href="/wiki/index.php?title=Special:Upload&amp;wpDestFile=Ucs.gif" title="File:Ucs.gif">File:Ucs.gif </a><a class="new" href="/wiki/index.php?title=The_Confederates_Strategy&amp;action=edit&amp;redlink=1" title="The Confederates Strategy (page does not exist)">The Confederates Strategy</a></li><li><a class="new" href="/wiki/index.php?title=Special:Upload&amp;wpDestFile=Uto.gif" title="File:Uto.gif">File:Uto.gif </a><a class="new" href="/wiki/index.php?title=The_Ottomans_Strategy&amp;action=edit&amp;redlink=1" title="The Ottomans Strategy (page does not exist)">The Ottomans Strategy</a></li></ul></td><td width="33%"><h3><span class="mw-headline" id="Communist_powers">Communist powers</span></h3><ul><li><a class="new" href="/wiki/index.php?title=Special:Upload&amp;wpDestFile=Uap.gif" title="File:Uap.gif">File:Uap.gif </a><a class="new" href="/wiki/index.php?title=APR_Strategy&amp;action=edit&amp;redlink=1" title="APR Strategy (page does not exist)">APR Strategy</a></li><li><a class="new" href="/wiki/index.php?title=Special:Upload&amp;wpDestFile=Ues.gif" title="File:Ues.gif">File:Ues.gif </a><a href="/wiki/European_Soviets_Strategy" title="European Soviets Strategy">European Soviets Strategy</a></li><li><a class="new" href="/wiki/index.php?title=Special:Upload&amp;wpDestFile=Ups.gif" title="File:Ups.gif">File:Ups.gif </a><a class="new" href="/wiki/index.php?title=PRRS_Strategy&amp;action=edit&amp;redlink=1" title="PRRS Strategy (page does not exist)">PRRS Strategy</a></li><li><a class="new" href="/wiki/index.php?title=Special:Upload&amp;wpDestFile=Upe.gif" title="File:Upe.gif">File:Upe.gif </a><a class="new" href="/wiki/index.php?title=Republic_of_Persia_Strategy&amp;action=edit&amp;redlink=1" title="Republic of Persia Strategy (page does not exist)">Republic of Persia Strategy</a></li><li><a class="new" href="/wiki/index.php?title=Special:Upload&amp;wpDestFile=Uro.gif" title="File:Uro.gif">File:Uro.gif </a><a class="new" href="/wiki/index.php?title=Roma_Strategy&amp;action=edit&amp;redlink=1" title="Roma Strategy (page does not exist)">Roma Strategy</a></li><li><a class="new" href="/wiki/index.php?title=Special:Upload&amp;wpDestFile=Utl.gif" title="File:Utl.gif">File:Utl.gif </a><a class="new" href="/wiki/index.php?title=The_Libertadores_strategy&amp;action=edit&amp;redlink=1" title="The Libertadores strategy (page does not exist)">The Libertadores strategy</a></li></ul></td></tr><tr valign="top"><td colspan="3"></td></tr></tbody></table></td></tr></tbody></table>
+## [ [Country guides](/wiki/Country_guides "Country guides") ]{#Country_guides .mw-headline}
+
++-----------------+-----------------+-----------------+-----------------+
+| ### | ### [ Reg | ### | ### |
+| [ Major powers | ional powers ]{ | [ Minor powers | [ Micro powers |
+| ]{#Major*power | #Regional_power | ]{#Minor_power | ]{#Micro_power |
+| s .mw-headline} | s .mw-headline} | s .mw-headline} | s .mw-headline} |
+| | | | |
+| 60 and above | Between 20 and | Between 10 and | Below 10 Base |
+| Base IC. | 59 Base IC. | 19 Base IC. | IC. |
+| | | | |
+| - [ [![Flag | - [ [![Flag | - [ [![Flag | - [ [![Flag   |
+|     of          |     of          |     of          |     of          |
+|     France] | A | Austria](/ | Afghani |
+| (/images/thumb/ | rgentina](/imag | images/thumb/7/ | stan](/images/t |
+| d/de/France.png | es/thumb/a/a2/A | 7f/Austria.png/ | humb/7/7d/Afgha |
+| /20px-France.pn | rgentina.png/20 | 20px-Austria.pn | nistan.png/20px |
+| g){.thumbborder | px-Argentina.pn | g){.thumbborder | -Afghanistan.pn |
+| fi | g){.thumbborder | fi | g){.thumbborder |
+| le-height="600" | fi | le-height="600" | fi |
+| f | le-height="600" | f | le-height="600" |
+| ile-width="900" | f | ile-width="900" | f |
+| url="/ | ile-width="900" | url="/im | ile-width="900" |
+| images/thumb/d/ | | ages/thumb/7/7f | u |
+| de/France.png/2 | url="/images | /Austria.png/20 | rl="/images/thu |
+| 0px-France.png" | /thumb/a/a2/Arg | px-Austria.png" | mb/7/7d/Afghani |
+| d | entina.png/20px | d | stan.png/20px-A |
+| ecoding="async" | -Argentina.png" | ecoding="async" | fghanistan.png" |
+| height="13" | d | height="13" | d |
+| | ecoding="async" | | ecoding="async" |
+| loading="lazy" | height="13" | loading="lazy" | height="13" |
+| srcs | | srcset=" | |
+| et="/images/thu | loading="lazy" | /images/thumb/7 | loading="lazy" |
+| mb/d/de/France. | s | /7f/Austria.png | srcset="/ |
+| png/30px-France | rcset="/images/ | /30px-Austria.p | images/thumb/7/ |
+| .png 1.5x, /ima | thumb/a/a2/Arge | ng 1.5x, /image | 7d/Afghanistan. |
+| ges/thumb/d/de/ | ntina.png/30px- | s/thumb/7/7f/Au | png/30px-Afghan |
+| France.png/40px | Argentina.png 1 | stria.png/40px- | istan.png 1.5x, |
+| -France.png 2x" | .5x, /images/th | Austria.png 2x" | /images/thumb/ |
+| width | umb/a/a2/Argent | width=" | 7/7d/Afghanista |
+| ="20"}](/wiki/F | ina.png/40px-Ar | 20"}](/wiki/Aus | n.png/40px-Afgh |
+| rance "France") | gentina.png 2x" | tria "Austria") | anistan.png 2x" |
+| [ | width="20"} | [Aus | |
+| France](/wiki/F | ](/wiki/Argenti | tria](/wiki/Aus | width="20"}](/w |
+| rance "France") | na "Argentina") | tria "Austria") | iki/Afghanistan |
+| | [Argentina | | "Afghanistan") |
+| ]{style="white- | ](/wiki/Argenti | ]{style="white- | [ |
+| space:nowrap;"} | na "Argentina") | space:nowrap;"} | Afghanistan](/w |
+| - [ [![Flag | | - [ [![Flag   | iki/Afghanistan |
+|     of          | ]{style="white- | of | "Afghanistan") |
+| Germany](/ | space:nowrap;"} | Chil | |
+| images/thumb/9/ | - [ [![Flag   | e](/images/thum | ]{style="white- |
+| 9b/Germany.png/ | of | b/f/fa/Chile.pn | space:nowrap;"} |
+| 20px-Germany.pn | A | g/20px-Chile.pn | - [ [![Flag   |
+| g){.thumbborder | ustralia](/imag | g){.thumbborder | of |
+| fi | es/thumb/4/43/A | fi | Albania](/ |
+| le-height="600" | ustralia.png/20 | le-height="600" | images/thumb/0/ |
+| f | px-Australia.pn | f | 07/Albania.png/ |
+| ile-width="900" | g){.thumbborder | ile-width="900" | 20px-Albania.pn |
+| url="/im | fi | url= | g){.thumbborder |
+| ages/thumb/9/9b | le-height="600" | "/images/thumb/ | fi |
+| /Germany.png/20 | f | f/fa/Chile.png/ | le-height="600" |
+| px-Germany.png" | ile-width="900" | 20px-Chile.png" | f |
+| d | | d | ile-width="900" |
+| ecoding="async" | url="/images | ecoding="async" | url="/im |
+| height="13" | /thumb/4/43/Aus | height="13" | ages/thumb/0/07 |
+| | tralia.png/20px | | /Albania.png/20 |
+| loading="lazy" | -Australia.png" | loading="lazy" | px-Albania.png" |
+| srcset=" | d | | d |
+| /images/thumb/9 | ecoding="async" | srcset="/images | ecoding="async" |
+| /9b/Germany.png | height="13" | /thumb/f/fa/Chi | height="13" |
+| /30px-Germany.p | | le.png/30px-Chi | |
+| ng 1.5x, /image | loading="lazy" | le.png 1.5x, /i | loading="lazy" |
+| s/thumb/9/9b/Ge | s | mages/thumb/f/f | srcset=" |
+| rmany.png/40px- | rcset="/images/ | a/Chile.png/40p | /images/thumb/0 |
+| Germany.png 2x" | thumb/4/43/Aust | x-Chile.png 2x" | /07/Albania.png |
+| width=" | ralia.png/30px- | wid | /30px-Albania.p |
+| 20"}](/wiki/Ger | Australia.png 1 | th="20"}](/wiki | ng 1.5x, /image |
+| many "Germany") | .5x, /images/th | /Chile "Chile") | s/thumb/0/07/Al |
+| [Ger | umb/4/43/Austra | [Chi | bania.png/40px- |
+| many](/wiki/Ger | lia.png/40px-Au | le](/wiki/index | Albania.png 2x" |
+| many "Germany") | stralia.png 2x" | .php?title=Chil | width=" |
+| | width="20"} | e&action=edit&r | 20"}](/wiki/Alb |
+| ]{style="white- | ](/wiki/Austral | edlink=1 "Chile | ania "Albania") |
+| space:nowrap;"} | ia "Australia") | (page does not | [Alb |
+| - [ [![Flag | [Australia | exist)"){.new} | ania](/wiki/Alb |
+| of | ](/wiki/Austral | | ania "Albania") |
+| Ital | ia "Australia") | ]{style="white- | |
+| y](/images/thum | | space:nowrap;"} | ]{style="white- |
+| b/2/2a/Italy.pn | ]{style="white- | - [ [![Flag | space:nowrap;"} |
+| g/20px-Italy.pn | space:nowrap;"} | of | - [ [![Flag |
+| g){.thumbborder | - [ [![Flag   |                 |     of          |
+|     fi          |     of          |   Colombia](/im | Bhutan] |
+| le-height="533" | Belgium](/ | ages/thumb/8/80 | (/images/thumb/ |
+| f | images/thumb/3/ | /Colombia.png/2 | 8/85/Bhutan.png |
+| ile-width="800" | 32/Belgium.png/ | 0px-Colombia.pn | /20px-Bhutan.pn |
+| url= | 20px-Belgium.pn | g){.thumbborder | g){.thumbborder |
+| "/images/thumb/ | g){.thumbborder | fi | fi |
+| 2/2a/Italy.png/ | fi | le-height="600" | le-height="600" |
+| 20px-Italy.png" | le-height="600" | f | f |
+| d | f | ile-width="900" | ile-width="900" |
+| ecoding="async" | ile-width="900" | url="/imag | url="/ |
+| height="13" | url="/im | es/thumb/8/80/C | images/thumb/8/ |
+| | ages/thumb/3/32 | olombia.png/20p | 85/Bhutan.png/2 |
+| loading="lazy" | /Belgium.png/20 | x-Colombia.png" | 0px-Bhutan.png" |
+| | px-Belgium.png" | d | d |
+| srcset="/images | d | ecoding="async" | ecoding="async" |
+| /thumb/2/2a/Ita | ecoding="async" | height="13" | height="13" |
+| ly.png/30px-Ita | height="13" | | |
+| ly.png 1.5x, /i | | loading="lazy" | loading="lazy" |
+| mages/thumb/2/2 | loading="lazy" | | srcs |
+| a/Italy.png/40p | srcset=" | srcset="/ima | et="/images/thu |
+| x-Italy.png 2x" | /images/thumb/3 | ges/thumb/8/80/ | mb/8/85/Bhutan. |
+| wid | /32/Belgium.png | Colombia.png/30 | png/30px-Bhutan |
+| th="20"}](/wiki | /30px-Belgium.p | px-Colombia.png | .png 1.5x, /ima |
+| /Italy "Italy") | ng 1.5x, /image | 1.5x, /images/ | ges/thumb/8/85/ |
+| | s/thumb/3/32/Be | thumb/8/80/Colo | Bhutan.png/40px |
+| [Italy](/wiki | lgium.png/40px- | mbia.png/40px-C | -Bhutan.png 2x" |
+| /Italy "Italy") | Belgium.png 2x" | olombia.png 2x" | width |
+| | width=" | width="20 | ="20"}](/wiki/B |
+| ]{style="white- | 20"}](/wiki/Bel | "}](/wiki/Colom | hutan "Bhutan") |
+| space:nowrap;"} | gium "Belgium") | bia "Colombia") | [ |
+| - [ [![Flag | [Bel | | Bhutan](/wiki/B |
+| of | gium](/wiki/Bel | [Colombia](/w | hutan "Bhutan") |
+| Japa | gium "Belgium") | iki/index.php?t | |
+| n](/images/thum | | itle=Colombia&a | ]{style="white- |
+| b/f/fc/Japan.pn | ]{style="white- | ction=edit&redl | space:nowrap;"} |
+| g/20px-Japan.pn | space:nowrap;"} | ink=1 "Colombia | - [ [![Flag |
+| g){.thumbborder | - [ [![Flag   |  (page does not |     of          |
+|     fi          |     of          |  exist)"){.new} |     Bolivia](/ |
+| le-height="600" | Brazil] | | images/thumb/3/ |
+| f | (/images/thumb/ | ]{style="white- | 38/Bolivia.png/ |
+| ile-width="900" | 8/8c/Brazil.png | space:nowrap;"} | 20px-Bolivia.pn |
+| url= | /20px-Brazil.pn | - [ [![Flag   | g){.thumbborder |
+| "/images/thumb/ | g){.thumbborder |     of          |     fi          |
+| f/fc/Japan.png/ |     fi          |     Denmark](/ | le-height="600" |
+| 20px-Japan.png" | le-height="600" | images/thumb/6/ | f |
+| d | f | 69/Denmark.png/ | ile-width="900" |
+| ecoding="async" | ile-width="900" | 20px-Denmark.pn | url="/im |
+| height="13" | url="/ | g){.thumbborder | ages/thumb/3/38 |
+| | images/thumb/8/ | fi | /Bolivia.png/20 |
+| loading="lazy" | 8c/Brazil.png/2 | le-height="600" | px-Bolivia.png" |
+| | 0px-Brazil.png" | f | d |
+| srcset="/images | d | ile-width="900" | ecoding="async" |
+| /thumb/f/fc/Jap | ecoding="async" | url="/im | height="13" |
+| an.png/30px-Jap | height="13" | ages/thumb/6/69 | |
+| an.png 1.5x, /i | | /Denmark.png/20 | loading="lazy" |
+| mages/thumb/f/f | loading="lazy" | px-Denmark.png" | srcset=" |
+| c/Japan.png/40p | srcs | d | /images/thumb/3 |
+| x-Japan.png 2x" | et="/images/thu | ecoding="async" | /38/Bolivia.png |
+| wid | mb/8/8c/Brazil. | height="13" | /30px-Bolivia.p |
+| th="20"}](/wiki | png/30px-Brazil | | ng 1.5x, /image |
+| /Japan "Japan") | .png 1.5x, /ima | loading="lazy" | s/thumb/3/38/Bo |
+| | ges/thumb/8/8c/ | srcset=" | livia.png/40px- |
+| [Japan](/wiki | Brazil.png/40px | /images/thumb/6 | Bolivia.png 2x" |
+| /Japan "Japan") | -Brazil.png 2x" | /69/Denmark.png | width=" |
+| | width | /30px-Denmark.p | 20"}](/wiki/Bol |
+| ]{style="white- | ="20"}](/wiki/B | ng 1.5x, /image | ivia "Bolivia") |
+| space:nowrap;"} | razil "Brazil") | s/thumb/6/69/De | [Bolivia]( |
+| - [ [![Flag | [ | nmark.png/40px- | /wiki/index.php |
+| of United | Brazil](/wiki/B | Denmark.png 2x" | ?title=Bolivia& |
+| Kingdom]( | razil "Brazil") | width=" | action=edit&red |
+| /images/thumb/2 | | 20"}](/wiki/Den | link=1 "Bolivia |
+| /29/United_King | ]{style="white- | mark "Denmark") | (page does not |
+| dom.png/20px-Un | space:nowrap;"} | [Den | exist)"){.new} |
+| ited_Kingdom.pn | - [ [![Flag   | mark](/wiki/Den | |
+| g){.thumbborder | of | mark "Denmark") | ]{style="white- |
+| fi | | | space:nowrap;"} |
+| le-height="600" | Bulgaria](/im | ]{style="white- | - [ [![Flag |
+| f | ages/thumb/f/f4 | space:nowrap;"} | of |
+| ile-width="900" | /Bulgaria.png/2 | - [ [![Flag   |     Communist   |
+|     url="/i     | 0px-Bulgaria.pn |     of          |     China](/i |
+| mages/thumb/2/2 | g){.thumbborder | Finland](/ | mages/thumb/1/1 |
+| 9/United_Kingdo | fi | images/thumb/c/ | a/Communist_Chi |
+| m.png/20px-Unit | le-height="600" | c4/Finland.png/ | na.png/20px-Com |
+| ed_Kingdom.png" | f | 20px-Finland.pn | munist_China.pn |
+| d | ile-width="900" | g){.thumbborder | g){.thumbborder |
+| ecoding="async" | url="/imag | fi | fi |
+| height="13" | es/thumb/f/f4/B | le-height="600" | le-height="600" |
+| | ulgaria.png/20p | f | f |
+| loading="lazy" | x-Bulgaria.png" | ile-width="900" | ile-width="900" |
+| srcset | d | url="/im | url="/ima |
+| ="/images/thumb | ecoding="async" | ages/thumb/c/c4 | ges/thumb/1/1a/ |
+| /2/29/United_Ki | height="13" | /Finland.png/20 | Communist_China |
+| ngdom.png/30px- | | px-Finland.png" | .png/20px-Commu |
+| United_Kingdom. | loading="lazy" | d | nist_China.png" |
+| png 1.5x, /imag | | ecoding="async" | d |
+| es/thumb/2/29/U | srcset="/ima | height="13" | ecoding="async" |
+| nited_Kingdom.p | ges/thumb/f/f4/ | | height="13" |
+| ng/40px-United* | Bulgaria.png/30 | loading="lazy" | |
+| Kingdom.png 2x" | px-Bulgaria.png | srcset=" | loading="lazy" |
+| width= | 1.5x, /images/ | /images/thumb/c | srcset="/i |
+| "20"}](/wiki/Un | thumb/f/f4/Bulg | /c4/Finland.png | mages/thumb/1/1 |
+| ited*Kingdom "U | aria.png/40px-B | /30px-Finland.p | a/Communist_Chi |
+| nited Kingdom") | ulgaria.png 2x" | ng 1.5x, /image | na.png/30px-Com |
+| [United | width="20 | s/thumb/c/c4/Fi | munist_China.pn |
+| Ki | "}](/wiki/Bulga | nland.png/40px- | g 1.5x, /images |
+| ngdom](/wiki/Un | ria "Bulgaria") | Finland.png 2x" | /thumb/1/1a/Com |
+| ited_Kingdom "U | [Bulgar | width=" | munist_China.pn |
+| nited Kingdom") | ia](/wiki/Bulga | 20"}](/wiki/Fin | g/40px-Communis |
+| | ria "Bulgaria") | land "Finland") | t_China.png 2x" |
+| ]{style="white- | | [Fin | width="2 |
+| space:nowrap;"} | ]{style="white- | land](/wiki/Fin | 0"}](/wiki/Comm |
+| - [ [![Flag | space:nowrap;"} | land "Finland") | unist_China "Co |
+| of | - [ [![Flag   |                 | mmunist China") |
+|                 |     of          | ]{style="white- | [Communist |
+| USA](/images/ | Canada] | space:nowrap;"} | Ch |
+| thumb/5/55/USA. | (/images/thumb/ | - [ [![Flag   | ina](/wiki/Comm |
+| png/20px-USA.pn | a/a3/Canada.png | of | unist_China "Co |
+| g){.thumbborder | /20px-Canada.pn | Greece] | mmunist China") |
+| fi | g){.thumbborder | (/images/thumb/ | |
+| le-height="600" | fi | d/d8/Greece.png | ]{style="white- |
+| f | le-height="600" | /20px-Greece.pn | space:nowrap;"} |
+| ile-width="900" | f | g){.thumbborder | - [ [![Flag   |
+|                 | ile-width="900" |     fi          |     of Costa    |
+| url="/images/th |     url="/      | le-height="600" |                 |
+| umb/5/55/USA.pn | images/thumb/a/ |     f           |   Rica](/images |
+| g/20px-USA.png" | a3/Canada.png/2 | ile-width="900" | /thumb/d/da/Cos |
+| d | 0px-Canada.png" | url="/ | ta_Rica.png/20p |
+| ecoding="async" | d | images/thumb/d/ | x-Costa_Rica.pn |
+| height="13" | ecoding="async" | d8/Greece.png/2 | g){.thumbborder |
+| | height="13" | 0px-Greece.png" | fi |
+| loading="lazy" | | d | le-height="600" |
+| srcset= | loading="lazy" | ecoding="async" | f |
+| "/images/thumb/ | srcs | height="13" | ile-width="900" |
+| 5/55/USA.png/30 | et="/images/thu | | |
+| px-USA.png 1.5x | mb/a/a3/Canada. | loading="lazy" | url="/images/t |
+| , /images/thumb | png/30px-Canada | srcs | humb/d/da/Costa |
+| /5/55/USA.png/4 | .png 1.5x, /ima | et="/images/thu | \_Rica.png/20px- |
+| 0px-USA.png 2x" | ges/thumb/a/a3/ | mb/d/d8/Greece. | Costa_Rica.png" |
+| | Canada.png/40px | png/30px-Greece | d |
+| width="20"}](/ | -Canada.png 2x" | .png 1.5x, /ima | ecoding="async" |
+| wiki/USA "USA") | width | ges/thumb/d/d8/ | height="13" |
+| [USA](/ | ="20"}](/wiki/C | Greece.png/40px | |
+| wiki/USA "USA") | anada "Canada") | -Greece.png 2x" | loading="lazy" |
+| | [ | width | srcse |
+| ]{style="white- | Canada](/wiki/C | ="20"}](/wiki/G | t="/images/thum |
+| space:nowrap;"} | anada "Canada") | reece "Greece") | b/d/da/Costa_Ri |
+| - [ [![Flag | | [ | ca.png/30px-Cos |
+| of Soviet | ]{style="white- | Greece](/wiki/G | ta_Rica.png 1.5 |
+| Uni | space:nowrap;"} | reece "Greece") | x, /images/thum |
+| on](/images/thu | - [ [![Flag | | b/d/da/Costa_Ri |
+| mb/6/67/Soviet* | of | ]{style="white- | ca.png/40px-Cos |
+| Union.png/20px- | C | space:nowrap;"} | ta*Rica.png 2x" |
+| Soviet_Union.pn | zechoslovakia]( | - [ [![Flag   |                 |
+| g){.thumbborder | /images/thumb/c |     of          |   width="20"}]( |
+| fi | /c1/Czechoslova | Ireland](/ | /wiki/Costa_Ric |
+| le-height="600" | kia.png/20px-Cz | images/thumb/4/ | a "Costa Rica") |
+| f | echoslovakia.pn | 4b/Ireland.png/ | [Costa |
+| ile-width="900" | g){.thumbborder | 20px-Ireland.pn | |
+| url | fi | g){.thumbborder | Rica](/wiki/ |
+| ="/images/thumb | le-height="533" | fi | index.php?title |
+| /6/67/Soviet_Un | f | le-height="600" | =Costa_Rica&act |
+| ion.png/20px-So | ile-width="800" | f | ion=edit&redlin |
+| viet_Union.png" | url="/i | ile-width="900" | k=1 "Costa Rica |
+| d | mages/thumb/c/c | url="/im | (page does not |
+| ecoding="async" | 1/Czechoslovaki | ages/thumb/4/4b | exist)"){.new} |
+| height="13" | a.png/20px-Czec | /Ireland.png/20 | |
+| | hoslovakia.png" | px-Ireland.png" | ]{style="white- |
+| loading="lazy" | d | d | space:nowrap;"} |
+| | ecoding="async" | ecoding="async" | - [ [![Flag   |
+|   srcset="/imag |     height="13" |     height="13" |     of          |
+| es/thumb/6/67/S |                 |                 |     C           |
+| oviet_Union.png |  loading="lazy" |  loading="lazy" | uba](/images/th |
+| /30px-Soviet_Un | srcset | srcset=" | umb/6/6c/Cuba.p |
+| ion.png 1.5x, / | ="/images/thumb | /images/thumb/4 | ng/20px-Cuba.pn |
+| images/thumb/6/ | /c/c1/Czechoslo | /4b/Ireland.png | g){.thumbborder |
+| 67/Soviet_Union | vakia.png/30px- | /30px-Ireland.p | fi |
+| .png/40px-Sovie | Czechoslovakia. | ng 1.5x, /image | le-height="600" |
+| t_Union.png 2x" | png 1.5x, /imag | s/thumb/4/4b/Ir | f |
+| wi | es/thumb/c/c1/C | eland.png/40px- | ile-width="900" |
+| dth="20"}](/wik | zechoslovakia.p | Ireland.png 2x" | ur |
+| i/Soviet_Union | ng/40px-Czechos | width=" | l="/images/thum |
+| "Soviet Union") | lovakia.png 2x" | 20"}](/wiki/Ire | b/6/6c/Cuba.png |
+| [Soviet | width= | land "Ireland") | /20px-Cuba.png" |
+| Union](/wik | "20"}](/wiki/Cz | [Ire | d |
+| i/Soviet_Union | echoslovakia "C | land](/wiki/Ire | ecoding="async" |
+| "Soviet Union") | zechoslovakia") | land "Ireland") | height="13" |
+| | [Czechoslo | | |
+| ]{style="white- | vakia](/wiki/Cz | ]{style="white- | loading="lazy" |
+| space:nowrap;"} | echoslovakia "C | space:nowrap;"} | srcset="/im |
+| | zechoslovakia") | - [ [![Flag   | ages/thumb/6/6c |
+|                 |                 |     of          | /Cuba.png/30px- |
+|                 | ]{style="white- | Mexico] | Cuba.png 1.5x, |
+| | space:nowrap;"} | (/images/thumb/ | /images/thumb/6 |
+| | - [ [![Flag   | 0/0a/Mexico.png | /6c/Cuba.png/40 |
+|                 |     of Guangxi  | /20px-Mexico.pn | px-Cuba.png 2x" |
+|                 |     Clique]( | g){.thumbborder | w |
+| | /images/thumb/6 | fi | idth="20"}](/wi |
+| | /68/Guangxi_Cli | le-height="600" | ki/Cuba "Cuba") |
+| | que.png/20px-Gu | f | [Cuba](/wi |
+| | angxi_Clique.pn | ile-width="900" | ki/Cuba "Cuba") |
+| | g){.thumbborder | url="/ | |
+| | fi | images/thumb/0/ | ]{style="white- |
+| | le-height="600" | 0a/Mexico.png/2 | space:nowrap;"} |
+| | f | 0px-Mexico.png" | - [ [![Flag   |
+|                 | ile-width="900" |     d           |     of          |
+|                 |     url="/i     | ecoding="async" |     Dominican   |
+|                 | mages/thumb/6/6 |     height="13" |     Rep         |
+|                 | 8/Guangxi_Cliqu |                 | ublic](/images/ |
+| | e.png/20px-Guan | loading="lazy" | thumb/5/5b/Domi |
+| | gxi_Clique.png" | srcs | nican_Republic. |
+| | d | et="/images/thu | png/20px-Domini |
+| | ecoding="async" | mb/0/0a/Mexico. | can_Republic.pn |
+| | height="13" | png/30px-Mexico | g){.thumbborder |
+| | | .png 1.5x, /ima | fi |
+| | loading="lazy" | ges/thumb/0/0a/ | le-height="600" |
+| | srcset | Mexico.png/40px | f |
+| | ="/images/thumb | -Mexico.png 2x" | ile-width="900" |
+| | /6/68/Guangxi_C | width | |
+| | lique.png/30px- | ="20"}](/wiki/M | url="/images/th |
+| | Guangxi_Clique. | exico "Mexico") | umb/5/5b/Domini |
+| | png 1.5x, /imag | [ | can_Republic.pn |
+| | es/thumb/6/68/G | Mexico](/wiki/M | g/20px-Dominica |
+| | uangxi_Clique.p | exico "Mexico") | n_Republic.png" |
+| | ng/40px-Guangxi | | d |
+| | \_Clique.png 2x" | ]{style="white- | ecoding="async" |
+| | width= | space:nowrap;"} | height="13" |
+| | "20"}](/wiki/Gu | - [ [![Flag   |                 |
+|                 | angxi_Clique "G |     of          |  loading="lazy" |
+|                 | uangxi Clique") |     Norway] | srcset= |
+| | [Guangxi | (/images/thumb/ | "/images/thumb/ |
+| | C | 0/0f/Norway.png | 5/5b/Dominican* |
+| | lique](/wiki/Gu | /20px-Norway.pn | Republic.png/30 |
+| | angxi*Clique "G | g){.thumbborder | px-Dominican_Re |
+| | uangxi Clique") | fi | public.png 1.5x |
+| | | le-height="533" | , /images/thumb |
+| | ]{style="white- | f | /5/5b/Dominican |
+| | space:nowrap;"} | ile-width="800" | \_Republic.png/4 |
+| | - [ [![Flag   |     url="/      | 0px-Dominican_R |
+|                 |     of          | images/thumb/0/ | epublic.png 2x" |
+|                 |     Hungary](/ | 0f/Norway.png/2 | |
+| | images/thumb/6/ | 0px-Norway.png" | width="20"}](/ |
+| | 6a/Hungary.png/ | d | wiki/Dominican* |
+| | 20px-Hungary.pn | ecoding="async" | Republic "Domin |
+| | g){.thumbborder | height="13" | ican Republic") |
+| | fi | | [Dominican |
+| | le-height="600" | loading="lazy" | Republic](/ |
+| | f | srcs | wiki/Dominican* |
+| | ile-width="900" | et="/images/thu | Republic "Domin |
+| | url="/im | mb/0/0f/Norway. | ican Republic") |
+| | ages/thumb/6/6a | png/30px-Norway | |
+| | /Hungary.png/20 | .png 1.5x, /ima | ]{style="white- |
+| | px-Hungary.png" | ges/thumb/0/0f/ | space:nowrap;"} |
+| | d | Norway.png/40px | - [ [![Flag   |
+|                 | ecoding="async" | -Norway.png 2x" |     of          |
+|                 |     height="13" |     width       |     Ecuador](/ |
+| | | ="20"}](/wiki/N | images/thumb/b/ |
+| | loading="lazy" | orway "Norway") | b2/Ecuador.png/ |
+| | srcset=" | [Norway | 20px-Ecuador.pn |
+| | /images/thumb/6 | ](/wiki/index.p | g){.thumbborder |
+| | /6a/Hungary.png | hp?title=Norway | fi |
+| | /30px-Hungary.p | &action=edit&re | le-height="600" |
+| | ng 1.5x, /image | dlink=1 "Norway | f |
+| | s/thumb/6/6a/Hu | (page does not | ile-width="900" |
+| | ngary.png/40px- | exist)"){.new} | url="/im |
+| | Hungary.png 2x" | | ages/thumb/b/b2 |
+| | width=" | ]{style="white- | /Ecuador.png/20 |
+| | 20"}](/wiki/Hun | space:nowrap;"} | px-Ecuador.png" |
+| | gary "Hungary") | - [ [![Flag | d |
+| | [Hun | of | ecoding="async" |
+| | gary](/wiki/Hun | P | height="13" |
+| | gary "Hungary") | eru](/images/th | |
+| | | umb/a/a8/Peru.p | loading="lazy" |
+| | ]{style="white- | ng/20px-Peru.pn | srcset=" |
+| | space:nowrap;"} | g){.thumbborder | /images/thumb/b |
+| | - [ [![Flag   |     fi          | /b2/Ecuador.png |
+|                 |     of          | le-height="600" | /30px-Ecuador.p |
+|                 |     M           |     f           | ng 1.5x, /image |
+|                 | anchukuo](/imag | ile-width="900" | s/thumb/b/b2/Ec |
+| | es/thumb/1/16/M | ur | uador.png/40px- |
+| | anchukuo.png/20 | l="/images/thum | Ecuador.png 2x" |
+| | px-Manchukuo.pn | b/a/a8/Peru.png | width=" |
+| | g){.thumbborder | /20px-Peru.png" | 20"}](/wiki/Ecu |
+| | fi | d | ador "Ecuador") |
+| | le-height="600" | ecoding="async" | [Ecuador]( |
+| | f | height="13" | /wiki/index.php |
+| | ile-width="900" | | ?title=Ecuador& |
+| | | loading="lazy" | action=edit&red |
+| | url="/images | srcset="/im | link=1 "Ecuador |
+| | /thumb/1/16/Man | ages/thumb/a/a8 | (page does not |
+| | chukuo.png/20px | /Peru.png/30px- | exist)"){.new} |
+| | -Manchukuo.png" | Peru.png 1.5x, | |
+| | d | /images/thumb/a | ]{style="white- |
+| | ecoding="async" | /a8/Peru.png/40 | space:nowrap;"} |
+| | height="13" | px-Peru.png 2x" | - [ [![Flag   |
+|                 |                 |     w           |     of El       |
+|                 |  loading="lazy" | idth="20"}](/wi | Salv |
+| | s | ki/Peru "Peru") | ador](/images/t |
+| | rcset="/images/ | [Peru](/wi | humb/5/5c/El_Sa |
+| | thumb/1/16/Manc | ki/Peru "Peru") | lvador.png/20px |
+| | hukuo.png/30px- | | -El_Salvador.pn |
+| | Manchukuo.png 1 | ]{style="white- | g){.thumbborder |
+| | .5x, /images/th | space:nowrap;"} | fi |
+| | umb/1/16/Manchu | - [ [![Flag   | le-height="600" |
+|                 | kuo.png/40px-Ma |     of          |     f           |
+|                 | nchukuo.png 2x" |                 | ile-width="900" |
+|                 |     width="20"} |   Portugal](/im | u |
+| | ](/wiki/Manchuk | ages/thumb/1/12 | rl="/images/thu |
+| | uo "Manchukuo") | /Portugal.png/2 | mb/5/5c/El_Salv |
+| | [Manchukuo | 0px-Portugal.pn | ador.png/20px-E |
+| | ](/wiki/Manchuk | g){.thumbborder | l_Salvador.png" |
+| | uo "Manchukuo") | fi | d |
+| | | le-height="600" | ecoding="async" |
+| | ]{style="white- | f | height="13" |
+| | space:nowrap;"} | ile-width="900" | |
+| | - [ [![Flag   |     url="/imag  |  loading="lazy" |
+|                 |     of          | es/thumb/1/12/P |     srcset="/   |
+|                 |     Nationalist | ortugal.png/20p | images/thumb/5/ |
+|                 |                 | x-Portugal.png" | 5c/El_Salvador. |
+|                 |   China](/image | d | png/30px-El_Sal |
+| | s/thumb/7/7e/Na | ecoding="async" | vador.png 1.5x, |
+| | tionalist_China | height="13" | /images/thumb/ |
+| | .png/20px-Natio | | 5/5c/El_Salvado |
+| | nalist_China.pn | loading="lazy" | r.png/40px-El_S |
+| | g){.thumbborder | | alvador.png 2x" |
+| | fi | srcset="/ima | |
+| | le-height="600" | ges/thumb/1/12/ | width="20"}](/w |
+| | f | Portugal.png/30 | iki/El_Salvador |
+| | ile-width="900" | px-Portugal.png | "El Salvador") |
+| | | 1.5x, /images/ | [El |
+| | url="/images/ | thumb/1/12/Port | Sal |
+| | thumb/7/7e/Nati | ugal.png/40px-P | vador](/wiki/in |
+| | onalist_China.p | ortugal.png 2x" | dex.php?title=E |
+| | ng/20px-Nationa | width="20 | l_Salvador&acti |
+| | list_China.png" | "}](/wiki/Portu | on=edit&redlink |
+| | d | gal "Portugal") | =1 "El Salvador |
+| | ecoding="async" | [Portug | (page does not |
+| | height="13" | al](/wiki/Portu | exist)"){.new} |
+| | | gal "Portugal") | |
+| | loading="lazy" | | ]{style="white- |
+| | src | ]{style="white- | space:nowrap;"} |
+| | set="/images/th | space:nowrap;"} | - [ [![Flag |
+| | umb/7/7e/Nation | - [ [![Flag   |     of          |
+|                 | alist_China.png |     of          |     Estonia](/ |
+| | /30px-Nationali | Shanxi] | images/thumb/6/ |
+| | st_China.png 1. | (/images/thumb/ | 6f/Estonia.png/ |
+| | 5x, /images/thu | d/d0/Shanxi.png | 20px-Estonia.pn |
+| | mb/7/7e/Nationa | /20px-Shanxi.pn | g){.thumbborder |
+| | list_China.png/ | g){.thumbborder | fi |
+| | 40px-Nationalis | fi | le-height="600" |
+| | t_China.png 2x" | le-height="600" | f |
+| | | f | ile-width="900" |
+| | width="20"}] | ile-width="900" | url="/im |
+| | (/wiki/National | url="/ | ages/thumb/6/6f |
+| | ist_China "Nati | images/thumb/d/ | /Estonia.png/20 |
+| | onalist China") | d0/Shanxi.png/2 | px-Estonia.png" |
+| | | 0px-Shanxi.png" | d |
+| | [Nationalist | d | ecoding="async" |
+| | China] | ecoding="async" | height="13" |
+| | (/wiki/National | height="13" | |
+| | ist_China "Nati | | loading="lazy" |
+| | onalist China") | loading="lazy" | srcset=" |
+| | | srcs | /images/thumb/6 |
+| | ]{style="white- | et="/images/thu | /6f/Estonia.png |
+| | space:nowrap;"} | mb/d/d0/Shanxi. | /30px-Estonia.p |
+| | - [ [![Flag   | png/30px-Shanxi | ng 1.5x, /image |
+|                 |     of          | .png 1.5x, /ima | s/thumb/6/6f/Es |
+|                 |     Nationalist | ges/thumb/d/d0/ | tonia.png/40px- |
+|                 |                 | Shanxi.png/40px | Estonia.png 2x" |
+|                 |   Spain](/image | -Shanxi.png 2x" | width=" |
+| | s/thumb/2/2c/Na | width | 20"}](/wiki/Est |
+| | tionalist_Spain | ="20"}](/wiki/S | onia "Estonia") |
+| | .png/20px-Natio | hanxi "Shanxi") | [Est |
+| | nalist_Spain.pn | [ | onia](/wiki/Est |
+| | g){.thumbborder | Shanxi](/wiki/S | onia "Estonia") |
+| | fi | hanxi "Shanxi") | |
+| | le-height="600" | | ]{style="white- |
+| | f | ]{style="white- | space:nowrap;"} |
+| | ile-width="900" | space:nowrap;"} | - [ [![Flag |
+| | | - [ [![Flag   |     of          |
+|                 |   url="/images/ |     of South    |                 |
+|                 | thumb/2/2c/Nati |     Afri        |   Ethiopia](/im |
+| | onalist_Spain.p | ca](/images/thu | ages/thumb/0/06 |
+| | ng/20px-Nationa | mb/e/ef/South_A | /Ethiopia.png/2 |
+| | list_Spain.png" | frica.png/20px- | 0px-Ethiopia.pn |
+| | d | South_Africa.pn | g){.thumbborder |
+| | ecoding="async" | g){.thumbborder | fi |
+| | height="13" | fi | le-height="600" |
+| | | le-height="533" | f |
+| | loading="lazy" | f | ile-width="900" |
+| | src | ile-width="800" | url="/imag |
+| | set="/images/th | url | es/thumb/0/06/E |
+| | umb/2/2c/Nation | ="/images/thumb | thiopia.png/20p |
+| | alist_Spain.png | /e/ef/South_Afr | x-Ethiopia.png" |
+| | /30px-Nationali | ica.png/20px-So | d |
+| | st_Spain.png 1. | uth_Africa.png" | ecoding="async" |
+| | 5x, /images/thu | d | height="13" |
+| | mb/2/2c/Nationa | ecoding="async" | |
+| | list_Spain.png/ | height="13" | loading="lazy" |
+| | 40px-Nationalis | | |
+| | t_Spain.png 2x" | loading="lazy" | srcset="/ima |
+| | | | ges/thumb/0/06/ |
+| | width="20"}] | srcset="/imag | Ethiopia.png/30 |
+| | (/wiki/National | es/thumb/e/ef/S | px-Ethiopia.png |
+| | ist_Spain "Nati | outh_Africa.png | 1.5x, /images/ |
+| | onalist Spain") | /30px-South_Afr | thumb/0/06/Ethi |
+| | | ica.png 1.5x, / | opia.png/40px-E |
+| | [Nationalist | images/thumb/e/ | thiopia.png 2x" |
+| | Spain] | ef/South_Africa | width="20 |
+| | (/wiki/National | .png/40px-South | "}](/wiki/Ethio |
+| | ist_Spain "Nati | \_Africa.png 2x" | pia "Ethiopia") |
+| | onalist Spain") | wi | [Ethiop |
+| | | dth="20"}](/wik | ia](/wiki/Ethio |
+| | ]{style="white- | i/South_Africa | pia "Ethiopia") |
+| | space:nowrap;"} | "South Africa") | |
+| | - [ [![Flag | [South | ]{style="white- |
+| | of | | space:nowrap;"} |
+| | Netherl | Africa](/wik | - [ [![Flag   |
+|                 | ands](/images/t | i/South_Africa | of |
+| | humb/3/32/Nethe | "South Africa") | G |
+| | rlands.png/20px | | uatemala](/imag |
+| | -Netherlands.pn | ]{style="white- | es/thumb/5/55/G |
+| | g){.thumbborder | space:nowrap;"} | uatemala.png/20 |
+| | fi | - [ [![Flag   | px-Guatemala.pn |
+|                 | le-height="600" |     of          | g){.thumbborder |
+|                 |     f           |                 |     fi          |
+|                 | ile-width="900" |   Slovakia](/im | le-height="600" |
+| | u | ages/thumb/8/89 | f |
+| | rl="/images/thu | /Slovakia.png/2 | ile-width="900" |
+| | mb/3/32/Netherl | 0px-Slovakia.pn | |
+| | ands.png/20px-N | g){.thumbborder | url="/images |
+| | etherlands.png" | fi | /thumb/5/55/Gua |
+| | d | le-height="600" | temala.png/20px |
+| | ecoding="async" | f | -Guatemala.png" |
+| | height="13" | ile-width="900" | d |
+| | | url="/imag | ecoding="async" |
+| | loading="lazy" | es/thumb/8/89/S | height="13" |
+| | srcset="/ | lovakia.png/20p | |
+| | images/thumb/3/ | x-Slovakia.png" | loading="lazy" |
+| | 32/Netherlands. | d | s |
+| | png/30px-Nether | ecoding="async" | rcset="/images/ |
+| | lands.png 1.5x, | height="13" | thumb/5/55/Guat |
+| | /images/thumb/ | | emala.png/30px- |
+| | 3/32/Netherland | loading="lazy" | Guatemala.png 1 |
+| | s.png/40px-Neth | | .5x, /images/th |
+| | erlands.png 2x" | srcset="/ima | umb/5/55/Guatem |
+| | | ges/thumb/8/89/ | ala.png/40px-Gu |
+| | width="20"}](/w | Slovakia.png/30 | atemala.png 2x" |
+| | iki/Netherlands | px-Slovakia.png | width="20"} |
+| | "Netherlands") | 1.5x, /images/ | ](/wiki/Guatema |
+| | [ | thumb/8/89/Slov | la "Guatemala") |
+| | Netherlands](/w | akia.png/40px-S | [Guatemala |
+| | iki/Netherlands | lovakia.png 2x" | ](/wiki/Guatema |
+| | "Netherlands") | width="20 | la "Guatemala") |
+| | | "}](/wiki/Slova | |
+| | ]{style="white- | kia "Slovakia") | ]{style="white- |
+| | space:nowrap;"} | [Slovak | space:nowrap;"} |
+| | - [ [![Flag   | ia](/wiki/Slova | - [ [![Flag   |
+|                 |     of          | kia "Slovakia") |     of          |
+|                 |     Poland] | | Hait |
+| | (/images/thumb/ | ]{style="white- | i](/images/thum |
+| | 9/99/Poland.png | space:nowrap;"} | b/2/28/Haiti.pn |
+| | /20px-Poland.pn | - [ [![Flag   | g/20px-Haiti.pn |
+|                 | g){.thumbborder |     of          | g){.thumbborder |
+|                 |     fi          |     Switzer     |     fi          |
+|                 | le-height="600" | land](/images/t | le-height="600" |
+| | f | humb/0/01/Switz | f |
+| | ile-width="900" | erland.png/20px | ile-width="900" |
+| | url="/ | -Switzerland.pn | url= |
+| | images/thumb/9/ | g){.thumbborder | "/images/thumb/ |
+| | 99/Poland.png/2 | fi | 2/28/Haiti.png/ |
+| | 0px-Poland.png" | le-height="600" | 20px-Haiti.png" |
+| | d | f | d |
+| | ecoding="async" | ile-width="900" | ecoding="async" |
+| | height="13" | u | height="13" |
+| | | rl="/images/thu | |
+| | loading="lazy" | mb/0/01/Switzer | loading="lazy" |
+| | srcs | land.png/20px-S | |
+| | et="/images/thu | witzerland.png" | srcset="/images |
+| | mb/9/99/Poland. | d | /thumb/2/28/Hai |
+| | png/30px-Poland | ecoding="async" | ti.png/30px-Hai |
+| | .png 1.5x, /ima | height="13" | ti.png 1.5x, /i |
+| | ges/thumb/9/99/ | | mages/thumb/2/2 |
+| | Poland.png/40px | loading="lazy" | 8/Haiti.png/40p |
+| | -Poland.png 2x" | srcset="/ | x-Haiti.png 2x" |
+| | width | images/thumb/0/ | wid |
+| | ="20"}](/wiki/P | 01/Switzerland. | th="20"}](/wiki |
+| | oland "Poland") | png/30px-Switze | /Haiti "Haiti") |
+| | [ | rland.png 1.5x, | [Hai |
+| | Poland](/wiki/P | /images/thumb/ | ti](/wiki/index |
+| | oland "Poland") | 0/01/Switzerlan | .php?title=Hait |
+| | | d.png/40px-Swit | i&action=edit&r |
+| | ]{style="white- | zerland.png 2x" | edlink=1 "Haiti |
+| | space:nowrap;"} | | (page does not |
+| | - [ [![Flag   | width="20"}](/w | exist)"){.new} |
+| | of | iki/Switzerland | |
+| | Republican | "Switzerland") | ]{style="white- |
+| | Spain](/ima | [ | space:nowrap;"} |
+| | ges/thumb/2/24/ | Switzerland](/w | - [ [![Flag   |
+|                 | Republican_Spai | iki/Switzerland |     of          |
+|                 | n.png/20px-Repu |  "Switzerland") |                 |
+|                 | blican_Spain.pn |                 |   Honduras](/im |
+| | g){.thumbborder | ]{style="white- | ages/thumb/0/09 |
+| | fi | space:nowrap;"} | /Honduras.png/2 |
+| | le-height="600" | | 0px-Honduras.pn |
+| | f | | g){.thumbborder |
+| | ile-width="900" | | fi |
+| | url="/image | | le-height="600" |
+| | s/thumb/2/24/Re | | f |
+| | publican_Spain. | | ile-width="900" |
+| | png/20px-Republ | | url="/imag |
+| | ican_Spain.png" | | es/thumb/0/09/H |
+| | d | | onduras.png/20p |
+| | ecoding="async" | | x-Honduras.png" |
+| | height="13" | | d |
+| | | | ecoding="async" |
+| | loading="lazy" | | height="13" |
+| | | | |
+| | srcset="/image | | loading="lazy" |
+| | s/thumb/2/24/Re | | |
+| | publican_Spain. | | srcset="/ima |
+| | png/30px-Republ | | ges/thumb/0/09/ |
+| | ican_Spain.png | | Honduras.png/30 |
+| | 1.5x, /images/t | | px-Honduras.png |
+| | humb/2/24/Repub | | 1.5x, /images/ |
+| | lican_Spain.png | | thumb/0/09/Hond |
+| | /40px-Republica | | uras.png/40px-H |
+| | n_Spain.png 2x" | | onduras.png 2x" |
+| | width="20" | | width="20 |
+| | }](/wiki/Republ | | "}](/wiki/Hondu |
+| | ican_Spain "Rep | | ras "Honduras") |
+| | ublican Spain") | | |
+| | [Republican | | [Honduras](/w |
+| | Spai | | iki/index.php?t |
+| | n](/wiki/Republ | | itle=Honduras&a |
+| | ican_Spain "Rep | | ction=edit&redl |
+| | ublican Spain") | | ink=1 "Honduras |
+| | | | (page does not |
+| | ]{style="white- | | exist)"){.new} |
+| | space:nowrap;"} | | |
+| | - [ [![Flag   |                 | ]{style="white- |
+| | of | | space:nowrap;"} |
+| | Romania](/ | | - [ [![Flag   |
+|                 | images/thumb/8/ |                 |     of          |
+|                 | 8f/Romania.png/ |                 |     I           |
+|                 | 20px-Romania.pn |                 | raq](/images/th |
+| | g){.thumbborder | | umb/c/c4/Iraq.p |
+| | fi | | ng/20px-Iraq.pn |
+| | le-height="600" | | g){.thumbborder |
+| | f | | fi |
+| | ile-width="900" | | le-height="600" |
+| | url="/im | | f |
+| | ages/thumb/8/8f | | ile-width="900" |
+| | /Romania.png/20 | | ur |
+| | px-Romania.png" | | l="/images/thum |
+| | d | | b/c/c4/Iraq.png |
+| | ecoding="async" | | /20px-Iraq.png" |
+| | height="13" | | d |
+| | | | ecoding="async" |
+| | loading="lazy" | | height="13" |
+| | srcset=" | | |
+| | /images/thumb/8 | | loading="lazy" |
+| | /8f/Romania.png | | srcset="/im |
+| | /30px-Romania.p | | ages/thumb/c/c4 |
+| | ng 1.5x, /image | | /Iraq.png/30px- |
+| | s/thumb/8/8f/Ro | | Iraq.png 1.5x, |
+| | mania.png/40px- | | /images/thumb/c |
+| | Romania.png 2x" | | /c4/Iraq.png/40 |
+| | width=" | | px-Iraq.png 2x" |
+| | 20"}](/wiki/Rom | | w |
+| | ania "Romania") | | idth="20"}](/wi |
+| | [Rom | | ki/Iraq "Iraq") |
+| | ania](/wiki/Rom | | [Iraq](/wi |
+| | ania "Romania") | | ki/Iraq "Iraq") |
+| | | | |
+| | ]{style="white- | | ]{style="white- |
+| | space:nowrap;"} | | space:nowrap;"} |
+| | - [ [![Flag | | - [ [![Flag   |
+|                 |     of          |                 |     of          |
+|                 |     Sweden] | | Latvia] |
+| | (/images/thumb/ | | (/images/thumb/ |
+| | 9/98/Sweden.png | | 7/7c/Latvia.png |
+| | /20px-Sweden.pn | | /20px-Latvia.pn |
+| | g){.thumbborder | | g){.thumbborder |
+| | fi | | fi |
+| | le-height="600" | | le-height="600" |
+| | f | | f |
+| | ile-width="900" | | ile-width="900" |
+| | url="/ | | url="/ |
+| | images/thumb/9/ | | images/thumb/7/ |
+| | 98/Sweden.png/2 | | 7c/Latvia.png/2 |
+| | 0px-Sweden.png" | | 0px-Latvia.png" |
+| | d | | d |
+| | ecoding="async" | | ecoding="async" |
+| | height="13" | | height="13" |
+| | | | |
+| | loading="lazy" | | loading="lazy" |
+| | srcs | | srcs |
+| | et="/images/thu | | et="/images/thu |
+| | mb/9/98/Sweden. | | mb/7/7c/Latvia. |
+| | png/30px-Sweden | | png/30px-Latvia |
+| | .png 1.5x, /ima | | .png 1.5x, /ima |
+| | ges/thumb/9/98/ | | ges/thumb/7/7c/ |
+| | Sweden.png/40px | | Latvia.png/40px |
+| | -Sweden.png 2x" | | -Latvia.png 2x" |
+| | width | | width |
+| | ="20"}](/wiki/S | | ="20"}](/wiki/L |
+| | weden "Sweden") | | atvia "Latvia") |
+| | [ | | [ |
+| | Sweden](/wiki/S | | Latvia](/wiki/L |
+| | weden "Sweden") | | atvia "Latvia") |
+| | | | |
+| | ]{style="white- | | ]{style="white- |
+| | space:nowrap;"} | | space:nowrap;"} |
+| | - [ [![Flag | | - [ [![Flag   |
+|                 |     of          |                 |     of          |
+|                 |     Turkey] | | Liberia](/ |
+| | (/images/thumb/ | | images/thumb/0/ |
+| | b/b3/Turkey.png | | 05/Liberia.png/ |
+| | /20px-Turkey.pn | | 20px-Liberia.pn |
+| | g){.thumbborder | | g){.thumbborder |
+| | fi | | fi |
+| | le-height="600" | | le-height="600" |
+| | f | | f |
+| | ile-width="900" | | ile-width="900" |
+| | url="/ | | url="/im |
+| | images/thumb/b/ | | ages/thumb/0/05 |
+| | b3/Turkey.png/2 | | /Liberia.png/20 |
+| | 0px-Turkey.png" | | px-Liberia.png" |
+| | d | | d |
+| | ecoding="async" | | ecoding="async" |
+| | height="13" | | height="13" |
+| | | | |
+| | loading="lazy" | | loading="lazy" |
+| | srcs | | srcset=" |
+| | et="/images/thu | | /images/thumb/0 |
+| | mb/b/b3/Turkey. | | /05/Liberia.png |
+| | png/30px-Turkey | | /30px-Liberia.p |
+| | .png 1.5x, /ima | | ng 1.5x, /image |
+| | ges/thumb/b/b3/ | | s/thumb/0/05/Li |
+| | Turkey.png/40px | | beria.png/40px- |
+| | -Turkey.png 2x" | | Liberia.png 2x" |
+| | width | | width=" |
+| | ="20"}](/wiki/T | | 20"}](/wiki/Lib |
+| | urkey "Turkey") | | eria "Liberia") |
+| | [ | | [Lib |
+| | Turkey](/wiki/T | | eria](/wiki/Lib |
+| | urkey "Turkey") | | eria "Liberia") |
+| | | | |
+| | ]{style="white- | | ]{style="white- |
+| | space:nowrap;"} | | space:nowrap;"} |
+| | - [ [![Flag | | - [ [![Flag   |
+|                 |     of Vichy    |                 |     of          |
+|                 |     Fran        |                 |     L           |
+|                 | ce](/images/thu | | ithuania](/imag |
+| | mb/e/ec/Vichy_F | | es/thumb/d/d9/L |
+| | rance.png/20px- | | ithuania.png/20 |
+| | Vichy_France.pn | | px-Lithuania.pn |
+| | g){.thumbborder | | g){.thumbborder |
+| | fi | | fi |
+| | le-height="600" | | le-height="600" |
+| | f | | f |
+| | ile-width="900" | | ile-width="900" |
+| | url | | |
+| | ="/images/thumb | | url="/images |
+| | /e/ec/Vichy_Fra | | /thumb/d/d9/Lit |
+| | nce.png/20px-Vi | | huania.png/20px |
+| | chy_France.png" | | -Lithuania.png" |
+| | d | | d |
+| | ecoding="async" | | ecoding="async" |
+| | height="13" | | height="13" |
+| | | | |
+| | loading="lazy" | | loading="lazy" |
+| | | | s |
+| | srcset="/imag | | rcset="/images/ |
+| | es/thumb/e/ec/V | | thumb/d/d9/Lith |
+| | ichy_France.png | | uania.png/30px- |
+| | /30px-Vichy_Fra | | Lithuania.png 1 |
+| | nce.png 1.5x, / | | .5x, /images/th |
+| | images/thumb/e/ | | umb/d/d9/Lithua |
+| | ec/Vichy_France | | nia.png/40px-Li |
+| | .png/40px-Vichy | | thuania.png 2x" |
+| | \_France.png 2x" | | width="20"} |
+| | wi | | ](/wiki/Lithuan |
+| | dth="20"}](/wik | | ia "Lithuania") |
+| | i/Vichy_France | | [Lithuania |
+| | "Vichy France") | | ](/wiki/Lithuan |
+| | [Vichy | | ia "Lithuania") |
+| | Fra | | |
+| | nce](/wiki/inde | | ]{style="white- |
+| | x.php?title=Vic | | space:nowrap;"} |
+| | hy_France&actio | | - [ [![Flag   |
+|                 | n=edit&redlink= |                 |     of          |
+|                 | 1 "Vichy France |                 |     L           |
+|                 |  (page does not |                 | uxemburg](/imag |
+| | exist)"){.new} | | es/thumb/5/53/L |
+| | | | uxemburg.png/20 |
+| | ]{style="white- | | px-Luxemburg.pn |
+| | space:nowrap;"} | | g){.thumbborder |
+| | - [ [![Flag   |                 |     fi          |
+|                 |     of          |                 | le-height="600" |
+|                 |     Yugo        |                 |     f           |
+|                 | slavia](/images | | ile-width="900" |
+| | /thumb/f/f3/Yug | | |
+| | oslavia.png/20p | | url="/images |
+| | x-Yugoslavia.pn | | /thumb/5/53/Lux |
+| | g){.thumbborder | | emburg.png/20px |
+| | fi | | -Luxemburg.png" |
+| | le-height="600" | | d |
+| | f | | ecoding="async" |
+| | ile-width="900" | | height="13" |
+| | | | |
+| | url="/images/t | | loading="lazy" |
+| | humb/f/f3/Yugos | | s |
+| | lavia.png/20px- | | rcset="/images/ |
+| | Yugoslavia.png" | | thumb/5/53/Luxe |
+| | d | | mburg.png/30px- |
+| | ecoding="async" | | Luxemburg.png 1 |
+| | height="13" | | .5x, /images/th |
+| | | | umb/5/53/Luxemb |
+| | loading="lazy" | | urg.png/40px-Lu |
+| | srcse | | xemburg.png 2x" |
+| | t="/images/thum | | width="20"} |
+| | b/f/f3/Yugoslav | | ](/wiki/Luxembu |
+| | ia.png/30px-Yug | | rg "Luxemburg") |
+| | oslavia.png 1.5 | | [Luxemburg |
+| | x, /images/thum | | ](/wiki/Luxembu |
+| | b/f/f3/Yugoslav | | rg "Luxemburg") |
+| | ia.png/40px-Yug | | |
+| | oslavia.png 2x" | | ]{style="white- |
+| | | | space:nowrap;"} |
+| | width="20"}]( | | - [ [![Flag   |
+|                 | /wiki/Yugoslavi |                 |     of          |
+|                 | a "Yugoslavia") |                 |                 |
+|                 |                 |                 |   Mongolia](/im |
+| | [Yugoslavia]( | | ages/thumb/b/bc |
+| | /wiki/Yugoslavi | | /Mongolia.png/2 |
+| | a "Yugoslavia") | | 0px-Mongolia.pn |
+| | | | g){.thumbborder |
+| | ]{style="white- | | fi |
+| | space:nowrap;"} | | le-height="600" |
+| | | | f |
+| | | | ile-width="900" |
+| | | | url="/imag |
+| | | | es/thumb/b/bc/M |
+| | | | ongolia.png/20p |
+| | | | x-Mongolia.png" |
+| | | | d |
+| | | | ecoding="async" |
+| | | | height="13" |
+| | | | |
+| | | | loading="lazy" |
+| | | | |
+| | | | srcset="/ima |
+| | | | ges/thumb/b/bc/ |
+| | | | Mongolia.png/30 |
+| | | | px-Mongolia.png |
+| | | | 1.5x, /images/ |
+| | | | thumb/b/bc/Mong |
+| | | | olia.png/40px-M |
+| | | | ongolia.png 2x" |
+| | | | width="20 |
+| | | | "}](/wiki/Mongo |
+| | | | lia "Mongolia") |
+| | | | [Mongol |
+| | | | ia](/wiki/Mongo |
+| | | | lia "Mongolia") |
+| | | | |
+| | | | ]{style="white- |
+| | | | space:nowrap;"} |
+| | | | - [ [![Flag   |
+|                 |                 |                 |     of          |
+|                 |                 |                 |     Nepa        |
+|                 |                 |                 | l](/images/thum |
+| | | | b/3/3a/Nepal.pn |
+| | | | g/20px-Nepal.pn |
+| | | | g){.thumbborder |
+| | | | fi |
+| | | | le-height="600" |
+| | | | f |
+| | | | ile-width="900" |
+| | | | url= |
+| | | | "/images/thumb/ |
+| | | | 3/3a/Nepal.png/ |
+| | | | 20px-Nepal.png" |
+| | | | d |
+| | | | ecoding="async" |
+| | | | height="13" |
+| | | | |
+| | | | loading="lazy" |
+| | | | |
+| | | | srcset="/images |
+| | | | /thumb/3/3a/Nep |
+| | | | al.png/30px-Nep |
+| | | | al.png 1.5x, /i |
+| | | | mages/thumb/3/3 |
+| | | | a/Nepal.png/40p |
+| | | | x-Nepal.png 2x" |
+| | | | wid |
+| | | | th="20"}](/wiki |
+| | | | /Nepal "Nepal") |
+| | | | [Nep |
+| | | | al](/wiki/index |
+| | | | .php?title=Nepa |
+| | | | l&action=edit&r |
+| | | | edlink=1 "Nepal |
+| | | | (page does not |
+| | | | exist)"){.new} |
+| | | | |
+| | | | ]{style="white- |
+| | | | space:nowrap;"} |
+| | | | - [ [![Flag   |
+|                 |                 |                 |     of New      |
+|                 |                 |                 |     Zea         |
+|                 |                 |                 | land](/images/t |
+| | | | humb/d/d9/New_Z |
+| | | | ealand.png/20px |
+| | | | -New_Zealand.pn |
+| | | | g){.thumbborder |
+| | | | fi |
+| | | | le-height="600" |
+| | | | f |
+| | | | ile-width="900" |
+| | | | u |
+| | | | rl="/images/thu |
+| | | | mb/d/d9/New_Zea |
+| | | | land.png/20px-N |
+| | | | ew_Zealand.png" |
+| | | | d |
+| | | | ecoding="async" |
+| | | | height="13" |
+| | | | |
+| | | | loading="lazy" |
+| | | | srcset="/ |
+| | | | images/thumb/d/ |
+| | | | d9/New_Zealand. |
+| | | | png/30px-New_Ze |
+| | | | aland.png 1.5x, |
+| | | | /images/thumb/ |
+| | | | d/d9/New_Zealan |
+| | | | d.png/40px-New* |
+| | | | Zealand.png 2x" |
+| | | | |
+| | | | width="20"}](/w |
+| | | | iki/New*Zealand |
+| | | | "New Zealand") |
+| | | | [New |
+| | | | Zealand](/w |
+| | | | iki/New_Zealand |
+| | | | "New Zealand") |
+| | | | |
+| | | | ]{style="white- |
+| | | | space:nowrap;"} |
+| | | | - [ [![Flag   |
+|                 |                 |                 |     of          |
+|                 |                 |                 |     N           |
+|                 |                 |                 | icaragua](/imag |
+| | | | es/thumb/9/91/N |
+| | | | icaragua.png/20 |
+| | | | px-Nicaragua.pn |
+| | | | g){.thumbborder |
+| | | | fi |
+| | | | le-height="600" |
+| | | | f |
+| | | | ile-width="900" |
+| | | | |
+| | | | url="/images |
+| | | | /thumb/9/91/Nic |
+| | | | aragua.png/20px |
+| | | | -Nicaragua.png" |
+| | | | d |
+| | | | ecoding="async" |
+| | | | height="13" |
+| | | | |
+| | | | loading="lazy" |
+| | | | s |
+| | | | rcset="/images/ |
+| | | | thumb/9/91/Nica |
+| | | | ragua.png/30px- |
+| | | | Nicaragua.png 1 |
+| | | | .5x, /images/th |
+| | | | umb/9/91/Nicara |
+| | | | gua.png/40px-Ni |
+| | | | caragua.png 2x" |
+| | | | width="20"} |
+| | | | ](/wiki/Nicarag |
+| | | | ua "Nicaragua") |
+| | | | [ |
+| | | | Nicaragua](/wik |
+| | | | i/index.php?tit |
+| | | | le=Nicaragua&ac |
+| | | | tion=edit&redli |
+| | | | nk=1 "Nicaragua |
+| | | | (page does not |
+| | | | exist)"){.new} |
+| | | | |
+| | | | ]{style="white- |
+| | | | space:nowrap;"} |
+| | | | - [ [![Flag   |
+|                 |                 |                 |     of          |
+|                 |                 |                 |     O           |
+|                 |                 |                 | man](/images/th |
+| | | | umb/2/27/Oman.p |
+| | | | ng/20px-Oman.pn |
+| | | | g){.thumbborder |
+| | | | fi |
+| | | | le-height="217" |
+| | | | f |
+| | | | ile-width="327" |
+| | | | ur |
+| | | | l="/images/thum |
+| | | | b/2/27/Oman.png |
+| | | | /20px-Oman.png" |
+| | | | d |
+| | | | ecoding="async" |
+| | | | height="13" |
+| | | | |
+| | | | loading="lazy" |
+| | | | srcset="/im |
+| | | | ages/thumb/2/27 |
+| | | | /Oman.png/30px- |
+| | | | Oman.png 1.5x, |
+| | | | /images/thumb/2 |
+| | | | /27/Oman.png/40 |
+| | | | px-Oman.png 2x" |
+| | | | w |
+| | | | idth="20"}](/wi |
+| | | | ki/Oman "Oman") |
+| | | | [ |
+| | | | Oman](/wiki/ind |
+| | | | ex.php?title=Om |
+| | | | an&action=edit& |
+| | | | redlink=1 "Oman |
+| | | | (page does not |
+| | | | exist)"){.new} |
+| | | | |
+| | | | ]{style="white- |
+| | | | space:nowrap;"} |
+| | | | - [ [![Flag   |
+|                 |                 |                 |     of          |
+|                 |                 |                 |     Panama] |
+| | | | (/images/thumb/ |
+| | | | 3/3f/Panama.png |
+| | | | /20px-Panama.pn |
+| | | | g){.thumbborder |
+| | | | fi |
+| | | | le-height="600" |
+| | | | f |
+| | | | ile-width="900" |
+| | | | url="/ |
+| | | | images/thumb/3/ |
+| | | | 3f/Panama.png/2 |
+| | | | 0px-Panama.png" |
+| | | | d |
+| | | | ecoding="async" |
+| | | | height="13" |
+| | | | |
+| | | | loading="lazy" |
+| | | | srcs |
+| | | | et="/images/thu |
+| | | | mb/3/3f/Panama. |
+| | | | png/30px-Panama |
+| | | | .png 1.5x, /ima |
+| | | | ges/thumb/3/3f/ |
+| | | | Panama.png/40px |
+| | | | -Panama.png 2x" |
+| | | | width |
+| | | | ="20"}](/wiki/P |
+| | | | anama "Panama") |
+| | | | [Panama |
+| | | | ](/wiki/index.p |
+| | | | hp?title=Panama |
+| | | | &action=edit&re |
+| | | | dlink=1 "Panama |
+| | | | (page does not |
+| | | | exist)"){.new} |
+| | | | |
+| | | | ]{style="white- |
+| | | | space:nowrap;"} |
+| | | | - [ [![Flag   |
+|                 |                 |                 |     of          |
+|                 |                 |                 |                 |
+|                 |                 |                 |   Paraguay](/im |
+| | | | ages/thumb/5/57 |
+| | | | /Paraguay.png/2 |
+| | | | 0px-Paraguay.pn |
+| | | | g){.thumbborder |
+| | | | fi |
+| | | | le-height="600" |
+| | | | f |
+| | | | ile-width="900" |
+| | | | url="/imag |
+| | | | es/thumb/5/57/P |
+| | | | araguay.png/20p |
+| | | | x-Paraguay.png" |
+| | | | d |
+| | | | ecoding="async" |
+| | | | height="13" |
+| | | | |
+| | | | loading="lazy" |
+| | | | |
+| | | | srcset="/ima |
+| | | | ges/thumb/5/57/ |
+| | | | Paraguay.png/30 |
+| | | | px-Paraguay.png |
+| | | | 1.5x, /images/ |
+| | | | thumb/5/57/Para |
+| | | | guay.png/40px-P |
+| | | | araguay.png 2x" |
+| | | | width="20 |
+| | | | "}](/wiki/Parag |
+| | | | uay "Paraguay") |
+| | | | |
+| | | | [Paraguay](/w |
+| | | | iki/index.php?t |
+| | | | itle=Paraguay&a |
+| | | | ction=edit&redl |
+| | | | ink=1 "Paraguay |
+| | | | (page does not |
+| | | | exist)"){.new} |
+| | | | |
+| | | | ]{style="white- |
+| | | | space:nowrap;"} |
+| | | | - [ [![Flag   |
+|                 |                 |                 |     of          |
+|                 |                 |                 |     Persia] |
+| | | | (/images/thumb/ |
+| | | | 0/01/Persia.png |
+| | | | /20px-Persia.pn |
+| | | | g){.thumbborder |
+| | | | fi |
+| | | | le-height="600" |
+| | | | f |
+| | | | ile-width="900" |
+| | | | url="/ |
+| | | | images/thumb/0/ |
+| | | | 01/Persia.png/2 |
+| | | | 0px-Persia.png" |
+| | | | d |
+| | | | ecoding="async" |
+| | | | height="13" |
+| | | | |
+| | | | loading="lazy" |
+| | | | srcs |
+| | | | et="/images/thu |
+| | | | mb/0/01/Persia. |
+| | | | png/30px-Persia |
+| | | | .png 1.5x, /ima |
+| | | | ges/thumb/0/01/ |
+| | | | Persia.png/40px |
+| | | | -Persia.png 2x" |
+| | | | width |
+| | | | ="20"}](/wiki/P |
+| | | | ersia "Persia") |
+| | | | [ |
+| | | | Persia](/wiki/P |
+| | | | ersia "Persia") |
+| | | | |
+| | | | ]{style="white- |
+| | | | space:nowrap;"} |
+| | | | - [ [![Flag   |
+|                 |                 |                 |     of          |
+|                 |                 |                 |     Philipp     |
+|                 |                 |                 | ines](/images/t |
+| | | | humb/3/3b/Phili |
+| | | | ppines.png/20px |
+| | | | -Philippines.pn |
+| | | | g){.thumbborder |
+| | | | fi |
+| | | | le-height="600" |
+| | | | f |
+| | | | ile-width="900" |
+| | | | u |
+| | | | rl="/images/thu |
+| | | | mb/3/3b/Philipp |
+| | | | ines.png/20px-P |
+| | | | hilippines.png" |
+| | | | d |
+| | | | ecoding="async" |
+| | | | height="13" |
+| | | | |
+| | | | loading="lazy" |
+| | | | srcset="/ |
+| | | | images/thumb/3/ |
+| | | | 3b/Philippines. |
+| | | | png/30px-Philip |
+| | | | pines.png 1.5x, |
+| | | | /images/thumb/ |
+| | | | 3/3b/Philippine |
+| | | | s.png/40px-Phil |
+| | | | ippines.png 2x" |
+| | | | |
+| | | | width="20"}](/w |
+| | | | iki/Philippines |
+| | | | "Philippines") |
+| | | | [Philip |
+| | | | pines](/wiki/in |
+| | | | dex.php?title=P |
+| | | | hilippines&acti |
+| | | | on=edit&redlink |
+| | | | =1 "Philippines |
+| | | | (page does not |
+| | | | exist)"){.new} |
+| | | | |
+| | | | ]{style="white- |
+| | | | space:nowrap;"} |
+| | | | - [ [![Flag   |
+|                 |                 |                 |     of Saudi    |
+|                 |                 |                 |     Arab        |
+|                 |                 |                 | ia](/images/thu |
+| | | | mb/1/1f/Saudi_A |
+| | | | rabia.png/20px- |
+| | | | Saudi_Arabia.pn |
+| | | | g){.thumbborder |
+| | | | fi |
+| | | | le-height="600" |
+| | | | f |
+| | | | ile-width="900" |
+| | | | url |
+| | | | ="/images/thumb |
+| | | | /1/1f/Saudi_Ara |
+| | | | bia.png/20px-Sa |
+| | | | udi_Arabia.png" |
+| | | | d |
+| | | | ecoding="async" |
+| | | | height="13" |
+| | | | |
+| | | | loading="lazy" |
+| | | | |
+| | | | srcset="/imag |
+| | | | es/thumb/1/1f/S |
+| | | | audi_Arabia.png |
+| | | | /30px-Saudi_Ara |
+| | | | bia.png 1.5x, / |
+| | | | images/thumb/1/ |
+| | | | 1f/Saudi_Arabia |
+| | | | .png/40px-Saudi |
+| | | | \_Arabia.png 2x" |
+| | | | wi |
+| | | | dth="20"}](/wik |
+| | | | i/Saudi_Arabia |
+| | | | "Saudi Arabia") |
+| | | | [Saudi |
+| | | | Ara |
+| | | | bia](/wiki/inde |
+| | | | x.php?title=Sau |
+| | | | di_Arabia&actio |
+| | | | n=edit&redlink= |
+| | | | 1 "Saudi Arabia |
+| | | | (page does not |
+| | | | exist)"){.new} |
+| | | | |
+| | | | ]{style="white- |
+| | | | space:nowrap;"} |
+| | | | - [ [![Flag   |
+|                 |                 |                 |     of          |
+|                 |                 |                 |     S           |
+|                 |                 |                 | iam](/images/th |
+| | | | umb/7/7e/Siam.p |
+| | | | ng/20px-Siam.pn |
+| | | | g){.thumbborder |
+| | | | fi |
+| | | | le-height="600" |
+| | | | f |
+| | | | ile-width="900" |
+| | | | ur |
+| | | | l="/images/thum |
+| | | | b/7/7e/Siam.png |
+| | | | /20px-Siam.png" |
+| | | | d |
+| | | | ecoding="async" |
+| | | | height="13" |
+| | | | |
+| | | | loading="lazy" |
+| | | | srcset="/im |
+| | | | ages/thumb/7/7e |
+| | | | /Siam.png/30px- |
+| | | | Siam.png 1.5x, |
+| | | | /images/thumb/7 |
+| | | | /7e/Siam.png/40 |
+| | | | px-Siam.png 2x" |
+| | | | w |
+| | | | idth="20"}](/wi |
+| | | | ki/Siam "Siam") |
+| | | | [Siam](/wi |
+| | | | ki/Siam "Siam") |
+| | | | |
+| | | | ]{style="white- |
+| | | | space:nowrap;"} |
+| | | | - [ [![Flag   |
+|                 |                 |                 |     of          |
+|                 |                 |                 |                 |
+|                 |                 |                 |   Sinkiang](/im |
+| | | | ages/thumb/b/b8 |
+| | | | /Sinkiang.png/2 |
+| | | | 0px-Sinkiang.pn |
+| | | | g){.thumbborder |
+| | | | fi |
+| | | | le-height="600" |
+| | | | f |
+| | | | ile-width="900" |
+| | | | url="/imag |
+| | | | es/thumb/b/b8/S |
+| | | | inkiang.png/20p |
+| | | | x-Sinkiang.png" |
+| | | | d |
+| | | | ecoding="async" |
+| | | | height="13" |
+| | | | |
+| | | | loading="lazy" |
+| | | | |
+| | | | srcset="/ima |
+| | | | ges/thumb/b/b8/ |
+| | | | Sinkiang.png/30 |
+| | | | px-Sinkiang.png |
+| | | | 1.5x, /images/ |
+| | | | thumb/b/b8/Sink |
+| | | | iang.png/40px-S |
+| | | | inkiang.png 2x" |
+| | | | width="20 |
+| | | | "}](/wiki/Sinki |
+| | | | ang "Sinkiang") |
+| | | | |
+| | | | [Sinkiang](/w |
+| | | | iki/index.php?t |
+| | | | itle=Sinkiang&a |
+| | | | ction=edit&redl |
+| | | | ink=1 "Sinkiang |
+| | | | (page does not |
+| | | | exist)"){.new} |
+| | | | |
+| | | | ]{style="white- |
+| | | | space:nowrap;"} |
+| | | | - [ [![Flag   |
+|                 |                 |                 |     of Tannu    |
+|                 |                 |                 |                 |
+|                 |                 |                 |   Tuva](/images |
+| | | | /thumb/5/54/Tan |
+| | | | nu_Tuva.png/20p |
+| | | | x-Tannu_Tuva.pn |
+| | | | g){.thumbborder |
+| | | | fi |
+| | | | le-height="600" |
+| | | | f |
+| | | | ile-width="900" |
+| | | | |
+| | | | url="/images/t |
+| | | | humb/5/54/Tannu |
+| | | | \_Tuva.png/20px- |
+| | | | Tannu_Tuva.png" |
+| | | | d |
+| | | | ecoding="async" |
+| | | | height="13" |
+| | | | |
+| | | | loading="lazy" |
+| | | | srcse |
+| | | | t="/images/thum |
+| | | | b/5/54/Tannu_Tu |
+| | | | va.png/30px-Tan |
+| | | | nu_Tuva.png 1.5 |
+| | | | x, /images/thum |
+| | | | b/5/54/Tannu_Tu |
+| | | | va.png/40px-Tan |
+| | | | nu_Tuva.png 2x" |
+| | | | |
+| | | | width="20"}]( |
+| | | | /wiki/Tannu_Tuv |
+| | | | a "Tannu Tuva") |
+| | | | [Tannu |
+| | | | Tuva]( |
+| | | | /wiki/Tannu_Tuv |
+| | | | a "Tannu Tuva") |
+| | | | |
+| | | | ]{style="white- |
+| | | | space:nowrap;"} |
+| | | | - [ [![Flag   |
+|                 |                 |                 |     of          |
+|                 |                 |                 |     Tibe        |
+|                 |                 |                 | t](/images/thum |
+| | | | b/0/03/Tibet.pn |
+| | | | g/20px-Tibet.pn |
+| | | | g){.thumbborder |
+| | | | fi |
+| | | | le-height="600" |
+| | | | f |
+| | | | ile-width="900" |
+| | | | url= |
+| | | | "/images/thumb/ |
+| | | | 0/03/Tibet.png/ |
+| | | | 20px-Tibet.png" |
+| | | | d |
+| | | | ecoding="async" |
+| | | | height="13" |
+| | | | |
+| | | | loading="lazy" |
+| | | | |
+| | | | srcset="/images |
+| | | | /thumb/0/03/Tib |
+| | | | et.png/30px-Tib |
+| | | | et.png 1.5x, /i |
+| | | | mages/thumb/0/0 |
+| | | | 3/Tibet.png/40p |
+| | | | x-Tibet.png 2x" |
+| | | | wid |
+| | | | th="20"}](/wiki |
+| | | | /Tibet "Tibet") |
+| | | | [Tib |
+| | | | et](/wiki/index |
+| | | | .php?title=Tibe |
+| | | | t&action=edit&r |
+| | | | edlink=1 "Tibet |
+| | | | (page does not |
+| | | | exist)"){.new} |
+| | | | |
+| | | | ]{style="white- |
+| | | | space:nowrap;"} |
+| | | | - [ [![Flag   |
+|                 |                 |                 |     of          |
+|                 |                 |                 |     Uruguay](/ |
+| | | | images/thumb/2/ |
+| | | | 29/Uruguay.png/ |
+| | | | 20px-Uruguay.pn |
+| | | | g){.thumbborder |
+| | | | fi |
+| | | | le-height="600" |
+| | | | f |
+| | | | ile-width="900" |
+| | | | url="/im |
+| | | | ages/thumb/2/29 |
+| | | | /Uruguay.png/20 |
+| | | | px-Uruguay.png" |
+| | | | d |
+| | | | ecoding="async" |
+| | | | height="13" |
+| | | | |
+| | | | loading="lazy" |
+| | | | srcset=" |
+| | | | /images/thumb/2 |
+| | | | /29/Uruguay.png |
+| | | | /30px-Uruguay.p |
+| | | | ng 1.5x, /image |
+| | | | s/thumb/2/29/Ur |
+| | | | uguay.png/40px- |
+| | | | Uruguay.png 2x" |
+| | | | width=" |
+| | | | 20"}](/wiki/Uru |
+| | | | guay "Uruguay") |
+| | | | [Uruguay]( |
+| | | | /wiki/index.php |
+| | | | ?title=Uruguay& |
+| | | | action=edit&red |
+| | | | link=1 "Uruguay |
+| | | | (page does not |
+| | | | exist)"){.new} |
+| | | | |
+| | | | ]{style="white- |
+| | | | space:nowrap;"} |
+| | | | - [ [![Flag   |
+|                 |                 |                 |     of          |
+|                 |                 |                 |     V           |
+|                 |                 |                 | enezuela](/imag |
+| | | | es/thumb/5/5d/V |
+| | | | enezuela.png/20 |
+| | | | px-Venezuela.pn |
+| | | | g){.thumbborder |
+| | | | fi |
+| | | | le-height="600" |
+| | | | f |
+| | | | ile-width="900" |
+| | | | |
+| | | | url="/images |
+| | | | /thumb/5/5d/Ven |
+| | | | ezuela.png/20px |
+| | | | -Venezuela.png" |
+| | | | d |
+| | | | ecoding="async" |
+| | | | height="13" |
+| | | | |
+| | | | loading="lazy" |
+| | | | s |
+| | | | rcset="/images/ |
+| | | | thumb/5/5d/Vene |
+| | | | zuela.png/30px- |
+| | | | Venezuela.png 1 |
+| | | | .5x, /images/th |
+| | | | umb/5/5d/Venezu |
+| | | | ela.png/40px-Ve |
+| | | | nezuela.png 2x" |
+| | | | width="20"} |
+| | | | ](/wiki/Venezue |
+| | | | la "Venezuela") |
+| | | | [ |
+| | | | Venezuela](/wik |
+| | | | i/index.php?tit |
+| | | | le=Venezuela&ac |
+| | | | tion=edit&redli |
+| | | | nk=1 "Venezuela |
+| | | | (page does not |
+| | | | exist)"){.new} |
+| | | | |
+| | | | ]{style="white- |
+| | | | space:nowrap;"} |
+| | | | - [ [![Flag   |
+|                 |                 |                 |     of Xibei    |
+|                 |                 |                 |     San         |
+|                 |                 |                 |                 |
+|                 |                 |                 | Ma](/images/thu |
+| | | | mb/6/6e/Xibei_S |
+| | | | an_Ma.png/20px- |
+| | | | Xibei_San_Ma.pn |
+| | | | g){.thumbborder |
+| | | | fi |
+| | | | le-height="600" |
+| | | | f |
+| | | | ile-width="900" |
+| | | | url |
+| | | | ="/images/thumb |
+| | | | /6/6e/Xibei_San |
+| | | | \_Ma.png/20px-Xi |
+| | | | bei_San_Ma.png" |
+| | | | d |
+| | | | ecoding="async" |
+| | | | height="13" |
+| | | | |
+| | | | loading="lazy" |
+| | | | |
+| | | | srcset="/imag |
+| | | | es/thumb/6/6e/X |
+| | | | ibei_San_Ma.png |
+| | | | /30px-Xibei_San |
+| | | | \_Ma.png 1.5x, / |
+| | | | images/thumb/6/ |
+| | | | 6e/Xibei_San_Ma |
+| | | | .png/40px-Xibei |
+| | | | \_San_Ma.png 2x" |
+| | | | wi |
+| | | | dth="20"}](/wik |
+| | | | i/Xibei_San_Ma |
+| | | | "Xibei San Ma") |
+| | | | [Xibei San |
+| | | | Ma](/wik |
+| | | | i/Xibei_San_Ma |
+| | | | "Xibei San Ma") |
+| | | | |
+| | | | ]{style="white- |
+| | | | space:nowrap;"} |
+| | | | - [ [![Flag   |
+|                 |                 |                 |     of          |
+|                 |                 |                 |     Yeme        |
+|                 |                 |                 | n](/images/thum |
+| | | | b/f/fc/Yemen.pn |
+| | | | g/20px-Yemen.pn |
+| | | | g){.thumbborder |
+| | | | fi |
+| | | | le-height="600" |
+| | | | f |
+| | | | ile-width="900" |
+| | | | url= |
+| | | | "/images/thumb/ |
+| | | | f/fc/Yemen.png/ |
+| | | | 20px-Yemen.png" |
+| | | | d |
+| | | | ecoding="async" |
+| | | | height="13" |
+| | | | |
+| | | | loading="lazy" |
+| | | | |
+| | | | srcset="/images |
+| | | | /thumb/f/fc/Yem |
+| | | | en.png/30px-Yem |
+| | | | en.png 1.5x, /i |
+| | | | mages/thumb/f/f |
+| | | | c/Yemen.png/40p |
+| | | | x-Yemen.png 2x" |
+| | | | wid |
+| | | | th="20"}](/wiki |
+| | | | /Yemen "Yemen") |
+| | | | [Yem |
+| | | | en](/wiki/index |
+| | | | .php?title=Yeme |
+| | | | n&action=edit&r |
+| | | | edlink=1 "Yemen |
+| | | | (page does not |
+| | | | exist)"){.new} |
+| | | | |
+| | | | ]{style="white- |
+| | | | space:nowrap;"} |
+| | | | - [ [![Flag   |
+|                 |                 |                 |     of          |
+|                 |                 |                 |     Yunnan] |
+| | | | (/images/thumb/ |
+| | | | 3/3b/Yunnan.png |
+| | | | /20px-Yunnan.pn |
+| | | | g){.thumbborder |
+| | | | fi |
+| | | | le-height="600" |
+| | | | f |
+| | | | ile-width="900" |
+| | | | url="/ |
+| | | | images/thumb/3/ |
+| | | | 3b/Yunnan.png/2 |
+| | | | 0px-Yunnan.png" |
+| | | | d |
+| | | | ecoding="async" |
+| | | | height="13" |
+| | | | |
+| | | | loading="lazy" |
+| | | | srcs |
+| | | | et="/images/thu |
+| | | | mb/3/3b/Yunnan. |
+| | | | png/30px-Yunnan |
+| | | | .png 1.5x, /ima |
+| | | | ges/thumb/3/3b/ |
+| | | | Yunnan.png/40px |
+| | | | -Yunnan.png 2x" |
+| | | | width |
+| | | | ="20"}](/wiki/Y |
+| | | | unnan "Yunnan") |
+| | | | [ |
+| | | | Yunnan](/wiki/Y |
+| | | | unnan "Yunnan") |
+| | | | |
+| | | | ]{style="white- |
+| | | | space:nowrap;"} |
++-----------------+-----------------+-----------------+-----------------+
+| ## [ Guides t | | | |
+| o battlescenari | | | |
+| os ]{#Guides_to | | | |
+| \_battlescenario | | | |
+| s .mw-headline} | | | |
+| | | | |
+| - [Strategy | | | |
+| for | | | |
+| Ardennes | | | |
+| Offensiv | | | |
+| e](/wiki/Strate | | | |
+| gy_for_Ardennes | | | |
+| \_Offensive "Str | | | |
+| ategy for Arden | | | |
+| nes Offensive") | | | |
+| - [Strategy | | | |
+| for Battle | | | |
+| of the | | | |
+| Coral | | | |
+| Sea | | | |
+| ](/wiki/index.p | | | |
+| hp?title=Strate | | | |
+| gy_for_Battle_o | | | |
+| f_the_Coral_Sea | | | |
+| &action=edit&re | | | |
+| dlink=1 "Strate | | | |
+| gy for Battle o | | | |
+| f the Coral Sea | | | |
+| (page does not | | | |
+| exist)"){.new} | | | |
+| - [Strategy | | | |
+| for | | | |
+| D-Day](/ | | | |
+| wiki/Strategy_f | | | |
+| or_D-Day "Strat | | | |
+| egy for D-Day") | | | |
+| - [Strategy | | | |
+| for Desert | | | |
+| F | | | |
+| ox](/wiki/Strat | | | |
+| egy_for_Desert* | | | |
+| Fox "Strategy f | | | |
+| or Desert Fox") | | | |
+| - [Strategy | | | |
+| for Fall | | | |
+| Bar | | | |
+| barossa](/wiki/ | | | |
+| Strategy*for_Fa | | | |
+| ll_Barbarossa " | | | |
+| Strategy for Fa | | | |
+| ll Barbarossa") | | | |
+| - [Strategy | | | |
+| for Fall | | | |
+| | | | |
+| Blau](/wiki/Str | | | |
+| ategy_for_Fall* | | | |
+| Blau "Strategy | | | |
+| for Fall Blau") | | | |
+| - [Strategy | | | |
+| for Fall | | | |
+| Gelb]( | | | |
+| /wiki/index.php | | | |
+| ?title=Strategy | | | |
+| _for_Fall_Gelb& | | | |
+| action=edit&red | | | |
+| link=1 "Strateg | | | |
+| y for Fall Gelb | | | |
+| (page does not | | | |
+| exist)"){.new} | | | |
+| - [Strategy | | | |
+| for Fall | | | |
+| Grün] | | | |
+| (/wiki/Strategy | | | |
+| \_for_Fall_Gr%C3 | | | |
+| %BCn "Strategy | | | |
+| for Fall Grün") | | | |
+| - [Strategy | | | |
+| for Fall | | | |
+| Weiß] | | | |
+| (/wiki/Strategy | | | |
+| \_for_Fall_Wei%C | | | |
+| 3%9F "Strategy | | | |
+| for Fall Weiß") | | | |
+| - [Strategy | | | |
+| for | | | |
+| Operation | | | |
+| Downfall: | | | |
+| Invasion of | | | |
+| | | | |
+| Japan](/wiki | | | |
+| /Strategy_for_O | | | |
+| peration_Downfa | | | |
+| ll:\_Invasion_of | | | |
+| \_Japan "Strateg | | | |
+| y for Operation | | | |
+| Downfall: Inva | | | |
+| sion of Japan") | | | |
+| - [Strategy | | | |
+| for | | | |
+| Operation | | | |
+| | | | |
+| Husky](/wiki/ | | | |
+| Strategy_for_Op | | | |
+| eration_Husky " | | | |
+| Strategy for Op | | | |
+| eration Husky") | | | |
+| - [Strategy | | | |
+| for | | | |
+| Platinean | | | |
+| War](/w | | | |
+| iki/Strategy_fo | | | |
+| r_Platinean_War | | | |
+| "Strategy for | | | |
+| Platinean War") | | | |
+| - [Strategy | | | |
+| for | | | |
+| Southern | | | |
+| | | | |
+| Conquests](/wi | | | |
+| ki/index.php?ti | | | |
+| tle=Strategy_fo | | | |
+| r_Southern_Conq | | | |
+| uests&action=ed | | | |
+| it&redlink=1 "S | | | |
+| trategy for Sou | | | |
+| thern Conquests | | | |
+| (page does not | | | |
+| exist)"){.new} | | | |
+| - [Strategy | | | |
+| for Spanish | | | |
+| Civil | | | |
+| | | | |
+| War](/wiki/Stra | | | |
+| tegy_for_Spanis | | | |
+| h_Civil_War "St | | | |
+| rategy for Span | | | |
+| ish Civil War") | | | |
+| - [Strategy | | | |
+| for | | | |
+| Operation | | | |
+| | | | |
+| Watchtower](/ | | | |
+| wiki/Strategy_f | | | |
+| or_Operation_Wa | | | |
+| tchtower "Strat | | | |
+| egy for Operati | | | |
+| on Watchtower") | | | |
+| - [Strategy | | | |
+| for Winter | | | |
+| W | | | |
+| ar](/wiki/Strat | | | |
+| egy_for_Winter_ | | | |
+| War "Strategy f | | | |
+| or Winter War") | | | |
+| | | | |
+| \ | | | |
+| | | | |
+| ## [ Armageddon | | | |
+| and The Abyss | | | |
+| scenarios guide | | | |
+| s ]{#Armageddon | | | |
+| _and_The_Abyss_ | | | |
+| scenarios*guide | | | |
+| s .mw-headline} | | | |
+| | | | |
+| <table | | | |
+| data-ce | | | |
+| llpadding="10"> | | | |
+| <colgroup> | | | |
+| <col | | | |
+| style= | | | |
+| "width: 33%" /> | | | |
+| <col | | | |
+| style= | | | |
+| "width: 33%" /> | | | |
+| <col | | | |
+| style= | | | |
+| "width: 33%" /> | | | |
+| </colgroup> | | | |
+| <tbody> | | | |
+| <tr | | | |
+| class="odd" | | | |
+| dat | | | |
+| a-valign="top"> | | | |
+| <td | | | |
+| width="33%"><h3 | | | |
+| id="democrati | | | |
+| c-powers"><span | | | |
+| id="Dem | | | |
+| ocratic_powers" | | | |
+| class | | | |
+| ="mw-headline"> | | | |
+| Democratic | | | |
+| powers | | | |
+| </span></h3> | | | |
+| <ul> | | | |
+| <li><a | | | |
+| href=" | | | |
+| /wiki/index.php | | | |
+| ?title=Special: | | | |
+| Upload&amp;wpDe | | | |
+| stFile=Uau.gif" | | | |
+| class="new" | | | |
+| title=" | | | |
+| File:Uau.gif">F | | | |
+| ile:Uau.gif</a> | | | |
+| <a | | | |
+| href | | | |
+| ="/wiki/index.p | | | |
+| hp?title=Austra | | | |
+| lasia_Strategy& | | | |
+| amp;action=edit | | | |
+| &amp;redlink=1" | | | |
+| class="new" | | | |
+| ti | | | |
+| tle="Australasi | | | |
+| a Strategy (pag | | | |
+| e does not exis | | | |
+| t)">Australasia | | | |
+| St | | | |
+| rategy</a></li> | | | |
+| <li><a | | | |
+| href=" | | | |
+| /wiki/index.php | | | |
+| ?title=Special: | | | |
+| Upload&amp;wpDe | | | |
+| stFile=Ubo.gif" | | | |
+| class="new" | | | |
+| title=" | | | |
+| File:Ubo.gif">F | | | |
+| ile:Ubo.gif</a> | | | |
+| <a | | | |
+| href="/wiki/ind | | | |
+| ex.php?title=Bo | | | |
+| urbon_Strategy& | | | |
+| amp;action=edit | | | |
+| &amp;redlink=1" | | | |
+| class="new" | | | |
+| title="Bo | | | |
+| urbon Strategy | | | |
+| (page does not | | | |
+| exist)">Bourbon | | | |
+| St | | | |
+| rategy</a></li> | | | |
+| <li><a | | | |
+| href=" | | | |
+| /wiki/index.php | | | |
+| ?title=Special: | | | |
+| Upload&amp;wpDe | | | |
+| stFile=Uch.gif" | | | |
+| class="new" | | | |
+| title=" | | | |
+| File:Uch.gif">F | | | |
+| ile:Uch.gif</a> | | | |
+| <a | | | |
+| href="/wik | | | |
+| i/index.php?tit | | | |
+| le=Republic_of* | | | |
+| China*Strategy& | | | |
+| amp;action=edit | | | |
+| &amp;redlink=1" | | | |
+| class="new" | | | |
+| title | | | |
+| ="Republic of C | | | |
+| hina Strategy ( | | | |
+| page does not e | | | |
+| xist)">Republic | | | |
+| of China | | | |
+| St | | | |
+| rategy</a></li> | | | |
+| <li><a | | | |
+| href=" | | | |
+| /wiki/index.php | | | |
+| ?title=Special: | | | |
+| Upload&amp;wpDe | | | |
+| stFile=Ugs.gif" | | | |
+| class="new" | | | |
+| title=" | | | |
+| File:Ugs.gif">F | | | |
+| ile:Ugs.gif</a> | | | |
+| <a | | | |
+| href="/wik | | | |
+| i/index.php?tit | | | |
+| le=Armageddon_S | | | |
+| weden_Strategy& | | | |
+| amp;action=edit | | | |
+| &amp;redlink=1" | | | |
+| class="new" | | | |
+| tit | | | |
+| le="Armageddon | | | |
+| Sweden Strategy | | | |
+| (page does not | | | |
+| exist)">Sweden | | | |
+| St | | | |
+| rategy</a></li> | | | |
+| <li><a | | | |
+| href=" | | | |
+| /wiki/index.php | | | |
+| ?title=Special: | | | |
+| Upload&amp;wpDe | | | |
+| stFile=Utc.gif" | | | |
+| class="new" | | | |
+| title=" | | | |
+| File:Utc.gif">F | | | |
+| ile:Utc.gif</a> | | | |
+| <a | | | |
+| href= | | | |
+| "/wiki/index.ph | | | |
+| p?title=The_Cos | | | |
+| sacks_Strategy& | | | |
+| amp;action=edit | | | |
+| &amp;redlink=1" | | | |
+| class="new" | | | |
+| title="The | | | |
+| Cossacks Strat | | | |
+| egy (page does | | | |
+| not exist)">The | | | |
+| Cossacks | | | |
+| St | | | |
+| rategy</a></li> | | | |
+| <li><a | | | |
+| href=" | | | |
+| /wiki/index.php | | | |
+| ?title=Special: | | | |
+| Upload&amp;wpDe | | | |
+| stFile=Usn.gif" | | | |
+| class="new" | | | |
+| title=" | | | |
+| File:Usn.gif">F | | | |
+| ile:Usn.gif</a> | | | |
+| <a | | | |
+| href="/wiki | | | |
+| /USNA_Strategy" | | | |
+| title="USNA | | | |
+| Strategy">USNA | | | |
+| St | | | |
+| rategy</a></li> | | | |
+| </ul></td> | | | |
+| <td | | | |
+| width="33%"><h3 | | | |
+| id="fascis | | | |
+| t-powers"><span | | | |
+| id=" | | | |
+| Fascist_powers" | | | |
+| class | | | |
+| ="mw-headline"> | | | |
+| Fascist | | | |
+| powers | | | |
+| </span></h3> | | | |
+| <ul> | | | |
+| <li><a | | | |
+| href=" | | | |
+| /wiki/index.php | | | |
+| ?title=Special: | | | |
+| Upload&amp;wpDe | | | |
+| stFile=Uer.gif" | | | |
+| class="new" | | | |
+| title=" | | | |
+| File:Uer.gif">F | | | |
+| ile:Uer.gif</a> | | | |
+| <a | | | |
+| href="/wi | | | |
+| ki/index.php?ti | | | |
+| tle=Empire_of_R | | | |
+| ussia_Strategy& | | | |
+| amp;action=edit | | | |
+| &amp;redlink=1" | | | |
+| class="new" | | | |
+| ti | | | |
+| tle="Empire of | | | |
+| Russia Strategy | | | |
+| (page does not | | | |
+| exist)">Empire | | | |
+| of Russia | | | |
+| St | | | |
+| rategy</a></li> | | | |
+| <li><a | | | |
+| href=" | | | |
+| /wiki/index.php | | | |
+| ?title=Special: | | | |
+| Upload&amp;wpDe | | | |
+| stFile=Uir.gif" | | | |
+| class="new" | | | |
+| title=" | | | |
+| File:Uir.gif">F | | | |
+| ile:Uir.gif</a> | | | |
+| <a | | | |
+| href="/w | | | |
+| iki/index.php?t | | | |
+| itle=Indian_Rep | | | |
+| ublic_Strategy& | | | |
+| amp;action=edit | | | |
+| &amp;redlink=1" | | | |
+| class="new" | | | |
+| t | | | |
+| itle="Indian Re | | | |
+| public Strategy | | | |
+| (page does not | | | |
+| exist)">Indian | | | |
+| Republic | | | |
+| St | | | |
+| rategy</a></li> | | | |
+| <li><a | | | |
+| href=" | | | |
+| /wiki/index.php | | | |
+| ?title=Special: | | | |
+| Upload&amp;wpDe | | | |
+| stFile=Uic.gif" | | | |
+| class="new" | | | |
+| title=" | | | |
+| File:Uic.gif">F | | | |
+| ile:Uic.gif</a> | | | |
+| <a | | | |
+| hre | | | |
+| f="/wiki/index. | | | |
+| php?title=Indo* | | | |
+| China_Strategy& | | | |
+| amp;action=edit | | | |
+| &amp;redlink=1" | | | |
+| class="new" | | | |
+| title="In | | | |
+| do China Strate | | | |
+| gy (page does n | | | |
+| ot exist)">Indo | | | |
+| China | | | |
+| St | | | |
+| rategy</a></li> | | | |
+| <li><a | | | |
+| href=" | | | |
+| /wiki/index.php | | | |
+| ?title=Special: | | | |
+| Upload&amp;wpDe | | | |
+| stFile=Upr.gif" | | | |
+| class="new" | | | |
+| title=" | | | |
+| File:Upr.gif">F | | | |
+| ile:Upr.gif</a> | | | |
+| <a | | | |
+| href="/wiki/Pr | | | |
+| ussia_Strategy" | | | |
+| ti | | | |
+| tle="Prussia St | | | |
+| rategy">Prussia | | | |
+| St | | | |
+| rategy</a></li> | | | |
+| <li><a | | | |
+| href=" | | | |
+| /wiki/index.php | | | |
+| ?title=Special: | | | |
+| Upload&amp;wpDe | | | |
+| stFile=Ucs.gif" | | | |
+| class="new" | | | |
+| title=" | | | |
+| File:Ucs.gif">F | | | |
+| ile:Ucs.gif</a> | | | |
+| <a | | | |
+| href="/wi | | | |
+| ki/index.php?ti | | | |
+| tle=The_Confede | | | |
+| rates_Strategy& | | | |
+| amp;action=edit | | | |
+| &amp;redlink=1" | | | |
+| class="new" | | | |
+| title="The Con | | | |
+| federates Strat | | | |
+| egy (page does | | | |
+| not exist)">The | | | |
+| Confederates | | | |
+| St | | | |
+| rategy</a></li> | | | |
+| <li><a | | | |
+| href=" | | | |
+| /wiki/index.php | | | |
+| ?title=Special: | | | |
+| Upload&amp;wpDe | | | |
+| stFile=Uto.gif" | | | |
+| class="new" | | | |
+| title=" | | | |
+| File:Uto.gif">F | | | |
+| ile:Uto.gif</a> | | | |
+| <a | | | |
+| href= | | | |
+| "/wiki/index.ph | | | |
+| p?title=The_Ott | | | |
+| omans_Strategy& | | | |
+| amp;action=edit | | | |
+| &amp;redlink=1" | | | |
+| class="new" | | | |
+| title="The | | | |
+| Ottomans Strat | | | |
+| egy (page does | | | |
+| not exist)">The | | | |
+| Ottomans | | | |
+| St | | | |
+| rategy</a></li> | | | |
+| </ul></td> | | | |
+| <td | | | |
+| width="33%"><h3 | | | |
+| id="communis | | | |
+| t-powers"><span | | | |
+| id="Co | | | |
+| mmunist_powers" | | | |
+| class | | | |
+| ="mw-headline"> | | | |
+| Communist | | | |
+| powers | | | |
+| </span></h3> | | | |
+| <ul> | | | |
+| <li><a | | | |
+| href=" | | | |
+| /wiki/index.php | | | |
+| ?title=Special: | | | |
+| Upload&amp;wpDe | | | |
+| stFile=Uap.gif" | | | |
+| class="new" | | | |
+| title=" | | | |
+| File:Uap.gif">F | | | |
+| ile:Uap.gif</a> | | | |
+| <a | | | |
+| href="/wiki | | | |
+| /index.php?titl | | | |
+| e=APR_Strategy& | | | |
+| amp;action=edit | | | |
+| &amp;redlink=1" | | | |
+| class="new" | | | |
+| t | | | |
+| itle="APR Strat | | | |
+| egy (page does | | | |
+| not exist)">APR | | | |
+| St | | | |
+| rategy</a></li> | | | |
+| <li><a | | | |
+| href=" | | | |
+| /wiki/index.php | | | |
+| ?title=Special: | | | |
+| Upload&amp;wpDe | | | |
+| stFile=Ues.gif" | | | |
+| class="new" | | | |
+| title=" | | | |
+| File:Ues.gif">F | | | |
+| ile:Ues.gif</a> | | | |
+| <a | | | |
+| href="/w | | | |
+| iki/European_So | | | |
+| viets_Strategy" | | | |
+| title="Europ | | | |
+| ean Soviets Str | | | |
+| ategy">European | | | |
+| Soviets | | | |
+| St | | | |
+| rategy</a></li> | | | |
+| <li><a | | | |
+| href=" | | | |
+| /wiki/index.php | | | |
+| ?title=Special: | | | |
+| Upload&amp;wpDe | | | |
+| stFile=Ups.gif" | | | |
+| class="new" | | | |
+| title=" | | | |
+| File:Ups.gif">F | | | |
+| ile:Ups.gif</a> | | | |
+| <a | | | |
+| href="/wiki/ | | | |
+| index.php?title | | | |
+| =PRRS_Strategy& | | | |
+| amp;action=edit | | | |
+| &amp;redlink=1" | | | |
+| class="new" | | | |
+| tit | | | |
+| le="PRRS Strate | | | |
+| gy (page does n | | | |
+| ot exist)">PRRS | | | |
+| St | | | |
+| rategy</a></li> | | | |
+| <li><a | | | |
+| href=" | | | |
+| /wiki/index.php | | | |
+| ?title=Special: | | | |
+| Upload&amp;wpDe | | | |
+| stFile=Upe.gif" | | | |
+| class="new" | | | |
+| title=" | | | |
+| File:Upe.gif">F | | | |
+| ile:Upe.gif</a> | | | |
+| <a | | | |
+| href="/wiki | | | |
+| /index.php?titl | | | |
+| e=Republic_of_P | | | |
+| ersia_Strategy& | | | |
+| amp;action=edit | | | |
+| &amp;redlink=1" | | | |
+| class="new" | | | |
+| title= | | | |
+| "Republic of Pe | | | |
+| rsia Strategy ( | | | |
+| page does not e | | | |
+| xist)">Republic | | | |
+| of Persia | | | |
+| St | | | |
+| rategy</a></li> | | | |
+| <li><a | | | |
+| href=" | | | |
+| /wiki/index.php | | | |
+| ?title=Special: | | | |
+| Upload&amp;wpDe | | | |
+| stFile=Uro.gif" | | | |
+| class="new" | | | |
+| title=" | | | |
+| File:Uro.gif">F | | | |
+| ile:Uro.gif</a> | | | |
+| <a | | | |
+| href="/wiki/ | | | |
+| index.php?title | | | |
+| =Roma_Strategy& | | | |
+| amp;action=edit | | | |
+| &amp;redlink=1" | | | |
+| class="new" | | | |
+| tit | | | |
+| le="Roma Strate | | | |
+| gy (page does n | | | |
+| ot exist)">Roma | | | |
+| St | | | |
+| rategy</a></li> | | | |
+| <li><a | | | |
+| href=" | | | |
+| /wiki/index.php | | | |
+| ?title=Special: | | | |
+| Upload&amp;wpDe | | | |
+| stFile=Utl.gif" | | | |
+| class="new" | | | |
+| title=" | | | |
+| File:Utl.gif">F | | | |
+| ile:Utl.gif</a> | | | |
+| <a | | | |
+| href="/wi | | | |
+| ki/index.php?ti | | | |
+| tle=The_Liberta | | | |
+| dores_strategy& | | | |
+| amp;action=edit | | | |
+| &amp;redlink=1" | | | |
+| class="new" | | | |
+| title="The Lib | | | |
+| ertadores strat | | | |
+| egy (page does | | | |
+| not exist)">The | | | |
+| Libertadores | | | |
+| st | | | |
+| rategy</a></li> | | | |
+| </ul></td> | | | |
+| </tr> | | | |
+| <tr | | | |
+| class="even" | | | |
+| dat | | | |
+| a-valign="top"> | | | |
+| <td | | | |
+| co | | | |
+| lspan="3"></td> | | | |
+| </tr> | | | |
+| </tbody> | | | |
+| </table> | | | |
++-----------------+-----------------+-----------------+-----------------+
+:::

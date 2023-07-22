@@ -2,6 +2,380 @@
 title: North_America
 ---
 
- <table class="metadata plainlinks ambox ambox-style" style=""><tbody><tr><td class="mbox-image"><div style="width: 52px;"><a class="image" href="/wiki/File:Wikitext.png"><img alt="Wikitext.png" data-file-height="20" data-file-width="50" data-url="https://central.paradoxwikis.com/images/2/2f/Wikitext.png" decoding="async" height="20" loading="lazy" src="https://central.paradoxwikis.com/images/2/2f/Wikitext.png" width="50"></a></div></td><td class="mbox-text" style=""><b>This article may need to be formatted <a href="/wiki/Template:Wikify" title="Template:Wikify">following an encyclopedic style </a>.</b><br><small>Please help improve <a class="external text" href="https://hoi2.paradoxwikis.com/index.php?title=North_America&amp;action=edit" rel="nofollow">this </a>article if you can.</small></td></tr></tbody></table>
+::: mw-parser-output
++-----------------------------------+-----------------------------------+
+| ::: {style="width: 52px;"} | **This article may need to be |
+| [![Wikitext.png](https://c | formatted [following an |
+| entral.paradoxwikis.com/images/2/ | encyclopedic |
+| 2f/Wikitext.png){file-height="20" | style](/wiki/T |
+| file-width="50" | emplate:Wikify "Template:Wikify") |
+| url="https://central.paradoxwi | .**\ |
+| kis.com/images/2/2f/Wikitext.png" | [Please help improve |
+| decoding="async" height="20" | [this](https://hoi2.par |
+| loading="lazy" | adoxwikis.com/index.php?title=Nor |
+| width="50"}] | th_America&action=edit){.external |
+| (/wiki/File:Wikitext.png){.image} | .text rel="nofollow"} article if |
+| ::: | you can.]{.small} |
++-----------------------------------+-----------------------------------+
 
-<table><tbody><tr><td>Country</td><td></td><td>Required Provinces</td><td></td><td></td><td>Extra Provinces</td><td></td></tr><tr><td>Tag</td><td>Name</td><td>Id</td><td>Name</td><td>Capital</td><td>Id</td><td>name</td></tr><tr><td>CAL</td><td>California</td><td>766</td><td>Redding</td><td></td><td>726</td><td>Los Alamos</td></tr><tr><td></td><td></td><td>765</td><td>San Francisco</td><td></td><td>727</td><td>Silver City</td></tr><tr><td></td><td></td><td>762</td><td>Los Angeles</td><td></td><td>728</td><td>Tucson</td></tr><tr><td></td><td></td><td>761</td><td>San Diego</td><td></td><td>729</td><td>Yuma</td></tr><tr><td></td><td></td><td>763</td><td>Fresno</td><td></td><td>730</td><td>Phoenix</td></tr><tr><td></td><td></td><td>764</td><td>Sacramento</td><td>C</td><td>731</td><td>Delano Peak</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>732</td><td>Provo</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>733</td><td>Salt Lake City</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>700</td><td>Fort Peck</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>701</td><td>Miles City</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>702</td><td>Dodson</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>703</td><td>Billings</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>704</td><td>Casper</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>705</td><td>Rock Springs</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>706</td><td>Grand Junction</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>708</td><td>Aspen</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>772</td><td>Anaconda</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>773</td><td>Missoula</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>774</td><td>Great Falls</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>775</td><td>Butte</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>771</td><td>Boise</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>776</td><td>Lewiston</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>777</td><td>Elk City</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>768</td><td>Reno</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>770</td><td>Pocatello</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>734</td><td>Las Vegas</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>735</td><td>Mojave Desert</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>736</td><td>Imperial Valley</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>737</td><td>Mexicali</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>738</td><td>La Paz</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>767</td><td>Sierra Nevada</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>769</td><td>Harney Basin</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>778</td><td>Blue Mountains</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>779</td><td>Spokane</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>780</td><td>Seattle</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>781</td><td>Richland</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>782</td><td>Tacoma</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>783</td><td>Portland</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>784</td><td>Mount Hood</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>785</td><td>Klamath Falls</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>786</td><td>Eugene</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>739</td><td>Hermosillo</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>740</td><td>Nogales</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>741</td><td>Ciudad Juárez</td></tr><tr><td>CAN</td><td>Canada</td><td>571</td><td>Thunder Bay</td><td></td><td>576</td><td>Newfoundland</td></tr><tr><td></td><td></td><td>565</td><td>Fort Severn</td><td></td><td>556</td><td>Vancouver Island</td></tr><tr><td></td><td></td><td>572</td><td>Sault Ste Marie</td><td></td><td>541</td><td>Vancouver</td></tr><tr><td></td><td></td><td>588</td><td>Ottawa</td><td>C</td><td>555</td><td>Kamloops</td></tr><tr><td></td><td></td><td>591</td><td>Kingston</td><td></td><td>554</td><td>Prince George</td></tr><tr><td></td><td></td><td>589</td><td>Toronto</td><td></td><td>552</td><td>Whitehorse</td></tr><tr><td></td><td></td><td>590</td><td>Windsor</td><td></td><td>558</td><td>Yellowknife</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>557</td><td>Fort McMurray</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>796</td><td>Edmonton</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>797</td><td>Calgary</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>799</td><td>Regina</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>798</td><td>Saskatoon</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>795</td><td>Prince Albert</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>794</td><td>Fort Resolution</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>559</td><td>Kugluktuk</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>560</td><td>Repulse Bay</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>561</td><td>Rankin Inlet</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>563</td><td>Baffin Island</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>566</td><td>Churchill</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>567</td><td>Dauphin</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>570</td><td>Norway House</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>568</td><td>Brandon</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>569</td><td>Winnipeg</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>587</td><td>Gatineau</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>585</td><td>Montréal</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>584</td><td>Sherbrooke</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>573</td><td>Val d'Or</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>586</td><td>Québec City</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>574</td><td>Sept-Îles</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>564</td><td>Radisson</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>581</td><td>Saint John</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>580</td><td>Moncton</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>579</td><td>Halifax</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>578</td><td>Cape Breton</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>575</td><td>Labrador</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1909</td><td>Rivière-du-Loup</td></tr><tr><td>COS</td><td>Costa Rica</td><td>540</td><td>San José</td><td>C</td><td></td><td></td></tr><tr><td>CSA</td><td>Confederate States</td><td>748</td><td>Corpus Christi</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>717</td><td>San Antonio</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>746</td><td>Midland</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>718</td><td>El Paso</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>720</td><td>Amarillo</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>721</td><td>Lubbock</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>719</td><td>Abilene</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>715</td><td>Dallas</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>716</td><td>Houston</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>686</td><td>Fort Smith</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>685</td><td>Jonesboro</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>684</td><td>Little Rock</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>683</td><td>Pine Bluff</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>682</td><td>Monroe</td><td></td></tr><tr><td></td><td></td><td>681</td><td>Alexandria</td><td></td></tr><tr><td></td><td></td><td>680</td><td>New Orleans</td><td></td></tr><tr><td></td><td></td><td>679</td><td>Baton Rouge</td><td></td></tr><tr><td></td><td></td><td>678</td><td>Biloxi</td><td></td></tr><tr><td></td><td></td><td>677</td><td>Tallahassee</td><td></td></tr><tr><td></td><td></td><td>676</td><td>Mobile</td><td></td></tr><tr><td></td><td></td><td>675</td><td>Jackson</td><td></td></tr><tr><td></td><td></td><td>674</td><td>Greenville</td><td></td></tr><tr><td></td><td></td><td>673</td><td>Memphis</td><td></td></tr><tr><td></td><td></td><td>672</td><td>Birmingham</td><td>C</td></tr><tr><td></td><td></td><td>671</td><td>Chattanooga</td><td></td></tr><tr><td></td><td></td><td>670</td><td>Atlanta</td><td></td></tr><tr><td></td><td></td><td>669</td><td>Augusta</td><td></td></tr><tr><td></td><td></td><td>642</td><td>Nashville</td><td></td></tr><tr><td></td><td></td><td>643</td><td>Asheville</td><td></td></tr><tr><td></td><td></td><td>644</td><td>Charleston</td></tr><tr><td></td><td></td><td>645</td><td>Columbia</td></tr><tr><td></td><td></td><td>646</td><td>Savannah</td></tr><tr><td></td><td></td><td>647</td><td>Macon</td></tr><tr><td></td><td></td><td>648</td><td>Jacksonville</td></tr><tr><td></td><td></td><td>649</td><td>Tampa</td></tr><tr><td></td><td></td><td>650</td><td>Orlando</td></tr><tr><td></td><td></td><td>651</td><td>Miami</td></tr><tr><td></td><td></td><td>634</td><td>Wilmington</td></tr><tr><td></td><td></td><td>635</td><td>Fayetteville</td></tr><tr><td></td><td></td><td>636</td><td>Raleigh</td></tr><tr><td></td><td></td><td>632</td><td>Richmond</td></tr><tr><td></td><td></td><td>633</td><td>Norfolk</td></tr><tr><td></td><td></td><td>637</td><td>Charlotte</td></tr><tr><td></td><td></td><td>631</td><td>Charlotteville</td></tr><tr><td></td><td></td><td>638</td><td>Roanoke</td></tr><tr><td></td><td></td><td>639</td><td>Marion</td><td></td><td></td><td></td></tr><tr><td>CUB</td><td>Cuba</td><td>654</td><td>Havana</td><td>C</td><td></td><td></td></tr><tr><td></td><td></td><td>655</td><td>Santa Clara</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>656</td><td>Camagüey</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>657</td><td>Guantánamo</td><td></td><td></td><td></td></tr><tr><td>DOM</td><td>Dominican Republic</td><td>893</td><td>Santiago</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>894</td><td>Santo Domingo</td><td>C</td><td></td><td></td></tr><tr><td>GUA</td><td>Guatemala</td><td>757</td><td>Guatemala</td><td>C</td><td>758</td><td>Belize City</td></tr><tr><td>HAI</td><td>Haiti</td><td>892</td><td>Port-au-Prince</td><td>C</td><td>893</td><td>Santiago</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>894</td><td>Santo Domingo</td></tr><tr><td>HON</td><td>Honduras</td><td>760</td><td>Tegucigalpa</td><td>C</td><td></td><td></td></tr><tr><td>MEX</td><td>Mexico</td><td>756</td><td>Mérida</td><td></td><td>737</td><td>Mexicali</td></tr><tr><td></td><td></td><td>755</td><td>Villahermosa</td><td></td><td>738</td><td>La Paz</td></tr><tr><td></td><td></td><td>754</td><td>Acapulco</td><td></td><td>739</td><td>Hermosillo</td></tr><tr><td></td><td></td><td>753</td><td>Puebla</td><td></td><td>740</td><td>Nogales</td></tr><tr><td></td><td></td><td>752</td><td>Mexico City</td><td>C</td><td>741</td><td>Ciudad Juárez</td></tr><tr><td></td><td></td><td>751</td><td>Guadalajara</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>750</td><td>León</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>747</td><td>Monterrey</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>749</td><td>Tampico</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>745</td><td>Monclova</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>742</td><td>Chihuahua</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>744</td><td>Durango</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>743</td><td>Culiacán</td><td></td><td></td><td></td></tr><tr><td>NIC</td><td>Nicaragua</td><td>539</td><td>Managua</td><td>C</td><td></td><td></td></tr><tr><td>PAN</td><td>Panama</td><td>888</td><td>Panamá</td><td>C</td><td>889</td><td>Colon</td></tr><tr><td>QUE</td><td>Quebec</td><td>564</td><td>Radisson</td><td></td><td>1909</td><td>Rivière-du-Loup</td></tr><tr><td></td><td></td><td>574</td><td>Sept-Îles</td><td></td><td>584</td><td>Sherbrooke</td></tr><tr><td></td><td></td><td>577</td><td>Siauliau</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>573</td><td>Val d'Or</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>587</td><td>Gatineau</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>585</td><td>Montréal</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>586</td><td>Québec City</td><td>C</td><td></td><td></td></tr><tr><td>SAL</td><td>El Salvador</td><td>759</td><td>San Salvador</td><td>C</td><td></td><td></td></tr><tr><td>TEX</td><td>Texas</td><td>716</td><td>Houston</td><td></td><td>719</td><td>Abilene</td></tr><tr><td></td><td></td><td>715</td><td>Dallas</td><td></td><td>721</td><td>Lubbock</td></tr><tr><td></td><td></td><td>717</td><td>San Antonio</td><td>C</td><td>720</td><td>Amarillo</td></tr><tr><td></td><td></td><td>748</td><td>Corpus Christi</td><td></td><td>746</td><td>Midland</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>718</td><td>El Paso</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>723</td><td>Las Cruces</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>722</td><td>Roswell</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>724</td><td>Albuquerque</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>725</td><td>Santa Fe</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>709</td><td>Pueblo</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>710</td><td>Dodge City</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>711</td><td>Wichita</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>712</td><td>Enid</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>713</td><td>Oklahoma City</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>714</td><td>Lawton</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>793</td><td>Tulsa</td></tr><tr><td>USA</td><td>USA</td><td>606</td><td>Washington D.C.</td><td>C</td><td>651</td><td>Miami</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>650</td><td>Orlando</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>649</td><td>Tampa</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>648</td><td>Jacksonville</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>677</td><td>Tallahassee</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>676</td><td>Mobile</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>672</td><td>Birmingham</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>646</td><td>Savannah</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>647</td><td>Macon</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>669</td><td>Augusta</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>670</td><td>Atlanta</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>644</td><td>Charleston</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>645</td><td>Columbia</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>634</td><td>Wilmington</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>635</td><td>Fayetteville</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>636</td><td>Raleigh</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>637</td><td>Charlotte</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>643</td><td>Asheville</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>633</td><td>Norfolk</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>632</td><td>Richmond</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>631</td><td>Charlotteville</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>638</td><td>Roanoke</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>639</td><td>Marion</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>607</td><td>Baltimore</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>605</td><td>Dover</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>604</td><td>Atlantic City</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>603</td><td>Newark</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>612</td><td>Syracuse</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>602</td><td>New York</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>598</td><td>Albany</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>593</td><td>Watertown</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>592</td><td>Plattsburgh</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>608</td><td>Philadelphia</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>609</td><td>Harrisburg</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>610</td><td>Scranton</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>611</td><td>Altoona</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>594</td><td>Montpelier</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>597</td><td>Bennington</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>595</td><td>Concord</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>596</td><td>Manchester</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>582</td><td>Greenville</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>583</td><td>Portland</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>599</td><td>Worcester</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>600</td><td>Boston</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>601</td><td>Hartford</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>613</td><td>Buffalo</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>614</td><td>Pittsburgh</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>629</td><td>Charleston</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>630</td><td>Clarksburg</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>640</td><td>Louisville</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>641</td><td>Owensboro</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>642</td><td>Nashville</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>671</td><td>Chattanooga</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>673</td><td>Memphis</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>674</td><td>Greenville</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>675</td><td>Jackson</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>678</td><td>Biloxi</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>679</td><td>Baton Rouge</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>615</td><td>Cleveland</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>628</td><td>Columbus</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>617</td><td>Flint</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>616</td><td>Detroit</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>618</td><td>Great Rapids</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>619</td><td>Indianapolis</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>627</td><td>Evansville</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>680</td><td>New Orleans</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>681</td><td>Alexandria</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>682</td><td>Monroe</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>683</td><td>Pine Bluff</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>684</td><td>Little Rock</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>685</td><td>Jonesboro</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>686</td><td>Fort Smith</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>687</td><td>Cape Girardeau</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>688</td><td>Springfield</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>689</td><td>St. Louis</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>626</td><td>Decatur</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>625</td><td>Peoria</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>620</td><td>Chicago</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>621</td><td>Milwaukee</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>624</td><td>Madison</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>623</td><td>Green Bay</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>622</td><td>Marquette</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>690</td><td>Kansas City</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>691</td><td>Cedar Rapids</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>692</td><td>Des Moines</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>693</td><td>Minneapolis</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>694</td><td>Duluth</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>695</td><td>Moorhead</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>696</td><td>Worthington</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>697</td><td>Fargo</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>698</td><td>Bismarck</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>699</td><td>Dickinson</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>787</td><td>Rapid City</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>788</td><td>Sioux Falls</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>789</td><td>Omaha</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>790</td><td>Scottsbluff</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>791</td><td>Smoky Hill</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>792</td><td>Topeka</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>793</td><td>Tulsa</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>710</td><td>Dodge City</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>711</td><td>Wichita</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>712</td><td>Enid</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>713</td><td>Oklahoma City</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>714</td><td>Lawton</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>715</td><td>Dallas</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>716</td><td>Houston</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>717</td><td>San Antonio</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>719</td><td>Abilene</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>720</td><td>Amarillo</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>721</td><td>Lubbock</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>748</td><td>Corpus Christi</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>722</td><td>Roswell</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>723</td><td>Las Cruces</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>724</td><td>Albuquerque</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>725</td><td>Santa Fe</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>727</td><td>Silver City</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>728</td><td>Tucson</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>729</td><td>Yuma</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>730</td><td>Phoenix</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>731</td><td>Delano Peak</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>732</td><td>Provo</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>733</td><td>Salt Lake City</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>706</td><td>Grand Junction</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>707</td><td>Denver</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>708</td><td>Aspen</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>709</td><td>Pueblo</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>705</td><td>Rock Springs</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>704</td><td>Casper</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>703</td><td>Billings</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>702</td><td>Dodson</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>701</td><td>Miles City</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>700</td><td>Fort Peck</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>775</td><td>Butte</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>774</td><td>Great Falls</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>770</td><td>Pocatello</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>771</td><td>Boise</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>772</td><td>Anaconda</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>773</td><td>Missoula</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>776</td><td>Lewiston</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>777</td><td>Elk City</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>779</td><td>Spokane</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>780</td><td>Seattle</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>781</td><td>Richland</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>782</td><td>Tacoma</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>783</td><td>Portland</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>784</td><td>Mount Hood</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>785</td><td>Klamath Falls</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>786</td><td>Eugene</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>778</td><td>Blue Mountains</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>769</td><td>Harney Basin</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>768</td><td>Reno</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>734</td><td>Las Vegas</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>736</td><td>Imperial Valley</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>735</td><td>Mojave Desert</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>767</td><td>Sierra Nevada</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>761</td><td>San Diego</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>762</td><td>Los Angeles</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>763</td><td>Fresno</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>764</td><td>Sacramento</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>765</td><td>San Francisco</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>766</td><td>Redding</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>553</td><td>Juneau</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>551</td><td>Fairbanks</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>550</td><td>Seward Peninsula</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>549</td><td>Anchorage</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>548</td><td>Unimak Island</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>547</td><td>Unalaska Island</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>546</td><td>Umnak Island</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>545</td><td>Yunaska Island</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>544</td><td>Andreanof Islands</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>543</td><td>Amchitka Island</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>542</td><td>Kiska Island</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>718</td><td>El Paso</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>726</td><td>Los Alamos</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>746</td><td>Midland</td></tr></tbody></table>
+\
+
+---
+
+Country Required Provinces Extra Provinces  
+ Tag Name Id Name Capital Id name
+CAL California 766 Redding 726 Los Alamos
+765 San Francisco 727 Silver City
+762 Los Angeles 728 Tucson
+761 San Diego 729 Yuma
+763 Fresno 730 Phoenix
+764 Sacramento C 731 Delano Peak
+732 Provo
+733 Salt Lake City
+700 Fort Peck
+701 Miles City
+702 Dodson
+703 Billings
+704 Casper
+705 Rock Springs
+706 Grand Junction
+708 Aspen
+772 Anaconda
+773 Missoula
+774 Great Falls
+775 Butte
+771 Boise
+776 Lewiston
+777 Elk City
+768 Reno
+770 Pocatello
+734 Las Vegas
+735 Mojave Desert
+736 Imperial Valley
+737 Mexicali
+738 La Paz
+767 Sierra Nevada
+769 Harney Basin
+778 Blue Mountains
+779 Spokane
+780 Seattle
+781 Richland
+782 Tacoma
+783 Portland
+784 Mount Hood
+785 Klamath Falls
+786 Eugene
+739 Hermosillo
+740 Nogales
+741 Ciudad Juárez
+CAN Canada 571 Thunder Bay 576 Newfoundland
+565 Fort Severn 556 Vancouver Island
+572 Sault Ste Marie 541 Vancouver
+588 Ottawa C 555 Kamloops
+591 Kingston 554 Prince George
+589 Toronto 552 Whitehorse
+590 Windsor 558 Yellowknife
+557 Fort McMurray
+796 Edmonton
+797 Calgary
+799 Regina
+798 Saskatoon
+795 Prince Albert
+794 Fort Resolution
+559 Kugluktuk
+560 Repulse Bay
+561 Rankin Inlet
+563 Baffin Island
+566 Churchill
+567 Dauphin
+570 Norway House
+568 Brandon
+569 Winnipeg
+587 Gatineau
+585 Montréal
+584 Sherbrooke
+573 Val d\'Or
+586 Québec City
+574 Sept-Îles
+564 Radisson
+581 Saint John
+580 Moncton
+579 Halifax
+578 Cape Breton
+575 Labrador
+1909 Rivière-du-Loup
+COS Costa Rica 540 San José C  
+ CSA Confederate States 748 Corpus Christi  
+ 717 San Antonio  
+ 746 Midland  
+ 718 El Paso  
+ 720 Amarillo  
+ 721 Lubbock  
+ 719 Abilene  
+ 715 Dallas  
+ 716 Houston  
+ 686 Fort Smith  
+ 685 Jonesboro  
+ 684 Little Rock  
+ 683 Pine Bluff  
+ 682 Monroe  
+ 681 Alexandria  
+ 680 New Orleans  
+ 679 Baton Rouge  
+ 678 Biloxi  
+ 677 Tallahassee  
+ 676 Mobile  
+ 675 Jackson  
+ 674 Greenville  
+ 673 Memphis  
+ 672 Birmingham C  
+ 671 Chattanooga  
+ 670 Atlanta  
+ 669 Augusta  
+ 642 Nashville  
+ 643 Asheville  
+ 644 Charleston  
+ 645 Columbia  
+ 646 Savannah  
+ 647 Macon  
+ 648 Jacksonville  
+ 649 Tampa  
+ 650 Orlando  
+ 651 Miami  
+ 634 Wilmington  
+ 635 Fayetteville  
+ 636 Raleigh  
+ 632 Richmond  
+ 633 Norfolk  
+ 637 Charlotte  
+ 631 Charlotteville  
+ 638 Roanoke  
+ 639 Marion  
+ CUB Cuba 654 Havana C  
+ 655 Santa Clara  
+ 656 Camagüey  
+ 657 Guantánamo  
+ DOM Dominican Republic 893 Santiago  
+ 894 Santo Domingo C  
+ GUA Guatemala 757 Guatemala C 758 Belize City
+HAI Haiti 892 Port-au-Prince C 893 Santiago
+894 Santo Domingo
+HON Honduras 760 Tegucigalpa C  
+ MEX Mexico 756 Mérida 737 Mexicali
+755 Villahermosa 738 La Paz
+754 Acapulco 739 Hermosillo
+753 Puebla 740 Nogales
+752 Mexico City C 741 Ciudad Juárez
+751 Guadalajara  
+ 750 León  
+ 747 Monterrey  
+ 749 Tampico  
+ 745 Monclova  
+ 742 Chihuahua  
+ 744 Durango  
+ 743 Culiacán  
+ NIC Nicaragua 539 Managua C  
+ PAN Panama 888 Panamá C 889 Colon
+QUE Quebec 564 Radisson 1909 Rivière-du-Loup
+574 Sept-Îles 584 Sherbrooke
+577 Siauliau  
+ 573 Val d\'Or  
+ 587 Gatineau  
+ 585 Montréal  
+ 586 Québec City C  
+ SAL El Salvador 759 San Salvador C  
+ TEX Texas 716 Houston 719 Abilene
+715 Dallas 721 Lubbock
+717 San Antonio C 720 Amarillo
+748 Corpus Christi 746 Midland
+718 El Paso
+723 Las Cruces
+722 Roswell
+724 Albuquerque
+725 Santa Fe
+709 Pueblo
+710 Dodge City
+711 Wichita
+712 Enid
+713 Oklahoma City
+714 Lawton
+793 Tulsa
+USA USA 606 Washington D.C. C 651 Miami
+650 Orlando
+649 Tampa
+648 Jacksonville
+677 Tallahassee
+676 Mobile
+672 Birmingham
+646 Savannah
+647 Macon
+669 Augusta
+670 Atlanta
+644 Charleston
+645 Columbia
+634 Wilmington
+635 Fayetteville
+636 Raleigh
+637 Charlotte
+643 Asheville
+633 Norfolk
+632 Richmond
+631 Charlotteville
+638 Roanoke
+639 Marion
+607 Baltimore
+605 Dover
+604 Atlantic City
+603 Newark
+612 Syracuse
+602 New York
+598 Albany
+593 Watertown
+592 Plattsburgh
+608 Philadelphia
+609 Harrisburg
+610 Scranton
+611 Altoona
+594 Montpelier
+597 Bennington
+595 Concord
+596 Manchester
+582 Greenville
+583 Portland
+599 Worcester
+600 Boston
+601 Hartford
+613 Buffalo
+614 Pittsburgh
+629 Charleston
+630 Clarksburg
+640 Louisville
+641 Owensboro
+642 Nashville
+671 Chattanooga
+673 Memphis
+674 Greenville
+675 Jackson
+678 Biloxi
+679 Baton Rouge
+615 Cleveland
+628 Columbus
+617 Flint
+616 Detroit
+618 Great Rapids
+619 Indianapolis
+627 Evansville
+680 New Orleans
+681 Alexandria
+682 Monroe
+683 Pine Bluff
+684 Little Rock
+685 Jonesboro
+686 Fort Smith
+687 Cape Girardeau
+688 Springfield
+689 St. Louis
+626 Decatur
+625 Peoria
+620 Chicago
+621 Milwaukee
+624 Madison
+623 Green Bay
+622 Marquette
+690 Kansas City
+691 Cedar Rapids
+692 Des Moines
+693 Minneapolis
+694 Duluth
+695 Moorhead
+696 Worthington
+697 Fargo
+698 Bismarck
+699 Dickinson
+787 Rapid City
+788 Sioux Falls
+789 Omaha
+790 Scottsbluff
+791 Smoky Hill
+792 Topeka
+793 Tulsa
+710 Dodge City
+711 Wichita
+712 Enid
+713 Oklahoma City
+714 Lawton
+715 Dallas
+716 Houston
+717 San Antonio
+719 Abilene
+720 Amarillo
+721 Lubbock
+748 Corpus Christi
+722 Roswell
+723 Las Cruces
+724 Albuquerque
+725 Santa Fe
+727 Silver City
+728 Tucson
+729 Yuma
+730 Phoenix
+731 Delano Peak
+732 Provo
+733 Salt Lake City
+706 Grand Junction
+707 Denver
+708 Aspen
+709 Pueblo
+705 Rock Springs
+704 Casper
+703 Billings
+702 Dodson
+701 Miles City
+700 Fort Peck
+775 Butte
+774 Great Falls
+770 Pocatello
+771 Boise
+772 Anaconda
+773 Missoula
+776 Lewiston
+777 Elk City
+779 Spokane
+780 Seattle
+781 Richland
+782 Tacoma
+783 Portland
+784 Mount Hood
+785 Klamath Falls
+786 Eugene
+778 Blue Mountains
+769 Harney Basin
+768 Reno
+734 Las Vegas
+736 Imperial Valley
+735 Mojave Desert
+767 Sierra Nevada
+761 San Diego
+762 Los Angeles
+763 Fresno
+764 Sacramento
+765 San Francisco
+766 Redding
+553 Juneau
+551 Fairbanks
+550 Seward Peninsula
+549 Anchorage
+548 Unimak Island
+547 Unalaska Island
+546 Umnak Island
+545 Yunaska Island
+544 Andreanof Islands
+543 Amchitka Island
+542 Kiska Island
+718 El Paso
+726 Los Alamos
+746 Midland
+
+---
+
+:::

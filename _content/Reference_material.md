@@ -2,4 +2,134 @@
 title: Reference_material
 ---
 
- <table><tbody><tr valign="top"><td><h2><span class="mw-headline" id="Gameplay">Gameplay</span></h2><ul><li><a href="/wiki/Cheat_Codes" title="Cheat Codes">Cheat Codes</a></li><li><a href="/wiki/AI_Behaviour" title="AI Behaviour">AI Behaviour</a><ul><li><a href="/wiki/Balkan_CF" title="Balkan CF">Balkan CF</a></li></ul></li><li><a href="/wiki/Combat_Events" title="Combat Events">Combat Events</a></li><li><a href="/wiki/Hotkeys" title="Hotkeys">Hotkeys</a></li><li><a href="/wiki/Reinforcements,_Reorganization_and_Bases" title="Reinforcements, Reorganization and Bases">Reinforcements, Reorganization and Bases</a></li></ul><h2><span class="mw-headline" id="Leader_Traits">Leader Traits</span></h2><ul><li><a href="/wiki/Leader_Traits" title="Leader Traits">Commander Traits</a></li><li><a href="/wiki/Minister_Traits" title="Minister Traits">Minister Traits</a></li><li><a class="external text" href="http://forum.paradoxplaza.com/forum/showthread.php?t=394572" rel="nofollow">Indepth analysis of German generals</a></li></ul><h2><span class="mw-headline" id="Miscellaneous">Miscellaneous</span></h2><ul><li><a class="new" href="/wiki/index.php?title=Category:Terminology&amp;action=edit&amp;redlink=1" title="Category:Terminology (page does not exist)">Game Terminology</a></li><li><a href="/wiki/Abbreviations" title="Abbreviations">Abbreviations used by HoI geeks</a></li><li><a href="/wiki/Manual_index" title="Manual index">Alphabetized index of the game manual</a></li><li><a href="/wiki/Building_costs" title="Building costs">Building costs</a></li><li><a href="/wiki/List_of_countries" title="List of countries">List of countries</a></li><li><a href="/wiki/Total_IC_and_resources" title="Total IC and resources">IC and resource distribution on the game map</a></li><li><a class="new" href="/wiki/index.php?title=Special:Upload&amp;wpDestFile=Terrain_modifiers.pdf" title="Terrain modifiers.pdf">Overview of terrain modifiers (Arma 1.3b)</a></li><li><a href="/wiki/Games_Exported_from_Victoria" title="Games Exported from Victoria">Games Exported from Victoria</a></li></ul></td><td width="175"></td><td><h2><span class="mw-headline" id="Unit_statistics">Unit statistics</span></h2><ul><li><a href="/wiki/Land_units" title="Land units">Ground Units</a><ul><li><a href="/wiki/Land_Doctrine" title="Land Doctrine">Land Doctrine</a></li><li><a href="/wiki/Ground_unit_statistics" title="Ground unit statistics">Hearts of Iron 2</a></li><li><a class="new" href="/wiki/index.php?title=Special:Upload&amp;wpDestFile=UnitStats_DD12_Land.pdf" title="UnitStats DD12 Land.pdf">Doomsday 1.2</a></li></ul></li><li><a href="/wiki/Air_units" title="Air units">Air units</a><ul><li><a href="/wiki/Air_unit_statistics" title="Air unit statistics">Hearts of Iron 2</a></li><li><a class="new" href="/wiki/index.php?title=Special:Upload&amp;wpDestFile=UnitStats_DD12_Air.pdf" title="UnitStats DD12 Air.pdf">Doomsday 1.2</a></li></ul></li><li><a href="/wiki/Naval_units" title="Naval units">Naval units</a><ul><li><a href="/wiki/Naval_Doctrine" title="Naval Doctrine">Naval Doctrine</a></li><li><a href="/wiki/Naval_unit_statistics" title="Naval unit statistics">Hearts of Iron 2</a></li><li><a class="new" href="/wiki/index.php?title=Special:Upload&amp;wpDestFile=UnitStats_DD12_Sea.pdf" title="UnitStats DD12 Sea.pdf">Doomsday 1.2</a></li></ul></li></ul><h2><span class="mw-headline" id="Technology">Technology</span></h2><ul><li><a href="/wiki/Tech_Tree" title="Tech Tree">Tech Tree</a></li><li><a href="/wiki/Doomsday_Tech_ID_List_with_prerequisites" title="Doomsday Tech ID List with prerequisites">Doomsday Tech ID List with prerequisites</a></li><li><a href="/wiki/Tech_Teams_by_Country" title="Tech Teams by Country">Tech Teams by Country</a></li><li><a href="/wiki/Tech_Teams_by_Country_1.1" title="Tech Teams by Country 1.1">Tech Teams by Country 1.1</a></li><li><a href="/wiki/Technology_Formula" title="Technology Formula">Technology Formula</a></li></ul><h2><span id="Nations_&amp;_Maps"></span><span class="mw-headline" id="Nations_.26_Maps">Nations &amp; Maps</span></h2><ul><li><a class="external text" href="http://maps.ederon.net/hoi2iom.aspx" rel="nofollow">Interactive Online Map</a></li><li><a href="/wiki/Releasing_Countries" title="Releasing Countries">Complete Nation List</a></li><li><a href="/wiki/Tag_List" title="Tag List">List of tags used for nations</a></li><li>Province IDs: <a href="/wiki/Provinces_by_ID,_part_1" title="Provinces by ID, part 1">1 - 849 </a>; <a href="/wiki/Provinces_by_ID,_part_2" title="Provinces by ID, part 2">850 - 1699 </a>; <a href="/wiki/Provinces_by_ID,_part_3" title="Provinces by ID, part 3">1700+</a></li></ul></td></tr></tbody></table>
+::: mw-parser-output
++-----------------------+-----------------------+-----------------------+
+| ## [ Gameplay ]{#G | | ## [ Unit s |
+| ameplay .mw-headline} | | tatistics ]{#Unit*sta |
+| | | tistics .mw-headline} |
+| - [Cheat | | |
+| | | - [Ground |
+| Codes](/wiki/Cheat | | Units](/wiki/Lan |
+| \_Codes "Cheat Codes") | | d_units "Land units") |
+| - [AI | | - [Land |
+| Beh | | Doct |
+| aviour](/wiki/AI_Beha | | rine](/wiki/Land_Doct |
+| viour "AI Behaviour") | | rine "Land Doctrine") |
+| - [Balkan | | - [Hearts of |
+| CF](/wiki/B | | Iron |
+| alkan_CF "Balkan CF") | | |
+| - [Combat | | 2](/wiki/Ground |
+| Ev | | \_unit_statistics "Gro |
+| ents](/wiki/Combat_Ev | | und unit statistics") |
+| ents "Combat Events") | | - [Doomsday |
+| - [Hotkeys](/wi | | 1.2] |
+| ki/Hotkeys "Hotkeys") | | (/wiki/index.php?titl |
+| - [Reinforcements, | | e=Special:Upload&wpDe |
+| Reorganization | | stFile=UnitStats_DD12 |
+| and | | _Land.pdf "UnitStats |
+| Bases](/wiki/ | | DD12 Land.pdf"){.new} |
+| Reinforcements,\_Reorg | | - [Air |
+| anization_and_Bases " | | units](/wiki/A |
+| Reinforcements, Reorg | | ir_units "Air units") |
+| anization and Bases") | | - [Hearts of |
+| | | Iron |
+| ## [ Le | | 2](/wiki/ |
+| ader Traits ]{#Leader | | Air_unit_statistics " |
+| \_Traits .mw-headline} | | Air unit statistics") |
+| | | - [Doomsday |
+| - [Commander | | 1. |
+| Tr | | 2](/wiki/index.php?ti |
+| aits](/wiki/Leader_Tr | | tle=Special:Upload&wp |
+| aits "Leader Traits") | | DestFile=UnitStats_DD |
+| - [Minister | | 12_Air.pdf "UnitStats |
+| Traits | | DD12 Air.pdf"){.new} |
+| ](/wiki/Minister_Trai | | - [Naval |
+| ts "Minister Traits") | | |
+| - [Indepth analysis | | units](/wiki/Naval |
+| of German | | \_units "Naval units") |
+| generals](http:// | | - [Naval |
+| forum.paradoxplaza.co | | Doctri |
+| m/forum/showthread.ph | | ne](/wiki/Naval_Doctr |
+| p?t=394572){.external | | ine "Naval Doctrine") |
+| .text | | - [Hearts of |
+| rel="nofollow"} | | Iron |
+| | | 2](/wiki/Nava |
+| ## [ Mi | | l_unit_statistics "Na |
+| scellaneous ]{#Miscel | | val unit statistics") |
+| laneous .mw-headline} | | - [Doomsday |
+| | | 1. |
+| - [Game | | 2](/wiki/index.php?ti |
+| Ter | | tle=Special:Upload&wp |
+| minology](/wiki/index | | DestFile=UnitStats_DD |
+| .php?title=Category:T | | 12_Sea.pdf "UnitStats |
+| erminology&action=edi | | DD12 Sea.pdf"){.new} |
+| t&redlink=1 "Category | | |
+| :Terminology (page do | | # |
+| es not exist)"){.new} | | # [ Technology ]{#Tec |
+| - [Abbreviations | | hnology .mw-headline} |
+| used by HoI | | |
+| g | | - [Tech |
+| eeks](/wiki/Abbreviat | | Tree](/wiki/T |
+| ions "Abbreviations") | | ech_Tree "Tech Tree") |
+| - [Alphabetized | | - [Doomsday Tech ID |
+| index of the game | | List with |
+| | | |
+| manual](/wiki/Manual* | | prerequisites](/wiki/ |
+| index "Manual index") | | Doomsday*Tech_ID_List |
+| - [Building | | _with_prerequisites " |
+| cos | | Doomsday Tech ID List |
+| ts](/wiki/Building_co | | with prerequisites") |
+| sts "Building costs") | | - [Tech Teams by |
+| - [List of | | |
+| countries](/w | | Country](/wiki/Tech |
+| iki/List_of_countries | | \_Teams_by_Country "Te |
+| "List of countries") | | ch Teams by Country") |
+| - [IC and resource | | - [Tech Teams by |
+| distribution on | | Country |
+| the game | | 1. |
+| map](/wiki/Total* | | 1](/wiki/Tech*Teams_b |
+| IC_and_resources "Tot | | y_Country_1.1 "Tech T |
+| al IC and resources") | | eams by Country 1.1") |
+| - [Overview of | | - [Technology |
+| terrain modifiers | | Formula](/wik |
+| (Arma | | i/Technology_Formula |
+| 1. | | "Technology Formula") |
+| 3b)](/wiki/index.php? | | |
+| title=Special:Upload& | | ## [ ]{#Nat |
+| wpDestFile=Terrain_mo | | ions*&_Maps} [ Nation |
+| difiers.pdf "Terrain | | s & Maps ]{#Nations_. |
+| modifiers.pdf"){.new} | | 26_Maps .mw-headline} |
+| - [Games Exported | | |
+| from | | - [Interactive |
+| Victoria](/wi | | Online |
+| ki/Games_Exported_fro | | Map](http |
+| m_Victoria "Games Exp | | ://maps.ederon.net/ho |
+| orted from Victoria") | | i2iom.aspx){.external |
+| | | .text |
+| | | rel="nofollow"} |
+| | | - [Complete Nation |
+| | | List](/wiki/ |
+| | | Releasing_Countries " |
+| | | Releasing Countries") |
+| | | - [List of tags |
+| | | used for |
+| | | nations](/wiki |
+| | | /Tag_List "Tag List") |
+| | | - Province IDs: |
+| | | [1 - |
+| | | |
+| | | 849](/wiki/Province |
+| | | s_by_ID,\_part_1 "Prov |
+| | | inces by ID, part 1") |
+| | | ; [850 - |
+| | | |
+| | | 1699](/wiki/Province |
+| | | s_by_ID,\_part_2 "Prov |
+| | | inces by ID, part 2") |
+| | | ; |
+| | | [ |
+| | | 1700+](/wiki/Province |
+| | | s_by_ID,\_part_3 "Prov |
+| | | inces by ID, part 3") |
++-----------------------+-----------------------+-----------------------+
+:::

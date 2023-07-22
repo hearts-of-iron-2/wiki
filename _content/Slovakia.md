@@ -2,14 +2,19 @@
 title: Slovakia
 ---
 
-## Slovakia
+::: mw-parser-output
 
-Slovakia only exists in the 1939 and 1941 scenarios (It doesn't in the 1944 standard scenario despite it historically still being in existence then).
+## [ Slovakia ]{#Slovakia .mw-headline}
+
+Slovakia only exists in the 1939 and 1941 scenarios (It doesn\'t in the
+1944 standard scenario despite it historically still being in existence
+then).
 
 **Advantages:**
 
 Lots of German support
 
+\
 **Disadvantages:**
 
 A puppet
@@ -25,3 +30,4 @@ Limited manpower
 Poor resources
 
 No cores on any other useful territory
+:::

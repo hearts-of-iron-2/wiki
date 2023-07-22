@@ -2,14 +2,221 @@
 title: Population_average_1936-1948_by_country
 ---
 
- <table border="1" cellspacing="0"><caption><b>Manpower Estimates Used for Hoi2</b></caption><tbody><tr><th>Country</th><th>Population</th></tr><tr><td>Afghanistan</td><td>11 190 667</td></tr><tr><td>Albania</td><td>1 117 733</td></tr><tr><td>Argentina</td><td>14 708 677</td></tr><tr><td>Austria</td><td>6 807 900</td></tr><tr><td>Bhutan</td><td>470 000</td></tr><tr><td>Bolivia</td><td>2 686 000</td></tr><tr><td>Brazil</td><td>42 954 538</td></tr><tr><td>Bulgaria</td><td>7 073 133</td></tr><tr><td>Canada</td><td>11 526 185</td></tr><tr><td>Chile</td><td>5 215 500</td></tr><tr><td>Colombia</td><td>9 539 923</td></tr><tr><td>Costa Rica</td><td>662 723</td></tr><tr><td>Cuba</td><td>4 597 154</td></tr><tr><td>Czechoslovakia</td><td>14 729 536</td></tr><tr><td>Dominican Republic</td><td>1 791 162</td></tr><tr><td>Ecuador</td><td>2 742 723</td></tr><tr><td>El Salvador</td><td>1 744 785</td></tr><tr><td>Estonia</td><td>1 038 160</td></tr><tr><td>Ethiopia</td><td>7 375 000</td></tr><tr><td>Finland</td><td>3 804 662</td></tr><tr><td>Germany</td><td>68 692 700</td></tr><tr><td>Greece</td><td>7 233 717</td></tr><tr><td>Guatemala</td><td>2 332 223</td></tr><tr><td>Haiti</td><td>2 882 333</td></tr><tr><td>Honduras</td><td>1 173 567</td></tr><tr><td>Hungary</td><td>9 203 338</td></tr><tr><td>Iraq</td><td>4 107 569</td></tr><tr><td>Ireland</td><td>2 957 192</td></tr><tr><td>Latvia</td><td>1 976 600</td></tr><tr><td>Liberia</td><td>814 000</td></tr><tr><td>Lithuania</td><td>2 724 055</td></tr><tr><td>Luxemburg</td><td>293 825</td></tr><tr><td>Mexico</td><td>21 059 923</td></tr><tr><td>Mongolia</td><td>792 154</td></tr><tr><td>Nepal</td><td>6 218 000</td></tr><tr><td>Nicaragua</td><td>866 308</td></tr><tr><td>Norway</td><td>3 015 392</td></tr><tr><td>Oman</td><td>404 615</td></tr><tr><td>Panama</td><td>668 085</td></tr><tr><td>Paraguay</td><td>1 074 700</td></tr><tr><td>Persia (Iran)</td><td>14 989 385</td></tr><tr><td>Peru</td><td>6 948 308</td></tr><tr><td>Philippines</td><td>17 266 260</td></tr><tr><td>Poland</td><td>29 307 117</td></tr><tr><td>Romania</td><td>16 594 708</td></tr><tr><td>Saudi Arabia</td><td>2 841 000</td></tr><tr><td>Siam</td><td>16 221 560</td></tr><tr><td>Soviet Union</td><td>184 629 535</td></tr><tr><td>Sweden</td><td>6 520 362</td></tr><tr><td>Switzerland</td><td>4 324 377</td></tr><tr><td>Turkey</td><td>18 103 785</td></tr><tr><td>Uruguay</td><td>2 015 077</td></tr><tr><td>Venezuela</td><td>3 962 538</td></tr><tr><td>Yemen</td><td>3 915 769</td></tr></tbody></table>
+::: mw-parser-output
 
-<table border="1" cellspacing="0"><caption><b>More Complicated Population Statistics</b></caption><tbody><tr><th>Country - Region</th><th>Population</th></tr><tr><td>UK</td><td>48 431 231</td></tr><tr><td>UK - Newfoundland</td><td>320 100</td></tr><tr><td>UK-Med</td><td>699 380</td></tr><tr><td>UK-HK</td><td>1 099 600</td></tr><tr><td>UK-Carib</td><td>2 810 697</td></tr><tr><td>UK-Persian Gulf</td><td>302 833</td></tr><tr><td>UK-Malaya</td><td>6 649 150</td></tr><tr><td>UK - Ceylon</td><td>6 419 650</td></tr><tr><td>UK - Egypt</td><td>18 184 033</td></tr><tr><td>UK - Pacific</td><td>396 588</td></tr><tr><td>UK - ME Mandates</td><td>2 538 818</td></tr><tr><td>UK - Aden</td><td>978 942</td></tr><tr><td>UK - Indian Ocean</td><td>431 038</td></tr><tr><td>UK - India</td><td>396 338 923</td></tr><tr><td>UK - Burma</td><td>16 792 360</td></tr><tr><td>UK - Central Africa</td><td>5 209 401</td></tr><tr><td>UK - East Africa</td><td>14 524 213</td></tr><tr><td>UK - Gambia</td><td>229 454</td></tr><tr><td>UK - Gold Coast</td><td>3 773 671</td></tr><tr><td>UK - Nigeria</td><td>22 840 200</td></tr><tr><td>UK - Sierra Leone</td><td>1 909 650</td></tr><tr><td>UK - British Somaliland</td><td>600 000</td></tr><tr><td>UK - Anglo-Egyptian Sudan</td><td>6 340 000</td></tr><tr><td>Belgium</td><td>8 353 731</td></tr><tr><td>Belgian Congo</td><td>10 439 529</td></tr><tr><td>Belgian African Mandates</td><td>4 235 000</td></tr><tr><td>Czechoslovakia</td><td>14 729 536</td></tr><tr><td>Czechoslovakia - Bohemia Moravia</td><td>10 674 386</td></tr><tr><td>Czechoslovakia - Slovakia</td><td>3 329 793</td></tr><tr><td>Czechoslovakia - Ruthenia</td><td>725 357</td></tr><tr><td>Denmark</td><td>3 898 500</td></tr><tr><td>Denmark - Greenland</td><td>20 000</td></tr><tr><td>Netherlands</td><td>9 011 838</td></tr><tr><td>Dutch Aruba</td><td>31 743</td></tr><tr><td>Netherlands Antilles</td><td>80 183</td></tr><tr><td>Dutch Guyana</td><td>178 513</td></tr><tr><td>Dutch East Indies</td><td>71 001 462</td></tr><tr><td>Italy</td><td>44 686 892</td></tr><tr><td>Italian Eritrea</td><td>835 900</td></tr><tr><td>Italian Libya</td><td>940 614</td></tr><tr><td>Italian Somaliland</td><td>900 000</td></tr><tr><td>Japan</td><td>73 952 100</td></tr><tr><td>Japan - Korea</td><td>24 061 400</td></tr><tr><td>Japan - Taiwan</td><td>5 601 600</td></tr><tr><td>Japan - Mandates</td><td>133 767</td></tr><tr><td>Japan - Kanto/Kwantung</td><td>800 000</td></tr><tr><td>New Zeeland</td><td>1 681 482</td></tr><tr><td>New Zeeland - Mandates</td><td>63 857</td></tr><tr><td>Australia</td><td>7 134 238</td></tr><tr><td>Australia - Papau New Guinea</td><td>1 376 231</td></tr><tr><td>Portugal</td><td>7 774 000</td></tr><tr><td>Portuguese Macau</td><td>248 233</td></tr><tr><td>Portuguese West Africa</td><td>3 865 275</td></tr><tr><td>Portuguese Cape Verde</td><td>161 075</td></tr><tr><td>Portuguese East Timor</td><td>456 267</td></tr><tr><td>Portuguese Guinea</td><td>424 660</td></tr><tr><td>Portuguese East Africa</td><td>5 089 575</td></tr><tr><td>Portuguese Sao Tome</td><td>60 167</td></tr><tr><td>France</td><td>39 550 000</td></tr><tr><td>French North Africa</td><td>18 165 208</td></tr><tr><td>French <a href="/wiki/Indochina" title="Indochina">Indochina</a></td><td>25 489 250</td></tr><tr><td>French Somaliland</td><td>45 325</td></tr><tr><td>French Pacific</td><td>150 937</td></tr><tr><td>French Carib</td><td>557 580</td></tr><tr><td>French ME Mandates</td><td>3 946 150</td></tr><tr><td>French West Africa</td><td>19 121 646</td></tr><tr><td>French Equatorial Africa</td><td>6 678 283</td></tr><tr><td>French Indian Ocean</td><td>4 220 695</td></tr><tr><td>South Africa</td><td>10 566 000</td></tr><tr><td>South Africa - Mandates</td><td>490 923</td></tr><tr><td>South Africa - Dependents (Lesotho&amp;Swaziland)</td><td>820 687</td></tr><tr><td>Spain</td><td>26 735 500</td></tr><tr><td>Spanish Guinea</td><td>179 800</td></tr><tr><td>Spanish North Africa</td><td>970 000</td></tr><tr><td>United States</td><td>135 828 931</td></tr><tr><td>US - Pacific</td><td>44 612</td></tr><tr><td>US - Carib</td><td>1 993 328</td></tr><tr><td>Tannu Tuva</td><td>170 000</td></tr><tr><td>Guomindang - Zhejiang</td><td>21 230 000</td></tr><tr><td>Guomindang - Jiangsu</td><td>36 469 000</td></tr><tr><td>Guomindang - Jiangxi</td><td>15 820 000</td></tr><tr><td>Guomindang - Shanghai</td><td>3 486 000</td></tr><tr><td>Manchukuo</td><td>38 486 000</td></tr><tr><td>Xinjiang</td><td>4 360 000</td></tr><tr><td>Tibet</td><td>2 711 000</td></tr><tr><td>Xibei San Ma</td><td>8 636 433</td></tr><tr><td>Xibei San Ma - Gansu</td><td>6 405 333</td></tr><tr><td>Xibei San Ma - Ningxia</td><td>823 800</td></tr><tr><td>Xibei San Ma - Qinghai</td><td>1 407 300</td></tr><tr><td>Guangxi-Guangdong Clique - Guangxi</td><td>14 369 000</td></tr><tr><td>Guangxi-Guangdong Clique - Guangdong</td><td>32 354 333</td></tr><tr><td>Yunnan</td><td>10 853 000</td></tr><tr><td>Shanxi</td><td>11 601 000</td></tr><tr><td>Inner Mongolia</td><td>7 174 000</td></tr><tr><td>Chinese Communist</td><td>3 000 000</td></tr><tr><td>Yugoslavia</td><td>15 457 038</td></tr><tr><td>Yugoslavia - Bosnia</td><td>2 565 300</td></tr><tr><td>Yugoslavia - Croatia</td><td>3 779 900</td></tr><tr><td>Yugoslavia - Macedonia</td><td>1 153 000</td></tr><tr><td>Yugoslavia - Slovenia</td><td>1 358 838</td></tr><tr><td>Yugoslavia - Serbia</td><td>6 000 000</td></tr><tr><td>Yugoslavia - Montenegro</td><td>600 000</td></tr></tbody></table>
+---
 
-<table border="1" cellspacing="0"><caption>Table Of Mobilization Of Some Of The Major Combatants (1937-1945)</caption><tbody><tr><th>Country</th><th>Population</th><th colspan="2">Manpower Mobilized ForMilitary Service</th><th>Mobilization Index (%)(2)</th><th>Strength Of Armed Forces (Million Men)(3)</th></tr><tr><td>China</td><td>450 000 000 (1)</td><td>14 054 000</td><td>July '37 - Sept '45</td><td>0.4</td><td>5.7</td></tr><tr><td>Japan</td><td>77 045 000</td><td>8 040 000</td><td>July '37 - Sept '45</td><td>1.3</td><td>3.98</td></tr><tr><td>U.K.</td><td>141 700 000</td><td>12 000 000</td><td>Sept '39 - Sept '45</td><td>1.4</td><td></td></tr><tr><td>U.S.</td><td>156 687 000</td><td>22 000 000</td><td>July '41 - Sept '45</td><td>2.4</td><td>8.3</td></tr><tr><td>U.S.S.R.</td><td>170 467 000</td><td>22 000 000</td><td>July '41 - Sept '45</td><td>3.0</td><td>6.0</td></tr><tr><td>Germany</td><td>79 530 000</td><td>17 000 000</td><td>Sept '39 - May '45</td><td>3.8</td><td>6.0</td></tr></tbody></table>
+Country Population
+Afghanistan 11 190 667
+Albania 1 117 733
+Argentina 14 708 677
+Austria 6 807 900
+Bhutan 470 000
+Bolivia 2 686 000
+Brazil 42 954 538
+Bulgaria 7 073 133
+Canada 11 526 185
+Chile 5 215 500
+Colombia 9 539 923
+Costa Rica 662 723
+Cuba 4 597 154
+Czechoslovakia 14 729 536
+Dominican Republic 1 791 162
+Ecuador 2 742 723
+El Salvador 1 744 785
+Estonia 1 038 160
+Ethiopia 7 375 000
+Finland 3 804 662
+Germany 68 692 700
+Greece 7 233 717
+Guatemala 2 332 223
+Haiti 2 882 333
+Honduras 1 173 567
+Hungary 9 203 338
+Iraq 4 107 569
+Ireland 2 957 192
+Latvia 1 976 600
+Liberia 814 000
+Lithuania 2 724 055
+Luxemburg 293 825
+Mexico 21 059 923
+Mongolia 792 154
+Nepal 6 218 000
+Nicaragua 866 308
+Norway 3 015 392
+Oman 404 615
+Panama 668 085
+Paraguay 1 074 700
+Persia (Iran) 14 989 385
+Peru 6 948 308
+Philippines 17 266 260
+Poland 29 307 117
+Romania 16 594 708
+Saudi Arabia 2 841 000
+Siam 16 221 560
+Soviet Union 184 629 535
+Sweden 6 520 362
+Switzerland 4 324 377
+Turkey 18 103 785
+Uruguay 2 015 077
+Venezuela 3 962 538
+Yemen 3 915 769
 
-Source: Liu, F.F. _A Military History Of Modern China: 1924-1949_ , Princeton University Press: New Jersey, 1956, Isbn 0313230129, P. 136
+---
 
-(1) The Communist Beijing Government's Claim For China's Population Is 650 000 000. This Figure Is Not Used In The Above Table.  
-(2) The "Mobilization Index" Shown Above Is The Average Number Of Men Mobilized Per Year Expressed As A Percentage Of The Total Population.  
-(3) The "Strength Of Armed Forces" Shown Above Indicates The Maximum Reported, Or Estimated, Strength Of The Nation's Armed Forces At Any Time. In A Few Cases, Such Maximum Strength Figures Were Unobtainable At The Time Of Compiling The Above Table, And The Figures Given (Particularly In The Case Of The U.S.S.R.) May Not Be The Maximum Strength Of Those Nations Throughout The War Period.
+: **Manpower Estimates Used for Hoi2**
+
+---
+
+Country - Region Population
+UK 48 431 231
+UK - Newfoundland 320 100
+UK-Med 699 380
+UK-HK 1 099 600
+UK-Carib 2 810 697
+UK-Persian Gulf 302 833
+UK-Malaya 6 649 150
+UK - Ceylon 6 419 650
+UK - Egypt 18 184 033
+UK - Pacific 396 588
+UK - ME Mandates 2 538 818
+UK - Aden 978 942
+UK - Indian Ocean 431 038
+UK - India 396 338 923
+UK - Burma 16 792 360
+UK - Central Africa 5 209 401
+UK - East Africa 14 524 213
+UK - Gambia 229 454
+UK - Gold Coast 3 773 671
+UK - Nigeria 22 840 200
+UK - Sierra Leone 1 909 650
+UK - British Somaliland 600 000
+UK - Anglo-Egyptian Sudan 6 340 000
+Belgium 8 353 731
+Belgian Congo 10 439 529
+Belgian African Mandates 4 235 000
+Czechoslovakia 14 729 536
+Czechoslovakia - Bohemia Moravia 10 674 386
+Czechoslovakia - Slovakia 3 329 793
+Czechoslovakia - Ruthenia 725 357
+Denmark 3 898 500
+Denmark - Greenland 20 000
+Netherlands 9 011 838
+Dutch Aruba 31 743
+Netherlands Antilles 80 183
+Dutch Guyana 178 513
+Dutch East Indies 71 001 462
+Italy 44 686 892
+Italian Eritrea 835 900
+Italian Libya 940 614
+Italian Somaliland 900 000
+Japan 73 952 100
+Japan - Korea 24 061 400
+Japan - Taiwan 5 601 600
+Japan - Mandates 133 767
+Japan - Kanto/Kwantung 800 000
+New Zeeland 1 681 482
+New Zeeland - Mandates 63 857
+Australia 7 134 238
+Australia - Papau New Guinea 1 376 231
+Portugal 7 774 000
+Portuguese Macau 248 233
+Portuguese West Africa 3 865 275
+Portuguese Cape Verde 161 075
+Portuguese East Timor 456 267
+Portuguese Guinea 424 660
+Portuguese East Africa 5 089 575
+Portuguese Sao Tome 60 167
+France 39 550 000
+French North Africa 18 165 208
+French [Indochina](/wiki/Indochina "Indochina") 25 489 250
+French Somaliland 45 325
+French Pacific 150 937
+French Carib 557 580
+French ME Mandates 3 946 150
+French West Africa 19 121 646
+French Equatorial Africa 6 678 283
+French Indian Ocean 4 220 695
+South Africa 10 566 000
+South Africa - Mandates 490 923
+South Africa - Dependents (Lesotho&Swaziland) 820 687
+Spain 26 735 500
+Spanish Guinea 179 800
+Spanish North Africa 970 000
+United States 135 828 931
+US - Pacific 44 612
+US - Carib 1 993 328
+Tannu Tuva 170 000
+Guomindang - Zhejiang 21 230 000
+Guomindang - Jiangsu 36 469 000
+Guomindang - Jiangxi 15 820 000
+Guomindang - Shanghai 3 486 000
+Manchukuo 38 486 000
+Xinjiang 4 360 000
+Tibet 2 711 000
+Xibei San Ma 8 636 433
+Xibei San Ma - Gansu 6 405 333
+Xibei San Ma - Ningxia 823 800
+Xibei San Ma - Qinghai 1 407 300
+Guangxi-Guangdong Clique - Guangxi 14 369 000
+Guangxi-Guangdong Clique - Guangdong 32 354 333
+Yunnan 10 853 000
+Shanxi 11 601 000
+Inner Mongolia 7 174 000
+Chinese Communist 3 000 000
+Yugoslavia 15 457 038
+Yugoslavia - Bosnia 2 565 300
+Yugoslavia - Croatia 3 779 900
+Yugoslavia - Macedonia 1 153 000
+Yugoslavia - Slovenia 1 358 838
+Yugoslavia - Serbia 6 000 000
+Yugoslavia - Montenegro 600 000
+
+---
+
+: **More Complicated Population Statistics**
+
+---
+
+Country Population Manpower Mobilization Strength Of
+Mobilized Index (%)(2) Armed
+For\ Forces
+Military (Million
+Service Men)(3)
+
+China 450 000 000 14 054 000 July \'37 - 0.4 5.7
+(1) Sept \'45
+
+Japan 77 045 000 8 040 000 July \'37 - 1.3 3.98
+Sept \'45
+
+U.K. 141 700 000 12 000 000 Sept \'39 - 1.4  
+ Sept \'45
+
+U.S. 156 687 000 22 000 000 July \'41 - 2.4 8.3
+Sept \'45
+
+U.S.S.R. 170 467 000 22 000 000 July \'41 - 3.0 6.0
+Sept \'45
+
+Germany 79 530 000 17 000 000 Sept \'39 - 3.8 6.0
+May \'45
+
+---
+
+: Table Of Mobilization Of Some Of The Major Combatants (1937-1945)
+
+Source: Liu, F.F. _A Military History Of Modern China: 1924-1949_ ,
+Princeton University Press: New Jersey, 1956, Isbn 0313230129, P. 136
+
+\(1\) The Communist Beijing Government\'s Claim For China\'s Population
+Is 650 000 000. This Figure Is Not Used In The Above Table.\
+(2) The \"Mobilization Index\" Shown Above Is The Average Number Of Men
+Mobilized Per Year Expressed As A Percentage Of The Total Population.\
+(3) The \"Strength Of Armed Forces\" Shown Above Indicates The Maximum
+Reported, Or Estimated, Strength Of The Nation\'s Armed Forces At Any
+Time. In A Few Cases, Such Maximum Strength Figures Were Unobtainable At
+The Time Of Compiling The Above Table, And The Figures Given
+(Particularly In The Case Of The U.S.S.R.) May Not Be The Maximum
+Strength Of Those Nations Throughout The War Period.
+:::

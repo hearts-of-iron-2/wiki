@@ -2,272 +2,3442 @@
 title: Naval_Tech_Tree
 ---
 
+::: mw-parser-output
+::: {.eu4box style="width:250px; height:auto; float:right; clear:right"}
+::: heading
+::: {style="font-size:larger; padding: 3px 0px; text-align:center;"}
 [Tech Tree](/wiki/Tech_Tree "Tech Tree")
+:::
+:::
 
+::: {style="font-weight: bold; text-align:center;"}
 Regular
+:::
 
 ---
 
-[Aircraft](/wiki/Aircraft_Tech_Tree "Aircraft Tech Tree")  
-[Armor and Artillery](/wiki/Armor_and_Artillery_Tech_Tree "Armor and Artillery Tech Tree")  
-[Industry](/wiki/Industry_Tech_Tree "Industry Tech Tree")  
-[Infantry](/wiki/Infantry_Tech_Tree "Infantry Tech Tree")  
-Naval  
-[Secret Weapons](/wiki/Secret_Weapons_Tech_Tree "Secret Weapons Tech Tree")
+::: {style="columns:110px 2; column-gap: 5px;-webkit-columns:110px 2; -webkit-column-gap: 5px;-moz-columns:110px 2; -moz-column-gap: 5px;"}
+[Aircraft](/wiki/Aircraft_Tech_Tree "Aircraft Tech Tree")\
+[Armor and
+Artillery](/wiki/Armor_and_Artillery_Tech_Tree "Armor and Artillery Tech Tree")\
+[Industry](/wiki/Industry_Tech_Tree "Industry Tech Tree")\
+[Infantry](/wiki/Infantry_Tech_Tree "Infantry Tech Tree")\
+[Naval]{.mw-selflink .selflink}\
+[Secret
+Weapons](/wiki/Secret_Weapons_Tech_Tree "Secret Weapons Tech Tree")
+:::
 
+::: {style="font-weight: bold; text-align:center;"}
 Doctrines
+:::
 
 ---
 
-[Land](/wiki/Land_Doctrine_Tech_Tree "Land Doctrine Tech Tree")  
-[Air](/wiki/Air_Doctrine_Tech_Tree "Air Doctrine Tech Tree")  
+::: {style="columns:80px 3; column-gap: 5px;-webkit-columns:80px 3; -webkit-column-gap: 5px;-moz-columns:80px 3; -moz-column-gap: 5px;"}
+[Land](/wiki/Land_Doctrine_Tech_Tree "Land Doctrine Tech Tree")\
+[Air](/wiki/Air_Doctrine_Tech_Tree "Air Doctrine Tech Tree")\
 [Naval](/wiki/Naval_Doctrine_Tech_Tree "Naval Doctrine Tech Tree")
-
-## Contents
-
-- [1 Destroyer](#Destroyer)
-  - [1.1 Great War Destroyer](#Great_War_Destroyer)
-  - [1.2 Early Destroyer](#Early_Destroyer)
-  - [1.3 Basic Destroyer](#Basic_Destroyer)
-  - [1.4 Improved Destroyer](#Improved_Destroyer)
-  - [1.5 Advanced Destroyer](#Advanced_Destroyer)
-  - [1.6 Semi-Modern Destroyer](#Semi-Modern_Destroyer)
-- [2 Light Cruiser](#Light_Cruiser)
-  - [2.1 Great War Light Cruiser](#Great_War_Light_Cruiser)
-  - [2.2 Early Light Cruiser](#Early_Light_Cruiser)
-  - [2.3 Basic Light Cruiser](#Basic_Light_Cruiser)
-  - [2.4 Improved Light Cruiser](#Improved_Light_Cruiser)
-  - [2.5 Advanced Light Cruiser](#Advanced_Light_Cruiser)
-  - [2.6 Semi-Modern Light Cruiser](#Semi-Modern_Light_Cruiser)
-- [3 Heavy Cruiser](#Heavy_Cruiser)
-  - [3.1 Great War Heavy Cruiser](#Great_War_Heavy_Cruiser)
-  - [3.2 Early Heavy Cruiser](#Early_Heavy_Cruiser)
-  - [3.3 Basic Heavy Cruiser](#Basic_Heavy_Cruiser)
-  - [3.4 Improved Heavy Cruiser](#Improved_Heavy_Cruiser)
-  - [3.5 Advanced Heavy Cruiser](#Advanced_Heavy_Cruiser)
-  - [3.6 Semi-Modern Heavy Cruiser (CL)](#Semi-Modern_Heavy_Cruiser_.28CL.29)
-- [4 Battlecruiser](#Battlecruiser)
-  - [4.1 Great War Battlecruiser](#Great_War_Battlecruiser)
-  - [4.2 Early Battlecruiser](#Early_Battlecruiser)
-  - [4.3 Basic Battlecruiser](#Basic_Battlecruiser)
-  - [4.4 Improved Battlecruiser](#Improved_Battlecruiser)
-  - [4.5 Advanced Battlecruiser](#Advanced_Battlecruiser)
-  - [4.6 Semi-Modern Battlecruiser](#Semi-Modern_Battlecruiser)
-- [5 Battleship](#Battleship)
-  - [5.1 Great War Battleship](#Great_War_Battleship)
-  - [5.2 Early Battleship](#Early_Battleship)
-  - [5.3 Basic Battleship](#Basic_Battleship)
-  - [5.4 Improved Battleship](#Improved_Battleship)
-  - [5.5 Advanced Battleship](#Advanced_Battleship)
-  - [5.6 Semi-Modern Battleship](#Semi-Modern_Battleship)
-  - [5.7 Super Heavy Battleship](#Super_Heavy_Battleship)
-- [6 Air Carrier](#Air_Carrier)
-  - [6.1 Great War Air Carrier](#Great_War_Air_Carrier)
-  - [6.2 Early Air Carrier](#Early_Air_Carrier)
-  - [6.3 Basic Air Carrier](#Basic_Air_Carrier)
-  - [6.4 Improved Air Carrier](#Improved_Air_Carrier)
-  - [6.5 Advanced Air Carrier](#Advanced_Air_Carrier)
-  - [6.6 Heavy Advanced Air Carrier](#Heavy_Advanced_Air_Carrier)
-  - [6.7 Super Heavy Advanced Air Carrier](#Super_Heavy_Advanced_Air_Carrier)
-  - [6.8 Semi-Modern Air Carrier](#Semi-Modern_Air_Carrier)
-- [7 Submarine](#Submarine)
-  - [7.1 Dive Boat](#Dive_Boat)
-  - [7.2 Short Range Submarine](#Short_Range_Submarine)
-  - [7.3 Medium Range Submarine](#Medium_Range_Submarine)
-  - [7.4 Long Range Submarine](#Long_Range_Submarine)
-  - [7.5 Electro Submarine](#Electro_Submarine)
-  - [7.6 Semi-Modern Submarine](#Semi-Modern_Submarine)
-
-### Destroyer
-
-#### Great War Destroyer
-
-<table border="1" cellpadding="5" width="98%"><tbody><tr><td><ul><li>Historic Year: 1936</li><li>Prerequisites: None</li><li>Effects:</li></ul><dl><dd><ul><li>Activate Unit Type destroyer</li><li>New Model destroyer 0</li></ul></dd></dl></td><td><p>5 - <a class="image" href="/wiki/File:Naval_engineering.png" title="naval_engineering"><img alt="naval_engineering" data-file-height="24" data-file-width="24" data-url="/images/0/09/Naval_engineering.png" decoding="async" height="24" loading="lazy" src="/images/0/09/Naval_engineering.png" width="24"> </a>- Great War Destroyer Hull</p><p>5 - <a class="image" href="/wiki/File:Naval_engineering.png" title="naval_engineering"><img alt="naval_engineering" data-file-height="24" data-file-width="24" data-url="/images/0/09/Naval_engineering.png" decoding="async" height="24" loading="lazy" src="/images/0/09/Naval_engineering.png" width="24"> </a>- Great War Destroyer Propulsion</p><p>5 - <a class="image" href="/wiki/File:Naval_artillery.png" title="naval_artillery"><img alt="naval_artillery" data-file-height="24" data-file-width="24" data-url="/images/e/ea/Naval_artillery.png" decoding="async" height="24" loading="lazy" src="/images/e/ea/Naval_artillery.png" width="24"> </a>- Naval Gun 100</p><p>5 - <a class="image" href="/wiki/File:Electronics.png" title="electronics"><img alt="electronics" data-file-height="24" data-file-width="24" data-url="/images/d/dd/Electronics.png" decoding="async" height="24" loading="lazy" src="/images/d/dd/Electronics.png" width="24"> </a>- Great War ASW Equipment</p><p>5 - <a class="image" href="/wiki/File:Technical_efficiency.png" title="technical_efficiency"><img alt="technical_efficiency" data-file-height="24" data-file-width="24" data-url="/images/9/9d/Technical_efficiency.png" decoding="async" height="24" loading="lazy" src="/images/9/9d/Technical_efficiency.png" width="24"> </a>- Great War Destroyer Prototype Testing (D)</p></td></tr></tbody></table>
-
-#### Early Destroyer
-
-<table border="1" cellpadding="5" width="98%"><tbody><tr><td><ul><li>Historic Year: 1936</li><li>Prerequisites:</li></ul><dl><dd><ul><li><a href="/wiki/Naval_Tech_Tree#Great_War_Destroyer" title="Naval Tech Tree">Great War Destroyer</a></li></ul></dd></dl><ul><li>Effects:</li></ul><dl><dd><ul><li>New Model destroyer 1</li><li>Convoy Escort Efficiency 0.05</li></ul></dd></dl></td><td><p>5 - <a class="image" href="/wiki/File:Naval_engineering.png" title="naval_engineering"><img alt="naval_engineering" data-file-height="24" data-file-width="24" data-url="/images/0/09/Naval_engineering.png" decoding="async" height="24" loading="lazy" src="/images/0/09/Naval_engineering.png" width="24"> </a>- Early Destroyer Hull</p><p>5 - <a class="image" href="/wiki/File:Naval_engineering.png" title="naval_engineering"><img alt="naval_engineering" data-file-height="24" data-file-width="24" data-url="/images/0/09/Naval_engineering.png" decoding="async" height="24" loading="lazy" src="/images/0/09/Naval_engineering.png" width="24"> </a>- Early Destroyer Propulsion</p><p>5 - <a class="image" href="/wiki/File:Naval_artillery.png" title="naval_artillery"><img alt="naval_artillery" data-file-height="24" data-file-width="24" data-url="/images/e/ea/Naval_artillery.png" decoding="async" height="24" loading="lazy" src="/images/e/ea/Naval_artillery.png" width="24"> </a>- Naval Gun 100</p><p>5 - <a class="image" href="/wiki/File:Electronics.png" title="electronics"><img alt="electronics" data-file-height="24" data-file-width="24" data-url="/images/d/dd/Electronics.png" decoding="async" height="24" loading="lazy" src="/images/d/dd/Electronics.png" width="24"> </a>- Early ASW Equipment</p><p>5 - <a class="image" href="/wiki/File:Technical_efficiency.png" title="technical_efficiency"><img alt="technical_efficiency" data-file-height="24" data-file-width="24" data-url="/images/9/9d/Technical_efficiency.png" decoding="async" height="24" loading="lazy" src="/images/9/9d/Technical_efficiency.png" width="24"> </a>- Early Destroyer Prototype Testing (D)</p></td></tr></tbody></table>
-
-#### Basic Destroyer
-
-<table border="1" cellpadding="5" width="98%"><tbody><tr><td><ul><li>Historic Year: 1936</li><li>Prerequisites:</li></ul><dl><dd><ul><li><a href="/wiki/Naval_Tech_Tree#Early_Destroyer" title="Naval Tech Tree">Early Destroyer</a></li></ul></dd></dl><ul><li>Effects:</li></ul><dl><dd><ul><li>Model is now obsolete. destroyer 0</li><li>New Model destroyer 2</li><li>Convoy Escort Efficiency 0.05</li></ul></dd></dl></td><td><p>5 - <a class="image" href="/wiki/File:Naval_engineering.png" title="naval_engineering"><img alt="naval_engineering" data-file-height="24" data-file-width="24" data-url="/images/0/09/Naval_engineering.png" decoding="async" height="24" loading="lazy" src="/images/0/09/Naval_engineering.png" width="24"> </a>- Basic Destroyer Hull</p><p>5 - <a class="image" href="/wiki/File:Naval_engineering.png" title="naval_engineering"><img alt="naval_engineering" data-file-height="24" data-file-width="24" data-url="/images/0/09/Naval_engineering.png" decoding="async" height="24" loading="lazy" src="/images/0/09/Naval_engineering.png" width="24"> </a>- Basic Destroyer Propulsion</p><p>5 - <a class="image" href="/wiki/File:Naval_artillery.png" title="naval_artillery"><img alt="naval_artillery" data-file-height="24" data-file-width="24" data-url="/images/e/ea/Naval_artillery.png" decoding="async" height="24" loading="lazy" src="/images/e/ea/Naval_artillery.png" width="24"> </a>- Naval Gun 120</p><p>5 - <a class="image" href="/wiki/File:Electronics.png" title="electronics"><img alt="electronics" data-file-height="24" data-file-width="24" data-url="/images/d/dd/Electronics.png" decoding="async" height="24" loading="lazy" src="/images/d/dd/Electronics.png" width="24"> </a>- Basic ASW Equipment</p><p>5 - <a class="image" href="/wiki/File:Technical_efficiency.png" title="technical_efficiency"><img alt="technical_efficiency" data-file-height="24" data-file-width="24" data-url="/images/9/9d/Technical_efficiency.png" decoding="async" height="24" loading="lazy" src="/images/9/9d/Technical_efficiency.png" width="24"> </a>- Basic Destroyer Prototype Testing (D)</p></td></tr></tbody></table>
-
-#### Improved Destroyer
-
-<table border="1" cellpadding="5" width="98%"><tbody><tr><td><ul><li>Historic Year: 1938</li><li>Prerequisites:</li></ul><dl><dd><ul><li><a href="/wiki/Naval_Tech_Tree#Basic_Destroyer" title="Naval Tech Tree">Basic Destroyer</a></li></ul></dd></dl><ul><li>Effects:</li></ul><dl><dd><ul><li>Model is now obsolete. destroyer 1</li><li>New Model destroyer 3</li><li>Convoy Escort Efficiency 0.05</li></ul></dd></dl></td><td><p>5 - <a class="image" href="/wiki/File:Naval_engineering.png" title="naval_engineering"><img alt="naval_engineering" data-file-height="24" data-file-width="24" data-url="/images/0/09/Naval_engineering.png" decoding="async" height="24" loading="lazy" src="/images/0/09/Naval_engineering.png" width="24"> </a>- Improved Destroyer Hull</p><p>5 - <a class="image" href="/wiki/File:Naval_engineering.png" title="naval_engineering"><img alt="naval_engineering" data-file-height="24" data-file-width="24" data-url="/images/0/09/Naval_engineering.png" decoding="async" height="24" loading="lazy" src="/images/0/09/Naval_engineering.png" width="24"> </a>- Improved Destroyer Propulsion</p><p>5 - <a class="image" href="/wiki/File:Naval_artillery.png" title="naval_artillery"><img alt="naval_artillery" data-file-height="24" data-file-width="24" data-url="/images/e/ea/Naval_artillery.png" decoding="async" height="24" loading="lazy" src="/images/e/ea/Naval_artillery.png" width="24"> </a>- Naval Gun 120</p><p>5 - <a class="image" href="/wiki/File:Electronics.png" title="electronics"><img alt="electronics" data-file-height="24" data-file-width="24" data-url="/images/d/dd/Electronics.png" decoding="async" height="24" loading="lazy" src="/images/d/dd/Electronics.png" width="24"> </a>- Improved ASW Equipment</p><p>5 - <a class="image" href="/wiki/File:Technical_efficiency.png" title="technical_efficiency"><img alt="technical_efficiency" data-file-height="24" data-file-width="24" data-url="/images/9/9d/Technical_efficiency.png" decoding="async" height="24" loading="lazy" src="/images/9/9d/Technical_efficiency.png" width="24"> </a>- Improved Destroyer Prototype Testing (D)</p></td></tr></tbody></table>
-
-#### Advanced Destroyer
-
-<table border="1" cellpadding="5" width="98%"><tbody><tr><td><ul><li>Historic Year: 1941</li><li>Prerequisites:</li></ul><dl><dd><ul><li><a href="/wiki/Naval_Tech_Tree#Improved_Destroyer" title="Naval Tech Tree">Improved Destroyer</a></li></ul></dd></dl><ul><li>Effects:</li></ul><dl><dd><ul><li>New Model destroyer 4</li><li>Model is now obsolete. destroyer 2</li><li>Convoy Escort Efficiency 0.05</li></ul></dd></dl></td><td><p>5 - <a class="image" href="/wiki/File:Naval_engineering.png" title="naval_engineering"><img alt="naval_engineering" data-file-height="24" data-file-width="24" data-url="/images/0/09/Naval_engineering.png" decoding="async" height="24" loading="lazy" src="/images/0/09/Naval_engineering.png" width="24"> </a>- Advanced Destroyer Hull</p><p>5 - <a class="image" href="/wiki/File:Naval_engineering.png" title="naval_engineering"><img alt="naval_engineering" data-file-height="24" data-file-width="24" data-url="/images/0/09/Naval_engineering.png" decoding="async" height="24" loading="lazy" src="/images/0/09/Naval_engineering.png" width="24"> </a>- Advanced Destroyer Propulsion</p><p>5 - <a class="image" href="/wiki/File:Naval_artillery.png" title="naval_artillery"><img alt="naval_artillery" data-file-height="24" data-file-width="24" data-url="/images/e/ea/Naval_artillery.png" decoding="async" height="24" loading="lazy" src="/images/e/ea/Naval_artillery.png" width="24"> </a>- Naval Gun 120</p><p>5 - <a class="image" href="/wiki/File:Electronics.png" title="electronics"><img alt="electronics" data-file-height="24" data-file-width="24" data-url="/images/d/dd/Electronics.png" decoding="async" height="24" loading="lazy" src="/images/d/dd/Electronics.png" width="24"> </a>- Advanced ASW Equipment</p><p>5 - <a class="image" href="/wiki/File:Technical_efficiency.png" title="technical_efficiency"><img alt="technical_efficiency" data-file-height="24" data-file-width="24" data-url="/images/9/9d/Technical_efficiency.png" decoding="async" height="24" loading="lazy" src="/images/9/9d/Technical_efficiency.png" width="24"> </a>- Advanced Destroyer Prototype Testing (D)</p></td></tr></tbody></table>
-
-#### Semi-Modern Destroyer
-
-<table border="1" cellpadding="5" width="98%"><tbody><tr><td><ul><li>Historic Year: 1945</li><li>Prerequisites:</li></ul><dl><dd><ul><li><a href="/wiki/Naval_Tech_Tree#Advanced_Destroyer" title="Naval Tech Tree">Advanced Destroyer</a></li></ul></dd></dl><ul><li>Effects:</li></ul><dl><dd><ul><li>New Model destroyer 5</li><li>Model is now obsolete. destroyer 3</li><li>Convoy Escort Efficiency 0.05</li></ul></dd></dl></td><td><p>5 - <a class="image" href="/wiki/File:Naval_engineering.png" title="naval_engineering"><img alt="naval_engineering" data-file-height="24" data-file-width="24" data-url="/images/0/09/Naval_engineering.png" decoding="async" height="24" loading="lazy" src="/images/0/09/Naval_engineering.png" width="24"> </a>- Semi-Modern Destroyer Hull</p><p>5 - <a class="image" href="/wiki/File:Naval_engineering.png" title="naval_engineering"><img alt="naval_engineering" data-file-height="24" data-file-width="24" data-url="/images/0/09/Naval_engineering.png" decoding="async" height="24" loading="lazy" src="/images/0/09/Naval_engineering.png" width="24"> </a>- Semi-Modern Destroyer Propulsion</p><p>5 - <a class="image" href="/wiki/File:Naval_artillery.png" title="naval_artillery"><img alt="naval_artillery" data-file-height="24" data-file-width="24" data-url="/images/e/ea/Naval_artillery.png" decoding="async" height="24" loading="lazy" src="/images/e/ea/Naval_artillery.png" width="24"> </a>- Naval Gun 120</p><p>5 - <a class="image" href="/wiki/File:Electronics.png" title="electronics"><img alt="electronics" data-file-height="24" data-file-width="24" data-url="/images/d/dd/Electronics.png" decoding="async" height="24" loading="lazy" src="/images/d/dd/Electronics.png" width="24"> </a>- Semi-Modern ASW Equipment</p><p>5 - <a class="image" href="/wiki/File:Technical_efficiency.png" title="technical_efficiency"><img alt="technical_efficiency" data-file-height="24" data-file-width="24" data-url="/images/9/9d/Technical_efficiency.png" decoding="async" height="24" loading="lazy" src="/images/9/9d/Technical_efficiency.png" width="24"> </a>- Semi-Modern Destroyer Prototype Testing (D)</p></td></tr></tbody></table>
-
-### Light Cruiser
-
-#### Great War Light Cruiser
-
-<table border="1" cellpadding="5" width="98%"><tbody><tr><td><ul><li>Historic Year: 1936</li><li>Prerequisites: None</li><li>Effects:</li></ul><dl><dd><ul><li>Activate Unit Type light_cruiser</li><li>New Model light_cruiser 0</li></ul></dd></dl></td><td><p>5 - <a class="image" href="/wiki/File:Naval_engineering.png" title="naval_engineering"><img alt="naval_engineering" data-file-height="24" data-file-width="24" data-url="/images/0/09/Naval_engineering.png" decoding="async" height="24" loading="lazy" src="/images/0/09/Naval_engineering.png" width="24"> </a>- Great War Light Cruiser Hull</p><p>5 - <a class="image" href="/wiki/File:Naval_engineering.png" title="naval_engineering"><img alt="naval_engineering" data-file-height="24" data-file-width="24" data-url="/images/0/09/Naval_engineering.png" decoding="async" height="24" loading="lazy" src="/images/0/09/Naval_engineering.png" width="24"> </a>- Great War Light Cruiser Propulsion</p><p>5 - <a class="image" href="/wiki/File:Naval_artillery.png" title="naval_artillery"><img alt="naval_artillery" data-file-height="24" data-file-width="24" data-url="/images/e/ea/Naval_artillery.png" decoding="async" height="24" loading="lazy" src="/images/e/ea/Naval_artillery.png" width="24"> </a>- Naval Cruiser Gun 120</p><p>5 - <a class="image" href="/wiki/File:Electronics.png" title="electronics"><img alt="electronics" data-file-height="24" data-file-width="24" data-url="/images/d/dd/Electronics.png" decoding="async" height="24" loading="lazy" src="/images/d/dd/Electronics.png" width="24"> </a>- Great War Anti-Air Equipment</p><p>5 - <a class="image" href="/wiki/File:Technical_efficiency.png" title="technical_efficiency"><img alt="technical_efficiency" data-file-height="24" data-file-width="24" data-url="/images/9/9d/Technical_efficiency.png" decoding="async" height="24" loading="lazy" src="/images/9/9d/Technical_efficiency.png" width="24"> </a>- Great War Light Cruiser Prototype Testing (D)</p></td></tr></tbody></table>
-
-#### Early Light Cruiser
-
-<table border="1" cellpadding="5" width="98%"><tbody><tr><td><ul><li>Historic Year: 1936</li><li>Prerequisites:</li></ul><dl><dd><ul><li><a href="/wiki/Naval_Tech_Tree#Great_War_Light_Cruiser" title="Naval Tech Tree">Great War Light Cruiser</a></li></ul></dd></dl><ul><li>Effects:</li></ul><dl><dd><ul><li>New Model light_cruiser 1</li></ul></dd></dl></td><td><p>5 - <a class="image" href="/wiki/File:Naval_engineering.png" title="naval_engineering"><img alt="naval_engineering" data-file-height="24" data-file-width="24" data-url="/images/0/09/Naval_engineering.png" decoding="async" height="24" loading="lazy" src="/images/0/09/Naval_engineering.png" width="24"> </a>- Early Light Cruiser Hull</p><p>5 - <a class="image" href="/wiki/File:Naval_engineering.png" title="naval_engineering"><img alt="naval_engineering" data-file-height="24" data-file-width="24" data-url="/images/0/09/Naval_engineering.png" decoding="async" height="24" loading="lazy" src="/images/0/09/Naval_engineering.png" width="24"> </a>- Early Light Cruiser Propulsion</p><p>5 - <a class="image" href="/wiki/File:Naval_artillery.png" title="naval_artillery"><img alt="naval_artillery" data-file-height="24" data-file-width="24" data-url="/images/e/ea/Naval_artillery.png" decoding="async" height="24" loading="lazy" src="/images/e/ea/Naval_artillery.png" width="24"> </a>- Naval Cruiser Gun 120</p><p>5 - <a class="image" href="/wiki/File:Electronics.png" title="electronics"><img alt="electronics" data-file-height="24" data-file-width="24" data-url="/images/d/dd/Electronics.png" decoding="async" height="24" loading="lazy" src="/images/d/dd/Electronics.png" width="24"> </a>- Early Anti-Air Equipment</p><p>5 - <a class="image" href="/wiki/File:Technical_efficiency.png" title="technical_efficiency"><img alt="technical_efficiency" data-file-height="24" data-file-width="24" data-url="/images/9/9d/Technical_efficiency.png" decoding="async" height="24" loading="lazy" src="/images/9/9d/Technical_efficiency.png" width="24"> </a>- Early Light Cruiser Prototype Testing (D)</p></td></tr></tbody></table>
-
-#### Basic Light Cruiser
-
-<table border="1" cellpadding="5" width="98%"><tbody><tr><td><ul><li>Historic Year: 1936</li><li>Prerequisites:</li></ul><dl><dd><ul><li><a href="/wiki/Naval_Tech_Tree#Early_Light_Cruiser" title="Naval Tech Tree">Early Light Cruiser</a></li></ul></dd></dl><ul><li>Effects:</li></ul><dl><dd><ul><li>Model is now obsolete. light_cruiser 0</li><li>New Model light_cruiser 2</li></ul></dd></dl></td><td><p>5 - <a class="image" href="/wiki/File:Naval_engineering.png" title="naval_engineering"><img alt="naval_engineering" data-file-height="24" data-file-width="24" data-url="/images/0/09/Naval_engineering.png" decoding="async" height="24" loading="lazy" src="/images/0/09/Naval_engineering.png" width="24"> </a>- Basic Light Cruiser Hull</p><p>5 - <a class="image" href="/wiki/File:Naval_engineering.png" title="naval_engineering"><img alt="naval_engineering" data-file-height="24" data-file-width="24" data-url="/images/0/09/Naval_engineering.png" decoding="async" height="24" loading="lazy" src="/images/0/09/Naval_engineering.png" width="24"> </a>- Basic Light Cruiser Propulsion</p><p>5 - <a class="image" href="/wiki/File:Naval_artillery.png" title="naval_artillery"><img alt="naval_artillery" data-file-height="24" data-file-width="24" data-url="/images/e/ea/Naval_artillery.png" decoding="async" height="24" loading="lazy" src="/images/e/ea/Naval_artillery.png" width="24"> </a>- Naval Cruiser Gun 150</p><p>5 - <a class="image" href="/wiki/File:Electronics.png" title="electronics"><img alt="electronics" data-file-height="24" data-file-width="24" data-url="/images/d/dd/Electronics.png" decoding="async" height="24" loading="lazy" src="/images/d/dd/Electronics.png" width="24"> </a>- Basic Anti-Air Equipment</p><p>5 - <a class="image" href="/wiki/File:Technical_efficiency.png" title="technical_efficiency"><img alt="technical_efficiency" data-file-height="24" data-file-width="24" data-url="/images/9/9d/Technical_efficiency.png" decoding="async" height="24" loading="lazy" src="/images/9/9d/Technical_efficiency.png" width="24"> </a>- Basic Light Cruiser Prototype Testing (D)</p></td></tr></tbody></table>
-
-#### Improved Light Cruiser
-
-<table border="1" cellpadding="5" width="98%"><tbody><tr><td><ul><li>Historic Year: 1938</li><li>Prerequisites:</li></ul><dl><dd><ul><li><a href="/wiki/Naval_Tech_Tree#Basic_Light_Cruiser" title="Naval Tech Tree">Basic Light Cruiser</a></li></ul></dd></dl><ul><li>Effects:</li></ul><dl><dd><ul><li>Model is now obsolete. light_cruiser 1</li><li>New Model light_cruiser 3</li></ul></dd></dl></td><td><p>5 - <a class="image" href="/wiki/File:Naval_engineering.png" title="naval_engineering"><img alt="naval_engineering" data-file-height="24" data-file-width="24" data-url="/images/0/09/Naval_engineering.png" decoding="async" height="24" loading="lazy" src="/images/0/09/Naval_engineering.png" width="24"> </a>- Improved Light Cruiser Hull</p><p>5 - <a class="image" href="/wiki/File:Naval_engineering.png" title="naval_engineering"><img alt="naval_engineering" data-file-height="24" data-file-width="24" data-url="/images/0/09/Naval_engineering.png" decoding="async" height="24" loading="lazy" src="/images/0/09/Naval_engineering.png" width="24"> </a>- Improved Light Cruiser Propulsion</p><p>5 - <a class="image" href="/wiki/File:Naval_artillery.png" title="naval_artillery"><img alt="naval_artillery" data-file-height="24" data-file-width="24" data-url="/images/e/ea/Naval_artillery.png" decoding="async" height="24" loading="lazy" src="/images/e/ea/Naval_artillery.png" width="24"> </a>- Naval Cruiser Gun 180</p><p>5 - <a class="image" href="/wiki/File:Electronics.png" title="electronics"><img alt="electronics" data-file-height="24" data-file-width="24" data-url="/images/d/dd/Electronics.png" decoding="async" height="24" loading="lazy" src="/images/d/dd/Electronics.png" width="24"> </a>- Improved Anti-Air Equipment</p><p>5 - <a class="image" href="/wiki/File:Technical_efficiency.png" title="technical_efficiency"><img alt="technical_efficiency" data-file-height="24" data-file-width="24" data-url="/images/9/9d/Technical_efficiency.png" decoding="async" height="24" loading="lazy" src="/images/9/9d/Technical_efficiency.png" width="24"> </a>- Improved Light Cruiser Prototype Testing (D)</p></td></tr></tbody></table>
-
-#### Advanced Light Cruiser
-
-<table border="1" cellpadding="5" width="98%"><tbody><tr><td><ul><li>Historic Year: 1941</li><li>Prerequisites:</li></ul><dl><dd><ul><li><a href="/wiki/Naval_Tech_Tree#Improved_Light_Cruiser" title="Naval Tech Tree">Improved Light Cruiser</a></li></ul></dd></dl><ul><li>Effects:</li></ul><dl><dd><ul><li>New Model light_cruiser 4</li><li>Model is now obsolete. light_cruiser 2</li></ul></dd></dl></td><td><p>5 - <a class="image" href="/wiki/File:Naval_engineering.png" title="naval_engineering"><img alt="naval_engineering" data-file-height="24" data-file-width="24" data-url="/images/0/09/Naval_engineering.png" decoding="async" height="24" loading="lazy" src="/images/0/09/Naval_engineering.png" width="24"> </a>- Advanced Light Cruiser Hull</p><p>5 - <a class="image" href="/wiki/File:Naval_engineering.png" title="naval_engineering"><img alt="naval_engineering" data-file-height="24" data-file-width="24" data-url="/images/0/09/Naval_engineering.png" decoding="async" height="24" loading="lazy" src="/images/0/09/Naval_engineering.png" width="24"> </a>- Advanced Light Cruiser Propulsion</p><p>5 - <a class="image" href="/wiki/File:Naval_artillery.png" title="naval_artillery"><img alt="naval_artillery" data-file-height="24" data-file-width="24" data-url="/images/e/ea/Naval_artillery.png" decoding="async" height="24" loading="lazy" src="/images/e/ea/Naval_artillery.png" width="24"> </a>- Naval Cruiser Gun 180</p><p>5 - <a class="image" href="/wiki/File:Electronics.png" title="electronics"><img alt="electronics" data-file-height="24" data-file-width="24" data-url="/images/d/dd/Electronics.png" decoding="async" height="24" loading="lazy" src="/images/d/dd/Electronics.png" width="24"> </a>- Advanced Anti-Air Equipment</p><p>5 - <a class="image" href="/wiki/File:Technical_efficiency.png" title="technical_efficiency"><img alt="technical_efficiency" data-file-height="24" data-file-width="24" data-url="/images/9/9d/Technical_efficiency.png" decoding="async" height="24" loading="lazy" src="/images/9/9d/Technical_efficiency.png" width="24"> </a>- Advanced Light Cruiser Prototype Testing (D)</p></td></tr></tbody></table>
-
-#### Semi-Modern Light Cruiser
-
-<table border="1" cellpadding="5" width="98%"><tbody><tr><td><ul><li>Historic Year: 1945</li><li>Prerequisites:</li></ul><dl><dd><ul><li><a href="/wiki/Naval_Tech_Tree#Advanced_Light_Cruiser" title="Naval Tech Tree">Advanced Light Cruiser</a></li></ul></dd></dl><ul><li>Effects:</li></ul><dl><dd><ul><li>New Model light_cruiser 5</li><li>Model is now obsolete. light_cruiser 3</li></ul></dd></dl></td><td><p>5 - <a class="image" href="/wiki/File:Naval_engineering.png" title="naval_engineering"><img alt="naval_engineering" data-file-height="24" data-file-width="24" data-url="/images/0/09/Naval_engineering.png" decoding="async" height="24" loading="lazy" src="/images/0/09/Naval_engineering.png" width="24"> </a>- Semi-Modern Light Cruiser Hull</p><p>5 - <a class="image" href="/wiki/File:Naval_engineering.png" title="naval_engineering"><img alt="naval_engineering" data-file-height="24" data-file-width="24" data-url="/images/0/09/Naval_engineering.png" decoding="async" height="24" loading="lazy" src="/images/0/09/Naval_engineering.png" width="24"> </a>- Semi-Modern Light Cruiser Propulsion</p><p>5 - <a class="image" href="/wiki/File:Naval_artillery.png" title="naval_artillery"><img alt="naval_artillery" data-file-height="24" data-file-width="24" data-url="/images/e/ea/Naval_artillery.png" decoding="async" height="24" loading="lazy" src="/images/e/ea/Naval_artillery.png" width="24"> </a>- Naval Cruiser Gun 180</p><p>5 - <a class="image" href="/wiki/File:Electronics.png" title="electronics"><img alt="electronics" data-file-height="24" data-file-width="24" data-url="/images/d/dd/Electronics.png" decoding="async" height="24" loading="lazy" src="/images/d/dd/Electronics.png" width="24"> </a>- Semi-Modern Anti-Air Equipment</p><p>5 - <a class="image" href="/wiki/File:Technical_efficiency.png" title="technical_efficiency"><img alt="technical_efficiency" data-file-height="24" data-file-width="24" data-url="/images/9/9d/Technical_efficiency.png" decoding="async" height="24" loading="lazy" src="/images/9/9d/Technical_efficiency.png" width="24"> </a>- Semi-Modern Light Cruiser Prototype Testing (D)</p></td></tr></tbody></table>
-
-### Heavy Cruiser
-
-#### Great War Heavy Cruiser
-
-<table border="1" cellpadding="5" width="98%"><tbody><tr><td><ul><li>Historic Year: 1936</li><li>Prerequisites: None</li><li>Effects:</li></ul><dl><dd><ul><li>Activate Unit Type heavy_cruiser</li><li>New Model heavy_cruiser 0</li></ul></dd></dl></td><td><p>5 - <a class="image" href="/wiki/File:Naval_engineering.png" title="naval_engineering"><img alt="naval_engineering" data-file-height="24" data-file-width="24" data-url="/images/0/09/Naval_engineering.png" decoding="async" height="24" loading="lazy" src="/images/0/09/Naval_engineering.png" width="24"> </a>- Great War Heavy Cruiser Hull</p><p>5 - <a class="image" href="/wiki/File:Naval_engineering.png" title="naval_engineering"><img alt="naval_engineering" data-file-height="24" data-file-width="24" data-url="/images/0/09/Naval_engineering.png" decoding="async" height="24" loading="lazy" src="/images/0/09/Naval_engineering.png" width="24"> </a>- Great War Heavy Cruiser Propulsion</p><p>5 - <a class="image" href="/wiki/File:Naval_artillery.png" title="naval_artillery"><img alt="naval_artillery" data-file-height="24" data-file-width="24" data-url="/images/e/ea/Naval_artillery.png" decoding="async" height="24" loading="lazy" src="/images/e/ea/Naval_artillery.png" width="24"> </a>- Naval Cruiser Gun 180</p><p>5 - <a class="image" href="/wiki/File:Electronics.png" title="electronics"><img alt="electronics" data-file-height="24" data-file-width="24" data-url="/images/d/dd/Electronics.png" decoding="async" height="24" loading="lazy" src="/images/d/dd/Electronics.png" width="24"> </a>- Basic Surface Ship Torpedo</p><p>5 - <a class="image" href="/wiki/File:Technical_efficiency.png" title="technical_efficiency"><img alt="technical_efficiency" data-file-height="24" data-file-width="24" data-url="/images/9/9d/Technical_efficiency.png" decoding="async" height="24" loading="lazy" src="/images/9/9d/Technical_efficiency.png" width="24"> </a>- Great War Heavy Cruiser Prototype Testing (D)</p></td></tr></tbody></table>
-
-#### Early Heavy Cruiser
-
-<table border="1" cellpadding="5" width="98%"><tbody><tr><td><ul><li>Historic Year: 1936</li><li>Prerequisites:</li></ul><dl><dd><ul><li><a href="/wiki/Naval_Tech_Tree#Great_War_Heavy_Cruiser" title="Naval Tech Tree">Great War Heavy Cruiser</a></li></ul></dd></dl><ul><li>Effects:</li></ul><dl><dd><ul><li>New Model heavy_cruiser 1</li></ul></dd></dl></td><td><p>5 - <a class="image" href="/wiki/File:Naval_engineering.png" title="naval_engineering"><img alt="naval_engineering" data-file-height="24" data-file-width="24" data-url="/images/0/09/Naval_engineering.png" decoding="async" height="24" loading="lazy" src="/images/0/09/Naval_engineering.png" width="24"> </a>- Early Heavy Cruiser Hull</p><p>5 - <a class="image" href="/wiki/File:Naval_engineering.png" title="naval_engineering"><img alt="naval_engineering" data-file-height="24" data-file-width="24" data-url="/images/0/09/Naval_engineering.png" decoding="async" height="24" loading="lazy" src="/images/0/09/Naval_engineering.png" width="24"> </a>- Early Heavy Cruiser Propulsion</p><p>5 - <a class="image" href="/wiki/File:Naval_artillery.png" title="naval_artillery"><img alt="naval_artillery" data-file-height="24" data-file-width="24" data-url="/images/e/ea/Naval_artillery.png" decoding="async" height="24" loading="lazy" src="/images/e/ea/Naval_artillery.png" width="24"> </a>- Naval Cruiser Gun 180</p><p>5 - <a class="image" href="/wiki/File:Electronics.png" title="electronics"><img alt="electronics" data-file-height="24" data-file-width="24" data-url="/images/d/dd/Electronics.png" decoding="async" height="24" loading="lazy" src="/images/d/dd/Electronics.png" width="24"> </a>- Improved Surface Ship Torpedo</p><p>5 - <a class="image" href="/wiki/File:Technical_efficiency.png" title="technical_efficiency"><img alt="technical_efficiency" data-file-height="24" data-file-width="24" data-url="/images/9/9d/Technical_efficiency.png" decoding="async" height="24" loading="lazy" src="/images/9/9d/Technical_efficiency.png" width="24"> </a>- Early Heavy Cruiser Prototype Testing (D)</p></td></tr></tbody></table>
-
-#### Basic Heavy Cruiser
-
-<table border="1" cellpadding="5" width="98%"><tbody><tr><td><ul><li>Historic Year: 1936</li><li>Prerequisites:</li></ul><dl><dd><ul><li><a href="/wiki/Naval_Tech_Tree#Early_Heavy_Cruiser" title="Naval Tech Tree">Early Heavy Cruiser</a></li></ul></dd></dl><ul><li>Effects:</li></ul><dl><dd><ul><li>Model is now obsolete. heavy_cruiser 0</li><li>New Model heavy_cruiser 2</li></ul></dd></dl></td><td><p>5 - <a class="image" href="/wiki/File:Naval_engineering.png" title="naval_engineering"><img alt="naval_engineering" data-file-height="24" data-file-width="24" data-url="/images/0/09/Naval_engineering.png" decoding="async" height="24" loading="lazy" src="/images/0/09/Naval_engineering.png" width="24"> </a>- Basic Heavy Cruiser Hull</p><p>5 - <a class="image" href="/wiki/File:Naval_engineering.png" title="naval_engineering"><img alt="naval_engineering" data-file-height="24" data-file-width="24" data-url="/images/0/09/Naval_engineering.png" decoding="async" height="24" loading="lazy" src="/images/0/09/Naval_engineering.png" width="24"> </a>- Basic Heavy Cruiser Propulsion</p><p>5 - <a class="image" href="/wiki/File:Naval_artillery.png" title="naval_artillery"><img alt="naval_artillery" data-file-height="24" data-file-width="24" data-url="/images/e/ea/Naval_artillery.png" decoding="async" height="24" loading="lazy" src="/images/e/ea/Naval_artillery.png" width="24"> </a>- Naval Cruiser Gun 180</p><p>5 - <a class="image" href="/wiki/File:Electronics.png" title="electronics"><img alt="electronics" data-file-height="24" data-file-width="24" data-url="/images/d/dd/Electronics.png" decoding="async" height="24" loading="lazy" src="/images/d/dd/Electronics.png" width="24"> </a>- Advanced Surface Ship Torpedo</p><p>5 - <a class="image" href="/wiki/File:Technical_efficiency.png" title="technical_efficiency"><img alt="technical_efficiency" data-file-height="24" data-file-width="24" data-url="/images/9/9d/Technical_efficiency.png" decoding="async" height="24" loading="lazy" src="/images/9/9d/Technical_efficiency.png" width="24"> </a>- Basic Heavy Cruiser Prototype Testing (D)</p></td></tr></tbody></table>
-
-#### Improved Heavy Cruiser
-
-<table border="1" cellpadding="5" width="98%"><tbody><tr><td><ul><li>Historic Year: 1938</li><li>Prerequisites:</li></ul><dl><dd><ul><li><a href="/wiki/Naval_Tech_Tree#Basic_Heavy_Cruiser" title="Naval Tech Tree">Basic Heavy Cruiser</a></li></ul></dd></dl><ul><li>Effects:</li></ul><dl><dd><ul><li>Model is now obsolete. heavy_cruiser 1</li><li>New Model heavy_cruiser 3</li></ul></dd></dl></td><td><p>5 - <a class="image" href="/wiki/File:Naval_engineering.png" title="naval_engineering"><img alt="naval_engineering" data-file-height="24" data-file-width="24" data-url="/images/0/09/Naval_engineering.png" decoding="async" height="24" loading="lazy" src="/images/0/09/Naval_engineering.png" width="24"> </a>- Improved Heavy Cruiser Hull</p><p>5 - <a class="image" href="/wiki/File:Naval_engineering.png" title="naval_engineering"><img alt="naval_engineering" data-file-height="24" data-file-width="24" data-url="/images/0/09/Naval_engineering.png" decoding="async" height="24" loading="lazy" src="/images/0/09/Naval_engineering.png" width="24"> </a>- Improved Heavy Cruiser Propulsion</p><p>5 - <a class="image" href="/wiki/File:Naval_artillery.png" title="naval_artillery"><img alt="naval_artillery" data-file-height="24" data-file-width="24" data-url="/images/e/ea/Naval_artillery.png" decoding="async" height="24" loading="lazy" src="/images/e/ea/Naval_artillery.png" width="24"> </a>- Naval Cruiser Gun 200</p><p>5 - <a class="image" href="/wiki/File:Electronics.png" title="electronics"><img alt="electronics" data-file-height="24" data-file-width="24" data-url="/images/d/dd/Electronics.png" decoding="async" height="24" loading="lazy" src="/images/d/dd/Electronics.png" width="24"> </a>- Basic Surface Ship Homing Torpedo</p><p>5 - <a class="image" href="/wiki/File:Technical_efficiency.png" title="technical_efficiency"><img alt="technical_efficiency" data-file-height="24" data-file-width="24" data-url="/images/9/9d/Technical_efficiency.png" decoding="async" height="24" loading="lazy" src="/images/9/9d/Technical_efficiency.png" width="24"> </a>- Improved Heavy Cruiser Prototype Testing (D)</p></td></tr></tbody></table>
-
-#### Advanced Heavy Cruiser
-
-<table border="1" cellpadding="5" width="98%"><tbody><tr><td><ul><li>Historic Year: 1941</li><li>Prerequisites:</li></ul><dl><dd><ul><li><a href="/wiki/Naval_Tech_Tree#Improved_Heavy_Cruiser" title="Naval Tech Tree">Improved Heavy Cruiser</a></li></ul></dd></dl><ul><li>Effects:</li></ul><dl><dd><ul><li>New Model heavy_cruiser 4</li><li>Model is now obsolete. heavy_cruiser 2</li></ul></dd></dl></td><td><p>5 - <a class="image" href="/wiki/File:Naval_engineering.png" title="naval_engineering"><img alt="naval_engineering" data-file-height="24" data-file-width="24" data-url="/images/0/09/Naval_engineering.png" decoding="async" height="24" loading="lazy" src="/images/0/09/Naval_engineering.png" width="24"> </a>- Advanced Heavy Cruiser Hull</p><p>5 - <a class="image" href="/wiki/File:Naval_engineering.png" title="naval_engineering"><img alt="naval_engineering" data-file-height="24" data-file-width="24" data-url="/images/0/09/Naval_engineering.png" decoding="async" height="24" loading="lazy" src="/images/0/09/Naval_engineering.png" width="24"> </a>- Advanced Heavy Cruiser Propulsion</p><p>5 - <a class="image" href="/wiki/File:Naval_artillery.png" title="naval_artillery"><img alt="naval_artillery" data-file-height="24" data-file-width="24" data-url="/images/e/ea/Naval_artillery.png" decoding="async" height="24" loading="lazy" src="/images/e/ea/Naval_artillery.png" width="24"> </a>- Naval Cruiser Gun 200</p><p>5 - <a class="image" href="/wiki/File:Electronics.png" title="electronics"><img alt="electronics" data-file-height="24" data-file-width="24" data-url="/images/d/dd/Electronics.png" decoding="async" height="24" loading="lazy" src="/images/d/dd/Electronics.png" width="24"> </a>- Improved Surface Ship Homing Torpedo</p><p>5 - <a class="image" href="/wiki/File:Technical_efficiency.png" title="technical_efficiency"><img alt="technical_efficiency" data-file-height="24" data-file-width="24" data-url="/images/9/9d/Technical_efficiency.png" decoding="async" height="24" loading="lazy" src="/images/9/9d/Technical_efficiency.png" width="24"> </a>- Advanced Heavy Cruiser Prototype Testing (D)</p></td></tr></tbody></table>
-
-#### Semi-Modern Heavy Cruiser (CL)
-
-<table border="1" cellpadding="5" width="98%"><tbody><tr><td><ul><li>Historic Year: 1945</li><li>Prerequisites:</li></ul><dl><dd><ul><li><a href="/wiki/Naval_Tech_Tree#Advanced_Heavy_Cruiser" title="Naval Tech Tree">Advanced Heavy Cruiser</a></li></ul></dd></dl><ul><li>Effects:</li></ul><dl><dd><ul><li>New Model heavy_cruiser 5</li><li>Model is now obsolete. heavy_cruiser 3</li></ul></dd></dl></td><td><p>5 - <a class="image" href="/wiki/File:Naval_engineering.png" title="naval_engineering"><img alt="naval_engineering" data-file-height="24" data-file-width="24" data-url="/images/0/09/Naval_engineering.png" decoding="async" height="24" loading="lazy" src="/images/0/09/Naval_engineering.png" width="24"> </a>- Semi-Modern Heavy Cruiser Hull</p><p>5 - <a class="image" href="/wiki/File:Naval_engineering.png" title="naval_engineering"><img alt="naval_engineering" data-file-height="24" data-file-width="24" data-url="/images/0/09/Naval_engineering.png" decoding="async" height="24" loading="lazy" src="/images/0/09/Naval_engineering.png" width="24"> </a>- Semi-Modern Heavy Cruiser Propulsion</p><p>5 - <a class="image" href="/wiki/File:Naval_artillery.png" title="naval_artillery"><img alt="naval_artillery" data-file-height="24" data-file-width="24" data-url="/images/e/ea/Naval_artillery.png" decoding="async" height="24" loading="lazy" src="/images/e/ea/Naval_artillery.png" width="24"> </a>- Naval Cruiser Gun 200</p><p>5 - <a class="image" href="/wiki/File:Electronics.png" title="electronics"><img alt="electronics" data-file-height="24" data-file-width="24" data-url="/images/d/dd/Electronics.png" decoding="async" height="24" loading="lazy" src="/images/d/dd/Electronics.png" width="24"> </a>- Cruiser Ship-to-Ship Missiles</p><p>5 - <a class="image" href="/wiki/File:Technical_efficiency.png" title="technical_efficiency"><img alt="technical_efficiency" data-file-height="24" data-file-width="24" data-url="/images/9/9d/Technical_efficiency.png" decoding="async" height="24" loading="lazy" src="/images/9/9d/Technical_efficiency.png" width="24"> </a>- Semi-Modern Heavy Cruiser Prototype Testing (D)</p></td></tr></tbody></table>
-
-### Battlecruiser
-
-#### Great War Battlecruiser
-
-<table border="1" cellpadding="5" width="98%"><tbody><tr><td><ul><li>Historic Year: 1936</li><li>Prerequisites: None</li><li>Effects:</li></ul><dl><dd><ul><li>Activate Unit Type battlecruiser</li><li>New Model battlecruiser 0</li></ul></dd></dl></td><td><p>6 - <a class="image" href="/wiki/File:Naval_engineering.png" title="naval_engineering"><img alt="naval_engineering" data-file-height="24" data-file-width="24" data-url="/images/0/09/Naval_engineering.png" decoding="async" height="24" loading="lazy" src="/images/0/09/Naval_engineering.png" width="24"> </a>- Great War Battlecruiser Hull</p><p>6 - <a class="image" href="/wiki/File:Naval_engineering.png" title="naval_engineering"><img alt="naval_engineering" data-file-height="24" data-file-width="24" data-url="/images/0/09/Naval_engineering.png" decoding="async" height="24" loading="lazy" src="/images/0/09/Naval_engineering.png" width="24"> </a>- Great War Battlecruiser Propulsion</p><p>6 - <a class="image" href="/wiki/File:Naval_artillery.png" title="naval_artillery"><img alt="naval_artillery" data-file-height="24" data-file-width="24" data-url="/images/e/ea/Naval_artillery.png" decoding="async" height="24" loading="lazy" src="/images/e/ea/Naval_artillery.png" width="24"> </a>- Naval Cruiser Gun 200</p><p>6 - <a class="image" href="/wiki/File:Electronics.png" title="electronics"><img alt="electronics" data-file-height="24" data-file-width="24" data-url="/images/d/dd/Electronics.png" decoding="async" height="24" loading="lazy" src="/images/d/dd/Electronics.png" width="24"> </a>- Basic Optical Rangefinder</p><p>6 - <a class="image" href="/wiki/File:Technical_efficiency.png" title="technical_efficiency"><img alt="technical_efficiency" data-file-height="24" data-file-width="24" data-url="/images/9/9d/Technical_efficiency.png" decoding="async" height="24" loading="lazy" src="/images/9/9d/Technical_efficiency.png" width="24"> </a>- Great War Battlecruiser Prototype Testing (D)</p></td></tr></tbody></table>
-
-#### Early Battlecruiser
-
-<table border="1" cellpadding="5" width="98%"><tbody><tr><td><ul><li>Historic Year: 1936</li><li>Prerequisites:</li></ul><dl><dd><ul><li><a href="/wiki/Naval_Tech_Tree#Great_War_Battlecruiser" title="Naval Tech Tree">Great War Battlecruiser</a></li></ul></dd></dl><ul><li>Effects:</li></ul><dl><dd><ul><li>New Model battlecruiser 1</li></ul></dd></dl></td><td><p>6 - <a class="image" href="/wiki/File:Naval_engineering.png" title="naval_engineering"><img alt="naval_engineering" data-file-height="24" data-file-width="24" data-url="/images/0/09/Naval_engineering.png" decoding="async" height="24" loading="lazy" src="/images/0/09/Naval_engineering.png" width="24"> </a>- Early Battlecruiser Hull</p><p>6 - <a class="image" href="/wiki/File:Naval_engineering.png" title="naval_engineering"><img alt="naval_engineering" data-file-height="24" data-file-width="24" data-url="/images/0/09/Naval_engineering.png" decoding="async" height="24" loading="lazy" src="/images/0/09/Naval_engineering.png" width="24"> </a>- Early Battlecruiser Propulsion</p><p>6 - <a class="image" href="/wiki/File:Naval_artillery.png" title="naval_artillery"><img alt="naval_artillery" data-file-height="24" data-file-width="24" data-url="/images/e/ea/Naval_artillery.png" decoding="async" height="24" loading="lazy" src="/images/e/ea/Naval_artillery.png" width="24"> </a>- Naval Cruiser Gun 200</p><p>6 - <a class="image" href="/wiki/File:Electronics.png" title="electronics"><img alt="electronics" data-file-height="24" data-file-width="24" data-url="/images/d/dd/Electronics.png" decoding="async" height="24" loading="lazy" src="/images/d/dd/Electronics.png" width="24"> </a>- Improved Optical Rangefinder</p><p>6 - <a class="image" href="/wiki/File:Technical_efficiency.png" title="technical_efficiency"><img alt="technical_efficiency" data-file-height="24" data-file-width="24" data-url="/images/9/9d/Technical_efficiency.png" decoding="async" height="24" loading="lazy" src="/images/9/9d/Technical_efficiency.png" width="24"> </a>- Early Battlecruiser Prototype Testing (D)</p></td></tr></tbody></table>
-
-#### Basic Battlecruiser
-
-<table border="1" cellpadding="5" width="98%"><tbody><tr><td><ul><li>Historic Year: 1936</li><li>Prerequisites:</li></ul><dl><dd><ul><li><a href="/wiki/Naval_Tech_Tree#Early_Battlecruiser" title="Naval Tech Tree">Early Battlecruiser</a></li></ul></dd></dl><ul><li>Effects:</li></ul><dl><dd><ul><li>Model is now obsolete. battlecruiser 0</li><li>New Model battlecruiser 2</li></ul></dd></dl></td><td><p>6 - <a class="image" href="/wiki/File:Naval_engineering.png" title="naval_engineering"><img alt="naval_engineering" data-file-height="24" data-file-width="24" data-url="/images/0/09/Naval_engineering.png" decoding="async" height="24" loading="lazy" src="/images/0/09/Naval_engineering.png" width="24"> </a>- Basic Battlecruiser Hull</p><p>6 - <a class="image" href="/wiki/File:Naval_engineering.png" title="naval_engineering"><img alt="naval_engineering" data-file-height="24" data-file-width="24" data-url="/images/0/09/Naval_engineering.png" decoding="async" height="24" loading="lazy" src="/images/0/09/Naval_engineering.png" width="24"> </a>- Basic Battlecruiser Propulsion</p><p>6 - <a class="image" href="/wiki/File:Naval_artillery.png" title="naval_artillery"><img alt="naval_artillery" data-file-height="24" data-file-width="24" data-url="/images/e/ea/Naval_artillery.png" decoding="async" height="24" loading="lazy" src="/images/e/ea/Naval_artillery.png" width="24"> </a>- Naval Battlecruiser Gun 250</p><p>6 - <a class="image" href="/wiki/File:Electronics.png" title="electronics"><img alt="electronics" data-file-height="24" data-file-width="24" data-url="/images/d/dd/Electronics.png" decoding="async" height="24" loading="lazy" src="/images/d/dd/Electronics.png" width="24"> </a>- Advanced Optical Rangefinder</p><p>6 - <a class="image" href="/wiki/File:Technical_efficiency.png" title="technical_efficiency"><img alt="technical_efficiency" data-file-height="24" data-file-width="24" data-url="/images/9/9d/Technical_efficiency.png" decoding="async" height="24" loading="lazy" src="/images/9/9d/Technical_efficiency.png" width="24"> </a>- Basic Battlecruiser Prototype Testing (D)</p></td></tr></tbody></table>
-
-#### Improved Battlecruiser
-
-<table border="1" cellpadding="5" width="98%"><tbody><tr><td><ul><li>Historic Year: 1938</li><li>Prerequisites:</li></ul><dl><dd><ul><li><a href="/wiki/Naval_Tech_Tree#Basic_Battlecruiser" title="Naval Tech Tree">Basic Battlecruiser</a></li></ul></dd></dl><ul><li>Effects:</li></ul><dl><dd><ul><li>Model is now obsolete. battlecruiser 1</li><li>New Model battlecruiser 3</li></ul></dd></dl></td><td><p>6 - <a class="image" href="/wiki/File:Naval_engineering.png" title="naval_engineering"><img alt="naval_engineering" data-file-height="24" data-file-width="24" data-url="/images/0/09/Naval_engineering.png" decoding="async" height="24" loading="lazy" src="/images/0/09/Naval_engineering.png" width="24"> </a>- Improved Battlecruiser Hull</p><p>6 - <a class="image" href="/wiki/File:Naval_engineering.png" title="naval_engineering"><img alt="naval_engineering" data-file-height="24" data-file-width="24" data-url="/images/0/09/Naval_engineering.png" decoding="async" height="24" loading="lazy" src="/images/0/09/Naval_engineering.png" width="24"> </a>- Improved Battlecruiser Propulsion</p><p>6 - <a class="image" href="/wiki/File:Naval_artillery.png" title="naval_artillery"><img alt="naval_artillery" data-file-height="24" data-file-width="24" data-url="/images/e/ea/Naval_artillery.png" decoding="async" height="24" loading="lazy" src="/images/e/ea/Naval_artillery.png" width="24"> </a>- Naval Battlecruiser Gun 250</p><p>6 - <a class="image" href="/wiki/File:Electronics.png" title="electronics"><img alt="electronics" data-file-height="24" data-file-width="24" data-url="/images/d/dd/Electronics.png" decoding="async" height="24" loading="lazy" src="/images/d/dd/Electronics.png" width="24"> </a>- Basic Decimetric Naval Artillery Radar</p><p>6 - <a class="image" href="/wiki/File:Technical_efficiency.png" title="technical_efficiency"><img alt="technical_efficiency" data-file-height="24" data-file-width="24" data-url="/images/9/9d/Technical_efficiency.png" decoding="async" height="24" loading="lazy" src="/images/9/9d/Technical_efficiency.png" width="24"> </a>- Improved Battlecruiser Prototype Testing (D)</p></td></tr></tbody></table>
-
-#### Advanced Battlecruiser
-
-<table border="1" cellpadding="5" width="98%"><tbody><tr><td><ul><li>Historic Year: 1941</li><li>Prerequisites:</li></ul><dl><dd><ul><li><a href="/wiki/Naval_Tech_Tree#Improved_Battlecruiser" title="Naval Tech Tree">Improved Battlecruiser</a></li></ul></dd></dl><ul><li>Effects:</li></ul><dl><dd><ul><li>New Model battlecruiser 4</li><li>Model is now obsolete. battlecruiser 2</li></ul></dd></dl></td><td><p>6 - <a class="image" href="/wiki/File:Naval_engineering.png" title="naval_engineering"><img alt="naval_engineering" data-file-height="24" data-file-width="24" data-url="/images/0/09/Naval_engineering.png" decoding="async" height="24" loading="lazy" src="/images/0/09/Naval_engineering.png" width="24"> </a>- Advanced Battlecruiser Hull</p><p>6 - <a class="image" href="/wiki/File:Naval_engineering.png" title="naval_engineering"><img alt="naval_engineering" data-file-height="24" data-file-width="24" data-url="/images/0/09/Naval_engineering.png" decoding="async" height="24" loading="lazy" src="/images/0/09/Naval_engineering.png" width="24"> </a>- Advanced Battlecruiser Propulsion</p><p>6 - <a class="image" href="/wiki/File:Naval_artillery.png" title="naval_artillery"><img alt="naval_artillery" data-file-height="24" data-file-width="24" data-url="/images/e/ea/Naval_artillery.png" decoding="async" height="24" loading="lazy" src="/images/e/ea/Naval_artillery.png" width="24"> </a>- Naval Battlecruiser Gun 250</p><p>6 - <a class="image" href="/wiki/File:Electronics.png" title="electronics"><img alt="electronics" data-file-height="24" data-file-width="24" data-url="/images/d/dd/Electronics.png" decoding="async" height="24" loading="lazy" src="/images/d/dd/Electronics.png" width="24"> </a>- Improved Decimetric Naval Artillery Radar</p><p>6 - <a class="image" href="/wiki/File:Technical_efficiency.png" title="technical_efficiency"><img alt="technical_efficiency" data-file-height="24" data-file-width="24" data-url="/images/9/9d/Technical_efficiency.png" decoding="async" height="24" loading="lazy" src="/images/9/9d/Technical_efficiency.png" width="24"> </a>- Advanced Battlecruiser Prototype Testing (D)</p></td></tr></tbody></table>
-
-#### Semi-Modern Battlecruiser
-
-<table border="1" cellpadding="5" width="98%"><tbody><tr><td><ul><li>Historic Year: 1945</li><li>Prerequisites:</li></ul><dl><dd><ul><li><a href="/wiki/Naval_Tech_Tree#Advanced_Battlecruiser" title="Naval Tech Tree">Advanced Battlecruiser</a></li></ul></dd></dl><ul><li>Effects:</li></ul><dl><dd><ul><li>New Model battlecruiser 5</li><li>Model is now obsolete. battlecruiser 3</li></ul></dd></dl></td><td><p>6 - <a class="image" href="/wiki/File:Naval_engineering.png" title="naval_engineering"><img alt="naval_engineering" data-file-height="24" data-file-width="24" data-url="/images/0/09/Naval_engineering.png" decoding="async" height="24" loading="lazy" src="/images/0/09/Naval_engineering.png" width="24"> </a>- Semi-Modern Battlecruiser Hull</p><p>6 - <a class="image" href="/wiki/File:Naval_engineering.png" title="naval_engineering"><img alt="naval_engineering" data-file-height="24" data-file-width="24" data-url="/images/0/09/Naval_engineering.png" decoding="async" height="24" loading="lazy" src="/images/0/09/Naval_engineering.png" width="24"> </a>- Semi-Modern Battlecruiser Propulsion</p><p>6 - <a class="image" href="/wiki/File:Naval_artillery.png" title="naval_artillery"><img alt="naval_artillery" data-file-height="24" data-file-width="24" data-url="/images/e/ea/Naval_artillery.png" decoding="async" height="24" loading="lazy" src="/images/e/ea/Naval_artillery.png" width="24"> </a>- Naval Battlecruiser Gun 250</p><p>6 - <a class="image" href="/wiki/File:Electronics.png" title="electronics"><img alt="electronics" data-file-height="24" data-file-width="24" data-url="/images/d/dd/Electronics.png" decoding="async" height="24" loading="lazy" src="/images/d/dd/Electronics.png" width="24"> </a>- Basic Centimetric Naval Artillery Radar</p><p>6 - <a class="image" href="/wiki/File:Technical_efficiency.png" title="technical_efficiency"><img alt="technical_efficiency" data-file-height="24" data-file-width="24" data-url="/images/9/9d/Technical_efficiency.png" decoding="async" height="24" loading="lazy" src="/images/9/9d/Technical_efficiency.png" width="24"> </a>- Semi-Modern Battlecruiser Prototype Testing (D)</p></td></tr></tbody></table>
-
-### Battleship
-
-#### Great War Battleship
-
-<table border="1" cellpadding="5" width="98%"><tbody><tr><td><ul><li>Historic Year: 1936</li><li>Prerequisites: None</li><li>Effects:</li></ul><dl><dd><ul><li>Activate Unit Type battleship</li><li>New Model battleship 0</li></ul></dd></dl></td><td><p>7 - <a class="image" href="/wiki/File:Naval_engineering.png" title="naval_engineering"><img alt="naval_engineering" data-file-height="24" data-file-width="24" data-url="/images/0/09/Naval_engineering.png" decoding="async" height="24" loading="lazy" src="/images/0/09/Naval_engineering.png" width="24"> </a>- Great War Battleship Hull</p><p>7 - <a class="image" href="/wiki/File:Naval_engineering.png" title="naval_engineering"><img alt="naval_engineering" data-file-height="24" data-file-width="24" data-url="/images/0/09/Naval_engineering.png" decoding="async" height="24" loading="lazy" src="/images/0/09/Naval_engineering.png" width="24"> </a>- Great War Battleship Propulsion</p><p>7 - <a class="image" href="/wiki/File:Naval_artillery.png" title="naval_artillery"><img alt="naval_artillery" data-file-height="24" data-file-width="24" data-url="/images/e/ea/Naval_artillery.png" decoding="async" height="24" loading="lazy" src="/images/e/ea/Naval_artillery.png" width="24"> </a>- Naval Battleship Gun 350</p><p>7 - <a class="image" href="/wiki/File:Electronics.png" title="electronics"><img alt="electronics" data-file-height="24" data-file-width="24" data-url="/images/d/dd/Electronics.png" decoding="async" height="24" loading="lazy" src="/images/d/dd/Electronics.png" width="24"> </a>- Basic Optical Rangefinder</p><p>7 - <a class="image" href="/wiki/File:Technical_efficiency.png" title="technical_efficiency"><img alt="technical_efficiency" data-file-height="24" data-file-width="24" data-url="/images/9/9d/Technical_efficiency.png" decoding="async" height="24" loading="lazy" src="/images/9/9d/Technical_efficiency.png" width="24"> </a>- Great War Battleship Prototype Testing (D)</p></td></tr></tbody></table>
-
-#### Early Battleship
-
-<table border="1" cellpadding="5" width="98%"><tbody><tr><td><ul><li>Historic Year: 1936</li><li>Prerequisites:</li></ul><dl><dd><ul><li><a href="/wiki/Naval_Tech_Tree#Great_War_Battleship" title="Naval Tech Tree">Great War Battleship</a></li></ul></dd></dl><ul><li>Effects:</li></ul><dl><dd><ul><li>New Model battleship 1</li></ul></dd></dl></td><td><p>7 - <a class="image" href="/wiki/File:Naval_engineering.png" title="naval_engineering"><img alt="naval_engineering" data-file-height="24" data-file-width="24" data-url="/images/0/09/Naval_engineering.png" decoding="async" height="24" loading="lazy" src="/images/0/09/Naval_engineering.png" width="24"> </a>- Early Battleship Hull</p><p>7 - <a class="image" href="/wiki/File:Naval_engineering.png" title="naval_engineering"><img alt="naval_engineering" data-file-height="24" data-file-width="24" data-url="/images/0/09/Naval_engineering.png" decoding="async" height="24" loading="lazy" src="/images/0/09/Naval_engineering.png" width="24"> </a>- Early Battleship Propulsion</p><p>7 - <a class="image" href="/wiki/File:Naval_artillery.png" title="naval_artillery"><img alt="naval_artillery" data-file-height="24" data-file-width="24" data-url="/images/e/ea/Naval_artillery.png" decoding="async" height="24" loading="lazy" src="/images/e/ea/Naval_artillery.png" width="24"> </a>- Naval Battleship Gun 350</p><p>7 - <a class="image" href="/wiki/File:Electronics.png" title="electronics"><img alt="electronics" data-file-height="24" data-file-width="24" data-url="/images/d/dd/Electronics.png" decoding="async" height="24" loading="lazy" src="/images/d/dd/Electronics.png" width="24"> </a>- Improved Optical Rangefinder</p><p>7 - <a class="image" href="/wiki/File:Technical_efficiency.png" title="technical_efficiency"><img alt="technical_efficiency" data-file-height="24" data-file-width="24" data-url="/images/9/9d/Technical_efficiency.png" decoding="async" height="24" loading="lazy" src="/images/9/9d/Technical_efficiency.png" width="24"> </a>- Early Battleship Prototype Testing (D)</p></td></tr></tbody></table>
-
-#### Basic Battleship
-
-<table border="1" cellpadding="5" width="98%"><tbody><tr><td><ul><li>Historic Year: 1936</li><li>Prerequisites:</li></ul><dl><dd><ul><li><a href="/wiki/Naval_Tech_Tree#Early_Battleship" title="Naval Tech Tree">Early Battleship</a></li></ul></dd></dl><ul><li>Effects:</li></ul><dl><dd><ul><li>Model is now obsolete. battleship 0</li><li>New Model battleship 2</li></ul></dd></dl></td><td><p>7 - <a class="image" href="/wiki/File:Naval_engineering.png" title="naval_engineering"><img alt="naval_engineering" data-file-height="24" data-file-width="24" data-url="/images/0/09/Naval_engineering.png" decoding="async" height="24" loading="lazy" src="/images/0/09/Naval_engineering.png" width="24"> </a>- Basic Battleship Hull</p><p>7 - <a class="image" href="/wiki/File:Naval_engineering.png" title="naval_engineering"><img alt="naval_engineering" data-file-height="24" data-file-width="24" data-url="/images/0/09/Naval_engineering.png" decoding="async" height="24" loading="lazy" src="/images/0/09/Naval_engineering.png" width="24"> </a>- Basic Battleship Propulsion</p><p>7 - <a class="image" href="/wiki/File:Naval_artillery.png" title="naval_artillery"><img alt="naval_artillery" data-file-height="24" data-file-width="24" data-url="/images/e/ea/Naval_artillery.png" decoding="async" height="24" loading="lazy" src="/images/e/ea/Naval_artillery.png" width="24"> </a>- Naval Battleship Gun 350</p><p>7 - <a class="image" href="/wiki/File:Electronics.png" title="electronics"><img alt="electronics" data-file-height="24" data-file-width="24" data-url="/images/d/dd/Electronics.png" decoding="async" height="24" loading="lazy" src="/images/d/dd/Electronics.png" width="24"> </a>- Advanced Optical Rangefinder</p><p>7 - <a class="image" href="/wiki/File:Technical_efficiency.png" title="technical_efficiency"><img alt="technical_efficiency" data-file-height="24" data-file-width="24" data-url="/images/9/9d/Technical_efficiency.png" decoding="async" height="24" loading="lazy" src="/images/9/9d/Technical_efficiency.png" width="24"> </a>- Basic Battleship Prototype Testing (D)</p></td></tr></tbody></table>
-
-#### Improved Battleship
-
-<table border="1" cellpadding="5" width="98%"><tbody><tr><td><ul><li>Historic Year: 1936</li><li>Prerequisites:</li></ul><dl><dd><ul><li><a href="/wiki/Naval_Tech_Tree#Basic_Battleship" title="Naval Tech Tree">Basic Battleship</a></li></ul></dd></dl><ul><li>Effects:</li></ul><dl><dd><ul><li>Model is now obsolete. battleship 1</li><li>New Model battleship 3</li></ul></dd></dl></td><td><p>7 - <a class="image" href="/wiki/File:Naval_engineering.png" title="naval_engineering"><img alt="naval_engineering" data-file-height="24" data-file-width="24" data-url="/images/0/09/Naval_engineering.png" decoding="async" height="24" loading="lazy" src="/images/0/09/Naval_engineering.png" width="24"> </a>- Improved Battleship Hull</p><p>7 - <a class="image" href="/wiki/File:Naval_engineering.png" title="naval_engineering"><img alt="naval_engineering" data-file-height="24" data-file-width="24" data-url="/images/0/09/Naval_engineering.png" decoding="async" height="24" loading="lazy" src="/images/0/09/Naval_engineering.png" width="24"> </a>- Improved Battleship Propulsion</p><p>7 - <a class="image" href="/wiki/File:Naval_artillery.png" title="naval_artillery"><img alt="naval_artillery" data-file-height="24" data-file-width="24" data-url="/images/e/ea/Naval_artillery.png" decoding="async" height="24" loading="lazy" src="/images/e/ea/Naval_artillery.png" width="24"> </a>- Naval Battleship Gun 400</p><p>7 - <a class="image" href="/wiki/File:Electronics.png" title="electronics"><img alt="electronics" data-file-height="24" data-file-width="24" data-url="/images/d/dd/Electronics.png" decoding="async" height="24" loading="lazy" src="/images/d/dd/Electronics.png" width="24"> </a>- Basic Decimetric Naval Artillery Radar</p><p>7 - <a class="image" href="/wiki/File:Technical_efficiency.png" title="technical_efficiency"><img alt="technical_efficiency" data-file-height="24" data-file-width="24" data-url="/images/9/9d/Technical_efficiency.png" decoding="async" height="24" loading="lazy" src="/images/9/9d/Technical_efficiency.png" width="24"> </a>- Improved Battleship Prototype Testing (D)</p></td></tr></tbody></table>
-
-#### Advanced Battleship
-
-<table border="1" cellpadding="5" width="98%"><tbody><tr><td><ul><li>Historic Year: 1941</li><li>Prerequisites:</li></ul><dl><dd><ul><li><a href="/wiki/Naval_Tech_Tree#Improved_Battleship" title="Naval Tech Tree">Improved Battleship</a></li></ul></dd></dl><ul><li>Effects:</li></ul><dl><dd><ul><li>New Model battleship 4</li><li>Model is now obsolete. battleship 2</li></ul></dd></dl></td><td><p>7 - <a class="image" href="/wiki/File:Naval_engineering.png" title="naval_engineering"><img alt="naval_engineering" data-file-height="24" data-file-width="24" data-url="/images/0/09/Naval_engineering.png" decoding="async" height="24" loading="lazy" src="/images/0/09/Naval_engineering.png" width="24"> </a>- Advanced Battleship Hull</p><p>7 - <a class="image" href="/wiki/File:Naval_engineering.png" title="naval_engineering"><img alt="naval_engineering" data-file-height="24" data-file-width="24" data-url="/images/0/09/Naval_engineering.png" decoding="async" height="24" loading="lazy" src="/images/0/09/Naval_engineering.png" width="24"> </a>- Advanced Battleship Propulsion</p><p>7 - <a class="image" href="/wiki/File:Naval_artillery.png" title="naval_artillery"><img alt="naval_artillery" data-file-height="24" data-file-width="24" data-url="/images/e/ea/Naval_artillery.png" decoding="async" height="24" loading="lazy" src="/images/e/ea/Naval_artillery.png" width="24"> </a>- Naval Battleship Gun 400</p><p>7 - <a class="image" href="/wiki/File:Electronics.png" title="electronics"><img alt="electronics" data-file-height="24" data-file-width="24" data-url="/images/d/dd/Electronics.png" decoding="async" height="24" loading="lazy" src="/images/d/dd/Electronics.png" width="24"> </a>- Improved Decimetric Naval Artillery Radar</p><p>7 - <a class="image" href="/wiki/File:Technical_efficiency.png" title="technical_efficiency"><img alt="technical_efficiency" data-file-height="24" data-file-width="24" data-url="/images/9/9d/Technical_efficiency.png" decoding="async" height="24" loading="lazy" src="/images/9/9d/Technical_efficiency.png" width="24"> </a>- Advanced Battleship Prototype Testing (D)</p></td></tr></tbody></table>
-
-#### Semi-Modern Battleship
-
-<table border="1" cellpadding="5" width="98%"><tbody><tr><td><ul><li>Historic Year: 1945</li><li>Prerequisites:</li></ul><dl><dd><ul><li><a href="/wiki/Naval_Tech_Tree#Advanced_Battleship" title="Naval Tech Tree">Advanced Battleship</a></li></ul></dd></dl><ul><li>Effects:</li></ul><dl><dd><ul><li>New Model battleship 5</li><li>Model is now obsolete. battleship 3</li></ul></dd></dl></td><td><p>7 - <a class="image" href="/wiki/File:Naval_engineering.png" title="naval_engineering"><img alt="naval_engineering" data-file-height="24" data-file-width="24" data-url="/images/0/09/Naval_engineering.png" decoding="async" height="24" loading="lazy" src="/images/0/09/Naval_engineering.png" width="24"> </a>- Semi-Modern Battleship Hull</p><p>7 - <a class="image" href="/wiki/File:Naval_engineering.png" title="naval_engineering"><img alt="naval_engineering" data-file-height="24" data-file-width="24" data-url="/images/0/09/Naval_engineering.png" decoding="async" height="24" loading="lazy" src="/images/0/09/Naval_engineering.png" width="24"> </a>- Semi-Modern Battleship Propulsion</p><p>7 - <a class="image" href="/wiki/File:Naval_artillery.png" title="naval_artillery"><img alt="naval_artillery" data-file-height="24" data-file-width="24" data-url="/images/e/ea/Naval_artillery.png" decoding="async" height="24" loading="lazy" src="/images/e/ea/Naval_artillery.png" width="24"> </a>- Naval Battleship Gun 400</p><p>7 - <a class="image" href="/wiki/File:Electronics.png" title="electronics"><img alt="electronics" data-file-height="24" data-file-width="24" data-url="/images/d/dd/Electronics.png" decoding="async" height="24" loading="lazy" src="/images/d/dd/Electronics.png" width="24"> </a>- Basic Centimetric Naval Artillery Radar</p><p>7 - <a class="image" href="/wiki/File:Technical_efficiency.png" title="technical_efficiency"><img alt="technical_efficiency" data-file-height="24" data-file-width="24" data-url="/images/9/9d/Technical_efficiency.png" decoding="async" height="24" loading="lazy" src="/images/9/9d/Technical_efficiency.png" width="24"> </a>- Semi-Modern Battleship Prototype Testing (D)</p></td></tr></tbody></table>
-
-#### Super Heavy Battleship
-
-<table border="1" cellpadding="5" width="98%"><tbody><tr><td><ul><li>Historic Year: 1938</li><li>Prerequisites:</li></ul><dl><dd><ul><li><a href="/wiki/Naval_Tech_Tree#Improved_Battleship" title="Naval Tech Tree">Improved Battleship</a></li></ul></dd></dl><ul><li>Effects:</li></ul><dl><dd><ul><li>New Model battleship 6</li></ul></dd></dl></td><td><p>7 - <a class="image" href="/wiki/File:Naval_engineering.png" title="naval_engineering"><img alt="naval_engineering" data-file-height="24" data-file-width="24" data-url="/images/0/09/Naval_engineering.png" decoding="async" height="24" loading="lazy" src="/images/0/09/Naval_engineering.png" width="24"> </a>- Super Heavy Battleship Hull</p><p>7 - <a class="image" href="/wiki/File:Naval_engineering.png" title="naval_engineering"><img alt="naval_engineering" data-file-height="24" data-file-width="24" data-url="/images/0/09/Naval_engineering.png" decoding="async" height="24" loading="lazy" src="/images/0/09/Naval_engineering.png" width="24"> </a>- Super Heavy Battleship Propulsion</p><p>7 - <a class="image" href="/wiki/File:Naval_artillery.png" title="naval_artillery"><img alt="naval_artillery" data-file-height="24" data-file-width="24" data-url="/images/e/ea/Naval_artillery.png" decoding="async" height="24" loading="lazy" src="/images/e/ea/Naval_artillery.png" width="24"> </a>- Naval Battleship Gun 460</p><p>7 - <a class="image" href="/wiki/File:Electronics.png" title="electronics"><img alt="electronics" data-file-height="24" data-file-width="24" data-url="/images/d/dd/Electronics.png" decoding="async" height="24" loading="lazy" src="/images/d/dd/Electronics.png" width="24"> </a>- Basic Centimetric Naval Artillery Radar</p><p>7 - <a class="image" href="/wiki/File:Technical_efficiency.png" title="technical_efficiency"><img alt="technical_efficiency" data-file-height="24" data-file-width="24" data-url="/images/9/9d/Technical_efficiency.png" decoding="async" height="24" loading="lazy" src="/images/9/9d/Technical_efficiency.png" width="24"> </a>- Super Heavy Battleship Prototype Testing (D)</p></td></tr></tbody></table>
-
-### Air Carrier
-
-#### Great War Air Carrier
-
-<table border="1" cellpadding="5" width="98%"><tbody><tr><td><ul><li>Historic Year: 1936</li><li>Prerequisites: None</li><li>Effects:</li></ul><dl><dd><ul><li>Activate Unit Type carrier</li><li>Activate Unit Type cag</li><li>New Model carrier 0</li><li>New Model cag 0</li></ul></dd></dl></td><td><p>7 - <a class="image" href="/wiki/File:Naval_engineering.png" title="naval_engineering"><img alt="naval_engineering" data-file-height="24" data-file-width="24" data-url="/images/0/09/Naval_engineering.png" decoding="async" height="24" loading="lazy" src="/images/0/09/Naval_engineering.png" width="24"> </a>- Great War Air Carrier Hull</p><p>7 - <a class="image" href="/wiki/File:Naval_engineering.png" title="naval_engineering"><img alt="naval_engineering" data-file-height="24" data-file-width="24" data-url="/images/0/09/Naval_engineering.png" decoding="async" height="24" loading="lazy" src="/images/0/09/Naval_engineering.png" width="24"> </a>- Great War Air Carrier Propulsion</p><p>7 - <a class="image" href="/wiki/File:Aeronautics.png" title="aeronautics"><img alt="aeronautics" data-file-height="24" data-file-width="24" data-url="/images/a/a1/Aeronautics.png" decoding="async" height="24" loading="lazy" src="/images/a/a1/Aeronautics.png" width="24"> </a>- Sectional Flight Deck</p><p>7 - <a class="image" href="/wiki/File:Electronics.png" title="electronics"><img alt="electronics" data-file-height="24" data-file-width="24" data-url="/images/d/dd/Electronics.png" decoding="async" height="24" loading="lazy" src="/images/d/dd/Electronics.png" width="24"> </a>- Great War Carrier Aircraft Group</p><p>7 - <a class="image" href="/wiki/File:Technical_efficiency.png" title="technical_efficiency"><img alt="technical_efficiency" data-file-height="24" data-file-width="24" data-url="/images/9/9d/Technical_efficiency.png" decoding="async" height="24" loading="lazy" src="/images/9/9d/Technical_efficiency.png" width="24"> </a>- Great War Air Carrier Prototype Testing (D)</p></td></tr></tbody></table>
-
-#### Early Air Carrier
-
-<table border="1" cellpadding="5" width="98%"><tbody><tr><td><ul><li>Historic Year: 1936</li><li>Prerequisites:</li></ul><dl><dd><ul><li><a href="/wiki/Naval_Tech_Tree#Great_War_Air_Carrier" title="Naval Tech Tree">Great War Air Carrier</a></li></ul></dd></dl><ul><li>Effects:</li></ul><dl><dd><ul><li>New Model carrier 1</li><li>New Model cag 1</li></ul></dd></dl></td><td><p>7 - <a class="image" href="/wiki/File:Naval_engineering.png" title="naval_engineering"><img alt="naval_engineering" data-file-height="24" data-file-width="24" data-url="/images/0/09/Naval_engineering.png" decoding="async" height="24" loading="lazy" src="/images/0/09/Naval_engineering.png" width="24"> </a>- Early Air Carrier Hull</p><p>7 - <a class="image" href="/wiki/File:Naval_engineering.png" title="naval_engineering"><img alt="naval_engineering" data-file-height="24" data-file-width="24" data-url="/images/0/09/Naval_engineering.png" decoding="async" height="24" loading="lazy" src="/images/0/09/Naval_engineering.png" width="24"> </a>- Early Air Carrier Propulsion</p><p>7 - <a class="image" href="/wiki/File:Aeronautics.png" title="aeronautics"><img alt="aeronautics" data-file-height="24" data-file-width="24" data-url="/images/a/a1/Aeronautics.png" decoding="async" height="24" loading="lazy" src="/images/a/a1/Aeronautics.png" width="24"> </a>- Experimental Straight Flight Deck</p><p>7 - <a class="image" href="/wiki/File:Electronics.png" title="electronics"><img alt="electronics" data-file-height="24" data-file-width="24" data-url="/images/d/dd/Electronics.png" decoding="async" height="24" loading="lazy" src="/images/d/dd/Electronics.png" width="24"> </a>- Early Carrier Aircraft Group</p><p>7 - <a class="image" href="/wiki/File:Technical_efficiency.png" title="technical_efficiency"><img alt="technical_efficiency" data-file-height="24" data-file-width="24" data-url="/images/9/9d/Technical_efficiency.png" decoding="async" height="24" loading="lazy" src="/images/9/9d/Technical_efficiency.png" width="24"> </a>- Early Air Carrier Prototype Testing (D)</p></td></tr></tbody></table>
-
-#### Basic Air Carrier
-
-<table border="1" cellpadding="5" width="98%"><tbody><tr><td><ul><li>Historic Year: 1936</li><li>Prerequisites:</li></ul><dl><dd><ul><li><a href="/wiki/Naval_Tech_Tree#Early_Air_Carrier" title="Naval Tech Tree">Early Air Carrier</a></li></ul></dd></dl><ul><li>Effects:</li></ul><dl><dd><ul><li>New Model carrier 2</li><li>New Model cag 2</li></ul></dd></dl></td><td><p>7 - <a class="image" href="/wiki/File:Naval_engineering.png" title="naval_engineering"><img alt="naval_engineering" data-file-height="24" data-file-width="24" data-url="/images/0/09/Naval_engineering.png" decoding="async" height="24" loading="lazy" src="/images/0/09/Naval_engineering.png" width="24"> </a>- Basic Air Carrier Hull</p><p>7 - <a class="image" href="/wiki/File:Naval_engineering.png" title="naval_engineering"><img alt="naval_engineering" data-file-height="24" data-file-width="24" data-url="/images/0/09/Naval_engineering.png" decoding="async" height="24" loading="lazy" src="/images/0/09/Naval_engineering.png" width="24"> </a>- Basic Air Carrier Propulsion</p><p>7 - <a class="image" href="/wiki/File:Aeronautics.png" title="aeronautics"><img alt="aeronautics" data-file-height="24" data-file-width="24" data-url="/images/a/a1/Aeronautics.png" decoding="async" height="24" loading="lazy" src="/images/a/a1/Aeronautics.png" width="24"> </a>- Straight Flight Deck</p><p>7 - <a class="image" href="/wiki/File:Electronics.png" title="electronics"><img alt="electronics" data-file-height="24" data-file-width="24" data-url="/images/d/dd/Electronics.png" decoding="async" height="24" loading="lazy" src="/images/d/dd/Electronics.png" width="24"> </a>- Basic Carrier Aircraft Group</p><p>7 - <a class="image" href="/wiki/File:Technical_efficiency.png" title="technical_efficiency"><img alt="technical_efficiency" data-file-height="24" data-file-width="24" data-url="/images/9/9d/Technical_efficiency.png" decoding="async" height="24" loading="lazy" src="/images/9/9d/Technical_efficiency.png" width="24"> </a>- Basic Air Carrier Prototype Testing (D)</p></td></tr></tbody></table>
-
-#### Improved Air Carrier
-
-<table border="1" cellpadding="5" width="98%"><tbody><tr><td><ul><li>Historic Year: 1938</li><li>Prerequisites:</li></ul><dl><dd><ul><li><a href="/wiki/Naval_Tech_Tree#Basic_Air_Carrier" title="Naval Tech Tree">Basic Air Carrier</a></li></ul></dd></dl><ul><li>Effects:</li></ul><dl><dd><ul><li>New Model carrier 3</li><li>New Model cag 3</li></ul></dd></dl></td><td><p>7 - <a class="image" href="/wiki/File:Naval_engineering.png" title="naval_engineering"><img alt="naval_engineering" data-file-height="24" data-file-width="24" data-url="/images/0/09/Naval_engineering.png" decoding="async" height="24" loading="lazy" src="/images/0/09/Naval_engineering.png" width="24"> </a>- Improved Air Carrier Hull</p><p>7 - <a class="image" href="/wiki/File:Naval_engineering.png" title="naval_engineering"><img alt="naval_engineering" data-file-height="24" data-file-width="24" data-url="/images/0/09/Naval_engineering.png" decoding="async" height="24" loading="lazy" src="/images/0/09/Naval_engineering.png" width="24"> </a>- Improved Air Carrier Propulsion</p><p>7 - <a class="image" href="/wiki/File:Aeronautics.png" title="aeronautics"><img alt="aeronautics" data-file-height="24" data-file-width="24" data-url="/images/a/a1/Aeronautics.png" decoding="async" height="24" loading="lazy" src="/images/a/a1/Aeronautics.png" width="24"> </a>- Armored Straight Flight Deck</p><p>7 - <a class="image" href="/wiki/File:Electronics.png" title="electronics"><img alt="electronics" data-file-height="24" data-file-width="24" data-url="/images/d/dd/Electronics.png" decoding="async" height="24" loading="lazy" src="/images/d/dd/Electronics.png" width="24"> </a>- Improved Carrier Aircraft Group</p><p>7 - <a class="image" href="/wiki/File:Technical_efficiency.png" title="technical_efficiency"><img alt="technical_efficiency" data-file-height="24" data-file-width="24" data-url="/images/9/9d/Technical_efficiency.png" decoding="async" height="24" loading="lazy" src="/images/9/9d/Technical_efficiency.png" width="24"> </a>- Improved Air Carrier Prototype Testing (D)</p></td></tr></tbody></table>
-
-#### Advanced Air Carrier
-
-<table border="1" cellpadding="5" width="98%"><tbody><tr><td><ul><li>Historic Year: 1941</li><li>Prerequisites:</li></ul><dl><dd><ul><li><a href="/wiki/Naval_Tech_Tree#Improved_Air_Carrier" title="Naval Tech Tree">Improved Air Carrier</a></li></ul></dd></dl><ul><li>Effects:</li></ul><dl><dd><ul><li>New Model carrier 4</li><li>New Model cag 4</li></ul></dd></dl></td><td><p>7 - <a class="image" href="/wiki/File:Naval_engineering.png" title="naval_engineering"><img alt="naval_engineering" data-file-height="24" data-file-width="24" data-url="/images/0/09/Naval_engineering.png" decoding="async" height="24" loading="lazy" src="/images/0/09/Naval_engineering.png" width="24"> </a>- Advanced Air Carrier Hull</p><p>7 - <a class="image" href="/wiki/File:Naval_engineering.png" title="naval_engineering"><img alt="naval_engineering" data-file-height="24" data-file-width="24" data-url="/images/0/09/Naval_engineering.png" decoding="async" height="24" loading="lazy" src="/images/0/09/Naval_engineering.png" width="24"> </a>- Advanced Air Carrier Propulsion</p><p>7 - <a class="image" href="/wiki/File:Aeronautics.png" title="aeronautics"><img alt="aeronautics" data-file-height="24" data-file-width="24" data-url="/images/a/a1/Aeronautics.png" decoding="async" height="24" loading="lazy" src="/images/a/a1/Aeronautics.png" width="24"> </a>- Angled Flight Deck</p><p>7 - <a class="image" href="/wiki/File:Electronics.png" title="electronics"><img alt="electronics" data-file-height="24" data-file-width="24" data-url="/images/d/dd/Electronics.png" decoding="async" height="24" loading="lazy" src="/images/d/dd/Electronics.png" width="24"> </a>- Advanced Carrier Aircraft Group</p><p>7 - <a class="image" href="/wiki/File:Technical_efficiency.png" title="technical_efficiency"><img alt="technical_efficiency" data-file-height="24" data-file-width="24" data-url="/images/9/9d/Technical_efficiency.png" decoding="async" height="24" loading="lazy" src="/images/9/9d/Technical_efficiency.png" width="24"> </a>- Advanced Air Carrier Prototype Testing (D)</p></td></tr></tbody></table>
-
-#### Heavy Advanced Air Carrier
-
-<table border="1" cellpadding="5" width="98%"><tbody><tr><td><ul><li>Historic Year: 1943</li><li>Prerequisites:</li></ul><dl><dd><ul><li><a href="/wiki/Naval_Tech_Tree#Advanced_Air_Carrier" title="Naval Tech Tree">Advanced Air Carrier</a></li></ul></dd></dl><ul><li>Effects:</li></ul><dl><dd><ul><li>New Model carrier 5</li><li>New Model cag 5</li></ul></dd></dl></td><td><p>7 - <a class="image" href="/wiki/File:Naval_engineering.png" title="naval_engineering"><img alt="naval_engineering" data-file-height="24" data-file-width="24" data-url="/images/0/09/Naval_engineering.png" decoding="async" height="24" loading="lazy" src="/images/0/09/Naval_engineering.png" width="24"> </a>- Advanced Air Carrier Heavy Hull</p><p>7 - <a class="image" href="/wiki/File:Naval_engineering.png" title="naval_engineering"><img alt="naval_engineering" data-file-height="24" data-file-width="24" data-url="/images/0/09/Naval_engineering.png" decoding="async" height="24" loading="lazy" src="/images/0/09/Naval_engineering.png" width="24"> </a>- Advanced Air Carrier Propulsion</p><p>7 - <a class="image" href="/wiki/File:Aeronautics.png" title="aeronautics"><img alt="aeronautics" data-file-height="24" data-file-width="24" data-url="/images/a/a1/Aeronautics.png" decoding="async" height="24" loading="lazy" src="/images/a/a1/Aeronautics.png" width="24"> </a>- Armored Angled Flight Deck</p><p>7 - <a class="image" href="/wiki/File:Electronics.png" title="electronics"><img alt="electronics" data-file-height="24" data-file-width="24" data-url="/images/d/dd/Electronics.png" decoding="async" height="24" loading="lazy" src="/images/d/dd/Electronics.png" width="24"> </a>- Heavy Advanced Carrier Aircraft Group</p><p>7 - <a class="image" href="/wiki/File:Technical_efficiency.png" title="technical_efficiency"><img alt="technical_efficiency" data-file-height="24" data-file-width="24" data-url="/images/9/9d/Technical_efficiency.png" decoding="async" height="24" loading="lazy" src="/images/9/9d/Technical_efficiency.png" width="24"> </a>- Advanced Air Carrier Prototype Testing (D)</p></td></tr></tbody></table>
-
-#### Super Heavy Advanced Air Carrier
-
-<table border="1" cellpadding="5" width="98%"><tbody><tr><td><ul><li>Historic Year: 1944</li><li>Prerequisites:</li></ul><dl><dd><ul><li><a href="/wiki/Naval_Tech_Tree#Heavy_Advanced_Air_Carrier" title="Naval Tech Tree">Heavy Advanced Air Carrier</a></li></ul></dd></dl><ul><li>Effects:</li></ul><dl><dd><ul><li>New Model carrier 6</li><li>New Model cag 6</li></ul></dd></dl></td><td><p>7 - <a class="image" href="/wiki/File:Naval_engineering.png" title="naval_engineering"><img alt="naval_engineering" data-file-height="24" data-file-width="24" data-url="/images/0/09/Naval_engineering.png" decoding="async" height="24" loading="lazy" src="/images/0/09/Naval_engineering.png" width="24"> </a>- Advanced Air Carrier Super Heavy Hull</p><p>7 - <a class="image" href="/wiki/File:Naval_engineering.png" title="naval_engineering"><img alt="naval_engineering" data-file-height="24" data-file-width="24" data-url="/images/0/09/Naval_engineering.png" decoding="async" height="24" loading="lazy" src="/images/0/09/Naval_engineering.png" width="24"> </a>- Advanced Air Carrier Propulsion</p><p>7 - <a class="image" href="/wiki/File:Aeronautics.png" title="aeronautics"><img alt="aeronautics" data-file-height="24" data-file-width="24" data-url="/images/a/a1/Aeronautics.png" decoding="async" height="24" loading="lazy" src="/images/a/a1/Aeronautics.png" width="24"> </a>- Armored Angled Flight Deck</p><p>7 - <a class="image" href="/wiki/File:Electronics.png" title="electronics"><img alt="electronics" data-file-height="24" data-file-width="24" data-url="/images/d/dd/Electronics.png" decoding="async" height="24" loading="lazy" src="/images/d/dd/Electronics.png" width="24"> </a>- Super Heavy Advanced Carrier Aircraft Group</p><p>7 - <a class="image" href="/wiki/File:Technical_efficiency.png" title="technical_efficiency"><img alt="technical_efficiency" data-file-height="24" data-file-width="24" data-url="/images/9/9d/Technical_efficiency.png" decoding="async" height="24" loading="lazy" src="/images/9/9d/Technical_efficiency.png" width="24"> </a>- Advanced Air Carrier Prototype Testing (D)</p></td></tr></tbody></table>
-
-#### Semi-Modern Air Carrier
-
-<table border="1" cellpadding="5" width="98%"><tbody><tr><td><ul><li>Historic Year: 1945</li><li>Prerequisites:</li></ul><dl><dd><ul><li><a href="/wiki/Naval_Tech_Tree#Super_Heavy_Advanced_Air_Carrier" title="Naval Tech Tree">Super Heavy Advanced Air Carrier</a></li></ul></dd></dl><ul><li>Effects:</li></ul><dl><dd><ul><li>New Model carrier 7</li><li>New Model cag 7</li></ul></dd></dl></td><td><p>7 - <a class="image" href="/wiki/File:Naval_engineering.png" title="naval_engineering"><img alt="naval_engineering" data-file-height="24" data-file-width="24" data-url="/images/0/09/Naval_engineering.png" decoding="async" height="24" loading="lazy" src="/images/0/09/Naval_engineering.png" width="24"> </a>- Semi-Modern Air Carrier Hull</p><p>7 - <a class="image" href="/wiki/File:Naval_engineering.png" title="naval_engineering"><img alt="naval_engineering" data-file-height="24" data-file-width="24" data-url="/images/0/09/Naval_engineering.png" decoding="async" height="24" loading="lazy" src="/images/0/09/Naval_engineering.png" width="24"> </a>- Semi-Modern Air Carrier Propulsion</p><p>7 - <a class="image" href="/wiki/File:Aeronautics.png" title="aeronautics"><img alt="aeronautics" data-file-height="24" data-file-width="24" data-url="/images/a/a1/Aeronautics.png" decoding="async" height="24" loading="lazy" src="/images/a/a1/Aeronautics.png" width="24"> </a>- Floating Airbase Deck</p><p>7 - <a class="image" href="/wiki/File:Electronics.png" title="electronics"><img alt="electronics" data-file-height="24" data-file-width="24" data-url="/images/d/dd/Electronics.png" decoding="async" height="24" loading="lazy" src="/images/d/dd/Electronics.png" width="24"> </a>- Semi-Modern Carrier Aircraft Group</p><p>7 - <a class="image" href="/wiki/File:Technical_efficiency.png" title="technical_efficiency"><img alt="technical_efficiency" data-file-height="24" data-file-width="24" data-url="/images/9/9d/Technical_efficiency.png" decoding="async" height="24" loading="lazy" src="/images/9/9d/Technical_efficiency.png" width="24"> </a>- Semi-Modern Air Carrier Prototype Testing (D)</p></td></tr></tbody></table>
-
-### Submarine
-
-#### Dive Boat
-
-<table border="1" cellpadding="5" width="98%"><tbody><tr><td><ul><li>Historic Year: 1936</li><li>Prerequisites: None</li><li>Effects:</li></ul><dl><dd><ul><li>Activate Unit Type submarine</li><li>New Model submarine 0</li></ul></dd></dl></td><td><p>5 - <a class="image" href="/wiki/File:Naval_engineering.png" title="naval_engineering"><img alt="naval_engineering" data-file-height="24" data-file-width="24" data-url="/images/0/09/Naval_engineering.png" decoding="async" height="24" loading="lazy" src="/images/0/09/Naval_engineering.png" width="24"> </a>- Experimental Pressure Hull</p><p>5 - <a class="image" href="/wiki/File:Naval_engineering.png" title="naval_engineering"><img alt="naval_engineering" data-file-height="24" data-file-width="24" data-url="/images/0/09/Naval_engineering.png" decoding="async" height="24" loading="lazy" src="/images/0/09/Naval_engineering.png" width="24"> </a>- Basic Bronze Periscope</p><p>5 - <a class="image" href="/wiki/File:General_equipment.png" title="general_equipment"><img alt="general_equipment" data-file-height="24" data-file-width="24" data-url="/images/2/20/General_equipment.png" decoding="async" height="24" loading="lazy" src="/images/2/20/General_equipment.png" width="24"> </a>- Basic Compass</p><p>5 - <a class="image" href="/wiki/File:Electronics.png" title="electronics"><img alt="electronics" data-file-height="24" data-file-width="24" data-url="/images/d/dd/Electronics.png" decoding="async" height="24" loading="lazy" src="/images/d/dd/Electronics.png" width="24"> </a>- Diving Rudder</p><p>5 - <a class="image" href="/wiki/File:Technical_efficiency.png" title="technical_efficiency"><img alt="technical_efficiency" data-file-height="24" data-file-width="24" data-url="/images/9/9d/Technical_efficiency.png" decoding="async" height="24" loading="lazy" src="/images/9/9d/Technical_efficiency.png" width="24"> </a>- Dive Boat Prototype Testing (D)</p></td></tr></tbody></table>
-
-#### Short Range Submarine
-
-<table border="1" cellpadding="5" width="98%"><tbody><tr><td><ul><li>Historic Year: 1936</li><li>Prerequisites:</li></ul><dl><dd><ul><li><a href="/wiki/Naval_Tech_Tree#Dive_Boat" title="Naval Tech Tree">Dive Boat</a></li></ul></dd></dl><ul><li>Effects:</li></ul><dl><dd><ul><li>New Model submarine 1</li></ul></dd></dl></td><td><p>5 - <a class="image" href="/wiki/File:Naval_engineering.png" title="naval_engineering"><img alt="naval_engineering" data-file-height="24" data-file-width="24" data-url="/images/0/09/Naval_engineering.png" decoding="async" height="24" loading="lazy" src="/images/0/09/Naval_engineering.png" width="24"> </a>- Basic Pressure Hull</p><p>5 - <a class="image" href="/wiki/File:Naval_engineering.png" title="naval_engineering"><img alt="naval_engineering" data-file-height="24" data-file-width="24" data-url="/images/0/09/Naval_engineering.png" decoding="async" height="24" loading="lazy" src="/images/0/09/Naval_engineering.png" width="24"> </a>- Improved Bronze Periscope</p><p>5 - <a class="image" href="/wiki/File:General_equipment.png" title="general_equipment"><img alt="general_equipment" data-file-height="24" data-file-width="24" data-url="/images/2/20/General_equipment.png" decoding="async" height="24" loading="lazy" src="/images/2/20/General_equipment.png" width="24"> </a>- Tower Compass</p><p>5 - <a class="image" href="/wiki/File:Electronics.png" title="electronics"><img alt="electronics" data-file-height="24" data-file-width="24" data-url="/images/d/dd/Electronics.png" decoding="async" height="24" loading="lazy" src="/images/d/dd/Electronics.png" width="24"> </a>- Underwater Elevation Rudder</p><p>5 - <a class="image" href="/wiki/File:Technical_efficiency.png" title="technical_efficiency"><img alt="technical_efficiency" data-file-height="24" data-file-width="24" data-url="/images/9/9d/Technical_efficiency.png" decoding="async" height="24" loading="lazy" src="/images/9/9d/Technical_efficiency.png" width="24"> </a>- Short Range Submarine Prototype Testing (D)</p></td></tr></tbody></table>
-
-#### Medium Range Submarine
-
-<table border="1" cellpadding="5" width="98%"><tbody><tr><td><ul><li>Historic Year: 1936</li><li>Prerequisites:</li></ul><dl><dd><ul><li><a href="/wiki/Naval_Tech_Tree#Short_Range_Submarine" title="Naval Tech Tree">Short Range Submarine</a></li></ul></dd></dl><ul><li>Effects:</li></ul><dl><dd><ul><li>Model is now obsolete. submarine 0</li><li>New Model submarine 2</li></ul></dd></dl></td><td><p>5 - <a class="image" href="/wiki/File:Naval_engineering.png" title="naval_engineering"><img alt="naval_engineering" data-file-height="24" data-file-width="24" data-url="/images/0/09/Naval_engineering.png" decoding="async" height="24" loading="lazy" src="/images/0/09/Naval_engineering.png" width="24"> </a>- Improved Pressure Hull</p><p>5 - <a class="image" href="/wiki/File:Naval_engineering.png" title="naval_engineering"><img alt="naval_engineering" data-file-height="24" data-file-width="24" data-url="/images/0/09/Naval_engineering.png" decoding="async" height="24" loading="lazy" src="/images/0/09/Naval_engineering.png" width="24"> </a>- Steel Periscope</p><p>5 - <a class="image" href="/wiki/File:General_equipment.png" title="general_equipment"><img alt="general_equipment" data-file-height="24" data-file-width="24" data-url="/images/2/20/General_equipment.png" decoding="async" height="24" loading="lazy" src="/images/2/20/General_equipment.png" width="24"> </a>- Nautical Gyrocompass</p><p>5 - <a class="image" href="/wiki/File:Electronics.png" title="electronics"><img alt="electronics" data-file-height="24" data-file-width="24" data-url="/images/d/dd/Electronics.png" decoding="async" height="24" loading="lazy" src="/images/d/dd/Electronics.png" width="24"> </a>- Submarine Diesel Engine</p><p>5 - <a class="image" href="/wiki/File:Technical_efficiency.png" title="technical_efficiency"><img alt="technical_efficiency" data-file-height="24" data-file-width="24" data-url="/images/9/9d/Technical_efficiency.png" decoding="async" height="24" loading="lazy" src="/images/9/9d/Technical_efficiency.png" width="24"> </a>- Medium Range Submarine Prototype Testing (D)</p></td></tr></tbody></table>
-
-#### Long Range Submarine
-
-<table border="1" cellpadding="5" width="98%"><tbody><tr><td><ul><li>Historic Year: 1938</li><li>Prerequisites:</li></ul><dl><dd><ul><li><a href="/wiki/Naval_Tech_Tree#Medium_Range_Submarine" title="Naval Tech Tree">Medium Range Submarine</a></li></ul></dd></dl><ul><li>Effects:</li></ul><dl><dd><ul><li>Model is now obsolete. submarine 1</li><li>New Model submarine 3</li></ul></dd></dl></td><td><p>5 - <a class="image" href="/wiki/File:Naval_engineering.png" title="naval_engineering"><img alt="naval_engineering" data-file-height="24" data-file-width="24" data-url="/images/0/09/Naval_engineering.png" decoding="async" height="24" loading="lazy" src="/images/0/09/Naval_engineering.png" width="24"> </a>- Advanced Pressure Hull</p><p>5 - <a class="image" href="/wiki/File:Naval_engineering.png" title="naval_engineering"><img alt="naval_engineering" data-file-height="24" data-file-width="24" data-url="/images/0/09/Naval_engineering.png" decoding="async" height="24" loading="lazy" src="/images/0/09/Naval_engineering.png" width="24"> </a>- Basic Schnorkel</p><p>5 - <a class="image" href="/wiki/File:General_equipment.png" title="general_equipment"><img alt="general_equipment" data-file-height="24" data-file-width="24" data-url="/images/2/20/General_equipment.png" decoding="async" height="24" loading="lazy" src="/images/2/20/General_equipment.png" width="24"> </a>- Large Fuel Tank Design</p><p>5 - <a class="image" href="/wiki/File:Electronics.png" title="electronics"><img alt="electronics" data-file-height="24" data-file-width="24" data-url="/images/d/dd/Electronics.png" decoding="async" height="24" loading="lazy" src="/images/d/dd/Electronics.png" width="24"> </a>- Advanced Torpedo Chambers</p><p>5 - <a class="image" href="/wiki/File:Technical_efficiency.png" title="technical_efficiency"><img alt="technical_efficiency" data-file-height="24" data-file-width="24" data-url="/images/9/9d/Technical_efficiency.png" decoding="async" height="24" loading="lazy" src="/images/9/9d/Technical_efficiency.png" width="24"> </a>- Long Range Submarine Prototype Testing (D)</p></td></tr></tbody></table>
-
-#### Electro Submarine
-
-<table border="1" cellpadding="5" width="98%"><tbody><tr><td><ul><li>Historic Year: 1944</li><li>Prerequisites:</li></ul><dl><dd><ul><li><a href="/wiki/Naval_Tech_Tree#Long_Range_Submarine" title="Naval Tech Tree">Long Range Submarine</a></li></ul></dd></dl><ul><li>Effects:</li></ul><dl><dd><ul><li>New Model submarine 4</li><li>Model is now obsolete. submarine 2</li></ul></dd></dl></td><td><p>5 - <a class="image" href="/wiki/File:Naval_engineering.png" title="naval_engineering"><img alt="naval_engineering" data-file-height="24" data-file-width="24" data-url="/images/0/09/Naval_engineering.png" decoding="async" height="24" loading="lazy" src="/images/0/09/Naval_engineering.png" width="24"> </a>- Streamlined Pressure Hull</p><p>5 - <a class="image" href="/wiki/File:Naval_engineering.png" title="naval_engineering"><img alt="naval_engineering" data-file-height="24" data-file-width="24" data-url="/images/0/09/Naval_engineering.png" decoding="async" height="24" loading="lazy" src="/images/0/09/Naval_engineering.png" width="24"> </a>- Improved Schnorkel</p><p>5 - <a class="image" href="/wiki/File:Naval_engineering.png" title="naval_engineering"><img alt="naval_engineering" data-file-height="24" data-file-width="24" data-url="/images/0/09/Naval_engineering.png" decoding="async" height="24" loading="lazy" src="/images/0/09/Naval_engineering.png" width="24"> </a>- Closed Cycle Engine</p><p>5 - <a class="image" href="/wiki/File:Electronics.png" title="electronics"><img alt="electronics" data-file-height="24" data-file-width="24" data-url="/images/d/dd/Electronics.png" decoding="async" height="24" loading="lazy" src="/images/d/dd/Electronics.png" width="24"> </a>- Air Condition and Cooling System</p><p>5 - <a class="image" href="/wiki/File:Technical_efficiency.png" title="technical_efficiency"><img alt="technical_efficiency" data-file-height="24" data-file-width="24" data-url="/images/9/9d/Technical_efficiency.png" decoding="async" height="24" loading="lazy" src="/images/9/9d/Technical_efficiency.png" width="24"> </a>- Electro Submarine Prototype Testing (D)</p></td></tr></tbody></table>
-
-#### Semi-Modern Submarine
-
-<table border="1" cellpadding="5" width="98%"><tbody><tr><td><ul><li>Historic Year: 1945</li><li>Prerequisites:</li></ul><dl><dd><ul><li><a href="/wiki/Naval_Tech_Tree#Electro_Submarine" title="Naval Tech Tree">Electro Submarine</a></li></ul></dd></dl><ul><li>Effects:</li></ul><dl><dd><ul><li>New Model submarine 5</li><li>Model is now obsolete. submarine 3</li></ul></dd></dl></td><td><p>5 - <a class="image" href="/wiki/File:Naval_engineering.png" title="naval_engineering"><img alt="naval_engineering" data-file-height="24" data-file-width="24" data-url="/images/0/09/Naval_engineering.png" decoding="async" height="24" loading="lazy" src="/images/0/09/Naval_engineering.png" width="24"> </a>- Coated Pressure Hull</p><p>5 - <a class="image" href="/wiki/File:Naval_engineering.png" title="naval_engineering"><img alt="naval_engineering" data-file-height="24" data-file-width="24" data-url="/images/0/09/Naval_engineering.png" decoding="async" height="24" loading="lazy" src="/images/0/09/Naval_engineering.png" width="24"> </a>- Advanced Schnorkel</p><p>5 - <a class="image" href="/wiki/File:Naval_engineering.png" title="naval_engineering"><img alt="naval_engineering" data-file-height="24" data-file-width="24" data-url="/images/0/09/Naval_engineering.png" decoding="async" height="24" loading="lazy" src="/images/0/09/Naval_engineering.png" width="24"> </a>- Single Propeller Silent Engine</p><p>5 - <a class="image" href="/wiki/File:Electronics.png" title="electronics"><img alt="electronics" data-file-height="24" data-file-width="24" data-url="/images/d/dd/Electronics.png" decoding="async" height="24" loading="lazy" src="/images/d/dd/Electronics.png" width="24"> </a>- Anti-Radar Rubber Coating</p><p>5 - <a class="image" href="/wiki/File:Technical_efficiency.png" title="technical_efficiency"><img alt="technical_efficiency" data-file-height="24" data-file-width="24" data-url="/images/9/9d/Technical_efficiency.png" decoding="async" height="24" loading="lazy" src="/images/9/9d/Technical_efficiency.png" width="24"> </a>- Semi-Modern Submarine Prototype Testing (D)</p></td></tr></tbody></table>
+:::
+:::
+
+::: {#toc .toc aria-labelledby="mw-toc-heading" role="navigation"}
+::: {.toctitle dir="ltr" lang="en"}
+
+## Contents {#mw-toc-heading}
+
+[ ]{.toctogglespan}
+:::
+
+- [[ 1 ]{.tocnumber} [ Destroyer ]{.toctext}](#Destroyer)
+  - [[ 1.1 ]{.tocnumber} [ Great War Destroyer
+    ]{.toctext}](#Great_War_Destroyer)
+  - [[ 1.2 ]{.tocnumber} [ Early Destroyer
+    ]{.toctext}](#Early_Destroyer)
+  - [[ 1.3 ]{.tocnumber} [ Basic Destroyer
+    ]{.toctext}](#Basic_Destroyer)
+  - [[ 1.4 ]{.tocnumber} [ Improved Destroyer
+    ]{.toctext}](#Improved_Destroyer)
+  - [[ 1.5 ]{.tocnumber} [ Advanced Destroyer
+    ]{.toctext}](#Advanced_Destroyer)
+  - [[ 1.6 ]{.tocnumber} [ Semi-Modern Destroyer
+    ]{.toctext}](#Semi-Modern_Destroyer)
+- [[ 2 ]{.tocnumber} [ Light Cruiser ]{.toctext}](#Light_Cruiser)
+  - [[ 2.1 ]{.tocnumber} [ Great War Light Cruiser
+    ]{.toctext}](#Great_War_Light_Cruiser)
+  - [[ 2.2 ]{.tocnumber} [ Early Light Cruiser
+    ]{.toctext}](#Early_Light_Cruiser)
+  - [[ 2.3 ]{.tocnumber} [ Basic Light Cruiser
+    ]{.toctext}](#Basic_Light_Cruiser)
+  - [[ 2.4 ]{.tocnumber} [ Improved Light Cruiser
+    ]{.toctext}](#Improved_Light_Cruiser)
+  - [[ 2.5 ]{.tocnumber} [ Advanced Light Cruiser
+    ]{.toctext}](#Advanced_Light_Cruiser)
+  - [[ 2.6 ]{.tocnumber} [ Semi-Modern Light Cruiser
+    ]{.toctext}](#Semi-Modern_Light_Cruiser)
+- [[ 3 ]{.tocnumber} [ Heavy Cruiser ]{.toctext}](#Heavy_Cruiser)
+  - [[ 3.1 ]{.tocnumber} [ Great War Heavy Cruiser
+    ]{.toctext}](#Great_War_Heavy_Cruiser)
+  - [[ 3.2 ]{.tocnumber} [ Early Heavy Cruiser
+    ]{.toctext}](#Early_Heavy_Cruiser)
+  - [[ 3.3 ]{.tocnumber} [ Basic Heavy Cruiser
+    ]{.toctext}](#Basic_Heavy_Cruiser)
+  - [[ 3.4 ]{.tocnumber} [ Improved Heavy Cruiser
+    ]{.toctext}](#Improved_Heavy_Cruiser)
+  - [[ 3.5 ]{.tocnumber} [ Advanced Heavy Cruiser
+    ]{.toctext}](#Advanced_Heavy_Cruiser)
+  - [[ 3.6 ]{.tocnumber} [ Semi-Modern Heavy Cruiser (CL)
+    ]{.toctext}](#Semi-Modern_Heavy_Cruiser_.28CL.29)
+- [[ 4 ]{.tocnumber} [ Battlecruiser ]{.toctext}](#Battlecruiser)
+  - [[ 4.1 ]{.tocnumber} [ Great War Battlecruiser
+    ]{.toctext}](#Great_War_Battlecruiser)
+  - [[ 4.2 ]{.tocnumber} [ Early Battlecruiser
+    ]{.toctext}](#Early_Battlecruiser)
+  - [[ 4.3 ]{.tocnumber} [ Basic Battlecruiser
+    ]{.toctext}](#Basic_Battlecruiser)
+  - [[ 4.4 ]{.tocnumber} [ Improved Battlecruiser
+    ]{.toctext}](#Improved_Battlecruiser)
+  - [[ 4.5 ]{.tocnumber} [ Advanced Battlecruiser
+    ]{.toctext}](#Advanced_Battlecruiser)
+  - [[ 4.6 ]{.tocnumber} [ Semi-Modern Battlecruiser
+    ]{.toctext}](#Semi-Modern_Battlecruiser)
+- [[ 5 ]{.tocnumber} [ Battleship ]{.toctext}](#Battleship)
+  - [[ 5.1 ]{.tocnumber} [ Great War Battleship
+    ]{.toctext}](#Great_War_Battleship)
+  - [[ 5.2 ]{.tocnumber} [ Early Battleship
+    ]{.toctext}](#Early_Battleship)
+  - [[ 5.3 ]{.tocnumber} [ Basic Battleship
+    ]{.toctext}](#Basic_Battleship)
+  - [[ 5.4 ]{.tocnumber} [ Improved Battleship
+    ]{.toctext}](#Improved_Battleship)
+  - [[ 5.5 ]{.tocnumber} [ Advanced Battleship
+    ]{.toctext}](#Advanced_Battleship)
+  - [[ 5.6 ]{.tocnumber} [ Semi-Modern Battleship
+    ]{.toctext}](#Semi-Modern_Battleship)
+  - [[ 5.7 ]{.tocnumber} [ Super Heavy Battleship
+    ]{.toctext}](#Super_Heavy_Battleship)
+- [[ 6 ]{.tocnumber} [ Air Carrier ]{.toctext}](#Air_Carrier)
+  - [[ 6.1 ]{.tocnumber} [ Great War Air Carrier
+    ]{.toctext}](#Great_War_Air_Carrier)
+  - [[ 6.2 ]{.tocnumber} [ Early Air Carrier
+    ]{.toctext}](#Early_Air_Carrier)
+  - [[ 6.3 ]{.tocnumber} [ Basic Air Carrier
+    ]{.toctext}](#Basic_Air_Carrier)
+  - [[ 6.4 ]{.tocnumber} [ Improved Air Carrier
+    ]{.toctext}](#Improved_Air_Carrier)
+  - [[ 6.5 ]{.tocnumber} [ Advanced Air Carrier
+    ]{.toctext}](#Advanced_Air_Carrier)
+  - [[ 6.6 ]{.tocnumber} [ Heavy Advanced Air Carrier
+    ]{.toctext}](#Heavy_Advanced_Air_Carrier)
+  - [[ 6.7 ]{.tocnumber} [ Super Heavy Advanced Air Carrier
+    ]{.toctext}](#Super_Heavy_Advanced_Air_Carrier)
+  - [[ 6.8 ]{.tocnumber} [ Semi-Modern Air Carrier
+    ]{.toctext}](#Semi-Modern_Air_Carrier)
+- [[ 7 ]{.tocnumber} [ Submarine ]{.toctext}](#Submarine) - [[ 7.1 ]{.tocnumber} [ Dive Boat ]{.toctext}](#Dive_Boat) - [[ 7.2 ]{.tocnumber} [ Short Range Submarine
+  ]{.toctext}](#Short_Range_Submarine) - [[ 7.3 ]{.tocnumber} [ Medium Range Submarine
+  ]{.toctext}](#Medium_Range_Submarine) - [[ 7.4 ]{.tocnumber} [ Long Range Submarine
+  ]{.toctext}](#Long_Range_Submarine) - [[ 7.5 ]{.tocnumber} [ Electro Submarine
+  ]{.toctext}](#Electro_Submarine) - [[ 7.6 ]{.tocnumber} [ Semi-Modern Submarine
+  ]{.toctext}](#Semi-Modern_Submarine)
+  :::
+
+### [ Destroyer ]{#Destroyer .mw-headline}
+
+#### [ Great War Destroyer ]{#Great_War_Destroyer .mw-headline}
+
++-----------------------------------+-----------------------------------+
+| - Historic Year: 1936 | 5 - |
+| - Prerequisites: None | [![naval                          |
+| -   Effects:                      | _engineering](/images/0/09/Naval* |
+| | engineering.png){file-height="24" |
+| `{=html}                        | file-width="24"                   |
+| <!-- -->                          | url="/i                           |
+| ` | mages/0/09/Naval_engineering.png" |
+| - Activate Unit Type destroyer | decoding="async" height="24" |
+| - New Model destroyer 0 | loading="lazy" |
+| | width="24" |
+| | }](/wiki/File:Naval_engineering.p |
+| | ng "naval_engineering"){.image} - |
+| | Great War Destroyer Hull |
+| | |
+| | 5 - |
+| | [![naval                          |
+|                                   | _engineering](/images/0/09/Naval* |
+| | engineering.png){file-height="24" |
+| | file-width="24" |
+| | url="/i |
+| | mages/0/09/Naval_engineering.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width="24" |
+| | }](/wiki/File:Naval_engineering.p |
+| | ng "naval_engineering"){.image} - |
+| | Great War Destroyer Propulsion |
+| | |
+| | 5 - |
+| | [![n                              |
+|                                   | aval_artillery](/images/e/ea/Nava |
+| | l_artillery.png){file-height="24" |
+| | file-width="24" |
+| | url=" |
+| | /images/e/ea/Naval_artillery.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width= |
+| | "24"}](/wiki/File:Naval_artillery |
+| | .png "naval_artillery"){.image} - |
+| | Naval Gun 100 |
+| | |
+| | 5 - |
+| | [![electronics](/images/d/dd/ |
+| | Electronics.png){file-height="24" |
+| | file-width="24" |
+| | u |
+| | rl="/images/d/dd/Electronics.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width="24"}](/wiki/File:Electro |
+| | nics.png "electronics"){.image} - |
+| | Great War ASW Equipment |
+| | |
+| | 5 - |
+| | [![technical_e                    |
+|                                   | fficiency](/images/9/9d/Technical |
+| | \_efficiency.png){file-height="24" |
+| | file-width="24" |
+| | url="/imag |
+| | es/9/9d/Technical_efficiency.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width="24"}](/wi |
+| | ki/File:Technical_efficiency.png |
+| | "technical_efficiency"){.image} - |
+| | Great War Destroyer Prototype |
+| | Testing (D) |
++-----------------------------------+-----------------------------------+
+
+#### [ Early Destroyer ]{#Early_Destroyer .mw-headline}
+
++-----------------------------------+-----------------------------------+
+| - Historic Year: 1936 | 5 - |
+| - Prerequisites: | [![naval                          |
+|                                   | _engineering](/images/0/09/Naval* |
+| `{=html}                        | engineering.png){file-height="24" |
+| <!-- -->                          | file-width="24"                   |
+| ` | url="/i |
+| - [Great War | mages/0/09/Naval_engineering.png" |
+| Destr | decoding="async" height="24" |
+| oyer](/wiki/Naval_Tech_Tree#Great | loading="lazy" |
+| \_War_Destroyer "Naval Tech Tree") | width="24" |
+| | }](/wiki/File:Naval_engineering.p |
+| `{=html}                        | ng "naval_engineering"){.image} - |
+| <!-- -->                          | Early Destroyer Hull              |
+| ` | |
+| - Effects: | 5 - |
+| | [![naval                          |
+| ```{=html}                        | _engineering](/images/0/09/Naval* |
+| <!-- --> | engineering.png){file-height="24" |
+| ``` | file-width="24" |
+| - New Model destroyer 1 | url="/i |
+| - Convoy Escort Efficiency 0.05 | mages/0/09/Naval_engineering.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width="24" |
+| | }](/wiki/File:Naval_engineering.p |
+| | ng "naval_engineering"){.image} - |
+| | Early Destroyer Propulsion |
+| | |
+| | 5 - |
+| | [![n                              |
+|                                   | aval_artillery](/images/e/ea/Nava |
+| | l_artillery.png){file-height="24" |
+| | file-width="24" |
+| | url=" |
+| | /images/e/ea/Naval_artillery.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width= |
+| | "24"}](/wiki/File:Naval_artillery |
+| | .png "naval_artillery"){.image} - |
+| | Naval Gun 100 |
+| | |
+| | 5 - |
+| | [![electronics](/images/d/dd/ |
+| | Electronics.png){file-height="24" |
+| | file-width="24" |
+| | u |
+| | rl="/images/d/dd/Electronics.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width="24"}](/wiki/File:Electro |
+| | nics.png "electronics"){.image} - |
+| | Early ASW Equipment |
+| | |
+| | 5 - |
+| | [![technical_e                    |
+|                                   | fficiency](/images/9/9d/Technical |
+| | \_efficiency.png){file-height="24" |
+| | file-width="24" |
+| | url="/imag |
+| | es/9/9d/Technical_efficiency.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width="24"}](/wi |
+| | ki/File:Technical_efficiency.png |
+| | "technical_efficiency"){.image} - |
+| | Early Destroyer Prototype Testing |
+| | (D) |
++-----------------------------------+-----------------------------------+
+
+#### [ Basic Destroyer ]{#Basic_Destroyer .mw-headline}
+
++-----------------------------------+-----------------------------------+
+| - Historic Year: 1936 | 5 - |
+| - Prerequisites: | [![naval                          |
+|                                   | _engineering](/images/0/09/Naval* |
+| `{=html}                        | engineering.png){file-height="24" |
+| <!-- -->                          | file-width="24"                   |
+| ` | url="/i |
+| - [Early | mages/0/09/Naval_engineering.png" |
+| D | decoding="async" height="24" |
+| estroyer](/wiki/Naval_Tech_Tree#E | loading="lazy" |
+| arly_Destroyer "Naval Tech Tree") | width="24" |
+| | }](/wiki/File:Naval_engineering.p |
+| `{=html}                        | ng "naval_engineering"){.image} - |
+| <!-- -->                          | Basic Destroyer Hull              |
+| ` | |
+| - Effects: | 5 - |
+| | [![naval                          |
+| ```{=html}                        | _engineering](/images/0/09/Naval* |
+| <!-- --> | engineering.png){file-height="24" |
+| ``` | file-width="24" |
+| - Model is now obsolete. | url="/i |
+| destroyer 0 | mages/0/09/Naval_engineering.png" |
+| - New Model destroyer 2 | decoding="async" height="24" |
+| - Convoy Escort Efficiency 0.05 | loading="lazy" |
+| | width="24" |
+| | }](/wiki/File:Naval_engineering.p |
+| | ng "naval_engineering"){.image} - |
+| | Basic Destroyer Propulsion |
+| | |
+| | 5 - |
+| | [![n                              |
+|                                   | aval_artillery](/images/e/ea/Nava |
+| | l_artillery.png){file-height="24" |
+| | file-width="24" |
+| | url=" |
+| | /images/e/ea/Naval_artillery.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width= |
+| | "24"}](/wiki/File:Naval_artillery |
+| | .png "naval_artillery"){.image} - |
+| | Naval Gun 120 |
+| | |
+| | 5 - |
+| | [![electronics](/images/d/dd/ |
+| | Electronics.png){file-height="24" |
+| | file-width="24" |
+| | u |
+| | rl="/images/d/dd/Electronics.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width="24"}](/wiki/File:Electro |
+| | nics.png "electronics"){.image} - |
+| | Basic ASW Equipment |
+| | |
+| | 5 - |
+| | [![technical_e                    |
+|                                   | fficiency](/images/9/9d/Technical |
+| | \_efficiency.png){file-height="24" |
+| | file-width="24" |
+| | url="/imag |
+| | es/9/9d/Technical_efficiency.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width="24"}](/wi |
+| | ki/File:Technical_efficiency.png |
+| | "technical_efficiency"){.image} - |
+| | Basic Destroyer Prototype Testing |
+| | (D) |
++-----------------------------------+-----------------------------------+
+
+#### [ Improved Destroyer ]{#Improved_Destroyer .mw-headline}
+
++-----------------------------------+-----------------------------------+
+| - Historic Year: 1938 | 5 - |
+| - Prerequisites: | [![naval                          |
+|                                   | _engineering](/images/0/09/Naval* |
+| `{=html}                        | engineering.png){file-height="24" |
+| <!-- -->                          | file-width="24"                   |
+| ` | url="/i |
+| - [Basic | mages/0/09/Naval_engineering.png" |
+| D | decoding="async" height="24" |
+| estroyer](/wiki/Naval_Tech_Tree#B | loading="lazy" |
+| asic_Destroyer "Naval Tech Tree") | width="24" |
+| | }](/wiki/File:Naval_engineering.p |
+| `{=html}                        | ng "naval_engineering"){.image} - |
+| <!-- -->                          | Improved Destroyer Hull           |
+| ` | |
+| - Effects: | 5 - |
+| | [![naval                          |
+| ```{=html}                        | _engineering](/images/0/09/Naval* |
+| <!-- --> | engineering.png){file-height="24" |
+| ``` | file-width="24" |
+| - Model is now obsolete. | url="/i |
+| destroyer 1 | mages/0/09/Naval_engineering.png" |
+| - New Model destroyer 3 | decoding="async" height="24" |
+| - Convoy Escort Efficiency 0.05 | loading="lazy" |
+| | width="24" |
+| | }](/wiki/File:Naval_engineering.p |
+| | ng "naval_engineering"){.image} - |
+| | Improved Destroyer Propulsion |
+| | |
+| | 5 - |
+| | [![n                              |
+|                                   | aval_artillery](/images/e/ea/Nava |
+| | l_artillery.png){file-height="24" |
+| | file-width="24" |
+| | url=" |
+| | /images/e/ea/Naval_artillery.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width= |
+| | "24"}](/wiki/File:Naval_artillery |
+| | .png "naval_artillery"){.image} - |
+| | Naval Gun 120 |
+| | |
+| | 5 - |
+| | [![electronics](/images/d/dd/ |
+| | Electronics.png){file-height="24" |
+| | file-width="24" |
+| | u |
+| | rl="/images/d/dd/Electronics.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width="24"}](/wiki/File:Electro |
+| | nics.png "electronics"){.image} - |
+| | Improved ASW Equipment |
+| | |
+| | 5 - |
+| | [![technical_e                    |
+|                                   | fficiency](/images/9/9d/Technical |
+| | \_efficiency.png){file-height="24" |
+| | file-width="24" |
+| | url="/imag |
+| | es/9/9d/Technical_efficiency.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width="24"}](/wi |
+| | ki/File:Technical_efficiency.png |
+| | "technical_efficiency"){.image} - |
+| | Improved Destroyer Prototype |
+| | Testing (D) |
++-----------------------------------+-----------------------------------+
+
+#### [ Advanced Destroyer ]{#Advanced_Destroyer .mw-headline}
+
++-----------------------------------+-----------------------------------+
+| - Historic Year: 1941 | 5 - |
+| - Prerequisites: | [![naval                          |
+|                                   | _engineering](/images/0/09/Naval* |
+| `{=html}                        | engineering.png){file-height="24" |
+| <!-- -->                          | file-width="24"                   |
+| ` | url="/i |
+| - [Improved | mages/0/09/Naval_engineering.png" |
+| Dest | decoding="async" height="24" |
+| royer](/wiki/Naval_Tech_Tree#Impr | loading="lazy" |
+| oved_Destroyer "Naval Tech Tree") | width="24" |
+| | }](/wiki/File:Naval_engineering.p |
+| `{=html}                        | ng "naval_engineering"){.image} - |
+| <!-- -->                          | Advanced Destroyer Hull           |
+| ` | |
+| - Effects: | 5 - |
+| | [![naval                          |
+| ```{=html}                        | _engineering](/images/0/09/Naval* |
+| <!-- --> | engineering.png){file-height="24" |
+| ``` | file-width="24" |
+| - New Model destroyer 4 | url="/i |
+| - Model is now obsolete. | mages/0/09/Naval_engineering.png" |
+| destroyer 2 | decoding="async" height="24" |
+| - Convoy Escort Efficiency 0.05 | loading="lazy" |
+| | width="24" |
+| | }](/wiki/File:Naval_engineering.p |
+| | ng "naval_engineering"){.image} - |
+| | Advanced Destroyer Propulsion |
+| | |
+| | 5 - |
+| | [![n                              |
+|                                   | aval_artillery](/images/e/ea/Nava |
+| | l_artillery.png){file-height="24" |
+| | file-width="24" |
+| | url=" |
+| | /images/e/ea/Naval_artillery.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width= |
+| | "24"}](/wiki/File:Naval_artillery |
+| | .png "naval_artillery"){.image} - |
+| | Naval Gun 120 |
+| | |
+| | 5 - |
+| | [![electronics](/images/d/dd/ |
+| | Electronics.png){file-height="24" |
+| | file-width="24" |
+| | u |
+| | rl="/images/d/dd/Electronics.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width="24"}](/wiki/File:Electro |
+| | nics.png "electronics"){.image} - |
+| | Advanced ASW Equipment |
+| | |
+| | 5 - |
+| | [![technical_e                    |
+|                                   | fficiency](/images/9/9d/Technical |
+| | \_efficiency.png){file-height="24" |
+| | file-width="24" |
+| | url="/imag |
+| | es/9/9d/Technical_efficiency.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width="24"}](/wi |
+| | ki/File:Technical_efficiency.png |
+| | "technical_efficiency"){.image} - |
+| | Advanced Destroyer Prototype |
+| | Testing (D) |
++-----------------------------------+-----------------------------------+
+
+#### [ Semi-Modern Destroyer ]{#Semi-Modern_Destroyer .mw-headline}
+
++-----------------------------------+-----------------------------------+
+| - Historic Year: 1945 | 5 - |
+| - Prerequisites: | [![naval                          |
+|                                   | _engineering](/images/0/09/Naval* |
+| `{=html}                        | engineering.png){file-height="24" |
+| <!-- -->                          | file-width="24"                   |
+| ` | url="/i |
+| - [Advanced | mages/0/09/Naval_engineering.png" |
+| Dest | decoding="async" height="24" |
+| royer](/wiki/Naval_Tech_Tree#Adva | loading="lazy" |
+| nced_Destroyer "Naval Tech Tree") | width="24" |
+| | }](/wiki/File:Naval_engineering.p |
+| `{=html}                        | ng "naval_engineering"){.image} - |
+| <!-- -->                          | Semi-Modern Destroyer Hull        |
+| ` | |
+| - Effects: | 5 - |
+| | [![naval                          |
+| ```{=html}                        | _engineering](/images/0/09/Naval* |
+| <!-- --> | engineering.png){file-height="24" |
+| ``` | file-width="24" |
+| - New Model destroyer 5 | url="/i |
+| - Model is now obsolete. | mages/0/09/Naval_engineering.png" |
+| destroyer 3 | decoding="async" height="24" |
+| - Convoy Escort Efficiency 0.05 | loading="lazy" |
+| | width="24" |
+| | }](/wiki/File:Naval_engineering.p |
+| | ng "naval_engineering"){.image} - |
+| | Semi-Modern Destroyer Propulsion |
+| | |
+| | 5 - |
+| | [![n                              |
+|                                   | aval_artillery](/images/e/ea/Nava |
+| | l_artillery.png){file-height="24" |
+| | file-width="24" |
+| | url=" |
+| | /images/e/ea/Naval_artillery.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width= |
+| | "24"}](/wiki/File:Naval_artillery |
+| | .png "naval_artillery"){.image} - |
+| | Naval Gun 120 |
+| | |
+| | 5 - |
+| | [![electronics](/images/d/dd/ |
+| | Electronics.png){file-height="24" |
+| | file-width="24" |
+| | u |
+| | rl="/images/d/dd/Electronics.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width="24"}](/wiki/File:Electro |
+| | nics.png "electronics"){.image} - |
+| | Semi-Modern ASW Equipment |
+| | |
+| | 5 - |
+| | [![technical_e                    |
+|                                   | fficiency](/images/9/9d/Technical |
+| | \_efficiency.png){file-height="24" |
+| | file-width="24" |
+| | url="/imag |
+| | es/9/9d/Technical_efficiency.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width="24"}](/wi |
+| | ki/File:Technical_efficiency.png |
+| | "technical_efficiency"){.image} - |
+| | Semi-Modern Destroyer Prototype |
+| | Testing (D) |
++-----------------------------------+-----------------------------------+
+
+### [ Light Cruiser ]{#Light_Cruiser .mw-headline}
+
+#### [ Great War Light Cruiser ]{#Great_War_Light_Cruiser .mw-headline}
+
++-----------------------------------+-----------------------------------+
+| - Historic Year: 1936 | 5 - |
+| - Prerequisites: None | [![naval                          |
+| -   Effects:                      | _engineering](/images/0/09/Naval* |
+| | engineering.png){file-height="24" |
+| `{=html}                        | file-width="24"                   |
+| <!-- -->                          | url="/i                           |
+| ` | mages/0/09/Naval_engineering.png" |
+| - Activate Unit Type | decoding="async" height="24" |
+| light_cruiser | loading="lazy" |
+| - New Model light_cruiser 0 | width="24" |
+| | }](/wiki/File:Naval_engineering.p |
+| | ng "naval_engineering"){.image} - |
+| | Great War Light Cruiser Hull |
+| | |
+| | 5 - |
+| | [![naval                          |
+|                                   | _engineering](/images/0/09/Naval* |
+| | engineering.png){file-height="24" |
+| | file-width="24" |
+| | url="/i |
+| | mages/0/09/Naval_engineering.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width="24" |
+| | }](/wiki/File:Naval_engineering.p |
+| | ng "naval_engineering"){.image} - |
+| | Great War Light Cruiser |
+| | Propulsion |
+| | |
+| | 5 - |
+| | [![n                              |
+|                                   | aval_artillery](/images/e/ea/Nava |
+| | l_artillery.png){file-height="24" |
+| | file-width="24" |
+| | url=" |
+| | /images/e/ea/Naval_artillery.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width= |
+| | "24"}](/wiki/File:Naval_artillery |
+| | .png "naval_artillery"){.image} - |
+| | Naval Cruiser Gun 120 |
+| | |
+| | 5 - |
+| | [![electronics](/images/d/dd/ |
+| | Electronics.png){file-height="24" |
+| | file-width="24" |
+| | u |
+| | rl="/images/d/dd/Electronics.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width="24"}](/wiki/File:Electro |
+| | nics.png "electronics"){.image} - |
+| | Great War Anti-Air Equipment |
+| | |
+| | 5 - |
+| | [![technical_e                    |
+|                                   | fficiency](/images/9/9d/Technical |
+| | \_efficiency.png){file-height="24" |
+| | file-width="24" |
+| | url="/imag |
+| | es/9/9d/Technical_efficiency.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width="24"}](/wi |
+| | ki/File:Technical_efficiency.png |
+| | "technical_efficiency"){.image} - |
+| | Great War Light Cruiser Prototype |
+| | Testing (D) |
++-----------------------------------+-----------------------------------+
+
+#### [ Early Light Cruiser ]{#Early_Light_Cruiser .mw-headline}
+
++-----------------------------------+-----------------------------------+
+| - Historic Year: 1936 | 5 - |
+| - Prerequisites: | [![naval                          |
+|                                   | _engineering](/images/0/09/Naval* |
+| `{=html}                        | engineering.png){file-height="24" |
+| <!-- -->                          | file-width="24"                   |
+| ` | url="/i |
+| - [Great War Light | mages/0/09/Naval_engineering.png" |
+| Cruiser | decoding="async" height="24" |
+| ](/wiki/Naval_Tech_Tree#Great_War | loading="lazy" |
+| \_Light_Cruiser "Naval Tech Tree") | width="24" |
+| | }](/wiki/File:Naval_engineering.p |
+| `{=html}                        | ng "naval_engineering"){.image} - |
+| <!-- -->                          | Early Light Cruiser Hull          |
+| ` | |
+| - Effects: | 5 - |
+| | [![naval                          |
+| ```{=html}                        | _engineering](/images/0/09/Naval* |
+| <!-- --> | engineering.png){file-height="24" |
+| ``` | file-width="24" |
+| - New Model light_cruiser 1 | url="/i |
+| | mages/0/09/Naval_engineering.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width="24" |
+| | }](/wiki/File:Naval_engineering.p |
+| | ng "naval_engineering"){.image} - |
+| | Early Light Cruiser Propulsion |
+| | |
+| | 5 - |
+| | [![n                              |
+|                                   | aval_artillery](/images/e/ea/Nava |
+| | l_artillery.png){file-height="24" |
+| | file-width="24" |
+| | url=" |
+| | /images/e/ea/Naval_artillery.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width= |
+| | "24"}](/wiki/File:Naval_artillery |
+| | .png "naval_artillery"){.image} - |
+| | Naval Cruiser Gun 120 |
+| | |
+| | 5 - |
+| | [![electronics](/images/d/dd/ |
+| | Electronics.png){file-height="24" |
+| | file-width="24" |
+| | u |
+| | rl="/images/d/dd/Electronics.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width="24"}](/wiki/File:Electro |
+| | nics.png "electronics"){.image} - |
+| | Early Anti-Air Equipment |
+| | |
+| | 5 - |
+| | [![technical_e                    |
+|                                   | fficiency](/images/9/9d/Technical |
+| | \_efficiency.png){file-height="24" |
+| | file-width="24" |
+| | url="/imag |
+| | es/9/9d/Technical_efficiency.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width="24"}](/wi |
+| | ki/File:Technical_efficiency.png |
+| | "technical_efficiency"){.image} - |
+| | Early Light Cruiser Prototype |
+| | Testing (D) |
++-----------------------------------+-----------------------------------+
+
+#### [ Basic Light Cruiser ]{#Basic_Light_Cruiser .mw-headline}
+
++-----------------------------------+-----------------------------------+
+| - Historic Year: 1936 | 5 - |
+| - Prerequisites: | [![naval                          |
+|                                   | _engineering](/images/0/09/Naval* |
+| `{=html}                        | engineering.png){file-height="24" |
+| <!-- -->                          | file-width="24"                   |
+| ` | url="/i |
+| - [Early Light | mages/0/09/Naval_engineering.png" |
+| Cru | decoding="async" height="24" |
+| iser](/wiki/Naval_Tech_Tree#Early | loading="lazy" |
+| \_Light_Cruiser "Naval Tech Tree") | width="24" |
+| | }](/wiki/File:Naval_engineering.p |
+| `{=html}                        | ng "naval_engineering"){.image} - |
+| <!-- -->                          | Basic Light Cruiser Hull          |
+| ` | |
+| - Effects: | 5 - |
+| | [![naval                          |
+| ```{=html}                        | _engineering](/images/0/09/Naval* |
+| <!-- --> | engineering.png){file-height="24" |
+| ``` | file-width="24" |
+| - Model is now obsolete. | url="/i |
+| light_cruiser 0 | mages/0/09/Naval_engineering.png" |
+| - New Model light_cruiser 2 | decoding="async" height="24" |
+| | loading="lazy" |
+| | width="24" |
+| | }](/wiki/File:Naval_engineering.p |
+| | ng "naval_engineering"){.image} - |
+| | Basic Light Cruiser Propulsion |
+| | |
+| | 5 - |
+| | [![n                              |
+|                                   | aval_artillery](/images/e/ea/Nava |
+| | l_artillery.png){file-height="24" |
+| | file-width="24" |
+| | url=" |
+| | /images/e/ea/Naval_artillery.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width= |
+| | "24"}](/wiki/File:Naval_artillery |
+| | .png "naval_artillery"){.image} - |
+| | Naval Cruiser Gun 150 |
+| | |
+| | 5 - |
+| | [![electronics](/images/d/dd/ |
+| | Electronics.png){file-height="24" |
+| | file-width="24" |
+| | u |
+| | rl="/images/d/dd/Electronics.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width="24"}](/wiki/File:Electro |
+| | nics.png "electronics"){.image} - |
+| | Basic Anti-Air Equipment |
+| | |
+| | 5 - |
+| | [![technical_e                    |
+|                                   | fficiency](/images/9/9d/Technical |
+| | \_efficiency.png){file-height="24" |
+| | file-width="24" |
+| | url="/imag |
+| | es/9/9d/Technical_efficiency.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width="24"}](/wi |
+| | ki/File:Technical_efficiency.png |
+| | "technical_efficiency"){.image} - |
+| | Basic Light Cruiser Prototype |
+| | Testing (D) |
++-----------------------------------+-----------------------------------+
+
+#### [ Improved Light Cruiser ]{#Improved_Light_Cruiser .mw-headline}
+
++-----------------------------------+-----------------------------------+
+| - Historic Year: 1938 | 5 - |
+| - Prerequisites: | [![naval                          |
+|                                   | _engineering](/images/0/09/Naval* |
+| `{=html}                        | engineering.png){file-height="24" |
+| <!-- -->                          | file-width="24"                   |
+| ` | url="/i |
+| - [Basic Light | mages/0/09/Naval_engineering.png" |
+| Cru | decoding="async" height="24" |
+| iser](/wiki/Naval_Tech_Tree#Basic | loading="lazy" |
+| \_Light_Cruiser "Naval Tech Tree") | width="24" |
+| | }](/wiki/File:Naval_engineering.p |
+| `{=html}                        | ng "naval_engineering"){.image} - |
+| <!-- -->                          | Improved Light Cruiser Hull       |
+| ` | |
+| - Effects: | 5 - |
+| | [![naval                          |
+| ```{=html}                        | _engineering](/images/0/09/Naval* |
+| <!-- --> | engineering.png){file-height="24" |
+| ``` | file-width="24" |
+| - Model is now obsolete. | url="/i |
+| light_cruiser 1 | mages/0/09/Naval_engineering.png" |
+| - New Model light_cruiser 3 | decoding="async" height="24" |
+| | loading="lazy" |
+| | width="24" |
+| | }](/wiki/File:Naval_engineering.p |
+| | ng "naval_engineering"){.image} - |
+| | Improved Light Cruiser Propulsion |
+| | |
+| | 5 - |
+| | [![n                              |
+|                                   | aval_artillery](/images/e/ea/Nava |
+| | l_artillery.png){file-height="24" |
+| | file-width="24" |
+| | url=" |
+| | /images/e/ea/Naval_artillery.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width= |
+| | "24"}](/wiki/File:Naval_artillery |
+| | .png "naval_artillery"){.image} - |
+| | Naval Cruiser Gun 180 |
+| | |
+| | 5 - |
+| | [![electronics](/images/d/dd/ |
+| | Electronics.png){file-height="24" |
+| | file-width="24" |
+| | u |
+| | rl="/images/d/dd/Electronics.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width="24"}](/wiki/File:Electro |
+| | nics.png "electronics"){.image} - |
+| | Improved Anti-Air Equipment |
+| | |
+| | 5 - |
+| | [![technical_e                    |
+|                                   | fficiency](/images/9/9d/Technical |
+| | \_efficiency.png){file-height="24" |
+| | file-width="24" |
+| | url="/imag |
+| | es/9/9d/Technical_efficiency.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width="24"}](/wi |
+| | ki/File:Technical_efficiency.png |
+| | "technical_efficiency"){.image} - |
+| | Improved Light Cruiser Prototype |
+| | Testing (D) |
++-----------------------------------+-----------------------------------+
+
+#### [ Advanced Light Cruiser ]{#Advanced_Light_Cruiser .mw-headline}
+
++-----------------------------------+-----------------------------------+
+| - Historic Year: 1941 | 5 - |
+| - Prerequisites: | [![naval                          |
+|                                   | _engineering](/images/0/09/Naval* |
+| `{=html}                        | engineering.png){file-height="24" |
+| <!-- -->                          | file-width="24"                   |
+| ` | url="/i |
+| - [Improved Light | mages/0/09/Naval_engineering.png" |
+| Cruise | decoding="async" height="24" |
+| r](/wiki/Naval_Tech_Tree#Improved | loading="lazy" |
+| \_Light_Cruiser "Naval Tech Tree") | width="24" |
+| | }](/wiki/File:Naval_engineering.p |
+| `{=html}                        | ng "naval_engineering"){.image} - |
+| <!-- -->                          | Advanced Light Cruiser Hull       |
+| ` | |
+| - Effects: | 5 - |
+| | [![naval                          |
+| ```{=html}                        | _engineering](/images/0/09/Naval* |
+| <!-- --> | engineering.png){file-height="24" |
+| ``` | file-width="24" |
+| - New Model light_cruiser 4 | url="/i |
+| - Model is now obsolete. | mages/0/09/Naval_engineering.png" |
+| light_cruiser 2 | decoding="async" height="24" |
+| | loading="lazy" |
+| | width="24" |
+| | }](/wiki/File:Naval_engineering.p |
+| | ng "naval_engineering"){.image} - |
+| | Advanced Light Cruiser Propulsion |
+| | |
+| | 5 - |
+| | [![n                              |
+|                                   | aval_artillery](/images/e/ea/Nava |
+| | l_artillery.png){file-height="24" |
+| | file-width="24" |
+| | url=" |
+| | /images/e/ea/Naval_artillery.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width= |
+| | "24"}](/wiki/File:Naval_artillery |
+| | .png "naval_artillery"){.image} - |
+| | Naval Cruiser Gun 180 |
+| | |
+| | 5 - |
+| | [![electronics](/images/d/dd/ |
+| | Electronics.png){file-height="24" |
+| | file-width="24" |
+| | u |
+| | rl="/images/d/dd/Electronics.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width="24"}](/wiki/File:Electro |
+| | nics.png "electronics"){.image} - |
+| | Advanced Anti-Air Equipment |
+| | |
+| | 5 - |
+| | [![technical_e                    |
+|                                   | fficiency](/images/9/9d/Technical |
+| | \_efficiency.png){file-height="24" |
+| | file-width="24" |
+| | url="/imag |
+| | es/9/9d/Technical_efficiency.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width="24"}](/wi |
+| | ki/File:Technical_efficiency.png |
+| | "technical_efficiency"){.image} - |
+| | Advanced Light Cruiser Prototype |
+| | Testing (D) |
++-----------------------------------+-----------------------------------+
+
+#### [ Semi-Modern Light Cruiser ]{#Semi-Modern_Light_Cruiser .mw-headline}
+
++-----------------------------------+-----------------------------------+
+| - Historic Year: 1945 | 5 - |
+| - Prerequisites: | [![naval                          |
+|                                   | _engineering](/images/0/09/Naval* |
+| `{=html}                        | engineering.png){file-height="24" |
+| <!-- -->                          | file-width="24"                   |
+| ` | url="/i |
+| - [Advanced Light | mages/0/09/Naval_engineering.png" |
+| Cruise | decoding="async" height="24" |
+| r](/wiki/Naval_Tech_Tree#Advanced | loading="lazy" |
+| \_Light_Cruiser "Naval Tech Tree") | width="24" |
+| | }](/wiki/File:Naval_engineering.p |
+| `{=html}                        | ng "naval_engineering"){.image} - |
+| <!-- -->                          | Semi-Modern Light Cruiser Hull    |
+| ` | |
+| - Effects: | 5 - |
+| | [![naval                          |
+| ```{=html}                        | _engineering](/images/0/09/Naval* |
+| <!-- --> | engineering.png){file-height="24" |
+| ``` | file-width="24" |
+| - New Model light_cruiser 5 | url="/i |
+| - Model is now obsolete. | mages/0/09/Naval_engineering.png" |
+| light_cruiser 3 | decoding="async" height="24" |
+| | loading="lazy" |
+| | width="24" |
+| | }](/wiki/File:Naval_engineering.p |
+| | ng "naval_engineering"){.image} - |
+| | Semi-Modern Light Cruiser |
+| | Propulsion |
+| | |
+| | 5 - |
+| | [![n                              |
+|                                   | aval_artillery](/images/e/ea/Nava |
+| | l_artillery.png){file-height="24" |
+| | file-width="24" |
+| | url=" |
+| | /images/e/ea/Naval_artillery.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width= |
+| | "24"}](/wiki/File:Naval_artillery |
+| | .png "naval_artillery"){.image} - |
+| | Naval Cruiser Gun 180 |
+| | |
+| | 5 - |
+| | [![electronics](/images/d/dd/ |
+| | Electronics.png){file-height="24" |
+| | file-width="24" |
+| | u |
+| | rl="/images/d/dd/Electronics.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width="24"}](/wiki/File:Electro |
+| | nics.png "electronics"){.image} - |
+| | Semi-Modern Anti-Air Equipment |
+| | |
+| | 5 - |
+| | [![technical_e                    |
+|                                   | fficiency](/images/9/9d/Technical |
+| | \_efficiency.png){file-height="24" |
+| | file-width="24" |
+| | url="/imag |
+| | es/9/9d/Technical_efficiency.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width="24"}](/wi |
+| | ki/File:Technical_efficiency.png |
+| | "technical_efficiency"){.image} - |
+| | Semi-Modern Light Cruiser |
+| | Prototype Testing (D) |
++-----------------------------------+-----------------------------------+
+
+### [ Heavy Cruiser ]{#Heavy_Cruiser .mw-headline}
+
+#### [ Great War Heavy Cruiser ]{#Great_War_Heavy_Cruiser .mw-headline}
+
++-----------------------------------+-----------------------------------+
+| - Historic Year: 1936 | 5 - |
+| - Prerequisites: None | [![naval                          |
+| -   Effects:                      | _engineering](/images/0/09/Naval* |
+| | engineering.png){file-height="24" |
+| `{=html}                        | file-width="24"                   |
+| <!-- -->                          | url="/i                           |
+| ` | mages/0/09/Naval_engineering.png" |
+| - Activate Unit Type | decoding="async" height="24" |
+| heavy_cruiser | loading="lazy" |
+| - New Model heavy_cruiser 0 | width="24" |
+| | }](/wiki/File:Naval_engineering.p |
+| | ng "naval_engineering"){.image} - |
+| | Great War Heavy Cruiser Hull |
+| | |
+| | 5 - |
+| | [![naval                          |
+|                                   | _engineering](/images/0/09/Naval* |
+| | engineering.png){file-height="24" |
+| | file-width="24" |
+| | url="/i |
+| | mages/0/09/Naval_engineering.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width="24" |
+| | }](/wiki/File:Naval_engineering.p |
+| | ng "naval_engineering"){.image} - |
+| | Great War Heavy Cruiser |
+| | Propulsion |
+| | |
+| | 5 - |
+| | [![n                              |
+|                                   | aval_artillery](/images/e/ea/Nava |
+| | l_artillery.png){file-height="24" |
+| | file-width="24" |
+| | url=" |
+| | /images/e/ea/Naval_artillery.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width= |
+| | "24"}](/wiki/File:Naval_artillery |
+| | .png "naval_artillery"){.image} - |
+| | Naval Cruiser Gun 180 |
+| | |
+| | 5 - |
+| | [![electronics](/images/d/dd/ |
+| | Electronics.png){file-height="24" |
+| | file-width="24" |
+| | u |
+| | rl="/images/d/dd/Electronics.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width="24"}](/wiki/File:Electro |
+| | nics.png "electronics"){.image} - |
+| | Basic Surface Ship Torpedo |
+| | |
+| | 5 - |
+| | [![technical_e                    |
+|                                   | fficiency](/images/9/9d/Technical |
+| | \_efficiency.png){file-height="24" |
+| | file-width="24" |
+| | url="/imag |
+| | es/9/9d/Technical_efficiency.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width="24"}](/wi |
+| | ki/File:Technical_efficiency.png |
+| | "technical_efficiency"){.image} - |
+| | Great War Heavy Cruiser Prototype |
+| | Testing (D) |
++-----------------------------------+-----------------------------------+
+
+#### [ Early Heavy Cruiser ]{#Early_Heavy_Cruiser .mw-headline}
+
++-----------------------------------+-----------------------------------+
+| - Historic Year: 1936 | 5 - |
+| - Prerequisites: | [![naval                          |
+|                                   | _engineering](/images/0/09/Naval* |
+| `{=html}                        | engineering.png){file-height="24" |
+| <!-- -->                          | file-width="24"                   |
+| ` | url="/i |
+| - [Great War Heavy | mages/0/09/Naval_engineering.png" |
+| Cruiser | decoding="async" height="24" |
+| ](/wiki/Naval_Tech_Tree#Great_War | loading="lazy" |
+| \_Heavy_Cruiser "Naval Tech Tree") | width="24" |
+| | }](/wiki/File:Naval_engineering.p |
+| `{=html}                        | ng "naval_engineering"){.image} - |
+| <!-- -->                          | Early Heavy Cruiser Hull          |
+| ` | |
+| - Effects: | 5 - |
+| | [![naval                          |
+| ```{=html}                        | _engineering](/images/0/09/Naval* |
+| <!-- --> | engineering.png){file-height="24" |
+| ``` | file-width="24" |
+| - New Model heavy_cruiser 1 | url="/i |
+| | mages/0/09/Naval_engineering.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width="24" |
+| | }](/wiki/File:Naval_engineering.p |
+| | ng "naval_engineering"){.image} - |
+| | Early Heavy Cruiser Propulsion |
+| | |
+| | 5 - |
+| | [![n                              |
+|                                   | aval_artillery](/images/e/ea/Nava |
+| | l_artillery.png){file-height="24" |
+| | file-width="24" |
+| | url=" |
+| | /images/e/ea/Naval_artillery.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width= |
+| | "24"}](/wiki/File:Naval_artillery |
+| | .png "naval_artillery"){.image} - |
+| | Naval Cruiser Gun 180 |
+| | |
+| | 5 - |
+| | [![electronics](/images/d/dd/ |
+| | Electronics.png){file-height="24" |
+| | file-width="24" |
+| | u |
+| | rl="/images/d/dd/Electronics.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width="24"}](/wiki/File:Electro |
+| | nics.png "electronics"){.image} - |
+| | Improved Surface Ship Torpedo |
+| | |
+| | 5 - |
+| | [![technical_e                    |
+|                                   | fficiency](/images/9/9d/Technical |
+| | \_efficiency.png){file-height="24" |
+| | file-width="24" |
+| | url="/imag |
+| | es/9/9d/Technical_efficiency.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width="24"}](/wi |
+| | ki/File:Technical_efficiency.png |
+| | "technical_efficiency"){.image} - |
+| | Early Heavy Cruiser Prototype |
+| | Testing (D) |
++-----------------------------------+-----------------------------------+
+
+#### [ Basic Heavy Cruiser ]{#Basic_Heavy_Cruiser .mw-headline}
+
++-----------------------------------+-----------------------------------+
+| - Historic Year: 1936 | 5 - |
+| - Prerequisites: | [![naval                          |
+|                                   | _engineering](/images/0/09/Naval* |
+| `{=html}                        | engineering.png){file-height="24" |
+| <!-- -->                          | file-width="24"                   |
+| ` | url="/i |
+| - [Early Heavy | mages/0/09/Naval_engineering.png" |
+| Cru | decoding="async" height="24" |
+| iser](/wiki/Naval_Tech_Tree#Early | loading="lazy" |
+| \_Heavy_Cruiser "Naval Tech Tree") | width="24" |
+| | }](/wiki/File:Naval_engineering.p |
+| `{=html}                        | ng "naval_engineering"){.image} - |
+| <!-- -->                          | Basic Heavy Cruiser Hull          |
+| ` | |
+| - Effects: | 5 - |
+| | [![naval                          |
+| ```{=html}                        | _engineering](/images/0/09/Naval* |
+| <!-- --> | engineering.png){file-height="24" |
+| ``` | file-width="24" |
+| - Model is now obsolete. | url="/i |
+| heavy_cruiser 0 | mages/0/09/Naval_engineering.png" |
+| - New Model heavy_cruiser 2 | decoding="async" height="24" |
+| | loading="lazy" |
+| | width="24" |
+| | }](/wiki/File:Naval_engineering.p |
+| | ng "naval_engineering"){.image} - |
+| | Basic Heavy Cruiser Propulsion |
+| | |
+| | 5 - |
+| | [![n                              |
+|                                   | aval_artillery](/images/e/ea/Nava |
+| | l_artillery.png){file-height="24" |
+| | file-width="24" |
+| | url=" |
+| | /images/e/ea/Naval_artillery.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width= |
+| | "24"}](/wiki/File:Naval_artillery |
+| | .png "naval_artillery"){.image} - |
+| | Naval Cruiser Gun 180 |
+| | |
+| | 5 - |
+| | [![electronics](/images/d/dd/ |
+| | Electronics.png){file-height="24" |
+| | file-width="24" |
+| | u |
+| | rl="/images/d/dd/Electronics.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width="24"}](/wiki/File:Electro |
+| | nics.png "electronics"){.image} - |
+| | Advanced Surface Ship Torpedo |
+| | |
+| | 5 - |
+| | [![technical_e                    |
+|                                   | fficiency](/images/9/9d/Technical |
+| | \_efficiency.png){file-height="24" |
+| | file-width="24" |
+| | url="/imag |
+| | es/9/9d/Technical_efficiency.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width="24"}](/wi |
+| | ki/File:Technical_efficiency.png |
+| | "technical_efficiency"){.image} - |
+| | Basic Heavy Cruiser Prototype |
+| | Testing (D) |
++-----------------------------------+-----------------------------------+
+
+#### [ Improved Heavy Cruiser ]{#Improved_Heavy_Cruiser .mw-headline}
+
++-----------------------------------+-----------------------------------+
+| - Historic Year: 1938 | 5 - |
+| - Prerequisites: | [![naval                          |
+|                                   | _engineering](/images/0/09/Naval* |
+| `{=html}                        | engineering.png){file-height="24" |
+| <!-- -->                          | file-width="24"                   |
+| ` | url="/i |
+| - [Basic Heavy | mages/0/09/Naval_engineering.png" |
+| Cru | decoding="async" height="24" |
+| iser](/wiki/Naval_Tech_Tree#Basic | loading="lazy" |
+| \_Heavy_Cruiser "Naval Tech Tree") | width="24" |
+| | }](/wiki/File:Naval_engineering.p |
+| `{=html}                        | ng "naval_engineering"){.image} - |
+| <!-- -->                          | Improved Heavy Cruiser Hull       |
+| ` | |
+| - Effects: | 5 - |
+| | [![naval                          |
+| ```{=html}                        | _engineering](/images/0/09/Naval* |
+| <!-- --> | engineering.png){file-height="24" |
+| ``` | file-width="24" |
+| - Model is now obsolete. | url="/i |
+| heavy_cruiser 1 | mages/0/09/Naval_engineering.png" |
+| - New Model heavy_cruiser 3 | decoding="async" height="24" |
+| | loading="lazy" |
+| | width="24" |
+| | }](/wiki/File:Naval_engineering.p |
+| | ng "naval_engineering"){.image} - |
+| | Improved Heavy Cruiser Propulsion |
+| | |
+| | 5 - |
+| | [![n                              |
+|                                   | aval_artillery](/images/e/ea/Nava |
+| | l_artillery.png){file-height="24" |
+| | file-width="24" |
+| | url=" |
+| | /images/e/ea/Naval_artillery.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width= |
+| | "24"}](/wiki/File:Naval_artillery |
+| | .png "naval_artillery"){.image} - |
+| | Naval Cruiser Gun 200 |
+| | |
+| | 5 - |
+| | [![electronics](/images/d/dd/ |
+| | Electronics.png){file-height="24" |
+| | file-width="24" |
+| | u |
+| | rl="/images/d/dd/Electronics.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width="24"}](/wiki/File:Electro |
+| | nics.png "electronics"){.image} - |
+| | Basic Surface Ship Homing Torpedo |
+| | |
+| | 5 - |
+| | [![technical_e                    |
+|                                   | fficiency](/images/9/9d/Technical |
+| | \_efficiency.png){file-height="24" |
+| | file-width="24" |
+| | url="/imag |
+| | es/9/9d/Technical_efficiency.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width="24"}](/wi |
+| | ki/File:Technical_efficiency.png |
+| | "technical_efficiency"){.image} - |
+| | Improved Heavy Cruiser Prototype |
+| | Testing (D) |
++-----------------------------------+-----------------------------------+
+
+#### [ Advanced Heavy Cruiser ]{#Advanced_Heavy_Cruiser .mw-headline}
+
++-----------------------------------+-----------------------------------+
+| - Historic Year: 1941 | 5 - |
+| - Prerequisites: | [![naval                          |
+|                                   | _engineering](/images/0/09/Naval* |
+| `{=html}                        | engineering.png){file-height="24" |
+| <!-- -->                          | file-width="24"                   |
+| ` | url="/i |
+| - [Improved Heavy | mages/0/09/Naval_engineering.png" |
+| Cruise | decoding="async" height="24" |
+| r](/wiki/Naval_Tech_Tree#Improved | loading="lazy" |
+| \_Heavy_Cruiser "Naval Tech Tree") | width="24" |
+| | }](/wiki/File:Naval_engineering.p |
+| `{=html}                        | ng "naval_engineering"){.image} - |
+| <!-- -->                          | Advanced Heavy Cruiser Hull       |
+| ` | |
+| - Effects: | 5 - |
+| | [![naval                          |
+| ```{=html}                        | _engineering](/images/0/09/Naval* |
+| <!-- --> | engineering.png){file-height="24" |
+| ``` | file-width="24" |
+| - New Model heavy_cruiser 4 | url="/i |
+| - Model is now obsolete. | mages/0/09/Naval_engineering.png" |
+| heavy_cruiser 2 | decoding="async" height="24" |
+| | loading="lazy" |
+| | width="24" |
+| | }](/wiki/File:Naval_engineering.p |
+| | ng "naval_engineering"){.image} - |
+| | Advanced Heavy Cruiser Propulsion |
+| | |
+| | 5 - |
+| | [![n                              |
+|                                   | aval_artillery](/images/e/ea/Nava |
+| | l_artillery.png){file-height="24" |
+| | file-width="24" |
+| | url=" |
+| | /images/e/ea/Naval_artillery.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width= |
+| | "24"}](/wiki/File:Naval_artillery |
+| | .png "naval_artillery"){.image} - |
+| | Naval Cruiser Gun 200 |
+| | |
+| | 5 - |
+| | [![electronics](/images/d/dd/ |
+| | Electronics.png){file-height="24" |
+| | file-width="24" |
+| | u |
+| | rl="/images/d/dd/Electronics.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width="24"}](/wiki/File:Electro |
+| | nics.png "electronics"){.image} - |
+| | Improved Surface Ship Homing |
+| | Torpedo |
+| | |
+| | 5 - |
+| | [![technical_e                    |
+|                                   | fficiency](/images/9/9d/Technical |
+| | \_efficiency.png){file-height="24" |
+| | file-width="24" |
+| | url="/imag |
+| | es/9/9d/Technical_efficiency.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width="24"}](/wi |
+| | ki/File:Technical_efficiency.png |
+| | "technical_efficiency"){.image} - |
+| | Advanced Heavy Cruiser Prototype |
+| | Testing (D) |
++-----------------------------------+-----------------------------------+
+
+#### [ ]{#Semi-Modern*Heavy_Cruiser*(CL)} [ Semi-Modern Heavy Cruiser (CL) ]{#Semi-Modern*Heavy_Cruiser*.28CL.29 .mw-headline}
+
++-----------------------------------+-----------------------------------+
+| - Historic Year: 1945 | 5 - |
+| - Prerequisites: | [![naval                          |
+|                                   | _engineering](/images/0/09/Naval* |
+| `{=html}                        | engineering.png){file-height="24" |
+| <!-- -->                          | file-width="24"                   |
+| ` | url="/i |
+| - [Advanced Heavy | mages/0/09/Naval_engineering.png" |
+| Cruise | decoding="async" height="24" |
+| r](/wiki/Naval_Tech_Tree#Advanced | loading="lazy" |
+| \_Heavy_Cruiser "Naval Tech Tree") | width="24" |
+| | }](/wiki/File:Naval_engineering.p |
+| `{=html}                        | ng "naval_engineering"){.image} - |
+| <!-- -->                          | Semi-Modern Heavy Cruiser Hull    |
+| ` | |
+| - Effects: | 5 - |
+| | [![naval                          |
+| ```{=html}                        | _engineering](/images/0/09/Naval* |
+| <!-- --> | engineering.png){file-height="24" |
+| ``` | file-width="24" |
+| - New Model heavy_cruiser 5 | url="/i |
+| - Model is now obsolete. | mages/0/09/Naval_engineering.png" |
+| heavy_cruiser 3 | decoding="async" height="24" |
+| | loading="lazy" |
+| | width="24" |
+| | }](/wiki/File:Naval_engineering.p |
+| | ng "naval_engineering"){.image} - |
+| | Semi-Modern Heavy Cruiser |
+| | Propulsion |
+| | |
+| | 5 - |
+| | [![n                              |
+|                                   | aval_artillery](/images/e/ea/Nava |
+| | l_artillery.png){file-height="24" |
+| | file-width="24" |
+| | url=" |
+| | /images/e/ea/Naval_artillery.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width= |
+| | "24"}](/wiki/File:Naval_artillery |
+| | .png "naval_artillery"){.image} - |
+| | Naval Cruiser Gun 200 |
+| | |
+| | 5 - |
+| | [![electronics](/images/d/dd/ |
+| | Electronics.png){file-height="24" |
+| | file-width="24" |
+| | u |
+| | rl="/images/d/dd/Electronics.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width="24"}](/wiki/File:Electro |
+| | nics.png "electronics"){.image} - |
+| | Cruiser Ship-to-Ship Missiles |
+| | |
+| | 5 - |
+| | [![technical_e                    |
+|                                   | fficiency](/images/9/9d/Technical |
+| | \_efficiency.png){file-height="24" |
+| | file-width="24" |
+| | url="/imag |
+| | es/9/9d/Technical_efficiency.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width="24"}](/wi |
+| | ki/File:Technical_efficiency.png |
+| | "technical_efficiency"){.image} - |
+| | Semi-Modern Heavy Cruiser |
+| | Prototype Testing (D) |
++-----------------------------------+-----------------------------------+
+
+### [ Battlecruiser ]{#Battlecruiser .mw-headline}
+
+#### [ Great War Battlecruiser ]{#Great_War_Battlecruiser .mw-headline}
+
++-----------------------------------+-----------------------------------+
+| - Historic Year: 1936 | 6 - |
+| - Prerequisites: None | [![naval                          |
+| -   Effects:                      | _engineering](/images/0/09/Naval* |
+| | engineering.png){file-height="24" |
+| `{=html}                        | file-width="24"                   |
+| <!-- -->                          | url="/i                           |
+| ` | mages/0/09/Naval_engineering.png" |
+| - Activate Unit Type | decoding="async" height="24" |
+| battlecruiser | loading="lazy" |
+| - New Model battlecruiser 0 | width="24" |
+| | }](/wiki/File:Naval_engineering.p |
+| | ng "naval_engineering"){.image} - |
+| | Great War Battlecruiser Hull |
+| | |
+| | 6 - |
+| | [![naval                          |
+|                                   | _engineering](/images/0/09/Naval* |
+| | engineering.png){file-height="24" |
+| | file-width="24" |
+| | url="/i |
+| | mages/0/09/Naval_engineering.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width="24" |
+| | }](/wiki/File:Naval_engineering.p |
+| | ng "naval_engineering"){.image} - |
+| | Great War Battlecruiser |
+| | Propulsion |
+| | |
+| | 6 - |
+| | [![n                              |
+|                                   | aval_artillery](/images/e/ea/Nava |
+| | l_artillery.png){file-height="24" |
+| | file-width="24" |
+| | url=" |
+| | /images/e/ea/Naval_artillery.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width= |
+| | "24"}](/wiki/File:Naval_artillery |
+| | .png "naval_artillery"){.image} - |
+| | Naval Cruiser Gun 200 |
+| | |
+| | 6 - |
+| | [![electronics](/images/d/dd/ |
+| | Electronics.png){file-height="24" |
+| | file-width="24" |
+| | u |
+| | rl="/images/d/dd/Electronics.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width="24"}](/wiki/File:Electro |
+| | nics.png "electronics"){.image} - |
+| | Basic Optical Rangefinder |
+| | |
+| | 6 - |
+| | [![technical_e                    |
+|                                   | fficiency](/images/9/9d/Technical |
+| | \_efficiency.png){file-height="24" |
+| | file-width="24" |
+| | url="/imag |
+| | es/9/9d/Technical_efficiency.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width="24"}](/wi |
+| | ki/File:Technical_efficiency.png |
+| | "technical_efficiency"){.image} - |
+| | Great War Battlecruiser Prototype |
+| | Testing (D) |
++-----------------------------------+-----------------------------------+
+
+#### [ Early Battlecruiser ]{#Early_Battlecruiser .mw-headline}
+
++-----------------------------------+-----------------------------------+
+| - Historic Year: 1936 | 6 - |
+| - Prerequisites: | [![naval                          |
+|                                   | _engineering](/images/0/09/Naval* |
+| `{=html}                        | engineering.png){file-height="24" |
+| <!-- -->                          | file-width="24"                   |
+| ` | url="/i |
+| - [Great War | mages/0/09/Naval_engineering.png" |
+| Battlecruiser | decoding="async" height="24" |
+| ](/wiki/Naval_Tech_Tree#Great_War | loading="lazy" |
+| \_Battlecruiser "Naval Tech Tree") | width="24" |
+| | }](/wiki/File:Naval_engineering.p |
+| `{=html}                        | ng "naval_engineering"){.image} - |
+| <!-- -->                          | Early Battlecruiser Hull          |
+| ` | |
+| - Effects: | 6 - |
+| | [![naval                          |
+| ```{=html}                        | _engineering](/images/0/09/Naval* |
+| <!-- --> | engineering.png){file-height="24" |
+| ``` | file-width="24" |
+| - New Model battlecruiser 1 | url="/i |
+| | mages/0/09/Naval_engineering.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width="24" |
+| | }](/wiki/File:Naval_engineering.p |
+| | ng "naval_engineering"){.image} - |
+| | Early Battlecruiser Propulsion |
+| | |
+| | 6 - |
+| | [![n                              |
+|                                   | aval_artillery](/images/e/ea/Nava |
+| | l_artillery.png){file-height="24" |
+| | file-width="24" |
+| | url=" |
+| | /images/e/ea/Naval_artillery.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width= |
+| | "24"}](/wiki/File:Naval_artillery |
+| | .png "naval_artillery"){.image} - |
+| | Naval Cruiser Gun 200 |
+| | |
+| | 6 - |
+| | [![electronics](/images/d/dd/ |
+| | Electronics.png){file-height="24" |
+| | file-width="24" |
+| | u |
+| | rl="/images/d/dd/Electronics.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width="24"}](/wiki/File:Electro |
+| | nics.png "electronics"){.image} - |
+| | Improved Optical Rangefinder |
+| | |
+| | 6 - |
+| | [![technical_e                    |
+|                                   | fficiency](/images/9/9d/Technical |
+| | \_efficiency.png){file-height="24" |
+| | file-width="24" |
+| | url="/imag |
+| | es/9/9d/Technical_efficiency.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width="24"}](/wi |
+| | ki/File:Technical_efficiency.png |
+| | "technical_efficiency"){.image} - |
+| | Early Battlecruiser Prototype |
+| | Testing (D) |
++-----------------------------------+-----------------------------------+
+
+#### [ Basic Battlecruiser ]{#Basic_Battlecruiser .mw-headline}
+
++-----------------------------------+-----------------------------------+
+| - Historic Year: 1936 | 6 - |
+| - Prerequisites: | [![naval                          |
+|                                   | _engineering](/images/0/09/Naval* |
+| `{=html}                        | engineering.png){file-height="24" |
+| <!-- -->                          | file-width="24"                   |
+| ` | url="/i |
+| - [Early | mages/0/09/Naval_engineering.png" |
+| Battlecru | decoding="async" height="24" |
+| iser](/wiki/Naval_Tech_Tree#Early | loading="lazy" |
+| \_Battlecruiser "Naval Tech Tree") | width="24" |
+| | }](/wiki/File:Naval_engineering.p |
+| `{=html}                        | ng "naval_engineering"){.image} - |
+| <!-- -->                          | Basic Battlecruiser Hull          |
+| ` | |
+| - Effects: | 6 - |
+| | [![naval                          |
+| ```{=html}                        | _engineering](/images/0/09/Naval* |
+| <!-- --> | engineering.png){file-height="24" |
+| ``` | file-width="24" |
+| - Model is now obsolete. | url="/i |
+| battlecruiser 0 | mages/0/09/Naval_engineering.png" |
+| - New Model battlecruiser 2 | decoding="async" height="24" |
+| | loading="lazy" |
+| | width="24" |
+| | }](/wiki/File:Naval_engineering.p |
+| | ng "naval_engineering"){.image} - |
+| | Basic Battlecruiser Propulsion |
+| | |
+| | 6 - |
+| | [![n                              |
+|                                   | aval_artillery](/images/e/ea/Nava |
+| | l_artillery.png){file-height="24" |
+| | file-width="24" |
+| | url=" |
+| | /images/e/ea/Naval_artillery.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width= |
+| | "24"}](/wiki/File:Naval_artillery |
+| | .png "naval_artillery"){.image} - |
+| | Naval Battlecruiser Gun 250 |
+| | |
+| | 6 - |
+| | [![electronics](/images/d/dd/ |
+| | Electronics.png){file-height="24" |
+| | file-width="24" |
+| | u |
+| | rl="/images/d/dd/Electronics.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width="24"}](/wiki/File:Electro |
+| | nics.png "electronics"){.image} - |
+| | Advanced Optical Rangefinder |
+| | |
+| | 6 - |
+| | [![technical_e                    |
+|                                   | fficiency](/images/9/9d/Technical |
+| | \_efficiency.png){file-height="24" |
+| | file-width="24" |
+| | url="/imag |
+| | es/9/9d/Technical_efficiency.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width="24"}](/wi |
+| | ki/File:Technical_efficiency.png |
+| | "technical_efficiency"){.image} - |
+| | Basic Battlecruiser Prototype |
+| | Testing (D) |
++-----------------------------------+-----------------------------------+
+
+#### [ Improved Battlecruiser ]{#Improved_Battlecruiser .mw-headline}
+
++-----------------------------------+-----------------------------------+
+| - Historic Year: 1938 | 6 - |
+| - Prerequisites: | [![naval                          |
+|                                   | _engineering](/images/0/09/Naval* |
+| `{=html}                        | engineering.png){file-height="24" |
+| <!-- -->                          | file-width="24"                   |
+| ` | url="/i |
+| - [Basic | mages/0/09/Naval_engineering.png" |
+| Battlecru | decoding="async" height="24" |
+| iser](/wiki/Naval_Tech_Tree#Basic | loading="lazy" |
+| \_Battlecruiser "Naval Tech Tree") | width="24" |
+| | }](/wiki/File:Naval_engineering.p |
+| `{=html}                        | ng "naval_engineering"){.image} - |
+| <!-- -->                          | Improved Battlecruiser Hull       |
+| ` | |
+| - Effects: | 6 - |
+| | [![naval                          |
+| ```{=html}                        | _engineering](/images/0/09/Naval* |
+| <!-- --> | engineering.png){file-height="24" |
+| ``` | file-width="24" |
+| - Model is now obsolete. | url="/i |
+| battlecruiser 1 | mages/0/09/Naval_engineering.png" |
+| - New Model battlecruiser 3 | decoding="async" height="24" |
+| | loading="lazy" |
+| | width="24" |
+| | }](/wiki/File:Naval_engineering.p |
+| | ng "naval_engineering"){.image} - |
+| | Improved Battlecruiser Propulsion |
+| | |
+| | 6 - |
+| | [![n                              |
+|                                   | aval_artillery](/images/e/ea/Nava |
+| | l_artillery.png){file-height="24" |
+| | file-width="24" |
+| | url=" |
+| | /images/e/ea/Naval_artillery.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width= |
+| | "24"}](/wiki/File:Naval_artillery |
+| | .png "naval_artillery"){.image} - |
+| | Naval Battlecruiser Gun 250 |
+| | |
+| | 6 - |
+| | [![electronics](/images/d/dd/ |
+| | Electronics.png){file-height="24" |
+| | file-width="24" |
+| | u |
+| | rl="/images/d/dd/Electronics.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width="24"}](/wiki/File:Electro |
+| | nics.png "electronics"){.image} - |
+| | Basic Decimetric Naval Artillery |
+| | Radar |
+| | |
+| | 6 - |
+| | [![technical_e                    |
+|                                   | fficiency](/images/9/9d/Technical |
+| | \_efficiency.png){file-height="24" |
+| | file-width="24" |
+| | url="/imag |
+| | es/9/9d/Technical_efficiency.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width="24"}](/wi |
+| | ki/File:Technical_efficiency.png |
+| | "technical_efficiency"){.image} - |
+| | Improved Battlecruiser Prototype |
+| | Testing (D) |
++-----------------------------------+-----------------------------------+
+
+#### [ Advanced Battlecruiser ]{#Advanced_Battlecruiser .mw-headline}
+
++-----------------------------------+-----------------------------------+
+| - Historic Year: 1941 | 6 - |
+| - Prerequisites: | [![naval                          |
+|                                   | _engineering](/images/0/09/Naval* |
+| `{=html}                        | engineering.png){file-height="24" |
+| <!-- -->                          | file-width="24"                   |
+| ` | url="/i |
+| - [Improved | mages/0/09/Naval_engineering.png" |
+| Battlecruise | decoding="async" height="24" |
+| r](/wiki/Naval_Tech_Tree#Improved | loading="lazy" |
+| \_Battlecruiser "Naval Tech Tree") | width="24" |
+| | }](/wiki/File:Naval_engineering.p |
+| `{=html}                        | ng "naval_engineering"){.image} - |
+| <!-- -->                          | Advanced Battlecruiser Hull       |
+| ` | |
+| - Effects: | 6 - |
+| | [![naval                          |
+| ```{=html}                        | _engineering](/images/0/09/Naval* |
+| <!-- --> | engineering.png){file-height="24" |
+| ``` | file-width="24" |
+| - New Model battlecruiser 4 | url="/i |
+| - Model is now obsolete. | mages/0/09/Naval_engineering.png" |
+| battlecruiser 2 | decoding="async" height="24" |
+| | loading="lazy" |
+| | width="24" |
+| | }](/wiki/File:Naval_engineering.p |
+| | ng "naval_engineering"){.image} - |
+| | Advanced Battlecruiser Propulsion |
+| | |
+| | 6 - |
+| | [![n                              |
+|                                   | aval_artillery](/images/e/ea/Nava |
+| | l_artillery.png){file-height="24" |
+| | file-width="24" |
+| | url=" |
+| | /images/e/ea/Naval_artillery.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width= |
+| | "24"}](/wiki/File:Naval_artillery |
+| | .png "naval_artillery"){.image} - |
+| | Naval Battlecruiser Gun 250 |
+| | |
+| | 6 - |
+| | [![electronics](/images/d/dd/ |
+| | Electronics.png){file-height="24" |
+| | file-width="24" |
+| | u |
+| | rl="/images/d/dd/Electronics.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width="24"}](/wiki/File:Electro |
+| | nics.png "electronics"){.image} - |
+| | Improved Decimetric Naval |
+| | Artillery Radar |
+| | |
+| | 6 - |
+| | [![technical_e                    |
+|                                   | fficiency](/images/9/9d/Technical |
+| | \_efficiency.png){file-height="24" |
+| | file-width="24" |
+| | url="/imag |
+| | es/9/9d/Technical_efficiency.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width="24"}](/wi |
+| | ki/File:Technical_efficiency.png |
+| | "technical_efficiency"){.image} - |
+| | Advanced Battlecruiser Prototype |
+| | Testing (D) |
++-----------------------------------+-----------------------------------+
+
+#### [ Semi-Modern Battlecruiser ]{#Semi-Modern_Battlecruiser .mw-headline}
+
++-----------------------------------+-----------------------------------+
+| - Historic Year: 1945 | 6 - |
+| - Prerequisites: | [![naval                          |
+|                                   | _engineering](/images/0/09/Naval* |
+| `{=html}                        | engineering.png){file-height="24" |
+| <!-- -->                          | file-width="24"                   |
+| ` | url="/i |
+| - [Advanced | mages/0/09/Naval_engineering.png" |
+| Battlecruise | decoding="async" height="24" |
+| r](/wiki/Naval_Tech_Tree#Advanced | loading="lazy" |
+| \_Battlecruiser "Naval Tech Tree") | width="24" |
+| | }](/wiki/File:Naval_engineering.p |
+| `{=html}                        | ng "naval_engineering"){.image} - |
+| <!-- -->                          | Semi-Modern Battlecruiser Hull    |
+| ` | |
+| - Effects: | 6 - |
+| | [![naval                          |
+| ```{=html}                        | _engineering](/images/0/09/Naval* |
+| <!-- --> | engineering.png){file-height="24" |
+| ``` | file-width="24" |
+| - New Model battlecruiser 5 | url="/i |
+| - Model is now obsolete. | mages/0/09/Naval_engineering.png" |
+| battlecruiser 3 | decoding="async" height="24" |
+| | loading="lazy" |
+| | width="24" |
+| | }](/wiki/File:Naval_engineering.p |
+| | ng "naval_engineering"){.image} - |
+| | Semi-Modern Battlecruiser |
+| | Propulsion |
+| | |
+| | 6 - |
+| | [![n                              |
+|                                   | aval_artillery](/images/e/ea/Nava |
+| | l_artillery.png){file-height="24" |
+| | file-width="24" |
+| | url=" |
+| | /images/e/ea/Naval_artillery.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width= |
+| | "24"}](/wiki/File:Naval_artillery |
+| | .png "naval_artillery"){.image} - |
+| | Naval Battlecruiser Gun 250 |
+| | |
+| | 6 - |
+| | [![electronics](/images/d/dd/ |
+| | Electronics.png){file-height="24" |
+| | file-width="24" |
+| | u |
+| | rl="/images/d/dd/Electronics.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width="24"}](/wiki/File:Electro |
+| | nics.png "electronics"){.image} - |
+| | Basic Centimetric Naval Artillery |
+| | Radar |
+| | |
+| | 6 - |
+| | [![technical_e                    |
+|                                   | fficiency](/images/9/9d/Technical |
+| | \_efficiency.png){file-height="24" |
+| | file-width="24" |
+| | url="/imag |
+| | es/9/9d/Technical_efficiency.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width="24"}](/wi |
+| | ki/File:Technical_efficiency.png |
+| | "technical_efficiency"){.image} - |
+| | Semi-Modern Battlecruiser |
+| | Prototype Testing (D) |
++-----------------------------------+-----------------------------------+
+
+### [ Battleship ]{#Battleship .mw-headline}
+
+#### [ Great War Battleship ]{#Great_War_Battleship .mw-headline}
+
++-----------------------------------+-----------------------------------+
+| - Historic Year: 1936 | 7 - |
+| - Prerequisites: None | [![naval                          |
+| -   Effects:                      | _engineering](/images/0/09/Naval* |
+| | engineering.png){file-height="24" |
+| `{=html}                        | file-width="24"                   |
+| <!-- -->                          | url="/i                           |
+| ` | mages/0/09/Naval_engineering.png" |
+| - Activate Unit Type battleship | decoding="async" height="24" |
+| - New Model battleship 0 | loading="lazy" |
+| | width="24" |
+| | }](/wiki/File:Naval_engineering.p |
+| | ng "naval_engineering"){.image} - |
+| | Great War Battleship Hull |
+| | |
+| | 7 - |
+| | [![naval                          |
+|                                   | _engineering](/images/0/09/Naval* |
+| | engineering.png){file-height="24" |
+| | file-width="24" |
+| | url="/i |
+| | mages/0/09/Naval_engineering.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width="24" |
+| | }](/wiki/File:Naval_engineering.p |
+| | ng "naval_engineering"){.image} - |
+| | Great War Battleship Propulsion |
+| | |
+| | 7 - |
+| | [![n                              |
+|                                   | aval_artillery](/images/e/ea/Nava |
+| | l_artillery.png){file-height="24" |
+| | file-width="24" |
+| | url=" |
+| | /images/e/ea/Naval_artillery.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width= |
+| | "24"}](/wiki/File:Naval_artillery |
+| | .png "naval_artillery"){.image} - |
+| | Naval Battleship Gun 350 |
+| | |
+| | 7 - |
+| | [![electronics](/images/d/dd/ |
+| | Electronics.png){file-height="24" |
+| | file-width="24" |
+| | u |
+| | rl="/images/d/dd/Electronics.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width="24"}](/wiki/File:Electro |
+| | nics.png "electronics"){.image} - |
+| | Basic Optical Rangefinder |
+| | |
+| | 7 - |
+| | [![technical_e                    |
+|                                   | fficiency](/images/9/9d/Technical |
+| | \_efficiency.png){file-height="24" |
+| | file-width="24" |
+| | url="/imag |
+| | es/9/9d/Technical_efficiency.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width="24"}](/wi |
+| | ki/File:Technical_efficiency.png |
+| | "technical_efficiency"){.image} - |
+| | Great War Battleship Prototype |
+| | Testing (D) |
++-----------------------------------+-----------------------------------+
+
+#### [ Early Battleship ]{#Early_Battleship .mw-headline}
+
++-----------------------------------+-----------------------------------+
+| - Historic Year: 1936 | 7 - |
+| - Prerequisites: | [![naval                          |
+|                                   | _engineering](/images/0/09/Naval* |
+| `{=html}                        | engineering.png){file-height="24" |
+| <!-- -->                          | file-width="24"                   |
+| ` | url="/i |
+| - [Great War | mages/0/09/Naval_engineering.png" |
+| Battles | decoding="async" height="24" |
+| hip](/wiki/Naval_Tech_Tree#Great* | loading="lazy" |
+| War*Battleship "Naval Tech Tree") | width="24" |
+| | }](/wiki/File:Naval_engineering.p |
+| `{=html}                        | ng "naval_engineering"){.image} - |
+| <!-- -->                          | Early Battleship Hull             |
+| ` | |
+| - Effects: | 7 - |
+| | [![naval                          |
+| ```{=html}                        | _engineering](/images/0/09/Naval* |
+| <!-- --> | engineering.png){file-height="24" |
+| ``` | file-width="24" |
+| - New Model battleship 1 | url="/i |
+| | mages/0/09/Naval_engineering.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width="24" |
+| | }](/wiki/File:Naval_engineering.p |
+| | ng "naval_engineering"){.image} - |
+| | Early Battleship Propulsion |
+| | |
+| | 7 - |
+| | [![n                              |
+|                                   | aval_artillery](/images/e/ea/Nava |
+| | l_artillery.png){file-height="24" |
+| | file-width="24" |
+| | url=" |
+| | /images/e/ea/Naval_artillery.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width= |
+| | "24"}](/wiki/File:Naval_artillery |
+| | .png "naval_artillery"){.image} - |
+| | Naval Battleship Gun 350 |
+| | |
+| | 7 - |
+| | [![electronics](/images/d/dd/ |
+| | Electronics.png){file-height="24" |
+| | file-width="24" |
+| | u |
+| | rl="/images/d/dd/Electronics.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width="24"}](/wiki/File:Electro |
+| | nics.png "electronics"){.image} - |
+| | Improved Optical Rangefinder |
+| | |
+| | 7 - |
+| | [![technical_e                    |
+|                                   | fficiency](/images/9/9d/Technical |
+| | \_efficiency.png){file-height="24" |
+| | file-width="24" |
+| | url="/imag |
+| | es/9/9d/Technical_efficiency.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width="24"}](/wi |
+| | ki/File:Technical_efficiency.png |
+| | "technical_efficiency"){.image} - |
+| | Early Battleship Prototype |
+| | Testing (D) |
++-----------------------------------+-----------------------------------+
+
+#### [ Basic Battleship ]{#Basic_Battleship .mw-headline}
+
++-----------------------------------+-----------------------------------+
+| - Historic Year: 1936 | 7 - |
+| - Prerequisites: | [![naval                          |
+|                                   | _engineering](/images/0/09/Naval* |
+| `{=html}                        | engineering.png){file-height="24" |
+| <!-- -->                          | file-width="24"                   |
+| ` | url="/i |
+| - [Early | mages/0/09/Naval_engineering.png" |
+| Bat | decoding="async" height="24" |
+| tleship](/wiki/Naval_Tech_Tree#Ea | loading="lazy" |
+| rly_Battleship "Naval Tech Tree") | width="24" |
+| | }](/wiki/File:Naval_engineering.p |
+| `{=html}                        | ng "naval_engineering"){.image} - |
+| <!-- -->                          | Basic Battleship Hull             |
+| ` | |
+| - Effects: | 7 - |
+| | [![naval                          |
+| ```{=html}                        | _engineering](/images/0/09/Naval* |
+| <!-- --> | engineering.png){file-height="24" |
+| ``` | file-width="24" |
+| - Model is now obsolete. | url="/i |
+| battleship 0 | mages/0/09/Naval_engineering.png" |
+| - New Model battleship 2 | decoding="async" height="24" |
+| | loading="lazy" |
+| | width="24" |
+| | }](/wiki/File:Naval_engineering.p |
+| | ng "naval_engineering"){.image} - |
+| | Basic Battleship Propulsion |
+| | |
+| | 7 - |
+| | [![n                              |
+|                                   | aval_artillery](/images/e/ea/Nava |
+| | l_artillery.png){file-height="24" |
+| | file-width="24" |
+| | url=" |
+| | /images/e/ea/Naval_artillery.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width= |
+| | "24"}](/wiki/File:Naval_artillery |
+| | .png "naval_artillery"){.image} - |
+| | Naval Battleship Gun 350 |
+| | |
+| | 7 - |
+| | [![electronics](/images/d/dd/ |
+| | Electronics.png){file-height="24" |
+| | file-width="24" |
+| | u |
+| | rl="/images/d/dd/Electronics.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width="24"}](/wiki/File:Electro |
+| | nics.png "electronics"){.image} - |
+| | Advanced Optical Rangefinder |
+| | |
+| | 7 - |
+| | [![technical_e                    |
+|                                   | fficiency](/images/9/9d/Technical |
+| | \_efficiency.png){file-height="24" |
+| | file-width="24" |
+| | url="/imag |
+| | es/9/9d/Technical_efficiency.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width="24"}](/wi |
+| | ki/File:Technical_efficiency.png |
+| | "technical_efficiency"){.image} - |
+| | Basic Battleship Prototype |
+| | Testing (D) |
++-----------------------------------+-----------------------------------+
+
+#### [ Improved Battleship ]{#Improved_Battleship .mw-headline}
+
++-----------------------------------+-----------------------------------+
+| - Historic Year: 1936 | 7 - |
+| - Prerequisites: | [![naval                          |
+|                                   | _engineering](/images/0/09/Naval* |
+| `{=html}                        | engineering.png){file-height="24" |
+| <!-- -->                          | file-width="24"                   |
+| ` | url="/i |
+| - [Basic | mages/0/09/Naval_engineering.png" |
+| Bat | decoding="async" height="24" |
+| tleship](/wiki/Naval_Tech_Tree#Ba | loading="lazy" |
+| sic_Battleship "Naval Tech Tree") | width="24" |
+| | }](/wiki/File:Naval_engineering.p |
+| `{=html}                        | ng "naval_engineering"){.image} - |
+| <!-- -->                          | Improved Battleship Hull          |
+| ` | |
+| - Effects: | 7 - |
+| | [![naval                          |
+| ```{=html}                        | _engineering](/images/0/09/Naval* |
+| <!-- --> | engineering.png){file-height="24" |
+| ``` | file-width="24" |
+| - Model is now obsolete. | url="/i |
+| battleship 1 | mages/0/09/Naval_engineering.png" |
+| - New Model battleship 3 | decoding="async" height="24" |
+| | loading="lazy" |
+| | width="24" |
+| | }](/wiki/File:Naval_engineering.p |
+| | ng "naval_engineering"){.image} - |
+| | Improved Battleship Propulsion |
+| | |
+| | 7 - |
+| | [![n                              |
+|                                   | aval_artillery](/images/e/ea/Nava |
+| | l_artillery.png){file-height="24" |
+| | file-width="24" |
+| | url=" |
+| | /images/e/ea/Naval_artillery.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width= |
+| | "24"}](/wiki/File:Naval_artillery |
+| | .png "naval_artillery"){.image} - |
+| | Naval Battleship Gun 400 |
+| | |
+| | 7 - |
+| | [![electronics](/images/d/dd/ |
+| | Electronics.png){file-height="24" |
+| | file-width="24" |
+| | u |
+| | rl="/images/d/dd/Electronics.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width="24"}](/wiki/File:Electro |
+| | nics.png "electronics"){.image} - |
+| | Basic Decimetric Naval Artillery |
+| | Radar |
+| | |
+| | 7 - |
+| | [![technical_e                    |
+|                                   | fficiency](/images/9/9d/Technical |
+| | \_efficiency.png){file-height="24" |
+| | file-width="24" |
+| | url="/imag |
+| | es/9/9d/Technical_efficiency.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width="24"}](/wi |
+| | ki/File:Technical_efficiency.png |
+| | "technical_efficiency"){.image} - |
+| | Improved Battleship Prototype |
+| | Testing (D) |
++-----------------------------------+-----------------------------------+
+
+#### [ Advanced Battleship ]{#Advanced_Battleship .mw-headline}
+
++-----------------------------------+-----------------------------------+
+| - Historic Year: 1941 | 7 - |
+| - Prerequisites: | [![naval                          |
+|                                   | _engineering](/images/0/09/Naval* |
+| `{=html}                        | engineering.png){file-height="24" |
+| <!-- -->                          | file-width="24"                   |
+| ` | url="/i |
+| - [Improved | mages/0/09/Naval_engineering.png" |
+| Battle | decoding="async" height="24" |
+| ship](/wiki/Naval_Tech_Tree#Impro | loading="lazy" |
+| ved_Battleship "Naval Tech Tree") | width="24" |
+| | }](/wiki/File:Naval_engineering.p |
+| `{=html}                        | ng "naval_engineering"){.image} - |
+| <!-- -->                          | Advanced Battleship Hull          |
+| ` | |
+| - Effects: | 7 - |
+| | [![naval                          |
+| ```{=html}                        | _engineering](/images/0/09/Naval* |
+| <!-- --> | engineering.png){file-height="24" |
+| ``` | file-width="24" |
+| - New Model battleship 4 | url="/i |
+| - Model is now obsolete. | mages/0/09/Naval_engineering.png" |
+| battleship 2 | decoding="async" height="24" |
+| | loading="lazy" |
+| | width="24" |
+| | }](/wiki/File:Naval_engineering.p |
+| | ng "naval_engineering"){.image} - |
+| | Advanced Battleship Propulsion |
+| | |
+| | 7 - |
+| | [![n                              |
+|                                   | aval_artillery](/images/e/ea/Nava |
+| | l_artillery.png){file-height="24" |
+| | file-width="24" |
+| | url=" |
+| | /images/e/ea/Naval_artillery.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width= |
+| | "24"}](/wiki/File:Naval_artillery |
+| | .png "naval_artillery"){.image} - |
+| | Naval Battleship Gun 400 |
+| | |
+| | 7 - |
+| | [![electronics](/images/d/dd/ |
+| | Electronics.png){file-height="24" |
+| | file-width="24" |
+| | u |
+| | rl="/images/d/dd/Electronics.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width="24"}](/wiki/File:Electro |
+| | nics.png "electronics"){.image} - |
+| | Improved Decimetric Naval |
+| | Artillery Radar |
+| | |
+| | 7 - |
+| | [![technical_e                    |
+|                                   | fficiency](/images/9/9d/Technical |
+| | \_efficiency.png){file-height="24" |
+| | file-width="24" |
+| | url="/imag |
+| | es/9/9d/Technical_efficiency.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width="24"}](/wi |
+| | ki/File:Technical_efficiency.png |
+| | "technical_efficiency"){.image} - |
+| | Advanced Battleship Prototype |
+| | Testing (D) |
++-----------------------------------+-----------------------------------+
+
+#### [ Semi-Modern Battleship ]{#Semi-Modern_Battleship .mw-headline}
+
++-----------------------------------+-----------------------------------+
+| - Historic Year: 1945 | 7 - |
+| - Prerequisites: | [![naval                          |
+|                                   | _engineering](/images/0/09/Naval* |
+| `{=html}                        | engineering.png){file-height="24" |
+| <!-- -->                          | file-width="24"                   |
+| ` | url="/i |
+| - [Advanced | mages/0/09/Naval_engineering.png" |
+| Battle | decoding="async" height="24" |
+| ship](/wiki/Naval_Tech_Tree#Advan | loading="lazy" |
+| ced_Battleship "Naval Tech Tree") | width="24" |
+| | }](/wiki/File:Naval_engineering.p |
+| `{=html}                        | ng "naval_engineering"){.image} - |
+| <!-- -->                          | Semi-Modern Battleship Hull       |
+| ` | |
+| - Effects: | 7 - |
+| | [![naval                          |
+| ```{=html}                        | _engineering](/images/0/09/Naval* |
+| <!-- --> | engineering.png){file-height="24" |
+| ``` | file-width="24" |
+| - New Model battleship 5 | url="/i |
+| - Model is now obsolete. | mages/0/09/Naval_engineering.png" |
+| battleship 3 | decoding="async" height="24" |
+| | loading="lazy" |
+| | width="24" |
+| | }](/wiki/File:Naval_engineering.p |
+| | ng "naval_engineering"){.image} - |
+| | Semi-Modern Battleship Propulsion |
+| | |
+| | 7 - |
+| | [![n                              |
+|                                   | aval_artillery](/images/e/ea/Nava |
+| | l_artillery.png){file-height="24" |
+| | file-width="24" |
+| | url=" |
+| | /images/e/ea/Naval_artillery.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width= |
+| | "24"}](/wiki/File:Naval_artillery |
+| | .png "naval_artillery"){.image} - |
+| | Naval Battleship Gun 400 |
+| | |
+| | 7 - |
+| | [![electronics](/images/d/dd/ |
+| | Electronics.png){file-height="24" |
+| | file-width="24" |
+| | u |
+| | rl="/images/d/dd/Electronics.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width="24"}](/wiki/File:Electro |
+| | nics.png "electronics"){.image} - |
+| | Basic Centimetric Naval Artillery |
+| | Radar |
+| | |
+| | 7 - |
+| | [![technical_e                    |
+|                                   | fficiency](/images/9/9d/Technical |
+| | \_efficiency.png){file-height="24" |
+| | file-width="24" |
+| | url="/imag |
+| | es/9/9d/Technical_efficiency.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width="24"}](/wi |
+| | ki/File:Technical_efficiency.png |
+| | "technical_efficiency"){.image} - |
+| | Semi-Modern Battleship Prototype |
+| | Testing (D) |
++-----------------------------------+-----------------------------------+
+
+#### [ Super Heavy Battleship ]{#Super_Heavy_Battleship .mw-headline}
+
++-----------------------------------+-----------------------------------+
+| - Historic Year: 1938 | 7 - |
+| - Prerequisites: | [![naval                          |
+|                                   | _engineering](/images/0/09/Naval* |
+| `{=html}                        | engineering.png){file-height="24" |
+| <!-- -->                          | file-width="24"                   |
+| ` | url="/i |
+| - [Improved | mages/0/09/Naval_engineering.png" |
+| Battle | decoding="async" height="24" |
+| ship](/wiki/Naval_Tech_Tree#Impro | loading="lazy" |
+| ved_Battleship "Naval Tech Tree") | width="24" |
+| | }](/wiki/File:Naval_engineering.p |
+| `{=html}                        | ng "naval_engineering"){.image} - |
+| <!-- -->                          | Super Heavy Battleship Hull       |
+| ` | |
+| - Effects: | 7 - |
+| | [![naval                          |
+| ```{=html}                        | _engineering](/images/0/09/Naval* |
+| <!-- --> | engineering.png){file-height="24" |
+| ``` | file-width="24" |
+| - New Model battleship 6 | url="/i |
+| | mages/0/09/Naval_engineering.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width="24" |
+| | }](/wiki/File:Naval_engineering.p |
+| | ng "naval_engineering"){.image} - |
+| | Super Heavy Battleship Propulsion |
+| | |
+| | 7 - |
+| | [![n                              |
+|                                   | aval_artillery](/images/e/ea/Nava |
+| | l_artillery.png){file-height="24" |
+| | file-width="24" |
+| | url=" |
+| | /images/e/ea/Naval_artillery.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width= |
+| | "24"}](/wiki/File:Naval_artillery |
+| | .png "naval_artillery"){.image} - |
+| | Naval Battleship Gun 460 |
+| | |
+| | 7 - |
+| | [![electronics](/images/d/dd/ |
+| | Electronics.png){file-height="24" |
+| | file-width="24" |
+| | u |
+| | rl="/images/d/dd/Electronics.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width="24"}](/wiki/File:Electro |
+| | nics.png "electronics"){.image} - |
+| | Basic Centimetric Naval Artillery |
+| | Radar |
+| | |
+| | 7 - |
+| | [![technical_e                    |
+|                                   | fficiency](/images/9/9d/Technical |
+| | \_efficiency.png){file-height="24" |
+| | file-width="24" |
+| | url="/imag |
+| | es/9/9d/Technical_efficiency.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width="24"}](/wi |
+| | ki/File:Technical_efficiency.png |
+| | "technical_efficiency"){.image} - |
+| | Super Heavy Battleship Prototype |
+| | Testing (D) |
++-----------------------------------+-----------------------------------+
+
+### [ Air Carrier ]{#Air_Carrier .mw-headline}
+
+#### [ Great War Air Carrier ]{#Great_War_Air_Carrier .mw-headline}
+
++-----------------------------------+-----------------------------------+
+| - Historic Year: 1936 | 7 - |
+| - Prerequisites: None | [![naval                          |
+| -   Effects:                      | _engineering](/images/0/09/Naval* |
+| | engineering.png){file-height="24" |
+| `{=html}                        | file-width="24"                   |
+| <!-- -->                          | url="/i                           |
+| ` | mages/0/09/Naval_engineering.png" |
+| - Activate Unit Type carrier | decoding="async" height="24" |
+| - Activate Unit Type cag | loading="lazy" |
+| - New Model carrier 0 | width="24" |
+| - New Model cag 0 | }](/wiki/File:Naval_engineering.p |
+| | ng "naval_engineering"){.image} - |
+| | Great War Air Carrier Hull |
+| | |
+| | 7 - |
+| | [![naval                          |
+|                                   | _engineering](/images/0/09/Naval* |
+| | engineering.png){file-height="24" |
+| | file-width="24" |
+| | url="/i |
+| | mages/0/09/Naval_engineering.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width="24" |
+| | }](/wiki/File:Naval_engineering.p |
+| | ng "naval_engineering"){.image} - |
+| | Great War Air Carrier Propulsion |
+| | |
+| | 7 - |
+| | [![aeronautics](/images/a/a1/ |
+| | Aeronautics.png){file-height="24" |
+| | file-width="24" |
+| | u |
+| | rl="/images/a/a1/Aeronautics.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width="24"}](/wiki/File:Aeronau |
+| | tics.png "aeronautics"){.image} - |
+| | Sectional Flight Deck |
+| | |
+| | 7 - |
+| | [![electronics](/images/d/dd/ |
+| | Electronics.png){file-height="24" |
+| | file-width="24" |
+| | u |
+| | rl="/images/d/dd/Electronics.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width="24"}](/wiki/File:Electro |
+| | nics.png "electronics"){.image} - |
+| | Great War Carrier Aircraft Group |
+| | |
+| | 7 - |
+| | [![technical_e                    |
+|                                   | fficiency](/images/9/9d/Technical |
+| | \_efficiency.png){file-height="24" |
+| | file-width="24" |
+| | url="/imag |
+| | es/9/9d/Technical_efficiency.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width="24"}](/wi |
+| | ki/File:Technical_efficiency.png |
+| | "technical_efficiency"){.image} - |
+| | Great War Air Carrier Prototype |
+| | Testing (D) |
++-----------------------------------+-----------------------------------+
+
+#### [ Early Air Carrier ]{#Early_Air_Carrier .mw-headline}
+
++-----------------------------------+-----------------------------------+
+| - Historic Year: 1936 | 7 - |
+| - Prerequisites: | [![naval                          |
+|                                   | _engineering](/images/0/09/Naval* |
+| `{=html}                        | engineering.png){file-height="24" |
+| <!-- -->                          | file-width="24"                   |
+| ` | url="/i |
+| - [Great War Air | mages/0/09/Naval_engineering.png" |
+| Carri | decoding="async" height="24" |
+| er](/wiki/Naval_Tech_Tree#Great_W | loading="lazy" |
+| ar_Air_Carrier "Naval Tech Tree") | width="24" |
+| | }](/wiki/File:Naval_engineering.p |
+| `{=html}                        | ng "naval_engineering"){.image} - |
+| <!-- -->                          | Early Air Carrier Hull            |
+| ` | |
+| - Effects: | 7 - |
+| | [![naval                          |
+| ```{=html}                        | _engineering](/images/0/09/Naval* |
+| <!-- --> | engineering.png){file-height="24" |
+| ``` | file-width="24" |
+| - New Model carrier 1 | url="/i |
+| - New Model cag 1 | mages/0/09/Naval_engineering.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width="24" |
+| | }](/wiki/File:Naval_engineering.p |
+| | ng "naval_engineering"){.image} - |
+| | Early Air Carrier Propulsion |
+| | |
+| | 7 - |
+| | [![aeronautics](/images/a/a1/ |
+| | Aeronautics.png){file-height="24" |
+| | file-width="24" |
+| | u |
+| | rl="/images/a/a1/Aeronautics.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width="24"}](/wiki/File:Aeronau |
+| | tics.png "aeronautics"){.image} - |
+| | Experimental Straight Flight Deck |
+| | |
+| | 7 - |
+| | [![electronics](/images/d/dd/ |
+| | Electronics.png){file-height="24" |
+| | file-width="24" |
+| | u |
+| | rl="/images/d/dd/Electronics.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width="24"}](/wiki/File:Electro |
+| | nics.png "electronics"){.image} - |
+| | Early Carrier Aircraft Group |
+| | |
+| | 7 - |
+| | [![technical_e                    |
+|                                   | fficiency](/images/9/9d/Technical |
+| | \_efficiency.png){file-height="24" |
+| | file-width="24" |
+| | url="/imag |
+| | es/9/9d/Technical_efficiency.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width="24"}](/wi |
+| | ki/File:Technical_efficiency.png |
+| | "technical_efficiency"){.image} - |
+| | Early Air Carrier Prototype |
+| | Testing (D) |
++-----------------------------------+-----------------------------------+
+
+#### [ Basic Air Carrier ]{#Basic_Air_Carrier .mw-headline}
+
++-----------------------------------+-----------------------------------+
+| - Historic Year: 1936 | 7 - |
+| - Prerequisites: | [![naval                          |
+|                                   | _engineering](/images/0/09/Naval* |
+| `{=html}                        | engineering.png){file-height="24" |
+| <!-- -->                          | file-width="24"                   |
+| ` | url="/i |
+| - [Early Air | mages/0/09/Naval_engineering.png" |
+| C | decoding="async" height="24" |
+| arrier](/wiki/Naval_Tech_Tree#Ear | loading="lazy" |
+| ly_Air_Carrier "Naval Tech Tree") | width="24" |
+| | }](/wiki/File:Naval_engineering.p |
+| `{=html}                        | ng "naval_engineering"){.image} - |
+| <!-- -->                          | Basic Air Carrier Hull            |
+| ` | |
+| - Effects: | 7 - |
+| | [![naval                          |
+| ```{=html}                        | _engineering](/images/0/09/Naval* |
+| <!-- --> | engineering.png){file-height="24" |
+| ``` | file-width="24" |
+| - New Model carrier 2 | url="/i |
+| - New Model cag 2 | mages/0/09/Naval_engineering.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width="24" |
+| | }](/wiki/File:Naval_engineering.p |
+| | ng "naval_engineering"){.image} - |
+| | Basic Air Carrier Propulsion |
+| | |
+| | 7 - |
+| | [![aeronautics](/images/a/a1/ |
+| | Aeronautics.png){file-height="24" |
+| | file-width="24" |
+| | u |
+| | rl="/images/a/a1/Aeronautics.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width="24"}](/wiki/File:Aeronau |
+| | tics.png "aeronautics"){.image} - |
+| | Straight Flight Deck |
+| | |
+| | 7 - |
+| | [![electronics](/images/d/dd/ |
+| | Electronics.png){file-height="24" |
+| | file-width="24" |
+| | u |
+| | rl="/images/d/dd/Electronics.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width="24"}](/wiki/File:Electro |
+| | nics.png "electronics"){.image} - |
+| | Basic Carrier Aircraft Group |
+| | |
+| | 7 - |
+| | [![technical_e                    |
+|                                   | fficiency](/images/9/9d/Technical |
+| | \_efficiency.png){file-height="24" |
+| | file-width="24" |
+| | url="/imag |
+| | es/9/9d/Technical_efficiency.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width="24"}](/wi |
+| | ki/File:Technical_efficiency.png |
+| | "technical_efficiency"){.image} - |
+| | Basic Air Carrier Prototype |
+| | Testing (D) |
++-----------------------------------+-----------------------------------+
+
+#### [ Improved Air Carrier ]{#Improved_Air_Carrier .mw-headline}
+
++-----------------------------------+-----------------------------------+
+| - Historic Year: 1938 | 7 - |
+| - Prerequisites: | [![naval                          |
+|                                   | _engineering](/images/0/09/Naval* |
+| `{=html}                        | engineering.png){file-height="24" |
+| <!-- -->                          | file-width="24"                   |
+| ` | url="/i |
+| - [Basic Air | mages/0/09/Naval_engineering.png" |
+| C | decoding="async" height="24" |
+| arrier](/wiki/Naval_Tech_Tree#Bas | loading="lazy" |
+| ic_Air_Carrier "Naval Tech Tree") | width="24" |
+| | }](/wiki/File:Naval_engineering.p |
+| `{=html}                        | ng "naval_engineering"){.image} - |
+| <!-- -->                          | Improved Air Carrier Hull         |
+| ` | |
+| - Effects: | 7 - |
+| | [![naval                          |
+| ```{=html}                        | _engineering](/images/0/09/Naval* |
+| <!-- --> | engineering.png){file-height="24" |
+| ``` | file-width="24" |
+| - New Model carrier 3 | url="/i |
+| - New Model cag 3 | mages/0/09/Naval_engineering.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width="24" |
+| | }](/wiki/File:Naval_engineering.p |
+| | ng "naval_engineering"){.image} - |
+| | Improved Air Carrier Propulsion |
+| | |
+| | 7 - |
+| | [![aeronautics](/images/a/a1/ |
+| | Aeronautics.png){file-height="24" |
+| | file-width="24" |
+| | u |
+| | rl="/images/a/a1/Aeronautics.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width="24"}](/wiki/File:Aeronau |
+| | tics.png "aeronautics"){.image} - |
+| | Armored Straight Flight Deck |
+| | |
+| | 7 - |
+| | [![electronics](/images/d/dd/ |
+| | Electronics.png){file-height="24" |
+| | file-width="24" |
+| | u |
+| | rl="/images/d/dd/Electronics.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width="24"}](/wiki/File:Electro |
+| | nics.png "electronics"){.image} - |
+| | Improved Carrier Aircraft Group |
+| | |
+| | 7 - |
+| | [![technical_e                    |
+|                                   | fficiency](/images/9/9d/Technical |
+| | \_efficiency.png){file-height="24" |
+| | file-width="24" |
+| | url="/imag |
+| | es/9/9d/Technical_efficiency.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width="24"}](/wi |
+| | ki/File:Technical_efficiency.png |
+| | "technical_efficiency"){.image} - |
+| | Improved Air Carrier Prototype |
+| | Testing (D) |
++-----------------------------------+-----------------------------------+
+
+#### [ Advanced Air Carrier ]{#Advanced_Air_Carrier .mw-headline}
+
++-----------------------------------+-----------------------------------+
+| - Historic Year: 1941 | 7 - |
+| - Prerequisites: | [![naval                          |
+|                                   | _engineering](/images/0/09/Naval* |
+| `{=html}                        | engineering.png){file-height="24" |
+| <!-- -->                          | file-width="24"                   |
+| ` | url="/i |
+| - [Improved Air | mages/0/09/Naval_engineering.png" |
+| Carr | decoding="async" height="24" |
+| ier](/wiki/Naval_Tech_Tree#Improv | loading="lazy" |
+| ed_Air_Carrier "Naval Tech Tree") | width="24" |
+| | }](/wiki/File:Naval_engineering.p |
+| `{=html}                        | ng "naval_engineering"){.image} - |
+| <!-- -->                          | Advanced Air Carrier Hull         |
+| ` | |
+| - Effects: | 7 - |
+| | [![naval                          |
+| ```{=html}                        | _engineering](/images/0/09/Naval* |
+| <!-- --> | engineering.png){file-height="24" |
+| ``` | file-width="24" |
+| - New Model carrier 4 | url="/i |
+| - New Model cag 4 | mages/0/09/Naval_engineering.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width="24" |
+| | }](/wiki/File:Naval_engineering.p |
+| | ng "naval_engineering"){.image} - |
+| | Advanced Air Carrier Propulsion |
+| | |
+| | 7 - |
+| | [![aeronautics](/images/a/a1/ |
+| | Aeronautics.png){file-height="24" |
+| | file-width="24" |
+| | u |
+| | rl="/images/a/a1/Aeronautics.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width="24"}](/wiki/File:Aeronau |
+| | tics.png "aeronautics"){.image} - |
+| | Angled Flight Deck |
+| | |
+| | 7 - |
+| | [![electronics](/images/d/dd/ |
+| | Electronics.png){file-height="24" |
+| | file-width="24" |
+| | u |
+| | rl="/images/d/dd/Electronics.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width="24"}](/wiki/File:Electro |
+| | nics.png "electronics"){.image} - |
+| | Advanced Carrier Aircraft Group |
+| | |
+| | 7 - |
+| | [![technical_e                    |
+|                                   | fficiency](/images/9/9d/Technical |
+| | \_efficiency.png){file-height="24" |
+| | file-width="24" |
+| | url="/imag |
+| | es/9/9d/Technical_efficiency.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width="24"}](/wi |
+| | ki/File:Technical_efficiency.png |
+| | "technical_efficiency"){.image} - |
+| | Advanced Air Carrier Prototype |
+| | Testing (D) |
++-----------------------------------+-----------------------------------+
+
+#### [ Heavy Advanced Air Carrier ]{#Heavy_Advanced_Air_Carrier .mw-headline}
+
++-----------------------------------+-----------------------------------+
+| - Historic Year: 1943 | 7 - |
+| - Prerequisites: | [![naval                          |
+|                                   | _engineering](/images/0/09/Naval* |
+| `{=html}                        | engineering.png){file-height="24" |
+| <!-- -->                          | file-width="24"                   |
+| ` | url="/i |
+| - [Advanced Air | mages/0/09/Naval_engineering.png" |
+| Carr | decoding="async" height="24" |
+| ier](/wiki/Naval_Tech_Tree#Advanc | loading="lazy" |
+| ed_Air_Carrier "Naval Tech Tree") | width="24" |
+| | }](/wiki/File:Naval_engineering.p |
+| `{=html}                        | ng "naval_engineering"){.image} - |
+| <!-- -->                          | Advanced Air Carrier Heavy Hull   |
+| ` | |
+| - Effects: | 7 - |
+| | [![naval                          |
+| ```{=html}                        | _engineering](/images/0/09/Naval* |
+| <!-- --> | engineering.png){file-height="24" |
+| ``` | file-width="24" |
+| - New Model carrier 5 | url="/i |
+| - New Model cag 5 | mages/0/09/Naval_engineering.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width="24" |
+| | }](/wiki/File:Naval_engineering.p |
+| | ng "naval_engineering"){.image} - |
+| | Advanced Air Carrier Propulsion |
+| | |
+| | 7 - |
+| | [![aeronautics](/images/a/a1/ |
+| | Aeronautics.png){file-height="24" |
+| | file-width="24" |
+| | u |
+| | rl="/images/a/a1/Aeronautics.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width="24"}](/wiki/File:Aeronau |
+| | tics.png "aeronautics"){.image} - |
+| | Armored Angled Flight Deck |
+| | |
+| | 7 - |
+| | [![electronics](/images/d/dd/ |
+| | Electronics.png){file-height="24" |
+| | file-width="24" |
+| | u |
+| | rl="/images/d/dd/Electronics.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width="24"}](/wiki/File:Electro |
+| | nics.png "electronics"){.image} - |
+| | Heavy Advanced Carrier Aircraft |
+| | Group |
+| | |
+| | 7 - |
+| | [![technical_e                    |
+|                                   | fficiency](/images/9/9d/Technical |
+| | \_efficiency.png){file-height="24" |
+| | file-width="24" |
+| | url="/imag |
+| | es/9/9d/Technical_efficiency.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width="24"}](/wi |
+| | ki/File:Technical_efficiency.png |
+| | "technical_efficiency"){.image} - |
+| | Advanced Air Carrier Prototype |
+| | Testing (D) |
++-----------------------------------+-----------------------------------+
+
+#### [ Super Heavy Advanced Air Carrier ]{#Super_Heavy_Advanced_Air_Carrier .mw-headline}
+
++-----------------------------------+-----------------------------------+
+| - Historic Year: 1944 | 7 - |
+| - Prerequisites: | [![naval                          |
+|                                   | _engineering](/images/0/09/Naval* |
+| `{=html}                        | engineering.png){file-height="24" |
+| <!-- -->                          | file-width="24"                   |
+| ` | url="/i |
+| - [Heavy Advanced Air | mages/0/09/Naval_engineering.png" |
+| Carrier](/ | decoding="async" height="24" |
+| wiki/Naval_Tech_Tree#Heavy_Advanc | loading="lazy" |
+| ed_Air_Carrier "Naval Tech Tree") | width="24" |
+| | }](/wiki/File:Naval_engineering.p |
+| `{=html}                        | ng "naval_engineering"){.image} - |
+| <!-- -->                          | Advanced Air Carrier Super Heavy  |
+| ` | Hull |
+| - Effects: | |
+| | 7 - |
+| ```{=html} | [![naval                          |
+| <!-- -->                          | _engineering](/images/0/09/Naval* |
+| ``` | engineering.png){file-height="24" |
+| - New Model carrier 6 | file-width="24" |
+| - New Model cag 6 | url="/i |
+| | mages/0/09/Naval_engineering.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width="24" |
+| | }](/wiki/File:Naval_engineering.p |
+| | ng "naval_engineering"){.image} - |
+| | Advanced Air Carrier Propulsion |
+| | |
+| | 7 - |
+| | [![aeronautics](/images/a/a1/ |
+| | Aeronautics.png){file-height="24" |
+| | file-width="24" |
+| | u |
+| | rl="/images/a/a1/Aeronautics.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width="24"}](/wiki/File:Aeronau |
+| | tics.png "aeronautics"){.image} - |
+| | Armored Angled Flight Deck |
+| | |
+| | 7 - |
+| | [![electronics](/images/d/dd/ |
+| | Electronics.png){file-height="24" |
+| | file-width="24" |
+| | u |
+| | rl="/images/d/dd/Electronics.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width="24"}](/wiki/File:Electro |
+| | nics.png "electronics"){.image} - |
+| | Super Heavy Advanced Carrier |
+| | Aircraft Group |
+| | |
+| | 7 - |
+| | [![technical_e                    |
+|                                   | fficiency](/images/9/9d/Technical |
+| | \_efficiency.png){file-height="24" |
+| | file-width="24" |
+| | url="/imag |
+| | es/9/9d/Technical_efficiency.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width="24"}](/wi |
+| | ki/File:Technical_efficiency.png |
+| | "technical_efficiency"){.image} - |
+| | Advanced Air Carrier Prototype |
+| | Testing (D) |
++-----------------------------------+-----------------------------------+
+
+#### [ Semi-Modern Air Carrier ]{#Semi-Modern_Air_Carrier .mw-headline}
+
++-----------------------------------+-----------------------------------+
+| - Historic Year: 1945 | 7 - |
+| - Prerequisites: | [![naval                          |
+|                                   | _engineering](/images/0/09/Naval* |
+| `{=html}                        | engineering.png){file-height="24" |
+| <!-- -->                          | file-width="24"                   |
+| ` | url="/i |
+| - [Super Heavy Advanced Air | mages/0/09/Naval_engineering.png" |
+| Carrier](/wiki/N | decoding="async" height="24" |
+| aval_Tech_Tree#Super_Heavy_Advanc | loading="lazy" |
+| ed_Air_Carrier "Naval Tech Tree") | width="24" |
+| | }](/wiki/File:Naval_engineering.p |
+| `{=html}                        | ng "naval_engineering"){.image} - |
+| <!-- -->                          | Semi-Modern Air Carrier Hull      |
+| ` | |
+| - Effects: | 7 - |
+| | [![naval                          |
+| ```{=html}                        | _engineering](/images/0/09/Naval* |
+| <!-- --> | engineering.png){file-height="24" |
+| ``` | file-width="24" |
+| - New Model carrier 7 | url="/i |
+| - New Model cag 7 | mages/0/09/Naval_engineering.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width="24" |
+| | }](/wiki/File:Naval_engineering.p |
+| | ng "naval_engineering"){.image} - |
+| | Semi-Modern Air Carrier |
+| | Propulsion |
+| | |
+| | 7 - |
+| | [![aeronautics](/images/a/a1/ |
+| | Aeronautics.png){file-height="24" |
+| | file-width="24" |
+| | u |
+| | rl="/images/a/a1/Aeronautics.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width="24"}](/wiki/File:Aeronau |
+| | tics.png "aeronautics"){.image} - |
+| | Floating Airbase Deck |
+| | |
+| | 7 - |
+| | [![electronics](/images/d/dd/ |
+| | Electronics.png){file-height="24" |
+| | file-width="24" |
+| | u |
+| | rl="/images/d/dd/Electronics.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width="24"}](/wiki/File:Electro |
+| | nics.png "electronics"){.image} - |
+| | Semi-Modern Carrier Aircraft |
+| | Group |
+| | |
+| | 7 - |
+| | [![technical_e                    |
+|                                   | fficiency](/images/9/9d/Technical |
+| | \_efficiency.png){file-height="24" |
+| | file-width="24" |
+| | url="/imag |
+| | es/9/9d/Technical_efficiency.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width="24"}](/wi |
+| | ki/File:Technical_efficiency.png |
+| | "technical_efficiency"){.image} - |
+| | Semi-Modern Air Carrier Prototype |
+| | Testing (D) |
++-----------------------------------+-----------------------------------+
+
+### [ Submarine ]{#Submarine .mw-headline}
+
+#### [ Dive Boat ]{#Dive_Boat .mw-headline}
+
++-----------------------------------+-----------------------------------+
+| - Historic Year: 1936 | 5 - |
+| - Prerequisites: None | [![naval                          |
+| -   Effects:                      | _engineering](/images/0/09/Naval* |
+| | engineering.png){file-height="24" |
+| `{=html}                        | file-width="24"                   |
+| <!-- -->                          | url="/i                           |
+| ` | mages/0/09/Naval_engineering.png" |
+| - Activate Unit Type submarine | decoding="async" height="24" |
+| - New Model submarine 0 | loading="lazy" |
+| | width="24" |
+| | }](/wiki/File:Naval_engineering.p |
+| | ng "naval_engineering"){.image} - |
+| | Experimental Pressure Hull |
+| | |
+| | 5 - |
+| | [![naval                          |
+|                                   | _engineering](/images/0/09/Naval* |
+| | engineering.png){file-height="24" |
+| | file-width="24" |
+| | url="/i |
+| | mages/0/09/Naval_engineering.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width="24" |
+| | }](/wiki/File:Naval_engineering.p |
+| | ng "naval_engineering"){.image} - |
+| | Basic Bronze Periscope |
+| | |
+| | 5 - |
+| | [![gener                          |
+|                                   | al_equipment](/images/2/20/Genera |
+| | l_equipment.png){file-height="24" |
+| | file-width="24" |
+| | url="/i |
+| | mages/2/20/General_equipment.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width="24" |
+| | }](/wiki/File:General_equipment.p |
+| | ng "general_equipment"){.image} - |
+| | Basic Compass |
+| | |
+| | 5 - |
+| | [![electronics](/images/d/dd/ |
+| | Electronics.png){file-height="24" |
+| | file-width="24" |
+| | u |
+| | rl="/images/d/dd/Electronics.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width="24"}](/wiki/File:Electro |
+| | nics.png "electronics"){.image} - |
+| | Diving Rudder |
+| | |
+| | 5 - |
+| | [![technical_e                    |
+|                                   | fficiency](/images/9/9d/Technical |
+| | \_efficiency.png){file-height="24" |
+| | file-width="24" |
+| | url="/imag |
+| | es/9/9d/Technical_efficiency.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width="24"}](/wi |
+| | ki/File:Technical_efficiency.png |
+| | "technical_efficiency"){.image} - |
+| | Dive Boat Prototype Testing (D) |
++-----------------------------------+-----------------------------------+
+
+#### [ Short Range Submarine ]{#Short_Range_Submarine .mw-headline}
+
++-----------------------------------+-----------------------------------+
+| - Historic Year: 1936 | 5 - |
+| - Prerequisites: | [![naval                          |
+|                                   | _engineering](/images/0/09/Naval* |
+| `{=html}                        | engineering.png){file-height="24" |
+| <!-- -->                          | file-width="24"                   |
+| ` | url="/i |
+| - [Dive | mages/0/09/Naval_engineering.png" |
+| Boat](/wiki/Naval_Tech* | decoding="async" height="24" |
+| Tree#Dive*Boat "Naval Tech Tree") | loading="lazy" |
+| | width="24" |
+| `{=html}                        | }](/wiki/File:Naval_engineering.p |
+| <!-- -->                          | ng "naval_engineering"){.image} - |
+| ` | Basic Pressure Hull |
+| - Effects: | |
+| | 5 - |
+| ```{=html} | [![naval                          |
+| <!-- -->                          | _engineering](/images/0/09/Naval* |
+| ``` | engineering.png){file-height="24" |
+| - New Model submarine 1 | file-width="24" |
+| | url="/i |
+| | mages/0/09/Naval_engineering.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width="24" |
+| | }](/wiki/File:Naval_engineering.p |
+| | ng "naval_engineering"){.image} - |
+| | Improved Bronze Periscope |
+| | |
+| | 5 - |
+| | [![gener                          |
+|                                   | al_equipment](/images/2/20/Genera |
+| | l_equipment.png){file-height="24" |
+| | file-width="24" |
+| | url="/i |
+| | mages/2/20/General_equipment.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width="24" |
+| | }](/wiki/File:General_equipment.p |
+| | ng "general_equipment"){.image} - |
+| | Tower Compass |
+| | |
+| | 5 - |
+| | [![electronics](/images/d/dd/ |
+| | Electronics.png){file-height="24" |
+| | file-width="24" |
+| | u |
+| | rl="/images/d/dd/Electronics.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width="24"}](/wiki/File:Electro |
+| | nics.png "electronics"){.image} - |
+| | Underwater Elevation Rudder |
+| | |
+| | 5 - |
+| | [![technical_e                    |
+|                                   | fficiency](/images/9/9d/Technical |
+| | \_efficiency.png){file-height="24" |
+| | file-width="24" |
+| | url="/imag |
+| | es/9/9d/Technical_efficiency.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width="24"}](/wi |
+| | ki/File:Technical_efficiency.png |
+| | "technical_efficiency"){.image} - |
+| | Short Range Submarine Prototype |
+| | Testing (D) |
++-----------------------------------+-----------------------------------+
+
+#### [ Medium Range Submarine ]{#Medium_Range_Submarine .mw-headline}
+
++-----------------------------------+-----------------------------------+
+| - Historic Year: 1936 | 5 - |
+| - Prerequisites: | [![naval                          |
+|                                   | _engineering](/images/0/09/Naval* |
+| `{=html}                        | engineering.png){file-height="24" |
+| <!-- -->                          | file-width="24"                   |
+| ` | url="/i |
+| - [Short Range | mages/0/09/Naval_engineering.png" |
+| Submari | decoding="async" height="24" |
+| ne](/wiki/Naval_Tech_Tree#Short_R | loading="lazy" |
+| ange_Submarine "Naval Tech Tree") | width="24" |
+| | }](/wiki/File:Naval_engineering.p |
+| `{=html}                        | ng "naval_engineering"){.image} - |
+| <!-- -->                          | Improved Pressure Hull            |
+| ` | |
+| - Effects: | 5 - |
+| | [![naval                          |
+| ```{=html}                        | _engineering](/images/0/09/Naval* |
+| <!-- --> | engineering.png){file-height="24" |
+| ``` | file-width="24" |
+| - Model is now obsolete. | url="/i |
+| submarine 0 | mages/0/09/Naval_engineering.png" |
+| - New Model submarine 2 | decoding="async" height="24" |
+| | loading="lazy" |
+| | width="24" |
+| | }](/wiki/File:Naval_engineering.p |
+| | ng "naval_engineering"){.image} - |
+| | Steel Periscope |
+| | |
+| | 5 - |
+| | [![gener                          |
+|                                   | al_equipment](/images/2/20/Genera |
+| | l_equipment.png){file-height="24" |
+| | file-width="24" |
+| | url="/i |
+| | mages/2/20/General_equipment.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width="24" |
+| | }](/wiki/File:General_equipment.p |
+| | ng "general_equipment"){.image} - |
+| | Nautical Gyrocompass |
+| | |
+| | 5 - |
+| | [![electronics](/images/d/dd/ |
+| | Electronics.png){file-height="24" |
+| | file-width="24" |
+| | u |
+| | rl="/images/d/dd/Electronics.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width="24"}](/wiki/File:Electro |
+| | nics.png "electronics"){.image} - |
+| | Submarine Diesel Engine |
+| | |
+| | 5 - |
+| | [![technical_e                    |
+|                                   | fficiency](/images/9/9d/Technical |
+| | \_efficiency.png){file-height="24" |
+| | file-width="24" |
+| | url="/imag |
+| | es/9/9d/Technical_efficiency.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width="24"}](/wi |
+| | ki/File:Technical_efficiency.png |
+| | "technical_efficiency"){.image} - |
+| | Medium Range Submarine Prototype |
+| | Testing (D) |
++-----------------------------------+-----------------------------------+
+
+#### [ Long Range Submarine ]{#Long_Range_Submarine .mw-headline}
+
++-----------------------------------+-----------------------------------+
+| - Historic Year: 1938 | 5 - |
+| - Prerequisites: | [![naval                          |
+|                                   | _engineering](/images/0/09/Naval* |
+| `{=html}                        | engineering.png){file-height="24" |
+| <!-- -->                          | file-width="24"                   |
+| ` | url="/i |
+| - [Medium Range | mages/0/09/Naval_engineering.png" |
+| Submarin | decoding="async" height="24" |
+| e](/wiki/Naval_Tech_Tree#Medium_R | loading="lazy" |
+| ange_Submarine "Naval Tech Tree") | width="24" |
+| | }](/wiki/File:Naval_engineering.p |
+| `{=html}                        | ng "naval_engineering"){.image} - |
+| <!-- -->                          | Advanced Pressure Hull            |
+| ` | |
+| - Effects: | 5 - |
+| | [![naval                          |
+| ```{=html}                        | _engineering](/images/0/09/Naval* |
+| <!-- --> | engineering.png){file-height="24" |
+| ``` | file-width="24" |
+| - Model is now obsolete. | url="/i |
+| submarine 1 | mages/0/09/Naval_engineering.png" |
+| - New Model submarine 3 | decoding="async" height="24" |
+| | loading="lazy" |
+| | width="24" |
+| | }](/wiki/File:Naval_engineering.p |
+| | ng "naval_engineering"){.image} - |
+| | Basic Schnorkel |
+| | |
+| | 5 - |
+| | [![gener                          |
+|                                   | al_equipment](/images/2/20/Genera |
+| | l_equipment.png){file-height="24" |
+| | file-width="24" |
+| | url="/i |
+| | mages/2/20/General_equipment.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width="24" |
+| | }](/wiki/File:General_equipment.p |
+| | ng "general_equipment"){.image} - |
+| | Large Fuel Tank Design |
+| | |
+| | 5 - |
+| | [![electronics](/images/d/dd/ |
+| | Electronics.png){file-height="24" |
+| | file-width="24" |
+| | u |
+| | rl="/images/d/dd/Electronics.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width="24"}](/wiki/File:Electro |
+| | nics.png "electronics"){.image} - |
+| | Advanced Torpedo Chambers |
+| | |
+| | 5 - |
+| | [![technical_e                    |
+|                                   | fficiency](/images/9/9d/Technical |
+| | \_efficiency.png){file-height="24" |
+| | file-width="24" |
+| | url="/imag |
+| | es/9/9d/Technical_efficiency.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width="24"}](/wi |
+| | ki/File:Technical_efficiency.png |
+| | "technical_efficiency"){.image} - |
+| | Long Range Submarine Prototype |
+| | Testing (D) |
++-----------------------------------+-----------------------------------+
+
+#### [ Electro Submarine ]{#Electro_Submarine .mw-headline}
+
++-----------------------------------+-----------------------------------+
+| - Historic Year: 1944 | 5 - |
+| - Prerequisites: | [![naval                          |
+|                                   | _engineering](/images/0/09/Naval* |
+| `{=html}                        | engineering.png){file-height="24" |
+| <!-- -->                          | file-width="24"                   |
+| ` | url="/i |
+| - [Long Range | mages/0/09/Naval_engineering.png" |
+| Submar | decoding="async" height="24" |
+| ine](/wiki/Naval_Tech_Tree#Long_R | loading="lazy" |
+| ange_Submarine "Naval Tech Tree") | width="24" |
+| | }](/wiki/File:Naval_engineering.p |
+| `{=html}                        | ng "naval_engineering"){.image} - |
+| <!-- -->                          | Streamlined Pressure Hull         |
+| ` | |
+| - Effects: | 5 - |
+| | [![naval                          |
+| ```{=html}                        | _engineering](/images/0/09/Naval* |
+| <!-- --> | engineering.png){file-height="24" |
+| ``` | file-width="24" |
+| - New Model submarine 4 | url="/i |
+| - Model is now obsolete. | mages/0/09/Naval*engineering.png" |
+| submarine 2 | decoding="async" height="24" |
+| | loading="lazy" |
+| | width="24" |
+| | }](/wiki/File:Naval_engineering.p |
+| | ng "naval_engineering"){.image} - |
+| | Improved Schnorkel |
+| | |
+| | 5 - |
+| | [![naval                          |
+|                                   | _engineering](/images/0/09/Naval* |
+| | engineering.png){file-height="24" |
+| | file-width="24" |
+| | url="/i |
+| | mages/0/09/Naval_engineering.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width="24" |
+| | }](/wiki/File:Naval_engineering.p |
+| | ng "naval_engineering"){.image} - |
+| | Closed Cycle Engine |
+| | |
+| | 5 - |
+| | [![electronics](/images/d/dd/ |
+| | Electronics.png){file-height="24" |
+| | file-width="24" |
+| | u |
+| | rl="/images/d/dd/Electronics.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width="24"}](/wiki/File:Electro |
+| | nics.png "electronics"){.image} - |
+| | Air Condition and Cooling System |
+| | |
+| | 5 - |
+| | [![technical_e                    |
+|                                   | fficiency](/images/9/9d/Technical |
+| | \_efficiency.png){file-height="24" |
+| | file-width="24" |
+| | url="/imag |
+| | es/9/9d/Technical_efficiency.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width="24"}](/wi |
+| | ki/File:Technical_efficiency.png |
+| | "technical_efficiency"){.image} - |
+| | Electro Submarine Prototype |
+| | Testing (D) |
++-----------------------------------+-----------------------------------+
+
+#### [ Semi-Modern Submarine ]{#Semi-Modern_Submarine .mw-headline}
+
++-----------------------------------+-----------------------------------+
+| - Historic Year: 1945 | 5 - |
+| - Prerequisites: | [![naval                          |
+|                                   | _engineering](/images/0/09/Naval* |
+| `{=html}                        | engineering.png){file-height="24" |
+| <!-- -->                          | file-width="24"                   |
+| ` | url="/i |
+| - [Electro | mages/0/09/Naval_engineering.png" |
+| Sub | decoding="async" height="24" |
+| marine](/wiki/Naval_Tech_Tree#Ele | loading="lazy" |
+| ctro_Submarine "Naval Tech Tree") | width="24" |
+| | }](/wiki/File:Naval_engineering.p |
+| `{=html}                        | ng "naval_engineering"){.image} - |
+| <!-- -->                          | Coated Pressure Hull              |
+| ` | |
+| - Effects: | 5 - |
+| | [![naval                          |
+| ```{=html}                        | _engineering](/images/0/09/Naval* |
+| <!-- --> | engineering.png){file-height="24" |
+| ``` | file-width="24" |
+| - New Model submarine 5 | url="/i |
+| - Model is now obsolete. | mages/0/09/Naval*engineering.png" |
+| submarine 3 | decoding="async" height="24" |
+| | loading="lazy" |
+| | width="24" |
+| | }](/wiki/File:Naval_engineering.p |
+| | ng "naval_engineering"){.image} - |
+| | Advanced Schnorkel |
+| | |
+| | 5 - |
+| | [![naval                          |
+|                                   | _engineering](/images/0/09/Naval* |
+| | engineering.png){file-height="24" |
+| | file-width="24" |
+| | url="/i |
+| | mages/0/09/Naval_engineering.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width="24" |
+| | }](/wiki/File:Naval_engineering.p |
+| | ng "naval_engineering"){.image} - |
+| | Single Propeller Silent Engine |
+| | |
+| | 5 - |
+| | [![electronics](/images/d/dd/ |
+| | Electronics.png){file-height="24" |
+| | file-width="24" |
+| | u |
+| | rl="/images/d/dd/Electronics.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width="24"}](/wiki/File:Electro |
+| | nics.png "electronics"){.image} - |
+| | Anti-Radar Rubber Coating |
+| | |
+| | 5 - |
+| | [![technical_e                    |
+|                                   | fficiency](/images/9/9d/Technical |
+| | \_efficiency.png){file-height="24" |
+| | file-width="24" |
+| | url="/imag |
+| | es/9/9d/Technical_efficiency.png" |
+| | decoding="async" height="24" |
+| | loading="lazy" |
+| | width="24"}](/wi |
+| | ki/File:Technical_efficiency.png |
+| | "technical_efficiency"){.image} - |
+| | Semi-Modern Submarine Prototype |
+| | Testing (D) |
++-----------------------------------+-----------------------------------+
+:::

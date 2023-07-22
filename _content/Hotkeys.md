@@ -2,42 +2,56 @@
 title: Hotkeys
 ---
 
+::: mw-parser-output
 An incomplete list of hotkeys.
 
-## Contents
+::: {#toc .toc aria-labelledby="mw-toc-heading" role="navigation"}
+::: {.toctitle dir="ltr" lang="en"}
 
-- [1 General](#General)
-- [2 When a province is selected](#When_a_province_is_selected)
-- [3 When a unit is selected](#When_a_unit_is_selected)
-- [4 Control groups](#Control_groups)
-- [5 Macintosh Version](#Macintosh_Version)
+## Contents {#mw-toc-heading}
 
-## General
+[ ]{.toctogglespan}
+:::
 
-- 1..................................Switch to map view
-- ^..................................Search province by name
-- Page up, page down......Select next/previous unit. (Boudi 2006/06/14.)
+- [[ 1 ]{.tocnumber} [ General ]{.toctext}](#General)
+- [[ 2 ]{.tocnumber} [ When a province is selected
+  ]{.toctext}](#When_a_province_is_selected)
+- [[ 3 ]{.tocnumber} [ When a unit is selected
+  ]{.toctext}](#When_a_unit_is_selected)
+- [[ 4 ]{.tocnumber} [ Control groups ]{.toctext}](#Control_groups)
+- [[ 5 ]{.tocnumber} [ Macintosh Version
+  ]{.toctext}](#Macintosh_Version)
+  :::
 
-## When a province is selected
+## [ General ]{#General .mw-headline}
 
-- A.....Build anti-air
-- C.....Build coast fort
-- I.....Build industry
-- L.....Build land fort
-- N.....Build infastructure
+- 1\...\...\...\...\...\...\...\...\...\...\....Switch to map view
+- \^\...\...\...\...\...\...\...\...\...\...\....Search province by
+  name
+- Page up, page down\...\...Select next/previous unit. (Boudi
+  2006/06/14.)
 
-## When a unit is selected
+## [ When a province is selected ]{#When_a_province_is_selected .mw-headline}
 
-- L.....Load onto transport
-- U.....Unload transport
+- A\.....Build anti-air
+- C\.....Build coast fort
+- I\.....Build industry
+- L\.....Build land fort
+- N\.....Build infastructure
 
-## Control groups
+## [ When a unit is selected ]{#When_a_unit_is_selected .mw-headline}
 
-- Ctrl+0-9.....Form a control group
-- 0-9..........Activate control group
+- L\.....Load onto transport
+- U\.....Unload transport
 
-## Macintosh Version
+## [ Control groups ]{#Control_groups .mw-headline}
 
-- , (comma).....Decrease game speed
-- . (period).....Increase game speed
-- / (forward slash).....Pause game
+- Ctrl+0-9\.....Form a control group
+- 0-9\...\...\....Activate control group
+
+## [ Macintosh Version ]{#Macintosh_Version .mw-headline}
+
+- , (comma)\.....Decrease game speed
+- . (period)\.....Increase game speed
+- / (forward slash)\.....Pause game
+  :::

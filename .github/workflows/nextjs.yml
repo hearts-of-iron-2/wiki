@@ -47,6 +47,9 @@ jobs:
           version: 7
           run_install: false
 
+      - name: Setup pandoc
+        uses: nikeee/setup-pandoc@v1
+
       - name: Get pnpm store directory
         id: pnpm-cache
         shell: bash

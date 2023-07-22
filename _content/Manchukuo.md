@@ -2,46 +2,75 @@
 title: Manchukuo
 ---
 
-## Contents
+::: mw-parser-output
+::: {#toc .toc aria-labelledby="mw-toc-heading" role="navigation"}
+::: {.toctitle dir="ltr" lang="en"}
 
-- [1 Provinces](#Provinces)
-- [2 Tech Teams](#Tech_Teams)
-- [3 Technical Details](#Technical_Details)
-- [4 Events](#Events)
-- [5 Scenerios](#Scenerios)
-  - [5.1 1936](#1936)
-  - [5.2 1938](#1938)
-  - [5.3 1941](#1941)
-  - [5.4 1944](#1944)
+## Contents {#mw-toc-heading}
 
-# Provinces
+[ ]{.toctogglespan}
+:::
 
-<table><tbody><tr><td>Country</td><td></td><td>Required Provinces</td><td></td><td></td><td>Extra Provinces</td><td></td></tr><tr><td>Tag</td><td>Name</td><td>Id</td><td>Name</td><td>Capital</td><td>Id</td><td>name</td></tr><tr><td>MAN</td><td>Manchukuo</td><td>1389</td><td>Mukden</td><td>C</td></tr><tr><td></td><td></td><td>1390</td><td>Xinjing</td><td></td></tr><tr><td></td><td></td><td>1377</td><td>Liaoyuan</td><td></td></tr><tr><td></td><td></td><td>1378</td><td>Jilin</td><td></td></tr><tr><td></td><td></td><td>1375</td><td>Mudanjiang</td><td></td></tr><tr><td></td><td></td><td>1374</td><td>Jiamusi</td><td></td></tr><tr><td></td><td></td><td>1379</td><td>Harbin</td><td></td></tr><tr><td></td><td></td><td>1530</td><td>Heihe</td><td></td></tr><tr><td></td><td></td><td>1380</td><td>Qiqihar</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>1387</td><td>Ulan Hot</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>1382</td><td>Hailar</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>1381</td><td>Mohe</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>1394</td><td>Andong</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>1395</td><td>Yingkou</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>1396</td><td>Jinxi</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>1388</td><td>Chifeng</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>1397</td><td>Changde</td><td></td><td></td><td></td></tr></tbody></table>
+- [[ 1 ]{.tocnumber} [ Provinces ]{.toctext}](#Provinces)
+- [[ 2 ]{.tocnumber} [ Tech Teams ]{.toctext}](#Tech_Teams)
+- [[ 3 ]{.tocnumber} [ Technical Details
+  ]{.toctext}](#Technical_Details)
+- [[ 4 ]{.tocnumber} [ Events ]{.toctext}](#Events)
+- [[ 5 ]{.tocnumber} [ Scenerios ]{.toctext}](#Scenerios) - [[ 5.1 ]{.tocnumber} [ 1936 ]{.toctext}](#1936) - [[ 5.2 ]{.tocnumber} [ 1938 ]{.toctext}](#1938) - [[ 5.3 ]{.tocnumber} [ 1941 ]{.toctext}](#1941) - [[ 5.4 ]{.tocnumber} [ 1944 ]{.toctext}](#1944)
+  :::
 
-# Tech Teams
+# [ Provinces ]{#Provinces .mw-headline}
 
-# Technical Details
+---
 
-- TAG => [MAN](/wiki/index.php?title=MAN&action=edit&redlink=1 "MAN (page does not exist)")
+Country Required Provinces Extra Provinces  
+ Tag Name Id Name Capital Id name
+MAN Manchukuo 1389 Mukden C  
+ 1390 Xinjing  
+ 1377 Liaoyuan  
+ 1378 Jilin  
+ 1375 Mudanjiang  
+ 1374 Jiamusi  
+ 1379 Harbin  
+ 1530 Heihe  
+ 1380 Qiqihar  
+ 1387 Ulan Hot  
+ 1382 Hailar  
+ 1381 Mohe  
+ 1394 Andong  
+ 1395 Yingkou  
+ 1396 Jinxi  
+ 1388 Chifeng  
+ 1397 Changde
 
-# Events
+---
 
-# Scenerios
+# [ Tech Teams ]{#Tech_Teams .mw-headline}
+
+# [ Technical Details ]{#Technical_Details .mw-headline}
+
+- TAG =\>
+  [MAN](/wiki/index.php?title=MAN&action=edit&redlink=1 "MAN (page does not exist)"){.new}
+
+# [ Events ]{#Events .mw-headline}
+
+# [ Scenerios ]{#Scenerios .mw-headline}
 
 [Manchukuo strategy](/wiki/Manchukuo_strategy "Manchukuo strategy")
 
-## 1936
+## [ 1936 ]{#1936 .mw-headline}
 
 Possession of ??
 
-## 1938
+## [ 1938 ]{#1938 .mw-headline}
 
 Possession of ??
 
-## 1941
+## [ 1941 ]{#1941 .mw-headline}
 
 Possession of ??
 
-## 1944
+## [ 1944 ]{#1944 .mw-headline}
 
 Possession of ??
+:::

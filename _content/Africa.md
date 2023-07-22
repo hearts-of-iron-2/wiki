@@ -2,12 +2,267 @@
 title: Africa
 ---
 
-While the strategic importance of Africa is limited, it contains several nations. Africa contains a total of around 65 IC.
+::: mw-parser-output
+While the strategic importance of Africa is limited, it contains several
+nations. Africa contains a total of around 65 IC.
 
-## Countries & Provinces
+## [ ]{#Countries*&\_Provinces} [ Countries & Provinces ]{#Countries*.26_Provinces .mw-headline}
 
-<table border="1"><tbody><tr><td>Country</td><td></td><td>Required Provinces</td><td></td><td></td><td>Extra Provinces</td><td></td></tr><tr><td>Tag</td><td>Name</td><td>Id</td><td>Name</td><td>Capital</td><td>Id</td><td>name</td></tr><tr><td>ALG</td><td>Algeria</td><td>942</td><td>Bône</td><td></td><td>970</td><td>Géryville</td></tr><tr><td></td><td></td><td>943</td><td>Constantine</td><td></td><td>1013</td><td>El-Oued</td></tr><tr><td></td><td></td><td>944</td><td>Sétif</td><td></td><td>1014</td><td>Fort Laperrine</td></tr><tr><td></td><td></td><td>945</td><td>Philippeville</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>946</td><td>Bougie</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>947</td><td>Blida</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>948</td><td>Mascara</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>949</td><td>Algiers</td><td>C</td><td></td><td></td></tr><tr><td></td><td></td><td>950</td><td>Mostaganem</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>951</td><td>Sidi-Bel-Abbès</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>952</td><td>Tlemcen</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>953</td><td>Oran</td><td></td><td></td><td></td></tr><tr><td>ANG</td><td>Angola</td><td>1096</td><td>Loanda</td><td>C</td><td>1100</td><td>Nova Lisboa</td></tr><tr><td></td><td></td><td>1101</td><td>Benguella</td><td></td><td>1103</td><td>Vila Pereira d'Eça</td></tr><tr><td></td><td></td><td>1102</td><td>Moçâmedes</td><td></td><td>1097</td><td>Vila Henrique de Carvalho</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1094</td><td>Cabinda</td></tr><tr><td>ARA</td><td>Arab Federation</td><td>915</td><td>Sollum</td><td></td><td>900</td><td>Suez</td></tr><tr><td></td><td></td><td>914</td><td>Sidi Barrani</td><td></td><td>1800</td><td>el-Arish</td></tr><tr><td></td><td></td><td>913</td><td>Rabia</td><td></td><td>1801</td><td>Sharm el-Sheikh</td></tr><tr><td></td><td></td><td>912</td><td>Nibeiwa</td><td></td><td>907</td><td>Qattara</td></tr><tr><td></td><td></td><td>911</td><td>Mersa Matruh</td><td></td><td>1021</td><td>Ain Dalla</td></tr><tr><td></td><td></td><td>910</td><td>Fuka</td><td></td><td>1019</td><td>Great Sand Sea</td></tr><tr><td></td><td></td><td>909</td><td>El Alamein</td><td></td><td>1022</td><td>Western Desert</td></tr><tr><td></td><td></td><td>908</td><td>Gerawla</td><td></td><td>1020</td><td>Siwa</td></tr><tr><td></td><td></td><td>906</td><td>Alexandria</td><td></td><td>1025</td><td>Qusayr</td></tr><tr><td></td><td></td><td>905</td><td>Fayum</td><td></td><td>1795</td><td>Golan</td></tr><tr><td></td><td></td><td>904</td><td>Tanta</td><td></td><td>1861</td><td>Dair az Zawr</td></tr><tr><td></td><td></td><td>903</td><td>Cairo</td><td>C</td><td>1802</td><td>Akaba</td></tr><tr><td></td><td></td><td>1023</td><td>Asyut</td><td></td><td>407</td><td>Ar-Ruwayshid</td></tr><tr><td></td><td></td><td>1024</td><td>Luxor</td><td></td><td>1803</td><td>Bayir</td></tr><tr><td></td><td></td><td>1026</td><td>Aswan</td><td></td><td>1794</td><td>Beirut</td></tr><tr><td></td><td></td><td>1027</td><td>Idfu</td><td></td><td>1793</td><td>Tripoli</td></tr><tr><td></td><td></td><td>1862</td><td>Aleppo</td><td></td><td>1860</td><td>Kirkuk</td></tr><tr><td></td><td></td><td>1863</td><td>Hims</td><td></td><td>1864</td><td>Mosul</td></tr><tr><td></td><td></td><td>1792</td><td>Damascus</td><td></td><td>1865</td><td>Samarra</td></tr><tr><td></td><td></td><td>1796</td><td>Amman</td><td></td><td>1866</td><td>Baghdad</td></tr><tr><td></td><td></td><td>1802</td><td>Akaba</td><td></td><td>1790</td><td>Hilla</td></tr><tr><td></td><td></td><td>407</td><td>Ar-Ruwayshid</td><td></td><td>1824</td><td>Nasiriyah</td></tr><tr><td></td><td></td><td>1803</td><td>Bayir</td><td></td><td>1823</td><td>Basrah</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1806</td><td>Najaf</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1791</td><td>Karbala</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1825</td><td>Abadan</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1797</td><td>Jerusalem</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1798</td><td>Tel Aviv</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1799</td><td>Gaza</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>404</td><td>Haifa</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>406</td><td>Eilat</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1821</td><td>Dammam</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1818</td><td>Rub al Khali</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1809</td><td>Abha</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1808</td><td>Jiddah</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1807</td><td>Riyadh</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1805</td><td>Jawf</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1804</td><td>Medina</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1819</td><td>Mascate</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1820</td><td>Doha</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1504</td><td>Dubai</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1812</td><td>Sanaa</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1813</td><td>Aden</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1814</td><td>Mukalla</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1815</td><td>Socotra</td></tr><tr><td>BEN</td><td>Benin-Sahel</td><td>1005</td><td>Parakou</td><td></td><td>993</td><td>Abidjan</td></tr><tr><td></td><td></td><td>1006</td><td>Porto-Novo</td><td>C</td><td>995</td><td>Bouaké</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1003</td><td>Lomé</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1004</td><td>Bassari</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>994</td><td>Sikasso</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>996</td><td>Bobo-Dioulasso</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>978</td><td>Mopti</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>997</td><td>Ouagadougou</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>998</td><td>Niamey</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1084</td><td>Zinder</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1083</td><td>Agadez</td></tr><tr><td>CAM</td><td>Cameroon</td><td>1089</td><td>Douala</td><td></td><td>1010</td><td>Onitsha</td></tr><tr><td></td><td></td><td>1077</td><td>Yaoundé</td><td>C</td><td>1011</td><td>Port Harcourt</td></tr><tr><td></td><td></td><td>1088</td><td>Nkongsamba</td><td></td><td>1012</td><td>Gashaka</td></tr><tr><td></td><td></td><td>1087</td><td>Ngaoundéré</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>1086</td><td>Maroua</td><td></td><td></td><td></td></tr><tr><td>CON</td><td>Congo</td><td>1063</td><td>Kigali</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>1071</td><td>Stanleyville</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>1072</td><td>Buta</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>1073</td><td>Costermanville</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>1074</td><td>Coquihatville</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>1142</td><td>Léopoldville</td><td>C</td><td></td><td></td></tr><tr><td></td><td></td><td>1095</td><td>Banana</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>1097</td><td>Vila Henrique de Carvalho</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>1143</td><td>Kindu-Port-Empain</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>1144</td><td>Albertville</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>1127</td><td>Élisabethville</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>1098</td><td>Luluabourg</td><td></td><td></td><td></td></tr><tr><td>EAF</td><td>East African Union</td><td>1062</td><td>Tabora</td><td></td><td>1059</td><td>Marsabit</td></tr><tr><td></td><td></td><td>1139</td><td>Lindi</td><td></td><td>1060</td><td>Nairobi</td></tr><tr><td></td><td></td><td>1140</td><td>Dar es Salaam</td><td></td><td>1061</td><td>Mombasa</td></tr><tr><td></td><td></td><td>1141</td><td>Tanga</td><td></td><td>1064</td><td>Entebbe</td></tr><tr><td>EGY</td><td>Egypt</td><td>915</td><td>Sollum</td><td></td><td>900</td><td>Suez</td></tr><tr><td></td><td></td><td>914</td><td>Sidi Barrani</td><td></td><td>1800</td><td>el-Arish</td></tr><tr><td></td><td></td><td>913</td><td>Rabia</td><td></td><td>1801</td><td>Sharm el-Sheikh</td></tr><tr><td></td><td></td><td>912</td><td>Nibeiwa</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>911</td><td>Mersa Matruh</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>910</td><td>Fuka</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>909</td><td>El Alamein</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>908</td><td>Gerawla</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>907</td><td>Qattara</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>906</td><td>Alexandria</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>905</td><td>Fayum</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>904</td><td>Tanta</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>903</td><td>Cairo</td><td>C</td><td></td><td></td></tr><tr><td></td><td></td><td>902</td><td>Zaqazig</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>901</td><td>Port Said</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>4</td><td>As Suwayz</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>1019</td><td>Great Sand Sea</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>1020</td><td>Siwa</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>1021</td><td>Ain Dalla</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>1022</td><td>Western Desert</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>1023</td><td>Asyut</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>1024</td><td>Luxor</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>1025</td><td>Qusayr</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>1026</td><td>Aswan</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>1027</td><td>Idfu</td><td></td><td></td><td></td></tr><tr><td>EQA</td><td>Equatorial Africa</td><td>1082</td><td>Tibesti</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>1081</td><td>Largeau</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>1080</td><td>Fort-Lamy</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>1079</td><td>Fort-Archambault</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>1078</td><td>Bangui</td><td>C</td><td></td><td></td></tr><tr><td></td><td></td><td>1070</td><td>Bangassou</td><td></td><td></td><td></td></tr><tr><td>ETH</td><td>Ethiopia</td><td>1042</td><td>Gonder</td><td></td><td>1033</td><td>Massaua</td></tr><tr><td></td><td></td><td>1043</td><td>Desê</td><td></td><td>1038</td><td>Assab</td></tr><tr><td></td><td></td><td>1044</td><td>Debre Mark'os</td><td></td><td>1039</td><td>Asmara</td></tr><tr><td></td><td></td><td>1045</td><td>Gambêla</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>1046</td><td>Addis Ababa</td><td>C</td><td></td><td></td></tr><tr><td></td><td></td><td>1047</td><td>Jima</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>1048</td><td>Âdwa</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>1049</td><td>Denakil</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>1050</td><td>Dirê Dawa</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>1051</td><td>Harar</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>1052</td><td>Ginir</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>1053</td><td>Moyale</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>1054</td><td>Ogaden</td><td></td><td></td><td></td></tr><tr><td>GAB</td><td>Gabon</td><td>1092</td><td>Libreville</td><td></td><td>1090</td><td>São Tomé</td></tr><tr><td></td><td></td><td>1093</td><td>Pointe-Noire</td><td></td><td>1091</td><td>Bata</td></tr><tr><td></td><td></td><td>1075</td><td>Brazzaville</td><td>C</td><td>1094</td><td>Cabinda</td></tr><tr><td></td><td></td><td>1076</td><td>Impfondo</td><td></td><td></td><td></td></tr><tr><td>GLD</td><td>Gold Coast</td><td>1000</td><td>Tamale</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>1001</td><td>Kumasi</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>1002</td><td>Accra</td><td>C</td><td></td><td></td></tr><tr><td>GUI</td><td>Guinea</td><td>987</td><td>Conakry</td><td>C</td><td>983</td><td>Bissão</td></tr><tr><td></td><td></td><td>989</td><td>Labé</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>990</td><td>Siguiri</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>991</td><td>Kankan</td><td></td><td></td><td></td></tr><tr><td>LBY</td><td>Libya</td><td>916</td><td>Bardia</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>917</td><td>Forte Capuzzo</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>918</td><td>Forte Maddalena</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>919</td><td>Tobruk</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>920</td><td>Derna</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>921</td><td>Mechili</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>922</td><td>Msus</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>923</td><td>Barca</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>924</td><td>Bengazi</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>925</td><td>Agedabia</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>926</td><td>Al Jaghbub</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>927</td><td>Aujila</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>928</td><td>Socna</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>929</td><td>Sirte</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>930</td><td>Homs</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>931</td><td>Ghadames</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>932</td><td>Tripoli</td><td>C</td><td></td><td></td></tr><tr><td></td><td></td><td>933</td><td>Zuara</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>1015</td><td>Ghat</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>1016</td><td>Murzuk</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>1017</td><td>Calansho Sand Sea</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>1018</td><td>Kufra</td><td></td><td></td><td></td></tr><tr><td>LIB</td><td>Liberia</td><td>992</td><td>Monrovia</td><td>C</td><td></td><td></td></tr><tr><td>MAD</td><td><a href="/wiki/Madagascar" title="Madagascar">Madagascar</a></td><td>1134</td><td>Fianarantsoa</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>1137</td><td>Tananarive</td><td>C</td><td></td><td></td></tr><tr><td>MAL</td><td>Union of Mali</td><td>981</td><td>Dakar</td><td>C</td><td>972</td><td>Villa Cisneros</td></tr><tr><td></td><td></td><td>984</td><td>Tambacounda</td><td></td><td>982</td><td>Bathurst</td></tr><tr><td></td><td></td><td>985</td><td>Kayes</td><td></td><td>974</td><td>Fort-Gouraud</td></tr><tr><td></td><td></td><td>986</td><td>Bamako</td><td></td><td>973</td><td>Port-Étienne</td></tr><tr><td></td><td></td><td>980</td><td>Nioro du Sahel</td><td></td><td>971</td><td>El Aaiún</td></tr><tr><td></td><td></td><td>979</td><td>Ségou</td><td></td><td>975</td><td>Taoudenni</td></tr><tr><td></td><td></td><td>977</td><td>Timbuktu</td><td></td><td>976</td><td>Gao</td></tr><tr><td>MOR</td><td>Morocco</td><td>959</td><td>Marrakech</td><td></td><td>967</td><td>Ifni</td></tr><tr><td></td><td></td><td>958</td><td>Casablanca</td><td>C</td><td>971</td><td>El Aaiún</td></tr><tr><td></td><td></td><td>956</td><td>Oujda</td><td></td><td>955</td><td>Villa Sanjuro</td></tr><tr><td></td><td></td><td>960</td><td>Mogador</td><td></td><td>972</td><td>Villa Cisneros</td></tr><tr><td></td><td></td><td>966</td><td>Agadir</td><td></td><td>954</td><td>Melilla</td></tr><tr><td></td><td></td><td>968</td><td>Ouezzane</td><td></td><td>957</td><td>Ceuta</td></tr><tr><td></td><td></td><td>969</td><td>Bouarfa</td><td></td><td></td><td></td></tr><tr><td>MOZ</td><td>Mozambique</td><td>1138</td><td>Vila Cabral</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>1133</td><td>Quelimane</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>1130</td><td>Beira</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>1131</td><td>Tete</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>1123</td><td>Inhambane</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>1122</td><td>Lourenço Marques</td><td>C</td><td></td><td></td></tr><tr><td>NAM</td><td>Namibia</td><td>1106</td><td>Grootfontein</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>1107</td><td>Odangwa</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>1108</td><td>Walvis Bay</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>1109</td><td>Lüderitz</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>1110</td><td>Windhoek</td><td>C</td><td></td><td></td></tr><tr><td>NIG</td><td>Nigeria</td><td>1007</td><td>Ibadan</td><td></td><td>1010</td><td>Onitsha</td></tr><tr><td></td><td></td><td>1008</td><td>Lagos</td><td></td><td>1011</td><td>Port Harcourt</td></tr><tr><td></td><td></td><td>1009</td><td>Kaduna</td><td>C</td><td>1012</td><td>Gashaka</td></tr><tr><td></td><td></td><td>1085</td><td>Maiduguri</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>1145</td><td>Kano</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>999</td><td>Sokoto</td><td></td><td></td><td></td></tr><tr><td>RHO</td><td>Rhodesia</td><td>1125</td><td>Harare</td><td></td><td>1104</td><td>Kalabo</td></tr><tr><td></td><td></td><td>1105</td><td>Maun</td><td></td><td>1099</td><td>Mongu</td></tr><tr><td></td><td></td><td>1111</td><td>Francistown</td><td></td><td>1129</td><td>Ndola</td></tr><tr><td></td><td></td><td>1112</td><td>Gaberones</td><td></td><td>1126</td><td>Lusaka</td></tr><tr><td></td><td></td><td>1124</td><td>Bulawayo</td><td>C</td><td>1128</td><td>Mpika</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>1132</td><td>Zomba</td></tr><tr><td>SAF</td><td>South Africa</td><td>1115</td><td>Springbok</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>1116</td><td>Cape Town</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>1114</td><td>Kimberley</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>1117</td><td>Port Elisabeth</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>1118</td><td>East London</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>1120</td><td>Johannesburg</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>1113</td><td>Mafeking</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>1121</td><td>Pretoria</td><td>C</td><td></td><td></td></tr><tr><td></td><td></td><td>1119</td><td>Durban</td><td></td><td></td><td></td></tr><tr><td>SIE</td><td>Sierra Leone</td><td>988</td><td>Freetown</td><td>C</td><td></td><td></td></tr><tr><td>SOM</td><td>Somalia</td><td>1034</td><td>Obbia</td><td></td><td>1036</td><td>Zeila</td></tr><tr><td></td><td></td><td>1055</td><td>Bardera</td><td></td><td>1035</td><td>Berbera</td></tr><tr><td></td><td></td><td>1056</td><td>Mogadishu</td><td>C</td><td>1037</td><td>Djibouti</td></tr><tr><td></td><td></td><td>1058</td><td>Kismayo</td><td></td><td></td><td></td></tr><tr><td>SUD</td><td>Sudan</td><td>1028</td><td>Wadi Halfa</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>1029</td><td>Dongola</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>1067</td><td>El Atrun</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>1068</td><td>El Obeid</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>1069</td><td>Waw</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>1030</td><td>Port Sudan</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>1031</td><td>Berber</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>1040</td><td>Kassala</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>1041</td><td>Gallabat</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>1066</td><td>Khartoum</td><td>C</td><td></td><td></td></tr><tr><td></td><td></td><td>1065</td><td>Malakal</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>1032</td><td>Omdurman</td><td></td><td></td><td></td></tr><tr><td>TUN</td><td>Tunisia</td><td>934</td><td>Gafsa</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>935</td><td>Gabès</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>936</td><td>Sfax</td><td></td></tr><tr><td></td><td></td><td>937</td><td>Kassarine</td><td></td></tr><tr><td></td><td></td><td>938</td><td>Sousse</td><td></td></tr><tr><td></td><td></td><td>939</td><td>Tunis</td><td>C</td></tr><tr><td></td><td></td><td>940</td><td>Bizerte</td><td></td></tr><tr><td></td><td></td><td>941</td><td>Tabarka</td><td></td></tr></tbody></table>
+---
 
-## Superstate
+Country Required Provinces Extra Provinces  
+ Tag Name Id Name Capital Id name
+ALG Algeria 942 Bône 970 Géryville
+943 Constantine 1013 El-Oued
+944 Sétif 1014 Fort Laperrine
+945 Philippeville  
+ 946 Bougie  
+ 947 Blida  
+ 948 Mascara  
+ 949 Algiers C  
+ 950 Mostaganem  
+ 951 Sidi-Bel-Abbès  
+ 952 Tlemcen  
+ 953 Oran  
+ ANG Angola 1096 Loanda C 1100 Nova Lisboa
+1101 Benguella 1103 Vila Pereira d\'Eça
+1102 Moçâmedes 1097 Vila Henrique de Carvalho
+1094 Cabinda
+ARA Arab Federation 915 Sollum 900 Suez
+914 Sidi Barrani 1800 el-Arish
+913 Rabia 1801 Sharm el-Sheikh
+912 Nibeiwa 907 Qattara
+911 Mersa Matruh 1021 Ain Dalla
+910 Fuka 1019 Great Sand Sea
+909 El Alamein 1022 Western Desert
+908 Gerawla 1020 Siwa
+906 Alexandria 1025 Qusayr
+905 Fayum 1795 Golan
+904 Tanta 1861 Dair az Zawr
+903 Cairo C 1802 Akaba
+1023 Asyut 407 Ar-Ruwayshid
+1024 Luxor 1803 Bayir
+1026 Aswan 1794 Beirut
+1027 Idfu 1793 Tripoli
+1862 Aleppo 1860 Kirkuk
+1863 Hims 1864 Mosul
+1792 Damascus 1865 Samarra
+1796 Amman 1866 Baghdad
+1802 Akaba 1790 Hilla
+407 Ar-Ruwayshid 1824 Nasiriyah
+1803 Bayir 1823 Basrah
+1806 Najaf
+1791 Karbala
+1825 Abadan
+1797 Jerusalem
+1798 Tel Aviv
+1799 Gaza
+404 Haifa
+406 Eilat
+1821 Dammam
+1818 Rub al Khali
+1809 Abha
+1808 Jiddah
+1807 Riyadh
+1805 Jawf
+1804 Medina
+1819 Mascate
+1820 Doha
+1504 Dubai
+1812 Sanaa
+1813 Aden
+1814 Mukalla
+1815 Socotra
+BEN Benin-Sahel 1005 Parakou 993 Abidjan
+1006 Porto-Novo C 995 Bouaké
+1003 Lomé
+1004 Bassari
+994 Sikasso
+996 Bobo-Dioulasso
+978 Mopti
+997 Ouagadougou
+998 Niamey
+1084 Zinder
+1083 Agadez
+CAM Cameroon 1089 Douala 1010 Onitsha
+1077 Yaoundé C 1011 Port Harcourt
+1088 Nkongsamba 1012 Gashaka
+1087 Ngaoundéré  
+ 1086 Maroua  
+ CON Congo 1063 Kigali  
+ 1071 Stanleyville  
+ 1072 Buta  
+ 1073 Costermanville  
+ 1074 Coquihatville  
+ 1142 Léopoldville C  
+ 1095 Banana  
+ 1097 Vila Henrique de Carvalho  
+ 1143 Kindu-Port-Empain  
+ 1144 Albertville  
+ 1127 Élisabethville  
+ 1098 Luluabourg  
+ EAF East African Union 1062 Tabora 1059 Marsabit
+1139 Lindi 1060 Nairobi
+1140 Dar es Salaam 1061 Mombasa
+1141 Tanga 1064 Entebbe
+EGY Egypt 915 Sollum 900 Suez
+914 Sidi Barrani 1800 el-Arish
+913 Rabia 1801 Sharm el-Sheikh
+912 Nibeiwa  
+ 911 Mersa Matruh  
+ 910 Fuka  
+ 909 El Alamein  
+ 908 Gerawla  
+ 907 Qattara  
+ 906 Alexandria  
+ 905 Fayum  
+ 904 Tanta  
+ 903 Cairo C  
+ 902 Zaqazig  
+ 901 Port Said  
+ 4 As Suwayz  
+ 1019 Great Sand Sea  
+ 1020 Siwa  
+ 1021 Ain Dalla  
+ 1022 Western Desert  
+ 1023 Asyut  
+ 1024 Luxor  
+ 1025 Qusayr  
+ 1026 Aswan  
+ 1027 Idfu  
+ EQA Equatorial Africa 1082 Tibesti  
+ 1081 Largeau  
+ 1080 Fort-Lamy  
+ 1079 Fort-Archambault  
+ 1078 Bangui C  
+ 1070 Bangassou  
+ ETH Ethiopia 1042 Gonder 1033 Massaua
+1043 Desê 1038 Assab
+1044 Debre Mark\'os 1039 Asmara
+1045 Gambêla  
+ 1046 Addis Ababa C  
+ 1047 Jima  
+ 1048 Âdwa  
+ 1049 Denakil  
+ 1050 Dirê Dawa  
+ 1051 Harar  
+ 1052 Ginir  
+ 1053 Moyale  
+ 1054 Ogaden  
+ GAB Gabon 1092 Libreville 1090 São Tomé
+1093 Pointe-Noire 1091 Bata
+1075 Brazzaville C 1094 Cabinda
+1076 Impfondo  
+ GLD Gold Coast 1000 Tamale  
+ 1001 Kumasi  
+ 1002 Accra C  
+ GUI Guinea 987 Conakry C 983 Bissão
+989 Labé  
+ 990 Siguiri  
+ 991 Kankan  
+ LBY Libya 916 Bardia  
+ 917 Forte Capuzzo  
+ 918 Forte Maddalena  
+ 919 Tobruk  
+ 920 Derna  
+ 921 Mechili  
+ 922 Msus  
+ 923 Barca  
+ 924 Bengazi  
+ 925 Agedabia  
+ 926 Al Jaghbub  
+ 927 Aujila  
+ 928 Socna  
+ 929 Sirte  
+ 930 Homs  
+ 931 Ghadames  
+ 932 Tripoli C  
+ 933 Zuara  
+ 1015 Ghat  
+ 1016 Murzuk  
+ 1017 Calansho Sand Sea  
+ 1018 Kufra  
+ LIB Liberia 992 Monrovia C  
+ MAD [Madagascar](/wiki/Madagascar "Madagascar") 1134 Fianarantsoa  
+ 1137 Tananarive C  
+ MAL Union of Mali 981 Dakar C 972 Villa Cisneros
+984 Tambacounda 982 Bathurst
+985 Kayes 974 Fort-Gouraud
+986 Bamako 973 Port-Étienne
+980 Nioro du Sahel 971 El Aaiún
+979 Ségou 975 Taoudenni
+977 Timbuktu 976 Gao
+MOR Morocco 959 Marrakech 967 Ifni
+958 Casablanca C 971 El Aaiún
+956 Oujda 955 Villa Sanjuro
+960 Mogador 972 Villa Cisneros
+966 Agadir 954 Melilla
+968 Ouezzane 957 Ceuta
+969 Bouarfa  
+ MOZ Mozambique 1138 Vila Cabral  
+ 1133 Quelimane  
+ 1130 Beira  
+ 1131 Tete  
+ 1123 Inhambane  
+ 1122 Lourenço Marques C  
+ NAM Namibia 1106 Grootfontein  
+ 1107 Odangwa  
+ 1108 Walvis Bay  
+ 1109 Lüderitz  
+ 1110 Windhoek C  
+ NIG Nigeria 1007 Ibadan 1010 Onitsha
+1008 Lagos 1011 Port Harcourt
+1009 Kaduna C 1012 Gashaka
+1085 Maiduguri  
+ 1145 Kano  
+ 999 Sokoto  
+ RHO Rhodesia 1125 Harare 1104 Kalabo
+1105 Maun 1099 Mongu
+1111 Francistown 1129 Ndola
+1112 Gaberones 1126 Lusaka
+1124 Bulawayo C 1128 Mpika
+1132 Zomba
+SAF South Africa 1115 Springbok  
+ 1116 Cape Town  
+ 1114 Kimberley  
+ 1117 Port Elisabeth  
+ 1118 East London  
+ 1120 Johannesburg  
+ 1113 Mafeking  
+ 1121 Pretoria C  
+ 1119 Durban  
+ SIE Sierra Leone 988 Freetown C  
+ SOM Somalia 1034 Obbia 1036 Zeila
+1055 Bardera 1035 Berbera
+1056 Mogadishu C 1037 Djibouti
+1058 Kismayo  
+ SUD Sudan 1028 Wadi Halfa  
+ 1029 Dongola  
+ 1067 El Atrun  
+ 1068 El Obeid  
+ 1069 Waw  
+ 1030 Port Sudan  
+ 1031 Berber  
+ 1040 Kassala  
+ 1041 Gallabat  
+ 1066 Khartoum C  
+ 1065 Malakal  
+ 1032 Omdurman  
+ TUN Tunisia 934 Gafsa  
+ 935 Gabès  
+ 936 Sfax  
+ 937 Kassarine  
+ 938 Sousse  
+ 939 Tunis C  
+ 940 Bizerte  
+ 941 Tabarka
 
-It is possible to manually create an "African Superstate", as described in [this thread](http://forum.paradoxplaza.com/forum/showthread.php?t=330990) .
+---
+
+## [ Superstate ]{#Superstate .mw-headline}
+
+It is possible to manually create an \"African Superstate\", as
+described in [this
+thread](http://forum.paradoxplaza.com/forum/showthread.php?t=330990){.external
+.text rel="nofollow"} .
+:::

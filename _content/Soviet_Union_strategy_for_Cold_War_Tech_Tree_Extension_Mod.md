@@ -2,4 +2,28 @@
 title: Soviet_Union_strategy_for_Cold_War_Tech_Tree_Extension_Mod
 ---
 
- <table class="metadata plainlinks ambox ambox-delete" style=""><tbody><tr><td class="mbox-image"><div style="width: 52px;"><img alt="" data-file-height="44" data-file-width="50" data-url="https://central.paradoxwikis.com/images/thumb/6/6e/Ambox_warning_pn.png/40px-Ambox_warning_pn.png" decoding="async" height="35" loading="lazy" src="https://central.paradoxwikis.com/images/thumb/6/6e/Ambox_warning_pn.png/40px-Ambox_warning_pn.png" srcset="https://central.paradoxwikis.com/images/6/6e/Ambox_warning_pn.png 1.5x" width="40"></div></td><td class="mbox-text" style=""><b>This article is a <a href="/wiki/Category:Candidates_for_deletion" title="Category:Candidates for deletion">candidate for deletion </a>.</b><br><ul><li>Discuss if it should or should not be deleted on this page’s <b><a class="new" href="/wiki/index.php?title=Talk:Soviet_Union_strategy_for_Cold_War_Tech_Tree_Extension_Mod&amp;action=edit&amp;redlink=1" title="Talk:Soviet Union strategy for Cold War Tech Tree Extension Mod (page does not exist)">talk page </a></b>.</li><li><b>Reason </b>: Page was pointless - added nothing and not updated for 4 years</li></ul></td></tr></tbody></table>
+::: mw-parser-output
++-----------------------------------+-----------------------------------+
+| ::: {style="width: 52px;"} | **This article is a [candidate |
+| ![](https://central. | for |
+| paradoxwikis.com/images/thumb/6/6 | deletion](/wiki/Ca |
+| e/Ambox_warning_pn.png/40px-Ambox | tegory:Candidates_for_deletion "C |
+| \_warning_pn.png){file-height="44" | ategory:Candidates for deletion") |
+| file-width="50" | .**\ |
+| url= | |
+| "https://central.paradoxwikis.com | - Discuss if it should or |
+| /images/thumb/6/6e/Ambox*warning* | should not be deleted on this |
+| pn.png/40px-Ambox*warning_pn.png" | page's \*\*[talk |
+| decoding="async" height="35" | page](/wiki/ |
+| loading="lazy" | index.php?title=Talk:Soviet_Union |
+| srcset="https | \_strategy_for_Cold_War_Tech_Tree* |
+| ://central.paradoxwikis.com/image | Extension_Mod&action=edit&redlink |
+| s/6/6e/Ambox_warning_pn.png 1.5x" | =1 "Talk:Soviet Union strategy fo |
+| width="40"} | r Cold War Tech Tree Extension Mo |
+| ::: | d (page does not exist)"){.new}** |
+| | . |
+| | - **Reason\*\* : Page was |
+| | pointless - added nothing and |
+| | not updated for 4 years |
++-----------------------------------+-----------------------------------+
+:::

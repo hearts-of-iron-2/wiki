@@ -2,8 +2,36 @@
 title: Units
 ---
 
- <table class="metadata plainlinks ambox ambox-notice" style=""><tbody><tr><td class="mbox-image"><div style="width: 52px;"><a class="image" href="/wiki/File:Ambox_stub.png"><img alt="Ambox stub.png" data-file-height="150" data-file-width="150" data-url="https://central.paradoxwikis.com/images/thumb/c/c0/Ambox_stub.png/50px-Ambox_stub.png" decoding="async" height="50" loading="lazy" src="https://central.paradoxwikis.com/images/thumb/c/c0/Ambox_stub.png/50px-Ambox_stub.png" srcset="https://central.paradoxwikis.com/images/thumb/c/c0/Ambox_stub.png/75px-Ambox_stub.png 1.5x, https://central.paradoxwikis.com/images/thumb/c/c0/Ambox_stub.png/100px-Ambox_stub.png 2x" width="50"></a></div></td><td class="mbox-text" style=""><b>This article is a <a href="/wiki/Template:Stub" title="Template:Stub">Stub </a>, which means that it does not sufficiently cover its subject matter.</b><br><small>Please help expand <a class="external text" href="https://hoi2.paradoxwikis.com/index.php?title=Units&amp;action=edit" rel="nofollow">this </a>article if you can.</small></td></tr></tbody></table>
+::: mw-parser-output
++-----------------------------------+-----------------------------------+
+| ::: {style="width: 52px;"} | **This article is a |
+| [![Ambox | [Stub](/wi |
+| stub.png](https | ki/Template:Stub "Template:Stub") |
+| ://central.paradoxwikis.com/image | , which means that it does not |
+| s/thumb/c/c0/Ambox_stub.png/50px- | sufficiently cover its subject |
+| Ambox_stub.png){file-height="150" | matter.**\ |
+| file-width="150" | [Please help expand |
+| url="https://central.para | [this](https:// |
+| doxwikis.com/images/thumb/c/c0/Am | hoi2.paradoxwikis.com/index.php?t |
+| box*stub.png/50px-Ambox_stub.png" | itle=Units&action=edit){.external |
+| decoding="async" height="50" | .text rel="nofollow"} article if |
+| loading="lazy" | you can.]{.small} |
+| srcset="https://central.p | |
+| aradoxwikis.com/images/thumb/c/c0 | |
+| /Ambox_stub.png/75px-Ambox_stub.p | |
+| ng 1.5x, https://central.paradoxw | |
+| ikis.com/images/thumb/c/c0/Ambox* | |
+| stub.png/100px-Ambox_stub.png 2x" | |
+| width="50"}](/ | |
+| wiki/File:Ambox_stub.png){.image} | |
+| ::: | |
++-----------------------------------+-----------------------------------+
 
-**Units** refers to military units in the game. There are three types of units: [air units](/wiki/Air_units "Air units") , [naval units](/wiki/Naval_units "Naval units") and [land units](/wiki/Land_units "Land units") .
+\
+**Units** refers to military units in the game. There are three types of
+units: [air units](/wiki/Air_units "Air units") , [naval
+units](/wiki/Naval_units "Naval units") and [land
+units](/wiki/Land_units "Land units") .
 
 See also: [Unit FAQ](/wiki/Unit_FAQ "Unit FAQ")
+:::

@@ -2,20 +2,246 @@
 title: GDP_statistics
 ---
 
- <table border="1" cellspacing="0"><caption><b>GDP Change of European Countries and Japan (1939-1947)</b></caption><tbody><tr><th>Year</th><th><span style="white-space:nowrap;"><a href="/wiki/Austria" title="Austria"><img alt="Flag of Austria" class="thumbborder" data-file-height="600" data-file-width="900" data-url="/images/thumb/7/7f/Austria.png/20px-Austria.png" decoding="async" height="13" loading="lazy" src="/images/thumb/7/7f/Austria.png/20px-Austria.png" srcset="/images/thumb/7/7f/Austria.png/30px-Austria.png 1.5x, /images/thumb/7/7f/Austria.png/40px-Austria.png 2x" width="20"> </a><a href="/wiki/Austria" title="Austria">Austria</a></span></th><th><span style="white-space:nowrap;"><a href="/wiki/Belgium" title="Belgium"><img alt="Flag of Belgium" class="thumbborder" data-file-height="600" data-file-width="900" data-url="/images/thumb/3/32/Belgium.png/20px-Belgium.png" decoding="async" height="13" loading="lazy" src="/images/thumb/3/32/Belgium.png/20px-Belgium.png" srcset="/images/thumb/3/32/Belgium.png/30px-Belgium.png 1.5x, /images/thumb/3/32/Belgium.png/40px-Belgium.png 2x" width="20"> </a><a href="/wiki/Belgium" title="Belgium">Belgium</a></span></th><th><span style="white-space:nowrap;"><a href="/wiki/France" title="France"><img alt="Flag of France" class="thumbborder" data-file-height="600" data-file-width="900" data-url="/images/thumb/d/de/France.png/20px-France.png" decoding="async" height="13" loading="lazy" src="/images/thumb/d/de/France.png/20px-France.png" srcset="/images/thumb/d/de/France.png/30px-France.png 1.5x, /images/thumb/d/de/France.png/40px-France.png 2x" width="20"> </a><a href="/wiki/France" title="France">France</a></span></th><th><span style="white-space:nowrap;"><a href="/wiki/Germany" title="Germany"><img alt="Flag of Germany" class="thumbborder" data-file-height="600" data-file-width="900" data-url="/images/thumb/9/9b/Germany.png/20px-Germany.png" decoding="async" height="13" loading="lazy" src="/images/thumb/9/9b/Germany.png/20px-Germany.png" srcset="/images/thumb/9/9b/Germany.png/30px-Germany.png 1.5x, /images/thumb/9/9b/Germany.png/40px-Germany.png 2x" width="20"> </a><a href="/wiki/Germany" title="Germany">Germany</a></span></th><th><span style="white-space:nowrap;"><a href="/wiki/Italy" title="Italy"><img alt="Flag of Italy" class="thumbborder" data-file-height="533" data-file-width="800" data-url="/images/thumb/2/2a/Italy.png/20px-Italy.png" decoding="async" height="13" loading="lazy" src="/images/thumb/2/2a/Italy.png/20px-Italy.png" srcset="/images/thumb/2/2a/Italy.png/30px-Italy.png 1.5x, /images/thumb/2/2a/Italy.png/40px-Italy.png 2x" width="20"> </a><a href="/wiki/Italy" title="Italy">Italy</a></span></th><th><span style="white-space:nowrap;"><a href="/wiki/Netherlands" title="Netherlands"><img alt="Flag of Netherlands" class="thumbborder" data-file-height="600" data-file-width="900" data-url="/images/thumb/3/32/Netherlands.png/20px-Netherlands.png" decoding="async" height="13" loading="lazy" src="/images/thumb/3/32/Netherlands.png/20px-Netherlands.png" srcset="/images/thumb/3/32/Netherlands.png/30px-Netherlands.png 1.5x, /images/thumb/3/32/Netherlands.png/40px-Netherlands.png 2x" width="20"> </a><a href="/wiki/Netherlands" title="Netherlands">Netherlands</a></span></th><th><span style="white-space:nowrap;"><a href="/wiki/Norway" title="Norway"><img alt="Flag of Norway" class="thumbborder" data-file-height="533" data-file-width="800" data-url="/images/thumb/0/0f/Norway.png/20px-Norway.png" decoding="async" height="13" loading="lazy" src="/images/thumb/0/0f/Norway.png/20px-Norway.png" srcset="/images/thumb/0/0f/Norway.png/30px-Norway.png 1.5x, /images/thumb/0/0f/Norway.png/40px-Norway.png 2x" width="20"> </a><a class="new" href="/wiki/index.php?title=Norway&amp;action=edit&amp;redlink=1" title="Norway (page does not exist)">Norway</a></span></th><th><span style="white-space:nowrap;"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="Flag of United Kingdom" class="thumbborder" data-file-height="600" data-file-width="900" data-url="/images/thumb/2/29/United_Kingdom.png/20px-United_Kingdom.png" decoding="async" height="13" loading="lazy" src="/images/thumb/2/29/United_Kingdom.png/20px-United_Kingdom.png" srcset="/images/thumb/2/29/United_Kingdom.png/30px-United_Kingdom.png 1.5x, /images/thumb/2/29/United_Kingdom.png/40px-United_Kingdom.png 2x" width="20"> </a><a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a></span></th><th><span style="white-space:nowrap;"><a href="/wiki/Japan" title="Japan"><img alt="Flag of Japan" class="thumbborder" data-file-height="600" data-file-width="900" data-url="/images/thumb/f/fc/Japan.png/20px-Japan.png" decoding="async" height="13" loading="lazy" src="/images/thumb/f/fc/Japan.png/20px-Japan.png" srcset="/images/thumb/f/fc/Japan.png/30px-Japan.png 1.5x, /images/thumb/f/fc/Japan.png/40px-Japan.png 2x" width="20"> </a><a href="/wiki/Japan" title="Japan">Japan</a></span></th></tr><tr><td>1939</td><td>100,00</td><td>100,00</td><td>100,00</td><td>100,00</td><td>100,00</td><td>100,00</td><td>100,00</td><td>100,00</td><td>100,00</td></tr><tr><td>1940</td><td>96,65</td><td>88,59</td><td>84,33</td><td>99,93</td><td>99,56</td><td>87,15</td><td>90,51</td><td>109,48</td><td>102,07</td></tr><tr><td>1941</td><td>102,96</td><td>84,64</td><td>69,04</td><td>105,64</td><td>97,47</td><td>81,73</td><td>92,16</td><td>119,47</td><td>102,03</td></tr><tr><td>1942</td><td>97,24</td><td>77,62</td><td>62,19</td><td>106,18</td><td>95,67</td><td>74,08</td><td>88,02</td><td>121,24</td><td>100,07</td></tr><tr><td>1943</td><td>99,25</td><td>75,87</td><td>59,67</td><td>108,96</td><td>86,32</td><td>71,81</td><td>85,61</td><td>123,67</td><td>100,18</td></tr><tr><td>1944</td><td>101,38</td><td>79,86</td><td>48,3</td><td>122,61</td><td>69,95</td><td>47,79</td><td>80,40</td><td>118,26</td><td>94,43</td></tr><tr><td>1945</td><td>42,11</td><td>88,83</td><td>53,69</td><td>77,96</td><td>54,59</td><td>48,46</td><td>89,22</td><td>112,68</td><td>47,80</td></tr><tr><td>1946</td><td>47,76</td><td>94,64</td><td>80,43</td><td>45,11</td><td>71,08</td><td>80,38</td><td>97,61</td><td>107,71</td><td>51,27</td></tr><tr><td>1947</td><td>52,90</td><td>92,23</td><td>86,33</td><td>49,74</td><td>82,93</td><td>91,05</td><td>107,50</td><td>105,47</td><td>54,71</td></tr></tbody></table>
+::: mw-parser-output
 
-<table border="1" cellspacing="0"><caption><b>Wartime GDP of the Great Powers</b><br><i>1938 to 1945 in International Dollars and 1990 Prices (billions) (1)</i></caption><tbody><tr><th>Country</th><th>1938</th><th>1939</th><th>1940</th><th>1941</th><th>1942</th><th>1943</th><th>1944</th><th>1945</th></tr><tr><td><span style="white-space:nowrap;"><a href="/wiki/United_States" title="United States"><img alt="Flag of United States" class="thumbborder" data-file-height="600" data-file-width="900" data-url="/images/thumb/5/55/USA.png/20px-USA.png" decoding="async" height="13" loading="lazy" src="/images/thumb/5/55/USA.png/20px-USA.png" srcset="/images/thumb/5/55/USA.png/30px-USA.png 1.5x, /images/thumb/5/55/USA.png/40px-USA.png 2x" width="20"> </a><a class="mw-redirect" href="/wiki/United_States" title="United States">United States</a></span></td><td>800</td><td>869</td><td>943</td><td>1094</td><td>1235</td><td>1399</td><td>1499</td><td>1474</td></tr><tr><td><span style="white-space:nowrap;"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="Flag of United Kingdom" class="thumbborder" data-file-height="600" data-file-width="900" data-url="/images/thumb/2/29/United_Kingdom.png/20px-United_Kingdom.png" decoding="async" height="13" loading="lazy" src="/images/thumb/2/29/United_Kingdom.png/20px-United_Kingdom.png" srcset="/images/thumb/2/29/United_Kingdom.png/30px-United_Kingdom.png 1.5x, /images/thumb/2/29/United_Kingdom.png/40px-United_Kingdom.png 2x" width="20"> </a><a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a></span></td><td>284</td><td>287</td><td>316</td><td>344</td><td>353</td><td>361</td><td>346</td><td>331</td></tr><tr><td><span style="white-space:nowrap;"><a href="/wiki/France" title="France"><img alt="Flag of France" class="thumbborder" data-file-height="600" data-file-width="900" data-url="/images/thumb/d/de/France.png/20px-France.png" decoding="async" height="13" loading="lazy" src="/images/thumb/d/de/France.png/20px-France.png" srcset="/images/thumb/d/de/France.png/30px-France.png 1.5x, /images/thumb/d/de/France.png/40px-France.png 2x" width="20"> </a><a href="/wiki/France" title="France">France</a></span></td><td>186</td><td>199</td><td>164</td><td>130</td><td>116</td><td>110</td><td>93</td><td>101</td></tr><tr><td><span style="white-space:nowrap;"><a href="/wiki/Italy" title="Italy"><img alt="Flag of Italy" class="thumbborder" data-file-height="533" data-file-width="800" data-url="/images/thumb/2/2a/Italy.png/20px-Italy.png" decoding="async" height="13" loading="lazy" src="/images/thumb/2/2a/Italy.png/20px-Italy.png" srcset="/images/thumb/2/2a/Italy.png/30px-Italy.png 1.5x, /images/thumb/2/2a/Italy.png/40px-Italy.png 2x" width="20"> </a><a href="/wiki/Italy" title="Italy">Italy</a></span></td><td>141</td><td>151</td><td>147</td><td>144</td><td>145</td><td>137</td><td>117</td><td>92</td></tr><tr><td><span style="white-space:nowrap;"><a href="/wiki/Soviet_Union" title="Soviet Union"><img alt="Flag of Soviet Union" class="thumbborder" data-file-height="600" data-file-width="900" data-url="/images/thumb/6/67/Soviet_Union.png/20px-Soviet_Union.png" decoding="async" height="13" loading="lazy" src="/images/thumb/6/67/Soviet_Union.png/20px-Soviet_Union.png" srcset="/images/thumb/6/67/Soviet_Union.png/30px-Soviet_Union.png 1.5x, /images/thumb/6/67/Soviet_Union.png/40px-Soviet_Union.png 2x" width="20"> </a><a href="/wiki/Soviet_Union" title="Soviet Union">Soviet Union</a></span></td><td>359</td><td>366</td><td>417</td><td>359</td><td>274</td><td>305</td><td>362</td><td>343</td></tr><tr><td><span style="white-space:nowrap;"><a href="/wiki/Germany" title="Germany"><img alt="Flag of Germany" class="thumbborder" data-file-height="600" data-file-width="900" data-url="/images/thumb/9/9b/Germany.png/20px-Germany.png" decoding="async" height="13" loading="lazy" src="/images/thumb/9/9b/Germany.png/20px-Germany.png" srcset="/images/thumb/9/9b/Germany.png/30px-Germany.png 1.5x, /images/thumb/9/9b/Germany.png/40px-Germany.png 2x" width="20"> </a><a href="/wiki/Germany" title="Germany">Germany</a></span></td><td>351</td><td>384</td><td>387</td><td>412</td><td>417</td><td>426</td><td>437</td><td>310</td></tr><tr><td><span style="white-space:nowrap;"><a href="/wiki/Austria" title="Austria"><img alt="Flag of Austria" class="thumbborder" data-file-height="600" data-file-width="900" data-url="/images/thumb/7/7f/Austria.png/20px-Austria.png" decoding="async" height="13" loading="lazy" src="/images/thumb/7/7f/Austria.png/20px-Austria.png" srcset="/images/thumb/7/7f/Austria.png/30px-Austria.png 1.5x, /images/thumb/7/7f/Austria.png/40px-Austria.png 2x" width="20"> </a><a href="/wiki/Austria" title="Austria">Austria</a></span></td><td>24</td><td>27</td><td>27</td><td>29</td><td>27</td><td>28</td><td>29</td><td>12</td></tr><tr><td><span style="white-space:nowrap;"><a href="/wiki/Japan" title="Japan"><img alt="Flag of Japan" class="thumbborder" data-file-height="600" data-file-width="900" data-url="/images/thumb/f/fc/Japan.png/20px-Japan.png" decoding="async" height="13" loading="lazy" src="/images/thumb/f/fc/Japan.png/20px-Japan.png" srcset="/images/thumb/f/fc/Japan.png/30px-Japan.png 1.5x, /images/thumb/f/fc/Japan.png/40px-Japan.png 2x" width="20"> </a><a href="/wiki/Japan" title="Japan">Japan</a></span></td><td>169</td><td>184</td><td>192</td><td>196</td><td>197</td><td>194</td><td>189</td><td>144</td></tr><tr><td>Allied / Axis GDP</td><td>2.4</td><td>2.3</td><td>2.1</td><td>2.0</td><td>2.1</td><td>2.3</td><td>3.1</td><td>5.0</td></tr></tbody></table>
+---
 
-(1) Based on Table 1 found in Mark Harrison, The USSR and Total War: Why Didn't the Soviet Economy Collapse in 1942? from Mark Harrison, "The Economics of World War II: an Overview," in Mark Harrison, ed., The Economics of World War II: Six Great Powers in International Comparison, Cambridge University Press (1998), 10.
+Year [ [![Flag of Austria](/images/thumb/7/7f/Austria.png/20px-Austria.png){.thumbborder file-height="600" file-width="900" url="/images/thumb/7/7f/Austria.png/20px-Austria.png" decoding="async" height="13" loading="lazy" srcset="/images/thumb/7/7f/Austria.png/30px-Austria.png 1.5x, /images/thumb/7/7f/Austria.png/40px-Austria.png 2x" width="20"}](/wiki/Austria "Austria") [Austria](/wiki/Austria "Austria") ]{style="white-space:nowrap;"} [ [![Flag of Belgium](/images/thumb/3/32/Belgium.png/20px-Belgium.png){.thumbborder file-height="600" file-width="900" url="/images/thumb/3/32/Belgium.png/20px-Belgium.png" decoding="async" height="13" loading="lazy" srcset="/images/thumb/3/32/Belgium.png/30px-Belgium.png 1.5x, /images/thumb/3/32/Belgium.png/40px-Belgium.png 2x" width="20"}](/wiki/Belgium "Belgium") [Belgium](/wiki/Belgium "Belgium") ]{style="white-space:nowrap;"} [ [![Flag of France](/images/thumb/d/de/France.png/20px-France.png){.thumbborder file-height="600" file-width="900" url="/images/thumb/d/de/France.png/20px-France.png" decoding="async" height="13" loading="lazy" srcset="/images/thumb/d/de/France.png/30px-France.png 1.5x, /images/thumb/d/de/France.png/40px-France.png 2x" width="20"}](/wiki/France "France") [France](/wiki/France "France") ]{style="white-space:nowrap;"} [ [![Flag of Germany](/images/thumb/9/9b/Germany.png/20px-Germany.png){.thumbborder file-height="600" file-width="900" url="/images/thumb/9/9b/Germany.png/20px-Germany.png" decoding="async" height="13" loading="lazy" srcset="/images/thumb/9/9b/Germany.png/30px-Germany.png 1.5x, /images/thumb/9/9b/Germany.png/40px-Germany.png 2x" width="20"}](/wiki/Germany "Germany") [Germany](/wiki/Germany "Germany") ]{style="white-space:nowrap;"} [ [![Flag of Italy](/images/thumb/2/2a/Italy.png/20px-Italy.png){.thumbborder file-height="533" file-width="800" url="/images/thumb/2/2a/Italy.png/20px-Italy.png" decoding="async" height="13" loading="lazy" srcset="/images/thumb/2/2a/Italy.png/30px-Italy.png 1.5x, /images/thumb/2/2a/Italy.png/40px-Italy.png 2x" width="20"}](/wiki/Italy "Italy") [Italy](/wiki/Italy "Italy") ]{style="white-space:nowrap;"} [ [![Flag of Netherlands](/images/thumb/3/32/Netherlands.png/20px-Netherlands.png){.thumbborder file-height="600" file-width="900" url="/images/thumb/3/32/Netherlands.png/20px-Netherlands.png" decoding="async" height="13" loading="lazy" srcset="/images/thumb/3/32/Netherlands.png/30px-Netherlands.png 1.5x, /images/thumb/3/32/Netherlands.png/40px-Netherlands.png 2x" width="20"}](/wiki/Netherlands "Netherlands") [Netherlands](/wiki/Netherlands "Netherlands") ]{style="white-space:nowrap;"} [ [![Flag of Norway](/images/thumb/0/0f/Norway.png/20px-Norway.png){.thumbborder file-height="533" file-width="800" url="/images/thumb/0/0f/Norway.png/20px-Norway.png" decoding="async" height="13" loading="lazy" srcset="/images/thumb/0/0f/Norway.png/30px-Norway.png 1.5x, /images/thumb/0/0f/Norway.png/40px-Norway.png 2x" width="20"}](/wiki/Norway "Norway") [Norway](/wiki/index.php?title=Norway&action=edit&redlink=1 "Norway (page does not exist)"){.new} ]{style="white-space:nowrap;"} [ [![Flag of United Kingdom](/images/thumb/2/29/United_Kingdom.png/20px-United_Kingdom.png){.thumbborder file-height="600" file-width="900" url="/images/thumb/2/29/United_Kingdom.png/20px-United_Kingdom.png" decoding="async" height="13" loading="lazy" srcset="/images/thumb/2/29/United_Kingdom.png/30px-United_Kingdom.png 1.5x, /images/thumb/2/29/United_Kingdom.png/40px-United_Kingdom.png 2x" width="20"}](/wiki/United_Kingdom "United Kingdom") [United Kingdom](/wiki/United_Kingdom "United Kingdom") ]{style="white-space:nowrap;"} [ [![Flag of Japan](/images/thumb/f/fc/Japan.png/20px-Japan.png){.thumbborder file-height="600" file-width="900" url="/images/thumb/f/fc/Japan.png/20px-Japan.png" decoding="async" height="13" loading="lazy" srcset="/images/thumb/f/fc/Japan.png/30px-Japan.png 1.5x, /images/thumb/f/fc/Japan.png/40px-Japan.png 2x" width="20"}](/wiki/Japan "Japan") [Japan](/wiki/Japan "Japan") ]{style="white-space:nowrap;"}
+1939 100,00 100,00 100,00 100,00 100,00 100,00 100,00 100,00 100,00
+1940 96,65 88,59 84,33 99,93 99,56 87,15 90,51 109,48 102,07
+1941 102,96 84,64 69,04 105,64 97,47 81,73 92,16 119,47 102,03
+1942 97,24 77,62 62,19 106,18 95,67 74,08 88,02 121,24 100,07
+1943 99,25 75,87 59,67 108,96 86,32 71,81 85,61 123,67 100,18
+1944 101,38 79,86 48,3 122,61 69,95 47,79 80,40 118,26 94,43
+1945 42,11 88,83 53,69 77,96 54,59 48,46 89,22 112,68 47,80
+1946 47,76 94,64 80,43 45,11 71,08 80,38 97,61 107,71 51,27
+1947 52,90 92,23 86,33 49,74 82,93 91,05 107,50 105,47 54,71
 
-<table border="1" cellspacing="0"><caption><b>1939 GNP in billions of US$ (1985 dollars) by country</b></caption><tbody><tr><th>Country</th><th>GNP (billions, 1985 USD$)</th><th>Portion of World GNP</th></tr><tr><td><span style="white-space:nowrap;"><a href="/wiki/United_States" title="United States"><img alt="Flag of United States" class="thumbborder" data-file-height="600" data-file-width="900" data-url="/images/thumb/5/55/USA.png/20px-USA.png" decoding="async" height="13" loading="lazy" src="/images/thumb/5/55/USA.png/20px-USA.png" srcset="/images/thumb/5/55/USA.png/30px-USA.png 1.5x, /images/thumb/5/55/USA.png/40px-USA.png 2x" width="20"> </a><a class="mw-redirect" href="/wiki/United_States" title="United States">United States</a></span></td><td>788</td><td>22.5%</td></tr><tr><td><span style="white-space:nowrap;"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="Flag of United Kingdom" class="thumbborder" data-file-height="600" data-file-width="900" data-url="/images/thumb/2/29/United_Kingdom.png/20px-United_Kingdom.png" decoding="async" height="13" loading="lazy" src="/images/thumb/2/29/United_Kingdom.png/20px-United_Kingdom.png" srcset="/images/thumb/2/29/United_Kingdom.png/30px-United_Kingdom.png 1.5x, /images/thumb/2/29/United_Kingdom.png/40px-United_Kingdom.png 2x" width="20"> </a><a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a></span></td><td>215</td><td>6.1%</td></tr><tr><td><span style="white-space:nowrap;"><a href="/wiki/Soviet_Union" title="Soviet Union"><img alt="Flag of Soviet Union" class="thumbborder" data-file-height="600" data-file-width="900" data-url="/images/thumb/6/67/Soviet_Union.png/20px-Soviet_Union.png" decoding="async" height="13" loading="lazy" src="/images/thumb/6/67/Soviet_Union.png/20px-Soviet_Union.png" srcset="/images/thumb/6/67/Soviet_Union.png/30px-Soviet_Union.png 1.5x, /images/thumb/6/67/Soviet_Union.png/40px-Soviet_Union.png 2x" width="20"> </a><a href="/wiki/Soviet_Union" title="Soviet Union">Soviet Union</a></span></td><td>308</td><td>8.5%</td></tr><tr><td><span style="white-space:nowrap;"><a href="/wiki/Germany" title="Germany"><img alt="Flag of Germany" class="thumbborder" data-file-height="600" data-file-width="900" data-url="/images/thumb/9/9b/Germany.png/20px-Germany.png" decoding="async" height="13" loading="lazy" src="/images/thumb/9/9b/Germany.png/20px-Germany.png" srcset="/images/thumb/9/9b/Germany.png/30px-Germany.png 1.5x, /images/thumb/9/9b/Germany.png/40px-Germany.png 2x" width="20"> </a><a href="/wiki/Germany" title="Germany">Germany</a></span></td><td>271</td><td>7.7%</td></tr><tr><td><span style="white-space:nowrap;"><a href="/wiki/Italy" title="Italy"><img alt="Flag of Italy" class="thumbborder" data-file-height="533" data-file-width="800" data-url="/images/thumb/2/2a/Italy.png/20px-Italy.png" decoding="async" height="13" loading="lazy" src="/images/thumb/2/2a/Italy.png/20px-Italy.png" srcset="/images/thumb/2/2a/Italy.png/30px-Italy.png 1.5x, /images/thumb/2/2a/Italy.png/40px-Italy.png 2x" width="20"> </a><a href="/wiki/Italy" title="Italy">Italy</a></span></td><td>114</td><td>3.3%</td></tr><tr><td><span style="white-space:nowrap;"><a href="/wiki/Japan" title="Japan"><img alt="Flag of Japan" class="thumbborder" data-file-height="600" data-file-width="900" data-url="/images/thumb/f/fc/Japan.png/20px-Japan.png" decoding="async" height="13" loading="lazy" src="/images/thumb/f/fc/Japan.png/20px-Japan.png" srcset="/images/thumb/f/fc/Japan.png/30px-Japan.png 1.5x, /images/thumb/f/fc/Japan.png/40px-Japan.png 2x" width="20"> </a><a href="/wiki/Japan" title="Japan">Japan</a></span></td><td>135</td><td>3.9%</td></tr></tbody></table>
+---
 
-World GNP = $3,500 billion
+: **GDP Change of European Countries and Japan (1939-1947)**
 
-1944 numbers are essentially the same except that the US is twice as large
+---
 
-<table border="1" cellspacing="0"><caption><b>Percentage of GDP Used for War Aims (in percent)</b></caption><tbody><tr><th>Country</th><th>1939</th><th>1943</th></tr><tr><td>United States</td><td>02</td><td>55</td></tr><tr><td>United Kingdom</td><td>15</td><td>55</td></tr><tr><td>USSR</td><td>17</td><td>53</td></tr><tr><td>Germany</td><td>32</td><td>71</td></tr><tr><td>Italy</td><td>10</td><td>40</td></tr></tbody></table>
+Country 1938 1939 1940 1941 1942 1943 1944 1945
+[ [![Flag of United States](/images/thumb/5/55/USA.png/20px-USA.png){.thumbborder file-height="600" file-width="900" url="/images/thumb/5/55/USA.png/20px-USA.png" decoding="async" height="13" loading="lazy" srcset="/images/thumb/5/55/USA.png/30px-USA.png 1.5x, /images/thumb/5/55/USA.png/40px-USA.png 2x" width="20"}](/wiki/United_States "United States") [United States](/wiki/United_States "United States"){.mw-redirect} ]{style="white-space:nowrap;"} 800 869 943 1094 1235 1399 1499 1474
+[ [![Flag of United Kingdom](/images/thumb/2/29/United_Kingdom.png/20px-United_Kingdom.png){.thumbborder file-height="600" file-width="900" url="/images/thumb/2/29/United_Kingdom.png/20px-United_Kingdom.png" decoding="async" height="13" loading="lazy" srcset="/images/thumb/2/29/United_Kingdom.png/30px-United_Kingdom.png 1.5x, /images/thumb/2/29/United_Kingdom.png/40px-United_Kingdom.png 2x" width="20"}](/wiki/United_Kingdom "United Kingdom") [United Kingdom](/wiki/United_Kingdom "United Kingdom") ]{style="white-space:nowrap;"} 284 287 316 344 353 361 346 331
+[ [![Flag of France](/images/thumb/d/de/France.png/20px-France.png){.thumbborder file-height="600" file-width="900" url="/images/thumb/d/de/France.png/20px-France.png" decoding="async" height="13" loading="lazy" srcset="/images/thumb/d/de/France.png/30px-France.png 1.5x, /images/thumb/d/de/France.png/40px-France.png 2x" width="20"}](/wiki/France "France") [France](/wiki/France "France") ]{style="white-space:nowrap;"} 186 199 164 130 116 110 93 101
+[ [![Flag of Italy](/images/thumb/2/2a/Italy.png/20px-Italy.png){.thumbborder file-height="533" file-width="800" url="/images/thumb/2/2a/Italy.png/20px-Italy.png" decoding="async" height="13" loading="lazy" srcset="/images/thumb/2/2a/Italy.png/30px-Italy.png 1.5x, /images/thumb/2/2a/Italy.png/40px-Italy.png 2x" width="20"}](/wiki/Italy "Italy") [Italy](/wiki/Italy "Italy") ]{style="white-space:nowrap;"} 141 151 147 144 145 137 117 92
+[ [![Flag of Soviet Union](/images/thumb/6/67/Soviet_Union.png/20px-Soviet_Union.png){.thumbborder file-height="600" file-width="900" url="/images/thumb/6/67/Soviet_Union.png/20px-Soviet_Union.png" decoding="async" height="13" loading="lazy" srcset="/images/thumb/6/67/Soviet_Union.png/30px-Soviet_Union.png 1.5x, /images/thumb/6/67/Soviet_Union.png/40px-Soviet_Union.png 2x" width="20"}](/wiki/Soviet_Union "Soviet Union") [Soviet Union](/wiki/Soviet_Union "Soviet Union") ]{style="white-space:nowrap;"} 359 366 417 359 274 305 362 343
+[ [![Flag of Germany](/images/thumb/9/9b/Germany.png/20px-Germany.png){.thumbborder file-height="600" file-width="900" url="/images/thumb/9/9b/Germany.png/20px-Germany.png" decoding="async" height="13" loading="lazy" srcset="/images/thumb/9/9b/Germany.png/30px-Germany.png 1.5x, /images/thumb/9/9b/Germany.png/40px-Germany.png 2x" width="20"}](/wiki/Germany "Germany") [Germany](/wiki/Germany "Germany") ]{style="white-space:nowrap;"} 351 384 387 412 417 426 437 310
+[ [![Flag of Austria](/images/thumb/7/7f/Austria.png/20px-Austria.png){.thumbborder file-height="600" file-width="900" url="/images/thumb/7/7f/Austria.png/20px-Austria.png" decoding="async" height="13" loading="lazy" srcset="/images/thumb/7/7f/Austria.png/30px-Austria.png 1.5x, /images/thumb/7/7f/Austria.png/40px-Austria.png 2x" width="20"}](/wiki/Austria "Austria") [Austria](/wiki/Austria "Austria") ]{style="white-space:nowrap;"} 24 27 27 29 27 28 29 12
+[ [![Flag of Japan](/images/thumb/f/fc/Japan.png/20px-Japan.png){.thumbborder file-height="600" file-width="900" url="/images/thumb/f/fc/Japan.png/20px-Japan.png" decoding="async" height="13" loading="lazy" srcset="/images/thumb/f/fc/Japan.png/30px-Japan.png 1.5x, /images/thumb/f/fc/Japan.png/40px-Japan.png 2x" width="20"}](/wiki/Japan "Japan") [Japan](/wiki/Japan "Japan") ]{style="white-space:nowrap;"} 169 184 192 196 197 194 189 144
+Allied / Axis GDP 2.4 2.3 2.1 2.0 2.1 2.3 3.1 5.0
 
-<table border="1" cellspacing="0"><caption><b>Other Countries During Various Periods</b></caption><tbody><tr><th>Country</th><th>%age of Nominal GDP</th></tr><tr><td>Belgium</td><td>1.77</td></tr><tr><td>Czechoslavkia</td><td>5.34</td></tr><tr><td>Finland</td><td>3.18%</td></tr><tr><td>Netherlands</td><td>1.57</td></tr><tr><td>Norway</td><td>0.86</td></tr><tr><td>Portugal</td><td>5.2</td></tr><tr><td>Spain</td><td>2.23</td></tr><tr><td>Sweden</td><td>1.45</td></tr><tr><td>Switzerland</td><td>1.22</td></tr></tbody></table>
+---
 
-<table border="1" cellspacing="0"><caption><b>Relative World War 2 Munitions Output (U.S. 1944 = 100)</b></caption><tbody><tr><th>Year</th><th><span style="white-space:nowrap;"><a href="/wiki/United_States" title="United States"><img alt="Flag of United States" class="thumbborder" data-file-height="600" data-file-width="900" data-url="/images/thumb/5/55/USA.png/20px-USA.png" decoding="async" height="13" loading="lazy" src="/images/thumb/5/55/USA.png/20px-USA.png" srcset="/images/thumb/5/55/USA.png/30px-USA.png 1.5x, /images/thumb/5/55/USA.png/40px-USA.png 2x" width="20"> </a><a class="mw-redirect" href="/wiki/United_States" title="United States">United States</a></span></th><th><span style="white-space:nowrap;"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="Flag of United Kingdom" class="thumbborder" data-file-height="600" data-file-width="900" data-url="/images/thumb/2/29/United_Kingdom.png/20px-United_Kingdom.png" decoding="async" height="13" loading="lazy" src="/images/thumb/2/29/United_Kingdom.png/20px-United_Kingdom.png" srcset="/images/thumb/2/29/United_Kingdom.png/30px-United_Kingdom.png 1.5x, /images/thumb/2/29/United_Kingdom.png/40px-United_Kingdom.png 2x" width="20"> </a><a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a></span></th><th><span style="white-space:nowrap;"><a href="/wiki/Soviet_Union" title="Soviet Union"><img alt="Flag of Soviet Union" class="thumbborder" data-file-height="600" data-file-width="900" data-url="/images/thumb/6/67/Soviet_Union.png/20px-Soviet_Union.png" decoding="async" height="13" loading="lazy" src="/images/thumb/6/67/Soviet_Union.png/20px-Soviet_Union.png" srcset="/images/thumb/6/67/Soviet_Union.png/30px-Soviet_Union.png 1.5x, /images/thumb/6/67/Soviet_Union.png/40px-Soviet_Union.png 2x" width="20"> </a><a href="/wiki/Soviet_Union" title="Soviet Union">Soviet Union</a></span></th><th><span style="white-space:nowrap;"><a href="/wiki/Germany" title="Germany"><img alt="Flag of Germany" class="thumbborder" data-file-height="600" data-file-width="900" data-url="/images/thumb/9/9b/Germany.png/20px-Germany.png" decoding="async" height="13" loading="lazy" src="/images/thumb/9/9b/Germany.png/20px-Germany.png" srcset="/images/thumb/9/9b/Germany.png/30px-Germany.png 1.5x, /images/thumb/9/9b/Germany.png/40px-Germany.png 2x" width="20"> </a></span>Nazi Germany</th><th><span style="white-space:nowrap;"><a href="/wiki/Japan" title="Japan"><img alt="Flag of Japan" class="thumbborder" data-file-height="600" data-file-width="900" data-url="/images/thumb/f/fc/Japan.png/20px-Japan.png" decoding="async" height="13" loading="lazy" src="/images/thumb/f/fc/Japan.png/20px-Japan.png" srcset="/images/thumb/f/fc/Japan.png/30px-Japan.png 1.5x, /images/thumb/f/fc/Japan.png/40px-Japan.png 2x" width="20"> </a></span>Imperial Japan</th></tr><tr><td>1937</td><td>1</td><td>1</td><td>3</td><td>2</td><td>2</td></tr><tr><td>1938</td><td>1</td><td>2</td><td>4</td><td>3</td><td>3</td></tr><tr><td>1939</td><td>2</td><td>3</td><td>6</td><td>4</td><td>3</td></tr><tr><td>1940</td><td>6</td><td>7</td><td>7</td><td>8</td><td>3</td></tr><tr><td>1941</td><td>15</td><td>10</td><td>12</td><td>8</td><td>4</td></tr><tr><td>1942</td><td>53</td><td>17</td><td>22</td><td>11</td><td>5</td></tr><tr><td>1943</td><td>91</td><td>20</td><td>28</td><td>17</td><td>4</td></tr><tr><td>1944</td><td>100</td><td>19</td><td>31</td><td>21</td><td>3</td></tr></tbody><caption>Source: Delong, J. B. <i><a class="external text" href="http://econ161.berkeley.edu/TCEH/Slouch_Fall18.html" rel="nofollow">Falling into World War II </a>, Feb 1997</i></caption></table>
+: **Wartime GDP of the Great Powers**\
+ _1938 to 1945 in International Dollars and 1990 Prices (billions) (1)_
+
+\(1\) Based on Table 1 found in Mark Harrison, The USSR and Total War:
+Why Didn\'t the Soviet Economy Collapse in 1942? from Mark Harrison,
+\"The Economics of World War II: an Overview,\" in Mark Harrison, ed.,
+The Economics of World War II: Six Great Powers in International
+Comparison, Cambridge University Press (1998), 10.
+
+---
+
+Country GNP (billions, 1985 USD\$) Portion of World GNP
+[ [![Flag of United States](/images/thumb/5/55/USA.png/20px-USA.png){.thumbborder file-height="600" file-width="900" url="/images/thumb/5/55/USA.png/20px-USA.png" decoding="async" height="13" loading="lazy" srcset="/images/thumb/5/55/USA.png/30px-USA.png 1.5x, /images/thumb/5/55/USA.png/40px-USA.png 2x" width="20"}](/wiki/United_States "United States") [United States](/wiki/United_States "United States"){.mw-redirect} ]{style="white-space:nowrap;"} 788 22.5%
+[ [![Flag of United Kingdom](/images/thumb/2/29/United_Kingdom.png/20px-United_Kingdom.png){.thumbborder file-height="600" file-width="900" url="/images/thumb/2/29/United_Kingdom.png/20px-United_Kingdom.png" decoding="async" height="13" loading="lazy" srcset="/images/thumb/2/29/United_Kingdom.png/30px-United_Kingdom.png 1.5x, /images/thumb/2/29/United_Kingdom.png/40px-United_Kingdom.png 2x" width="20"}](/wiki/United_Kingdom "United Kingdom") [United Kingdom](/wiki/United_Kingdom "United Kingdom") ]{style="white-space:nowrap;"} 215 6.1%
+[ [![Flag of Soviet Union](/images/thumb/6/67/Soviet_Union.png/20px-Soviet_Union.png){.thumbborder file-height="600" file-width="900" url="/images/thumb/6/67/Soviet_Union.png/20px-Soviet_Union.png" decoding="async" height="13" loading="lazy" srcset="/images/thumb/6/67/Soviet_Union.png/30px-Soviet_Union.png 1.5x, /images/thumb/6/67/Soviet_Union.png/40px-Soviet_Union.png 2x" width="20"}](/wiki/Soviet_Union "Soviet Union") [Soviet Union](/wiki/Soviet_Union "Soviet Union") ]{style="white-space:nowrap;"} 308 8.5%
+[ [![Flag of Germany](/images/thumb/9/9b/Germany.png/20px-Germany.png){.thumbborder file-height="600" file-width="900" url="/images/thumb/9/9b/Germany.png/20px-Germany.png" decoding="async" height="13" loading="lazy" srcset="/images/thumb/9/9b/Germany.png/30px-Germany.png 1.5x, /images/thumb/9/9b/Germany.png/40px-Germany.png 2x" width="20"}](/wiki/Germany "Germany") [Germany](/wiki/Germany "Germany") ]{style="white-space:nowrap;"} 271 7.7%
+[ [![Flag of Italy](/images/thumb/2/2a/Italy.png/20px-Italy.png){.thumbborder file-height="533" file-width="800" url="/images/thumb/2/2a/Italy.png/20px-Italy.png" decoding="async" height="13" loading="lazy" srcset="/images/thumb/2/2a/Italy.png/30px-Italy.png 1.5x, /images/thumb/2/2a/Italy.png/40px-Italy.png 2x" width="20"}](/wiki/Italy "Italy") [Italy](/wiki/Italy "Italy") ]{style="white-space:nowrap;"} 114 3.3%
+[ [![Flag of Japan](/images/thumb/f/fc/Japan.png/20px-Japan.png){.thumbborder file-height="600" file-width="900" url="/images/thumb/f/fc/Japan.png/20px-Japan.png" decoding="async" height="13" loading="lazy" srcset="/images/thumb/f/fc/Japan.png/30px-Japan.png 1.5x, /images/thumb/f/fc/Japan.png/40px-Japan.png 2x" width="20"}](/wiki/Japan "Japan") [Japan](/wiki/Japan "Japan") ]{style="white-space:nowrap;"} 135 3.9%
+
+---
+
+: **1939 GNP in billions of US\$ (1985 dollars) by country**
+
+World GNP = \$3,500 billion
+
+1944 numbers are essentially the same except that the US is twice as
+large
+
+---
+
+Country 1939 1943
+United States 02 55
+United Kingdom 15 55
+USSR 17 53
+Germany 32 71
+Italy 10 40
+
+---
+
+: **Percentage of GDP Used for War Aims (in percent)**
+
+---
+
+Country %age of Nominal GDP
+Belgium 1.77
+Czechoslavkia 5.34
+Finland 3.18%
+Netherlands 1.57
+Norway 0.86
+Portugal 5.2
+Spain 2.23
+Sweden 1.45
+Switzerland 1.22
+
+---
+
+: **Other Countries During Various Periods**
+
+**Relative World War 2 Munitions Output (U.S. 1944 = 100)**
+
+Year
+:::
+
+[ [![Flag of United
+States](/images/thumb/5/55/USA.png/20px-USA.png){.thumbborder
+file-height="600" file-width="900"
+url="/images/thumb/5/55/USA.png/20px-USA.png" decoding="async"
+height="13" loading="lazy"
+srcset="/images/thumb/5/55/USA.png/30px-USA.png 1.5x, /images/thumb/5/55/USA.png/40px-USA.png 2x"
+width="20"}](/wiki/United_States "United States") [United
+States](/wiki/United_States "United States"){.mw-redirect}
+]{style="white-space:nowrap;"}
+
+[ [![Flag of United
+Kingdom](/images/thumb/2/29/United_Kingdom.png/20px-United_Kingdom.png){.thumbborder
+file-height="600" file-width="900"
+url="/images/thumb/2/29/United_Kingdom.png/20px-United_Kingdom.png"
+decoding="async" height="13" loading="lazy"
+srcset="/images/thumb/2/29/United_Kingdom.png/30px-United_Kingdom.png 1.5x, /images/thumb/2/29/United_Kingdom.png/40px-United_Kingdom.png 2x"
+width="20"}](/wiki/United_Kingdom "United Kingdom") [United
+Kingdom](/wiki/United_Kingdom "United Kingdom")
+]{style="white-space:nowrap;"}
+
+[ [![Flag of Soviet
+Union](/images/thumb/6/67/Soviet_Union.png/20px-Soviet_Union.png){.thumbborder
+file-height="600" file-width="900"
+url="/images/thumb/6/67/Soviet_Union.png/20px-Soviet_Union.png"
+decoding="async" height="13" loading="lazy"
+srcset="/images/thumb/6/67/Soviet_Union.png/30px-Soviet_Union.png 1.5x, /images/thumb/6/67/Soviet_Union.png/40px-Soviet_Union.png 2x"
+width="20"}](/wiki/Soviet_Union "Soviet Union") [Soviet
+Union](/wiki/Soviet_Union "Soviet Union") ]{style="white-space:nowrap;"}
+
+[ [![Flag of
+Germany](/images/thumb/9/9b/Germany.png/20px-Germany.png){.thumbborder
+file-height="600" file-width="900"
+url="/images/thumb/9/9b/Germany.png/20px-Germany.png" decoding="async"
+height="13" loading="lazy"
+srcset="/images/thumb/9/9b/Germany.png/30px-Germany.png 1.5x, /images/thumb/9/9b/Germany.png/40px-Germany.png 2x"
+width="20"}](/wiki/Germany "Germany") ]{style="white-space:nowrap;"}
+Nazi Germany
+
+[ [![Flag of
+Japan](/images/thumb/f/fc/Japan.png/20px-Japan.png){.thumbborder
+file-height="600" file-width="900"
+url="/images/thumb/f/fc/Japan.png/20px-Japan.png" decoding="async"
+height="13" loading="lazy"
+srcset="/images/thumb/f/fc/Japan.png/30px-Japan.png 1.5x, /images/thumb/f/fc/Japan.png/40px-Japan.png 2x"
+width="20"}](/wiki/Japan "Japan") ]{style="white-space:nowrap;"}
+Imperial Japan
+
+1937
+
+1
+
+1
+
+3
+
+2
+
+2
+
+1938
+
+1
+
+2
+
+4
+
+3
+
+3
+
+1939
+
+2
+
+3
+
+6
+
+4
+
+3
+
+1940
+
+6
+
+7
+
+7
+
+8
+
+3
+
+1941
+
+15
+
+10
+
+12
+
+8
+
+4
+
+1942
+
+53
+
+17
+
+22
+
+11
+
+5
+
+1943
+
+91
+
+20
+
+28
+
+17
+
+4
+
+1944
+
+100
+
+19
+
+31
+
+21
+
+3
+
+Source: Delong, J. B. _[Falling into World War
+II](http://econ161.berkeley.edu/TCEH/Slouch_Fall18.html){.external .text
+rel="nofollow"} , Feb 1997_

@@ -2,7 +2,14 @@
 title: Modding_models.csv
 ---
 
-From my look at the models.csv file, it gives the country-specific model names- such as ship classes. Unfortunately, many countries don't have all the names. Each line starts out with code: for example MODEL_GER_12_1. GER is the country code. 12 gives the unit- in this case it's a fighter. 1 is the model- here it's model 1, Early Fighter. Afterwards come the names in different languages. The unit codes are as follows:
+::: mw-parser-output
+From my look at the models.csv file, it gives the country-specific model
+names- such as ship classes. Unfortunately, many countries don\'t have
+all the names. Each line starts out with code: for example
+MODEL_GER_12_1. GER is the country code. 12 gives the unit- in this case
+it\'s a fighter. 1 is the model- here it\'s model 1, Early Fighter.
+Afterwards come the names in different languages. The unit codes are as
+follows:
 
 - 0= Infantry
 - 1= Cavalry
@@ -36,9 +43,11 @@ From my look at the models.csv file, it gives the country-specific model names- 
 - 29 = SSN
 - 30 = TP
 
-Note: Rocket model_0 is flying rocket, model_1 is ballistic missile and model_2 is ICBM
+Note: Rocket model_0 is flying rocket, model_1 is ballistic missile and
+model_2 is ICBM
 
-Brigades also have unit codes like this: BRIG_MODEL_X_Y Unit codes (X) are:
+Brigades also have unit codes like this: BRIG_MODEL_X_Y Unit codes (X)
+are:
 
 - 1= Art
 - 2 = SP-ART
@@ -67,4 +76,18 @@ Brigades also have unit codes like this: BRIG_MODEL_X_Y Unit codes (X) are:
 - 25 = naval_improved_hull_l
 - 26 = naval_torpedoes_l
 
-<table class="metadata plainlinks ambox ambox-style" style=""><tbody><tr><td class="mbox-image"><div style="width: 52px;"><a class="image" href="/wiki/File:Wikitext.png"><img alt="Wikitext.png" data-file-height="20" data-file-width="50" data-url="https://central.paradoxwikis.com/images/2/2f/Wikitext.png" decoding="async" height="20" loading="lazy" src="https://central.paradoxwikis.com/images/2/2f/Wikitext.png" width="50"></a></div></td><td class="mbox-text" style=""><b>This article may need to be formatted <a href="/wiki/Template:Wikify" title="Template:Wikify">following an encyclopedic style </a>.</b><br><small>Please help improve <a class="external text" href="https://hoi2.paradoxwikis.com/index.php?title=Modding_models.csv&amp;action=edit" rel="nofollow">this </a>article if you can.</small></td></tr></tbody></table>
++-----------------------------------+-----------------------------------+
+| ::: {style="width: 52px;"} | **This article may need to be |
+| [![Wikitext.png](https://c | formatted [following an |
+| entral.paradoxwikis.com/images/2/ | encyclopedic |
+| 2f/Wikitext.png){file-height="20" | style](/wiki/T |
+| file-width="50" | emplate:Wikify "Template:Wikify") |
+| url="https://central.paradoxwi | .**\ |
+| kis.com/images/2/2f/Wikitext.png" | [Please help improve |
+| decoding="async" height="20" | [this](https://hoi2.paradoxw |
+| loading="lazy" | ikis.com/index.php?title=Modding\_ |
+| width="50"}] | models.csv&action=edit){.external |
+| (/wiki/File:Wikitext.png){.image} | .text rel="nofollow"} article if |
+| ::: | you can.]{.small} |
++-----------------------------------+-----------------------------------+
+:::

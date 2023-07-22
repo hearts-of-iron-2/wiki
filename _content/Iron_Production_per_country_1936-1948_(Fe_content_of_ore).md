@@ -2,8 +2,51 @@
 title: Iron_Production_per_country_1936-1948_(Fe_content_of_ore)
 ---
 
+::: mw-parser-output
 Source: BR Mitchell.
 
 Numbers are 1000s of metric tons
 
-<table border="1"><tbody><tr><td></td><td>1936</td><td>1937</td><td>1938</td><td>1939</td><td>1940</td><td>1941</td><td>1942</td><td>1943</td><td>1944</td><td>1945</td><td>1946</td><td>1947</td><td>1948</td></tr><tr><td>Algeria</td><td>1010</td><td>1285</td><td>1655</td><td>1605</td><td>877</td><td>179</td><td>180</td><td>94</td><td>413</td><td>628</td><td>912</td><td>851</td><td>1021</td></tr><tr><td>Argentina</td><td>0</td><td>3</td><td>2</td><td>4</td><td>3</td><td>4</td><td>1</td><td>0</td><td>2</td><td>1</td><td>27</td><td>0</td><td>17</td></tr><tr><td>Australia</td><td>1267</td><td>1255</td><td>1509</td><td>1727</td><td>1585</td><td>1514</td><td>1422</td><td>1473</td><td>1372</td><td>1026</td><td>1229</td><td>1445</td><td>1356</td></tr><tr><td>Austria</td><td>500</td><td>850</td><td>1350</td><td>1500</td><td>1600</td><td>1450</td><td>1500</td><td>1600</td><td>1500</td><td>150</td><td>250</td><td>450</td><td>600</td></tr><tr><td>Brazil</td><td>75</td><td>164</td><td>330</td><td>246</td><td>274</td><td>569</td><td>477</td><td>550</td><td>522</td><td>442</td><td>396</td><td>415</td><td>1069</td></tr><tr><td>Canada</td><td>0</td><td>0</td><td>0</td><td>60</td><td>201</td><td>250</td><td>264</td><td>293</td><td>276</td><td>567</td><td>773</td><td>958</td><td>667</td></tr><tr><td>Chile</td><td>815</td><td>916</td><td>950</td><td>995</td><td>1061</td><td>1011</td><td>245</td><td>3</td><td>11</td><td>173</td><td>738</td><td>1084</td><td>1681</td></tr><tr><td>China</td><td>1466</td><td>1705</td><td>1652</td><td>2195</td><td>3407</td><td>3906</td><td>4726</td><td>5065</td><td>3793</td><td>223</td><td>147</td><td>71</td><td>75</td></tr><tr><td>Cuba</td><td>224</td><td>70</td><td>81</td><td>26</td><td>54</td><td>32</td><td>56</td><td>29</td><td>8</td><td>0</td><td>0</td><td>22</td><td>13</td></tr><tr><td>France</td><td>16670</td><td>18900</td><td>16500</td><td>16500</td><td>6350</td><td>5300</td><td>6400</td><td>8450</td><td>4700</td><td>3850</td><td>8100</td><td>19350</td><td>11500</td></tr><tr><td>French Morocco</td><td>0</td><td>33</td><td>131</td><td>210</td><td>38</td><td>2</td><td>2</td><td>5</td><td>3</td><td>0</td><td>58</td><td>70</td><td>137</td></tr><tr><td>Germany</td><td>3350</td><td>4250</td><td>5500</td><td>6600</td><td>8600</td><td>7800</td><td>6850</td><td>6300</td><td>5150</td><td>?</td><td>1950</td><td>2200</td><td>3850</td></tr><tr><td>India</td><td>1649</td><td>1870</td><td>1788</td><td>1930</td><td>2032</td><td>2063</td><td>2083</td><td>1727</td><td>1524</td><td>1494</td><td>1565</td><td>1625</td><td>1483</td></tr><tr><td>Italy</td><td>400</td><td>500</td><td>500</td><td>450</td><td>600</td><td>650</td><td>550</td><td>400</td><td>200</td><td>50</td><td>50</td><td>100</td><td>250</td></tr><tr><td>Japan</td><td>303</td><td>294</td><td>343</td><td>429</td><td>496</td><td>762</td><td>1067</td><td>1403</td><td>1718</td><td>935</td><td>287</td><td>255</td><td>297</td></tr><tr><td>Korea</td><td>98</td><td>86</td><td>323</td><td>357</td><td>480</td><td>552</td><td>769</td><td>958</td><td>1348</td><td>337</td><td>?</td><td>?</td><td>?</td></tr><tr><td>Luxembourg</td><td>2450</td><td>3900</td><td>2550</td><td>2950</td><td>2450</td><td>3450</td><td>2550</td><td>2650</td><td>1450</td><td>700</td><td>1100</td><td>1000</td><td>1700</td></tr><tr><td>Malaya</td><td>1076</td><td>1015</td><td>1051</td><td>1263</td><td>1276</td><td>747</td><td>59</td><td>32</td><td>7</td><td>9</td><td>0</td><td>1</td><td>0</td></tr><tr><td>Mexico</td><td>79</td><td>90</td><td>99</td><td>111</td><td>70</td><td>72</td><td>103</td><td>138</td><td>187</td><td>175</td><td>171</td><td>226</td><td>227</td></tr><tr><td>Newfoundland</td><td>471</td><td>850</td><td>887</td><td>874</td><td>798</td><td>508</td><td>630</td><td>284</td><td>244</td><td>511</td><td>648</td><td>763</td><td>789</td></tr><tr><td>Norway</td><td>400</td><td>500</td><td>700</td><td>650</td><td>300</td><td>300</td><td>150</td><td>100</td><td>150</td><td>50</td><td>50</td><td>50</td><td>100</td></tr><tr><td>Philippines</td><td>403</td><td>370</td><td>565</td><td>653</td><td>692</td><td>468</td><td>45</td><td>92</td><td>36</td><td>0</td><td>0</td><td>0</td><td>10</td></tr><tr><td>Poland</td><td>250</td><td>400</td><td>450</td><td>?</td><td>400</td><td>450</td><td>400</td><td>350</td><td>350</td><td>?</td><td>200</td><td>250</td><td>350</td></tr><tr><td>Romania</td><td>50</td><td>50</td><td>50</td><td>50</td><td>50</td><td>100</td><td>100</td><td>150</td><td>100</td><td>50</td><td>50</td><td>50</td><td>100</td></tr><tr><td>Sierra Leone</td><td>315</td><td>386</td><td>525</td><td>505</td><td>420</td><td>622</td><td>380</td><td>339</td><td>277</td><td>504</td><td>495</td><td>512</td><td>567</td></tr><tr><td>South Africa</td><td>235</td><td>295</td><td>320</td><td>312</td><td>396</td><td>504</td><td>432</td><td>449</td><td>464</td><td>540</td><td>656</td><td>724</td><td>691</td></tr><tr><td>Spain</td><td>1150</td><td>650</td><td>1250</td><td>1800</td><td>1300</td><td>1150</td><td>1100</td><td>1050</td><td>1100</td><td>850</td><td>1200</td><td>1200</td><td>1250</td></tr><tr><td>Spanish Morocco</td><td>636</td><td>854</td><td>805</td><td>691</td><td>242</td><td>350</td><td>344</td><td>346</td><td>438</td><td>472</td><td>483</td><td>533</td><td>543</td></tr><tr><td>Sweden</td><td>6720</td><td>9000</td><td>8340</td><td>8280</td><td>6780</td><td>6300</td><td>5820</td><td>6480</td><td>4380</td><td>2340</td><td>4140</td><td>5340</td><td>7980</td></tr><tr><td>Tunisia</td><td>387</td><td>478</td><td>424</td><td>420</td><td>190</td><td>0</td><td>15</td><td>15</td><td>50</td><td>69</td><td>96</td><td>203</td><td>380</td></tr><tr><td>Turkey</td><td>0</td><td>0</td><td>50</td><td>155</td><td>85</td><td>38</td><td>12</td><td>59</td><td>59</td><td>82</td><td>73</td><td>95</td><td>121</td></tr><tr><td>UK</td><td>6450</td><td>7200</td><td>6000</td><td>7650</td><td>9000</td><td>9650</td><td>10100</td><td>9400</td><td>7850</td><td>7200</td><td>6200</td><td>5650</td><td>6650</td></tr><tr><td>USA</td><td>25078</td><td>36991</td><td>14322</td><td>26423</td><td>37918</td><td>47819</td><td>54767</td><td>52127</td><td>48653</td><td>45882</td><td>36154</td><td>47709</td><td>50891</td></tr><tr><td>USSR</td><td>13900</td><td>13900</td><td>13300</td><td>13450</td><td>14950</td><td>?</td><td>?</td><td>?</td><td>?</td><td>7950</td><td>9650</td><td>11650</td><td>14000</td></tr><tr><td>Yugoslavia</td><td>250</td><td>300</td><td>300</td><td>350</td><td>?</td><td>?</td><td>?</td><td>?</td><td>?</td><td>?</td><td>200</td><td>350</td><td>450</td></tr></tbody></table>
+---
+
+                    1936    1937    1938    1939    1940    1941    1942    1943    1944    1945    1946    1947    1948
+
+Algeria 1010 1285 1655 1605 877 179 180 94 413 628 912 851 1021
+Argentina 0 3 2 4 3 4 1 0 2 1 27 0 17
+Australia 1267 1255 1509 1727 1585 1514 1422 1473 1372 1026 1229 1445 1356
+Austria 500 850 1350 1500 1600 1450 1500 1600 1500 150 250 450 600
+Brazil 75 164 330 246 274 569 477 550 522 442 396 415 1069
+Canada 0 0 0 60 201 250 264 293 276 567 773 958 667
+Chile 815 916 950 995 1061 1011 245 3 11 173 738 1084 1681
+China 1466 1705 1652 2195 3407 3906 4726 5065 3793 223 147 71 75
+Cuba 224 70 81 26 54 32 56 29 8 0 0 22 13
+France 16670 18900 16500 16500 6350 5300 6400 8450 4700 3850 8100 19350 11500
+French Morocco 0 33 131 210 38 2 2 5 3 0 58 70 137
+Germany 3350 4250 5500 6600 8600 7800 6850 6300 5150 ? 1950 2200 3850
+India 1649 1870 1788 1930 2032 2063 2083 1727 1524 1494 1565 1625 1483
+Italy 400 500 500 450 600 650 550 400 200 50 50 100 250
+Japan 303 294 343 429 496 762 1067 1403 1718 935 287 255 297
+Korea 98 86 323 357 480 552 769 958 1348 337 ? ? ?
+Luxembourg 2450 3900 2550 2950 2450 3450 2550 2650 1450 700 1100 1000 1700
+Malaya 1076 1015 1051 1263 1276 747 59 32 7 9 0 1 0
+Mexico 79 90 99 111 70 72 103 138 187 175 171 226 227
+Newfoundland 471 850 887 874 798 508 630 284 244 511 648 763 789
+Norway 400 500 700 650 300 300 150 100 150 50 50 50 100
+Philippines 403 370 565 653 692 468 45 92 36 0 0 0 10
+Poland 250 400 450 ? 400 450 400 350 350 ? 200 250 350
+Romania 50 50 50 50 50 100 100 150 100 50 50 50 100
+Sierra Leone 315 386 525 505 420 622 380 339 277 504 495 512 567
+South Africa 235 295 320 312 396 504 432 449 464 540 656 724 691
+Spain 1150 650 1250 1800 1300 1150 1100 1050 1100 850 1200 1200 1250
+Spanish Morocco 636 854 805 691 242 350 344 346 438 472 483 533 543
+Sweden 6720 9000 8340 8280 6780 6300 5820 6480 4380 2340 4140 5340 7980
+Tunisia 387 478 424 420 190 0 15 15 50 69 96 203 380
+Turkey 0 0 50 155 85 38 12 59 59 82 73 95 121
+UK 6450 7200 6000 7650 9000 9650 10100 9400 7850 7200 6200 5650 6650
+USA 25078 36991 14322 26423 37918 47819 54767 52127 48653 45882 36154 47709 50891
+USSR 13900 13900 13300 13450 14950 ? ? ? ? 7950 9650 11650 14000
+Yugoslavia 250 300 300 350 ? ? ? ? ? ? 200 350 450
+
+---
+
+:::

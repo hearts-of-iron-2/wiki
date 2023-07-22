@@ -2,6 +2,27 @@
 title: Natural_Rubber_Production_per_country_1936-1948
 ---
 
+::: mw-parser-output
 Source: BR Mitchell
 
-<table border="1"><tbody><tr><td></td><td>1936</td><td>1937</td><td>1938</td><td>1939</td><td>1940</td><td>1941</td><td>1942</td><td>1943</td><td>1944</td><td>1945</td><td>1946</td><td>1947</td><td>1948</td></tr><tr><td>Liberia</td><td>1.6</td><td>2.3</td><td>3</td><td>5.5</td><td>7.3</td><td>8.5</td><td>12</td><td>15</td><td>18</td><td>20</td><td>21</td><td>23</td><td>25</td></tr><tr><td>Nigeria</td><td>2.2</td><td>2.6</td><td>3.2</td><td>2.9</td><td>3</td><td>2.1</td><td>6.8</td><td>7.5</td><td>9.6</td><td>10</td><td>12</td><td>7.6</td><td>8.2</td></tr><tr><td>Zaire</td><td>0.8</td><td>1</td><td>1.2</td><td>1.1</td><td>1.2</td><td>1.3</td><td>1.6</td><td>8</td><td>11</td><td>8</td><td>4.5</td><td>4</td><td>5</td></tr><tr><td>India</td><td>14</td><td>15</td><td>14</td><td>14</td><td>16</td><td>16</td><td>16</td><td>17</td><td>18</td><td>16</td><td>16</td><td>17</td><td>16</td></tr><tr><td><a class="new" href="/wiki/index.php?title=IndoChina&amp;action=edit&amp;redlink=1" title="IndoChina (page does not exist)">IndoChina</a></td><td>41</td><td>45</td><td>58</td><td>67</td><td>72</td><td>76</td><td>75</td><td>75</td><td>61</td><td>12</td><td>20</td><td>39</td><td>45</td></tr><tr><td>Dutch Indies</td><td>313</td><td>454</td><td>325</td><td>383</td><td>549</td><td>660</td><td>103</td><td>102</td><td>51</td><td>10</td><td>178</td><td>282</td><td>439</td></tr><tr><td>Malaya</td><td>370</td><td>509</td><td>365</td><td>366</td><td>556</td><td>610</td><td>157</td><td>76</td><td>25</td><td>9</td><td>410</td><td>657</td><td>704</td></tr><tr><td>Phil</td><td>0.4</td><td>0.4</td><td>0.7</td><td>0.6</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>2</td><td>1.5</td></tr><tr><td>Sabah</td><td>9</td><td>14</td><td>12</td><td>12</td><td>18</td><td>20</td><td>0</td><td>0</td><td>0</td><td>0</td><td>4</td><td>15</td><td>20</td></tr><tr><td>Sarawak</td><td>22</td><td>27</td><td>18</td><td>24</td><td>36</td><td>36</td><td>10</td><td>5</td><td>0</td><td>0</td><td>24</td><td>37</td><td>40</td></tr><tr><td>ceylon</td><td>51</td><td>71</td><td>52</td><td>64</td><td>93</td><td>90</td><td>118</td><td>98</td><td>105</td><td>97</td><td>96</td><td>90</td><td>97</td></tr><tr><td>Thai</td><td>35</td><td>47</td><td>51</td><td>54</td><td>59</td><td>62</td><td>64</td><td>65</td><td>18</td><td>0</td><td>25</td><td>53</td><td>98</td></tr><tr><td>Brazil</td><td>13</td><td>15</td><td>12</td><td>12</td><td>12</td><td>11</td><td>12</td><td>15</td><td>21</td><td>19</td><td>18</td><td>14</td><td>5.4</td></tr></tbody></table>
+---
+
+                                                                                                               1936   1937   1938   1939   1940   1941   1942   1943   1944   1945   1946   1947   1948
+
+Liberia 1.6 2.3 3 5.5 7.3 8.5 12 15 18 20 21 23 25
+Nigeria 2.2 2.6 3.2 2.9 3 2.1 6.8 7.5 9.6 10 12 7.6 8.2
+Zaire 0.8 1 1.2 1.1 1.2 1.3 1.6 8 11 8 4.5 4 5
+India 14 15 14 14 16 16 16 17 18 16 16 17 16
+[IndoChina](/wiki/index.php?title=IndoChina&action=edit&redlink=1 "IndoChina (page does not exist)"){.new} 41 45 58 67 72 76 75 75 61 12 20 39 45
+Dutch Indies 313 454 325 383 549 660 103 102 51 10 178 282 439
+Malaya 370 509 365 366 556 610 157 76 25 9 410 657 704
+Phil 0.4 0.4 0.7 0.6 1 0 0 0 0 0 1 2 1.5
+Sabah 9 14 12 12 18 20 0 0 0 0 4 15 20
+Sarawak 22 27 18 24 36 36 10 5 0 0 24 37 40
+ceylon 51 71 52 64 93 90 118 98 105 97 96 90 97
+Thai 35 47 51 54 59 62 64 65 18 0 25 53 98
+Brazil 13 15 12 12 12 11 12 15 21 19 18 14 5.4
+
+---
+
+:::

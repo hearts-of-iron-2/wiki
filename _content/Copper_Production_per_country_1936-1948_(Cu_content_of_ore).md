@@ -2,8 +2,39 @@
 title: Copper_Production_per_country_1936-1948_(Cu_content_of_ore)
 ---
 
+::: mw-parser-output
 Source: BR Mitchell.
 
 Numbers are 1000s of metric tons
 
-<table border="1"><tbody><tr><td></td><td>1936</td><td>1937</td><td>1938</td><td>1939</td><td>1940</td><td>1941</td><td>1942</td><td>1943</td><td>1944</td><td>1945</td><td>1946</td><td>1947</td><td>1948</td></tr><tr><td>Australia</td><td>20</td><td>20</td><td>20</td><td>22</td><td>22</td><td>23</td><td>21</td><td>26</td><td>30</td><td>26</td><td>19</td><td>14</td><td>3</td></tr><tr><td>Bolivia</td><td>3</td><td>4</td><td>3</td><td>4</td><td>7</td><td>7</td><td>6</td><td>6</td><td>6</td><td>6</td><td>6</td><td>6</td><td>7</td></tr><tr><td>Canada</td><td>191</td><td>240</td><td>259</td><td>276</td><td>297</td><td>292</td><td>274</td><td>261</td><td>248</td><td>216</td><td>167</td><td>205</td><td>218</td></tr><tr><td>Chile</td><td>256</td><td>413</td><td>351</td><td>341</td><td>365</td><td>469</td><td>484</td><td>497</td><td>498</td><td>470</td><td>361</td><td>427</td><td>445</td></tr><tr><td>Cuba</td><td>12</td><td>13</td><td>14</td><td>11</td><td>10</td><td>10</td><td>10</td><td>7</td><td>7</td><td>9</td><td>12</td><td>13</td><td>16</td></tr><tr><td>Cyprus</td><td>17</td><td>28</td><td>37</td><td>31</td><td>9</td><td>?</td><td>?</td><td>?</td><td>?</td><td>1</td><td>8</td><td>12</td><td>6</td></tr><tr><td>Germany</td><td>29</td><td>30</td><td>30</td><td>24</td><td>25</td><td>24</td><td>24</td><td>24</td><td>25</td><td>?</td><td>3</td><td>4</td><td>6</td></tr><tr><td>India</td><td>8</td><td>7</td><td>6</td><td>8</td><td>8</td><td>7</td><td>7</td><td>7</td><td>7</td><td>7</td><td>9</td><td>8</td><td>8</td></tr><tr><td>Japan</td><td>68</td><td>67</td><td>68</td><td>70</td><td>68</td><td>65</td><td>72</td><td>81</td><td>80</td><td>29</td><td>17</td><td>22</td><td>26</td></tr><tr><td>Korea</td><td>1</td><td>1</td><td>1</td><td>2</td><td>3</td><td>1</td><td>1</td><td>1</td><td>1</td><td>?</td><td>?</td><td>?</td><td>?</td></tr><tr><td>Mexico</td><td>30</td><td>46</td><td>42</td><td>44</td><td>38</td><td>49</td><td>51</td><td>50</td><td>41</td><td>62</td><td>61</td><td>64</td><td>59</td></tr><tr><td>Namibia</td><td>0</td><td>12</td><td>9</td><td>9</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>5</td><td>8</td></tr><tr><td>Newfoundland</td><td>5</td><td>9</td><td>8</td><td>10</td><td>9</td><td>7</td><td>6</td><td>6</td><td>5</td><td>5</td><td>5</td><td>4</td><td>4</td></tr><tr><td>Peru</td><td>3</td><td>36</td><td>38</td><td>36</td><td>44</td><td>37</td><td>35</td><td>33</td><td>32</td><td>32</td><td>25</td><td>23</td><td>18</td></tr><tr><td>Philippines</td><td>0</td><td>2</td><td>4</td><td>8</td><td>9</td><td>10</td><td>3</td><td>?</td><td>?</td><td>?</td><td>0</td><td>3</td><td>2</td></tr><tr><td>South Africa</td><td>9</td><td>11</td><td>11</td><td>11</td><td>14</td><td>21</td><td>25</td><td>23</td><td>23</td><td>24</td><td>28</td><td>30</td><td>29</td></tr><tr><td>Spain</td><td>23</td><td>17</td><td>23</td><td>10</td><td>7</td><td>8</td><td>14</td><td>18</td><td>18</td><td>15</td><td>19</td><td>17</td><td>19</td></tr><tr><td>Turkey</td><td>0</td><td>1</td><td>2</td><td>7</td><td>9</td><td>11</td><td>8</td><td>10</td><td>11</td><td>10</td><td>10</td><td>10</td><td>4</td></tr><tr><td>USA</td><td>557</td><td>764</td><td>506</td><td>661</td><td>797</td><td>869</td><td>980</td><td>990</td><td>882</td><td>701</td><td>552</td><td>769</td><td>757</td></tr><tr><td>Yugoslavia</td><td>39</td><td>39</td><td>42</td><td>42</td><td>?</td><td>?</td><td>?</td><td>?</td><td>?</td><td>?</td><td>22</td><td>37</td><td>37</td></tr><tr><td>Zaire</td><td>98</td><td>151</td><td>124</td><td>123</td><td>149</td><td>162</td><td>166</td><td>157</td><td>165</td><td>160</td><td>144</td><td>151</td><td>155</td></tr><tr><td>Zambia</td><td>145</td><td>211</td><td>216</td><td>215</td><td>267</td><td>232</td><td>251</td><td>255</td><td>224</td><td>197</td><td>185</td><td>196</td><td>217</td></tr><tr><td>Zimbabwe</td><td>0</td><td>0</td><td>0</td><td>25</td><td>26</td><td>25</td><td>24</td><td>20</td><td>18</td><td>18</td><td>17</td><td>16</td><td>16</td></tr></tbody></table>
+---
+
+                 1936   1937   1938   1939   1940   1941   1942   1943   1944   1945   1946   1947   1948
+
+Australia 20 20 20 22 22 23 21 26 30 26 19 14 3
+Bolivia 3 4 3 4 7 7 6 6 6 6 6 6 7
+Canada 191 240 259 276 297 292 274 261 248 216 167 205 218
+Chile 256 413 351 341 365 469 484 497 498 470 361 427 445
+Cuba 12 13 14 11 10 10 10 7 7 9 12 13 16
+Cyprus 17 28 37 31 9 ? ? ? ? 1 8 12 6
+Germany 29 30 30 24 25 24 24 24 25 ? 3 4 6
+India 8 7 6 8 8 7 7 7 7 7 9 8 8
+Japan 68 67 68 70 68 65 72 81 80 29 17 22 26
+Korea 1 1 1 2 3 1 1 1 1 ? ? ? ?
+Mexico 30 46 42 44 38 49 51 50 41 62 61 64 59
+Namibia 0 12 9 9 1 0 0 0 0 0 0 5 8
+Newfoundland 5 9 8 10 9 7 6 6 5 5 5 4 4
+Peru 3 36 38 36 44 37 35 33 32 32 25 23 18
+Philippines 0 2 4 8 9 10 3 ? ? ? 0 3 2
+South Africa 9 11 11 11 14 21 25 23 23 24 28 30 29
+Spain 23 17 23 10 7 8 14 18 18 15 19 17 19
+Turkey 0 1 2 7 9 11 8 10 11 10 10 10 4
+USA 557 764 506 661 797 869 980 990 882 701 552 769 757
+Yugoslavia 39 39 42 42 ? ? ? ? ? ? 22 37 37
+Zaire 98 151 124 123 149 162 166 157 165 160 144 151 155
+Zambia 145 211 216 215 267 232 251 255 224 197 185 196 217
+Zimbabwe 0 0 0 25 26 25 24 20 18 18 17 16 16
+
+---
+
+:::

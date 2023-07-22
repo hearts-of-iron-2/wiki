@@ -2,6 +2,100 @@
 title: South_America
 ---
 
- <table class="metadata plainlinks ambox ambox-style" style=""><tbody><tr><td class="mbox-image"><div style="width: 52px;"><a class="image" href="/wiki/File:Wikitext.png"><img alt="Wikitext.png" data-file-height="20" data-file-width="50" data-url="https://central.paradoxwikis.com/images/2/2f/Wikitext.png" decoding="async" height="20" loading="lazy" src="https://central.paradoxwikis.com/images/2/2f/Wikitext.png" width="50"></a></div></td><td class="mbox-text" style=""><b>This article may need to be formatted <a href="/wiki/Template:Wikify" title="Template:Wikify">following an encyclopedic style </a>.</b><br><small>Please help improve <a class="external text" href="https://hoi2.paradoxwikis.com/index.php?title=South_America&amp;action=edit" rel="nofollow">this </a>article if you can.</small></td></tr></tbody></table>
+::: mw-parser-output
++-----------------------------------+-----------------------------------+
+| ::: {style="width: 52px;"} | **This article may need to be |
+| [![Wikitext.png](https://c | formatted [following an |
+| entral.paradoxwikis.com/images/2/ | encyclopedic |
+| 2f/Wikitext.png){file-height="20" | style](/wiki/T |
+| file-width="50" | emplate:Wikify "Template:Wikify") |
+| url="https://central.paradoxwi | .**\ |
+| kis.com/images/2/2f/Wikitext.png" | [Please help improve |
+| decoding="async" height="20" | [this](https://hoi2.par |
+| loading="lazy" | adoxwikis.com/index.php?title=Sou |
+| width="50"}] | th_America&action=edit){.external |
+| (/wiki/File:Wikitext.png){.image} | .text rel="nofollow"} article if |
+| ::: | you can.]{.small} |
++-----------------------------------+-----------------------------------+
 
-<table><tbody><tr><td>Country</td><td></td><td>Required Provinces</td><td></td><td></td><td>Extra Provinces</td><td></td></tr><tr><td>Tag</td><td>Name</td><td>Id</td><td>Name</td><td>Capital</td><td>Id</td><td>name</td></tr><tr><td>ARG</td><td>Argentina</td><td>851</td><td>Rosario</td><td></td><td>866</td><td>Falkland Islands</td></tr><tr><td></td><td></td><td>667</td><td>Buenos Aires</td><td>C</td><td>843</td><td>San Miguel de Tucumán</td></tr><tr><td></td><td></td><td>853</td><td>Bahia Blanca</td><td></td><td>844</td><td>Corrientes</td></tr><tr><td></td><td></td><td>852</td><td>Mar del Plata</td><td></td><td>845</td><td>Córdoba</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>854</td><td>Viedma</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>855</td><td>Neuquén</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>857</td><td>Puerto Madryn</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>858</td><td>Comodoro Rivadavia</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>859</td><td>San Carlos de Bariloche</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>862</td><td>Sarmiento</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>863</td><td>Santa Cruz</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>865</td><td>Tierra del Fuego</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>850</td><td>Concordia</td></tr><tr><td>BOL</td><td>Bolivia</td><td>836</td><td>Santa Cruz</td><td></td><td>837</td><td>Asunción</td></tr><tr><td></td><td></td><td>833</td><td>Perseverancia</td><td></td><td>822</td><td>Rio Branco</td></tr><tr><td></td><td></td><td>838</td><td>Sucre</td><td></td><td>839</td><td>Antofagasta</td></tr><tr><td></td><td></td><td>832</td><td>La Paz</td><td>C</td><td></td><td></td></tr><tr><td></td><td></td><td>828</td><td>Cobija</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>827</td><td>Riberalta</td><td></td><td></td><td></td></tr><tr><td>BRA</td><td>Brazil</td><td>835</td><td>Mato Grosso</td><td></td><td>848</td><td>Pôrto Alegre</td></tr><tr><td></td><td></td><td>834</td><td>Cuiabá</td><td></td><td>847</td><td>Curitiba</td></tr><tr><td></td><td></td><td>825</td><td>Pôrto Velho</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>823</td><td>Tefé</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>822</td><td>Rio Branco</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>820</td><td>Solimões</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>872</td><td>Boa Vista</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>824</td><td>Manaus</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>826</td><td>Santarém</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>878</td><td>Marabá</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>876</td><td>Macapá</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>877</td><td>Marajó</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>879</td><td>Belém</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>883</td><td>Goiás</td><td>C</td><td></td><td></td></tr><tr><td></td><td></td><td>887</td><td>Campinas</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>886</td><td>São Paulo</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>885</td><td>Rio de Janeiro</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>884</td><td>Vitória</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>882</td><td>Salvador</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>880</td><td>Fortaleza</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>881</td><td>Recife</td><td></td><td></td><td></td></tr><tr><td>CHL</td><td>Chile</td><td>840</td><td>Santiago</td><td>C</td><td>864</td><td>Punta Arenas</td></tr><tr><td></td><td></td><td>856</td><td>Puerto Montt</td><td></td><td>839</td><td>Antofagasta</td></tr><tr><td></td><td></td><td>860</td><td>Puerto Aisén</td><td></td><td>841</td><td>Juan Fernández Archipelago</td></tr><tr><td></td><td></td><td>861</td><td>Wellington</td><td></td><td>842</td><td>Isla San Félix</td></tr><tr><td>COL</td><td>Colombia</td><td>803</td><td>Barranquilla</td><td>C</td><td></td><td></td></tr><tr><td></td><td></td><td>812</td><td>Cúcuta</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>813</td><td>Bogotá</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>890</td><td>Medellín</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>867</td><td>Angostura Falls</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>819</td><td>Mitú</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>868</td><td>Inirida</td><td></td><td></td><td></td></tr><tr><td>ECU</td><td>Ecuador</td><td>814</td><td>Guayaquil</td><td></td><td>818</td><td>Iquitos</td></tr><tr><td></td><td></td><td>815</td><td>Quito</td><td>C</td><td></td><td></td></tr><tr><td></td><td></td><td>817</td><td>Tigre</td><td></td><td></td><td></td></tr><tr><td>GUY</td><td>Guyana</td><td>873</td><td>Georgetown</td><td>C</td><td>871</td><td>Cuyuni</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>874</td><td>Paramaribo</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>875</td><td>Cayenne</td></tr><tr><td>PAR</td><td>Paraguay</td><td>837</td><td>Asunción</td><td>C</td><td></td><td></td></tr><tr><td></td><td></td><td>846</td><td>Ciudad del Este</td><td></td><td></td><td></td></tr><tr><td>PRU</td><td>Peru</td><td>831</td><td>Arequipa</td><td></td><td>818</td><td>Iquitos</td></tr><tr><td></td><td></td><td>829</td><td>Cuzco</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>830</td><td>Lima</td><td>C</td><td></td><td></td></tr><tr><td></td><td></td><td>821</td><td>Pucallpa</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>816</td><td>Trujillo</td><td></td><td></td><td></td></tr><tr><td>URU</td><td>Uruguay</td><td>849</td><td>Montevideo</td><td>C</td><td></td><td></td></tr><tr><td>VEN</td><td>Venezuela</td><td>804</td><td>Maracaibo</td><td></td><td>871</td><td>Cuyuni</td></tr><tr><td></td><td></td><td>802</td><td>Barquisimeto</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>810</td><td>Cumaná</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>811</td><td>Caracas</td><td>C</td><td></td><td></td></tr><tr><td></td><td></td><td>869</td><td>Ciudad Bolivar</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>870</td><td>Ciudad Guayana</td><td></td><td></td><td></td></tr></tbody></table>
+\
+
+---
+
+Country Required Provinces Extra Provinces  
+ Tag Name Id Name Capital Id name
+ARG Argentina 851 Rosario 866 Falkland Islands
+667 Buenos Aires C 843 San Miguel de Tucumán
+853 Bahia Blanca 844 Corrientes
+852 Mar del Plata 845 Córdoba
+854 Viedma
+855 Neuquén
+857 Puerto Madryn
+858 Comodoro Rivadavia
+859 San Carlos de Bariloche
+862 Sarmiento
+863 Santa Cruz
+865 Tierra del Fuego
+850 Concordia
+BOL Bolivia 836 Santa Cruz 837 Asunción
+833 Perseverancia 822 Rio Branco
+838 Sucre 839 Antofagasta
+832 La Paz C  
+ 828 Cobija  
+ 827 Riberalta  
+ BRA Brazil 835 Mato Grosso 848 Pôrto Alegre
+834 Cuiabá 847 Curitiba
+825 Pôrto Velho  
+ 823 Tefé  
+ 822 Rio Branco  
+ 820 Solimões  
+ 872 Boa Vista  
+ 824 Manaus  
+ 826 Santarém  
+ 878 Marabá  
+ 876 Macapá  
+ 877 Marajó  
+ 879 Belém  
+ 883 Goiás C  
+ 887 Campinas  
+ 886 São Paulo  
+ 885 Rio de Janeiro  
+ 884 Vitória  
+ 882 Salvador  
+ 880 Fortaleza  
+ 881 Recife  
+ CHL Chile 840 Santiago C 864 Punta Arenas
+856 Puerto Montt 839 Antofagasta
+860 Puerto Aisén 841 Juan Fernández Archipelago
+861 Wellington 842 Isla San Félix
+COL Colombia 803 Barranquilla C  
+ 812 Cúcuta  
+ 813 Bogotá  
+ 890 Medellín  
+ 867 Angostura Falls  
+ 819 Mitú  
+ 868 Inirida  
+ ECU Ecuador 814 Guayaquil 818 Iquitos
+815 Quito C  
+ 817 Tigre  
+ GUY Guyana 873 Georgetown C 871 Cuyuni
+874 Paramaribo
+875 Cayenne
+PAR Paraguay 837 Asunción C  
+ 846 Ciudad del Este  
+ PRU Peru 831 Arequipa 818 Iquitos
+829 Cuzco  
+ 830 Lima C  
+ 821 Pucallpa  
+ 816 Trujillo  
+ URU Uruguay 849 Montevideo C  
+ VEN Venezuela 804 Maracaibo 871 Cuyuni
+802 Barquisimeto  
+ 810 Cumaná  
+ 811 Caracas C  
+ 869 Ciudad Bolivar  
+ 870 Ciudad Guayana
+
+---
+
+:::

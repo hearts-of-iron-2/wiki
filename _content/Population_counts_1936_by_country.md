@@ -2,57 +2,85 @@
 title: Population_counts_1936_by_country
 ---
 
-This page contains populations of the major countries starting in 1936. These numbers are going to be used as a base for manpower calculations for Super AI Bundle. The bullet signifies the main body of the country. Any sub lines are countries that were formed internally after world war II and are used in the population counts. These numbers are rounded to the nearest million. One manpower point equals roughly 1000 soldiers. The special Infantry divisions will have manpower requirements based off their historical division sizes.
+::: mw-parser-output
+This page contains populations of the major countries starting in 1936.
+These numbers are going to be used as a base for manpower calculations
+for Super AI Bundle. The bullet signifies the main body of the country.
+Any sub lines are countries that were formed internally after world war
+II and are used in the population counts. These numbers are rounded to
+the nearest million. One manpower point equals roughly 1000 soldiers.
+The special Infantry divisions will have manpower requirements based off
+their historical division sizes.
 
-## Contents
+::: {#toc .toc aria-labelledby="mw-toc-heading" role="navigation"}
+::: {.toctitle dir="ltr" lang="en"}
 
-- [1 Major Powers](#Major_Powers)
-- [2 Minors](#Minors)
-  - [2.1 Pacific](#Pacific)
-  - [2.2 Europe](#Europe)
-  - [2.3 Africa](#Africa)
-  - [2.4 Middle East](#Middle_East)
-  - [2.5 North America](#North_America)
-  - [2.6 Central America](#Central_America)
-  - [2.7 South America](#South_America)
-  - [2.8 References](#References)
+## Contents {#mw-toc-heading}
 
-# Major Powers
+[ ]{.toctogglespan}
+:::
+
+- [[ 1 ]{.tocnumber} [ Major Powers ]{.toctext}](#Major_Powers)
+- [[ 2 ]{.tocnumber} [ Minors ]{.toctext}](#Minors) - [[ 2.1 ]{.tocnumber} [ Pacific ]{.toctext}](#Pacific) - [[ 2.2 ]{.tocnumber} [ Europe ]{.toctext}](#Europe) - [[ 2.3 ]{.tocnumber} [ Africa ]{.toctext}](#Africa) - [[ 2.4 ]{.tocnumber} [ Middle East ]{.toctext}](#Middle_East) - [[ 2.5 ]{.tocnumber} [ North America
+  ]{.toctext}](#North_America) - [[ 2.6 ]{.tocnumber} [ Central America
+  ]{.toctext}](#Central_America) - [[ 2.7 ]{.tocnumber} [ South America
+  ]{.toctext}](#South_America) - [[ 2.8 ]{.tocnumber} [ References ]{.toctext}](#References)
+  :::
+
+# [ Major Powers ]{#Major_Powers .mw-headline}
 
 - China 465 million
-
   - Manchuria 35 million
   - Sinkiang 4 million
   - Tibet 4 million
 
-- USA 128 million
+```{=html}
+<!-- -->
+```
 
+- USA 128 million
   - Guam 0 million
   - Philippines 15 million
 
+```{=html}
+<!-- -->
+```
+
 - Italy 42 million
 
-- Japan 70 million
+```{=html}
+<!-- -->
+```
 
+- Japan 70 million
   - North Korea 9 million
   - South Korea 21 million
   - Mariana Islands 0
   - Marshall Islands 0
   - Taiwan 5 million
 
-- Germany 67 million
+```{=html}
+<!-- -->
+```
 
+- Germany 67 million
   - Austria 7 million
   - Sudeten 3 million
 
-- France 42 million
+```{=html}
+<!-- -->
+```
 
+- France 42 million
   - Cambodia 3 million
   - Vietnam 19 million
   - New Caledonia 0
 
-- England 46 million
+```{=html}
+<!-- -->
+```
 
+- England 46 million
   - India 300 million
   - Pakistan 26 million
   - Burma 13 million
@@ -60,8 +88,14 @@ This page contains populations of the major countries starting in 1936. These nu
   - Gibraltar 0
   - Malta 0
 
-- USSR 162 million (1937 census) [\[1\]](#cite_note-su_demographics-1)
-  - About 169 million 1939 census [\[1\]](#cite_note-su_demographics-1)
+```{=html}
+<!-- -->
+```
+
+- USSR 162 million (1937 census)
+  ^[\[1\]](#cite_note-su_demographics-1)^
+  - About 169 million 1939 census
+    ^[\[1\]](#cite_note-su_demographics-1)^
 - Population of the Soviet Republics
   - Turkmenistan 1 million
   - Uzbekistan 6 million
@@ -74,9 +108,9 @@ This page contains populations of the major countries starting in 1936. These nu
   - Ukraine 31 million
   - Mongolia 1 million
 
-# Minors
+# [ Minors ]{#Minors .mw-headline}
 
-## Pacific
+## [ Pacific ]{#Pacific .mw-headline}
 
 - Australia 7 million
 - New Guinea 1 million
@@ -85,7 +119,7 @@ This page contains populations of the major countries starting in 1936. These nu
 - New Zealand 2 million
 - Nepal 6 million
 
-## Europe
+## [ Europe ]{#Europe .mw-headline}
 
 - Albania 1 million
 - Belgium 8 million
@@ -120,7 +154,7 @@ This page contains populations of the major countries starting in 1936. These nu
   - Bosnia & Herzegovina 2 million
   - Macedonia 1 million
 
-## Africa
+## [ Africa ]{#Africa .mw-headline}
 
 - Algeria 7 million
 - Angola 3 million
@@ -135,7 +169,7 @@ This page contains populations of the major countries starting in 1936. These nu
 - Comoros 0
 - Congo (Brazzaville) 1 million
 - Congo (Kinshasa) 10 million
-- Cote d'Ivoire 4 million
+- Cote d\'Ivoire 4 million
 - Djibouti 0
 - Egypt 16 million
 - Equatorial Guinea 0
@@ -179,7 +213,7 @@ This page contains populations of the major countries starting in 1936. These nu
 - Zambia 1 million
 - Zimbabwe 1 million
 
-## Middle East
+## [ Middle East ]{#Middle_East .mw-headline}
 
 - Afghanistan 7 million
 - Cyprus 0
@@ -196,11 +230,11 @@ This page contains populations of the major countries starting in 1936. These nu
 - United Arab Emirates 0
 - Yemen 4 million
 
-## North America
+## [ North America ]{#North_America .mw-headline}
 
 - Canada 11 million
 
-## Central America
+## [ Central America ]{#Central_America .mw-headline}
 
 - Belize 0
 - Costa Rica 1 million
@@ -216,7 +250,7 @@ This page contains populations of the major countries starting in 1936. These nu
 - Panama 1 million
 - Puerto Rico 2 million
 
-## South America
+## [ South America ]{#South_America .mw-headline}
 
 - Argentina 14 million
 - Bolivia 3 million
@@ -229,6 +263,14 @@ This page contains populations of the major countries starting in 1936. These nu
 - Uruguay 2 million
 - Venezuela 3 million
 
-## References
+## [ References ]{#References .mw-headline}
 
-1.  ↑ [1.0](#cite_ref-su_demographics_1-0) [1.1](#cite_ref-su_demographics_1-1) [WikiPedia:Demographics of the Soviet Union](http://en.wikipedia.org/wiki/Demographics_of_the_Soviet_Union "wikipedia:Demographics of the Soviet Union")
+::: mw-references-wrap
+
+1.  [[ ↑ ^[1.0](#cite_ref-su_demographics_1-0)^
+    ^[1.1](#cite_ref-su_demographics_1-1)^ ]{.mw-cite-backlink} [
+    [WikiPedia:Demographics of the Soviet
+    Union](http://en.wikipedia.org/wiki/Demographics_of_the_Soviet_Union "wikipedia:Demographics of the Soviet Union"){.extiw}
+    ]{.reference-text}]{#cite_note-su_demographics-1}
+    :::
+    :::
