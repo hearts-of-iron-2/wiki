@@ -3,7 +3,7 @@ import {
   getArticleSlugs,
   getArticleTree,
 } from "../../lib/api";
-import markdownToHtml from "../../lib/markdownToHtml";
+import { markdownFileToHtml } from "../../lib/markdownToHtml";
 import type ArticleType from "../../interfaces/article";
 import WikiPage from "../../components/wiki-page";
 
@@ -29,8 +29,7 @@ export async function getStaticProps({ params }: Params) {
     "markdown",
     "content",
   ]);
-  const markdown = article.content || "";
-  const html = await markdownToHtml(markdown);
+  const html = markdownFileToHtml(article.path);
   const articleTree = getArticleTree();
 
   return {
