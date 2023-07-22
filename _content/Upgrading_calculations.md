@@ -1,34 +1,34 @@
 ---
 title: Upgrading_calculations
 ---
-
 ::: mw-parser-output
 [Template:Anthology](/wiki/index.php?title=Template:Anthology&action=edit&redlink=1 "Template:Anthology (page does not exist)"){.new}
 
 ::: {#toc .toc aria-labelledby="mw-toc-heading" role="navigation"}
 ::: {.toctitle dir="ltr" lang="en"}
-
 ## Contents {#mw-toc-heading}
 
 [ ]{.toctogglespan}
 :::
 
-- [[ 1 ]{.tocnumber} [ The base cost for upgrades is 1/2 and the base
-  time is 1/4
-  ]{.toctext}](#The_base_cost_for_upgrades_is_1.2F2_and_the_base_time_is_1.2F4)
-- [[ 2 ]{.tocnumber} [ **EXAMPLE** ]{.toctext}](#EXAMPLE)
-- [[ 3 ]{.tocnumber} [ Table comparing displayed with actual upgrade
-  cost %
-  ]{.toctext}](#Table_comparing_displayed_with_actual_upgrade_cost_.25)
-- [[ 4 ]{.tocnumber} [ Upgrading Twice Obsolete Models
-  ]{.toctext}](#Upgrading_Twice_Obsolete_Models)
-- [[ 5 ]{.tocnumber} [ Upgrading an old serial run vs starting a new
-  run ]{.toctext}](#Upgrading_an_old_serial_run_vs_starting_a_new_run) - [[ 5.1 ]{.tocnumber} [ General rules of thumb contrasting
-  keeping an old serial run going vs starting a new serial run
-  with a new model:
-  ]{.toctext}](#General_rules_of_thumb_contrasting_keeping_an_old_serial_run_going_vs_starting_a_new_serial_run_with_a_new_model:) - [[ 5.2 ]{.tocnumber} [ Light armor exception
-  ]{.toctext}](#Light_armor_exception)
-  :::
+-   [[ 1 ]{.tocnumber} [ The base cost for upgrades is 1/2 and the base
+    time is 1/4
+    ]{.toctext}](#The_base_cost_for_upgrades_is_1.2F2_and_the_base_time_is_1.2F4)
+-   [[ 2 ]{.tocnumber} [ **EXAMPLE** ]{.toctext}](#EXAMPLE)
+-   [[ 3 ]{.tocnumber} [ Table comparing displayed with actual upgrade
+    cost %
+    ]{.toctext}](#Table_comparing_displayed_with_actual_upgrade_cost_.25)
+-   [[ 4 ]{.tocnumber} [ Upgrading Twice Obsolete Models
+    ]{.toctext}](#Upgrading_Twice_Obsolete_Models)
+-   [[ 5 ]{.tocnumber} [ Upgrading an old serial run vs starting a new
+    run ]{.toctext}](#Upgrading_an_old_serial_run_vs_starting_a_new_run)
+    -   [[ 5.1 ]{.tocnumber} [ General rules of thumb contrasting
+        keeping an old serial run going vs starting a new serial run
+        with a new model:
+        ]{.toctext}](#General_rules_of_thumb_contrasting_keeping_an_old_serial_run_going_vs_starting_a_new_serial_run_with_a_new_model:)
+    -   [[ 5.2 ]{.tocnumber} [ Light armor exception
+        ]{.toctext}](#Light_armor_exception)
+:::
 
 ## [ ]{#The_base_cost_for_upgrades_is_1/2_and_the_base_time_is_1/4} [ The base cost for upgrades is 1/2 and the base time is 1/4 ]{#The_base_cost_for_upgrades_is_1.2F2_and_the_base_time_is_1.2F4 .mw-headline}
 
@@ -65,13 +65,13 @@ upgrade from army slider and 25% upgrade from the economy slider netting
 upon your current model and all minister, slider, and tech effects apply
 to the upgrade cost and time).
 
-    Cost = 6.4 * .5 * (1+1.15) = 6.88 Time = 96 * .25 * (1+1.15) = 51.6 days
+    Cost = 6.4 * .5 * (1+1.15) = 6.88 Time = 96 * .25 * (1+1.15) = 51.6 days 
 
-**_Cost comparisons_** : Total cost for new units and for upgrading is
+***Cost comparisons*** : Total cost for new units and for upgrading is
 IC cost per day \* total numbers of days. Ignoring the rounding factor
 for days (51.6 would mean 52 days), the comparative costs are:
 
-    New model = 6.4 * 96 = 614.4 IC days Upgrading = 6.88 * 51.6 = 355.008 IC costs Comparative upgrade percentage = 355.008/614.4 = 57.78%
+    New model = 6.4 * 96 = 614.4 IC days Upgrading = 6.88 * 51.6 = 355.008 IC costs Comparative upgrade percentage = 355.008/614.4 = 57.78% 
 
 Basically the percentages you see on the diplomatic screen slider
 section are higher than the actual calculated upgrade cost. Upgrades are
@@ -79,12 +79,12 @@ not as expensive as they seem until you do the math. Note that the army
 slider upgrade percentages are cut in half in Doomsday which ranges from
 5% to 50% while in HOI2 the upgrade percentages range from 10% to 100%.
 
-## [ ]{#Table*comparing_displayed_with_actual_upgrade_cost*%} [ Table comparing displayed with actual upgrade cost % ]{#Table*comparing_displayed_with_actual_upgrade_cost*.25 .mw-headline}
+## [ ]{#Table_comparing_displayed_with_actual_upgrade_cost_%} [ Table comparing displayed with actual upgrade cost % ]{#Table_comparing_displayed_with_actual_upgrade_cost_.25 .mw-headline}
 
 Here is a table of the actual upgrading costs for the displayed
 upgrading percentages:
 
-    display % cost 125 63.28% 115  57.78% 105  52.53% 95   47.53% 85   42.78% 80   40.50% 75   38.28% 70   36.13% 65   34.03% 60   32.00% 55   30.03% 50   28.13% 45   26.28% 40   24.50% 35   22.78% 30   21.13%
+    display % cost 125 63.28% 115  57.78% 105  52.53% 95   47.53% 85   42.78% 80   40.50% 75   38.28% 70   36.13% 65   34.03% 60   32.00% 55   30.03% 50   28.13% 45   26.28% 40   24.50% 35   22.78% 30   21.13% 
 
 ## [ Upgrading Twice Obsolete Models ]{#Upgrading_Twice_Obsolete_Models .mw-headline}
 
@@ -96,20 +96,20 @@ Interceptors (Int-3) researched. It takes only around 18 days to upgrade
 Tac-1 to Tac-2 if you have Basic Tactical Bombers (Tac-3) already
 researched.
 
-_More details can be found in [this
+*More details can be found in [this
 thread](http://forum.paradoxplaza.com/forum/showthread.php?t=228288){.external
-.text rel="nofollow"} ._
+.text rel="nofollow"} .*
 
 ## [ Upgrading an old serial run vs starting a new run ]{#Upgrading_an_old_serial_run_vs_starting_a_new_run .mw-headline}
 
 The math for this is complicated. Slider positions influence this
 somewhat, but gearing is more important than your slider positions.
 Generally it can be cheaper if you keep an old run going if you do not
-build much of a new run. _More details can be found in [this
+build much of a new run. *More details can be found in [this
 thread](http://forum.paradoxplaza.com/forum/showthread.php?t=299726){.external
 .text rel="nofollow"} and [or a thread which shows the
 math](http://forum.paradoxplaza.com/forum/showthread.php?p=9651733#post9651733){.external
-.text rel="nofollow"} .\"_
+.text rel="nofollow"} .\"*
 
 ### [ General rules of thumb contrasting keeping an old serial run going vs starting a new serial run with a new model: ]{#General_rules_of_thumb_contrasting_keeping_an_old_serial_run_going_vs_starting_a_new_serial_run_with_a_new_model: .mw-headline}
 

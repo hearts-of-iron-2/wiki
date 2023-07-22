@@ -1,7 +1,6 @@
 ---
 title: Switzerland
 ---
-
 ::: mw-parser-output
 ::: {.eu4box style="width:330px; height:auto; float:right; clear:right"}
 ::: heading
@@ -14,7 +13,7 @@ title: Switzerland
 [Major powers](/wiki/Major_power "Major power"){.mw-redirect}
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [France](/wiki/France "France")\
@@ -30,7 +29,7 @@ title: Switzerland
 Regional powers
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [Argentina](/wiki/Argentina "Argentina")\
@@ -58,7 +57,7 @@ Regional powers
 [Minor powers](/wiki/Minor_power "Minor power"){.mw-redirect}
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [Austria](/wiki/Austria "Austria")\
@@ -81,7 +80,7 @@ Regional powers
 [Micro powers](/wiki/Micro_power "Micro power"){.mw-redirect}
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [Afghanistan](/wiki/Afghanistan "Afghanistan")\
@@ -140,19 +139,18 @@ favour.
 
 ::: {#toc .toc aria-labelledby="mw-toc-heading" role="navigation"}
 ::: {.toctitle dir="ltr" lang="en"}
-
 ## Contents {#mw-toc-heading}
 
 [ ]{.toctogglespan}
 :::
 
-- [[ 1 ]{.tocnumber} [ Slider moves ]{.toctext}](#Slider_moves)
-- [[ 2 ]{.tocnumber} [ Ministers ]{.toctext}](#Ministers)
-- [[ 3 ]{.tocnumber} [ Military ]{.toctext}](#Military)
-- [[ 4 ]{.tocnumber} [ Production ]{.toctext}](#Production)
-- [[ 5 ]{.tocnumber} [ Research ]{.toctext}](#Research)
-- [[ 6 ]{.tocnumber} [ Strategy ]{.toctext}](#Strategy)
-  :::
+-   [[ 1 ]{.tocnumber} [ Slider moves ]{.toctext}](#Slider_moves)
+-   [[ 2 ]{.tocnumber} [ Ministers ]{.toctext}](#Ministers)
+-   [[ 3 ]{.tocnumber} [ Military ]{.toctext}](#Military)
+-   [[ 4 ]{.tocnumber} [ Production ]{.toctext}](#Production)
+-   [[ 5 ]{.tocnumber} [ Research ]{.toctext}](#Research)
+-   [[ 6 ]{.tocnumber} [ Strategy ]{.toctext}](#Strategy)
+:::
 
 ## [ Slider moves ]{#Slider_moves .mw-headline}
 

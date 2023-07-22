@@ -1,7 +1,6 @@
 ---
 title: Peru
 ---
-
 ::: mw-parser-output
 ::: {.eu4box style="width:330px; height:auto; float:right; clear:right"}
 ::: heading
@@ -14,7 +13,7 @@ title: Peru
 [Major powers](/wiki/Major_power "Major power"){.mw-redirect}
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [France](/wiki/France "France")\
@@ -30,7 +29,7 @@ title: Peru
 Regional powers
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [Argentina](/wiki/Argentina "Argentina")\
@@ -58,7 +57,7 @@ Regional powers
 [Minor powers](/wiki/Minor_power "Minor power"){.mw-redirect}
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [Austria](/wiki/Austria "Austria")\
@@ -81,7 +80,7 @@ Regional powers
 [Micro powers](/wiki/Micro_power "Micro power"){.mw-redirect}
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [Afghanistan](/wiki/Afghanistan "Afghanistan")\
@@ -131,36 +130,35 @@ Arabia](/wiki/index.php?title=Saudi_Arabia&action=edit&redlink=1 "Saudi Arabia (
 
 ::: {#toc .toc aria-labelledby="mw-toc-heading" role="navigation"}
 ::: {.toctitle dir="ltr" lang="en"}
-
 ## Contents {#mw-toc-heading}
 
 [ ]{.toctogglespan}
 :::
 
-- [[ 1 ]{.tocnumber} [ Walkthrough for 1936 Scenario (DD)
-  ]{.toctext}](#Walkthrough_for_1936_Scenario_.28DD.29)
-- [[ 2 ]{.tocnumber} [ Ecuadorian Invasion
-  ]{.toctext}](#Ecuadorian_Invasion)
-- [[ 3 ]{.tocnumber} [ Army & Alliance Building
-  ]{.toctext}](#Army_.26_Alliance_Building)
-- [[ 4 ]{.tocnumber} [ Bolivia and Onwards
-  ]{.toctext}](#Bolivia_and_Onwards)
-- [[ 5 ]{.tocnumber} [ Northern Chile ]{.toctext}](#Northern_Chile)
-- [[ 6 ]{.tocnumber} [ Second Military Rebuild & War in Brazil
-  ]{.toctext}](#Second_Military_Rebuild_.26_War_in_Brazil)
-- [[ 7 ]{.tocnumber} [ North of the Amazon
-  ]{.toctext}](#North_of_the_Amazon)
-  :::
+-   [[ 1 ]{.tocnumber} [ Walkthrough for 1936 Scenario (DD)
+    ]{.toctext}](#Walkthrough_for_1936_Scenario_.28DD.29)
+-   [[ 2 ]{.tocnumber} [ Ecuadorian Invasion
+    ]{.toctext}](#Ecuadorian_Invasion)
+-   [[ 3 ]{.tocnumber} [ Army & Alliance Building
+    ]{.toctext}](#Army_.26_Alliance_Building)
+-   [[ 4 ]{.tocnumber} [ Bolivia and Onwards
+    ]{.toctext}](#Bolivia_and_Onwards)
+-   [[ 5 ]{.tocnumber} [ Northern Chile ]{.toctext}](#Northern_Chile)
+-   [[ 6 ]{.tocnumber} [ Second Military Rebuild & War in Brazil
+    ]{.toctext}](#Second_Military_Rebuild_.26_War_in_Brazil)
+-   [[ 7 ]{.tocnumber} [ North of the Amazon
+    ]{.toctext}](#North_of_the_Amazon)
+:::
 
-## [ ]{#Walkthrough*for_1936_Scenario*(DD)} [ Walkthrough for 1936 Scenario (DD) ]{#Walkthrough*for_1936_Scenario*.28DD.29 .mw-headline}
+## [ ]{#Walkthrough_for_1936_Scenario_(DD)} [ Walkthrough for 1936 Scenario (DD) ]{#Walkthrough_for_1936_Scenario_.28DD.29 .mw-headline}
 
 Peru has the potential to be a great South American power- but when
 playing as Peru, one should always remember two things. The first of
 these is that:
 
-- Brazil and Argentina are the two strongest South American nations.
-- Peru cannot hold its own if the USA decides to declare war on it, so
-  alliance with one of these (preferably Argentina) is essential.
+-   Brazil and Argentina are the two strongest South American nations.
+-   Peru cannot hold its own if the USA decides to declare war on it, so
+    alliance with one of these (preferably Argentina) is essential.
 
 An alliance with Venezuela or Chile can also be helpful due to these
 nations' number of IC-rich provinces. At the onset of 1936, it is
@@ -191,7 +189,7 @@ in South America- most nations have only one or two important provinces
 so it requires relatively little work to take the necessary territory
 and annex the entire nation in question.
 
-## [ ]{#Army*&\_Alliance_Building} [ Army & Alliance Building ]{#Army*.26_Alliance_Building .mw-headline}
+## [ ]{#Army_&_Alliance_Building} [ Army & Alliance Building ]{#Army_.26_Alliance_Building .mw-headline}
 
 By this time, other nations will start to realise what you are doing-
 you should start influencing the USA and Brazil or Argentina, and start
@@ -252,7 +250,7 @@ Argentina needs more IC- declare war on Uruguay for them- they're
 usually not brave enough to do it themselves- and if necessary help them
 do it with some of your troops.
 
-## [ ]{#Second*Military_Rebuild*&_War_in_Brazil} [ Second Military Rebuild & War in Brazil ]{#Second_Military_Rebuild_.26_War_in_Brazil .mw-headline}
+## [ ]{#Second_Military_Rebuild_&_War_in_Brazil} [ Second Military Rebuild & War in Brazil ]{#Second_Military_Rebuild_.26_War_in_Brazil .mw-headline}
 
 Building a few cavalry divisions now with your new IC is very helpful-
 as they can cover the large distances of your new Empire to defeat

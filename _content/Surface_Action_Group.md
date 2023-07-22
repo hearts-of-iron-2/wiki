@@ -1,34 +1,40 @@
 ---
 title: Surface_Action_Group
 ---
-
 ::: mw-parser-output
 ::: {#toc .toc aria-labelledby="mw-toc-heading" role="navigation"}
 ::: {.toctitle dir="ltr" lang="en"}
-
 ## Contents {#mw-toc-heading}
 
 [ ]{.toctogglespan}
 :::
 
-- [[ 1 ]{.tocnumber} [ Surface Action Group (SAG)
-  ]{.toctext}](#Surface_Action_Group_.28SAG.29) - [[ 1.1 ]{.tocnumber} [ Fleet Composition
-  ]{.toctext}](#Fleet_Composition) - [[ 1.2 ]{.tocnumber} [ Zerg Fleets ]{.toctext}](#Zerg_Fleets) - [[ 1.2.1 ]{.tocnumber} [ The Original Cruizerg Fleet
-  ]{.toctext}](#The_Original_Cruizerg_Fleet) - [[ 1.2.2 ]{.tocnumber} [ DD Zerg Fleet
-  ]{.toctext}](#DD_Zerg_Fleet) - [[ 1.2.3 ]{.tocnumber} [ Cruizerg Fleets for Doomsday
-  ]{.toctext}](#Cruizerg_Fleets_for_Doomsday) - [[ 1.2.3.1 ]{.tocnumber} [ Early-Game Composition
-  ]{.toctext}](#Early-Game_Composition) - [[ 1.2.3.2 ]{.tocnumber} [ Late-Game Composition
-  ]{.toctext}](#Late-Game_Composition) - [[ 1.3 ]{.tocnumber} [ Hybrid Fleet Composition
-  ]{.toctext}](#Hybrid_Fleet_Composition)
-  :::
+-   [[ 1 ]{.tocnumber} [ Surface Action Group (SAG)
+    ]{.toctext}](#Surface_Action_Group_.28SAG.29)
+    -   [[ 1.1 ]{.tocnumber} [ Fleet Composition
+        ]{.toctext}](#Fleet_Composition)
+    -   [[ 1.2 ]{.tocnumber} [ Zerg Fleets ]{.toctext}](#Zerg_Fleets)
+        -   [[ 1.2.1 ]{.tocnumber} [ The Original Cruizerg Fleet
+            ]{.toctext}](#The_Original_Cruizerg_Fleet)
+        -   [[ 1.2.2 ]{.tocnumber} [ DD Zerg Fleet
+            ]{.toctext}](#DD_Zerg_Fleet)
+        -   [[ 1.2.3 ]{.tocnumber} [ Cruizerg Fleets for Doomsday
+            ]{.toctext}](#Cruizerg_Fleets_for_Doomsday)
+            -   [[ 1.2.3.1 ]{.tocnumber} [ Early-Game Composition
+                ]{.toctext}](#Early-Game_Composition)
+            -   [[ 1.2.3.2 ]{.tocnumber} [ Late-Game Composition
+                ]{.toctext}](#Late-Game_Composition)
+    -   [[ 1.3 ]{.tocnumber} [ Hybrid Fleet Composition
+        ]{.toctext}](#Hybrid_Fleet_Composition)
+:::
 
-### [ ]{#Surface*Action_Group*(SAG)} [ [Surface Action Group]{.mw-selflink .selflink} (SAG) ]{#Surface*Action_Group*.28SAG.29 .mw-headline}
+### [ ]{#Surface_Action_Group_(SAG)} [ [Surface Action Group]{.mw-selflink .selflink} (SAG) ]{#Surface_Action_Group_.28SAG.29 .mw-headline}
 
 The **Surface Action Group** is quite different to the [Carrier Task
 Force](/wiki/Carrier_Task_Force "Carrier Task Force") (CTF). The SAG
 relies on killing its enemy, rather than driving it from the area. A SAG
 is a task force of surface ships whose primary duty is to attack and
-sink other surface ships. It relies on _Gun Ships_ to do direct damage
+sink other surface ships. It relies on *Gun Ships* to do direct damage
 to the Strength of other ships. A SAG also excels in its secondary duty
 of providing Shore Bombardment support to friendly land units fighting
 in coastal areas.
@@ -42,10 +48,10 @@ cost effective, since 3 BBs can be built for every 2 SHBBs. Finally,
 Heavy Cruisers (CA) can be used, for a cheap, yet still reasonably
 strong SAG.
 
-- 6 [Super Heavy Battleships](/wiki/Battleship "Battleship") (SHBB)
-  (or normal Battleships)
-- 2 [Light Carriers](/wiki/Escort_Carrier "Escort Carrier") (CVL)
-- 10 [Destroyers](/wiki/Destroyer "Destroyer") (DD)
+-   6 [Super Heavy Battleships](/wiki/Battleship "Battleship") (SHBB)
+    (or normal Battleships)
+-   2 [Light Carriers](/wiki/Escort_Carrier "Escort Carrier") (CVL)
+-   10 [Destroyers](/wiki/Destroyer "Destroyer") (DD)
 
 #### [ Zerg Fleets ]{#Zerg_Fleets .mw-headline}
 
@@ -70,9 +76,9 @@ exploit.
 
 ##### [ The Original Cruizerg Fleet ]{#The_Original_Cruizerg_Fleet .mw-headline}
 
-- 5 (1938) Heavy Cruisers (CA)
-- 2 Light Carriers (CVL)
-- 11 (1938) Light Cruisers with fire control (CL-FC)
+-   5 (1938) Heavy Cruisers (CA)
+-   2 Light Carriers (CVL)
+-   11 (1938) Light Cruisers with fire control (CL-FC)
 
 For a total of 18 Ships.
 
@@ -93,7 +99,7 @@ tactics](/wiki/Gamey_tactics "Gamey tactics") , but is certainly an
 effective killing machine. Usually, plain DD-fleets can close in to 5km
 range by the second hour of battle.
 
-- 60 - 90 DD
+-   60 - 90 DD
 
 ##### [ Cruizerg Fleets for Doomsday ]{#Cruizerg_Fleets_for_Doomsday .mw-headline}
 
@@ -101,25 +107,25 @@ Doomsday lacks naval brigades, so one has to use obsolete vessels to
 make the strategy work. There are two setups, one involving either all
 CA-IIs and CL-IVs or a mix of CA-IIs and CA-IIIs, the second consisting
 of all CA-IIIs and CL-VIs. Note that at least one of the CAs needs to be
-of one level _lower_ than the CLs, so that their range is identical.
+of one level *lower* than the CLs, so that their range is identical.
 CVLs are necessary as well, to ensure the fleet will close with CTFs. In
 Doomsday, CVLs can still magically close the combat range to their
 preferred range. This was rectified with the Armageddon 1.3beta patch.
 
 ###### [ Early-Game Composition ]{#Early-Game_Composition .mw-headline}
 
-- 2 CA-II (Absolutely necessary for the strategy to work to allow
-  CL-IV to be in range since the CVL will go to the lowest ranged
-  capital ship)
-- 4 CA-III (CA-II will work here as well)
-- 2 CVL
-- 10 CL-IV
+-   2 CA-II (Absolutely necessary for the strategy to work to allow
+    CL-IV to be in range since the CVL will go to the lowest ranged
+    capital ship)
+-   4 CA-III (CA-II will work here as well)
+-   2 CVL
+-   10 CL-IV
 
 ###### [ Late-Game Composition ]{#Late-Game_Composition .mw-headline}
 
-- 6 CA-III
-- 2 CVL
-- 10 CL-VI
+-   6 CA-III
+-   2 CVL
+-   10 CL-VI
 
 #### [ Hybrid Fleet Composition ]{#Hybrid_Fleet_Composition .mw-headline}
 
@@ -128,10 +134,10 @@ battle prowess superior to the the cruizerg, look no further. I\'ve
 taken down other human players using cruizerg fleets with this, but it
 can still be taken down by destroyer zerg fleets.
 
-- 4 BB-VII-FX (SHBB)
-- 2 BB-III (no FX, important\*)
-- 2 CVL
-- 10 CL-IV-FC(2)
+-   4 BB-VII-FX (SHBB)
+-   2 BB-III (no FX, important\*)
+-   2 CVL
+-   10 CL-IV-FC(2)
 
 \'\* BB-III and CL-IV-FC (with an upgraded FC) both have a range of 34,
 if you put a FX on the BB-III\'s, the light cruisers will not be able to
@@ -141,10 +147,10 @@ a much bigger punch.
 
 For later naval warfare:
 
-- 4 BB-IX-FX (SHBB2)
-- 2 BB)IV (no FX, same reason as above)
-- 2 CVL
-- 10 CL-VI-FC(2)
+-   4 BB-IX-FX (SHBB2)
+-   2 BB)IV (no FX, same reason as above)
+-   2 CVL
+-   10 CL-VI-FC(2)
 
 The engagement range here is 36 and has better firepower.
 :::

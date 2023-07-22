@@ -1,25 +1,23 @@
 ---
 title: Modding_graphics
 ---
-
 ::: mw-parser-output
 ::: {#toc .toc aria-labelledby="mw-toc-heading" role="navigation"}
 ::: {.toctitle dir="ltr" lang="en"}
-
 ## Contents {#mw-toc-heading}
 
 [ ]{.toctogglespan}
 :::
 
-- [[ 1 ]{.tocnumber} [ Grayscale pictures in HoI2
-  ]{.toctext}](#Grayscale_pictures_in_HoI2)
-- [[ 2 ]{.tocnumber} [ Some troubleshooting advice
-  ]{.toctext}](#Some_troubleshooting_advice)
-- [[ 3 ]{.tocnumber} [ SKIF (Scytth & Kristoff Icons Factory)
-  ]{.toctext}](#SKIF_.28Scytth_.26_Kristoff_Icons_Factory.29)
-- [[ 4 ]{.tocnumber} [ DMP (Design Mod Projekt)
-  ]{.toctext}](#DMP_.28Design_Mod_Projekt.29)
-  :::
+-   [[ 1 ]{.tocnumber} [ Grayscale pictures in HoI2
+    ]{.toctext}](#Grayscale_pictures_in_HoI2)
+-   [[ 2 ]{.tocnumber} [ Some troubleshooting advice
+    ]{.toctext}](#Some_troubleshooting_advice)
+-   [[ 3 ]{.tocnumber} [ SKIF (Scytth & Kristoff Icons Factory)
+    ]{.toctext}](#SKIF_.28Scytth_.26_Kristoff_Icons_Factory.29)
+-   [[ 4 ]{.tocnumber} [ DMP (Design Mod Projekt)
+    ]{.toctext}](#DMP_.28Design_Mod_Projekt.29)
+:::
 
 ## [ Grayscale pictures in HoI2 ]{#Grayscale_pictures_in_HoI2 .mw-headline}
 
@@ -52,27 +50,26 @@ own graphics to a degree.
 
 The important things to know are these:
 
-- Try to get a good graphics editing program. It\'s extraordinarily
-  hard to do things like blend and create colour gradients with Paint.
+-   Try to get a good graphics editing program. It\'s extraordinarily
+    hard to do things like blend and create colour gradients with Paint.
 
 ```{=html}
 <!-- -->
 ```
-
-- Learn about the different graphic types BMP, JPG and GIF, their
-  advantages and disadvantages. Especially BMP, because that is the
-  graphic that Paradox uses 100% of the time. A very basic image
-  format description can be found at [WikiPedia:Graphics_file_format
-  Wikipedia](http://en.wikipedia.org/wiki/Graphics_file_format_Wikipedia "wikipedia:Graphics file format Wikipedia"){.extiw}
-  .
+-   Learn about the different graphic types BMP, JPG and GIF, their
+    advantages and disadvantages. Especially BMP, because that is the
+    graphic that Paradox uses 100% of the time. A very basic image
+    format description can be found at [WikiPedia:Graphics_file_format
+    Wikipedia](http://en.wikipedia.org/wiki/Graphics_file_format_Wikipedia "wikipedia:Graphics file format Wikipedia"){.extiw}
+    .
 
 **In-game, my graphic looks roughly like what I did, but it\'s all in
 funny colours!**
 
-- You have the wrong palette. In the GFX\\palette directory, you\'ll
-  find the palettes used for most of the graphics. You have to either
-  change these palettes or adopt them yourself in order to get your
-  graphics looking right.
+-   You have the wrong palette. In the GFX\\palette directory, you\'ll
+    find the palettes used for most of the graphics. You have to either
+    change these palettes or adopt them yourself in order to get your
+    graphics looking right.
 
 See [Modding Palettes](/wiki/Modding_Palettes "Modding Palettes") for
 more detail.
@@ -83,34 +80,34 @@ like the graphic that i made!**
 [Screwed up Image
 File](/wiki/index.php?title=Special:Upload&wpDestFile=Problem1.gif "File:Problem1.gif"){.new}
 
-- If it looks something like the picture above, then your issue is
-  that the size is incorrect. You\'ll need to change the graphic to
-  the right size.
+-   If it looks something like the picture above, then your issue is
+    that the size is incorrect. You\'ll need to change the graphic to
+    the right size.
 
 **Why do some of my graphics have bright green or bright pink borders
 around them?**
 
-- Paradox has two values for .bmp information. Bright green (RGB color
-  0,255,0) signifies transparent data. Information in this color will
-  be clear, allowing you to see items behind the image such as skins.
-  Bright pink (RGB color 255,0,255) signifies opaque data. Information
-  in this color will function as a dark screen, such as can be seen in
-  the diplomacy screen. Note that if you change these colors they will
-  appear on screen.
+-   Paradox has two values for .bmp information. Bright green (RGB color
+    0,255,0) signifies transparent data. Information in this color will
+    be clear, allowing you to see items behind the image such as skins.
+    Bright pink (RGB color 255,0,255) signifies opaque data. Information
+    in this color will function as a dark screen, such as can be seen in
+    the diplomacy screen. Note that if you change these colors they will
+    appear on screen.
 
 **In-game, my province images aren\'t showing up.**
 
-- Province images will ONLY appear in provinces with urban terrain. To
-  change a province into urban terrain, you\'ll need to edit the
-  province.csv file.
+-   Province images will ONLY appear in provinces with urban terrain. To
+    change a province into urban terrain, you\'ll need to edit the
+    province.csv file.
 
 **Where do I get the HoI2 Skin Template?**
 
-- Right here:
-  [https://forum.paradoxplaza.com/forum/index.php?threads/hoi2-skin-template.180563/](https://forum.paradoxplaza.com/forum/index.php?threads/hoi2-skin-template.180563/){.external
-  .free rel="nofollow"}
+-   Right here:
+    [https://forum.paradoxplaza.com/forum/index.php?threads/hoi2-skin-template.180563/](https://forum.paradoxplaza.com/forum/index.php?threads/hoi2-skin-template.180563/){.external
+    .free rel="nofollow"}
 
-## [ ]{#SKIF*(Scytth*&_Kristoff_Icons_Factory)} [ SKIF (Scytth & Kristoff Icons Factory) ]{#SKIF_.28Scytth\_.26_Kristoff_Icons_Factory.29 .mw-headline}
+## [ ]{#SKIF_(Scytth_&_Kristoff_Icons_Factory)} [ SKIF (Scytth & Kristoff Icons Factory) ]{#SKIF_.28Scytth_.26_Kristoff_Icons_Factory.29 .mw-headline}
 
 A fantastic little graphics touch-up to the in game unit icons.
 
@@ -124,7 +121,7 @@ Website](http://www.star.net.pl/~scytth/hoi2/page/index.html){.external
 
 \
 
-## [ ]{#DMP*(Design_Mod_Projekt)} [ DMP (Design Mod Projekt) ]{#DMP*.28Design_Mod_Projekt.29 .mw-headline}
+## [ ]{#DMP_(Design_Mod_Projekt)} [ DMP (Design Mod Projekt) ]{#DMP_.28Design_Mod_Projekt.29 .mw-headline}
 
 A big Modproject with alot of new sprites and graphics for alot of
 countries.

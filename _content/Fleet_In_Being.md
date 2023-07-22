@@ -1,9 +1,7 @@
 ---
 title: Fleet_In_Being
 ---
-
 ::: mw-parser-output
-
 ### [ [Fleet In Being]{.mw-selflink .selflink} ]{#Fleet_In_Being .mw-headline}
 
 FIB focuses on naval supremacy through (non CV) capital ships, and helps

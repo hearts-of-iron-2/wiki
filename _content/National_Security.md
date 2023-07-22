@@ -1,43 +1,41 @@
 ---
 title: National_Security
 ---
-
 ::: mw-parser-output
 An overview of what various nations would consider tolerable
 international conduct, 1936-41.
 
 ::: {#toc .toc aria-labelledby="mw-toc-heading" role="navigation"}
 ::: {.toctitle dir="ltr" lang="en"}
-
 ## Contents {#mw-toc-heading}
 
 [ ]{.toctogglespan}
 :::
 
-- [[ 1 ]{.tocnumber} [ Spheres of Interest
-  ]{.toctext}](#Spheres_of_Interest)
-- [[ 2 ]{.tocnumber} [ Spheres of Influence
-  ]{.toctext}](#Spheres_of_Influence)
-- [[ 3 ]{.tocnumber} [ British Naval Security
-  ]{.toctext}](#British_Naval_Security)
-- [[ 4 ]{.tocnumber} [ The Monroe Doctrine and Western Hemispheric
-  Security
-  ]{.toctext}](#The_Monroe_Doctrine_and_Western_Hemispheric_Security)
-- [[ 5 ]{.tocnumber} [ The Soviet Union
-  ]{.toctext}](#The_Soviet_Union)
-  - [[ 5.1 ]{.tocnumber} [ The Soviet Union vs Germany
-    ]{.toctext}](#The_Soviet_Union_vs_Germany)
-  - [[ 5.2 ]{.tocnumber} [ The Soviet Far East
-    ]{.toctext}](#The_Soviet_Far_East)
-- [[ 6 ]{.tocnumber} [ Integrity of China
-  ]{.toctext}](#Integrity_of_China)
-- [[ 7 ]{.tocnumber} [ Southeast Asia ]{.toctext}](#Southeast_Asia)
-  - [[ 7.1 ]{.tocnumber} [ US Attitude ]{.toctext}](#US_Attitude)
-  - [[ 7.2 ]{.tocnumber} [ The Japanese move into Southern Indochina
-    and the US Embargo
-    ]{.toctext}](#The_Japanese_move_into_Southern_Indochina_and_the_US_Embargo)
-- [[ 8 ]{.tocnumber} [ Footnotes ]{.toctext}](#Footnotes)
-  :::
+-   [[ 1 ]{.tocnumber} [ Spheres of Interest
+    ]{.toctext}](#Spheres_of_Interest)
+-   [[ 2 ]{.tocnumber} [ Spheres of Influence
+    ]{.toctext}](#Spheres_of_Influence)
+-   [[ 3 ]{.tocnumber} [ British Naval Security
+    ]{.toctext}](#British_Naval_Security)
+-   [[ 4 ]{.tocnumber} [ The Monroe Doctrine and Western Hemispheric
+    Security
+    ]{.toctext}](#The_Monroe_Doctrine_and_Western_Hemispheric_Security)
+-   [[ 5 ]{.tocnumber} [ The Soviet Union
+    ]{.toctext}](#The_Soviet_Union)
+    -   [[ 5.1 ]{.tocnumber} [ The Soviet Union vs Germany
+        ]{.toctext}](#The_Soviet_Union_vs_Germany)
+    -   [[ 5.2 ]{.tocnumber} [ The Soviet Far East
+        ]{.toctext}](#The_Soviet_Far_East)
+-   [[ 6 ]{.tocnumber} [ Integrity of China
+    ]{.toctext}](#Integrity_of_China)
+-   [[ 7 ]{.tocnumber} [ Southeast Asia ]{.toctext}](#Southeast_Asia)
+    -   [[ 7.1 ]{.tocnumber} [ US Attitude ]{.toctext}](#US_Attitude)
+    -   [[ 7.2 ]{.tocnumber} [ The Japanese move into Southern Indochina
+        and the US Embargo
+        ]{.toctext}](#The_Japanese_move_into_Southern_Indochina_and_the_US_Embargo)
+-   [[ 8 ]{.tocnumber} [ Footnotes ]{.toctext}](#Footnotes)
+:::
 
 ### [ Spheres of Interest ]{#Spheres_of_Interest .mw-headline}
 
@@ -70,13 +68,13 @@ Xinjiang, and Tibet.
 
 **Small countries** - immediate neighbors.
 
-_Note that only Japan, USSR, and other warlords would have been likely
+*Note that only Japan, USSR, and other warlords would have been likely
 to intervene against moves by Chinese warlords or Tibet. Pre-1937, Japan
 intervened in the Northeast south to Shanghai and west into Inner
 Mongolia. From the 1930s to 1954, the USSR interfered in Xinjiang and
 involved itself in Mongolia\'s border disputes with China and Manchukuo.
 Britain was the other major intervener in China, but avoided
-confrontation except when its concessions were threatened._
+confrontation except when its concessions were threatened.*
 
 ### [ Spheres of Influence ]{#Spheres_of_Influence .mw-headline}
 
@@ -233,10 +231,9 @@ rather than Vladivostok (as British intelligence had believed in July).
 ## [ Footnotes ]{#Footnotes .mw-headline}
 
 ::: mw-references-wrap
-
 1.  [[ [↑](#cite_ref-1) ]{.mw-cite-backlink} [ Tarling, Nicholas (1996).
     *Britain, Southeast Asia and the onset of the Pacific war* .
     Cambridge University Press. p. 225. ISBN 0-521-55346-6.
     ]{.reference-text}]{#cite_note-1}
-    :::
-    :::
+:::
+:::

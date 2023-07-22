@@ -1,7 +1,6 @@
 ---
 title: Austria
 ---
-
 ::: mw-parser-output
 ::: {.eu4box style="width:330px; height:auto; float:right; clear:right"}
 ::: heading
@@ -14,7 +13,7 @@ title: Austria
 [Major powers](/wiki/Major_power "Major power"){.mw-redirect}
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [France](/wiki/France "France")\
@@ -30,7 +29,7 @@ title: Austria
 Regional powers
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [Argentina](/wiki/Argentina "Argentina")\
@@ -58,7 +57,7 @@ Regional powers
 [Minor powers](/wiki/Minor_power "Minor power"){.mw-redirect}
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [Austria]{.mw-selflink .selflink}\
@@ -81,7 +80,7 @@ Regional powers
 [Micro powers](/wiki/Micro_power "Micro power"){.mw-redirect}
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [Afghanistan](/wiki/Afghanistan "Afghanistan")\
@@ -137,20 +136,26 @@ You need to plan each step wisely if you want to survive.
 
 ::: {#toc .toc aria-labelledby="mw-toc-heading" role="navigation"}
 ::: {.toctitle dir="ltr" lang="en"}
-
 ## Contents {#mw-toc-heading}
 
 [ ]{.toctogglespan}
 :::
 
-- [[ 1 ]{.tocnumber} [ Walkthrough for 1936 Scenario
-  ]{.toctext}](#Walkthrough_for_1936_Scenario) - [[ 1.1 ]{.tocnumber} [ Modding Activity to Consider
-  ]{.toctext}](#Modding_Activity_to_Consider) - [[ 1.2 ]{.tocnumber} [ War From the Beginning
-  ]{.toctext}](#War_From_the_Beginning) - [[ 1.3 ]{.tocnumber} [ Turning the Tide in the Alps
-  ]{.toctext}](#Turning_the_Tide_in_the_Alps) - [[ 1.4 ]{.tocnumber} [ Balkans ]{.toctext}](#Balkans) - [[ 1.5 ]{.tocnumber} [ The Austrian Navy
-  ]{.toctext}](#The_Austrian_Navy) - [[ 1.6 ]{.tocnumber} [ The Great War
-  ]{.toctext}](#The_Great_War) - [[ 1.7 ]{.tocnumber} [ Beyond This ]{.toctext}](#Beyond_This)
-  :::
+-   [[ 1 ]{.tocnumber} [ Walkthrough for 1936 Scenario
+    ]{.toctext}](#Walkthrough_for_1936_Scenario)
+    -   [[ 1.1 ]{.tocnumber} [ Modding Activity to Consider
+        ]{.toctext}](#Modding_Activity_to_Consider)
+    -   [[ 1.2 ]{.tocnumber} [ War From the Beginning
+        ]{.toctext}](#War_From_the_Beginning)
+    -   [[ 1.3 ]{.tocnumber} [ Turning the Tide in the Alps
+        ]{.toctext}](#Turning_the_Tide_in_the_Alps)
+    -   [[ 1.4 ]{.tocnumber} [ Balkans ]{.toctext}](#Balkans)
+    -   [[ 1.5 ]{.tocnumber} [ The Austrian Navy
+        ]{.toctext}](#The_Austrian_Navy)
+    -   [[ 1.6 ]{.tocnumber} [ The Great War
+        ]{.toctext}](#The_Great_War)
+    -   [[ 1.7 ]{.tocnumber} [ Beyond This ]{.toctext}](#Beyond_This)
+:::
 
 ## [ Walkthrough for 1936 Scenario ]{#Walkthrough_for_1936_Scenario .mw-headline}
 

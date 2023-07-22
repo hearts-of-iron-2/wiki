@@ -1,73 +1,81 @@
 ---
 title: Utilities
 ---
-
 ::: mw-parser-output
 ::: {#toc .toc aria-labelledby="mw-toc-heading" role="navigation"}
 ::: {.toctitle dir="ltr" lang="en"}
-
 ## Contents {#mw-toc-heading}
 
 [ ]{.toctogglespan}
 :::
 
-- [[ 1 ]{.tocnumber} [ Multi Editor ]{.toctext}](#Multi_Editor)
-  - [[ 1.1 ]{.tocnumber} [ HoiEditor ]{.toctext}](#HoiEditor)
-  - [[ 1.2 ]{.tocnumber} [ Hallsten\'s Unified HOI2/DD Generator
-    Utility
-    ]{.toctext}](#Hallsten.27s_Unified_HOI2.2FDD_Generator_Utility)
-  - [[ 1.3 ]{.tocnumber} [ Lord Ederon\'s Web site
-    ]{.toctext}](#Lord_Ederon.27s_Web_site)
-- [[ 2 ]{.tocnumber} [ Tech Team ]{.toctext}](#Tech_Team)
-  - [[ 2.1 ]{.tocnumber} [ Complete list of HoI2 Research Teams
-    ]{.toctext}](#Complete_list_of_HoI2_Research_Teams)
-- [[ 3 ]{.tocnumber} [ Minister ]{.toctext}](#Minister)
-  - [[ 3.1 ]{.tocnumber} [ Complete List of HoI2 Ministers
-    ]{.toctext}](#Complete_List_of_HoI2_Ministers)
-- [[ 4 ]{.tocnumber} [ Leader ]{.toctext}](#Leader)
-  - [[ 4.1 ]{.tocnumber} [ Kucing\'s leader editor, death date
-    remover/randomizer and random leader generator
-    ]{.toctext}](#Kucing.27s_leader_editor.2C_death_date_remover.2Frandomizer_and_random_leader_generator)
-  - [[ 4.2 ]{.tocnumber} [ Leader deathdate changer
-    ]{.toctext}](#Leader_deathdate_changer)
-  - [[ 4.3 ]{.tocnumber} [ Leader deathdate remover
-    ]{.toctext}](#Leader_deathdate_remover)
-  - [[ 4.4 ]{.tocnumber} [ Leader deathdate remover/randomizer
-    ]{.toctext}](#Leader_deathdate_remover.2Frandomizer)
-  - [[ 4.5 ]{.tocnumber} [ Full List of HoI2 Leaders
-    ]{.toctext}](#Full_List_of_HoI2_Leaders)
-  - [[ 4.6 ]{.tocnumber} [ Trait names patcher
-    ]{.toctext}](#Trait_names_patcher)
-  - [[ 4.7 ]{.tocnumber} [ Hallsten\'s Old Guard Purge Event
-    generator
-    ]{.toctext}](#Hallsten.27s_Old_Guard_Purge_Event_generator)
-  - [[ 4.8 ]{.tocnumber} [ klas_a\'s Old Guard Purge Event generator
-    ]{.toctext}](#klas_a.27s_Old_Guard_Purge_Event_generator)
-- [[ 5 ]{.tocnumber} [ Map (Utilities)
-  ]{.toctext}](#Map_.28Utilities.29)
-- [[ 6 ]{.tocnumber} [ Graphics ]{.toctext}](#Graphics)
-  - [[ 6.1 ]{.tocnumber} [ Flag/Shield Generator
-    ]{.toctext}](#Flag.2FShield_Generator)
-- [[ 7 ]{.tocnumber} [ Screen Related ]{.toctext}](#Screen_Related)
-  - [[ 7.1 ]{.tocnumber} [ Generalized Screen Switch
-    ]{.toctext}](#Generalized_Screen_Switch)
-  - [[ 7.2 ]{.tocnumber} [ Resolution Changer
-    ]{.toctext}](#Resolution_Changer)
-  - [[ 7.3 ]{.tocnumber} [ Ever Running Patcher
-    ]{.toctext}](#Ever_Running_Patcher)
-  - [[ 7.4 ]{.tocnumber} [ Lord Ederon\'s Web site
-    ]{.toctext}](#Lord_Ederon.27s_Web_site_2)
-- [[ 8 ]{.tocnumber} [ Misc. ]{.toctext}](#Misc.) - [[ 8.1 ]{.tocnumber} [ No Time Limit Mod Tool
-  ]{.toctext}](#No_Time_Limit_Mod_Tool) - [[ 8.2 ]{.tocnumber} [ Research Assistant Time Calculator
-  ]{.toctext}](#Research_Assistant_Time_Calculator) - [[ 8.3 ]{.tocnumber} [ Manpower Losses Sheet
-  ]{.toctext}](#Manpower_Losses_Sheet) - [[ 8.4 ]{.tocnumber} [ Simplified Manpower Losses Sheet
-  ]{.toctext}](#Simplified_Manpower_Losses_Sheet) - [[ 8.5 ]{.tocnumber} [ KeyMapper ]{.toctext}](#KeyMapper) - [[ 8.6 ]{.tocnumber} [ Pegasus Hexa Wizard
-  ]{.toctext}](#Pegasus_Hexa_Wizard) - [[ 8.7 ]{.tocnumber} [ GAGA\'s land doctrine data sheets
-  ]{.toctext}](#GAGA.27s_land_doctrine_data_sheets) - [[ 8.8 ]{.tocnumber} [ Stopping Expeditionary Force Spamming
-  ]{.toctext}](#Stopping_Expeditionary_Force_Spamming) - [[ 8.9 ]{.tocnumber} [ Bitter Peace modified event allowing Axis
-  allies to keep conquered territory
-  ]{.toctext}](#Bitter_Peace_modified_event_allowing_Axis_allies_to_keep_conquered_territory) - [[ 8.10 ]{.tocnumber} [ EventMaker ]{.toctext}](#EventMaker)
-  :::
+-   [[ 1 ]{.tocnumber} [ Multi Editor ]{.toctext}](#Multi_Editor)
+    -   [[ 1.1 ]{.tocnumber} [ HoiEditor ]{.toctext}](#HoiEditor)
+    -   [[ 1.2 ]{.tocnumber} [ Hallsten\'s Unified HOI2/DD Generator
+        Utility
+        ]{.toctext}](#Hallsten.27s_Unified_HOI2.2FDD_Generator_Utility)
+    -   [[ 1.3 ]{.tocnumber} [ Lord Ederon\'s Web site
+        ]{.toctext}](#Lord_Ederon.27s_Web_site)
+-   [[ 2 ]{.tocnumber} [ Tech Team ]{.toctext}](#Tech_Team)
+    -   [[ 2.1 ]{.tocnumber} [ Complete list of HoI2 Research Teams
+        ]{.toctext}](#Complete_list_of_HoI2_Research_Teams)
+-   [[ 3 ]{.tocnumber} [ Minister ]{.toctext}](#Minister)
+    -   [[ 3.1 ]{.tocnumber} [ Complete List of HoI2 Ministers
+        ]{.toctext}](#Complete_List_of_HoI2_Ministers)
+-   [[ 4 ]{.tocnumber} [ Leader ]{.toctext}](#Leader)
+    -   [[ 4.1 ]{.tocnumber} [ Kucing\'s leader editor, death date
+        remover/randomizer and random leader generator
+        ]{.toctext}](#Kucing.27s_leader_editor.2C_death_date_remover.2Frandomizer_and_random_leader_generator)
+    -   [[ 4.2 ]{.tocnumber} [ Leader deathdate changer
+        ]{.toctext}](#Leader_deathdate_changer)
+    -   [[ 4.3 ]{.tocnumber} [ Leader deathdate remover
+        ]{.toctext}](#Leader_deathdate_remover)
+    -   [[ 4.4 ]{.tocnumber} [ Leader deathdate remover/randomizer
+        ]{.toctext}](#Leader_deathdate_remover.2Frandomizer)
+    -   [[ 4.5 ]{.tocnumber} [ Full List of HoI2 Leaders
+        ]{.toctext}](#Full_List_of_HoI2_Leaders)
+    -   [[ 4.6 ]{.tocnumber} [ Trait names patcher
+        ]{.toctext}](#Trait_names_patcher)
+    -   [[ 4.7 ]{.tocnumber} [ Hallsten\'s Old Guard Purge Event
+        generator
+        ]{.toctext}](#Hallsten.27s_Old_Guard_Purge_Event_generator)
+    -   [[ 4.8 ]{.tocnumber} [ klas_a\'s Old Guard Purge Event generator
+        ]{.toctext}](#klas_a.27s_Old_Guard_Purge_Event_generator)
+-   [[ 5 ]{.tocnumber} [ Map (Utilities)
+    ]{.toctext}](#Map_.28Utilities.29)
+-   [[ 6 ]{.tocnumber} [ Graphics ]{.toctext}](#Graphics)
+    -   [[ 6.1 ]{.tocnumber} [ Flag/Shield Generator
+        ]{.toctext}](#Flag.2FShield_Generator)
+-   [[ 7 ]{.tocnumber} [ Screen Related ]{.toctext}](#Screen_Related)
+    -   [[ 7.1 ]{.tocnumber} [ Generalized Screen Switch
+        ]{.toctext}](#Generalized_Screen_Switch)
+    -   [[ 7.2 ]{.tocnumber} [ Resolution Changer
+        ]{.toctext}](#Resolution_Changer)
+    -   [[ 7.3 ]{.tocnumber} [ Ever Running Patcher
+        ]{.toctext}](#Ever_Running_Patcher)
+    -   [[ 7.4 ]{.tocnumber} [ Lord Ederon\'s Web site
+        ]{.toctext}](#Lord_Ederon.27s_Web_site_2)
+-   [[ 8 ]{.tocnumber} [ Misc. ]{.toctext}](#Misc.)
+    -   [[ 8.1 ]{.tocnumber} [ No Time Limit Mod Tool
+        ]{.toctext}](#No_Time_Limit_Mod_Tool)
+    -   [[ 8.2 ]{.tocnumber} [ Research Assistant Time Calculator
+        ]{.toctext}](#Research_Assistant_Time_Calculator)
+    -   [[ 8.3 ]{.tocnumber} [ Manpower Losses Sheet
+        ]{.toctext}](#Manpower_Losses_Sheet)
+    -   [[ 8.4 ]{.tocnumber} [ Simplified Manpower Losses Sheet
+        ]{.toctext}](#Simplified_Manpower_Losses_Sheet)
+    -   [[ 8.5 ]{.tocnumber} [ KeyMapper ]{.toctext}](#KeyMapper)
+    -   [[ 8.6 ]{.tocnumber} [ Pegasus Hexa Wizard
+        ]{.toctext}](#Pegasus_Hexa_Wizard)
+    -   [[ 8.7 ]{.tocnumber} [ GAGA\'s land doctrine data sheets
+        ]{.toctext}](#GAGA.27s_land_doctrine_data_sheets)
+    -   [[ 8.8 ]{.tocnumber} [ Stopping Expeditionary Force Spamming
+        ]{.toctext}](#Stopping_Expeditionary_Force_Spamming)
+    -   [[ 8.9 ]{.tocnumber} [ Bitter Peace modified event allowing Axis
+        allies to keep conquered territory
+        ]{.toctext}](#Bitter_Peace_modified_event_allowing_Axis_allies_to_keep_conquered_territory)
+    -   [[ 8.10 ]{.tocnumber} [ EventMaker ]{.toctext}](#EventMaker)
+:::
 
 ## [ Multi Editor ]{#Multi_Editor .mw-headline}
 
@@ -122,15 +130,15 @@ forums](http://forum.paradoxplaza.com/forum/showthread.php?t=217256){.external
 
 ## [ Leader ]{#Leader .mw-headline}
 
-### [ ]{#Kucing's_leader_editor,\_death_date_remover/randomizer_and_random_leader_generator} [ Kucing\'s leader editor, death date remover/randomizer and random leader generator ]{#Kucing.27s_leader_editor.2C_death_date_remover.2Frandomizer_and_random_leader_generator .mw-headline}
+### [ ]{#Kucing's_leader_editor,_death_date_remover/randomizer_and_random_leader_generator} [ Kucing\'s leader editor, death date remover/randomizer and random leader generator ]{#Kucing.27s_leader_editor.2C_death_date_remover.2Frandomizer_and_random_leader_generator .mw-headline}
 
 Kucing has made an editor for changing leader files and generating new
 leaders automatically.
 
 You need to have [the .NET
 framework](http://www.microsoft.com/downloads/details.aspx?FamilyID=262d25e3-f589-4842-8157-034d1e7cf3a3&displaylang=en){.external
-.text rel="nofollow"} for this to work, and as with all modding, _make
-sure you back up your files before changing them_ .
+.text rel="nofollow"} for this to work, and as with all modding, *make
+sure you back up your files before changing them* .
 
 [Download and discussion at
 forums](https://forum.paradoxplaza.com/forum/index.php?threads/leader-editor-death-date-remover.180945/){.external
@@ -140,10 +148,10 @@ forums](https://forum.paradoxplaza.com/forum/index.php?threads/leader-editor-dea
 
 Packman has made this easy to use leader deathdate changer
 
-- Easy graphic gui
-- Built in backup feature
-- Allows you to set the deathdate yourself
-- Allows you to set the directory in which the leader file(s) are
+-   Easy graphic gui
+-   Built in backup feature
+-   Allows you to set the deathdate yourself
+-   Allows you to set the directory in which the leader file(s) are
 
 [Download](http://www.modhoi.com/download/ldc.zip){.external .text
 rel="nofollow"} [Discussion at
@@ -157,14 +165,14 @@ Stonewall has made a utility that sets all leader deathdates to 1960.
 Currently works for the following nations:
 
 +-----------------------+-----------------------+-----------------------+
-| - Australia | | - Nationalist China |
-| - Canada | | - Nationalist Spain |
-| - Finland | | - Poland |
-| - France | | - Russia |
-| - Germany | | - United Kingdom |
-| - Holland | | - United States |
-| - Italy | | - USSR |
-| - Japan | | |
+| -   Australia         |                       | -   Nationalist China |
+| -   Canada            |                       | -   Nationalist Spain |
+| -   Finland           |                       | -   Poland            |
+| -   France            |                       | -   Russia            |
+| -   Germany           |                       | -   United Kingdom    |
+| -   Holland           |                       | -   United States     |
+| -   Italy             |                       | -   USSR              |
+| -   Japan             |                       |                       |
 +-----------------------+-----------------------+-----------------------+
 
 To use, download the zip and unpack it into you db/leader-folder
@@ -228,9 +236,9 @@ included. Download it from
 [http://www.lysator.liu.se/\~klas/OldGuardEvents](http://www.lysator.liu.se/~klas/OldGuardEvents){.external
 .text rel="nofollow"} .
 
-## [ ]{#Map*(Utilities)} [ [Map (Utilities)](/wiki/Map*(Utilities) "Map (Utilities)") ]{#Map\_.28Utilities.29 .mw-headline}
+## [ ]{#Map_(Utilities)} [ [Map (Utilities)](/wiki/Map_(Utilities) "Map (Utilities)") ]{#Map_.28Utilities.29 .mw-headline}
 
-The [Map (Utilities)](</wiki/Map_(Utilities)> "Map (Utilities)") section
+The [Map (Utilities)](/wiki/Map_(Utilities) "Map (Utilities)") section
 contains both online maps and printable maps.
 
 ## [ Graphics ]{#Graphics .mw-headline}
@@ -352,18 +360,17 @@ Features cost, combat modification and chance of combat events.
 
 If you are getting frustrated with getting lots and lots of exp. forces
 that hurt your TC, some solutions are:\
-
-1. Editing the saved game\
-2. Using G\'Kar\'s event to stop the spamming: [How to disable
-   expeditionary force
-   spamming](http://forum.paradoxplaza.com/forum/showthread.php?t=271140){.external
-   .text rel="nofollow"}\
-3. Using this utility: [New version of NoExpForces 1.1b to DD 1.2 is
-   out](http://forum.paradoxplaza.com/forum/showthread.php?t=280910){.external
-   .text rel="nofollow"}\
-   Please note, that the official \"booster-pack\" Armageddon adds a
-   diplomatic option, where you can chose not to receive Expeditionary
-   forces from an ally.
+1) Editing the saved game\
+2) Using G\'Kar\'s event to stop the spamming: [How to disable
+expeditionary force
+spamming](http://forum.paradoxplaza.com/forum/showthread.php?t=271140){.external
+.text rel="nofollow"}\
+3) Using this utility: [New version of NoExpForces 1.1b to DD 1.2 is
+out](http://forum.paradoxplaza.com/forum/showthread.php?t=280910){.external
+.text rel="nofollow"}\
+Please note, that the official \"booster-pack\" Armageddon adds a
+diplomatic option, where you can chose not to receive Expeditionary
+forces from an ally.
 
 ### [ Bitter Peace modified event allowing Axis allies to keep conquered territory ]{#Bitter_Peace_modified_event_allowing_Axis_allies_to_keep_conquered_territory .mw-headline}
 

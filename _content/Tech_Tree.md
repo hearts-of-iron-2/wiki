@@ -1,7 +1,6 @@
 ---
 title: Tech_Tree
 ---
-
 ::: mw-parser-output
 ::: {.eu4box style="width:250px; height:auto; float:right; clear:right"}
 ::: heading
@@ -14,7 +13,7 @@ title: Tech_Tree
 Regular
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:110px 2; column-gap: 5px;-webkit-columns:110px 2; -webkit-column-gap: 5px;-moz-columns:110px 2; -moz-column-gap: 5px;"}
 [Aircraft](/wiki/Aircraft_Tech_Tree "Aircraft Tech Tree")\
@@ -31,7 +30,7 @@ Weapons](/wiki/Secret_Weapons_Tech_Tree "Secret Weapons Tech Tree")
 Doctrines
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:80px 3; column-gap: 5px;-webkit-columns:80px 3; -webkit-column-gap: 5px;-moz-columns:80px 3; -moz-column-gap: 5px;"}
 [Land](/wiki/Land_Doctrine_Tech_Tree "Land Doctrine Tech Tree")\

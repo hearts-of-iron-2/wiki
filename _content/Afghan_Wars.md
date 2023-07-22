@@ -1,9 +1,7 @@
 ---
 title: Afghan_Wars
 ---
-
 ::: mw-parser-output
-
 ## [ **Afghan Wars v1.0 and the Vietnam War v6.0 by FRVP** ]{#Afghan_Wars_v1.0_and_the_Vietnam_War_v6.0_by_FRVP .mw-headline}
 
 Compatable with Armagedon and Doomsday. A total of 3 scenarios packaged
@@ -101,8 +99,8 @@ won\'t let the AI build after 1964. So get version ARMG 1.1 or DD 1.3
 for full function play, otherwise there are enough events to still make
 the game rather enjoyable.)
 
-_Thanks to Jamie for his Map Maker, Digoo for his TNW ideas and BeBro,
-Hilsdorf and Strits1945 for their contributions!_
+*Thanks to Jamie for his Map Maker, Digoo for his TNW ideas and BeBro,
+Hilsdorf and Strits1945 for their contributions!*
 
 **FRVP \~ Creator of Vietnam and Afghan War Scenarios**
 

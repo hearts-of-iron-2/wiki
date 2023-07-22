@@ -1,43 +1,41 @@
 ---
 title: Poor_mans_army
 ---
-
 ::: mw-parser-output
 [Template:HOI2
 v1.3](/wiki/index.php?title=Template:HOI2_v1.3&action=edit&redlink=1 "Template:HOI2 v1.3 (page does not exist)"){.new}
 
 ::: {#toc .toc aria-labelledby="mw-toc-heading" role="navigation"}
 ::: {.toctitle dir="ltr" lang="en"}
-
 ## Contents {#mw-toc-heading}
 
 [ ]{.toctogglespan}
 :::
 
-- [[ 1 ]{.tocnumber} [ Introduction ]{.toctext}](#Introduction)
-- [[ 2 ]{.tocnumber} [ Economics - Managing Scarce Resources
-  ]{.toctext}](#Economics_-_Managing_Scarce_Resources)
-- [[ 3 ]{.tocnumber} [ Self-Defence Forces - Guns or Butter
-  ]{.toctext}](#Self-Defence_Forces_-_Guns_or_Butter)
-  - [[ 3.1 ]{.tocnumber} [ A discussion on Footsoldiers
-    ]{.toctext}](#A_discussion_on_Footsoldiers)
-  - [[ 3.2 ]{.tocnumber} [ A discussion on Brigades
-    ]{.toctext}](#A_discussion_on_Brigades)
-- [[ 4 ]{.tocnumber} [ Air Force ]{.toctext}](#Air_Force)
-- [[ 5 ]{.tocnumber} [ Navy ]{.toctext}](#Navy)
-- [[ 6 ]{.tocnumber} [ Research - Tree climbing on paper
-  ]{.toctext}](#Research_-_Tree_climbing_on_paper)
-  - [[ 6.1 ]{.tocnumber} [ Research Basics
-    ]{.toctext}](#Research_Basics)
-  - [[ 6.2 ]{.tocnumber} [ Industrial Research
-    ]{.toctext}](#Industrial_Research)
-  - [[ 6.3 ]{.tocnumber} [ Military Research
-    ]{.toctext}](#Military_Research)
-  - [[ 6.4 ]{.tocnumber} [ Other Research
-    ]{.toctext}](#Other_Research)
-- [[ 7 ]{.tocnumber} [ Definitions for this text
-  ]{.toctext}](#Definitions_for_this_text)
-  :::
+-   [[ 1 ]{.tocnumber} [ Introduction ]{.toctext}](#Introduction)
+-   [[ 2 ]{.tocnumber} [ Economics - Managing Scarce Resources
+    ]{.toctext}](#Economics_-_Managing_Scarce_Resources)
+-   [[ 3 ]{.tocnumber} [ Self-Defence Forces - Guns or Butter
+    ]{.toctext}](#Self-Defence_Forces_-_Guns_or_Butter)
+    -   [[ 3.1 ]{.tocnumber} [ A discussion on Footsoldiers
+        ]{.toctext}](#A_discussion_on_Footsoldiers)
+    -   [[ 3.2 ]{.tocnumber} [ A discussion on Brigades
+        ]{.toctext}](#A_discussion_on_Brigades)
+-   [[ 4 ]{.tocnumber} [ Air Force ]{.toctext}](#Air_Force)
+-   [[ 5 ]{.tocnumber} [ Navy ]{.toctext}](#Navy)
+-   [[ 6 ]{.tocnumber} [ Research - Tree climbing on paper
+    ]{.toctext}](#Research_-_Tree_climbing_on_paper)
+    -   [[ 6.1 ]{.tocnumber} [ Research Basics
+        ]{.toctext}](#Research_Basics)
+    -   [[ 6.2 ]{.tocnumber} [ Industrial Research
+        ]{.toctext}](#Industrial_Research)
+    -   [[ 6.3 ]{.tocnumber} [ Military Research
+        ]{.toctext}](#Military_Research)
+    -   [[ 6.4 ]{.tocnumber} [ Other Research
+        ]{.toctext}](#Other_Research)
+-   [[ 7 ]{.tocnumber} [ Definitions for this text
+    ]{.toctext}](#Definitions_for_this_text)
+:::
 
 ## [ Introduction ]{#Introduction .mw-headline}
 
@@ -46,7 +44,7 @@ tech teams and manpower at their disposal, some aren\'t so lucky. This
 guide will focus on those unlucky countries whose Industrial Capacity
 only reaches the high 30\'s, if they\'re lucky. But they\'re not.
 
-## [ Economics - Managing Scarce Resources ]{#Economics\_-_Managing_Scarce_Resources .mw-headline}
+## [ Economics - Managing Scarce Resources ]{#Economics_-_Managing_Scarce_Resources .mw-headline}
 
 As stated earlier, ICs can be scarce, thus building more can be of
 importance in developing a self-reliance on Consumer Goods, Supplies and
@@ -57,7 +55,7 @@ develop a foreign policy of converting non-domestic ICs to domestic, but
 this probably requires some military might - then again, you know you
 want to.
 
-## [ Self-Defence Forces - Guns or Butter ]{#Self-Defence*Forces*-\_Guns_or_Butter .mw-headline}
+## [ Self-Defence Forces - Guns or Butter ]{#Self-Defence_Forces_-_Guns_or_Butter .mw-headline}
 
 It is still possible for relatively small powers to attain a capable
 military force. In most cases, however, this will only be limited to a
@@ -201,7 +199,7 @@ expansion and maintenance, especially since both AA guns and AD brigades
 are probably a more affordable alternative. Escort fighters can be of
 interest however in keeping your bombers safe.
 
-    Hearts of Iron 2: Doomsday In HOI2:DD, Escort fighters are managed and produced like Brigades attached to bombers. Thus, this might be a very affordable way of keeping your bombers safe from enemy fighters. Also there is a tech in the tactical branch of the tech tree that gives +30% bonuses to most tactical air missions.
+    Hearts of Iron 2: Doomsday In HOI2:DD, Escort fighters are managed and produced like Brigades attached to bombers. Thus, this might be a very affordable way of keeping your bombers safe from enemy fighters. Also there is a tech in the tactical branch of the tech tree that gives +30% bonuses to most tactical air missions. 
 
 ## [ Navy ]{#Navy .mw-headline}
 
@@ -228,7 +226,7 @@ submarines all at level 4 that are improved through sealane interdiction
 doctrine(if subs are built) or the \"fleet in in being\" (British
 doctrine).
 
-## [ Research - Tree climbing on paper ]{#Research\_-_Tree_climbing_on_paper .mw-headline}
+## [ Research - Tree climbing on paper ]{#Research_-_Tree_climbing_on_paper .mw-headline}
 
 ### [ Research Basics ]{#Research_Basics .mw-headline}
 
@@ -237,21 +235,21 @@ Everything that is explained on the
 nation research too, so reading that is a very good start. Research for
 small nations in a short version looks a lot like this:
 
-- Never research ahead of time. Bigger nations can do that, as they
-  usually have the more tech slots and better tech teams. You however,
-  as small nation, usually have bad tech teams, so researching ahead
-  of time would be a lot of wasted time taking into consideration that
-  you only have 1 or maybe 2 tech slots.
-- Research techs with blueprints first. If you perhaps have an ally
-  that gives you blueprints, it is very wise to research the techs you
-  have blueprints of first. Sometimes you might want another tech
-  researched first. But nothing is more frustrating then researching a
-  tech and when you reach 80% your ally suddenly gives you a
-  blueprint, as that means a lot of wasted research time.
-- Matching fields of expertise. Get as much as possible matching
-  fields of expertise.
-- Skill levels. Always research with the highest possible skill level.
-- Don\'t research anything you don\'t need!
+-   Never research ahead of time. Bigger nations can do that, as they
+    usually have the more tech slots and better tech teams. You however,
+    as small nation, usually have bad tech teams, so researching ahead
+    of time would be a lot of wasted time taking into consideration that
+    you only have 1 or maybe 2 tech slots.
+-   Research techs with blueprints first. If you perhaps have an ally
+    that gives you blueprints, it is very wise to research the techs you
+    have blueprints of first. Sometimes you might want another tech
+    researched first. But nothing is more frustrating then researching a
+    tech and when you reach 80% your ally suddenly gives you a
+    blueprint, as that means a lot of wasted research time.
+-   Matching fields of expertise. Get as much as possible matching
+    fields of expertise.
+-   Skill levels. Always research with the highest possible skill level.
+-   Don\'t research anything you don\'t need!
 
 ### [ Industrial Research ]{#Industrial_Research .mw-headline}
 

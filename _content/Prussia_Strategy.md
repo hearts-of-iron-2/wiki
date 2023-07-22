@@ -1,7 +1,6 @@
 ---
 title: Prussia_Strategy
 ---
-
 ::: mw-parser-output
 If you are going to play with Prussian in either Armageddon or the
 Abyss, you must keep in mind 3 things:

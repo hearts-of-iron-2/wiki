@@ -1,7 +1,6 @@
 ---
 title: South_Africa
 ---
-
 ::: mw-parser-output
 ::: {.eu4box style="width:330px; height:auto; float:right; clear:right"}
 ::: heading
@@ -14,7 +13,7 @@ title: South_Africa
 [Major powers](/wiki/Major_power "Major power"){.mw-redirect}
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [France](/wiki/France "France")\
@@ -30,7 +29,7 @@ title: South_Africa
 Regional powers
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [Argentina](/wiki/Argentina "Argentina")\
@@ -58,7 +57,7 @@ Regional powers
 [Minor powers](/wiki/Minor_power "Minor power"){.mw-redirect}
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [Austria](/wiki/Austria "Austria")\
@@ -81,7 +80,7 @@ Regional powers
 [Micro powers](/wiki/Micro_power "Micro power"){.mw-redirect}
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [Afghanistan](/wiki/Afghanistan "Afghanistan")\
@@ -131,39 +130,42 @@ Arabia](/wiki/index.php?title=Saudi_Arabia&action=edit&redlink=1 "Saudi Arabia (
 
 ::: {#toc .toc aria-labelledby="mw-toc-heading" role="navigation"}
 ::: {.toctitle dir="ltr" lang="en"}
-
 ## Contents {#mw-toc-heading}
 
 [ ]{.toctogglespan}
 :::
 
-- [[ 1 ]{.tocnumber} [ Overview ]{.toctext}](#Overview)
-  - [[ 1.1 ]{.tocnumber} [ Advantages ]{.toctext}](#Advantages)
-  - [[ 1.2 ]{.tocnumber} [ Disadvantages
-    ]{.toctext}](#Disadvantages)
-- [[ 2 ]{.tocnumber} [ Strategies ]{.toctext}](#Strategies) - [[ 2.1 ]{.tocnumber} [ African Conquests with the Allies
-  ]{.toctext}](#African_Conquests_with_the_Allies) - [[ 2.1.1 ]{.tocnumber} [ Ethiopia ]{.toctext}](#Ethiopia) - [[ 2.1.2 ]{.tocnumber} [ Vichy France
-  ]{.toctext}](#Vichy_France) - [[ 2.1.3 ]{.tocnumber} [ Portugal ]{.toctext}](#Portugal)
-  :::
+-   [[ 1 ]{.tocnumber} [ Overview ]{.toctext}](#Overview)
+    -   [[ 1.1 ]{.tocnumber} [ Advantages ]{.toctext}](#Advantages)
+    -   [[ 1.2 ]{.tocnumber} [ Disadvantages
+        ]{.toctext}](#Disadvantages)
+-   [[ 2 ]{.tocnumber} [ Strategies ]{.toctext}](#Strategies)
+    -   [[ 2.1 ]{.tocnumber} [ African Conquests with the Allies
+        ]{.toctext}](#African_Conquests_with_the_Allies)
+        -   [[ 2.1.1 ]{.tocnumber} [ Ethiopia ]{.toctext}](#Ethiopia)
+        -   [[ 2.1.2 ]{.tocnumber} [ Vichy France
+            ]{.toctext}](#Vichy_France)
+        -   [[ 2.1.3 ]{.tocnumber} [ Portugal ]{.toctext}](#Portugal)
+:::
 
 ## [ Overview ]{#Overview .mw-headline}
 
 ### [ Advantages ]{#Advantages .mw-headline}
 
-- Powerful allies, in particular the United Kingdom
-- Decent tech teams (in particular Vickers-Armstrong Ltd. and South
-  Africa Railways)
-- Decent starting land doctrines
-- Far from threats
-- Early peace to build a military
+-   Powerful allies, in particular the United Kingdom
+-   Decent tech teams (in particular Vickers-Armstrong Ltd. and South
+    Africa Railways)
+-   Decent starting land doctrines
+-   Far from threats
+-   Early peace to build a military
 
 ### [ Disadvantages ]{#Disadvantages .mw-headline}
 
-- Low IC and manpower
-- Poor starting forces (6 transports and 3 garrisons)
-- Mediocre starting domestic sliders
-- Far from countries to annex
-- Some terrible ministers
+-   Low IC and manpower
+-   Poor starting forces (6 transports and 3 garrisons)
+-   Mediocre starting domestic sliders
+-   Far from countries to annex
+-   Some terrible ministers
 
 ## [ Strategies ]{#Strategies .mw-headline}
 

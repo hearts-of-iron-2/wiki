@@ -1,7 +1,6 @@
 ---
 title: Submarine_Guide
 ---
-
 ::: mw-parser-output
 [Template:Anthology](/wiki/index.php?title=Template:Anthology&action=edit&redlink=1 "Template:Anthology (page does not exist)"){.new}
 
@@ -11,25 +10,26 @@ a gamey exploit.
 
 ::: {#toc .toc aria-labelledby="mw-toc-heading" role="navigation"}
 ::: {.toctitle dir="ltr" lang="en"}
-
 ## Contents {#mw-toc-heading}
 
 [ ]{.toctogglespan}
 :::
 
-- [[ 1 ]{.tocnumber} [ Surface Battles ]{.toctext}](#Surface_Battles)
-- [[ 2 ]{.tocnumber} [ Convoy Raiding ]{.toctext}](#Convoy_Raiding)
-- [[ 3 ]{.tocnumber} [ AI use ]{.toctext}](#AI_use)
-- [[ 4 ]{.tocnumber} [ Quote from the HoI2 Lead Script AI Developer
-  Lothos
-  ]{.toctext}](#Quote_from_the_HoI2_Lead_Script_AI_Developer_Lothos)
-- [[ 5 ]{.tocnumber} [ Submarines in Hearts of Iron 2
-  ]{.toctext}](#Submarines_in_Hearts_of_Iron_2)
-- [[ 6 ]{.tocnumber} [ Submarines in Doomsday
-  ]{.toctext}](#Submarines_in_Doomsday)
-- [[ 7 ]{.tocnumber} [ Submarines in Armageddon
-  ]{.toctext}](#Submarines_in_Armageddon) - [[ 7.1 ]{.tocnumber} [ Version 1.1 ]{.toctext}](#Version_1.1) - [[ 7.2 ]{.tocnumber} [ Version 1.2 ]{.toctext}](#Version_1.2)
-  :::
+-   [[ 1 ]{.tocnumber} [ Surface Battles ]{.toctext}](#Surface_Battles)
+-   [[ 2 ]{.tocnumber} [ Convoy Raiding ]{.toctext}](#Convoy_Raiding)
+-   [[ 3 ]{.tocnumber} [ AI use ]{.toctext}](#AI_use)
+-   [[ 4 ]{.tocnumber} [ Quote from the HoI2 Lead Script AI Developer
+    Lothos
+    ]{.toctext}](#Quote_from_the_HoI2_Lead_Script_AI_Developer_Lothos)
+-   [[ 5 ]{.tocnumber} [ Submarines in Hearts of Iron 2
+    ]{.toctext}](#Submarines_in_Hearts_of_Iron_2)
+-   [[ 6 ]{.tocnumber} [ Submarines in Doomsday
+    ]{.toctext}](#Submarines_in_Doomsday)
+-   [[ 7 ]{.tocnumber} [ Submarines in Armageddon
+    ]{.toctext}](#Submarines_in_Armageddon)
+    -   [[ 7.1 ]{.tocnumber} [ Version 1.1 ]{.toctext}](#Version_1.1)
+    -   [[ 7.2 ]{.tocnumber} [ Version 1.2 ]{.toctext}](#Version_1.2)
+:::
 
 ## [ Surface Battles ]{#Surface_Battles .mw-headline}
 
@@ -120,11 +120,11 @@ Functionality essentially unchanged from Doomsday.
 
 The Amageddon patch v1.2 changed submarine behavior from v1.1
 
-- Submarines do not remove [FOW](/wiki/FOW "FOW") in adjacent
-  [land](/wiki/index.php?title=Land&action=edit&redlink=1 "Land (page does not exist)"){.new}
-  areas
-- Small units (1 to 3) of submarines _seem_ more vulnerable.
-- Large units (24+) of submarines _seem_ more powerful.
+-   Submarines do not remove [FOW](/wiki/FOW "FOW") in adjacent
+    [land](/wiki/index.php?title=Land&action=edit&redlink=1 "Land (page does not exist)"){.new}
+    areas
+-   Small units (1 to 3) of submarines *seem* more vulnerable.
+-   Large units (24+) of submarines *seem* more powerful.
 
 In reviewing [Combat
 range](/wiki/Combat_range "Combat range"){.mw-redirect} it becomes

@@ -1,32 +1,34 @@
 ---
 title: Games_Exported_from_Victoria
 ---
-
 ::: mw-parser-output
 Note: the Following is a Copy-pasting of the page on exporting games
 from the Victoria: Empire Under the Sun wiki.
 
 ::: {#toc .toc aria-labelledby="mw-toc-heading" role="navigation"}
 ::: {.toctitle dir="ltr" lang="en"}
-
 ## Contents {#mw-toc-heading}
 
 [ ]{.toctogglespan}
 :::
 
-- [[ 1 ]{.tocnumber} [ Basics ]{.toctext}](#Basics)
-  - [[ 1.1 ]{.tocnumber} [ What is an exported game?
-    ]{.toctext}](#What_is_an_exported_game.3F)
-  - [[ 1.2 ]{.tocnumber} [ How do I export a game (from Victoria to
-    HoI2)?
-    ]{.toctext}](#How_do_I_export_a_game_.28from_Victoria_to_HoI2.29.3F)
-  - [[ 1.3 ]{.tocnumber} [ Will the exported game look the same as
-    it did on Victoria?
-    ]{.toctext}](#Will_the_exported_game_look_the_same_as_it_did_on_Victoria.3F)
-- [[ 2 ]{.tocnumber} [ Changes, conversions, differences and so on
-  ]{.toctext}](#Changes.2C_conversions.2C_differences_and_so_on) - [[ 2.1 ]{.tocnumber} [ Provincial Division
-  ]{.toctext}](#Provincial_Division) - [[ 2.2 ]{.tocnumber} [ Countries ]{.toctext}](#Countries) - [[ 2.3 ]{.tocnumber} [ Technology ]{.toctext}](#Technology) - [[ 2.4 ]{.tocnumber} [ Units ]{.toctext}](#Units)
-  :::
+-   [[ 1 ]{.tocnumber} [ Basics ]{.toctext}](#Basics)
+    -   [[ 1.1 ]{.tocnumber} [ What is an exported game?
+        ]{.toctext}](#What_is_an_exported_game.3F)
+    -   [[ 1.2 ]{.tocnumber} [ How do I export a game (from Victoria to
+        HoI2)?
+        ]{.toctext}](#How_do_I_export_a_game_.28from_Victoria_to_HoI2.29.3F)
+    -   [[ 1.3 ]{.tocnumber} [ Will the exported game look the same as
+        it did on Victoria?
+        ]{.toctext}](#Will_the_exported_game_look_the_same_as_it_did_on_Victoria.3F)
+-   [[ 2 ]{.tocnumber} [ Changes, conversions, differences and so on
+    ]{.toctext}](#Changes.2C_conversions.2C_differences_and_so_on)
+    -   [[ 2.1 ]{.tocnumber} [ Provincial Division
+        ]{.toctext}](#Provincial_Division)
+    -   [[ 2.2 ]{.tocnumber} [ Countries ]{.toctext}](#Countries)
+    -   [[ 2.3 ]{.tocnumber} [ Technology ]{.toctext}](#Technology)
+    -   [[ 2.4 ]{.tocnumber} [ Units ]{.toctext}](#Units)
+:::
 
 ## [ Basics ]{#Basics .mw-headline}
 
@@ -37,7 +39,7 @@ been converted into a Hearts of Iron II one. It begins where the
 Victoria game ended; the started date is always January 1st, 1936 unless
 the file has been manually edited by the user.
 
-### [ ]{#How*do_I_export_a_game*(from*Victoria_to_HoI2)?} [ How do I export a game (from Victoria to HoI2)? ]{#How_do_I_export_a_game*.28from_Victoria_to_HoI2.29.3F .mw-headline}
+### [ ]{#How_do_I_export_a_game_(from_Victoria_to_HoI2)?} [ How do I export a game (from Victoria to HoI2)? ]{#How_do_I_export_a_game_.28from_Victoria_to_HoI2.29.3F .mw-headline}
 
 Once you finish your Vicky game, you will see that there\'s an
 \"export\" option at the end game pop-up (not the screen after that).
@@ -58,7 +60,7 @@ Hearts of Iron II.
 
 \
 
-## [ ]{#Changes,\_conversions,\_differences_and_so_on} [ Changes, conversions, differences and so on ]{#Changes.2C_conversions.2C_differences_and_so_on .mw-headline}
+## [ ]{#Changes,_conversions,_differences_and_so_on} [ Changes, conversions, differences and so on ]{#Changes.2C_conversions.2C_differences_and_so_on .mw-headline}
 
 ### [ Provincial Division ]{#Provincial_Division .mw-headline}
 
@@ -78,7 +80,7 @@ Vicky to HoI2 in the \"vic2hoiprovince.csv\" file, located in
 Victoria\'s database folder. Each line in the file will contain the
 following information:
 
-    Victoria Province ID;HoI2 Province ID
+    Victoria Province ID;HoI2 Province ID 
 
 \
 
@@ -98,7 +100,7 @@ conversion. The same folder may be modified as well to alter other
 countries\' conversions. Each line in the file will contain the
 following information:
 
-    Victoria Country Tag;HoI2 Country Tag; Victoria Country Name; HoI2 Country Name;x
+    Victoria Country Tag;HoI2 Country Tag; Victoria Country Name; HoI2 Country Name;x 
 
 ### [ Technology ]{#Technology .mw-headline}
 
@@ -114,56 +116,55 @@ Inventions](/wiki/index.php?title=Navy_Inventions&action=edit&redlink=1 "Navy In
 conversions](http://forum.paradoxplaza.com/forum/showthread.php?406223-What-does-a-engineers-brigade-convert-to-in-Hearts-of-Iron){.external
 .text rel="nofollow"}
 
-- Infantry divisions remain Infantry divisions while it\'s brigades
-  convert as follows:
-  - Artillery and Engineer Brigades remain Artillery and Engineer
-    Attachments.
-  - Regulars brigades become a Military Police attachment.
-  - Guard Brigades become an Armored Car attachment.
-  - \"barrel\" attachments become Light Tank divisions.
-  - Fighter attachments become Interceptors
-  - Bomber attachments become Tactical Bombers
-  - an Infantry division with the HQ brigade will trasform into an
-    HQ unit. this is the one case where the Infantry division does
-    not become a seperete unit.
+-   Infantry divisions remain Infantry divisions while it\'s brigades
+    convert as follows:
+    -   Artillery and Engineer Brigades remain Artillery and Engineer
+        Attachments.
+    -   Regulars brigades become a Military Police attachment.
+    -   Guard Brigades become an Armored Car attachment.
+    -   \"barrel\" attachments become Light Tank divisions.
+    -   Fighter attachments become Interceptors
+    -   Bomber attachments become Tactical Bombers
+    -   an Infantry division with the HQ brigade will trasform into an
+        HQ unit. this is the one case where the Infantry division does
+        not become a seperete unit.
 
 ```{=html}
 <!-- -->
 ```
-
-- Cavalry divisions remain Cavalry, attached brigades are simply
-  deleted.
-- Dragoons, bizarrely, turn into \'36 Mountain Divisions!
+-   Cavalry divisions remain Cavalry, attached brigades are simply
+    deleted.
+-   Dragoons, bizarrely, turn into \'36 Mountain Divisions!
 
 Note: Infantry and cavalry are converted to the \'18 Infantry and \'18
 cavalry,respectively, unless the own has researched \"Modern divisional
 structure\" which makes them the more advanced \'36 versions
 
-- Air bases appear in Provinces where planes initially stationed,
-  possibly also in areas of high infrastructure? (more investigation
-  required)
-- Forts and naval bases mostly carry over but interact strangely with
-  areas where multiple provinces were merged together in the
-  conversion.
-- dreadnoughts, battleships, cruisers, and carriers are converted to
-  their namesake units in HOI2
-- Steam transports are converted to Transports
-- Minelayer, Minesweeper, and Destroyer Flotilla attachements all
-  convert into Destroyers
-- all other naval units are discarded.
-- province Infrastructure is determined by the province rail level.
-- a nation\'s Industry rating determines their total starting
-  Industrial Capacity, which is then distributed among their provinces
-  by a formula in which relative population of the province and and
-  number of factories in the state are known to be factors.
-- HOI2 Government type is determined by Vicky Government type and
-  Party in power.
-- Other position sliders are determined by factors not yet known to
-  this writer.
-- A nations Tech Teams are generated semi-randomly, apparently being
-  specialized economically is supposed to give you Tech Teams better
-  suited to certain research (more tank factories give tech teams more
-  suited to tank design, more officers better for doctrine research,
-  etc.) then named after the tech teams in the HOI2 base campaign From
-  the same country and with similar specialties.
-  :::
+-   Air bases appear in Provinces where planes initially stationed,
+    possibly also in areas of high infrastructure? (more investigation
+    required)
+-   Forts and naval bases mostly carry over but interact strangely with
+    areas where multiple provinces were merged together in the
+    conversion.
+-   dreadnoughts, battleships, cruisers, and carriers are converted to
+    their namesake units in HOI2
+-   Steam transports are converted to Transports
+-   Minelayer, Minesweeper, and Destroyer Flotilla attachements all
+    convert into Destroyers
+-   all other naval units are discarded.
+-   province Infrastructure is determined by the province rail level.
+-   a nation\'s Industry rating determines their total starting
+    Industrial Capacity, which is then distributed among their provinces
+    by a formula in which relative population of the province and and
+    number of factories in the state are known to be factors.
+-   HOI2 Government type is determined by Vicky Government type and
+    Party in power.
+-   Other position sliders are determined by factors not yet known to
+    this writer.
+-   A nations Tech Teams are generated semi-randomly, apparently being
+    specialized economically is supposed to give you Tech Teams better
+    suited to certain research (more tank factories give tech teams more
+    suited to tank design, more officers better for doctrine research,
+    etc.) then named after the tech teams in the HOI2 base campaign From
+    the same country and with similar specialties.
+:::

@@ -1,7 +1,6 @@
 ---
 title: Mongolia
 ---
-
 ::: mw-parser-output
 ::: {.eu4box style="width:330px; height:auto; float:right; clear:right"}
 ::: heading
@@ -14,7 +13,7 @@ title: Mongolia
 [Major powers](/wiki/Major_power "Major power"){.mw-redirect}
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [France](/wiki/France "France")\
@@ -30,7 +29,7 @@ title: Mongolia
 Regional powers
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [Argentina](/wiki/Argentina "Argentina")\
@@ -58,7 +57,7 @@ Regional powers
 [Minor powers](/wiki/Minor_power "Minor power"){.mw-redirect}
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [Austria](/wiki/Austria "Austria")\
@@ -81,7 +80,7 @@ Regional powers
 [Micro powers](/wiki/Micro_power "Micro power"){.mw-redirect}
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [Afghanistan](/wiki/Afghanistan "Afghanistan")\
@@ -135,18 +134,17 @@ go on.
 
 ::: {#toc .toc aria-labelledby="mw-toc-heading" role="navigation"}
 ::: {.toctitle dir="ltr" lang="en"}
-
 ## Contents {#mw-toc-heading}
 
 [ ]{.toctogglespan}
 :::
 
-- [[ 1 ]{.tocnumber} [ The first years ]{.toctext}](#The_first_years)
-- [[ 2 ]{.tocnumber} [ Mid-1939 ]{.toctext}](#Mid-1939)
-- [[ 3 ]{.tocnumber} [ 1940 - 1944 ]{.toctext}](#1940_-_1944)
-- [[ 4 ]{.tocnumber} [ 1945 ]{.toctext}](#1945)
-- [[ 5 ]{.tocnumber} [ After 1945 ]{.toctext}](#After_1945)
-  :::
+-   [[ 1 ]{.tocnumber} [ The first years ]{.toctext}](#The_first_years)
+-   [[ 2 ]{.tocnumber} [ Mid-1939 ]{.toctext}](#Mid-1939)
+-   [[ 3 ]{.tocnumber} [ 1940 - 1944 ]{.toctext}](#1940_-_1944)
+-   [[ 4 ]{.tocnumber} [ 1945 ]{.toctext}](#1945)
+-   [[ 5 ]{.tocnumber} [ After 1945 ]{.toctext}](#After_1945)
+:::
 
 ## [ The first years ]{#The_first_years .mw-headline}
 
@@ -169,7 +167,7 @@ full IC takeover. Without it, just 16. Will do anyways.
 
 \
 
-## [ 1940 - 1944 ]{#1940\_-_1944 .mw-headline}
+## [ 1940 - 1944 ]{#1940_-_1944 .mw-headline}
 
 You should build up in these years. SU will be at war with Germany
 already, but don\'t mind that, they will survive. If they don\'t, well,

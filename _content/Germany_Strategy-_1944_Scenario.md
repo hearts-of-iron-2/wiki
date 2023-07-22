@@ -1,28 +1,26 @@
 ---
 title: Germany_Strategy-_1944_Scenario
 ---
-
 ::: mw-parser-output
 [Template:GermanyStrategyGuides](/wiki/index.php?title=Template:GermanyStrategyGuides&action=edit&redlink=1 "Template:GermanyStrategyGuides (page does not exist)"){.new}
 
 ::: {#toc .toc aria-labelledby="mw-toc-heading" role="navigation"}
 ::: {.toctitle dir="ltr" lang="en"}
-
 ## Contents {#mw-toc-heading}
 
 [ ]{.toctogglespan}
 :::
 
-- [[ 1 ]{.tocnumber} [ Overview ]{.toctext}](#Overview)
-- [[ 2 ]{.tocnumber} [ The West ]{.toctext}](#The_West)
-- [[ 3 ]{.tocnumber} [ The South ]{.toctext}](#The_South)
-- [[ 4 ]{.tocnumber} [ The North ]{.toctext}](#The_North)
-- [[ 5 ]{.tocnumber} [ The East ]{.toctext}](#The_East)
-- [[ 6 ]{.tocnumber} [ After the Preliminaries
-  ]{.toctext}](#After_the_Preliminaries)
-- [[ 7 ]{.tocnumber} [ Back to Blitzkrieg
-  ]{.toctext}](#Back_to_Blitzkrieg)
-  :::
+-   [[ 1 ]{.tocnumber} [ Overview ]{.toctext}](#Overview)
+-   [[ 2 ]{.tocnumber} [ The West ]{.toctext}](#The_West)
+-   [[ 3 ]{.tocnumber} [ The South ]{.toctext}](#The_South)
+-   [[ 4 ]{.tocnumber} [ The North ]{.toctext}](#The_North)
+-   [[ 5 ]{.tocnumber} [ The East ]{.toctext}](#The_East)
+-   [[ 6 ]{.tocnumber} [ After the Preliminaries
+    ]{.toctext}](#After_the_Preliminaries)
+-   [[ 7 ]{.tocnumber} [ Back to Blitzkrieg
+    ]{.toctext}](#Back_to_Blitzkrieg)
+:::
 
 ### [ Overview ]{#Overview .mw-headline}
 
@@ -52,7 +50,7 @@ together. The Americans will quickly fan out and start capturing
 territory. Forget Brest and concentrate on holding Paris. Otherwise
 Hitler\'s assassination will raise dissent and kill leaders (or his
 failed assassination for that matter). Use available Luftwaffe units to
-support as long as you have fuel. _Don\'t waste fuel on planes\... yet._
+support as long as you have fuel. *Don\'t waste fuel on planes\... yet.*
 There is a 22-submarine unit under Dönitz\' command in Germany. Use this
 and sail into the channel, supported by all submarines in France. This
 should enable you to cut off reinforcements for awhile but your subs

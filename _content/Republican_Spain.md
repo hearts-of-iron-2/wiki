@@ -1,7 +1,6 @@
 ---
 title: Republican_Spain
 ---
-
 ::: mw-parser-output
 ::: {.eu4box style="width:330px; height:auto; float:right; clear:right"}
 ::: heading
@@ -14,7 +13,7 @@ title: Republican_Spain
 [Major powers](/wiki/Major_power "Major power"){.mw-redirect}
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [France](/wiki/France "France")\
@@ -30,7 +29,7 @@ title: Republican_Spain
 Regional powers
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [Argentina](/wiki/Argentina "Argentina")\
@@ -58,7 +57,7 @@ Regional powers
 [Minor powers](/wiki/Minor_power "Minor power"){.mw-redirect}
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [Austria](/wiki/Austria "Austria")\
@@ -81,7 +80,7 @@ Regional powers
 [Micro powers](/wiki/Micro_power "Micro power"){.mw-redirect}
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [Afghanistan](/wiki/Afghanistan "Afghanistan")\
@@ -131,39 +130,41 @@ Arabia](/wiki/index.php?title=Saudi_Arabia&action=edit&redlink=1 "Saudi Arabia (
 
 ::: {#toc .toc aria-labelledby="mw-toc-heading" role="navigation"}
 ::: {.toctitle dir="ltr" lang="en"}
-
 ## Contents {#mw-toc-heading}
 
 [ ]{.toctogglespan}
 :::
 
-- [[ 1 ]{.tocnumber} [ Overview ]{.toctext}](#Overview)
-- [[ 2 ]{.tocnumber} [ Technology ]{.toctext}](#Technology)
-- [[ 3 ]{.tocnumber} [ Diplomacy ]{.toctext}](#Diplomacy)
-  - [[ 3.1 ]{.tocnumber} [ Alliances ]{.toctext}](#Alliances)
-  - [[ 3.2 ]{.tocnumber} [ Sliders ]{.toctext}](#Sliders)
-  - [[ 3.3 ]{.tocnumber} [ Ministers ]{.toctext}](#Ministers)
-- [[ 4 ]{.tocnumber} [ Intelligence ]{.toctext}](#Intelligence)
-- [[ 5 ]{.tocnumber} [ Economy ]{.toctext}](#Economy)
-  - [[ 5.1 ]{.tocnumber} [ Trading ]{.toctext}](#Trading)
-  - [[ 5.2 ]{.tocnumber} [ Industrial Production
-    ]{.toctext}](#Industrial_Production)
-- [[ 6 ]{.tocnumber} [ Military ]{.toctext}](#Military)
-  - [[ 6.1 ]{.tocnumber} [ Army ]{.toctext}](#Army)
-  - [[ 6.2 ]{.tocnumber} [ Navy ]{.toctext}](#Navy)
-  - [[ 6.3 ]{.tocnumber} [ Air Force ]{.toctext}](#Air_Force)
-- [[ 7 ]{.tocnumber} [ War ]{.toctext}](#War)
-  - [[ 7.1 ]{.tocnumber} [ Spanish Civil War
-    ]{.toctext}](#Spanish_Civil_War)
-    - [[ 7.1.1 ]{.tocnumber} [ Avoiding the Spanish Civil War
-      ]{.toctext}](#Avoiding_the_Spanish_Civil_War)
-  - [[ 7.2 ]{.tocnumber} [ War with the Axis
-    ]{.toctext}](#War_with_the_Axis)
-- [[ 8 ]{.tocnumber} [ Events ]{.toctext}](#Events) - [[ 8.1 ]{.tocnumber} [ February 17, 1936: General Election
-  ]{.toctext}](#February_17.2C_1936:_General_Election) - [[ 8.2 ]{.tocnumber} [ June 26, 1936: Outlaw the Fascist Parties
-  ]{.toctext}](#June_26.2C_1936:_Outlaw_the_Fascist_Parties) - [[ 8.3 ]{.tocnumber} [ Spring, 1937: Communist Coup
-  ]{.toctext}](#Spring.2C_1937:_Communist_Coup)
-  :::
+-   [[ 1 ]{.tocnumber} [ Overview ]{.toctext}](#Overview)
+-   [[ 2 ]{.tocnumber} [ Technology ]{.toctext}](#Technology)
+-   [[ 3 ]{.tocnumber} [ Diplomacy ]{.toctext}](#Diplomacy)
+    -   [[ 3.1 ]{.tocnumber} [ Alliances ]{.toctext}](#Alliances)
+    -   [[ 3.2 ]{.tocnumber} [ Sliders ]{.toctext}](#Sliders)
+    -   [[ 3.3 ]{.tocnumber} [ Ministers ]{.toctext}](#Ministers)
+-   [[ 4 ]{.tocnumber} [ Intelligence ]{.toctext}](#Intelligence)
+-   [[ 5 ]{.tocnumber} [ Economy ]{.toctext}](#Economy)
+    -   [[ 5.1 ]{.tocnumber} [ Trading ]{.toctext}](#Trading)
+    -   [[ 5.2 ]{.tocnumber} [ Industrial Production
+        ]{.toctext}](#Industrial_Production)
+-   [[ 6 ]{.tocnumber} [ Military ]{.toctext}](#Military)
+    -   [[ 6.1 ]{.tocnumber} [ Army ]{.toctext}](#Army)
+    -   [[ 6.2 ]{.tocnumber} [ Navy ]{.toctext}](#Navy)
+    -   [[ 6.3 ]{.tocnumber} [ Air Force ]{.toctext}](#Air_Force)
+-   [[ 7 ]{.tocnumber} [ War ]{.toctext}](#War)
+    -   [[ 7.1 ]{.tocnumber} [ Spanish Civil War
+        ]{.toctext}](#Spanish_Civil_War)
+        -   [[ 7.1.1 ]{.tocnumber} [ Avoiding the Spanish Civil War
+            ]{.toctext}](#Avoiding_the_Spanish_Civil_War)
+    -   [[ 7.2 ]{.tocnumber} [ War with the Axis
+        ]{.toctext}](#War_with_the_Axis)
+-   [[ 8 ]{.tocnumber} [ Events ]{.toctext}](#Events)
+    -   [[ 8.1 ]{.tocnumber} [ February 17, 1936: General Election
+        ]{.toctext}](#February_17.2C_1936:_General_Election)
+    -   [[ 8.2 ]{.tocnumber} [ June 26, 1936: Outlaw the Fascist Parties
+        ]{.toctext}](#June_26.2C_1936:_Outlaw_the_Fascist_Parties)
+    -   [[ 8.3 ]{.tocnumber} [ Spring, 1937: Communist Coup
+        ]{.toctext}](#Spring.2C_1937:_Communist_Coup)
+:::
 
 ## [ Overview ]{#Overview .mw-headline}
 
@@ -317,7 +318,7 @@ South.
 
 ## [ Events ]{#Events .mw-headline}
 
-### [ ]{#February_17,\_1936:\_General_Election} [ February 17, 1936: General Election ]{#February_17.2C_1936:\_General_Election .mw-headline}
+### [ ]{#February_17,_1936:_General_Election} [ February 17, 1936: General Election ]{#February_17.2C_1936:_General_Election .mw-headline}
 
 This is an important game event for Spain. The player has the option of
 the Popular front (a left wing move: allowing the player to align with
@@ -328,12 +329,12 @@ strategy](/wiki/Nationalist_Spain_strategy "Nationalist Spain strategy"){.mw-red
 guide for details on the other path. An extra 4 dissent is gained,
 regardless of the choice made.
 
-### [ ]{#June_26,\_1936:\_Outlaw_the_Fascist_Parties} [ June 26, 1936: Outlaw the Fascist Parties ]{#June_26.2C_1936:\_Outlaw_the_Fascist_Parties .mw-headline}
+### [ ]{#June_26,_1936:_Outlaw_the_Fascist_Parties} [ June 26, 1936: Outlaw the Fascist Parties ]{#June_26.2C_1936:_Outlaw_the_Fascist_Parties .mw-headline}
 
 Selecting yes will move the republicans further to the left, in
 preparation of a joining with the Comintern.
 
-### [ ]{#Spring,\_1937:\_Communist_Coup} [ Spring, 1937: Communist Coup ]{#Spring.2C_1937:\_Communist_Coup .mw-headline}
+### [ ]{#Spring,_1937:_Communist_Coup} [ Spring, 1937: Communist Coup ]{#Spring.2C_1937:_Communist_Coup .mw-headline}
 
 From April 3rd, 1937 to June 3rd, 1937, if Republican Spain has won the
 war, this event may occur. This event is very important for helping

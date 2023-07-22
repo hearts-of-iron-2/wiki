@@ -1,7 +1,6 @@
 ---
 title: Modding_in-game_music
 ---
-
 ::: mw-parser-output
 **Like all modding, please backup all files before modifying anything**
 

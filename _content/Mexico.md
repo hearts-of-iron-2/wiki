@@ -1,7 +1,6 @@
 ---
 title: Mexico
 ---
-
 ::: mw-parser-output
 ::: {.eu4box style="width:330px; height:auto; float:right; clear:right"}
 ::: heading
@@ -14,7 +13,7 @@ title: Mexico
 [Major powers](/wiki/Major_power "Major power"){.mw-redirect}
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [France](/wiki/France "France")\
@@ -30,7 +29,7 @@ title: Mexico
 Regional powers
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [Argentina](/wiki/Argentina "Argentina")\
@@ -58,7 +57,7 @@ Regional powers
 [Minor powers](/wiki/Minor_power "Minor power"){.mw-redirect}
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [Austria](/wiki/Austria "Austria")\
@@ -81,7 +80,7 @@ Regional powers
 [Micro powers](/wiki/Micro_power "Micro power"){.mw-redirect}
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [Afghanistan](/wiki/Afghanistan "Afghanistan")\
@@ -146,7 +145,7 @@ wise choice, as you have the big blue blob to your north who is
 sympathetic to the Allies. You also have many allied powers with
 colonies knocking at your door in the Caribbean.
 
----
+------------------------------------------------------------------------
 
 **Allies -** Joining the allies isn\'t that hard. The United Kingdom is
 pretty friendly towards you anyway, and France doesn\'t like you or hate
@@ -155,29 +154,29 @@ France or what they think. They\'re going to get occupied in a few years
 anyway. If you want too, you can influence the UK, but it may be wiser
 to influence the USA, for reasons which will be explained later.
 
----
+------------------------------------------------------------------------
 
 **Comintern -** A Communist/Stalinist Mexico IS possible, but may take
 awhile. The Soviet Union already dislikes you, along with her puppets.
-The only way to be able to join the Comintern is to adjust to _their_
+The only way to be able to join the Comintern is to adjust to *their*
 ideals, not yours. It simply isn\'t possible to Facist and in the
 Comintern. This may not be a good idea, because it can easily anger the
-USA. And _nobody_ wants that.
+USA. And *nobody* wants that.
 
----
+------------------------------------------------------------------------
 
 **Japanese Alliance -** Joining Japan can be a very good move, and a
 very bad one. Japan isn\'t well liked throughout the world, and will
 continue to be less and less liked as the game progresses. The USA will
 be most likely be attacked by them in \'40 or \'41, and that will drag
-you into a war against the USA. One you simply cannot win. I do _not_
+you into a war against the USA. One you simply cannot win. I do *not*
 recommend joining Japan. They are too far away and too selfish to help.
 
----
+------------------------------------------------------------------------
 
 **Argentinian Alliance -** Argentina may seem like a good ally, but they
 aren\'t. Influencing them and getting better relations with them are a
 horrible decision, because even when the odds of joining in an alliance
-with them are high, _they will not do it_ . I don\'t know why, they
+with them are high, *they will not do it* . I don\'t know why, they
 simply won\'t join.
 :::

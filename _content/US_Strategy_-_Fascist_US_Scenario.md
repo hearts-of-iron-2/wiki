@@ -1,7 +1,6 @@
 ---
 title: US_Strategy_-_Fascist_US_Scenario
 ---
-
 ::: mw-parser-output
 [Template:USAStrategyGuides](/wiki/index.php?title=Template:USAStrategyGuides&action=edit&redlink=1 "Template:USAStrategyGuides (page does not exist)"){.new}
 Paradox Interactive has included an entire alternate history fascist USA
@@ -16,45 +15,50 @@ you will ultimately come into contact with both.
 
 ::: {#toc .toc aria-labelledby="mw-toc-heading" role="navigation"}
 ::: {.toctitle dir="ltr" lang="en"}
-
 ## Contents {#mw-toc-heading}
 
 [ ]{.toctogglespan}
 :::
 
-- [[ 1 ]{.tocnumber} [ Going Fascist (or Communist, for that matter)
-  ]{.toctext}](#Going_Fascist_.28or_Communist.2C_for_that_matter.29)
-- [[ 2 ]{.tocnumber} [ Starting a Phony War
-  ]{.toctext}](#Starting_a_Phony_War)
-- [[ 3 ]{.tocnumber} [ The Fascist Cabinet
-  ]{.toctext}](#The_Fascist_Cabinet)
-- [[ 4 ]{.tocnumber} [ Preparing For War With The Allies
-  ]{.toctext}](#Preparing_For_War_With_The_Allies)
-- [[ 5 ]{.tocnumber} [ War With Britain, Canada and the Commonwealth
-  ]{.toctext}](#War_With_Britain.2C_Canada_and_the_Commonwealth)
-  - [[ 5.1 ]{.tocnumber} [ Canada ]{.toctext}](#Canada)
-  - [[ 5.2 ]{.tocnumber} [ New Zealand / Australia
-    ]{.toctext}](#New_Zealand_.2F_Australia)
-  - [[ 5.3 ]{.tocnumber} [ United Kingdom \-- North American Defense
-    ]{.toctext}](#United_Kingdom_--_North_American_Defense)
-  - [[ 5.4 ]{.tocnumber} [ United Kingdom \-- North American Counter
-    Offensive
-    ]{.toctext}](#United_Kingdom_--_North_American_Counter_Offensive)
-- [[ 6 ]{.tocnumber} [ Defending Germany From Bolshevism
-  ]{.toctext}](#Defending_Germany_From_Bolshevism)
-  - [[ 6.1 ]{.tocnumber} [ Baltic Landing
-    ]{.toctext}](#Baltic_Landing)
-- [[ 7 ]{.tocnumber} [ Invade Britain ]{.toctext}](#Invade_Britain)
-- [[ 8 ]{.tocnumber} [ War With Japan ]{.toctext}](#War_With_Japan) - [[ 8.1 ]{.tocnumber} [ Variant for Communist US Scenario
-  ]{.toctext}](#Variant_for_Communist_US_Scenario) - [[ 8.1.1 ]{.tocnumber} [ Introduction
-  ]{.toctext}](#Introduction) - [[ 8.1.2 ]{.tocnumber} [ Primary Changes
-  ]{.toctext}](#Primary_Changes) - [[ 8.1.3 ]{.tocnumber} [ Starting a Phony War
-  ]{.toctext}](#Starting_a_Phony_War_2) - [[ 8.1.4 ]{.tocnumber} [ Joining the Axis
-  ]{.toctext}](#Joining_the_Axis) - [[ 8.2 ]{.tocnumber} [ US splinter nations
-  ]{.toctext}](#US_splinter_nations)
-  :::
+-   [[ 1 ]{.tocnumber} [ Going Fascist (or Communist, for that matter)
+    ]{.toctext}](#Going_Fascist_.28or_Communist.2C_for_that_matter.29)
+-   [[ 2 ]{.tocnumber} [ Starting a Phony War
+    ]{.toctext}](#Starting_a_Phony_War)
+-   [[ 3 ]{.tocnumber} [ The Fascist Cabinet
+    ]{.toctext}](#The_Fascist_Cabinet)
+-   [[ 4 ]{.tocnumber} [ Preparing For War With The Allies
+    ]{.toctext}](#Preparing_For_War_With_The_Allies)
+-   [[ 5 ]{.tocnumber} [ War With Britain, Canada and the Commonwealth
+    ]{.toctext}](#War_With_Britain.2C_Canada_and_the_Commonwealth)
+    -   [[ 5.1 ]{.tocnumber} [ Canada ]{.toctext}](#Canada)
+    -   [[ 5.2 ]{.tocnumber} [ New Zealand / Australia
+        ]{.toctext}](#New_Zealand_.2F_Australia)
+    -   [[ 5.3 ]{.tocnumber} [ United Kingdom \-- North American Defense
+        ]{.toctext}](#United_Kingdom_--_North_American_Defense)
+    -   [[ 5.4 ]{.tocnumber} [ United Kingdom \-- North American Counter
+        Offensive
+        ]{.toctext}](#United_Kingdom_--_North_American_Counter_Offensive)
+-   [[ 6 ]{.tocnumber} [ Defending Germany From Bolshevism
+    ]{.toctext}](#Defending_Germany_From_Bolshevism)
+    -   [[ 6.1 ]{.tocnumber} [ Baltic Landing
+        ]{.toctext}](#Baltic_Landing)
+-   [[ 7 ]{.tocnumber} [ Invade Britain ]{.toctext}](#Invade_Britain)
+-   [[ 8 ]{.tocnumber} [ War With Japan ]{.toctext}](#War_With_Japan)
+    -   [[ 8.1 ]{.tocnumber} [ Variant for Communist US Scenario
+        ]{.toctext}](#Variant_for_Communist_US_Scenario)
+        -   [[ 8.1.1 ]{.tocnumber} [ Introduction
+            ]{.toctext}](#Introduction)
+        -   [[ 8.1.2 ]{.tocnumber} [ Primary Changes
+            ]{.toctext}](#Primary_Changes)
+        -   [[ 8.1.3 ]{.tocnumber} [ Starting a Phony War
+            ]{.toctext}](#Starting_a_Phony_War_2)
+        -   [[ 8.1.4 ]{.tocnumber} [ Joining the Axis
+            ]{.toctext}](#Joining_the_Axis)
+    -   [[ 8.2 ]{.tocnumber} [ US splinter nations
+        ]{.toctext}](#US_splinter_nations)
+:::
 
-# [ ]{#Going*Fascist*(or*Communist,\_for_that_matter)} [ Going Fascist (or Communist, for that matter) ]{#Going_Fascist*.28or_Communist.2C_for_that_matter.29 .mw-headline}
+# [ ]{#Going_Fascist_(or_Communist,_for_that_matter)} [ Going Fascist (or Communist, for that matter) ]{#Going_Fascist_.28or_Communist.2C_for_that_matter.29 .mw-headline}
 
 The US starts as a left-leaning democracy under Roosevelt. You\'re goal
 is to push the authoritarian and the right wing sliders as far over as
@@ -174,69 +178,61 @@ MacArthur being my choice.
 In exchange though, you get the following setup (1941, government type =
 fascist, I\'m only mentioning the notable ones):
 
-- Head of Government :
+-   Head of Government :
 
 ```{=html}
 <!-- -->
 ```
+     Robert Wood -- Chairman of Sears, Roebuck and Company and member of the America First committee (Silent Workhorse -- +5% IC) 
 
-     Robert Wood -- Chairman of Sears, Roebuck and Company and member of the America First committee (Silent Workhorse -- +5% IC)
-
-- Minister of State:
-
-```{=html}
-<!-- -->
-```
-
-     Charles Coughlin -- the radio priest, founder of the National League for Social Justice, etc (Ideological Crusader), or; Ezra Pound -- the poet (Biased Intellectual)
-
-- Minister of Armaments:
+-   Minister of State:
 
 ```{=html}
 <!-- -->
 ```
+     Charles Coughlin -- the radio priest, founder of the National League for Social Justice, etc (Ideological Crusader), or; Ezra Pound -- the poet (Biased Intellectual) 
 
-     Henry Ford -- President of Ford Motor Company (Administrative Genius -- +10% IC!); or, Francis Townsend -- aide to Charles Coughlin and co-founder of the National League for Social Justice(Resource Industrialist -- +5% IC / +10% Industrial Resource)
-
-- Minister of Security:
-
-```{=html}
-<!-- -->
-```
-
-     Fritz Kuhn -- head of the German-American Bund(Prince of Terror); or, Samuel Green -- Imperial Wizard of the Ku Klux Klan through 1949 (Man of the People); or, Gerald Winrod -- head of the Defenders of the Christian Faith (Efficient Sociopath)
-
-- Head of Intelligence:
+-   Minister of Armaments:
 
 ```{=html}
 <!-- -->
 ```
+     Henry Ford -- President of Ford Motor Company (Administrative Genius -- +10% IC!); or, Francis Townsend -- aide to Charles Coughlin and co-founder of the National League for Social Justice(Resource Industrialist -- +5% IC / +10% Industrial Resource) 
 
-     Hiram Evans -- Imperial Wizard of the Ku Klux Klan through 1939 (Naval Intelligence); or, William Donovan -- founder of the US CIA (Political Specialist); or, Hoyt Vandenburg -- the actual Deputy Air Commander In Chief durign WW II (Technical Specialist); or, James Colescott -- Imperial Wizard of the Ku Klux Klan through 1944 (Political Specialist)
-
-- Chief of the Army:
-
-```{=html}
-<!-- -->
-```
-
-     Kenneth Althaus -- a brigadier general who served in Italy (Armored Operations)
-
-- Chief of the Navy:
+-   Minister of Security:
 
 ```{=html}
 <!-- -->
 ```
+     Fritz Kuhn -- head of the German-American Bund(Prince of Terror); or, Samuel Green -- Imperial Wizard of the Ku Klux Klan through 1949 (Man of the People); or, Gerald Winrod -- head of the Defenders of the Christian Faith (Efficient Sociopath) 
 
-     James Colescott -- Imperial Wizard of the Ku Klux Klan through 1944 (Open Seas)
-
-- Chief of the Air Force:
+-   Head of Intelligence:
 
 ```{=html}
 <!-- -->
 ```
+     Hiram Evans -- Imperial Wizard of the Ku Klux Klan through 1939 (Naval Intelligence); or, William Donovan -- founder of the US CIA (Political Specialist); or, Hoyt Vandenburg -- the actual Deputy Air Commander In Chief durign WW II (Technical Specialist); or, James Colescott -- Imperial Wizard of the Ku Klux Klan through 1944 (Political Specialist) 
 
-     Nathan B Forrest III -- grandson of the founder of the Ku Klux Klan and US pilot who died in a bombing run over Kiel in 1943 (Army Aviation); or, Charles Lindbergh (Air Superiority)
+-   Chief of the Army:
+
+```{=html}
+<!-- -->
+```
+     Kenneth Althaus -- a brigadier general who served in Italy (Armored Operations) 
+
+-   Chief of the Navy:
+
+```{=html}
+<!-- -->
+```
+     James Colescott -- Imperial Wizard of the Ku Klux Klan through 1944 (Open Seas) 
+
+-   Chief of the Air Force:
+
+```{=html}
+<!-- -->
+```
+     Nathan B Forrest III -- grandson of the founder of the Ku Klux Klan and US pilot who died in a bombing run over Kiel in 1943 (Army Aviation); or, Charles Lindbergh (Air Superiority) 
 
 And note there are a lot of minor ministers whose names are not
 recognizable to me and whose powers aren\'t that great.
@@ -297,7 +293,7 @@ I try to reinforce most of my divisions with either Engineers or
 Self-Propelled Artilley brigades, and these brigades do make the
 difference in one on one infantry combat, like you will have out West.
 
-# [ ]{#War_With_Britain,\_Canada_and_the_Commonwealth} [ War With Britain, Canada and the Commonwealth ]{#War_With_Britain.2C_Canada_and_the_Commonwealth .mw-headline}
+# [ ]{#War_With_Britain,_Canada_and_the_Commonwealth} [ War With Britain, Canada and the Commonwealth ]{#War_With_Britain.2C_Canada_and_the_Commonwealth .mw-headline}
 
 Your goal is to annex Canada, secure its coasts, and then build a Marine
 invasion force to eliminate Britain.
@@ -330,14 +326,14 @@ their own military for their defense \-- relieving you of the
 responsibility. You will have the option of liberating either Canada or
 Quebec, and I would choose liberating the whole thing.
 
-## [ ]{#New*Zealand*/_Australia} [ New Zealand / Australia ]{#New_Zealand_.2F_Australia .mw-headline}
+## [ ]{#New_Zealand_/_Australia} [ New Zealand / Australia ]{#New_Zealand_.2F_Australia .mw-headline}
 
 New Zealand and / or Australia will attempt naval landings in and around
 Vancouver to try to retake Canada. Keep an appropriate garrison and they
 will fail. Also, garrison Anchorage, Alaska, because there is a victory
 point there.
 
-## [ United Kingdom \-- North American Defense ]{#United*Kingdom*--\_North_American_Defense .mw-headline}
+## [ United Kingdom \-- North American Defense ]{#United_Kingdom_--_North_American_Defense .mw-headline}
 
 Britain will attempt to retake Canada by landings in Newfoundland, in
 Labrador and across that coastline. They will also attempt landings on
@@ -366,7 +362,7 @@ What Britain offers, through its tactics, is an excellent opportunity to
 encircle and destroy as much as half of their army before you have to go
 overseas to get them. Take this opportunity, and wipe them out.
 
-## [ United Kingdom \-- North American Counter Offensive ]{#United*Kingdom*--\_North_American_Counter_Offensive .mw-headline}
+## [ United Kingdom \-- North American Counter Offensive ]{#United_Kingdom_--_North_American_Counter_Offensive .mw-headline}
 
 After the Canada campaign, while on the defensive, improve your naval
 forces and build Marines. Try to build generation IV ships, with

@@ -1,26 +1,24 @@
 ---
 title: Modding_colorscales.csv
 ---
-
 ::: mw-parser-output
 ::: {#toc .toc aria-labelledby="mw-toc-heading" role="navigation"}
 ::: {.toctitle dir="ltr" lang="en"}
-
 ## Contents {#mw-toc-heading}
 
 [ ]{.toctogglespan}
 :::
 
-- [[ 1 ]{.tocnumber} [ Introduction ]{.toctext}](#Introduction)
-- [[ 2 ]{.tocnumber} [ Basic Structure ]{.toctext}](#Basic_Structure)
-- [[ 3 ]{.tocnumber} [ Meaning of the lines
-  ]{.toctext}](#Meaning_of_the_lines)
-- [[ 4 ]{.tocnumber} [ Examples of R,G,B Values
-  ]{.toctext}](#Examples_of_R.2CG.2CB_Values)
-- [[ 5 ]{.tocnumber} [ Colour Palette ]{.toctext}](#Colour_Palette)
-- [[ 6 ]{.tocnumber} [ Colour Assignments
-  ]{.toctext}](#Colour_Assignments)
-  :::
+-   [[ 1 ]{.tocnumber} [ Introduction ]{.toctext}](#Introduction)
+-   [[ 2 ]{.tocnumber} [ Basic Structure ]{.toctext}](#Basic_Structure)
+-   [[ 3 ]{.tocnumber} [ Meaning of the lines
+    ]{.toctext}](#Meaning_of_the_lines)
+-   [[ 4 ]{.tocnumber} [ Examples of R,G,B Values
+    ]{.toctext}](#Examples_of_R.2CG.2CB_Values)
+-   [[ 5 ]{.tocnumber} [ Colour Palette ]{.toctext}](#Colour_Palette)
+-   [[ 6 ]{.tocnumber} [ Colour Assignments
+    ]{.toctext}](#Colour_Assignments)
+:::
 
 ## [ Introduction ]{#Introduction .mw-headline}
 
@@ -34,9 +32,9 @@ explain more on this later.
 Here is the typical structure of one of the entries in a colorscales.csv
 file.
 
-    Black;;; red;green;blue;index 120;120;120;0 60;60;60;29 40;40;40;50 10;10;10;64
+    Black;;; red;green;blue;index 120;120;120;0 60;60;60;29 40;40;40;50 10;10;10;64 
 
-Two things to note about this \-- _do not_ play with the first two
+Two things to note about this \-- *do not* play with the first two
 lines, the hard returns or the semi-colons. These elements are vital to
 the structure of the file.
 
@@ -54,7 +52,8 @@ The first three numbers in each line represent an R,G,B (red, green,
 blue) value from \'1 to 255\'. This represents how much of each of the
 three primary colours to add to that specific shade.
 
-The last number in the line represents the index, which ranges from 0 to 64. 0 represents the middle of the province, usually the brightest
+The last number in the line represents the index, which ranges from 0 to
+64. 0 represents the middle of the province, usually the brightest
 colour on the map. 64 represents the edge of the province, or the darker
 colour. The first line \'must\' have an index of 0 and the last line
 \'must\' have an index of 64. The two lines in between must be in
@@ -71,7 +70,7 @@ forward.
 
 Let\'s see what the Red used for the Soviet Union\'s values are:
 
-    dark red;;; red;green;blue;index 255;0;64;0 220;0;64;13 180;0;64;24 76;0;64;64
+    dark red;;; red;green;blue;index 255;0;64;0 220;0;64;13 180;0;64;24 76;0;64;64 
 
 Which will produce this red:
 
@@ -83,7 +82,7 @@ column are 64. This combination will produce a red that predominates.
 
 To produce a French blue, we can use these values:
 
-    blue;;; red;green;blue;index 255;255;255;0 255;255;255;0 170;180;195;0 90;90;130;64
+    blue;;; red;green;blue;index 255;255;255;0 255;255;255;0 170;180;195;0 90;90;130;64 
 
 Note here that the first two values are listed as \'255;255;255;0\'.
 This means that they are thrown away and not used. The bottom two
@@ -96,7 +95,7 @@ is the highest, however, it will predominate:
 
 Another example will be brown, as found in Austria and Sinkiang:
 
-    brown;;; red;green;blue;index 179;182;130;0 180;132;80;20 155;111;66;50 150;105;64;64
+    brown;;; red;green;blue;index 179;182;130;0 180;132;80;20 155;111;66;50 150;105;64;64 
 
 These values are harder to interpret, since brown is not red, green or
 blue. Brown is actually a dark orange, which would put it in between red
@@ -114,19 +113,17 @@ There are 26 colours defined in colorscales.csv, but only about 23 are
 actually usable. Here is a list of them (Bold means that it holds a
 special purpose):
 
----
-
-Black **Green** **Orange**
-light blue light grey **light brown**
-**dark yellow** **yellow** **dark grey**
-light yellow **grey** **dark green**
-blue **light red** **white**
-dark brown **red** **light green**
-light orange brown dark blue
-dark red **dark orange** **water**
-**border** **border outline**
-
----
+  ----------------- -------------------- -----------------
+  Black             **Green**            **Orange**
+  light blue        light grey           **light brown**
+  **dark yellow**   **yellow**           **dark grey**
+  light yellow      **grey**             **dark green**
+  blue              **light red**        **white**
+  dark brown        **red**              **light green**
+  light orange      brown                dark blue
+  dark red          **dark orange**      **water**
+  **border**        **border outline**   
+  ----------------- -------------------- -----------------
 
 ## [ Colour Assignments ]{#Colour_Assignments .mw-headline}
 
@@ -137,45 +134,43 @@ for a nice shade of Russian red would make snow red on the weather map).
 
 Here is a list of all the different colour Assignments:
 
----
-
-Terrain Mapmode  
- Colour Used For
-Orange Clear
-DarkGray Urban
-Green Forest
-DarkGreen Jungle
-Yellow Desert
-LightGreen Marsh
-DarkOrange Hills
-Gray Mountains
-Weather Mapmode  
- Colour Used For
-White Snow
-Brown Mud
-Economic Mapmode  
- Colour Used For
-Green Has at least one industry
-DarkGreen Has no industry
-Supply Mapmode  
- Colour Used For
-Green In Supply
-Red Out of Supply
-??? Seazone with a Convoy
-Partisan Mapmode  
- Colour Used For
-Green Negligible or no partisan activity
-??? Moderate or severe partisan activity is marked as shades of red
-VP Mapmode  
- Colour Used For
-Green Friendly province with a few Victory Pionts
-Dark Green Friendly province with many Victory Points
-Yellow Neutral province with a few Victory Points
-DarkYellow Neutral province with many Victory Points
-Red Enemy province with a few Victory Points
-LightRed Enemy province with many Victory Points
-
----
+  ------------------ -----------------------------------------------------------------
+  Terrain Mapmode    
+  Colour             Used For
+  Orange             Clear
+  DarkGray           Urban
+  Green              Forest
+  DarkGreen          Jungle
+  Yellow             Desert
+  LightGreen         Marsh
+  DarkOrange         Hills
+  Gray               Mountains
+  Weather Mapmode    
+  Colour             Used For
+  White              Snow
+  Brown              Mud
+  Economic Mapmode   
+  Colour             Used For
+  Green              Has at least one industry
+  DarkGreen          Has no industry
+  Supply Mapmode     
+  Colour             Used For
+  Green              In Supply
+  Red                Out of Supply
+  ???                Seazone with a Convoy
+  Partisan Mapmode   
+  Colour             Used For
+  Green              Negligible or no partisan activity
+  ???                Moderate or severe partisan activity is marked as shades of red
+  VP Mapmode         
+  Colour             Used For
+  Green              Friendly province with a few Victory Pionts
+  Dark Green         Friendly province with many Victory Points
+  Yellow             Neutral province with a few Victory Points
+  DarkYellow         Neutral province with many Victory Points
+  Red                Enemy province with a few Victory Points
+  LightRed           Enemy province with many Victory Points
+  ------------------ -----------------------------------------------------------------
 
 NOTE: Attempting to apply the color \"Water\" to a nation can sometimes
 produce odd results. I attempted to make Canada \"Water\" but instead

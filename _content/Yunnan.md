@@ -1,9 +1,7 @@
 ---
 title: Yunnan
 ---
-
 ::: mw-parser-output
-
 ## [ Yunnan Clique ]{#Yunnan_Clique .mw-headline}
 
 **Advantages:**

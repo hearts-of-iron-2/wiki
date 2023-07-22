@@ -1,7 +1,6 @@
 ---
 title: Guatemala
 ---
-
 ::: mw-parser-output
 ::: {.eu4box style="width:330px; height:auto; float:right; clear:right"}
 ::: heading
@@ -14,7 +13,7 @@ title: Guatemala
 [Major powers](/wiki/Major_power "Major power"){.mw-redirect}
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [France](/wiki/France "France")\
@@ -30,7 +29,7 @@ title: Guatemala
 Regional powers
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [Argentina](/wiki/Argentina "Argentina")\
@@ -58,7 +57,7 @@ Regional powers
 [Minor powers](/wiki/Minor_power "Minor power"){.mw-redirect}
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [Austria](/wiki/Austria "Austria")\
@@ -81,7 +80,7 @@ Regional powers
 [Micro powers](/wiki/Micro_power "Micro power"){.mw-redirect}
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [Afghanistan](/wiki/Afghanistan "Afghanistan")\
@@ -146,47 +145,46 @@ bad leaders. Good ministers come at the beginning of WW2.
 
 ::: {#toc .toc aria-labelledby="mw-toc-heading" role="navigation"}
 ::: {.toctitle dir="ltr" lang="en"}
-
 ## Contents {#mw-toc-heading}
 
 [ ]{.toctogglespan}
 :::
 
-- [[ 1 ]{.tocnumber} [ Tips ]{.toctext}](#Tips)
-- [[ 2 ]{.tocnumber} [ You always remember your first (And second, and
-  third, and fourth)
-  ]{.toctext}](#You_always_remember_your_first_.28And_second.2C_and_third.2C_and_fourth.29)
-  - [[ 2.1 ]{.tocnumber} [ El Salvador ]{.toctext}](#El_Salvador)
-  - [[ 2.2 ]{.tocnumber} [ Honduras ]{.toctext}](#Honduras)
-  - [[ 2.3 ]{.tocnumber} [ Nicaragua and possible U.S. Intervention
-    ]{.toctext}](#Nicaragua_and_possible_U.S._Intervention)
-  - [[ 2.4 ]{.tocnumber} [ Costa Rica ]{.toctext}](#Costa_Rica)
-  - [[ 2.5 ]{.tocnumber} [ Panama, more U.S. Intervention, and Canal
-    Trudging
-    ]{.toctext}](#Panama.2C_more_U.S._Intervention.2C_and_Canal_Trudging)
-- [[ 3 ]{.tocnumber} [ South America, onward!
-  ]{.toctext}](#South_America.2C_onward.21)
-- [[ 4 ]{.tocnumber} [ The landings at Cuba and Hispaniola
-  ]{.toctext}](#The_landings_at_Cuba_and_Hispaniola)
-  - [[ 4.1 ]{.tocnumber} [ Hint about Hispaniola
-    ]{.toctext}](#Hint_about_Hispaniola)
-  - [[ 4.2 ]{.tocnumber} [ Now we\'re at Haiti
-    ]{.toctext}](#Now_we.27re_at_Haiti)
-- [[ 5 ]{.tocnumber} [ The New Guatemalan Empire
-  ]{.toctext}](#The_New_Guatemalan_Empire)
-  :::
+-   [[ 1 ]{.tocnumber} [ Tips ]{.toctext}](#Tips)
+-   [[ 2 ]{.tocnumber} [ You always remember your first (And second, and
+    third, and fourth)
+    ]{.toctext}](#You_always_remember_your_first_.28And_second.2C_and_third.2C_and_fourth.29)
+    -   [[ 2.1 ]{.tocnumber} [ El Salvador ]{.toctext}](#El_Salvador)
+    -   [[ 2.2 ]{.tocnumber} [ Honduras ]{.toctext}](#Honduras)
+    -   [[ 2.3 ]{.tocnumber} [ Nicaragua and possible U.S. Intervention
+        ]{.toctext}](#Nicaragua_and_possible_U.S._Intervention)
+    -   [[ 2.4 ]{.tocnumber} [ Costa Rica ]{.toctext}](#Costa_Rica)
+    -   [[ 2.5 ]{.tocnumber} [ Panama, more U.S. Intervention, and Canal
+        Trudging
+        ]{.toctext}](#Panama.2C_more_U.S._Intervention.2C_and_Canal_Trudging)
+-   [[ 3 ]{.tocnumber} [ South America, onward!
+    ]{.toctext}](#South_America.2C_onward.21)
+-   [[ 4 ]{.tocnumber} [ The landings at Cuba and Hispaniola
+    ]{.toctext}](#The_landings_at_Cuba_and_Hispaniola)
+    -   [[ 4.1 ]{.tocnumber} [ Hint about Hispaniola
+        ]{.toctext}](#Hint_about_Hispaniola)
+    -   [[ 4.2 ]{.tocnumber} [ Now we\'re at Haiti
+        ]{.toctext}](#Now_we.27re_at_Haiti)
+-   [[ 5 ]{.tocnumber} [ The New Guatemalan Empire
+    ]{.toctext}](#The_New_Guatemalan_Empire)
+:::
 
 ## [ Tips ]{#Tips .mw-headline}
 
-- Upgrade your IC. You _must_ have sufficient IC to wage war against
-  neighbors, and lower dissent.
-- Push Diplomacy bar to Interventionism. You need less dissent from
-  war.
-- No alliances! [Germany](/wiki/Germany "Germany") doesn\'t offer
-  help, and the South Americans are completely greedy and will take
-  your rightfully earned land.
+-   Upgrade your IC. You *must* have sufficient IC to wage war against
+    neighbors, and lower dissent.
+-   Push Diplomacy bar to Interventionism. You need less dissent from
+    war.
+-   No alliances! [Germany](/wiki/Germany "Germany") doesn\'t offer
+    help, and the South Americans are completely greedy and will take
+    your rightfully earned land.
 
-## [ ]{#You*always_remember_your_first*(And*second,\_and_third,\_and_fourth)} [ You always remember your first (And second, and third, and fourth) ]{#You_always_remember_your_first*.28And_second.2C_and_third.2C_and_fourth.29 .mw-headline}
+## [ ]{#You_always_remember_your_first_(And_second,_and_third,_and_fourth)} [ You always remember your first (And second, and third, and fourth) ]{#You_always_remember_your_first_.28And_second.2C_and_third.2C_and_fourth.29 .mw-headline}
 
 ### [ [El Salvador](/wiki/index.php?title=El_Salvador&action=edit&redlink=1 "El Salvador (page does not exist)"){.new} ]{#El_Salvador .mw-headline}
 
@@ -208,13 +206,13 @@ Salvador](/wiki/index.php?title=El_Salvador&action=edit&redlink=1 "El Salvador (
 . This continues the addition of Rare Materials and energy (which are
 pretty sorely needed).
 
-### [ Nicaragua and possible U.S. Intervention ]{#Nicaragua_and_possible_U.S.\_Intervention .mw-headline}
+### [ Nicaragua and possible U.S. Intervention ]{#Nicaragua_and_possible_U.S._Intervention .mw-headline}
 
 As you may have noticed, The U.S. canceled their Non-Aggression pact
 with you. Invest your money in them! Influence, influence and more
 frikkin\' influence. The U.S. keeps all trade agreements, and even
 influences you back if their relation is over +80. This may solve our
-problem of U.S. intervention. If the U.S. _does_ declare war on us,
+problem of U.S. intervention. If the U.S. *does* declare war on us,
 there is one thing to do. Fortify by increasing troop presence. Up until
 the mid 40\'s, the bulk of the United States army is Infantry, and
 infantry make fairly poor landings, especially on mountain terrains like
@@ -239,30 +237,30 @@ Force (depending what part of \'37-\'38 you invade) are no match and
 they are overrun immediately. Now you should be increasing your monetary
 situations. Influence The U.K. and U.S. Next target: Panama.
 
-### [ [Panama](/wiki/index.php?title=Panama&action=edit&redlink=1 "Panama (page does not exist)"){.new} , more U.S. Intervention, and Canal Trudging ]{#Panama.2C_more_U.S.\_Intervention.2C_and_Canal_Trudging .mw-headline}
+### [ ]{#Panama,_more_U.S._Intervention,_and_Canal_Trudging} [ [Panama](/wiki/index.php?title=Panama&action=edit&redlink=1 "Panama (page does not exist)"){.new} , more U.S. Intervention, and Canal Trudging ]{#Panama.2C_more_U.S._Intervention.2C_and_Canal_Trudging .mw-headline}
 
 Panama has a fairly decent navy for a Central American country. But we
 aren\'t attacking with a navy\... Here are some things to remember:
 
-- Panama is\... well it\'s close to the Panama Canal (duh?). The U.S.
-  takes great interest in this war, and without a doubt this is the
-  war that will push you and your empire closer to annihilation by the
-  U.S. then any previous war.
-- There is also the chance that the U.S. wusses out. The Canal can
-  cause war or create peace.
-- South America begins land-based military buildup. This does not
-  directly affect you but it may later.
-- The U.S. _never_ offers the Canal in a peace agreement. If you take
-  the Canal, it creates a good to bad scenario. It\'s like sticking a
-  hand in a bees\' nest. You get the honey out and it tastes sweet.
-  Then the bees attack. This is what the U.S. does. After replaying
-  the scenario several times over, I came to the conclusion that
-  capturing the Canal is bad, but is completely worth it to achieve an
-  independent empire and a strong base of operation. It is your choice
-  whether or not you end up taking the Canal or if you choose to avoid
-  it altogether.
+-   Panama is\... well it\'s close to the Panama Canal (duh?). The U.S.
+    takes great interest in this war, and without a doubt this is the
+    war that will push you and your empire closer to annihilation by the
+    U.S. then any previous war.
+-   There is also the chance that the U.S. wusses out. The Canal can
+    cause war or create peace.
+-   South America begins land-based military buildup. This does not
+    directly affect you but it may later.
+-   The U.S. *never* offers the Canal in a peace agreement. If you take
+    the Canal, it creates a good to bad scenario. It\'s like sticking a
+    hand in a bees\' nest. You get the honey out and it tastes sweet.
+    Then the bees attack. This is what the U.S. does. After replaying
+    the scenario several times over, I came to the conclusion that
+    capturing the Canal is bad, but is completely worth it to achieve an
+    independent empire and a strong base of operation. It is your choice
+    whether or not you end up taking the Canal or if you choose to avoid
+    it altogether.
 
-## [ ]{#South_America,\_onward!} [ South America, onward! ]{#South_America.2C_onward.21 .mw-headline}
+## [ ]{#South_America,_onward!} [ South America, onward! ]{#South_America.2C_onward.21 .mw-headline}
 
 [Columbia](/wiki/index.php?title=Columbia&action=edit&redlink=1 "Columbia (page does not exist)"){.new}
 is a nice target. A small army, and small air force won\'t be a huge

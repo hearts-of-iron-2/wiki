@@ -1,7 +1,6 @@
 ---
 title: European_Soviets_Strategy
 ---
-
 ::: mw-parser-output
 gerneral strategy(abyss)
 

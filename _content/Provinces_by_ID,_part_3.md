@@ -1,7 +1,6 @@
 ---
 title: Provinces_by_ID,_part_3
 ---
-
 ::: mw-parser-output
 This overview shows provinces with IDs ranging from **1700** to **2700**
 sorted numerically. Lower ID in [Part 1 ( **1** to **849**
@@ -11,32 +10,31 @@ sorted numerically. Lower ID in [Part 1 ( **1** to **849**
 
 ::: {#toc .toc aria-labelledby="mw-toc-heading" role="navigation"}
 ::: {.toctitle dir="ltr" lang="en"}
-
 ## Contents {#mw-toc-heading}
 
 [ ]{.toctogglespan}
 :::
 
-- [[ 1 ]{.tocnumber} [ 1700 ]{.toctext}](#1700)
-- [[ 2 ]{.tocnumber} [ 1750 ]{.toctext}](#1750)
-- [[ 3 ]{.tocnumber} [ 1800 ]{.toctext}](#1800)
-- [[ 4 ]{.tocnumber} [ 1850 ]{.toctext}](#1850)
-- [[ 5 ]{.tocnumber} [ 1900 ]{.toctext}](#1900)
-- [[ 6 ]{.tocnumber} [ 1950 ]{.toctext}](#1950)
-- [[ 7 ]{.tocnumber} [ 2000 ]{.toctext}](#2000)
-- [[ 8 ]{.tocnumber} [ 2050 ]{.toctext}](#2050)
-- [[ 9 ]{.tocnumber} [ 2100 ]{.toctext}](#2100)
-- [[ 10 ]{.tocnumber} [ 2150 ]{.toctext}](#2150)
-- [[ 11 ]{.tocnumber} [ 2200 ]{.toctext}](#2200)
-- [[ 12 ]{.tocnumber} [ 2250 ]{.toctext}](#2250)
-- [[ 13 ]{.tocnumber} [ 2300 ]{.toctext}](#2300)
-- [[ 14 ]{.tocnumber} [ 2350 ]{.toctext}](#2350)
-- [[ 15 ]{.tocnumber} [ 2400 ]{.toctext}](#2400)
-- [[ 16 ]{.tocnumber} [ 2450 ]{.toctext}](#2450)
-- [[ 17 ]{.tocnumber} [ 2500 ]{.toctext}](#2500)
-- [[ 18 ]{.tocnumber} [ 2550 ]{.toctext}](#2550)
-- [[ 19 ]{.tocnumber} [ 2600 ]{.toctext}](#2600)
-  :::
+-   [[ 1 ]{.tocnumber} [ 1700 ]{.toctext}](#1700)
+-   [[ 2 ]{.tocnumber} [ 1750 ]{.toctext}](#1750)
+-   [[ 3 ]{.tocnumber} [ 1800 ]{.toctext}](#1800)
+-   [[ 4 ]{.tocnumber} [ 1850 ]{.toctext}](#1850)
+-   [[ 5 ]{.tocnumber} [ 1900 ]{.toctext}](#1900)
+-   [[ 6 ]{.tocnumber} [ 1950 ]{.toctext}](#1950)
+-   [[ 7 ]{.tocnumber} [ 2000 ]{.toctext}](#2000)
+-   [[ 8 ]{.tocnumber} [ 2050 ]{.toctext}](#2050)
+-   [[ 9 ]{.tocnumber} [ 2100 ]{.toctext}](#2100)
+-   [[ 10 ]{.tocnumber} [ 2150 ]{.toctext}](#2150)
+-   [[ 11 ]{.tocnumber} [ 2200 ]{.toctext}](#2200)
+-   [[ 12 ]{.tocnumber} [ 2250 ]{.toctext}](#2250)
+-   [[ 13 ]{.tocnumber} [ 2300 ]{.toctext}](#2300)
+-   [[ 14 ]{.tocnumber} [ 2350 ]{.toctext}](#2350)
+-   [[ 15 ]{.tocnumber} [ 2400 ]{.toctext}](#2400)
+-   [[ 16 ]{.tocnumber} [ 2450 ]{.toctext}](#2450)
+-   [[ 17 ]{.tocnumber} [ 2500 ]{.toctext}](#2500)
+-   [[ 18 ]{.tocnumber} [ 2550 ]{.toctext}](#2550)
+-   [[ 19 ]{.tocnumber} [ 2600 ]{.toctext}](#2600)
+:::
 
 Data has been updated for version **1.1** .
 

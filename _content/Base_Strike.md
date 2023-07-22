@@ -1,9 +1,7 @@
 ---
 title: Base_Strike
 ---
-
 ::: mw-parser-output
-
 ### [ [Base Strike]{.mw-selflink .selflink} ]{#Base_Strike .mw-headline}
 
 Base Strike is the longest and most powerful of the three tech trees. It

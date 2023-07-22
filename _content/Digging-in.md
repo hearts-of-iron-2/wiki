@@ -1,7 +1,6 @@
 ---
 title: Digging-in
 ---
-
 ::: mw-parser-output
 **Digging-in** represents the establishment of defensive structures by a
 stationary land unit in preparation for an attack. These preparations

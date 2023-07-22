@@ -1,36 +1,35 @@
 ---
 title: User:Meneth
 ---
-
 ::: mw-parser-output
 +:---------------------------------:+:---------------------------------:+
-| _Meneth_ | |
+| *Meneth*                          |                                   |
 +-----------------------------------+-----------------------------------+
-| ::: center | |
-| ::: floatnone | |
+| ::: center                        |                                   |
+| ::: floatnone                     |                                   |
 | [![Paradox                        |                                   |
-| Wikis.png](https://central | |
-| .paradoxwikis.com/images/5/58/Par | |
-| adox_Wikis.png){file-height="236" | |
-| file-width="160" | |
-| ur | |
-| l="https://central.paradoxwikis.c | |
-| om/images/5/58/Paradox_Wikis.png" | |
-| decoding="async" height="236" | |
-| loading="lazy" | |
-| width="160"}](/wik | |
-| i/File:Paradox_Wikis.png){.image} | |
-| ::: | |
-| ::: | |
+| Wikis.png](https://central        |                                   |
+| .paradoxwikis.com/images/5/58/Par |                                   |
+| adox_Wikis.png){file-height="236" |                                   |
+| file-width="160"                  |                                   |
+| ur                                |                                   |
+| l="https://central.paradoxwikis.c |                                   |
+| om/images/5/58/Paradox_Wikis.png" |                                   |
+| decoding="async" height="236"     |                                   |
+| loading="lazy"                    |                                   |
+| width="160"}](/wik                |                                   |
+| i/File:Paradox_Wikis.png){.image} |                                   |
+| :::                               |                                   |
+| :::                               |                                   |
 +-----------------------------------+-----------------------------------+
-| ::: {style="text-align: center;"} | Paradox Development Studio |
-| Status | programmer |
-| ::: | |
+| ::: {style="text-align: center;"} | Paradox Development Studio        |
+| Status                            | programmer                        |
+| :::                               |                                   |
 +-----------------------------------+-----------------------------------+
-| ::: {style="text-align: center;"} | [Link](http://forum |
-| Forum account | .paradoxplaza.com/forum/index.php |
-| ::: | ?members/Meneth.265499){.external |
-| | .text rel="nofollow"} |
+| ::: {style="text-align: center;"} | [Link](http://forum               |
+| Forum account                     | .paradoxplaza.com/forum/index.php |
+| :::                               | ?members/Meneth.265499){.external |
+|                                   | .text rel="nofollow"}             |
 +-----------------------------------+-----------------------------------+
 
 **Magne \"Meneth\" Skjæran** is the creator of the [Paradox

@@ -1,7 +1,6 @@
 ---
 title: Italy_1941_Strategy_Guide
 ---
-
 ::: mw-parser-output
 One of my favorite scenarios as it starts you off as set piece almost.
 
@@ -82,5 +81,4 @@ the US or British can again field a strong force in the area,,so you can
 send air support to [Germany](/wiki/Germany "Germany") ,,etc.
 
 # [ [Taken from this thread](http://forum.paradoxplaza.com/forum/showthread.php?t=358160){.external .text rel="nofollow"} ]{#Taken_from_this_thread .mw-headline}
-
 :::

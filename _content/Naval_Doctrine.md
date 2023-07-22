@@ -1,7 +1,6 @@
 ---
 title: Naval_Doctrine
 ---
-
 ::: mw-parser-output
 **Naval Doctrine**
 
@@ -10,51 +9,53 @@ kind of fleet you\'ll want to build and how you\'ll want to use it.
 
 ::: {#toc .toc aria-labelledby="mw-toc-heading" role="navigation"}
 ::: {.toctitle dir="ltr" lang="en"}
-
 ## Contents {#mw-toc-heading}
 
 [ ]{.toctogglespan}
 :::
 
-- [[ 1 ]{.tocnumber} [ Doctrine Overview
-  ]{.toctext}](#Doctrine_Overview)
-- [[ 2 ]{.tocnumber} [ Doctrine Summaries
-  ]{.toctext}](#Doctrine_Summaries)
-  - [[ 2.1 ]{.tocnumber} [ Sealane Interdiction
-    ]{.toctext}](#Sealane_Interdiction)
-  - [[ 2.2 ]{.tocnumber} [ Fleet In Being
-    ]{.toctext}](#Fleet_In_Being)
-  - [[ 2.3 ]{.tocnumber} [ Base Strike ]{.toctext}](#Base_Strike)
-- [[ 3 ]{.tocnumber} [ Abandoning Your Doctrine
-  ]{.toctext}](#Abandoning_Your_Doctrine)
-  - [[ 3.1 ]{.tocnumber} [ Germany ]{.toctext}](#Germany)
-  - [[ 3.2 ]{.tocnumber} [ Italy ]{.toctext}](#Italy)
-  - [[ 3.3 ]{.tocnumber} [ UK ]{.toctext}](#UK)
-- [[ 4 ]{.tocnumber} [ Doctrine Trees in Depth
-  ]{.toctext}](#Doctrine_Trees_in_Depth) - [[ 4.1 ]{.tocnumber} [ Sealane Interdiction
-  ]{.toctext}](#Sealane_Interdiction_2) - [[ 4.2 ]{.tocnumber} [ Fleet In Being
-  ]{.toctext}](#Fleet_In_Being_2) - [[ 4.3 ]{.tocnumber} [ Base Strike ]{.toctext}](#Base_Strike_2)
-  :::
+-   [[ 1 ]{.tocnumber} [ Doctrine Overview
+    ]{.toctext}](#Doctrine_Overview)
+-   [[ 2 ]{.tocnumber} [ Doctrine Summaries
+    ]{.toctext}](#Doctrine_Summaries)
+    -   [[ 2.1 ]{.tocnumber} [ Sealane Interdiction
+        ]{.toctext}](#Sealane_Interdiction)
+    -   [[ 2.2 ]{.tocnumber} [ Fleet In Being
+        ]{.toctext}](#Fleet_In_Being)
+    -   [[ 2.3 ]{.tocnumber} [ Base Strike ]{.toctext}](#Base_Strike)
+-   [[ 3 ]{.tocnumber} [ Abandoning Your Doctrine
+    ]{.toctext}](#Abandoning_Your_Doctrine)
+    -   [[ 3.1 ]{.tocnumber} [ Germany ]{.toctext}](#Germany)
+    -   [[ 3.2 ]{.tocnumber} [ Italy ]{.toctext}](#Italy)
+    -   [[ 3.3 ]{.tocnumber} [ UK ]{.toctext}](#UK)
+-   [[ 4 ]{.tocnumber} [ Doctrine Trees in Depth
+    ]{.toctext}](#Doctrine_Trees_in_Depth)
+    -   [[ 4.1 ]{.tocnumber} [ Sealane Interdiction
+        ]{.toctext}](#Sealane_Interdiction_2)
+    -   [[ 4.2 ]{.tocnumber} [ Fleet In Being
+        ]{.toctext}](#Fleet_In_Being_2)
+    -   [[ 4.3 ]{.tocnumber} [ Base Strike ]{.toctext}](#Base_Strike_2)
+:::
 
 ## [ Doctrine Overview ]{#Doctrine_Overview .mw-headline}
 
 Naval Doctrine effects:
 
-- Organisation and Morale values.
-- Convoy Raiding and Convoy Escort efficiency.
-- ASW efficiency.
-- CV strike efficiency.
-- [Positioning](/wiki/Positioning "Positioning") . This value is
-  critically important, check out the Naval Primer for further
-  explanation.
+-   Organisation and Morale values.
+-   Convoy Raiding and Convoy Escort efficiency.
+-   ASW efficiency.
+-   CV strike efficiency.
+-   [Positioning](/wiki/Positioning "Positioning") . This value is
+    critically important, check out the Naval Primer for further
+    explanation.
 
 There are 3 Naval Doctrine trees available, and they are in no way
 equal.
 
-- Germany practices Sealane Interdiction (SLI).
-- Britain, France, Italy, Australia, Canada, Netherlands, South Africa
-  and the SU starts with Fleet In Being (FIB).
-- The US and Japan go for Base Strike (BS\...).
+-   Germany practices Sealane Interdiction (SLI).
+-   Britain, France, Italy, Australia, Canada, Netherlands, South Africa
+    and the SU starts with Fleet In Being (FIB).
+-   The US and Japan go for Base Strike (BS\...).
 
 While each tech tree excels in a certain area, it is quite clear that BS
 \> FIB \> SLI whatever you want to do. Gaining naval superiority is
@@ -147,38 +148,31 @@ fate.
 
 ### [ Sealane Interdiction ]{#Sealane_Interdiction_2 .mw-headline}
 
----
-
-Year Org Morale Raiding Escort CV Strike ASW SS CV BB BC CA CL DD
-1939 20 20 25 0 0 0 30(5) 0 10 10 20 20 15
-1940 50 70 50 0 10 0 40(10) 5 30(5) 30(5) 30 30 20
-1942 50 70 50 0 10 0 50(15) 5 30(5) 30(5) 30 30 20
-
----
+  ------ ----- -------- --------- -------- ----------- ----- -------- ---- ------- ------- ---- ---- ----
+  Year   Org   Morale   Raiding   Escort   CV Strike   ASW   SS       CV   BB      BC      CA   CL   DD
+  1939   20    20       25        0        0           0     30(5)    0    10      10      20   20   15
+  1940   50    70       50        0        10          0     40(10)   5    30(5)   30(5)   30   30   20
+  1942   50    70       50        0        10          0     50(15)   5    30(5)   30(5)   30   30   20
+  ------ ----- -------- --------- -------- ----------- ----- -------- ---- ------- ------- ---- ---- ----
 
 ### [ Fleet In Being ]{#Fleet_In_Being_2 .mw-headline}
 
----
-
-Year Org Morale Raiding Escort CV Strike ASW SS CV BB BC CA CL DD
-1939 20 10 0 10 10 10 0 5 30(10) 30(10) 20 20 15
-1940 35 20 10 10 20 10 10 15 40(10) 40(10) 35 35 25
-1943 50 30 10 50 20 50 10 15 40(10) 40(10) 35 35 45(5)
-1944 70 50 10 50 30 50 10 25(10) 50(10) 50(10) 50 50 50(5)
-
----
+  ------ ----- -------- --------- -------- ----------- ----- ---- -------- -------- -------- ---- ---- -------
+  Year   Org   Morale   Raiding   Escort   CV Strike   ASW   SS   CV       BB       BC       CA   CL   DD
+  1939   20    10       0         10       10          10    0    5        30(10)   30(10)   20   20   15
+  1940   35    20       10        10       20          10    10   15       40(10)   40(10)   35   35   25
+  1943   50    30       10        50       20          50    10   15       40(10)   40(10)   35   35   45(5)
+  1944   70    50       10        50       30          50    10   25(10)   50(10)   50(10)   50   50   50(5)
+  ------ ----- -------- --------- -------- ----------- ----- ---- -------- -------- -------- ---- ---- -------
 
 ### [ Base Strike ]{#Base_Strike_2 .mw-headline}
 
----
-
-Year Org Morale Raiding Escort CV Strike ASW SS CV BB BC CA CL DD
-1939 15 20 0 0 20 0 0 15 10 10 15 15 15
-1941 35 40 25 10 20 10 30(10) 30 20(5) 20(5) 25 25 30
-1943 50 60 25 40 35 40 30(10) 40(5) 30(10) 30(10) 40 40 60
-1944 50 60 25 40 45 40 30(10) 55(10) 30(10) 30(10) 50 50 65(5)
-1947 50 60 25 40 45 40 30(10) 65(10) 30(10) 30(10) 50 50 65(5)
-
----
-
+  ------ ----- -------- --------- -------- ----------- ----- -------- -------- -------- -------- ---- ---- -------
+  Year   Org   Morale   Raiding   Escort   CV Strike   ASW   SS       CV       BB       BC       CA   CL   DD
+  1939   15    20       0         0        20          0     0        15       10       10       15   15   15
+  1941   35    40       25        10       20          10    30(10)   30       20(5)    20(5)    25   25   30
+  1943   50    60       25        40       35          40    30(10)   40(5)    30(10)   30(10)   40   40   60
+  1944   50    60       25        40       45          40    30(10)   55(10)   30(10)   30(10)   50   50   65(5)
+  1947   50    60       25        40       45          40    30(10)   65(10)   30(10)   30(10)   50   50   65(5)
+  ------ ----- -------- --------- -------- ----------- ----- -------- -------- -------- -------- ---- ---- -------
 :::

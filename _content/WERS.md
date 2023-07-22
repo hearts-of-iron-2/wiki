@@ -1,7 +1,6 @@
 ---
 title: WERS
 ---
-
 ::: mw-parser-output
 WERS (White Eagle, Red Star) is a battle mod for the Hearts of Iron 2
 game. The main theme is Polands fight for independence from 1919-1921.

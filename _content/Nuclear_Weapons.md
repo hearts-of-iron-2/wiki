@@ -1,7 +1,6 @@
 ---
 title: Nuclear_Weapons
 ---
-
 ::: mw-parser-output
 [Template:Anthology](/wiki/index.php?title=Template:Anthology&action=edit&redlink=1 "Template:Anthology (page does not exist)"){.new}
 
@@ -16,35 +15,34 @@ nuclear strikes will render your nation completely helpless.
 
 ::: {#toc .toc aria-labelledby="mw-toc-heading" role="navigation"}
 ::: {.toctitle dir="ltr" lang="en"}
-
 ## Contents {#mw-toc-heading}
 
 [ ]{.toctogglespan}
 :::
 
-- [[ 1 ]{.tocnumber} [ Creation ]{.toctext}](#Creation)
-- [[ 2 ]{.tocnumber} [ Delivery ]{.toctext}](#Delivery)
-- [[ 3 ]{.tocnumber} [ Effects ]{.toctext}](#Effects)
-  - [[ 3.1 ]{.tocnumber} [ Units ]{.toctext}](#Units)
-  - [[ 3.2 ]{.tocnumber} [ Province ]{.toctext}](#Province)
-  - [[ 3.3 ]{.tocnumber} [ Economic ]{.toctext}](#Economic)
-    - [[ 3.3.1 ]{.tocnumber} [ Top Targets
-      ]{.toctext}](#Top_Targets)
-    - [[ 3.3.2 ]{.tocnumber} [ Damage ]{.toctext}](#Damage)
-- [[ 4 ]{.tocnumber} [ Defense against nuclear strikes
-  ]{.toctext}](#Defense_against_nuclear_strikes)
-- [[ 5 ]{.tocnumber} [ Game shortfalls ]{.toctext}](#Game_shortfalls)
-- [[ 6 ]{.tocnumber} [ Details ]{.toctext}](#Details)
-  - [[ 6.1 ]{.tocnumber} [ Build Time ]{.toctext}](#Build_Time)
-  - [[ 6.2 ]{.tocnumber} [ Technology Teams
-    ]{.toctext}](#Technology_Teams)
-  - [[ 6.3 ]{.tocnumber} [ Version Changes
-    ]{.toctext}](#Version_Changes)
-- [[ 7 ]{.tocnumber} [ Use of Nukes in Mods
-  ]{.toctext}](#Use_of_Nukes_in_Mods)
-- [[ 8 ]{.tocnumber} [ Enable Nukes manually
-  ]{.toctext}](#Enable_Nukes_manually)
-  :::
+-   [[ 1 ]{.tocnumber} [ Creation ]{.toctext}](#Creation)
+-   [[ 2 ]{.tocnumber} [ Delivery ]{.toctext}](#Delivery)
+-   [[ 3 ]{.tocnumber} [ Effects ]{.toctext}](#Effects)
+    -   [[ 3.1 ]{.tocnumber} [ Units ]{.toctext}](#Units)
+    -   [[ 3.2 ]{.tocnumber} [ Province ]{.toctext}](#Province)
+    -   [[ 3.3 ]{.tocnumber} [ Economic ]{.toctext}](#Economic)
+        -   [[ 3.3.1 ]{.tocnumber} [ Top Targets
+            ]{.toctext}](#Top_Targets)
+        -   [[ 3.3.2 ]{.tocnumber} [ Damage ]{.toctext}](#Damage)
+-   [[ 4 ]{.tocnumber} [ Defense against nuclear strikes
+    ]{.toctext}](#Defense_against_nuclear_strikes)
+-   [[ 5 ]{.tocnumber} [ Game shortfalls ]{.toctext}](#Game_shortfalls)
+-   [[ 6 ]{.tocnumber} [ Details ]{.toctext}](#Details)
+    -   [[ 6.1 ]{.tocnumber} [ Build Time ]{.toctext}](#Build_Time)
+    -   [[ 6.2 ]{.tocnumber} [ Technology Teams
+        ]{.toctext}](#Technology_Teams)
+    -   [[ 6.3 ]{.tocnumber} [ Version Changes
+        ]{.toctext}](#Version_Changes)
+-   [[ 7 ]{.tocnumber} [ Use of Nukes in Mods
+    ]{.toctext}](#Use_of_Nukes_in_Mods)
+-   [[ 8 ]{.tocnumber} [ Enable Nukes manually
+    ]{.toctext}](#Enable_Nukes_manually)
+:::
 
 ## [ Creation ]{#Creation .mw-headline}
 
@@ -89,7 +87,7 @@ default level, while the \"Semi-Fission Bomb\" increases damage by 30%,
 the Fission bomb by an additional 50%, and the Hydrogen bomb another
 50%.
 
-Nuclear weapons act as a kind of _permanent_ strategic bombardment,
+Nuclear weapons act as a kind of *permanent* strategic bombardment,
 multiplied by several orders of magnitude. Several well-placed nukes can
 severely hamper the infrastructure of any nation and make the target
 nation incapable of fighting war. They have several serious effects to
@@ -133,36 +131,32 @@ A successful nuclear strike against your nation will increase national
 dissent. Based on the Doomsday scenario (Fission Bomb technology), the
 following results were produced:
 
----
-
-Target Dissent Caused Victory Points Original IC Original Manpower
-Moscow 23.85% 50 27 13
-Leningrad 10.8% 30 18 3
-Stalingrad 8.1% 30 16 1
-Kiev 2.7% 5 2 2
-Kuybyshev 2.7% 0 2 2
-Moyz 0% 0 0 0
-
----
+  ------------ ---------------- ---------------- ------------- -------------------
+  Target       Dissent Caused   Victory Points   Original IC   Original Manpower
+  Moscow       23.85%           50               27            13
+  Leningrad    10.8%            30               18            3
+  Stalingrad   8.1%             30               16            1
+  Kiev         2.7%             5                2             2
+  Kuybyshev    2.7%             0                2             2
+  Moyz         0%               0                0             0
+  ------------ ---------------- ---------------- ------------- -------------------
 
 This means that dissent caused is a function of IC and manpower: Victory
 points are not involved. In order to determine dissent lost, the
 equation is:
 
-    D = (I * 0.45) + (M * 0.9)
+    D = (I * 0.45) + (M * 0.9) 
 
 Where D = Dissent; I = IC; and M = manpower. Thus, manpower has twice
 the weight of IC in determining dissent caused.
 
----
-
-Technology Formula
-Nuclear Waste Bomb D = (I \* 0.25) + (M \* 0.5)
-Semi-Fission Bomb D = (I \* 0.30) + (M \* 0.7)
-Fission Bomb D = (I \* 0.45) + (M \* 0.9)
-Hydrogen Bomb
-
----
+  -------------------- ------------------------------
+  Technology           Formula
+  Nuclear Waste Bomb   D = (I \* 0.25) + (M \* 0.5)
+  Semi-Fission Bomb    D = (I \* 0.30) + (M \* 0.7)
+  Fission Bomb         D = (I \* 0.45) + (M \* 0.9)
+  Hydrogen Bomb        
+  -------------------- ------------------------------
 
 Huge dissent, together with the other effects of nuclear weapons, spells
 disaster during wartime. For example, in the Doomsday scenario, after
@@ -224,30 +218,28 @@ damage rates (around 25% margin of error). Since a nuclear weapon both
 temporarily and permanently reduces IC and infrastructure, these values
 have been listed separately:
 
----
-
-Technology Level Temporary IC Permanent IC Temporary Infra Permanent Infra Manpower remaining
-Nuclear Waste Bomb 5 13 45% 70% 5
-Semi-Fission Bomb 2 10 20% 55% 5
-Fission Bomb 0 6 0.1% 33% 1
-Hydrogen Bomb 0 0 0.1% 0.23% 0
-
----
+  -------------------- -------------- -------------- ----------------- ----------------- --------------------
+  Technology Level     Temporary IC   Permanent IC   Temporary Infra   Permanent Infra   Manpower remaining
+  Nuclear Waste Bomb   5              13             45%               70%               5
+  Semi-Fission Bomb    2              10             20%               55%               5
+  Fission Bomb         0              6              0.1%              33%               1
+  Hydrogen Bomb        0              0              0.1%              0.23%             0
+  -------------------- -------------- -------------- ----------------- ----------------- --------------------
 
 ## [ Defense against nuclear strikes ]{#Defense_against_nuclear_strikes .mw-headline}
 
 Nukes that are delivered by Strategic Bombers can be defended against
 with air superiority:
 
-- Constant flights of interceptors/fighters in a perimeter around your
-  nation
-- Strong air defense installations in a perimeter around your nation,
-  or you most valuable core provinces
-- Strong infrastructure of radar and airbases to improve
-  interceptor/fighter efficiency
-- Focus on enemy airbases within range of your nation
+-   Constant flights of interceptors/fighters in a perimeter around your
+    nation
+-   Strong air defense installations in a perimeter around your nation,
+    or you most valuable core provinces
+-   Strong infrastructure of radar and airbases to improve
+    interceptor/fighter efficiency
+-   Focus on enemy airbases within range of your nation
 
-Nukes based on rockets such as the ICBM _cannot be defended against_ .
+Nukes based on rockets such as the ICBM *cannot be defended against* .
 
 ## [ Game shortfalls ]{#Game_shortfalls .mw-headline}
 
@@ -256,35 +248,35 @@ several notable [AI flaws](/wiki/AI_Behaviour#Weaknesses "AI Behaviour")
 . In particular, the AI reacts so poorly to the use of nuclear weapons
 that many consider their use gamey:
 
-- Non-use: The AI usually will not research/build nuclear weapons.
-  This is particularly ahistorical. The AI will only use them in the
-  Doomsday scenario, because they are already researched/built.
-- Surrender: The AI will not surrender, no matter how many times it is
-  nuked. This defect includes the Japanese AI. The use of nuclear
-  weapons is not a factor in peace negotiations.
-- Deterrence: The AI does not fear complete nuclear devastation nor
-  does it have any deterrence mechanism, resulting in highly
-  irrational decisions (e.g. if the player is capable of launching a
-  massive nuclear strike against the AI, the AI will still launch a
-  single nuke that does little damage to the player, while retaliation
-  from the player completely destroys the AI).
+-   Non-use: The AI usually will not research/build nuclear weapons.
+    This is particularly ahistorical. The AI will only use them in the
+    Doomsday scenario, because they are already researched/built.
+-   Surrender: The AI will not surrender, no matter how many times it is
+    nuked. This defect includes the Japanese AI. The use of nuclear
+    weapons is not a factor in peace negotiations.
+-   Deterrence: The AI does not fear complete nuclear devastation nor
+    does it have any deterrence mechanism, resulting in highly
+    irrational decisions (e.g. if the player is capable of launching a
+    massive nuclear strike against the AI, the AI will still launch a
+    single nuke that does little damage to the player, while retaliation
+    from the player completely destroys the AI).
 
 The following potential failings are debatable, but often mentioned in
 discussions:
 
-- Diplomatic consequences: The game does not model negative diplomatic
-  consequences of sustained nuclear warfare (relations with all
-  nations dropping, raising belligerence, and even dissent at home,
-  etc)
-- Fallout: There is no nuclear fallout. This is historically
-  reasonable with early nukes, whose most devastating effects were
-  mostly thermal and radiation exposure was limited.
-- Nuclear Winter: The game does not model the cumulative effects of
-  massive nuclear warfare on the environment (e.g. resource drops
-  around the world).
+-   Diplomatic consequences: The game does not model negative diplomatic
+    consequences of sustained nuclear warfare (relations with all
+    nations dropping, raising belligerence, and even dissent at home,
+    etc)
+-   Fallout: There is no nuclear fallout. This is historically
+    reasonable with early nukes, whose most devastating effects were
+    mostly thermal and radiation exposure was limited.
+-   Nuclear Winter: The game does not model the cumulative effects of
+    massive nuclear warfare on the environment (e.g. resource drops
+    around the world).
 
-Finally, one error/bug in the game design is that nuclear reactors _do
-not_ produce energy: this was incorrectly stated in the game manual, and
+Finally, one error/bug in the game design is that nuclear reactors *do
+not* produce energy: this was incorrectly stated in the game manual, and
 is incorrectly stated in the \"Nuclear Power Production\" technology.
 
 \
@@ -293,58 +285,56 @@ is incorrectly stated in the \"Nuclear Power Production\" technology.
 
 ### [ Build Time ]{#Build_Time .mw-headline}
 
----
-
-Reactor Size Build Time
-6 400 days
-7 320 days
-8 270 days
-9 160 days
-
----
+  -------------- ------------
+  Reactor Size   Build Time
+  6              400 days
+  7              320 days
+  8              270 days
+  9              160 days
+  -------------- ------------
 
 ### [ Technology Teams ]{#Technology_Teams .mw-headline}
 
 Only a limited number of countries have a technology team capable of
 researching nuclear technology:
 
-- Austria
-- Canada (past 1943)
-- Communist China (past 1950)
-- Nationalist China (past 1950)
-- Denmark
-- France
-- Germany
-- Holland
-- Hungary
-- Ireland
-- Italy
-- Japan
-- Luxembourg
-- Poland
-- Switzerland
-- Soviet Union
-- Nationalist Spain
-- Republican Spain
-- Sweden
-- United Kingdom
-- United States
+-   Austria
+-   Canada (past 1943)
+-   Communist China (past 1950)
+-   Nationalist China (past 1950)
+-   Denmark
+-   France
+-   Germany
+-   Holland
+-   Hungary
+-   Ireland
+-   Italy
+-   Japan
+-   Luxembourg
+-   Poland
+-   Switzerland
+-   Soviet Union
+-   Nationalist Spain
+-   Republican Spain
+-   Sweden
+-   United Kingdom
+-   United States
 
 The following nations are special, break-away nations that can only
 exist in special circumstances, but who will have nuclear technology
 teams:
 
-- California
-- Congo
-- Confederate States of America (past 1943)
-- East Germany (past 1954)
-- West Germany
-- India (past 1943)
-- Russia (RUS)
-- Scandinavia
-- Slovenia
-- Transural Republic (past 1942)
-- Wallonia
+-   California
+-   Congo
+-   Confederate States of America (past 1943)
+-   East Germany (past 1954)
+-   West Germany
+-   India (past 1943)
+-   Russia (RUS)
+-   Scandinavia
+-   Slovenia
+-   Transural Republic (past 1942)
+-   Wallonia
 
 ### [ Version Changes ]{#Version_Changes .mw-headline}
 
@@ -362,9 +352,9 @@ cost an additional 5 manpower.
 
 The AI in the following mods will develop and use nuclear weapons:
 
-- TRP
-- Compendium
-- Confederate Armageddon
+-   TRP
+-   Compendium
+-   Confederate Armageddon
 
 In DAIM, the AI will research and build nuclear weapons. The AI will
 \"not\", however, launch nuclear weapons. Typically this is because the
@@ -391,6 +381,6 @@ vanilla game or any mod to enable nukes:
 8.  There should be a spot \"ignore techs\". Identify the nuke tech
     numbers in order to ensure the AI will research them.
 
-- Industrial Tech IDs: 5470 5480 5490 5500 5510 5520 5530 5540
-- Secret Tech IDs: 7170 7180 7190 16010 16020
-  :::
+-   Industrial Tech IDs: 5470 5480 5490 5500 5510 5520 5530 5540
+-   Secret Tech IDs: 7170 7180 7190 16010 16020
+:::

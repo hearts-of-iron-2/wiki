@@ -1,7 +1,6 @@
 ---
 title: Cold_War_Vietnam
 ---
-
 ::: mw-parser-output
 Vietnam War Version 3.0 by FRVP
 

@@ -1,41 +1,39 @@
 ---
 title: Conducting_Blitzkrieg_offensives
 ---
-
 ::: mw-parser-output
 [Template:Anthology](/wiki/index.php?title=Template:Anthology&action=edit&redlink=1 "Template:Anthology (page does not exist)"){.new}
 
 +-----------------------------------+-----------------------------------+
-| ::: {style="width: 52px;"} | **This article may need to be |
-| [![Wikitext.png](https://c | formatted [following an |
-| entral.paradoxwikis.com/images/2/ | encyclopedic |
-| 2f/Wikitext.png){file-height="20" | style](/wiki/T |
-| file-width="50" | emplate:Wikify "Template:Wikify") |
-| url="https://central.paradoxwi | .**\ |
-| kis.com/images/2/2f/Wikitext.png" | [Please help improve |
-| decoding="async" height="20" | [this](ht |
-| loading="lazy" | tps://hoi2.paradoxwikis.com/index |
-| width="50"}] | .php?title=Conducting*Blitzkrieg* |
+| ::: {style="width: 52px;"}        | **This article may need to be     |
+| [![Wikitext.png](https://c        | formatted [following an           |
+| entral.paradoxwikis.com/images/2/ | encyclopedic                      |
+| 2f/Wikitext.png){file-height="20" | style](/wiki/T                    |
+| file-width="50"                   | emplate:Wikify "Template:Wikify") |
+| url="https://central.paradoxwi    | .**\                              |
+| kis.com/images/2/2f/Wikitext.png" | [Please help improve              |
+| decoding="async" height="20"      | [this](ht                         |
+| loading="lazy"                    | tps://hoi2.paradoxwikis.com/index |
+| width="50"}]                      | .php?title=Conducting_Blitzkrieg_ |
 | (/wiki/File:Wikitext.png){.image} | offensives&action=edit){.external |
-| ::: | .text rel="nofollow"} article if |
-| | you can.]{.small} |
+| :::                               | .text rel="nofollow"} article if  |
+|                                   | you can.]{.small}                 |
 +-----------------------------------+-----------------------------------+
 
 ::: {#toc .toc aria-labelledby="mw-toc-heading" role="navigation"}
 ::: {.toctitle dir="ltr" lang="en"}
-
 ## Contents {#mw-toc-heading}
 
 [ ]{.toctogglespan}
 :::
 
-- [[ 1 ]{.tocnumber} [ Introduction ]{.toctext}](#Introduction)
-- [[ 2 ]{.tocnumber} [ Infrastructure and installations
-  ]{.toctext}](#Infrastructure_and_installations)
-- [[ 3 ]{.tocnumber} [ Forces needed ]{.toctext}](#Forces_needed)
-- [[ 4 ]{.tocnumber} [ Conduct of the campaign
-  ]{.toctext}](#Conduct_of_the_campaign)
-  :::
+-   [[ 1 ]{.tocnumber} [ Introduction ]{.toctext}](#Introduction)
+-   [[ 2 ]{.tocnumber} [ Infrastructure and installations
+    ]{.toctext}](#Infrastructure_and_installations)
+-   [[ 3 ]{.tocnumber} [ Forces needed ]{.toctext}](#Forces_needed)
+-   [[ 4 ]{.tocnumber} [ Conduct of the campaign
+    ]{.toctext}](#Conduct_of_the_campaign)
+:::
 
 ## [ Introduction ]{#Introduction .mw-headline}
 
@@ -181,7 +179,7 @@ enemy with three armoured corps and whatever infantry you have available
 in Czestochowa from Oppeln, and with two armoured corps and infantry in
 Bydgoscz from Stettin. You also need to attack Przemysl from Kosice, to
 close the door on Cracow\'s defenders and get a straight shot for your
-armor to Lublin. These are your _Schwerpunkte_ , or focal points, where
+armor to Lublin. These are your *Schwerpunkte* , or focal points, where
 all available force is used to achieve a breakthrough along a narrowly
 defined sector of the front. Remember to leave each province bordering
 the enemy garrisoned by at least three divisions. Your spearheads should

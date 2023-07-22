@@ -1,7 +1,6 @@
 ---
 title: France
 ---
-
 ::: mw-parser-output
 [File:Fra-topbar.JPG](/wiki/index.php?title=Special:Upload&wpDestFile=Fra-topbar.JPG "File:Fra-topbar.JPG"){.new}
 
@@ -16,7 +15,7 @@ title: France
 [Major powers](/wiki/Major_power "Major power"){.mw-redirect}
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [France]{.mw-selflink .selflink}\
@@ -32,7 +31,7 @@ title: France
 Regional powers
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [Argentina](/wiki/Argentina "Argentina")\
@@ -60,7 +59,7 @@ Regional powers
 [Minor powers](/wiki/Minor_power "Minor power"){.mw-redirect}
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [Austria](/wiki/Austria "Austria")\
@@ -83,7 +82,7 @@ Regional powers
 [Micro powers](/wiki/Micro_power "Micro power"){.mw-redirect}
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [Afghanistan](/wiki/Afghanistan "Afghanistan")\
@@ -133,42 +132,42 @@ Arabia](/wiki/index.php?title=Saudi_Arabia&action=edit&redlink=1 "Saudi Arabia (
 
 ::: {#toc .toc aria-labelledby="mw-toc-heading" role="navigation"}
 ::: {.toctitle dir="ltr" lang="en"}
-
 ## Contents {#mw-toc-heading}
 
 [ ]{.toctogglespan}
 :::
 
-- [[ 1 ]{.tocnumber} [ Background ]{.toctext}](#Background)
-- [[ 2 ]{.tocnumber} [ Technology ]{.toctext}](#Technology)
-- [[ 3 ]{.tocnumber} [ Diplomacy ]{.toctext}](#Diplomacy)
-  - [[ 3.1 ]{.tocnumber} [ Alliances ]{.toctext}](#Alliances)
-  - [[ 3.2 ]{.tocnumber} [ Sliders ]{.toctext}](#Sliders)
-  - [[ 3.3 ]{.tocnumber} [ Ministers ]{.toctext}](#Ministers)
-- [[ 4 ]{.tocnumber} [ Intelligence ]{.toctext}](#Intelligence)
-- [[ 5 ]{.tocnumber} [ Economy ]{.toctext}](#Economy)
-  - [[ 5.1 ]{.tocnumber} [ Trading ]{.toctext}](#Trading)
-  - [[ 5.2 ]{.tocnumber} [ Industrial Production
-    ]{.toctext}](#Industrial_Production)
-- [[ 6 ]{.tocnumber} [ Military ]{.toctext}](#Military)
-  - [[ 6.1 ]{.tocnumber} [ Army ]{.toctext}](#Army)
-  - [[ 6.2 ]{.tocnumber} [ Navy ]{.toctext}](#Navy)
-  - [[ 6.3 ]{.tocnumber} [ Air Force ]{.toctext}](#Air_Force)
-- [[ 7 ]{.tocnumber} [ Events ]{.toctext}](#Events)
-  - [[ 7.1 ]{.tocnumber} [ Elections ]{.toctext}](#Elections)
-  - [[ 7.2 ]{.tocnumber} [ Spanish Civil War
-    ]{.toctext}](#Spanish_Civil_War)
-- [[ 8 ]{.tocnumber} [ War ]{.toctext}](#War)
-  - [[ 8.1 ]{.tocnumber} [ Maginot Defense
-    ]{.toctext}](#Maginot_Defense)
-  - [[ 8.2 ]{.tocnumber} [ Infantry Defense
-    ]{.toctext}](#Infantry_Defense)
-  - [[ 8.3 ]{.tocnumber} [ Polish Gambit
-    ]{.toctext}](#Polish_Gambit)
-- [[ 9 ]{.tocnumber} [ Gaming the System
-  ]{.toctext}](#Gaming_the_System) - [[ 9.1 ]{.tocnumber} [ Japanese Ally
-  ]{.toctext}](#Japanese_Ally)
-  :::
+-   [[ 1 ]{.tocnumber} [ Background ]{.toctext}](#Background)
+-   [[ 2 ]{.tocnumber} [ Technology ]{.toctext}](#Technology)
+-   [[ 3 ]{.tocnumber} [ Diplomacy ]{.toctext}](#Diplomacy)
+    -   [[ 3.1 ]{.tocnumber} [ Alliances ]{.toctext}](#Alliances)
+    -   [[ 3.2 ]{.tocnumber} [ Sliders ]{.toctext}](#Sliders)
+    -   [[ 3.3 ]{.tocnumber} [ Ministers ]{.toctext}](#Ministers)
+-   [[ 4 ]{.tocnumber} [ Intelligence ]{.toctext}](#Intelligence)
+-   [[ 5 ]{.tocnumber} [ Economy ]{.toctext}](#Economy)
+    -   [[ 5.1 ]{.tocnumber} [ Trading ]{.toctext}](#Trading)
+    -   [[ 5.2 ]{.tocnumber} [ Industrial Production
+        ]{.toctext}](#Industrial_Production)
+-   [[ 6 ]{.tocnumber} [ Military ]{.toctext}](#Military)
+    -   [[ 6.1 ]{.tocnumber} [ Army ]{.toctext}](#Army)
+    -   [[ 6.2 ]{.tocnumber} [ Navy ]{.toctext}](#Navy)
+    -   [[ 6.3 ]{.tocnumber} [ Air Force ]{.toctext}](#Air_Force)
+-   [[ 7 ]{.tocnumber} [ Events ]{.toctext}](#Events)
+    -   [[ 7.1 ]{.tocnumber} [ Elections ]{.toctext}](#Elections)
+    -   [[ 7.2 ]{.tocnumber} [ Spanish Civil War
+        ]{.toctext}](#Spanish_Civil_War)
+-   [[ 8 ]{.tocnumber} [ War ]{.toctext}](#War)
+    -   [[ 8.1 ]{.tocnumber} [ Maginot Defense
+        ]{.toctext}](#Maginot_Defense)
+    -   [[ 8.2 ]{.tocnumber} [ Infantry Defense
+        ]{.toctext}](#Infantry_Defense)
+    -   [[ 8.3 ]{.tocnumber} [ Polish Gambit
+        ]{.toctext}](#Polish_Gambit)
+-   [[ 9 ]{.tocnumber} [ Gaming the System
+    ]{.toctext}](#Gaming_the_System)
+    -   [[ 9.1 ]{.tocnumber} [ Japanese Ally
+        ]{.toctext}](#Japanese_Ally)
+:::
 
 ## [ Background ]{#Background .mw-headline}
 
@@ -180,12 +179,12 @@ the mistake by making fortresses in northern France or build sufficient
 troops to invade Germany when it declares war. Before continuing on,
 let's examine France's weaknesses:
 
-- Bad starting technology
-- Low manpower
-- Low IC
-- Exposed northern front
-- Weak starting army
-- A navy that probably saw service with Napoleon
+-   Bad starting technology
+-   Low manpower
+-   Low IC
+-   Exposed northern front
+-   Weak starting army
+-   A navy that probably saw service with Napoleon
 
 ## [ Technology ]{#Technology .mw-headline}
 
@@ -196,13 +195,13 @@ Armor/Artillery. Air power is useful only for TAC, INT, and possibly
 CAS. For this reason, by around 1939 France can be significantly ahead
 of all the Allies, including even the USA, in technology research.
 
-- Industrial: get industry research as high as possible (especially
-  the ones which increase manpower, IC, IC efficiency, quicken
-  production time and increase research efficiency)
-- Infantry: focus on completing 1941 infantry by May, 1940.
-- Armor: ART, SP-ART, and ARM are useful areas to research.
-- Fighter/interceptor: Research the Interceptor tree, since France
-  begins the game with several.
+-   Industrial: get industry research as high as possible (especially
+    the ones which increase manpower, IC, IC efficiency, quicken
+    production time and increase research efficiency)
+-   Infantry: focus on completing 1941 infantry by May, 1940.
+-   Armor: ART, SP-ART, and ARM are useful areas to research.
+-   Fighter/interceptor: Research the Interceptor tree, since France
+    begins the game with several.
 
 ## [ Diplomacy ]{#Diplomacy .mw-headline}
 
@@ -304,17 +303,17 @@ operations behind German defensive lines to clean-up straggler units.
 
 ### [ Elections ]{#Elections .mw-headline}
 
-- **1936:** In June, 1936, France will have elections. This provides a
-  negative 3 dissent, and thus is a good time for changing ministers
-  before the event fires. The ministers of the Left are generally the
-  best option. A move to the right makes France social conservative.
-- **1938:** In June elections recur. The Left remains a good option,
-  retaining Social Democracy. The Social Liberal minister Auriol (+10%
-  IC) should be reappointed to Armaments, while the Social Democrat
-  Salengro (+5% IC) should be reappointed to Intelligence. A move to
-  the right would make France \"Paternal Autocrat\" with limited
-  minister choices. When AI France is Paternal Autocrat it\'s very
-  likely to declare war on Germany before the Molotov-Ribbentrop pact.
+-   **1936:** In June, 1936, France will have elections. This provides a
+    negative 3 dissent, and thus is a good time for changing ministers
+    before the event fires. The ministers of the Left are generally the
+    best option. A move to the right makes France social conservative.
+-   **1938:** In June elections recur. The Left remains a good option,
+    retaining Social Democracy. The Social Liberal minister Auriol (+10%
+    IC) should be reappointed to Armaments, while the Social Democrat
+    Salengro (+5% IC) should be reappointed to Intelligence. A move to
+    the right would make France \"Paternal Autocrat\" with limited
+    minister choices. When AI France is Paternal Autocrat it\'s very
+    likely to declare war on Germany before the Molotov-Ribbentrop pact.
 
 ### [ Spanish Civil War ]{#Spanish_Civil_War .mw-headline}
 
@@ -322,25 +321,26 @@ A few days after the Spanish Civil War begins on July 18, 1936, France
 will be asked for intervention. Naturally, sending volunteers is the
 best option:
 
-- Why support anarchists: +10 dissent; +1 isolationism; +1 right
-- Send volunteers: +5 dissent; -200 money; -10 manpower; +2
-  interventionism.
+-   Why support anarchists: +10 dissent; +1 isolationism; +1 right
+-   Send volunteers: +5 dissent; -200 money; -10 manpower; +2
+    interventionism.
 
 Just before the event, you can further move the slider toward
 intervention in the diplomacy tab and then guarantee Republican Spain\'s
 independence. Then after you go with intervention, if AI Germany
 declares war on Republican Spain, it will now have enough belligerence
-points for you to declare war on Germany, which is easily defeated in 1936.
+points for you to declare war on Germany, which is easily defeated in
+1936.
 
 ## [ War ]{#War .mw-headline}
 
 France has three major strategic postures that can lead to victory:
 
-- Maginot Defense: Extend Maginot line such that it will extend to the
-  border with Belgium and wait.
-- Infantry Defense: Build enough infantry to defend Belgium, and by
-  extension, France.
-- Polish Gambit: Invade Germany when it declares war on Poland.
+-   Maginot Defense: Extend Maginot line such that it will extend to the
+    border with Belgium and wait.
+-   Infantry Defense: Build enough infantry to defend Belgium, and by
+    extension, France.
+-   Polish Gambit: Invade Germany when it declares war on Poland.
 
 ### [ Maginot Defense ]{#Maginot_Defense .mw-headline}
 
@@ -432,22 +432,22 @@ then leave the alliance and fight along the Allies.
 
 In order to do that, France needs to:
 
-- get really friendly with Japan: use you fairly large amout of cash
-  to influence it up to 200.
-- move the entire French army to Indochina\... it takes a lot of time
-  but around 1937 it should be done. Yes mainland France is
-  unprotected, but it is still a peaceful time in old Europe.
-- move your slider toward the \"interventionism\" policy\... it\'s
-  important beacause the starting level does NOT allow you to leave
-  alliances or to join new ones\...
-- when the war breaks in China, leave the alliance with the British
-  and ask to join the Japanese aliiance. If you have a 200
-  relationship they will accept.
-- attack from the South and, as fast as you can, move North to get the
-  interesting provinces (your 3 cavalery division and you 2 light
-  armored divisions are very useful for this. The Chinese army
-  shouldn\'t be a real problem (use encirclement and destroy their
-  armies).
+-   get really friendly with Japan: use you fairly large amout of cash
+    to influence it up to 200.
+-   move the entire French army to Indochina\... it takes a lot of time
+    but around 1937 it should be done. Yes mainland France is
+    unprotected, but it is still a peaceful time in old Europe.
+-   move your slider toward the \"interventionism\" policy\... it\'s
+    important beacause the starting level does NOT allow you to leave
+    alliances or to join new ones\...
+-   when the war breaks in China, leave the alliance with the British
+    and ask to join the Japanese aliiance. If you have a 200
+    relationship they will accept.
+-   attack from the South and, as fast as you can, move North to get the
+    interesting provinces (your 3 cavalery division and you 2 light
+    armored divisions are very useful for this. The Chinese army
+    shouldn\'t be a real problem (use encirclement and destroy their
+    armies).
 
 If the things go well, by 1938 French IC could be as high as 120. In
 addition, wartime allows you to divert IC from consumers\' good to unit

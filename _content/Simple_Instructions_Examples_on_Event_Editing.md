@@ -1,9 +1,7 @@
 ---
 title: Simple_Instructions_Examples_on_Event_Editing
 ---
-
 ::: mw-parser-output
-
 ## [ Goal and Disclaimer ]{#Goal_and_Disclaimer .mw-headline}
 
 Editing events in HOI2 is an objective many of us have, but few of us
@@ -36,7 +34,7 @@ file are the following:
 
 Lines 1-5:
 
-    # # HoI - Finland Events # #        written by Henrik Fåhraeus #
+    # # HoI - Finland Events # #        written by Henrik Fåhraeus # 
 
 The first thing about these lines that you should note is the \"#\"
 character. In programming event files in almost any circumstance, if you
@@ -60,7 +58,7 @@ work. ;)
 Obviously you know that Henrik was the programmer of the finland.txt by
 the this line
 
-    #      written by Henrik Fåhraeus
+    #      written by Henrik Fåhraeus 
 
 A good and easy/quick programming practice is that anytime you modify a
 file to put a new line under the line of the author with your name, the
@@ -73,13 +71,13 @@ it was finished and what you did.
 
 Here is an example
 
-    # # HoI - Finland Events # #     written by Henrik Fåhraeus #        modified by Chuck U. Farley - 01/14/2005 - 3200 #
+    # # HoI - Finland Events # #     written by Henrik Fåhraeus #        modified by Chuck U. Farley - 01/14/2005 - 3200 # 
 
 Got it? Good\...one more thing before we move onward. You\'ll sometimes
 come across empty lines. An empty line is basically 2 carriage returns.
 Here\'s the finland.txt code that shows a blank line.
 
-    # # HoI - Finland Events # #      written by Henrik Fåhraeus # #########################################################################
+    # # HoI - Finland Events # #      written by Henrik Fåhraeus # ######################################################################### 
 
 Line 6:\
 See line 6? Notice how there is no \"#\". So what do you think the
@@ -93,7 +91,7 @@ So lets get started with a true event now that you understand a smidgen
 of the basics. We\'re going to jump right into event 3200. What\'s event
 3200? Well it\'s lines 7-44 of the finland.txt and it looks like this:
 
-    ######################################################################### # The Winter War ######################################################################### event = {  id = 3200   random = no     country = FIN   # Triggered by SOV 2620     name = "EVT_3200_NAME"  desc = "EVT_3200_DESC"  style = 0   picture = "Winter_War"  action_a = {        name = "ACTIONNAME3200A" # Let them come if they dare!      ai_chance = 99      command = { type = trigger which = 2621 } #SOV      command = { type = chiefofstaff which = 29137 }         command = { type = chiefofarmy which = 29145 }      command = { type = domestic which = political_left value = -1 }         command = { type = relation which = SOV value = -10 }       command = { type = relation which = SWE value = 5 }         command = { type = relation which = NOR value = 5 }     }   action_b = {        name = "ACTIONNAME3200B" # Fold to Russian Pressure         ai_chance = 1       command = { type = secedeprovince which = SOV value = 145 }         command = { type = secedeprovince which = SOV value = 146 }         command = { type = domestic which = political_left value = 1 }      command = { type = relation which = SOV value = 25 }        command = { type = relation which = GER value = -15 }       command = { type = relation which = SWE value = -10 }       command = { type = trigger which = 2622 } #SOV  } }
+    ######################################################################### # The Winter War ######################################################################### event = {  id = 3200   random = no     country = FIN   # Triggered by SOV 2620     name = "EVT_3200_NAME"  desc = "EVT_3200_DESC"  style = 0   picture = "Winter_War"  action_a = {        name = "ACTIONNAME3200A" # Let them come if they dare!      ai_chance = 99      command = { type = trigger which = 2621 } #SOV      command = { type = chiefofstaff which = 29137 }         command = { type = chiefofarmy which = 29145 }      command = { type = domestic which = political_left value = -1 }         command = { type = relation which = SOV value = -10 }       command = { type = relation which = SWE value = 5 }         command = { type = relation which = NOR value = 5 }     }   action_b = {        name = "ACTIONNAME3200B" # Fold to Russian Pressure         ai_chance = 1       command = { type = secedeprovince which = SOV value = 145 }         command = { type = secedeprovince which = SOV value = 146 }         command = { type = domestic which = political_left value = 1 }      command = { type = relation which = SOV value = 25 }        command = { type = relation which = GER value = -15 }       command = { type = relation which = SWE value = -10 }       command = { type = trigger which = 2622 } #SOV  } } 
 
 Looks kinda complicated doesn\'t it? While it is definitely fairly
 readable and you can quickly get the idea of what Henrik is trying to
@@ -115,7 +113,7 @@ keep up with them! :-)
 Now back to the event and lines 7-9.\
 Lines 7-9:\
 
-    ######################################################################### # The Winter War #########################################################################
+    ######################################################################### # The Winter War ######################################################################### 
 
 Lines 7-9 are additional header information similar to lines 1-5 that we
 have already spoken about. You\'ll notice that lines 7 and 9 are
@@ -203,7 +201,7 @@ the style, it is ever so \_good\_ to \*have\* comments!
 
 Lines 17-19:
 
-    name = "EVT_3200_NAME" desc = "EVT_3200_DESC" style = 0 picture = "Winter_War"
+    name = "EVT_3200_NAME" desc = "EVT_3200_DESC" style = 0 picture = "Winter_War" 
 
 \
 Next we have this
@@ -229,7 +227,7 @@ spacing you put between the bracket and the \"name\". For the events I
 do for my HoI 2 modification, \"the ALEXIS Project\", I have action_a =
 {
 
-     name = ******
+     name = ****** 
 
 as compared to what we see above where there is some spacing between the
 bracket and the name the line below it. It does not really matter how
@@ -276,7 +274,7 @@ POV it is self explanatory although if the previous author wishes to
 come back, revise my work and type up what each line does i will not
 hold a grudge ;).
 
-- Note
+-   Note
 
 You can only do one command to a line and always must do (regardless of
 what the command is)

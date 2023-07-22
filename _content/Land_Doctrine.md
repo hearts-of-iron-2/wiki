@@ -1,74 +1,72 @@
 ---
 title: Land_Doctrine
 ---
-
 ::: mw-parser-output
 [Template:Anthology](/wiki/index.php?title=Template:Anthology&action=edit&redlink=1 "Template:Anthology (page does not exist)"){.new}
 
 ::: {#toc .toc aria-labelledby="mw-toc-heading" role="navigation"}
 ::: {.toctitle dir="ltr" lang="en"}
-
 ## Contents {#mw-toc-heading}
 
 [ ]{.toctogglespan}
 :::
 
-- [[ 1 ]{.tocnumber} [ Doctrine Overview
-  ]{.toctext}](#Doctrine_Overview)
-- [[ 2 ]{.tocnumber} [ Doctrine Summaries
-  ]{.toctext}](#Doctrine_Summaries)
-  - [[ 2.1 ]{.tocnumber} [ Spearhead ]{.toctext}](#Spearhead)
-  - [[ 2.2 ]{.tocnumber} [ Human Wave ]{.toctext}](#Human_Wave)
-  - [[ 2.3 ]{.tocnumber} [ Superior Firepower
-    ]{.toctext}](#Superior_Firepower)
-  - [[ 2.4 ]{.tocnumber} [ Grand Battle Plan
-    ]{.toctext}](#Grand_Battle_Plan)
-- [[ 3 ]{.tocnumber} [ Rankings ]{.toctext}](#Rankings)
-  - [[ 3.1 ]{.tocnumber} [ 1936- 1942 ]{.toctext}](#1936-_1942)
-  - [[ 3.2 ]{.tocnumber} [ 1942 - 1943 ]{.toctext}](#1942_-_1943)
-  - [[ 3.3 ]{.tocnumber} [ 1944+ ]{.toctext}](#1944.2B)
-- [[ 4 ]{.tocnumber} [ Doctrine Information in Full
-  ]{.toctext}](#Doctrine_Information_in_Full)
-  - [[ 4.1 ]{.tocnumber} [ USA Firepower- Superior Firepower Tree
-    ]{.toctext}](#USA_Firepower-_Superior_Firepower_Tree)
-  - [[ 4.2 ]{.tocnumber} [ Grand Battle Lines
-    ]{.toctext}](#Grand_Battle_Lines)
-  - [[ 4.3 ]{.tocnumber} [ German Doctrine- Mobility-Spearhead
-    ]{.toctext}](#German_Doctrine-_Mobility-Spearhead)
-  - [[ 4.4 ]{.tocnumber} [ Soviet Doctrine- Mobility-Human wave
-    ]{.toctext}](#Soviet_Doctrine-_Mobility-Human_wave)
-  - [[ 4.5 ]{.tocnumber} [ Comparison of final results
-    ]{.toctext}](#Comparison_of_final_results)
-- [[ 5 ]{.tocnumber} [ See also ]{.toctext}](#See_also)
-- [[ 6 ]{.tocnumber} [ Downloads ]{.toctext}](#Downloads)
-  :::
+-   [[ 1 ]{.tocnumber} [ Doctrine Overview
+    ]{.toctext}](#Doctrine_Overview)
+-   [[ 2 ]{.tocnumber} [ Doctrine Summaries
+    ]{.toctext}](#Doctrine_Summaries)
+    -   [[ 2.1 ]{.tocnumber} [ Spearhead ]{.toctext}](#Spearhead)
+    -   [[ 2.2 ]{.tocnumber} [ Human Wave ]{.toctext}](#Human_Wave)
+    -   [[ 2.3 ]{.tocnumber} [ Superior Firepower
+        ]{.toctext}](#Superior_Firepower)
+    -   [[ 2.4 ]{.tocnumber} [ Grand Battle Plan
+        ]{.toctext}](#Grand_Battle_Plan)
+-   [[ 3 ]{.tocnumber} [ Rankings ]{.toctext}](#Rankings)
+    -   [[ 3.1 ]{.tocnumber} [ 1936- 1942 ]{.toctext}](#1936-_1942)
+    -   [[ 3.2 ]{.tocnumber} [ 1942 - 1943 ]{.toctext}](#1942_-_1943)
+    -   [[ 3.3 ]{.tocnumber} [ 1944+ ]{.toctext}](#1944.2B)
+-   [[ 4 ]{.tocnumber} [ Doctrine Information in Full
+    ]{.toctext}](#Doctrine_Information_in_Full)
+    -   [[ 4.1 ]{.tocnumber} [ USA Firepower- Superior Firepower Tree
+        ]{.toctext}](#USA_Firepower-_Superior_Firepower_Tree)
+    -   [[ 4.2 ]{.tocnumber} [ Grand Battle Lines
+        ]{.toctext}](#Grand_Battle_Lines)
+    -   [[ 4.3 ]{.tocnumber} [ German Doctrine- Mobility-Spearhead
+        ]{.toctext}](#German_Doctrine-_Mobility-Spearhead)
+    -   [[ 4.4 ]{.tocnumber} [ Soviet Doctrine- Mobility-Human wave
+        ]{.toctext}](#Soviet_Doctrine-_Mobility-Human_wave)
+    -   [[ 4.5 ]{.tocnumber} [ Comparison of final results
+        ]{.toctext}](#Comparison_of_final_results)
+-   [[ 5 ]{.tocnumber} [ See also ]{.toctext}](#See_also)
+-   [[ 6 ]{.tocnumber} [ Downloads ]{.toctext}](#Downloads)
+:::
 
 ## [ Doctrine Overview ]{#Doctrine_Overview .mw-headline}
 
 **Land Doctrine** effects:
 
-- Organisation and [Morale](/wiki/Morale "Morale") values
-- [HQ Unit](/wiki/HQ_Units_in_Action "HQ Units in Action")
-  availability and effectiveness
-- Production costs of certain units (only patch 1.2 and newer; they do
-  not function in 1.1)
-- Combat Events
-- Some Night/Terrain modifiers
+-   Organisation and [Morale](/wiki/Morale "Morale") values
+-   [HQ Unit](/wiki/HQ_Units_in_Action "HQ Units in Action")
+    availability and effectiveness
+-   Production costs of certain units (only patch 1.2 and newer; they do
+    not function in 1.1)
+-   Combat Events
+-   Some Night/Terrain modifiers
 
 There are 6 Doctrine trees available in the game, depending on tech
 choices.
 
-- Mobility Focus - Spearhead (finishes in Volksturm Doctrine or Modern
-  Blitzkrieg)
-- Mobility Focus - Human Wave (finishes in Mechanized Wave)
-- Firepower Focus - Superior Firepower (branches on the last tech into
-  Mechanized Offensive or Combined Arms Defence) finished at Air Land
-  Battle.
-- Firepower Focus - Grand Battle Plan, which branches in 1941 into:
-  - Attritional Containment
-  - Infiltration Assault
-  - Operational Stages
-  - Grand Battle Plan finishes at Assault Concentration Doctrine.
+-   Mobility Focus - Spearhead (finishes in Volksturm Doctrine or Modern
+    Blitzkrieg)
+-   Mobility Focus - Human Wave (finishes in Mechanized Wave)
+-   Firepower Focus - Superior Firepower (branches on the last tech into
+    Mechanized Offensive or Combined Arms Defence) finished at Air Land
+    Battle.
+-   Firepower Focus - Grand Battle Plan, which branches in 1941 into:
+    -   Attritional Containment
+    -   Infiltration Assault
+    -   Operational Stages
+    -   Grand Battle Plan finishes at Assault Concentration Doctrine.
 
 ## [ Doctrine Summaries ]{#Doctrine_Summaries .mw-headline}
 
@@ -190,21 +188,21 @@ to infantry and AT guns.
 
 They improve somewhat in 1942-44 as the tech tree splits:
 
-- Attritional Containment: Achieves relatively high morale levels and
-  low organisation. Respectable discounts on Infantry, AT, Engineers
-  and Artillery. Combat events are the Assault and the Counterattack.
-  Mainly suitable for static defense or slow attack.
-- Infiltration assault: Very high Morale, though both Org and Morale
-  are always lower than the Soviet tech tree. This tree gives
-  advantages to night combat, which generally makes your land units
-  more effective. Plenty of Ambush combat events. Discounts on
-  Infantry, Marines and Militia. Armour becomes more expensive.
-  Encourages to an extent an offensive Infantry and Militia focus.
-- Operational Stages: Balanced between Org and Morale and mediocre at
-  both - ends up in 1944 equivalent to where the Germans were in 1941.
-  Discounts end up spread over Infantry, Mechanized, Motorised,
-  Anti-Tank and Armour. Not a strong tech tree but the only way to
-  shift the Grand Battle Plan decision around to mechanised warfare.
+-   Attritional Containment: Achieves relatively high morale levels and
+    low organisation. Respectable discounts on Infantry, AT, Engineers
+    and Artillery. Combat events are the Assault and the Counterattack.
+    Mainly suitable for static defense or slow attack.
+-   Infiltration assault: Very high Morale, though both Org and Morale
+    are always lower than the Soviet tech tree. This tree gives
+    advantages to night combat, which generally makes your land units
+    more effective. Plenty of Ambush combat events. Discounts on
+    Infantry, Marines and Militia. Armour becomes more expensive.
+    Encourages to an extent an offensive Infantry and Militia focus.
+-   Operational Stages: Balanced between Org and Morale and mediocre at
+    both - ends up in 1944 equivalent to where the Germans were in 1941.
+    Discounts end up spread over Infantry, Mechanized, Motorised,
+    Anti-Tank and Armour. Not a strong tech tree but the only way to
+    shift the Grand Battle Plan decision around to mechanised warfare.
 
 The 1946 addition \'Assault Concentration\' adds 20% morale and
 organisation to any divisions with an artillery brigade, making the
@@ -217,14 +215,14 @@ table can be constructed showing the value of doctrines relative to each
 other. The top three doctrines switch places, but always remain in the
 top three: Blitzkrieg, Human Wave, and Infiltration.
 
-### [ 1936- 1942 ]{#1936-\_1942 .mw-headline}
+### [ 1936- 1942 ]{#1936-_1942 .mw-headline}
 
 1.  Blitzkrieg
 2.  Human Wave
 3.  Infiltration/Operational/Attritional (identical)
 4.  Superior Firepower
 
-### [ 1942 - 1943 ]{#1942\_-_1943 .mw-headline}
+### [ 1942 - 1943 ]{#1942_-_1943 .mw-headline}
 
 1.  Infiltration
 2.  Human Wave
@@ -248,82 +246,74 @@ Available from [this
 thread](http://forum.paradoxplaza.com/forum/showthread.php?p=3918948#post3918948){.external
 .text rel="nofollow"} at the Paradox Forums.
 
-### [ USA Firepower- Superior Firepower Tree ]{#USA_Firepower-\_Superior_Firepower_Tree .mw-headline}
+### [ USA Firepower- Superior Firepower Tree ]{#USA_Firepower-_Superior_Firepower_Tree .mw-headline}
 
----
-
-Year Hq_Ty HQ_ESE Hq_Spd Org Morale C_Inf C_Art C\_ Mot C_SPA C_Mec C_Cav
-1936 0 1 0 50 30 0 0 0 0 0 0
-1937 0 1 0 50 30 -5 -5 0 0 0 0
-1938 0 2 1 60 40 -10 -10 0 0 0 0
-1939 0 3 1 60 50 -15 -15 0 0 0 0
-1940 1 4 1 60 60 -20 -20 0 0 0 0
-1941 1 4 1 60 60 -20 -20 0 0 0 0
-1942 2 6 2 70 60 -10 -10 -10 -10 0 0
-1943.1 2 8 2 90 80 -5 -5 -15 -15 0 0
-1943.2 2 8 2 90 80 -5 -5 -15 -15 -15 0
-1946 3 8 2 100 90 -5 -5 -15 -15 0 -5
-
----
+  -------- ------- -------- -------- ----- -------- ------- ------- --------- ------- ------- -------
+  Year     Hq_Ty   HQ_ESE   Hq_Spd   Org   Morale   C_Inf   C_Art   C\_ Mot   C_SPA   C_Mec   C_Cav
+  1936     0       1        0        50    30       0       0       0         0       0       0
+  1937     0       1        0        50    30       -5      -5      0         0       0       0
+  1938     0       2        1        60    40       -10     -10     0         0       0       0
+  1939     0       3        1        60    50       -15     -15     0         0       0       0
+  1940     1       4        1        60    60       -20     -20     0         0       0       0
+  1941     1       4        1        60    60       -20     -20     0         0       0       0
+  1942     2       6        2        70    60       -10     -10     -10       -10     0       0
+  1943.1   2       8        2        90    80       -5      -5      -15       -15     0       0
+  1943.2   2       8        2        90    80       -5      -5      -15       -15     -15     0
+  1946     3       8        2        100   90       -5      -5      -15       -15     0       -5
+  -------- ------- -------- -------- ----- -------- ------- ------- --------- ------- ------- -------
 
 ### [ Grand Battle Lines ]{#Grand_Battle_Lines .mw-headline}
 
----
+  -------- ------- -------- -------- ----- -------- ------- ------- ------- ------- ------- ------ ------- ------- ------- -------
+  Year     Hq_Ty   HQ_ESE   Hq_Spd   Org   Morale   C_Inf   C_Art   C_Mot   C_SPA   C_Mec   C_AT   C_Eng   C_Mar   C_Mil   C_Arm
+  1936     0       2        0        50    40       -5      0       0       0       0       0      0       0       0       0
+  1937     0       2        0        50    40       -5      0       0       0       0       0      0       0       0       0
+  1938     1       3        1        50    70       -10     0       0       0       0       0      0       0       0       0
+  1939     1       3        1        50    70       -10     0       0       0       0       0      0       0       0       0
+  1940     1       4        1        60    80       -15     0       0       0       0       -5     0       0       0       0
+  1941     1       4        1        60    80       -15     0       0       0       0       -5     0       0       0       0
+  1946     3       4        1        60    80       -15     0       0       0       0       -5     0       0       0       0
+  France                                                                                                                   
+  1942     1       6        2        75    80       -20     -5      0       0       0       -10    -5      0       0       0
+  1943     1       6        2        75    80       -20     -5      0       0       0       -10    -5      0       0       0
+  1944     2       7        3        75    105      -20     -10     0       0       0       -10    -10     0       0       0
+  Japan                                                                                                                    
+  1942     1       6        2        70    130      -20     0       0       0       0       -10    0       -5      -10     5
+  1943     2       7        3        70    130      -20     0       0       0       0       -10    0       -10     -20     10
+  UK                                                                                                                       
+  1942     1       6        2        85    80       -10     0       -10     0       0       -10    0       0       0       0
+  1943     1       6        2        85    80       -10     0       -10     0       0       -10    0       0       0       0
+  1944     2       8        3        85    80       -10     0       -10     0       -10     -10    0       0       0       -10
+  -------- ------- -------- -------- ----- -------- ------- ------- ------- ------- ------- ------ ------- ------- ------- -------
 
-Year Hq_Ty HQ_ESE Hq_Spd Org Morale C_Inf C_Art C_Mot C_SPA C_Mec C_AT C_Eng C_Mar C_Mil C_Arm
-1936 0 2 0 50 40 -5 0 0 0 0 0 0 0 0 0
-1937 0 2 0 50 40 -5 0 0 0 0 0 0 0 0 0
-1938 1 3 1 50 70 -10 0 0 0 0 0 0 0 0 0
-1939 1 3 1 50 70 -10 0 0 0 0 0 0 0 0 0
-1940 1 4 1 60 80 -15 0 0 0 0 -5 0 0 0 0
-1941 1 4 1 60 80 -15 0 0 0 0 -5 0 0 0 0
-1946 3 4 1 60 80 -15 0 0 0 0 -5 0 0 0 0
-France  
- 1942 1 6 2 75 80 -20 -5 0 0 0 -10 -5 0 0 0
-1943 1 6 2 75 80 -20 -5 0 0 0 -10 -5 0 0 0
-1944 2 7 3 75 105 -20 -10 0 0 0 -10 -10 0 0 0
-Japan  
- 1942 1 6 2 70 130 -20 0 0 0 0 -10 0 -5 -10 5
-1943 2 7 3 70 130 -20 0 0 0 0 -10 0 -10 -20 10
-UK  
- 1942 1 6 2 85 80 -10 0 -10 0 0 -10 0 0 0 0
-1943 1 6 2 85 80 -10 0 -10 0 0 -10 0 0 0 0
-1944 2 8 3 85 80 -10 0 -10 0 -10 -10 0 0 0 -10
+### [ German Doctrine- Mobility-Spearhead ]{#German_Doctrine-_Mobility-Spearhead .mw-headline}
 
----
+  ------ ------- -------- -------- ----- -------- ------- ------- ------- ------- ------- ------ ------- ------- ------- ------- ------ ------
+  Year   Hq_Ty   HQ_ESE   Hq_Spd   Org   Morale   C_Inf   C_Art   C_Mot   C_SPA   C_Mec   C_AT   C_Eng   C_Mar   C_Mil   C_Arm   C_TD   C_LA
+  1936   0       0        1        50    30       0       0       0       0       0       0      0       0       0       0       0      0
+  1937   1       2        2        60    60       0       0       0       0       0       0      0       0       0       -10     0      -15
+  1938   1       3        3        70    80       0       0       0       0       0       0      0       0       0       -20     0      -20
+  1939   1       3        3        75    80       -5      -5      0       0       0       0      0       0       0       -20     0      -20
+  1940   1       4        3        80    80       -10     -10     0       0       0       0      0       0       0       -20     0      -20
+  1941   2       5        3        90    80       -10     -10     0       0       -5      0      0       0       0       -20     -5     -20
+  1942   2       5        3        90    80       -10     -10     0       0       -5      0      0       0       0       -20     -5     -20
+  1943   2       6        4        100   80       0       0       -10     -10     -15     0      0       0       0       -20     -15    -20
+  1947   2       6        4        105   80       0       0       -10     -10     -15     0      0       0       0       -20     -15    -20
+  ------ ------- -------- -------- ----- -------- ------- ------- ------- ------- ------- ------ ------- ------- ------- ------- ------ ------
 
-### [ German Doctrine- Mobility-Spearhead ]{#German_Doctrine-\_Mobility-Spearhead .mw-headline}
+### [ Soviet Doctrine- Mobility-Human wave ]{#Soviet_Doctrine-_Mobility-Human_wave .mw-headline}
 
----
-
-Year Hq_Ty HQ_ESE Hq_Spd Org Morale C_Inf C_Art C_Mot C_SPA C_Mec C_AT C_Eng C_Mar C_Mil C_Arm C_TD C_LA
-1936 0 0 1 50 30 0 0 0 0 0 0 0 0 0 0 0 0
-1937 1 2 2 60 60 0 0 0 0 0 0 0 0 0 -10 0 -15
-1938 1 3 3 70 80 0 0 0 0 0 0 0 0 0 -20 0 -20
-1939 1 3 3 75 80 -5 -5 0 0 0 0 0 0 0 -20 0 -20
-1940 1 4 3 80 80 -10 -10 0 0 0 0 0 0 0 -20 0 -20
-1941 2 5 3 90 80 -10 -10 0 0 -5 0 0 0 0 -20 -5 -20
-1942 2 5 3 90 80 -10 -10 0 0 -5 0 0 0 0 -20 -5 -20
-1943 2 6 4 100 80 0 0 -10 -10 -15 0 0 0 0 -20 -15 -20
-1947 2 6 4 105 80 0 0 -10 -10 -15 0 0 0 0 -20 -15 -20
-
----
-
-### [ Soviet Doctrine- Mobility-Human wave ]{#Soviet_Doctrine-\_Mobility-Human_wave .mw-headline}
-
----
-
-Year Hq_Ty HQ_ESE Hq_Spd Org Morale C_Inf C_Art C_Mot C_SPA C_Mec C_AT C_Eng C_Mar C_Mil C_Arm C_TD C_Cav
-1936 0 0 1 40 80 -5 0 0 0 0 0 0 0 0 0 0 -10
-1937 0 0 1 50 80 -10 0 0 0 0 0 0 0 0 0 0 -20
-1938 0 0 1 50 80 -10 0 0 0 0 0 0 0 0 0 0 -20
-1939 0 0 1 50 80 -15 0 0 0 0 0 0 0 -10 0 0 -20
-1940 1 1 1 50 100 -20 0 0 0 0 0 0 0 -20 0 0 -20
-1941 2 2 2 70 100 -20 0 -5 0 -5 -5 0 0 -15 0 0 -15
-1942 2 2 2 70 100 -20 0 -5 0 -5 -5 0 0 -15 0 0 -15
-1943 2 6 2 70 140 -10 0 -15 0 -15 -5 0 0 -5 -10 0 -5
-
----
+  ------ ------- -------- -------- ----- -------- ------- ------- ------- ------- ------- ------ ------- ------- ------- ------- ------ -------
+  Year   Hq_Ty   HQ_ESE   Hq_Spd   Org   Morale   C_Inf   C_Art   C_Mot   C_SPA   C_Mec   C_AT   C_Eng   C_Mar   C_Mil   C_Arm   C_TD   C_Cav
+  1936   0       0        1        40    80       -5      0       0       0       0       0      0       0       0       0       0      -10
+  1937   0       0        1        50    80       -10     0       0       0       0       0      0       0       0       0       0      -20
+  1938   0       0        1        50    80       -10     0       0       0       0       0      0       0       0       0       0      -20
+  1939   0       0        1        50    80       -15     0       0       0       0       0      0       0       -10     0       0      -20
+  1940   1       1        1        50    100      -20     0       0       0       0       0      0       0       -20     0       0      -20
+  1941   2       2        2        70    100      -20     0       -5      0       -5      -5     0       0       -15     0       0      -15
+  1942   2       2        2        70    100      -20     0       -5      0       -5      -5     0       0       -15     0       0      -15
+  1943   2       6        2        70    140      -10     0       -15     0       -15     -5     0       0       -5      -10     0      -5
+  ------ ------- -------- -------- ----- -------- ------- ------- ------- ------- ------- ------ ------- ------- ------- ------- ------ -------
 
 ### [ Comparison of final results ]{#Comparison_of_final_results .mw-headline}
 
@@ -344,18 +334,18 @@ brigade attached with full standing army slider).
 
 ## [ See also ]{#See_also .mw-headline}
 
-- [Combat Events](/wiki/Combat_Events "Combat Events") and the tables
-  therein.
-- A Doomsday thread has an useful alternative ranking of the various
-  land doctrines: [Thistletooth\'s
-  posting](http://forum.paradoxplaza.com/forum/showthread.php?t=309698){.external
-  .text rel="nofollow"}
-- [Land doctrine tech
-  tree](/wiki/Land_Doctrine_Tech_Tree "Land Doctrine Tech Tree")
+-   [Combat Events](/wiki/Combat_Events "Combat Events") and the tables
+    therein.
+-   A Doomsday thread has an useful alternative ranking of the various
+    land doctrines: [Thistletooth\'s
+    posting](http://forum.paradoxplaza.com/forum/showthread.php?t=309698){.external
+    .text rel="nofollow"}
+-   [Land doctrine tech
+    tree](/wiki/Land_Doctrine_Tech_Tree "Land Doctrine Tech Tree")
 
 ## [ Downloads ]{#Downloads .mw-headline}
 
-- [GAGA\'s land doctrine comparison
-  sheet](http://rapidshare.de/files/20735805/Land_Doctrines_1.3b.xls.html){.external
-  .text rel="nofollow"}
-  :::
+-   [GAGA\'s land doctrine comparison
+    sheet](http://rapidshare.de/files/20735805/Land_Doctrines_1.3b.xls.html){.external
+    .text rel="nofollow"}
+:::

@@ -1,7 +1,6 @@
 ---
 title: Nationalist_China
 ---
-
 ::: mw-parser-output
 ::: {.eu4box style="width:330px; height:auto; float:right; clear:right"}
 ::: heading
@@ -14,7 +13,7 @@ title: Nationalist_China
 [Major powers](/wiki/Major_power "Major power"){.mw-redirect}
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [France](/wiki/France "France")\
@@ -30,7 +29,7 @@ title: Nationalist_China
 Regional powers
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [Argentina](/wiki/Argentina "Argentina")\
@@ -58,7 +57,7 @@ Regional powers
 [Minor powers](/wiki/Minor_power "Minor power"){.mw-redirect}
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [Austria](/wiki/Austria "Austria")\
@@ -81,7 +80,7 @@ Regional powers
 [Micro powers](/wiki/Micro_power "Micro power"){.mw-redirect}
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [Afghanistan](/wiki/Afghanistan "Afghanistan")\
@@ -131,44 +130,49 @@ Arabia](/wiki/index.php?title=Saudi_Arabia&action=edit&redlink=1 "Saudi Arabia (
 
 ::: {#toc .toc aria-labelledby="mw-toc-heading" role="navigation"}
 ::: {.toctitle dir="ltr" lang="en"}
-
 ## Contents {#mw-toc-heading}
 
 [ ]{.toctogglespan}
 :::
 
-- [[ 1 ]{.tocnumber} [ Overview ]{.toctext}](#Overview)
-- [[ 2 ]{.tocnumber} [ Technology ]{.toctext}](#Technology)
-- [[ 3 ]{.tocnumber} [ Diplomacy ]{.toctext}](#Diplomacy)
-  - [[ 3.1 ]{.tocnumber} [ Alliances ]{.toctext}](#Alliances)
-  - [[ 3.2 ]{.tocnumber} [ Sliders ]{.toctext}](#Sliders)
-  - [[ 3.3 ]{.tocnumber} [ Ministers ]{.toctext}](#Ministers)
-- [[ 4 ]{.tocnumber} [ Intelligence ]{.toctext}](#Intelligence)
-- [[ 5 ]{.tocnumber} [ Economy ]{.toctext}](#Economy)
-  - [[ 5.1 ]{.tocnumber} [ Trading ]{.toctext}](#Trading)
-  - [[ 5.2 ]{.tocnumber} [ Industrial Production
-    ]{.toctext}](#Industrial_Production)
-- [[ 6 ]{.tocnumber} [ Military ]{.toctext}](#Military)
-  - [[ 6.1 ]{.tocnumber} [ Army ]{.toctext}](#Army)
-  - [[ 6.2 ]{.tocnumber} [ Navy ]{.toctext}](#Navy)
-  - [[ 6.3 ]{.tocnumber} [ Air Force ]{.toctext}](#Air_Force)
-- [[ 7 ]{.tocnumber} [ Events ]{.toctext}](#Events)
-  - [[ 7.1 ]{.tocnumber} [ The Xi\'an Incident
-    ]{.toctext}](#The_Xi.27an_Incident)
-  - [[ 7.2 ]{.tocnumber} [ Pitman Act ]{.toctext}](#Pitman_Act)
-  - [[ 7.3 ]{.tocnumber} [ Forging the United Front
-    ]{.toctext}](#Forging_the_United_Front)
-  - [[ 7.4 ]{.tocnumber} [ Transfer Industry to the Interior
-    ]{.toctext}](#Transfer_Industry_to_the_Interior)
-  - [[ 7.5 ]{.tocnumber} [ Operation Zet
-    ]{.toctext}](#Operation_Zet)
-  - [[ 7.6 ]{.tocnumber} [ Recall of German Mission
-    ]{.toctext}](#Recall_of_German_Mission)
-- [[ 8 ]{.tocnumber} [ War ]{.toctext}](#War) - [[ 8.1 ]{.tocnumber} [ Communist China
-  ]{.toctext}](#Communist_China) - [[ 8.2 ]{.tocnumber} [ Guangxi ]{.toctext}](#Guangxi) - [[ 8.3 ]{.tocnumber} [ Japan ]{.toctext}](#Japan) - [[ 8.3.1 ]{.tocnumber} [ The Fading Sun
-  ]{.toctext}](#The_Fading_Sun) - [[ 8.4 ]{.tocnumber} [ Civil War Resumes
-  ]{.toctext}](#Civil_War_Resumes) - [[ 8.5 ]{.tocnumber} [ USSR ]{.toctext}](#USSR)
-  :::
+-   [[ 1 ]{.tocnumber} [ Overview ]{.toctext}](#Overview)
+-   [[ 2 ]{.tocnumber} [ Technology ]{.toctext}](#Technology)
+-   [[ 3 ]{.tocnumber} [ Diplomacy ]{.toctext}](#Diplomacy)
+    -   [[ 3.1 ]{.tocnumber} [ Alliances ]{.toctext}](#Alliances)
+    -   [[ 3.2 ]{.tocnumber} [ Sliders ]{.toctext}](#Sliders)
+    -   [[ 3.3 ]{.tocnumber} [ Ministers ]{.toctext}](#Ministers)
+-   [[ 4 ]{.tocnumber} [ Intelligence ]{.toctext}](#Intelligence)
+-   [[ 5 ]{.tocnumber} [ Economy ]{.toctext}](#Economy)
+    -   [[ 5.1 ]{.tocnumber} [ Trading ]{.toctext}](#Trading)
+    -   [[ 5.2 ]{.tocnumber} [ Industrial Production
+        ]{.toctext}](#Industrial_Production)
+-   [[ 6 ]{.tocnumber} [ Military ]{.toctext}](#Military)
+    -   [[ 6.1 ]{.tocnumber} [ Army ]{.toctext}](#Army)
+    -   [[ 6.2 ]{.tocnumber} [ Navy ]{.toctext}](#Navy)
+    -   [[ 6.3 ]{.tocnumber} [ Air Force ]{.toctext}](#Air_Force)
+-   [[ 7 ]{.tocnumber} [ Events ]{.toctext}](#Events)
+    -   [[ 7.1 ]{.tocnumber} [ The Xi\'an Incident
+        ]{.toctext}](#The_Xi.27an_Incident)
+    -   [[ 7.2 ]{.tocnumber} [ Pitman Act ]{.toctext}](#Pitman_Act)
+    -   [[ 7.3 ]{.tocnumber} [ Forging the United Front
+        ]{.toctext}](#Forging_the_United_Front)
+    -   [[ 7.4 ]{.tocnumber} [ Transfer Industry to the Interior
+        ]{.toctext}](#Transfer_Industry_to_the_Interior)
+    -   [[ 7.5 ]{.tocnumber} [ Operation Zet
+        ]{.toctext}](#Operation_Zet)
+    -   [[ 7.6 ]{.tocnumber} [ Recall of German Mission
+        ]{.toctext}](#Recall_of_German_Mission)
+-   [[ 8 ]{.tocnumber} [ War ]{.toctext}](#War)
+    -   [[ 8.1 ]{.tocnumber} [ Communist China
+        ]{.toctext}](#Communist_China)
+    -   [[ 8.2 ]{.tocnumber} [ Guangxi ]{.toctext}](#Guangxi)
+    -   [[ 8.3 ]{.tocnumber} [ Japan ]{.toctext}](#Japan)
+        -   [[ 8.3.1 ]{.tocnumber} [ The Fading Sun
+            ]{.toctext}](#The_Fading_Sun)
+    -   [[ 8.4 ]{.tocnumber} [ Civil War Resumes
+        ]{.toctext}](#Civil_War_Resumes)
+    -   [[ 8.5 ]{.tocnumber} [ USSR ]{.toctext}](#USSR)
+:::
 
 ## [ Overview ]{#Overview .mw-headline}
 
@@ -182,22 +186,22 @@ should consider using the
 [China_Improvement_Pack](/wiki/China_Improvement_Pack "China Improvement Pack")
 .
 
-- **Advantages**
-  - High Manpower
-  - High IC
-  - Large army, with more easily acquired
-  - Large land mass
-  - Powerful friends
-  - Good sliders
-- **Disadvantages**
-  - Lacks resources
-  - Bad techteams
-  - Bad starting technology
-  - Little space to conquer
-  - Bad leaders
-  - Bad ministers
-  - High initial dissent
-  - Powerful enemies
+-   **Advantages**
+    -   High Manpower
+    -   High IC
+    -   Large army, with more easily acquired
+    -   Large land mass
+    -   Powerful friends
+    -   Good sliders
+-   **Disadvantages**
+    -   Lacks resources
+    -   Bad techteams
+    -   Bad starting technology
+    -   Little space to conquer
+    -   Bad leaders
+    -   Bad ministers
+    -   High initial dissent
+    -   Powerful enemies
 
 ## [ Technology ]{#Technology .mw-headline}
 
@@ -249,21 +253,21 @@ The free slider moves China receives depend on selections made during
 events. Assuming historical events, by 1937, China will receive the
 following:
 
-- 4 Hawk moves (Pitman Act, Marco Polo Bridge Incident, Transfer
-  Industry, Operation Zet)
-- 2 Interventionism moves (Make promises, Forge United Front)
-- 1 Open Society move (Make promises, Forge United Front, less the
-  Marco Polo Bridge incident)
-- 2 Democratic, and 1 Political Left moves (Make Promises, Forge
-  United Front).
+-   4 Hawk moves (Pitman Act, Marco Polo Bridge Incident, Transfer
+    Industry, Operation Zet)
+-   2 Interventionism moves (Make promises, Forge United Front)
+-   1 Open Society move (Make promises, Forge United Front, less the
+    Marco Polo Bridge incident)
+-   2 Democratic, and 1 Political Left moves (Make Promises, Forge
+    United Front).
 
 For ideological reasons, China cannot move to maximum Free Market, but
 receives considerable benefits from the current position. It is however
 fairly easy to maximize Free Market:
 
-- In 1936 and 1937, make shifts to Democratic (creating the Market
-  Liberal government).
-- In 1938, maximize Free Market.
+-   In 1936 and 1937, make shifts to Democratic (creating the Market
+    Liberal government).
+-   In 1938, maximize Free Market.
 
 ### [ Ministers ]{#Ministers .mw-headline}
 
@@ -322,18 +326,18 @@ Nationalist China has a large number of events.
 On March 30, 1936 (the date may vary), Nationalist China will have a
 very important event:
 
-- Make Promises and Hedge Bets: Make peace with Communist China,
-  returning to regular borders. Dissent lowers by -5%, democracy
-  slider moves 1, interventionism moves 1, and open society moves 1.
-  Relations with all neighbors improve.
-- Arrest the Traitors: The United Front will never forge, and the war
-  with the Communists continues. Dissent climbs by 10%. Isolationism
-  adds 1, political right 1, and open society moves 2. Nationalist
-  China will become Fascist. Additionally, wars with neighboring
-  states is increasingly likely, particularly Tibet.
-- Forge the United Front : Dissent climbs by 15%. Alliance with all
-  neighbors. Sliders: 2 to democracy, 1 to political left, 1 to
-  central planning, 2 to interventionism, 2 to open society.
+-   Make Promises and Hedge Bets: Make peace with Communist China,
+    returning to regular borders. Dissent lowers by -5%, democracy
+    slider moves 1, interventionism moves 1, and open society moves 1.
+    Relations with all neighbors improve.
+-   Arrest the Traitors: The United Front will never forge, and the war
+    with the Communists continues. Dissent climbs by 10%. Isolationism
+    adds 1, political right 1, and open society moves 2. Nationalist
+    China will become Fascist. Additionally, wars with neighboring
+    states is increasingly likely, particularly Tibet.
+-   Forge the United Front : Dissent climbs by 15%. Alliance with all
+    neighbors. Sliders: 2 to democracy, 1 to political left, 1 to
+    central planning, 2 to interventionism, 2 to open society.
 
 Based on dissent and slider moves, making promises and hedging bets is
 the best move. While early war may be a preferred strategy by some
@@ -355,11 +359,11 @@ If Nationalist China follows historical events and does not engage in
 early war mongering, days after the Japanese declaration of war, this
 event will fire:
 
-- Forge the United Front: 1 move to interventionism, 1 move to
-  democratic, 1 move to left, 1 move to open society. -5% dissent.
-  Alliance with all neighbors.
-- We do not need them: 1 move to isolationism, 1 move to Right, 1 move
-  to closed society. +5% dissent.
+-   Forge the United Front: 1 move to interventionism, 1 move to
+    democratic, 1 move to left, 1 move to open society. -5% dissent.
+    Alliance with all neighbors.
+-   We do not need them: 1 move to isolationism, 1 move to Right, 1 move
+    to closed society. +5% dissent.
 
 The United Front allows Nationalist China to gain military control over
 her neighbors, in order to better deploy their forces.
@@ -407,24 +411,24 @@ event.
 ### [ Guangxi ]{#Guangxi .mw-headline}
 
 In the summer of 1936, the Guangxi Clique will declare war on
-Nationalist China _assuming_ China did not forge the united front in the
+Nationalist China *assuming* China did not forge the united front in the
 Xi\'an incident. Making significant gains against them is not difficult,
 so long as the entire Chinese army is dedicated to the war effort, and
 1936 infantry has been researched and upgraded. After a few victories,
 offering peace through an event is possible, and China has two options:
 
-- Offer Peace: Includes the secession of many key Guangxi provinces.
-  The secession of territories will provide enough new IC for a fourth
-  research slot.
-- Continue war: This will ensure that some of the other Chinese
-  warlords join their Guangxi side, which is beneficial in terms of
-  being able to annex all warlords without independent declarations of
-  war. This will, however, ensure a very early declaration of war from
-  Japan. Also, the far away Sinkiang is likely to join the war, which
-  would take many months to simply reach with ground troops, let alone
-  annex. Shanxi will typically side with Guanxi Clique (as it did in
-  the Central Plains War) while Yunnan and Sinkiang could go either
-  way. Sinkiang will also sometimes ally with Japan.
+-   Offer Peace: Includes the secession of many key Guangxi provinces.
+    The secession of territories will provide enough new IC for a fourth
+    research slot.
+-   Continue war: This will ensure that some of the other Chinese
+    warlords join their Guangxi side, which is beneficial in terms of
+    being able to annex all warlords without independent declarations of
+    war. This will, however, ensure a very early declaration of war from
+    Japan. Also, the far away Sinkiang is likely to join the war, which
+    would take many months to simply reach with ground troops, let alone
+    annex. Shanxi will typically side with Guanxi Clique (as it did in
+    the Central Plains War) while Yunnan and Sinkiang could go either
+    way. Sinkiang will also sometimes ally with Japan.
 
 ### [ Japan ]{#Japan .mw-headline}
 
@@ -489,18 +493,18 @@ and aerial doctrine research team - things that you could really use.
 Also you can change your ministers at will and erase the resulting
 dissent with the \"fading sun\". These are your options:
 
-- Humiliate the Japanese: Reduces dissent by -20%. War with Japan will
-  end, and Korea will be liberated as a Chinese puppet. Ironically,
-  Korea will start off with several technology advancements, and will
-  offer blueprints. All Japanese territories on the mainland will
-  become Chinese. The war with Siam continues, but they will offer a
-  separate peace. Japan will suffer a coup that transforms their
-  government into Left-Wing Radical.
-- Total Victory: Causes 5% dissent, the war will continue as normal.
+-   Humiliate the Japanese: Reduces dissent by -20%. War with Japan will
+    end, and Korea will be liberated as a Chinese puppet. Ironically,
+    Korea will start off with several technology advancements, and will
+    offer blueprints. All Japanese territories on the mainland will
+    become Chinese. The war with Siam continues, but they will offer a
+    separate peace. Japan will suffer a coup that transforms their
+    government into Left-Wing Radical.
+-   Total Victory: Causes 5% dissent, the war will continue as normal.
 
 ### [ Civil War Resumes ]{#Civil_War_Resumes .mw-headline}
 
-The Chinese Civil War will return, by event, _only if_ the Japanese were
+The Chinese Civil War will return, by event, *only if* the Japanese were
 defeated on their homeland by the Allies and/or USSR. The Fading Sun
 event, in itself, will not cause a return of the Chinese Civil War.
 Technically, Japan must receive event 43, and then become a USA puppet

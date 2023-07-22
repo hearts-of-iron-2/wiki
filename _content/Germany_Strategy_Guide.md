@@ -1,29 +1,28 @@
 ---
 title: Germany_Strategy_Guide
 ---
-
 ::: mw-parser-output
 +-----------------------------------+-----------------------------------+
-| ::: {style="width: 52px;"} | _ |
-| ![Merge-arrows.gif](https://centr | _[This](https://hoi2.paradoxwikis |
+| ::: {style="width: 52px;"}        | *                                 |
+| ![Merge-arrows.gif](https://centr | *[This](https://hoi2.paradoxwikis |
 | al.paradoxwikis.com/images/8/8b/M | .com/index.php?title=Germany_Stra |
 | erge-arrows.gif){file-height="20" | tegy_Guide&action=edit){.external |
-| file-width="50" | .text rel="nofollow"} article is |
-| u | a candidate to be |
-| rl="https://central.paradoxwikis. | [merged](/wiki |
+| file-width="50"                   | .text rel="nofollow"} article is  |
+| u                                 | a candidate to be                 |
+| rl="https://central.paradoxwikis. | [merged](/wiki                    |
 | com/images/8/8b/Merge-arrows.gif" | /Template:Merge "Template:Merge") |
-| decoding="async" height="20" | with |
-| loading="lazy" width="50"} | [ |
-| ::: | Germany](/wiki/Germany "Germany") |
-| | .\*\*\ |
-| | [Please help to improve the wiki |
-| | by taking part in the |
-| | [discussion |
-| | ](/wiki/index.php?title=Talk:Germ |
-| | any_Strategy_Guide&action=edit&re |
-| | dlink=1 "Talk:Germany Strategy Gu |
-| | ide (page does not exist)"){.new} |
-| | of the proposed merger.]{.small} |
+| decoding="async" height="20"      | with                              |
+| loading="lazy" width="50"}        | [                                 |
+| :::                               | Germany](/wiki/Germany "Germany") |
+|                                   | .**\                              |
+|                                   | [Please help to improve the wiki  |
+|                                   | by taking part in the             |
+|                                   | [discussion                       |
+|                                   | ](/wiki/index.php?title=Talk:Germ |
+|                                   | any_Strategy_Guide&action=edit&re |
+|                                   | dlink=1 "Talk:Germany Strategy Gu |
+|                                   | ide (page does not exist)"){.new} |
+|                                   | of the proposed merger.]{.small}  |
 +-----------------------------------+-----------------------------------+
 
 [File:Ger-topbar.JPG](/wiki/index.php?title=Special:Upload&wpDestFile=Ger-topbar.JPG "File:Ger-topbar.JPG"){.new}
@@ -39,7 +38,7 @@ title: Germany_Strategy_Guide
 [Major powers](/wiki/Major_power "Major power"){.mw-redirect}
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [France](/wiki/France "France")\
@@ -55,7 +54,7 @@ title: Germany_Strategy_Guide
 Regional powers
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [Argentina](/wiki/Argentina "Argentina")\
@@ -83,7 +82,7 @@ Regional powers
 [Minor powers](/wiki/Minor_power "Minor power"){.mw-redirect}
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [Austria](/wiki/Austria "Austria")\
@@ -106,7 +105,7 @@ Regional powers
 [Micro powers](/wiki/Micro_power "Micro power"){.mw-redirect}
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [Afghanistan](/wiki/Afghanistan "Afghanistan")\
@@ -158,78 +157,77 @@ Arabia](/wiki/index.php?title=Saudi_Arabia&action=edit&redlink=1 "Saudi Arabia (
 
 ::: {#toc .toc aria-labelledby="mw-toc-heading" role="navigation"}
 ::: {.toctitle dir="ltr" lang="en"}
-
 ## Contents {#mw-toc-heading}
 
 [ ]{.toctogglespan}
 :::
 
-- [[ 1 ]{.tocnumber} [ Overview ]{.toctext}](#Overview)
-- [[ 2 ]{.tocnumber} [ Technology ]{.toctext}](#Technology)
-- [[ 3 ]{.tocnumber} [ Diplomacy ]{.toctext}](#Diplomacy)
-  - [[ 3.1 ]{.tocnumber} [ Alliances ]{.toctext}](#Alliances)
-  - [[ 3.2 ]{.tocnumber} [ Sliders ]{.toctext}](#Sliders)
-  - [[ 3.3 ]{.tocnumber} [ Ministers ]{.toctext}](#Ministers)
-- [[ 4 ]{.tocnumber} [ Intelligence ]{.toctext}](#Intelligence)
-- [[ 5 ]{.tocnumber} [ Economy ]{.toctext}](#Economy)
-  - [[ 5.1 ]{.tocnumber} [ Trading ]{.toctext}](#Trading)
-  - [[ 5.2 ]{.tocnumber} [ Industrial Production
-    ]{.toctext}](#Industrial_Production)
-- [[ 6 ]{.tocnumber} [ Military ]{.toctext}](#Military)
-  - [[ 6.1 ]{.tocnumber} [ Army ]{.toctext}](#Army)
-  - [[ 6.2 ]{.tocnumber} [ Navy ]{.toctext}](#Navy)
-  - [[ 6.3 ]{.tocnumber} [ Air Force ]{.toctext}](#Air_Force)
-- [[ 7 ]{.tocnumber} [ Events ]{.toctext}](#Events)
-- [[ 8 ]{.tocnumber} [ War ]{.toctext}](#War)
-  - [[ 8.1 ]{.tocnumber} [ Condor Legion: Spanish Civil War
-    ]{.toctext}](#Condor_Legion:_Spanish_Civil_War)
-  - [[ 8.2 ]{.tocnumber} [ Fall Grün: Czechoslovakia
-    ]{.toctext}](#Fall_Gr.C3.BCn:_Czechoslovakia)
-  - [[ 8.3 ]{.tocnumber} [ Fall Weiß: Poland
-    ]{.toctext}](#Fall_Wei.C3.9F:_Poland)
-  - [[ 8.4 ]{.tocnumber} [ Fall Gelb: France
-    ]{.toctext}](#Fall_Gelb:_France)
-  - [[ 8.5 ]{.tocnumber} [ Weserübung: Denmark and Norway
-    ]{.toctext}](#Weser.C3.BCbung:_Denmark_and_Norway)
-  - [[ 8.6 ]{.tocnumber} [ Directive 25: Yugoslavia, and Operation
-    Marita: Greece
-    ]{.toctext}](#Directive_25:_Yugoslavia.2C_and_Operation_Marita:_Greece)
-  - [[ 8.7 ]{.tocnumber} [ Operation Barbarossa: Taming the Bear
-    ]{.toctext}](#Operation_Barbarossa:_Taming_the_Bear)
-    - [[ 8.7.1 ]{.tocnumber} [ The Bitter Peace
-      ]{.toctext}](#The_Bitter_Peace)
-    - [[ 8.7.2 ]{.tocnumber} [ The Bitter Peace in Doomsday
-      ]{.toctext}](#The_Bitter_Peace_in_Doomsday)
-    - [[ 8.7.3 ]{.tocnumber} [ puppet states
-      ]{.toctext}](#puppet_states)
-  - [[ 8.8 ]{.tocnumber} [ Gibraltar ]{.toctext}](#Gibraltar)
-  - [[ 8.9 ]{.tocnumber} [ Reaching Africa
-    ]{.toctext}](#Reaching_Africa)
-  - [[ 8.10 ]{.tocnumber} [ Operation Seelöwe: Great Britain
-    ]{.toctext}](#Operation_Seel.C3.B6we:_Great_Britain)
-  - [[ 8.11 ]{.tocnumber} [ Made in India
-    ]{.toctext}](#Made_in_India)
-  - [[ 8.12 ]{.tocnumber} [ USA ]{.toctext}](#USA)
-  - [[ 8.13 ]{.tocnumber} [ What\'s next?
-    ]{.toctext}](#What.27s_next.3F)
-- [[ 9 ]{.tocnumber} [ Miscellaneous ]{.toctext}](#Miscellaneous)
-  - [[ 9.1 ]{.tocnumber} [ Advantages ]{.toctext}](#Advantages)
-  - [[ 9.2 ]{.tocnumber} [ Disadvantages
-    ]{.toctext}](#Disadvantages)
-- [[ 10 ]{.tocnumber} [ Gamey Tactics ]{.toctext}](#Gamey_Tactics)
-  - [[ 10.1 ]{.tocnumber} [ Germanic Ireland: Totally Optional
-    ]{.toctext}](#Germanic_Ireland:_Totally_Optional)
-  - [[ 10.2 ]{.tocnumber} [ The Unholy Alliance
-    ]{.toctext}](#The_Unholy_Alliance)
-- [[ 11 ]{.tocnumber} [ Germany multiplayer strategy
-  ]{.toctext}](#Germany_multiplayer_strategy)
-  - [[ 11.1 ]{.tocnumber} [ Prolog ]{.toctext}](#Prolog)
-  - [[ 11.2 ]{.tocnumber} [ Blitzkrieg ]{.toctext}](#Blitzkrieg)
-- [[ 12 ]{.tocnumber} [ Year 1939 --40 Invading Poland and France
-  ]{.toctext}](#Year_1939_.E2.80.9340_Invading_Poland_and_France)
-- [[ 13 ]{.tocnumber} [ Year 1941 -- Operation Barbarossa
-  ]{.toctext}](#Year_1941_.E2.80.93_Operation_Barbarossa)
-  :::
+-   [[ 1 ]{.tocnumber} [ Overview ]{.toctext}](#Overview)
+-   [[ 2 ]{.tocnumber} [ Technology ]{.toctext}](#Technology)
+-   [[ 3 ]{.tocnumber} [ Diplomacy ]{.toctext}](#Diplomacy)
+    -   [[ 3.1 ]{.tocnumber} [ Alliances ]{.toctext}](#Alliances)
+    -   [[ 3.2 ]{.tocnumber} [ Sliders ]{.toctext}](#Sliders)
+    -   [[ 3.3 ]{.tocnumber} [ Ministers ]{.toctext}](#Ministers)
+-   [[ 4 ]{.tocnumber} [ Intelligence ]{.toctext}](#Intelligence)
+-   [[ 5 ]{.tocnumber} [ Economy ]{.toctext}](#Economy)
+    -   [[ 5.1 ]{.tocnumber} [ Trading ]{.toctext}](#Trading)
+    -   [[ 5.2 ]{.tocnumber} [ Industrial Production
+        ]{.toctext}](#Industrial_Production)
+-   [[ 6 ]{.tocnumber} [ Military ]{.toctext}](#Military)
+    -   [[ 6.1 ]{.tocnumber} [ Army ]{.toctext}](#Army)
+    -   [[ 6.2 ]{.tocnumber} [ Navy ]{.toctext}](#Navy)
+    -   [[ 6.3 ]{.tocnumber} [ Air Force ]{.toctext}](#Air_Force)
+-   [[ 7 ]{.tocnumber} [ Events ]{.toctext}](#Events)
+-   [[ 8 ]{.tocnumber} [ War ]{.toctext}](#War)
+    -   [[ 8.1 ]{.tocnumber} [ Condor Legion: Spanish Civil War
+        ]{.toctext}](#Condor_Legion:_Spanish_Civil_War)
+    -   [[ 8.2 ]{.tocnumber} [ Fall Grün: Czechoslovakia
+        ]{.toctext}](#Fall_Gr.C3.BCn:_Czechoslovakia)
+    -   [[ 8.3 ]{.tocnumber} [ Fall Weiß: Poland
+        ]{.toctext}](#Fall_Wei.C3.9F:_Poland)
+    -   [[ 8.4 ]{.tocnumber} [ Fall Gelb: France
+        ]{.toctext}](#Fall_Gelb:_France)
+    -   [[ 8.5 ]{.tocnumber} [ Weserübung: Denmark and Norway
+        ]{.toctext}](#Weser.C3.BCbung:_Denmark_and_Norway)
+    -   [[ 8.6 ]{.tocnumber} [ Directive 25: Yugoslavia, and Operation
+        Marita: Greece
+        ]{.toctext}](#Directive_25:_Yugoslavia.2C_and_Operation_Marita:_Greece)
+    -   [[ 8.7 ]{.tocnumber} [ Operation Barbarossa: Taming the Bear
+        ]{.toctext}](#Operation_Barbarossa:_Taming_the_Bear)
+        -   [[ 8.7.1 ]{.tocnumber} [ The Bitter Peace
+            ]{.toctext}](#The_Bitter_Peace)
+        -   [[ 8.7.2 ]{.tocnumber} [ The Bitter Peace in Doomsday
+            ]{.toctext}](#The_Bitter_Peace_in_Doomsday)
+        -   [[ 8.7.3 ]{.tocnumber} [ puppet states
+            ]{.toctext}](#puppet_states)
+    -   [[ 8.8 ]{.tocnumber} [ Gibraltar ]{.toctext}](#Gibraltar)
+    -   [[ 8.9 ]{.tocnumber} [ Reaching Africa
+        ]{.toctext}](#Reaching_Africa)
+    -   [[ 8.10 ]{.tocnumber} [ Operation Seelöwe: Great Britain
+        ]{.toctext}](#Operation_Seel.C3.B6we:_Great_Britain)
+    -   [[ 8.11 ]{.tocnumber} [ Made in India
+        ]{.toctext}](#Made_in_India)
+    -   [[ 8.12 ]{.tocnumber} [ USA ]{.toctext}](#USA)
+    -   [[ 8.13 ]{.tocnumber} [ What\'s next?
+        ]{.toctext}](#What.27s_next.3F)
+-   [[ 9 ]{.tocnumber} [ Miscellaneous ]{.toctext}](#Miscellaneous)
+    -   [[ 9.1 ]{.tocnumber} [ Advantages ]{.toctext}](#Advantages)
+    -   [[ 9.2 ]{.tocnumber} [ Disadvantages
+        ]{.toctext}](#Disadvantages)
+-   [[ 10 ]{.tocnumber} [ Gamey Tactics ]{.toctext}](#Gamey_Tactics)
+    -   [[ 10.1 ]{.tocnumber} [ Germanic Ireland: Totally Optional
+        ]{.toctext}](#Germanic_Ireland:_Totally_Optional)
+    -   [[ 10.2 ]{.tocnumber} [ The Unholy Alliance
+        ]{.toctext}](#The_Unholy_Alliance)
+-   [[ 11 ]{.tocnumber} [ Germany multiplayer strategy
+    ]{.toctext}](#Germany_multiplayer_strategy)
+    -   [[ 11.1 ]{.tocnumber} [ Prolog ]{.toctext}](#Prolog)
+    -   [[ 11.2 ]{.tocnumber} [ Blitzkrieg ]{.toctext}](#Blitzkrieg)
+-   [[ 12 ]{.tocnumber} [ Year 1939 --40 Invading Poland and France
+    ]{.toctext}](#Year_1939_.E2.80.9340_Invading_Poland_and_France)
+-   [[ 13 ]{.tocnumber} [ Year 1941 -- Operation Barbarossa
+    ]{.toctext}](#Year_1941_.E2.80.93_Operation_Barbarossa)
+:::
 
 ## [ Overview ]{#Overview .mw-headline}
 
@@ -257,7 +255,7 @@ Germany has the best research teams in the game which allows Germany to
 be considerably far ahead of all her rivals in research. For example,
 assuming Germany ignores Tank Destroyers and Anti-Tank Artillery
 (considered worthless units in game), by May, 1937, it is possible for
-Germany to have researched _every_ 1936 and 1937 technology. By January
+Germany to have researched *every* 1936 and 1937 technology. By January
 1, 1939, Germany is capable of having researched every 1938 technology
 as well, with the only exception being aircraft carriers, which are not
 commonly used as Germany. Advanced players may take different routes,
@@ -275,9 +273,9 @@ Germany with the exception of Radar.
 Three tech-teams should be put on the following Industrial Research at
 start:
 
-- Basic Machine Tools
-- Agrichemistry
-- Basic Computing Machine
+-   Basic Machine Tools
+-   Agrichemistry
+-   Basic Computing Machine
 
 **Infantry & Armor** Infantry and Supply are the most important research
 topics here. Mountaineers are helpful in winter fighting, and marines
@@ -319,18 +317,18 @@ costs involved in influencing nations. Generally, the most strategically
 important allies from the below list are Nationalist Spain and Turkey.
 
 +-----------------------------------+-----------------------------------+
-| Reasonable chance (above 10% at | Low chance (below 10% at 200 |
-| 200 relations): | relations): |
-| | |
-| - Nationalist Spain (during | - Persia |
-| Spanish Civil War) | - Venezuela |
-| - Portugal | - Peru |
-| - Argentina | - Guatemala |
-| - Turkey (before 11/1938) | - Siam |
-| - Yugoslavia | |
-| - Japan | |
-| - Greece | |
-| - Afghanistan | |
+| Reasonable chance (above 10% at   | Low chance (below 10% at 200      |
+| 200 relations):                   | relations):                       |
+|                                   |                                   |
+| -   Nationalist Spain (during     | -   Persia                        |
+|     Spanish Civil War)            | -   Venezuela                     |
+| -   Portugal                      | -   Peru                          |
+| -   Argentina                     | -   Guatemala                     |
+| -   Turkey (before 11/1938)       | -   Siam                          |
+| -   Yugoslavia                    |                                   |
+| -   Japan                         |                                   |
+| -   Greece                        |                                   |
+| -   Afghanistan                   |                                   |
 +-----------------------------------+-----------------------------------+
 
 ### [ Sliders ]{#Sliders .mw-headline}
@@ -377,18 +375,18 @@ Blomberg, will improve the supply and TC situation.
 
 For Naval Minister, the best pick depends on the naval policy:
 
-- **Decisive Naval Battle** is best for conventional [Surface Action
-  Groups](/wiki/Surface_Action_Group "Surface Action Group") and
-  [Cruizerg](/wiki/Surface_Action_Group#Cruizergs "Surface Action Group")
-  fleets, but hurts carriers, available at start.
-- **Open Seas** is best for convoy defense, but makes subs more
-  vulnerable, available at start.
-- **Indirect Approach** makes subs and BCs hit harder, but makes
-  transports and destroyers more expensive, available from 1939.
-- **Base Control** makes marines, transports and destroyers cheaper,
-  but also makes cruisers more expensive and hurts the offensive power
-  of BBs and BCs, available from 1940.
-- **Power Projection** is not available for Germany.
+-   **Decisive Naval Battle** is best for conventional [Surface Action
+    Groups](/wiki/Surface_Action_Group "Surface Action Group") and
+    [Cruizerg](/wiki/Surface_Action_Group#Cruizergs "Surface Action Group")
+    fleets, but hurts carriers, available at start.
+-   **Open Seas** is best for convoy defense, but makes subs more
+    vulnerable, available at start.
+-   **Indirect Approach** makes subs and BCs hit harder, but makes
+    transports and destroyers more expensive, available from 1939.
+-   **Base Control** makes marines, transports and destroyers cheaper,
+    but also makes cruisers more expensive and hurts the offensive power
+    of BBs and BCs, available from 1940.
+-   **Power Projection** is not available for Germany.
 
 For Air Force, **Army Aviation** and **Air Superiority** are both good
 choices, but the NAV construction penalty with Air Superiority makes
@@ -396,7 +394,8 @@ Army Aviation a better pick. Both are available at start. Access to a
 **Carpet Bombing** minister is gained in 1939 - which may be useful if a
 long strategic bombing campaign against UK is planned. However this
 requires research in relevant aircrafts and doctrines. **Vertical
-Envenlopment** and **Naval Aviation** ministers are gained in 1944 and 1945.
+Envenlopment** and **Naval Aviation** ministers are gained in 1944 and
+1945.
 
 See also a complete list of [German
 Ministers](/wiki/German_Ministers "German Ministers") .
@@ -422,16 +421,16 @@ should secure those resources, and preferably build large stockpiles. To
 some extent, Germany can trade excess energy for supplies, which helps
 redirect IC elsewhere. Germany\'s strongest trading partners:
 
-- Soviet Union: trade energy, supplies, and cash for metal and rare
-  materials
-- Romania: Will trade supplies and oil for energy.
-- Italy, Bulgaria, Finland, Switzerland: Will trade supplies for
-  energy
-- Brazil: get some rare materials in exchange for energy and/or some
-  supplies.
-- Venezuela: offers a lot precious oil in exchange for supplies.
-- Nationalist China will trade a small amount of oil for supplies,
-  while Japan may trade metals and rares for oil.
+-   Soviet Union: trade energy, supplies, and cash for metal and rare
+    materials
+-   Romania: Will trade supplies and oil for energy.
+-   Italy, Bulgaria, Finland, Switzerland: Will trade supplies for
+    energy
+-   Brazil: get some rare materials in exchange for energy and/or some
+    supplies.
+-   Venezuela: offers a lot precious oil in exchange for supplies.
+-   Nationalist China will trade a small amount of oil for supplies,
+    while Japan may trade metals and rares for oil.
 
 ### [ Industrial Production ]{#Industrial_Production .mw-headline}
 
@@ -458,7 +457,7 @@ militia and 5 infantry. Ideally, around 75% of the German Army should
 consist of infantry/militia before the onset of Barbarossa, with the
 remaining 25% being tanks and motorized infantry. Building too many
 tanks is a common mistake for new players, due to high fuel/supply costs
-and TC load. Unless, of course, you are playing _very_ historical and
+and TC load. Unless, of course, you are playing *very* historical and
 seek to emulate the failures of Germany! As a general rule, Germany may
 have oil shortages (exacerbated with a heavy emphasis on vehicles), and
 will definitely have TC problems as the invasion of the Soviet Union
@@ -470,23 +469,23 @@ Reading](http://forum.paradoxplaza.com/forum/showthread.php?t=346656){.external
 
 The German Navy (Kriegsmarine) has two practical/realistic options:
 
-- Limited Navy: This is the historical route of building U-boats
-  en-mass (the 1938 submarine is a key component). Submarines can be
-  used (in DD) for very successful convoy raiding on England. Doing
-  this will simply hurt England\'s military overseas (Africa and
-  India). In some sense, this is not a very important strategic goal
-  for Germany, even though convoy raiding can be very successful (see
-  Blue Emu\'s \"Are Submarines Worthless\" thread). In ARMA submarines
-  are more powerful, and when serving in large wolf packs (30 sub
-  stacks), they can seriously damage nearly any opposing fleet.
-- Surface Fleet: Germany can abandon the [Sealane
-  Interdiction](/wiki/Sealane_Interdiction "Sealane Interdiction")
-  doctrine favored by submarines, and go for the
-  [Fleet-in-Being](/wiki/Fleet-in-Being "Fleet-in-Being"){.mw-redirect}
-  doctrine. On this route, Germany can build Battleships (SHBB & BB)
-  and use destroyers as screens. This requires considerable time and
-  investment, but when combined with light carriers, Germany will be a
-  formidable Naval power.
+-   Limited Navy: This is the historical route of building U-boats
+    en-mass (the 1938 submarine is a key component). Submarines can be
+    used (in DD) for very successful convoy raiding on England. Doing
+    this will simply hurt England\'s military overseas (Africa and
+    India). In some sense, this is not a very important strategic goal
+    for Germany, even though convoy raiding can be very successful (see
+    Blue Emu\'s \"Are Submarines Worthless\" thread). In ARMA submarines
+    are more powerful, and when serving in large wolf packs (30 sub
+    stacks), they can seriously damage nearly any opposing fleet.
+-   Surface Fleet: Germany can abandon the [Sealane
+    Interdiction](/wiki/Sealane_Interdiction "Sealane Interdiction")
+    doctrine favored by submarines, and go for the
+    [Fleet-in-Being](/wiki/Fleet-in-Being "Fleet-in-Being"){.mw-redirect}
+    doctrine. On this route, Germany can build Battleships (SHBB & BB)
+    and use destroyers as screens. This requires considerable time and
+    investment, but when combined with light carriers, Germany will be a
+    formidable Naval power.
 
 ### [ Air Force ]{#Air_Force .mw-headline}
 
@@ -517,7 +516,7 @@ At the very start of the scenario, you need to move at least one ground
 unit to Cologne. This will trigger an event called \"Re-Occuptation of
 the Rhineland\" which will give:
 
-- +1 Hawk Lobby
+-   +1 Hawk Lobby
 
 If you dont trigger this event, you will recieve \"Great War
 Manifestation\" events that give you +3 dissent until you move a unit
@@ -528,45 +527,45 @@ starts, just march in there.
 
 March 1938: Assuming you make the historical choice and the AI accepts:
 
-- Annex Austria
-- +1 Authoritarianism
-- +1 Hawk Lobby (occurs when Austria accepts, not in original event)
+-   Annex Austria
+-   +1 Authoritarianism
+-   +1 Hawk Lobby (occurs when Austria accepts, not in original event)
 
 **Treaty of Munich:**
 
 September 29th, 1938: Assuming you make the historical choice and the AI
 accepts:
 
-- Annex Sudetenland
-- +1 Hawk Lobby
-- +3 Interventionism
-- +1 Hawk Lobby (occurs when Czech accepts, not in original event)
+-   Annex Sudetenland
+-   +1 Hawk Lobby
+-   +3 Interventionism
+-   +1 Hawk Lobby (occurs when Czech accepts, not in original event)
 
 **The End of Czechoslovakia:**
 
 March 14th, 1939: Assuming you make the historical choice and the AI
 accepts:
 
-- Annex Czechoslovakia
-- Create puppet Slovakia OR give territory to Hungary and they join
-  Axis
-- +1 Interventionism
-- +1 Hawk Lobby (occurs when Czech accepts, not in original event)
+-   Annex Czechoslovakia
+-   Create puppet Slovakia OR give territory to Hungary and they join
+    Axis
+-   +1 Interventionism
+-   +1 Hawk Lobby (occurs when Czech accepts, not in original event)
 
 **Claiming Memel:**
 
 March 23rd, 1939: Assuming you make the historical choice and the AI
 accepts:
 
-- Lithuania cedes Memel province
-- +1 Interventionism
+-   Lithuania cedes Memel province
+-   +1 Interventionism
 
 **Total Domestic Policy Shift** Assuming Germany makes all the
 historical choices and the AI always accepts:
 
-- +1 Authoritarianism
-- +5 Interventionism
-- +5 Hawk Lobby
+-   +1 Authoritarianism
+-   +5 Interventionism
+-   +5 Hawk Lobby
 
 This is sufficient to totally max out the Hawk Lobby and Interventionism
 Sliders
@@ -581,7 +580,7 @@ annexations](/wiki/Germany_Early_Annexations "Germany Early Annexations")
 . Generally, however, early war is viewed as gamey and too easy for
 Germany.
 
-### [ Condor Legion: Spanish Civil War ]{#Condor_Legion:\_Spanish_Civil_War .mw-headline}
+### [ Condor Legion: Spanish Civil War ]{#Condor_Legion:_Spanish_Civil_War .mw-headline}
 
 On 18 July 1936, the Spanish Civil War (SCW) breaks out. Nationalist
 Spain will likely loose without German intervention. While the
@@ -589,9 +588,9 @@ intervention by event helps, Nationalist Spain will typically require
 direct intervention of the German Army, which means war with Republican
 Spain. A friendly Spain serves two strategic goals for Germany:
 
-- Access to Gibraltar, which allows Germany to help seize control of
-  the Mediterranean Sea for [Italy](/wiki/Italy "Italy") .
-- A soft underbelly to France, making the invasion of France easier.
+-   Access to Gibraltar, which allows Germany to help seize control of
+    the Mediterranean Sea for [Italy](/wiki/Italy "Italy") .
+-   A soft underbelly to France, making the invasion of France easier.
 
 Historically, Nationalist Spain was neutral in the war and German
 intervention was limited. Involving Germany in the SCW is by no means
@@ -603,7 +602,7 @@ the Spanish Civil War.) When France DOWs early, the Soviet Union often
 follows. This can lead to a weird game where Poland and Czechoslovakia
 want to join the Axis.
 
-### [ ]{#Fall_Grün:\_Czechoslovakia} [ Fall Grün: Czechoslovakia ]{#Fall_Gr.C3.BCn:\_Czechoslovakia .mw-headline}
+### [ ]{#Fall_Grün:_Czechoslovakia} [ Fall Grün: Czechoslovakia ]{#Fall_Gr.C3.BCn:_Czechoslovakia .mw-headline}
 
 Generally, Czechoslovakia can be annexed and made into a puppet entirely
 through events, as happened historically. On rare occasion, however,
@@ -615,7 +614,7 @@ terrain. Ostrava, Brno, and Bratislava all do not have forts and border
 Germany. Thus, this underbelly makes victory fairly swift and relatively
 easy because the Sudentenland does not have any victory points.
 
-### [ ]{#Fall_Weiß:\_Poland} [ Fall Weiß: Poland ]{#Fall_Wei.C3.9F:\_Poland .mw-headline}
+### [ ]{#Fall_Weiß:_Poland} [ Fall Weiß: Poland ]{#Fall_Wei.C3.9F:_Poland .mw-headline}
 
 On 1 September 1939, the war with Poland and the Allies begins by event.
 Germany will need enough troops (around 6 divisions each) in the three
@@ -625,7 +624,7 @@ Action](/wiki/HQ_Units_in_Action "HQ Units in Action") strategy guide
 provides an excellent guide in the effective use of HQ units, combined
 with armor and motorized infantry, in order to quickly annex Poland.
 
-### [ Fall Gelb: France ]{#Fall_Gelb:\_France .mw-headline}
+### [ Fall Gelb: France ]{#Fall_Gelb:_France .mw-headline}
 
 After Poland is annexed, Germany\'s next significant target is France.
 In order to get to France, an invasion of the low countries is
@@ -656,13 +655,13 @@ enough territories, it wil surrender.
 
 The event asking for the creation of Vichy France can occur if:
 
-- Paris is not under France\'s control.
-- France lost 25% of its national provinces.
-- Germany is at war with France.
-- Germany is not at war with Soviet.
-- The year is before 1942.
-- France is not a puppet of Germany.
-- Vichy is not a puppet of Germany.
+-   Paris is not under France\'s control.
+-   France lost 25% of its national provinces.
+-   Germany is at war with France.
+-   Germany is not at war with Soviet.
+-   The year is before 1942.
+-   France is not a puppet of Germany.
+-   Vichy is not a puppet of Germany.
 
 The event has 25% chance of triggering every 3 days. If France loses at
 least 40% of its national provinces, the event will automatically
@@ -672,7 +671,7 @@ territory. Accepting the creation of Vichy if the best move for Germany,
 since it provides Western France as national provinces and drastically
 lowers dissent, while also providing a reasonably powerful ally.
 
-### [ ]{#Weserübung:\_Denmark_and_Norway} [ Weserübung: Denmark and Norway ]{#Weser.C3.BCbung:\_Denmark_and_Norway .mw-headline}
+### [ ]{#Weserübung:_Denmark_and_Norway} [ Weserübung: Denmark and Norway ]{#Weser.C3.BCbung:_Denmark_and_Norway .mw-headline}
 
 This is completely optional.
 
@@ -702,7 +701,7 @@ Oslo and Narvik from the adjacent Swedish provinces. Alternatively,
 capture Oslo and Narvik with paratroopers, then annex Norway
 immediately.
 
-### [ ]{#Directive_25:\_Yugoslavia,\_and_Operation_Marita:\_Greece} [ Directive 25: Yugoslavia, and Operation Marita: Greece ]{#Directive_25:\_Yugoslavia.2C_and_Operation_Marita:\_Greece .mw-headline}
+### [ ]{#Directive_25:_Yugoslavia,_and_Operation_Marita:_Greece} [ Directive 25: Yugoslavia, and Operation Marita: Greece ]{#Directive_25:_Yugoslavia.2C_and_Operation_Marita:_Greece .mw-headline}
 
 This is completely optional, if you do not wish to invade them, skip
 right to USSR section.
@@ -719,25 +718,25 @@ capture it is probably by sending paratroopers on airborne assault.
 Amphibious assault may prove to be difficult if you or Italy has not
 neutralized UK's navy.
 
-### [ Operation Barbarossa: Taming the Bear ]{#Operation_Barbarossa:\_Taming_the_Bear .mw-headline}
+### [ Operation Barbarossa: Taming the Bear ]{#Operation_Barbarossa:_Taming_the_Bear .mw-headline}
 
-- _See the article [Germany Strategy- Taming the
-  Bear](/wiki/Germany_Strategy-_Taming_the_Bear "Germany Strategy- Taming the Bear")_
+-   *See the article [Germany Strategy- Taming the
+    Bear](/wiki/Germany_Strategy-_Taming_the_Bear "Germany Strategy- Taming the Bear")*
 
 #### [ The Bitter Peace ]{#The_Bitter_Peace .mw-headline}
 
 Conditions that must be satisfied to trigger bitter peace:
 
-- Germany controls Paris.
-- Germany is not at war with Italy and Japan.
-- Do not sign the Tripartite pact with Japan if you intend to attack
-  the USSR without them. Just sign it with Italy.
-- Soviet does not control these provinces:
-  - Leningrad (one of the northern provinces, very close to Finland)
-  - Moscow
-  - Stalingrad
-  - Baku (southern province, next to Persia)
-  - Sverdlovsk (in Trans-Siberia railway, quite far away)
+-   Germany controls Paris.
+-   Germany is not at war with Italy and Japan.
+-   Do not sign the Tripartite pact with Japan if you intend to attack
+    the USSR without them. Just sign it with Italy.
+-   Soviet does not control these provinces:
+    -   Leningrad (one of the northern provinces, very close to Finland)
+    -   Moscow
+    -   Stalingrad
+    -   Baku (southern province, next to Persia)
+    -   Sverdlovsk (in Trans-Siberia railway, quite far away)
 
 If you fulfill those conditions, there is 5% chance every week that
 Stalin may sue for peace. When the event triggers, there is 90% chance
@@ -749,17 +748,17 @@ with Fight to the bitter end! in Sue for peace with the Germans
 There are two Bitter Peace chains, one with Japan in the Axis and one
 without.
 
-- Without the Tripartite pact being signed by Japan and without Japan
-  in the Axis, \# Sue for peace with the Germans, event 2624 SOV
-  starts the event chain which is completed by the Germans accepting
-  it: event 2024 GER \# Stalin sues for Peace (Japan is not Axis).
-- Providing Japan is in the Axis (and at war with Soviet), Sverdlovsk
-  is not required. But Soviet must lose Vladivostok (next to Japan\'s
-  Korea). Event 2645 SOV which triggers event 2046 GER
-- There is a third and somewhat unusual Bitter Peace if you are not at
-  war with the Allies (UK, France and USA), you only need to conquer
-  25% of the Soviet national provinces (note that Eastern Poland
-  provinces are not Soviet\'s national provinces).
+-   Without the Tripartite pact being signed by Japan and without Japan
+    in the Axis, \# Sue for peace with the Germans, event 2624 SOV
+    starts the event chain which is completed by the Germans accepting
+    it: event 2024 GER \# Stalin sues for Peace (Japan is not Axis).
+-   Providing Japan is in the Axis (and at war with Soviet), Sverdlovsk
+    is not required. But Soviet must lose Vladivostok (next to Japan\'s
+    Korea). Event 2645 SOV which triggers event 2046 GER
+-   There is a third and somewhat unusual Bitter Peace if you are not at
+    war with the Allies (UK, France and USA), you only need to conquer
+    25% of the Soviet national provinces (note that Eastern Poland
+    provinces are not Soviet\'s national provinces).
 
 #### [ The Bitter Peace in Doomsday ]{#The_Bitter_Peace_in_Doomsday .mw-headline}
 
@@ -832,17 +831,17 @@ After the fall of Gibraltar, the most important British territory in
 Africa is Suez. Controlling this will mean controlling Mediterranean
 Sea. There are a number of feasible ways to reach Suez:
 
-- Annex Turkey or Persia and then Iraq (slow because of the poor
-  infrastructure of these regions)
-- Annex Turkey or Greece to open more ports (you can launch amphibious
-  landings on Alexandria from Athens)
-- If you have a strong navy, put him under Grand Admiral Raeder and
-  make amphibious landing in Africa
+-   Annex Turkey or Persia and then Iraq (slow because of the poor
+    infrastructure of these regions)
+-   Annex Turkey or Greece to open more ports (you can launch amphibious
+    landings on Alexandria from Athens)
+-   If you have a strong navy, put him under Grand Admiral Raeder and
+    make amphibious landing in Africa
 
 If you manage to land in Africa with sufficient force, you can chase
 them out of the continent for good.
 
-### [ ]{#Operation_Seelöwe:\_Great_Britain} [ Operation Seelöwe: Great Britain ]{#Operation_Seel.C3.B6we:\_Great_Britain .mw-headline}
+### [ ]{#Operation_Seelöwe:_Great_Britain} [ Operation Seelöwe: Great Britain ]{#Operation_Seel.C3.B6we:_Great_Britain .mw-headline}
 
 This can be done before or after gaining complete control of North
 Africa or even just after the creation of Vichy France. To invade UK
@@ -894,12 +893,12 @@ and [Bhutan](/wiki/Bhutan "Bhutan") , though the infrastructure
 (Himalayas) may be challenging. There is an event 13 that can lead to
 UK\'s surrender. The conditions are:
 
-- Paris is in German hand or Germany is not at war with France
-- London is captured by Germany
-- UK lost at least 75% IC
-- UK lost at least 75% VPs
-- Germany is not at war with Soviet
-- Germany is not at war with USA
+-   Paris is in German hand or Germany is not at war with France
+-   London is captured by Germany
+-   UK lost at least 75% IC
+-   UK lost at least 75% VPs
+-   Germany is not at war with Soviet
+-   Germany is not at war with USA
 
 UK has 50% chance to accept it. If it does, UK will surrender a number
 of provinces to Germany, Italy, Canada and USA as well as liberating
@@ -925,10 +924,10 @@ battle, the rest should be a walkover.
 There is an event that allows German Player to demand USA\'s surrender.
 The conditions of USA surrender to Germany are:
 
-- USA lost at least 75% IC
-- USA lost at least 75% VPs
-- Germany is not at war with Soviet
-- Germany is not at war with UK
+-   USA lost at least 75% IC
+-   USA lost at least 75% VPs
+-   Germany is not at war with Soviet
+-   Germany is not at war with UK
 
 There is 50% chance that AI USA will accept the offer. If it does,
 Germany will receive three provinces and there will be a large change in
@@ -946,127 +945,127 @@ Conquer the world! If you need more time, use the no time limit mod in
 
 **High Quality Tech Teams**
 
-- I.G. Farben is the best manufacturing research tech team in the
-  game.
-- Konrad Zuse is one of the best cryptographic research tech teams in
-  the game, ensuring further dominance in research.
-- Top Tier tech teams for all other areas except Naval Doctrines.
+-   I.G. Farben is the best manufacturing research tech team in the
+    game.
+-   Konrad Zuse is one of the best cryptographic research tech teams in
+    the game, ensuring further dominance in research.
+-   Top Tier tech teams for all other areas except Naval Doctrines.
 
 **Strong Stable Industrial Base**
 
-- Scattered industrial areas difficult to effectively bomb
-  strategically even from England.
-- Pre-War industry in top tier allowing long build up.
-- Easy conquests of IC rich areas (Essentially All of Continental
-  Europe).
+-   Scattered industrial areas difficult to effectively bomb
+    strategically even from England.
+-   Pre-War industry in top tier allowing long build up.
+-   Easy conquests of IC rich areas (Essentially All of Continental
+    Europe).
 
 **Excellent Starting Land Doctrines**
 
-- Only one Land Doctrine to research between 1936 and 1939 to have
-  best land doctrine in the world available at the time.
+-   Only one Land Doctrine to research between 1936 and 1939 to have
+    best land doctrine in the world available at the time.
 
 **Good Consumer Goods Income**
 
-- Even producing the minimum consumer goods available, peacetime
-  revenue is sufficient to support extensive espionage.
+-   Even producing the minimum consumer goods available, peacetime
+    revenue is sufficient to support extensive espionage.
 
 **Excellent Leaders**
 
-- Start with large numbers of 3-5 skill generals of various rank.
-- Top tier air generals (not better than England, but damn good).
-- Top tier admirals (again, not better than England, but good).
-- Including Rommel, Manstein, Guderian etc
+-   Start with large numbers of 3-5 skill generals of various rank.
+-   Top tier air generals (not better than England, but damn good).
+-   Top tier admirals (again, not better than England, but good).
+-   Including Rommel, Manstein, Guderian etc
 
 **Good Starting Units**
 
-- Larger starting army than any European power except USSR.
-- Large starting airforce
+-   Larger starting army than any European power except USSR.
+-   Large starting airforce
 
 **Optimal Domestic Sliders for Warfare by 1939**
 
-- Lots of free event-driven movements towards Hawk Lobby &
-  Interventionism.
-- Player can use their manual slider movements as they wish without
-  being beholden to Hawk Lobby or Interventionism.
-- Free DOWs available relatively quickly allows conquest of numerous
-  minor nations without dissent.
+-   Lots of free event-driven movements towards Hawk Lobby &
+    Interventionism.
+-   Player can use their manual slider movements as they wish without
+    being beholden to Hawk Lobby or Interventionism.
+-   Free DOWs available relatively quickly allows conquest of numerous
+    minor nations without dissent.
 
 **Flexiblity to choose from a wide range of Force Compositions**
 
-- Flexible starting forces & solid industry enable the player to build
-  whatever army/navy/airforce compositions they want.
+-   Flexible starting forces & solid industry enable the player to build
+    whatever army/navy/airforce compositions they want.
 
 **Good Historical Events**
 
-- No huge dissent events.
-- No events force-switching or killing your good cabinet members.
-- Free annexations via event
-- Free declarations of war via event, like _Danzig or war_
+-   No huge dissent events.
+-   No events force-switching or killing your good cabinet members.
+-   Free annexations via event
+-   Free declarations of war via event, like *Danzig or war*
 
 ### [ Disadvantages ]{#Disadvantages .mw-headline}
 
 **Weak Allies**
 
-- Poor quality expeditionary divisions from allies.
-- Poor quality tech teams for allies.
-- Few in number with low IC prevents good blueprint trading from
-  occuring.
+-   Poor quality expeditionary divisions from allies.
+-   Poor quality tech teams for allies.
+-   Few in number with low IC prevents good blueprint trading from
+    occuring.
 
 **Enemies with far-flung possessions that are not easily annexed**
 
-- UK possesses tiny islands all over the world with victory point
-  values
-- USSR has enormous territorial depth. Germany must reach Pacific to
-  annex.
-- USA seperated from Germany by huge ocean and strong navy with
-  enormous IC power.
+-   UK possesses tiny islands all over the world with victory point
+    values
+-   USSR has enormous territorial depth. Germany must reach Pacific to
+    annex.
+-   USA seperated from Germany by huge ocean and strong navy with
+    enormous IC power.
 
 **Relatively Poor Starting Naval Forces**
 
-- Without substantial investment, no possibility of victory vs major
-  rivals.
+-   Without substantial investment, no possibility of victory vs major
+    rivals.
 
 **Limited access to Naval Doctrines and mediocre naval doctrine tech
 teams**
 
-- Kriegsmarinewerft is a good naval unit tech team, but Raeder is your
-  only really good naval doctrine tech team.
-- Only access to a few carrier enhancing doctrines useful in the late
-  game naval war vs USA.
+-   Kriegsmarinewerft is a good naval unit tech team, but Raeder is your
+    only really good naval doctrine tech team.
+-   Only access to a few carrier enhancing doctrines useful in the late
+    game naval war vs USA.
 
 **Must stand alone vs enemies with enormous manpower reserves**
 
-- Even with immediate research of manpower boosting techs, very
-  difficult to match Soviets or USA in divisions.
-- Poor planning can cause you to exhaust your manpower pool and find
-  yourself unable to reinforce your units, much less build more.
+-   Even with immediate research of manpower boosting techs, very
+    difficult to match Soviets or USA in divisions.
+-   Poor planning can cause you to exhaust your manpower pool and find
+    yourself unable to reinforce your units, much less build more.
 
 **Poor Raw Materials production pre-war**
 
-- Peacetime trading strategy must be focused on acquiring [rare
-  materials](/wiki/Rare_Materials "Rare Materials") , usually at the
-  price of supplies (i.e. purchased with IC).
-- After expanding throughout Europe, less of a problem. Especially
-  after extensive stockpiling of resources during peacetime.
+-   Peacetime trading strategy must be focused on acquiring [rare
+    materials](/wiki/Rare_Materials "Rare Materials") , usually at the
+    price of supplies (i.e. purchased with IC).
+-   After expanding throughout Europe, less of a problem. Especially
+    after extensive stockpiling of resources during peacetime.
 
 **Mediocre Metal production**
 
-- Can be mitigated through numerous energy-for-metal trades with minor
-  nations (Sweden makes a 1-for-1 offer every couple months).
+-   Can be mitigated through numerous energy-for-metal trades with minor
+    nations (Sweden makes a 1-for-1 offer every couple months).
 
 **Located in the center of Europe**
 
-- Although this makes it attacking easier, it also means Germany is
-  surrounded by enemies.
-- Multi-front situation can be managed if Operation Sealion is
-  successful before 1941.
+-   Although this makes it attacking easier, it also means Germany is
+    surrounded by enemies.
+-   Multi-front situation can be managed if Operation Sealion is
+    successful before 1941.
 
 ## [ Gamey Tactics ]{#Gamey_Tactics .mw-headline}
 
 Germany has a variety of [gamey
 tactics](/wiki/Gamey_tactics "Gamey tactics") possible.
 
-### [ Germanic Ireland: Totally Optional ]{#Germanic_Ireland:\_Totally_Optional .mw-headline}
+### [ Germanic Ireland: Totally Optional ]{#Germanic_Ireland:_Totally_Optional .mw-headline}
 
 When the game starts, build a whole bunch of transports and create about
 2 Tank divisions, 3 Militias, and about 2 infantry. (Ireland is only
@@ -1110,7 +1109,7 @@ strategy is very simple and effective.
 
 \
 
-## [ ]{#Year*1939*–40*Invading_Poland_and_France} [ Year 1939 --40 Invading Poland and France ]{#Year_1939*.E2.80.9340_Invading_Poland_and_France .mw-headline}
+## [ ]{#Year_1939_–40_Invading_Poland_and_France} [ Year 1939 --40 Invading Poland and France ]{#Year_1939_.E2.80.9340_Invading_Poland_and_France .mw-headline}
 
 Invading Poland should be easy thing to do, altough your army isn't so
 great yet. Remember to leave some garrisons against France. It is always
@@ -1137,7 +1136,7 @@ motorized + 20 infantry to Reims, and use some good panzer general.
 Then, you'll see, you can't lose. Then push forward to Paris, and try to
 destroy as many Britons you can.
 
-## [ ]{#Year*1941*–_Operation_Barbarossa} [ Year 1941 -- Operation Barbarossa ]{#Year_1941_.E2.80.93_Operation_Barbarossa .mw-headline}
+## [ ]{#Year_1941_–_Operation_Barbarossa} [ Year 1941 -- Operation Barbarossa ]{#Year_1941_.E2.80.93_Operation_Barbarossa .mw-headline}
 
 COMING SOON
 :::

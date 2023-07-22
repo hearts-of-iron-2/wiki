@@ -1,7 +1,6 @@
 ---
 title: Finland
 ---
-
 ::: mw-parser-output
 ::: {.eu4box style="width:330px; height:auto; float:right; clear:right"}
 ::: heading
@@ -14,7 +13,7 @@ title: Finland
 [Major powers](/wiki/Major_power "Major power"){.mw-redirect}
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [France](/wiki/France "France")\
@@ -30,7 +29,7 @@ title: Finland
 Regional powers
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [Argentina](/wiki/Argentina "Argentina")\
@@ -58,7 +57,7 @@ Regional powers
 [Minor powers](/wiki/Minor_power "Minor power"){.mw-redirect}
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [Austria](/wiki/Austria "Austria")\
@@ -81,7 +80,7 @@ Regional powers
 [Micro powers](/wiki/Micro_power "Micro power"){.mw-redirect}
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [Afghanistan](/wiki/Afghanistan "Afghanistan")\
@@ -131,25 +130,24 @@ Arabia](/wiki/index.php?title=Saudi_Arabia&action=edit&redlink=1 "Saudi Arabia (
 
 ::: {#toc .toc aria-labelledby="mw-toc-heading" role="navigation"}
 ::: {.toctitle dir="ltr" lang="en"}
-
 ## Contents {#mw-toc-heading}
 
 [ ]{.toctogglespan}
 :::
 
-- [[ 1 ]{.tocnumber} [ Finland - the basics
-  ]{.toctext}](#Finland_-_the_basics)
-- [[ 2 ]{.tocnumber} [ War with Sweden ]{.toctext}](#War_with_Sweden)
-- [[ 3 ]{.tocnumber} [ War with Norway ]{.toctext}](#War_with_Norway)
-- [[ 4 ]{.tocnumber} [ War with Denmark
-  ]{.toctext}](#War_with_Denmark)
-- [[ 5 ]{.tocnumber} [ Winter War ]{.toctext}](#Winter_War)
-- [[ 6 ]{.tocnumber} [ Operation Barbarossa
-  ]{.toctext}](#Operation_Barbarossa)
-- [[ 7 ]{.tocnumber} [ What next? ]{.toctext}](#What_next.3F)
-  :::
+-   [[ 1 ]{.tocnumber} [ Finland - the basics
+    ]{.toctext}](#Finland_-_the_basics)
+-   [[ 2 ]{.tocnumber} [ War with Sweden ]{.toctext}](#War_with_Sweden)
+-   [[ 3 ]{.tocnumber} [ War with Norway ]{.toctext}](#War_with_Norway)
+-   [[ 4 ]{.tocnumber} [ War with Denmark
+    ]{.toctext}](#War_with_Denmark)
+-   [[ 5 ]{.tocnumber} [ Winter War ]{.toctext}](#Winter_War)
+-   [[ 6 ]{.tocnumber} [ Operation Barbarossa
+    ]{.toctext}](#Operation_Barbarossa)
+-   [[ 7 ]{.tocnumber} [ What next? ]{.toctext}](#What_next.3F)
+:::
 
-## [ Finland - the basics ]{#Finland\_-_the_basics .mw-headline}
+## [ Finland - the basics ]{#Finland_-_the_basics .mw-headline}
 
 Now Finland is a nice country to play. It has some nice tech teams such
 as FM Mannerheim and Tikkakoski. The downside is that you only have 1

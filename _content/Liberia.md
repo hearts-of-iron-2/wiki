@@ -1,7 +1,6 @@
 ---
 title: Liberia
 ---
-
 ::: mw-parser-output
 ::: {.eu4box style="width:330px; height:auto; float:right; clear:right"}
 ::: heading
@@ -14,7 +13,7 @@ title: Liberia
 [Major powers](/wiki/Major_power "Major power"){.mw-redirect}
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [France](/wiki/France "France")\
@@ -30,7 +29,7 @@ title: Liberia
 Regional powers
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [Argentina](/wiki/Argentina "Argentina")\
@@ -58,7 +57,7 @@ Regional powers
 [Minor powers](/wiki/Minor_power "Minor power"){.mw-redirect}
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [Austria](/wiki/Austria "Austria")\
@@ -81,7 +80,7 @@ Regional powers
 [Micro powers](/wiki/Micro_power "Micro power"){.mw-redirect}
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [Afghanistan](/wiki/Afghanistan "Afghanistan")\
@@ -131,27 +130,26 @@ Arabia](/wiki/index.php?title=Saudi_Arabia&action=edit&redlink=1 "Saudi Arabia (
 
 ::: {#toc .toc aria-labelledby="mw-toc-heading" role="navigation"}
 ::: {.toctitle dir="ltr" lang="en"}
-
 ## Contents {#mw-toc-heading}
 
 [ ]{.toctogglespan}
 :::
 
-- [[ 1 ]{.tocnumber} [ Overview ]{.toctext}](#Overview)
-- [[ 2 ]{.tocnumber} [ Technology ]{.toctext}](#Technology)
-- [[ 3 ]{.tocnumber} [ Diplomacy ]{.toctext}](#Diplomacy)
-  - [[ 3.1 ]{.tocnumber} [ Potential Allies
-    ]{.toctext}](#Potential_Allies)
-- [[ 4 ]{.tocnumber} [ Economy ]{.toctext}](#Economy)
-- [[ 5 ]{.tocnumber} [ Intelligence ]{.toctext}](#Intelligence)
-- [[ 6 ]{.tocnumber} [ Armed forces ]{.toctext}](#Armed_forces)
-  - [[ 6.1 ]{.tocnumber} [ Army ]{.toctext}](#Army)
-  - [[ 6.2 ]{.tocnumber} [ Navy ]{.toctext}](#Navy)
-  - [[ 6.3 ]{.tocnumber} [ Air force ]{.toctext}](#Air_force)
-- [[ 7 ]{.tocnumber} [ Strategy ]{.toctext}](#Strategy)
-- [[ 8 ]{.tocnumber} [ Pro\'s ]{.toctext}](#Pro.27s)
-- [[ 9 ]{.tocnumber} [ Con\'s ]{.toctext}](#Con.27s)
-  :::
+-   [[ 1 ]{.tocnumber} [ Overview ]{.toctext}](#Overview)
+-   [[ 2 ]{.tocnumber} [ Technology ]{.toctext}](#Technology)
+-   [[ 3 ]{.tocnumber} [ Diplomacy ]{.toctext}](#Diplomacy)
+    -   [[ 3.1 ]{.tocnumber} [ Potential Allies
+        ]{.toctext}](#Potential_Allies)
+-   [[ 4 ]{.tocnumber} [ Economy ]{.toctext}](#Economy)
+-   [[ 5 ]{.tocnumber} [ Intelligence ]{.toctext}](#Intelligence)
+-   [[ 6 ]{.tocnumber} [ Armed forces ]{.toctext}](#Armed_forces)
+    -   [[ 6.1 ]{.tocnumber} [ Army ]{.toctext}](#Army)
+    -   [[ 6.2 ]{.tocnumber} [ Navy ]{.toctext}](#Navy)
+    -   [[ 6.3 ]{.tocnumber} [ Air force ]{.toctext}](#Air_force)
+-   [[ 7 ]{.tocnumber} [ Strategy ]{.toctext}](#Strategy)
+-   [[ 8 ]{.tocnumber} [ Pro\'s ]{.toctext}](#Pro.27s)
+-   [[ 9 ]{.tocnumber} [ Con\'s ]{.toctext}](#Con.27s)
+:::
 
 ## [ Overview ]{#Overview .mw-headline}
 

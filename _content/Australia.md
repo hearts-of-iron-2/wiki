@@ -1,7 +1,6 @@
 ---
 title: Australia
 ---
-
 ::: mw-parser-output
 ::: {.eu4box style="width:330px; height:auto; float:right; clear:right"}
 ::: heading
@@ -14,7 +13,7 @@ title: Australia
 [Major powers](/wiki/Major_power "Major power"){.mw-redirect}
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [France](/wiki/France "France")\
@@ -30,7 +29,7 @@ title: Australia
 Regional powers
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [Argentina](/wiki/Argentina "Argentina")\
@@ -58,7 +57,7 @@ Regional powers
 [Minor powers](/wiki/Minor_power "Minor power"){.mw-redirect}
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [Austria](/wiki/Austria "Austria")\
@@ -81,7 +80,7 @@ Regional powers
 [Micro powers](/wiki/Micro_power "Micro power"){.mw-redirect}
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [Afghanistan](/wiki/Afghanistan "Afghanistan")\
@@ -131,39 +130,38 @@ Arabia](/wiki/index.php?title=Saudi_Arabia&action=edit&redlink=1 "Saudi Arabia (
 
 ::: {#toc .toc aria-labelledby="mw-toc-heading" role="navigation"}
 ::: {.toctitle dir="ltr" lang="en"}
-
 ## Contents {#mw-toc-heading}
 
 [ ]{.toctogglespan}
 :::
 
-- [[ 1 ]{.tocnumber} [ Overview ]{.toctext}](#Overview)
-  - [[ 1.1 ]{.tocnumber} [ General Tips ]{.toctext}](#General_Tips)
-  - [[ 1.2 ]{.tocnumber} [ Manpower ]{.toctext}](#Manpower)
-- [[ 2 ]{.tocnumber} [ Research ]{.toctext}](#Research)
-- [[ 3 ]{.tocnumber} [ Diplomacy ]{.toctext}](#Diplomacy)
-  - [[ 3.1 ]{.tocnumber} [ Alliances ]{.toctext}](#Alliances)
-  - [[ 3.2 ]{.tocnumber} [ Sliders ]{.toctext}](#Sliders)
-  - [[ 3.3 ]{.tocnumber} [ Ministers ]{.toctext}](#Ministers)
-- [[ 4 ]{.tocnumber} [ Intelligence ]{.toctext}](#Intelligence)
-- [[ 5 ]{.tocnumber} [ Economy ]{.toctext}](#Economy)
-  - [[ 5.1 ]{.tocnumber} [ Trading ]{.toctext}](#Trading)
-  - [[ 5.2 ]{.tocnumber} [ Industrial Production
-    ]{.toctext}](#Industrial_Production)
-- [[ 6 ]{.tocnumber} [ Military ]{.toctext}](#Military)
-  - [[ 6.1 ]{.tocnumber} [ Army ]{.toctext}](#Army)
-  - [[ 6.2 ]{.tocnumber} [ Navy ]{.toctext}](#Navy)
-  - [[ 6.3 ]{.tocnumber} [ Air Force ]{.toctext}](#Air_Force)
-- [[ 7 ]{.tocnumber} [ Events ]{.toctext}](#Events)
-- [[ 8 ]{.tocnumber} [ War ]{.toctext}](#War)
-- [[ 9 ]{.tocnumber} [ Alternative Route
-  ]{.toctext}](#Alternative_Route)
-  - [[ 9.1 ]{.tocnumber} [ The time before the war against Japan
-    ]{.toctext}](#The_time_before_the_war_against_Japan)
-  - [[ 9.2 ]{.tocnumber} [ The war against Japan
-    ]{.toctext}](#The_war_against_Japan)
-- [[ 10 ]{.tocnumber} [ References ]{.toctext}](#References)
-  :::
+-   [[ 1 ]{.tocnumber} [ Overview ]{.toctext}](#Overview)
+    -   [[ 1.1 ]{.tocnumber} [ General Tips ]{.toctext}](#General_Tips)
+    -   [[ 1.2 ]{.tocnumber} [ Manpower ]{.toctext}](#Manpower)
+-   [[ 2 ]{.tocnumber} [ Research ]{.toctext}](#Research)
+-   [[ 3 ]{.tocnumber} [ Diplomacy ]{.toctext}](#Diplomacy)
+    -   [[ 3.1 ]{.tocnumber} [ Alliances ]{.toctext}](#Alliances)
+    -   [[ 3.2 ]{.tocnumber} [ Sliders ]{.toctext}](#Sliders)
+    -   [[ 3.3 ]{.tocnumber} [ Ministers ]{.toctext}](#Ministers)
+-   [[ 4 ]{.tocnumber} [ Intelligence ]{.toctext}](#Intelligence)
+-   [[ 5 ]{.tocnumber} [ Economy ]{.toctext}](#Economy)
+    -   [[ 5.1 ]{.tocnumber} [ Trading ]{.toctext}](#Trading)
+    -   [[ 5.2 ]{.tocnumber} [ Industrial Production
+        ]{.toctext}](#Industrial_Production)
+-   [[ 6 ]{.tocnumber} [ Military ]{.toctext}](#Military)
+    -   [[ 6.1 ]{.tocnumber} [ Army ]{.toctext}](#Army)
+    -   [[ 6.2 ]{.tocnumber} [ Navy ]{.toctext}](#Navy)
+    -   [[ 6.3 ]{.tocnumber} [ Air Force ]{.toctext}](#Air_Force)
+-   [[ 7 ]{.tocnumber} [ Events ]{.toctext}](#Events)
+-   [[ 8 ]{.tocnumber} [ War ]{.toctext}](#War)
+-   [[ 9 ]{.tocnumber} [ Alternative Route
+    ]{.toctext}](#Alternative_Route)
+    -   [[ 9.1 ]{.tocnumber} [ The time before the war against Japan
+        ]{.toctext}](#The_time_before_the_war_against_Japan)
+    -   [[ 9.2 ]{.tocnumber} [ The war against Japan
+        ]{.toctext}](#The_war_against_Japan)
+-   [[ 10 ]{.tocnumber} [ References ]{.toctext}](#References)
+:::
 
 ## [ Overview ]{#Overview .mw-headline}
 
@@ -176,37 +174,37 @@ is written with that in mind, particularly for a 1936 scenario.
 
 Advantages:
 
-- Geographical isolation (AI is almost never interested in you)
-- Lots of allies that give you blueprints and resources
-- Low infrastructure, large home provinces (advantageous because you
-  can give ground in a defensive war, e.g. the famous Brisbane line)
-- OK tech teams (not as hot as Germany but certainly much better than
-  Nationalist China)
+-   Geographical isolation (AI is almost never interested in you)
+-   Lots of allies that give you blueprints and resources
+-   Low infrastructure, large home provinces (advantageous because you
+    can give ground in a defensive war, e.g. the famous Brisbane line)
+-   OK tech teams (not as hot as Germany but certainly much better than
+    Nationalist China)
 
 Disadvantages:
 
-- Low
-  [manpower](/wiki/index.php?title=Manpower&action=edit&redlink=1 "Manpower (page does not exist)"){.new}
-- Low [IC](/wiki/IC "IC"){.mw-redirect}
-- Low
-  [infrastructure](/wiki/index.php?title=Infrastructure&action=edit&redlink=1 "Infrastructure (page does not exist)"){.new}
-  (this renders mobile-reserves near-useless unless you upgrade your
-  infrastructure)
-- Only two research slots in the beginning
-- Difficult conquests
-- Relatively mediocre [leaders](/wiki/Leaders "Leaders")
+-   Low
+    [manpower](/wiki/index.php?title=Manpower&action=edit&redlink=1 "Manpower (page does not exist)"){.new}
+-   Low [IC](/wiki/IC "IC"){.mw-redirect}
+-   Low
+    [infrastructure](/wiki/index.php?title=Infrastructure&action=edit&redlink=1 "Infrastructure (page does not exist)"){.new}
+    (this renders mobile-reserves near-useless unless you upgrade your
+    infrastructure)
+-   Only two research slots in the beginning
+-   Difficult conquests
+-   Relatively mediocre [leaders](/wiki/Leaders "Leaders")
 
 ### [ General Tips ]{#General_Tips .mw-headline}
 
-- Disband the garrisons. You won\'t be policing territories and their
-  manpower is useful.
-- Disband at least the old destroyer and light cruiser, even if you
-  want to keep the two CAs and modern CLs.
-- Trade some supplies to the USA for money. You can then research,
-  conduct intelligence, and diplomacy, while not using IC for
-  overproducing goods.
-- Try to have at least 100 convoy transports. A beachhead in the
-  Balkans requires around 70 transports to support several Corps.
+-   Disband the garrisons. You won\'t be policing territories and their
+    manpower is useful.
+-   Disband at least the old destroyer and light cruiser, even if you
+    want to keep the two CAs and modern CLs.
+-   Trade some supplies to the USA for money. You can then research,
+    conduct intelligence, and diplomacy, while not using IC for
+    overproducing goods.
+-   Try to have at least 100 convoy transports. A beachhead in the
+    Balkans requires around 70 transports to support several Corps.
 
 ### [ Manpower ]{#Manpower .mw-headline}
 
@@ -215,7 +213,7 @@ be traded for, IC captured, but manpower can only be slowly grown.
 Annexed territory yields just 10% of the indicated manpower, and
 non-contiguous territory yields no manpower at all during wartime. This
 limits growth of every kind by capping military power and so slowing
-conquest. To maximize manpower you _must_ take every step possible to
+conquest. To maximize manpower you *must* take every step possible to
 increase growth. You will start with 25 manpower stockpiled with an
 increase of 0.10 manpower per day. To increase your manpower growth
 research the two agriculture technologies, install Sir Cyril
@@ -246,7 +244,7 @@ we see that another six Divisions is nothing to sniff at.
 ## [ [Research](/wiki/Research "Research") ]{#Research .mw-headline}
 
 Australia has some excellent [Tech
-teams](</wiki/Tech_Team_(Australia)> "Tech Team (Australia)") , but with
+teams](/wiki/Tech_Team_(Australia) "Tech Team (Australia)") , but with
 only two slots to begin with you\'re limited to whatever you get via
 blueprints. You can, however, research independently for various
 reasons. I highly recommend the
@@ -605,6 +603,6 @@ tempting target.
 ## [ References ]{#References .mw-headline}
 
 [Tech Team
-(Australia)](</wiki/Tech_Team_(Australia)> "Tech Team (Australia)")
+(Australia)](/wiki/Tech_Team_(Australia) "Tech Team (Australia)")
 [Template:Anthology](/wiki/index.php?title=Template:Anthology&action=edit&redlink=1 "Template:Anthology (page does not exist)"){.new}
 :::

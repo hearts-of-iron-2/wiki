@@ -1,17 +1,16 @@
 ---
 title: Germany_Strategy-_Multiplayer_vs_USSR
 ---
-
 ::: mw-parser-output
 [Template:GermanyStrategyGuides](/wiki/index.php?title=Template:GermanyStrategyGuides&action=edit&redlink=1 "Template:GermanyStrategyGuides (page does not exist)"){.new}
 
-## [ ]{#Invasion*of_USSR*(Against*Player)} [ Invasion of USSR (Against Player) ]{#Invasion_of_USSR*.28Against_Player.29 .mw-headline}
+## [ ]{#Invasion_of_USSR_(Against_Player)} [ Invasion of USSR (Against Player) ]{#Invasion_of_USSR_.28Against_Player.29 .mw-headline}
 
 Some things to note:
 
-- 1\) You will be outnumbered 2 or 3 to 1.
-- 2\) You may have oil shortages.
-- 3\) Your tanks will be very important in the offensive.
+-   1\) You will be outnumbered 2 or 3 to 1.
+-   2\) You may have oil shortages.
+-   3\) Your tanks will be very important in the offensive.
 
 There are a few large differences. You can not be certain of having a
 superior army. A good soviet player will have medium tanks along with

@@ -1,7 +1,6 @@
 ---
 title: Argentina
 ---
-
 ::: mw-parser-output
 ::: {.eu4box style="width:330px; height:auto; float:right; clear:right"}
 ::: heading
@@ -14,7 +13,7 @@ title: Argentina
 [Major powers](/wiki/Major_power "Major power"){.mw-redirect}
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [France](/wiki/France "France")\
@@ -30,7 +29,7 @@ title: Argentina
 Regional powers
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [Argentina]{.mw-selflink .selflink}\
@@ -58,7 +57,7 @@ Regional powers
 [Minor powers](/wiki/Minor_power "Minor power"){.mw-redirect}
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [Austria](/wiki/Austria "Austria")\
@@ -81,7 +80,7 @@ Regional powers
 [Micro powers](/wiki/Micro_power "Micro power"){.mw-redirect}
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [Afghanistan](/wiki/Afghanistan "Afghanistan")\
@@ -131,45 +130,51 @@ Arabia](/wiki/index.php?title=Saudi_Arabia&action=edit&redlink=1 "Saudi Arabia (
 
 ::: {#toc .toc aria-labelledby="mw-toc-heading" role="navigation"}
 ::: {.toctitle dir="ltr" lang="en"}
-
 ## Contents {#mw-toc-heading}
 
 [ ]{.toctogglespan}
 :::
 
-- [[ 1 ]{.tocnumber} [ Axis Argentina ]{.toctext}](#Axis_Argentina)
-  - [[ 1.1 ]{.tocnumber} [ Focus ]{.toctext}](#Focus)
-  - [[ 1.2 ]{.tocnumber} [ Startup ]{.toctext}](#Startup)
-  - [[ 1.3 ]{.tocnumber} [ Research ]{.toctext}](#Research)
-  - [[ 1.4 ]{.tocnumber} [ The road to war (1936-1939)
-    ]{.toctext}](#The_road_to_war_.281936-1939.29)
-  - [[ 1.5 ]{.tocnumber} [ Alternate strategy
-    ]{.toctext}](#Alternate_strategy)
-  - [[ 1.6 ]{.tocnumber} [ Argentina in the War (1940-?)
-    ]{.toctext}](#Argentina_in_the_War_.281940-.3F.29)
-- [[ 2 ]{.tocnumber} [ Argentina as a major power
-  ]{.toctext}](#Argentina_as_a_major_power)
-  - [[ 2.1 ]{.tocnumber} [ AIM ]{.toctext}](#AIM)
-  - [[ 2.2 ]{.tocnumber} [ Technology and ministers
-    ]{.toctext}](#Technology_and_ministers)
-  - [[ 2.3 ]{.tocnumber} [ Diplomacy ]{.toctext}](#Diplomacy)
-  - [[ 2.4 ]{.tocnumber} [ Bang on to War in South America
-    ]{.toctext}](#Bang_on_to_War_in_South_America)
-  - [[ 2.5 ]{.tocnumber} [ Central America and Carrabian
-    ]{.toctext}](#Central_America_and_Carrabian)
-  - [[ 2.6 ]{.tocnumber} [ Total dominance in America
-    ]{.toctext}](#Total_dominance_in_America)
-  - [[ 2.7 ]{.tocnumber} [ After you rule America
-    ]{.toctext}](#After_you_rule_America)
-- [[ 3 ]{.tocnumber} [ Emperor Gumby\'s Argentina Strategy (Axis
-  Junior-into-Senior Member)
-  ]{.toctext}](#Emperor_Gumby.27s_Argentina_Strategy_.28Axis_Junior-into-Senior_Member.29) - [[ 3.1 ]{.tocnumber} [ Phase 1: Initial Growth
-  ]{.toctext}](#Phase_1:_Initial_Growth) - [[ 3.1.1 ]{.tocnumber} [ Before unpausing:
-  ]{.toctext}](#Before_unpausing:) - [[ 3.1.2 ]{.tocnumber} [ After unpausing:
-  ]{.toctext}](#After_unpausing:) - [[ 3.2 ]{.tocnumber} [ War with Brazil
-  ]{.toctext}](#War_with_Brazil) - [[ 3.3 ]{.tocnumber} [ Post-Brazil ]{.toctext}](#Post-Brazil) - [[ 3.4 ]{.tocnumber} [ Alliance with Japan
-  ]{.toctext}](#Alliance_with_Japan) - [[ 3.5 ]{.tocnumber} [ Post-China ]{.toctext}](#Post-China)
-  :::
+-   [[ 1 ]{.tocnumber} [ Axis Argentina ]{.toctext}](#Axis_Argentina)
+    -   [[ 1.1 ]{.tocnumber} [ Focus ]{.toctext}](#Focus)
+    -   [[ 1.2 ]{.tocnumber} [ Startup ]{.toctext}](#Startup)
+    -   [[ 1.3 ]{.tocnumber} [ Research ]{.toctext}](#Research)
+    -   [[ 1.4 ]{.tocnumber} [ The road to war (1936-1939)
+        ]{.toctext}](#The_road_to_war_.281936-1939.29)
+    -   [[ 1.5 ]{.tocnumber} [ Alternate strategy
+        ]{.toctext}](#Alternate_strategy)
+    -   [[ 1.6 ]{.tocnumber} [ Argentina in the War (1940-?)
+        ]{.toctext}](#Argentina_in_the_War_.281940-.3F.29)
+-   [[ 2 ]{.tocnumber} [ Argentina as a major power
+    ]{.toctext}](#Argentina_as_a_major_power)
+    -   [[ 2.1 ]{.tocnumber} [ AIM ]{.toctext}](#AIM)
+    -   [[ 2.2 ]{.tocnumber} [ Technology and ministers
+        ]{.toctext}](#Technology_and_ministers)
+    -   [[ 2.3 ]{.tocnumber} [ Diplomacy ]{.toctext}](#Diplomacy)
+    -   [[ 2.4 ]{.tocnumber} [ Bang on to War in South America
+        ]{.toctext}](#Bang_on_to_War_in_South_America)
+    -   [[ 2.5 ]{.tocnumber} [ Central America and Carrabian
+        ]{.toctext}](#Central_America_and_Carrabian)
+    -   [[ 2.6 ]{.tocnumber} [ Total dominance in America
+        ]{.toctext}](#Total_dominance_in_America)
+    -   [[ 2.7 ]{.tocnumber} [ After you rule America
+        ]{.toctext}](#After_you_rule_America)
+-   [[ 3 ]{.tocnumber} [ Emperor Gumby\'s Argentina Strategy (Axis
+    Junior-into-Senior Member)
+    ]{.toctext}](#Emperor_Gumby.27s_Argentina_Strategy_.28Axis_Junior-into-Senior_Member.29)
+    -   [[ 3.1 ]{.tocnumber} [ Phase 1: Initial Growth
+        ]{.toctext}](#Phase_1:_Initial_Growth)
+        -   [[ 3.1.1 ]{.tocnumber} [ Before unpausing:
+            ]{.toctext}](#Before_unpausing:)
+        -   [[ 3.1.2 ]{.tocnumber} [ After unpausing:
+            ]{.toctext}](#After_unpausing:)
+    -   [[ 3.2 ]{.tocnumber} [ War with Brazil
+        ]{.toctext}](#War_with_Brazil)
+    -   [[ 3.3 ]{.tocnumber} [ Post-Brazil ]{.toctext}](#Post-Brazil)
+    -   [[ 3.4 ]{.tocnumber} [ Alliance with Japan
+        ]{.toctext}](#Alliance_with_Japan)
+    -   [[ 3.5 ]{.tocnumber} [ Post-China ]{.toctext}](#Post-China)
+:::
 
 ## [ Axis Argentina ]{#Axis_Argentina .mw-headline}
 
@@ -222,40 +227,40 @@ you only have two tech slots: you will have to make choices.
 Your first two research should be Machine Tools and Census Tabulating
 Machine. For your next moves, I would recommend:
 
-- Industrial techs: Manufacturing (for the IC) and Computers (for the
-  research bonus). As often said, don\'t go into nuclear research,
-  you\'re not up to par, anyway. Rockets can be useful later, for
-  rocket- and turbojet-propelled aircraft, but don\'t rush it, either.
-  Agriculture has its use for increased manpower, as does the oil
-  techs. Radar are more likely lower priority.
-- Infantry: get Infantry 1936 soon; it\'s not that urgent, but by the
-  end of 1936, go for it! If you have the resources, check Mountain
-  troops, maybe Marines, too. Also, don\'t underestimate the Supply
-  techs.
-- Armor and Artillery: if you must research something there, focus on
-  artillery, possibly static AA. Don\'t bother with tanks: South
-  America is not the best-suited terrain for these.
-- Aircraft: don\'t sweat it, for the time being. Your Naval Bombers
-  (which will be your main air force) won\'t be upgradable until 1940.
-  Look into Interceptor techs, maybe CAS, which are nice all-around
-  ground- and sea-attack planes.
-- Naval: decisions, decisions\... You cannot research everything, you
-  cannot build everything, so I would advise you to focus on
-  Submarines. Research up until Long-Range and then let it rest. Later
-  on, you may wish to build a larger surface fleet, but limit it to
-  smaller ships (CL and CA may be the best value here).
-- Doctrines: land and sea doctrines take a lot of research time, but
-  are vital for your combat efficiency. They are not that important
-  early in the game, but don\'t forget them after 1938. Try to bargain
-  for blueprints \-- except, of course, Germany has a different Land
-  Doctrine path\... Air doctrines are usually faster.
+-   Industrial techs: Manufacturing (for the IC) and Computers (for the
+    research bonus). As often said, don\'t go into nuclear research,
+    you\'re not up to par, anyway. Rockets can be useful later, for
+    rocket- and turbojet-propelled aircraft, but don\'t rush it, either.
+    Agriculture has its use for increased manpower, as does the oil
+    techs. Radar are more likely lower priority.
+-   Infantry: get Infantry 1936 soon; it\'s not that urgent, but by the
+    end of 1936, go for it! If you have the resources, check Mountain
+    troops, maybe Marines, too. Also, don\'t underestimate the Supply
+    techs.
+-   Armor and Artillery: if you must research something there, focus on
+    artillery, possibly static AA. Don\'t bother with tanks: South
+    America is not the best-suited terrain for these.
+-   Aircraft: don\'t sweat it, for the time being. Your Naval Bombers
+    (which will be your main air force) won\'t be upgradable until 1940.
+    Look into Interceptor techs, maybe CAS, which are nice all-around
+    ground- and sea-attack planes.
+-   Naval: decisions, decisions\... You cannot research everything, you
+    cannot build everything, so I would advise you to focus on
+    Submarines. Research up until Long-Range and then let it rest. Later
+    on, you may wish to build a larger surface fleet, but limit it to
+    smaller ships (CL and CA may be the best value here).
+-   Doctrines: land and sea doctrines take a lot of research time, but
+    are vital for your combat efficiency. They are not that important
+    early in the game, but don\'t forget them after 1938. Try to bargain
+    for blueprints \-- except, of course, Germany has a different Land
+    Doctrine path\... Air doctrines are usually faster.
 
 Whenever you can do so, start building a small quantity of industries
 (such as 2x4 or even 2x3). This will be important in getting to the 40
 IC holy grail. Also have a couple transport ships ready for 1939; get
 some Marines, too, if you can.
 
-### [ ]{#The*road_to_war*(1936-1939)} [ The road to war (1936-1939) ]{#The*road_to_war*.281936-1939.29 .mw-headline}
+### [ ]{#The_road_to_war_(1936-1939)} [ The road to war (1936-1939) ]{#The_road_to_war_.281936-1939.29 .mw-headline}
 
 This is the time when you go wild in South America. Attack, annex,
 recover; rinse, repeat. Have a few garrison in the construction queue
@@ -330,7 +335,7 @@ Attept to build a axis Alliance in South America, with Bolivia, and
 Peru, which will allow you to have a much easier fight against Brazil,
 and Chile. Also those two countries are ripe for fascism to take them.
 
-### [ ]{#Argentina*in_the_War*(1940-?)} [ Argentina in the War (1940-?) ]{#Argentina*in_the_War*.281940-.3F.29 .mw-headline}
+### [ ]{#Argentina_in_the_War_(1940-?)} [ Argentina in the War (1940-?) ]{#Argentina_in_the_War_.281940-.3F.29 .mw-headline}
 
 Now is the time for defense and construction.
 
@@ -377,7 +382,7 @@ may be old, but they can still turn a good deal of transports and their
 escorts into artificial reef. And if they are sunk, at least they went
 in a blaze of glory\...
 
-_Coming Soon: Back to the offensive_
+*Coming Soon: Back to the offensive*
 
 ## [ Argentina as a major power ]{#Argentina_as_a_major_power .mw-headline}
 
@@ -500,7 +505,7 @@ like you can use everything you have))
 
 \
 
-## [ ]{#Emperor*Gumby's_Argentina_Strategy*(Axis*Junior-into-Senior_Member)} [ Emperor Gumby\'s Argentina Strategy (Axis Junior-into-Senior Member) ]{#Emperor_Gumby.27s_Argentina_Strategy*.28Axis_Junior-into-Senior_Member.29 .mw-headline}
+## [ ]{#Emperor_Gumby's_Argentina_Strategy_(Axis_Junior-into-Senior_Member)} [ Emperor Gumby\'s Argentina Strategy (Axis Junior-into-Senior Member) ]{#Emperor_Gumby.27s_Argentina_Strategy_.28Axis_Junior-into-Senior_Member.29 .mw-headline}
 
 HOI2 DD v1.2, 1936 GC
 
@@ -508,7 +513,7 @@ The objective to this strategy is to turn Argentina into a credible
 world threat. This isn\'t for inexperienced players as I set some pretty
 tough early goals. They can all be achieved however.
 
-### [ Phase 1: Initial Growth ]{#Phase_1:\_Initial_Growth .mw-headline}
+### [ Phase 1: Initial Growth ]{#Phase_1:_Initial_Growth .mw-headline}
 
 There\'s no way we can help the Axis or anyone else by staying within
 the borders of Argentina. We must expand. Ignore the tiny countries on

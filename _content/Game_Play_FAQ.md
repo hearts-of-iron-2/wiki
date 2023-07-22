@@ -1,39 +1,47 @@
 ---
 title: Game_Play_FAQ
 ---
-
 ::: mw-parser-output
 ::: {#toc .toc aria-labelledby="mw-toc-heading" role="navigation"}
 ::: {.toctitle dir="ltr" lang="en"}
-
 ## Contents {#mw-toc-heading}
 
 [ ]{.toctogglespan}
 :::
 
-- [[ 1 ]{.tocnumber} [ Game Play ]{.toctext}](#Game_Play) - [[ 1.1 ]{.tocnumber} [ Does the game have to end on January 1,
-  1948?
-  ]{.toctext}](#Does_the_game_have_to_end_on_January_1.2C_1948.3F) - [[ 1.2 ]{.tocnumber} [ Can I turn off fog of war?
-  ]{.toctext}](#Can_I_turn_off_fog_of_war.3F) - [[ 1.3 ]{.tocnumber} [ Why do I keep getting \'Great War
-  Demonstrations\' as Germany?
-  ]{.toctext}](#Why_do_I_keep_getting_.27Great_War_Demonstrations.27_as_Germany.3F) - [[ 1.4 ]{.tocnumber} [ How do I delete old saved games?
-  ]{.toctext}](#How_do_I_delete_old_saved_games.3F) - [[ 1.5 ]{.tocnumber} [ How do I re-organize (air) units?
-  ]{.toctext}](#How_do_I_re-organize_.28air.29_units.3F) - [[ 1.6 ]{.tocnumber} [ How do I perform a \'blitzkrieg\' attack?
-  ]{.toctext}](#How_do_I_perform_a_.27blitzkrieg.27_attack.3F) - [[ 1.7 ]{.tocnumber} [ What is the difference between ministers
-  that give intelligence bonus and army intelligence bonus?
-  ]{.toctext}](#What_is_the_difference_between_ministers_that_give_intelligence_bonus_and_army_intelligence_bonus.3F) - [[ 1.8 ]{.tocnumber} [ Can you get energy from nuclear plants?
-  And what does the nuclear plant tech description mean by \"get
-  50% more energy in\" nuclear plant?
-  ]{.toctext}](#Can_you_get_energy_from_nuclear_plants.3F_And_what_does_the_nuclear_plant_tech_description_mean_by_.22get_50.25_more_energy_in.22_nuclear_plant.3F) - [[ 1.9 ]{.tocnumber} [ How much of a province resources and
-  industry do you get when you occupy a province? And what do you
-  gain by annexing the former owner of the province?
-  ]{.toctext}](#How_much_of_a_province_resources_and_industry_do_you_get_when_you_occupy_a_province.3F_And_what_do_you_gain_by_annexing_the_former_owner_of_the_province.3F) - [[ 1.10 ]{.tocnumber} [ How do Convoys work?
-  ]{.toctext}](#How_do_Convoys_work.3F)
-  :::
+-   [[ 1 ]{.tocnumber} [ Game Play ]{.toctext}](#Game_Play)
+    -   [[ 1.1 ]{.tocnumber} [ Does the game have to end on January 1,
+        1948?
+        ]{.toctext}](#Does_the_game_have_to_end_on_January_1.2C_1948.3F)
+    -   [[ 1.2 ]{.tocnumber} [ Can I turn off fog of war?
+        ]{.toctext}](#Can_I_turn_off_fog_of_war.3F)
+    -   [[ 1.3 ]{.tocnumber} [ Why do I keep getting \'Great War
+        Demonstrations\' as Germany?
+        ]{.toctext}](#Why_do_I_keep_getting_.27Great_War_Demonstrations.27_as_Germany.3F)
+    -   [[ 1.4 ]{.tocnumber} [ How do I delete old saved games?
+        ]{.toctext}](#How_do_I_delete_old_saved_games.3F)
+    -   [[ 1.5 ]{.tocnumber} [ How do I re-organize (air) units?
+        ]{.toctext}](#How_do_I_re-organize_.28air.29_units.3F)
+    -   [[ 1.6 ]{.tocnumber} [ How do I perform a \'blitzkrieg\' attack?
+        ]{.toctext}](#How_do_I_perform_a_.27blitzkrieg.27_attack.3F)
+    -   [[ 1.7 ]{.tocnumber} [ What is the difference between ministers
+        that give intelligence bonus and army intelligence bonus?
+        ]{.toctext}](#What_is_the_difference_between_ministers_that_give_intelligence_bonus_and_army_intelligence_bonus.3F)
+    -   [[ 1.8 ]{.tocnumber} [ Can you get energy from nuclear plants?
+        And what does the nuclear plant tech description mean by \"get
+        50% more energy in\" nuclear plant?
+        ]{.toctext}](#Can_you_get_energy_from_nuclear_plants.3F_And_what_does_the_nuclear_plant_tech_description_mean_by_.22get_50.25_more_energy_in.22_nuclear_plant.3F)
+    -   [[ 1.9 ]{.tocnumber} [ How much of a province resources and
+        industry do you get when you occupy a province? And what do you
+        gain by annexing the former owner of the province?
+        ]{.toctext}](#How_much_of_a_province_resources_and_industry_do_you_get_when_you_occupy_a_province.3F_And_what_do_you_gain_by_annexing_the_former_owner_of_the_province.3F)
+    -   [[ 1.10 ]{.tocnumber} [ How do Convoys work?
+        ]{.toctext}](#How_do_Convoys_work.3F)
+:::
 
 # [ [Game Play]{.mw-selflink .selflink} ]{#Game_Play .mw-headline}
 
-### [ ]{#Does_the_game_have_to_end_on_January_1,\_1948?} [ Does the game have to end on January 1, 1948? ]{#Does_the_game_have_to_end_on_January_1.2C_1948.3F .mw-headline}
+### [ ]{#Does_the_game_have_to_end_on_January_1,_1948?} [ Does the game have to end on January 1, 1948? ]{#Does_the_game_have_to_end_on_January_1.2C_1948.3F .mw-headline}
 
 No. There is [a
 utility](/wiki/Utilities#No_Time_Limit_Mod_Tool "Utilities") to remove
@@ -44,7 +52,7 @@ the end date.
 Yes. Press F12 and type in \'nofog\' (without quotes). Press ctrl + F12
 to close the console screen.
 
-### [ ]{#Why*do_I_keep_getting*'Great*War_Demonstrations'\_as_Germany?} [ Why do I keep getting \'Great War Demonstrations\' as Germany? ]{#Why_do_I_keep_getting*.27Great_War_Demonstrations.27_as_Germany.3F .mw-headline}
+### [ ]{#Why_do_I_keep_getting_'Great_War_Demonstrations'_as_Germany?} [ Why do I keep getting \'Great War Demonstrations\' as Germany? ]{#Why_do_I_keep_getting_.27Great_War_Demonstrations.27_as_Germany.3F .mw-headline}
 
 You need to read the text of the event. The demonstrations will stop as
 soon as you send a land unit into Cologne.
@@ -61,7 +69,7 @@ remove.
 To make this process easier in the future, create a shortcut to the
 above directory on your desktop or other convenient location.
 
-### [ ]{#How*do_I_re-organize*(air)_units?} [ How do I re-organize (air) units? ]{#How_do_I_re-organize_.28air.29_units.3F .mw-headline}
+### [ ]{#How_do_I_re-organize_(air)_units?} [ How do I re-organize (air) units? ]{#How_do_I_re-organize_.28air.29_units.3F .mw-headline}
 
 Select a unit of the type (air/land/sea) you want to re-group in the
 province you want. Holding down on the shift key and the left mouse
@@ -72,7 +80,7 @@ bottom of that left panel) to create your new formation.
 
 NOTE: You can not create air formations of more than 4 units
 
-### [ ]{#How*do_I_perform_a*'blitzkrieg'_attack?} [ How do I perform a \'blitzkrieg\' attack? ]{#How_do_I_perform_a_.27blitzkrieg.27_attack.3F .mw-headline}
+### [ ]{#How_do_I_perform_a_'blitzkrieg'_attack?} [ How do I perform a \'blitzkrieg\' attack? ]{#How_do_I_perform_a_.27blitzkrieg.27_attack.3F .mw-headline}
 
 Select the formation you wish to make an \"exploiting\" attack with.
 Right click on the first province you wish to attack. Now hold down on
@@ -90,13 +98,13 @@ low, instead of seeing the exact number of divisions, you will only see
 rough estimate of it. Intelligence provides bonus to random events such
 as the ability to steal blueprint from the enemy.
 
-### [ ]{#Can*you_get_energy_from_nuclear_plants?\_And_what_does_the_nuclear_plant_tech_description_mean_by*\"get*50%\_more_energy_in\"\_nuclear_plant?} [ Can you get energy from nuclear plants? And what does the nuclear plant tech description mean by \"get 50% more energy in\" nuclear plant? ]{#Can_you_get_energy_from_nuclear_plants.3F_And_what_does_the_nuclear_plant_tech_description_mean_by*.22get_50.25_more_energy_in.22_nuclear_plant.3F .mw-headline}
+### [ ]{#Can_you_get_energy_from_nuclear_plants?_And_what_does_the_nuclear_plant_tech_description_mean_by_\"get_50%_more_energy_in\"_nuclear_plant?} [ Can you get energy from nuclear plants? And what does the nuclear plant tech description mean by \"get 50% more energy in\" nuclear plant? ]{#Can_you_get_energy_from_nuclear_plants.3F_And_what_does_the_nuclear_plant_tech_description_mean_by_.22get_50.25_more_energy_in.22_nuclear_plant.3F .mw-headline}
 
 No, that tech increases the effect of nuclear plants with 50% (faster
 nuclear research and nuclear bomb building), it\'s simply a bad
 description.
 
-### [ ]{#How_much_of_a_province_resources_and_industry_do_you_get_when_you_occupy_a_province?\_And_what_do_you_gain_by_annexing_the_former_owner_of_the_province?} [ How much of a province resources and industry do you get when you occupy a province? And what do you gain by annexing the former owner of the province? ]{#How_much_of_a_province_resources_and_industry_do_you_get_when_you_occupy_a_province.3F_And_what_do_you_gain_by_annexing_the_former_owner_of_the_province.3F .mw-headline}
+### [ ]{#How_much_of_a_province_resources_and_industry_do_you_get_when_you_occupy_a_province?_And_what_do_you_gain_by_annexing_the_former_owner_of_the_province?} [ How much of a province resources and industry do you get when you occupy a province? And what do you gain by annexing the former owner of the province? ]{#How_much_of_a_province_resources_and_industry_do_you_get_when_you_occupy_a_province.3F_And_what_do_you_gain_by_annexing_the_former_owner_of_the_province.3F .mw-headline}
 
 You only receive 20% (+ any minister bonus, foreign IC use) of the
 industrial output of an occupied or annexed area. You receive 50% of
@@ -105,7 +113,7 @@ modifiers for resources are discussed in [this
 thread](http://forum.paradoxplaza.com/forum/showthread.php?t=209413){.external
 .text rel="nofollow"} and summarized below:
 
-    - All Machine Tool Techs apply accordingly. (+5%; 3-times) - The peacetime modifier applies accordingly (for those countries having one like US or UK). - Random event effects of +1% each for "Private Initiative" and "Government nationalizes private sector"). - Resource modification due to difficulty levels (+40%, +20%, 0, -20%, -40% - for v.easy, easy, normal, hard, v.hard).
+    - All Machine Tool Techs apply accordingly. (+5%; 3-times) - The peacetime modifier applies accordingly (for those countries having one like US or UK). - Random event effects of +1% each for "Private Initiative" and "Government nationalizes private sector"). - Resource modification due to difficulty levels (+40%, +20%, 0, -20%, -40% - for v.easy, easy, normal, hard, v.hard). 
 
 You gain nothing in IC, and just a few more resources, by annexing, but
 the occupied TC drain is removed for annexed countries and base partisan

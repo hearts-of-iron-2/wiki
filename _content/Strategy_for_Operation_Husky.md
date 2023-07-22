@@ -1,7 +1,6 @@
 ---
 title: Strategy_for_Operation_Husky
 ---
-
 ::: mw-parser-output
 [Template:Anthology](/wiki/index.php?title=Template:Anthology&action=edit&redlink=1 "Template:Anthology (page does not exist)"){.new}
 [Template:Scenario
@@ -52,8 +51,8 @@ airforce coming. Since you cannot move German units in the beginning,
 you have to wait until your forces are released by the event breaks out
 by landing of the Allies. After the event, just remember these tips:
 
-- Kick out the enemies landed.
-- Always keep the enemy airplanes from striking your armies.
+-   Kick out the enemies landed.
+-   Always keep the enemy airplanes from striking your armies.
 
 And now you just wait until February 1945, and get a strategic victory!
 :::

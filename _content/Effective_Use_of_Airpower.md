@@ -1,75 +1,73 @@
 ---
 title: Effective_Use_of_Airpower
 ---
-
 ::: mw-parser-output
 [Template:Anthology](/wiki/index.php?title=Template:Anthology&action=edit&redlink=1 "Template:Anthology (page does not exist)"){.new}
 
 ::: {#toc .toc aria-labelledby="mw-toc-heading" role="navigation"}
 ::: {.toctitle dir="ltr" lang="en"}
-
 ## Contents {#mw-toc-heading}
 
 [ ]{.toctogglespan}
 :::
 
-- [[ 1 ]{.tocnumber} [ Overview ]{.toctext}](#Overview)
-  - [[ 1.1 ]{.tocnumber} [ Version Changes
-    ]{.toctext}](#Version_Changes)
-- [[ 2 ]{.tocnumber} [ Strategy ]{.toctext}](#Strategy)
-  - [[ 2.1 ]{.tocnumber} [ Airfields ]{.toctext}](#Airfields)
-  - [[ 2.2 ]{.tocnumber} [ Air Defense ]{.toctext}](#Air_Defense)
-  - [[ 2.3 ]{.tocnumber} [ Air Superiority
-    ]{.toctext}](#Air_Superiority)
-  - [[ 2.4 ]{.tocnumber} [ Strategic Examples
-    ]{.toctext}](#Strategic_Examples)
-- [[ 3 ]{.tocnumber} [ Tactics ]{.toctext}](#Tactics)
-  - [[ 3.1 ]{.tocnumber} [ Night Flying ]{.toctext}](#Night_Flying)
-- [[ 4 ]{.tocnumber} [ Aircraft In-depth
-  ]{.toctext}](#Aircraft_In-depth)
-  - [[ 4.1 ]{.tocnumber} [ Interceptor vs. Fighter
-    ]{.toctext}](#Interceptor_vs._Fighter)
-  - [[ 4.2 ]{.tocnumber} [ Escort Fighters
-    ]{.toctext}](#Escort_Fighters)
-  - [[ 4.3 ]{.tocnumber} [ Strategic Bombers
-    ]{.toctext}](#Strategic_Bombers)
-  - [[ 4.4 ]{.tocnumber} [ Tactical & Close Air Support Bombers
-    ]{.toctext}](#Tactical_.26_Close_Air_Support_Bombers)
-  - [[ 4.5 ]{.tocnumber} [ Naval Bombers
-    ]{.toctext}](#Naval_Bombers)
-- [[ 5 ]{.tocnumber} [ AirPower Efficiency
-  ]{.toctext}](#AirPower_Efficiency)
-- [[ 6 ]{.tocnumber} [ Miscellaneous Tips for Using Air Power
-  ]{.toctext}](#Miscellaneous_Tips_for_Using_Air_Power)
-  :::
+-   [[ 1 ]{.tocnumber} [ Overview ]{.toctext}](#Overview)
+    -   [[ 1.1 ]{.tocnumber} [ Version Changes
+        ]{.toctext}](#Version_Changes)
+-   [[ 2 ]{.tocnumber} [ Strategy ]{.toctext}](#Strategy)
+    -   [[ 2.1 ]{.tocnumber} [ Airfields ]{.toctext}](#Airfields)
+    -   [[ 2.2 ]{.tocnumber} [ Air Defense ]{.toctext}](#Air_Defense)
+    -   [[ 2.3 ]{.tocnumber} [ Air Superiority
+        ]{.toctext}](#Air_Superiority)
+    -   [[ 2.4 ]{.tocnumber} [ Strategic Examples
+        ]{.toctext}](#Strategic_Examples)
+-   [[ 3 ]{.tocnumber} [ Tactics ]{.toctext}](#Tactics)
+    -   [[ 3.1 ]{.tocnumber} [ Night Flying ]{.toctext}](#Night_Flying)
+-   [[ 4 ]{.tocnumber} [ Aircraft In-depth
+    ]{.toctext}](#Aircraft_In-depth)
+    -   [[ 4.1 ]{.tocnumber} [ Interceptor vs. Fighter
+        ]{.toctext}](#Interceptor_vs._Fighter)
+    -   [[ 4.2 ]{.tocnumber} [ Escort Fighters
+        ]{.toctext}](#Escort_Fighters)
+    -   [[ 4.3 ]{.tocnumber} [ Strategic Bombers
+        ]{.toctext}](#Strategic_Bombers)
+    -   [[ 4.4 ]{.tocnumber} [ Tactical & Close Air Support Bombers
+        ]{.toctext}](#Tactical_.26_Close_Air_Support_Bombers)
+    -   [[ 4.5 ]{.tocnumber} [ Naval Bombers
+        ]{.toctext}](#Naval_Bombers)
+-   [[ 5 ]{.tocnumber} [ AirPower Efficiency
+    ]{.toctext}](#AirPower_Efficiency)
+-   [[ 6 ]{.tocnumber} [ Miscellaneous Tips for Using Air Power
+    ]{.toctext}](#Miscellaneous_Tips_for_Using_Air_Power)
+:::
 
 ## [ Overview ]{#Overview .mw-headline}
 
 Aircraft in Hearts of Iron 2 are extremely powerful when used
-effectively: they can decimate enemy Navies _and_ destroy enemy Armies.
+effectively: they can decimate enemy Navies *and* destroy enemy Armies.
 An **effective use of airpower** requires a considerable amount of
 research and aircraft construction: half-hearted attempts to create an
 air force will not be effective.
 
 There are four types of bombers in HOI2:
 
-- [Tactical
-  Bombers](/wiki/index.php?title=Tactical_Bomber&action=edit&redlink=1 "Tactical Bomber (page does not exist)"){.new}
-  (TAC)
-- [Strategic
-  Bombers](/wiki/index.php?title=Strategic_Bomber&action=edit&redlink=1 "Strategic Bomber (page does not exist)"){.new}
-  (STR)
-- [Naval Bombers](/wiki/Naval_Bomber "Naval Bomber"){.mw-redirect}
-  (NAV)
-- [Close Air Support](/wiki/Close_Air_Support "Close Air Support")
-  (CAS)
+-   [Tactical
+    Bombers](/wiki/index.php?title=Tactical_Bomber&action=edit&redlink=1 "Tactical Bomber (page does not exist)"){.new}
+    (TAC)
+-   [Strategic
+    Bombers](/wiki/index.php?title=Strategic_Bomber&action=edit&redlink=1 "Strategic Bomber (page does not exist)"){.new}
+    (STR)
+-   [Naval Bombers](/wiki/Naval_Bomber "Naval Bomber"){.mw-redirect}
+    (NAV)
+-   [Close Air Support](/wiki/Close_Air_Support "Close Air Support")
+    (CAS)
 
 There are three types of fighters in HOI2:
 
-- [Fighters](/wiki/Fighter "Fighter"){.mw-redirect} (FTR)
-- [Escort
-  Fighters](/wiki/Escort_Fighter "Escort Fighter"){.mw-redirect} (ESC)
-- [Interceptors](/wiki/Interceptor "Interceptor"){.mw-redirect} (INT)
+-   [Fighters](/wiki/Fighter "Fighter"){.mw-redirect} (FTR)
+-   [Escort
+    Fighters](/wiki/Escort_Fighter "Escort Fighter"){.mw-redirect} (ESC)
+-   [Interceptors](/wiki/Interceptor "Interceptor"){.mw-redirect} (INT)
 
 Finally, in a category of its own, there is the [Transport
 Planes](/wiki/index.php?title=Transport_Plane&action=edit&redlink=1 "Transport Plane (page does not exist)"){.new}
@@ -78,17 +76,17 @@ Planes](/wiki/index.php?title=Transport_Plane&action=edit&redlink=1 "Transport P
 
 ### [ Version Changes ]{#Version_Changes .mw-headline}
 
-- HOI2: Air combat in the original HOI2 game was considerably flawed.
-  The AI would send aircraft on suicide missions, and literally waste
-  its most valuable aircraft for no tactical nor strategic gain.
-  Meanwhile, Naval Bombers were ridiculously overpowered and could
-  single handedly wipe out entire navies.
-- DD: Air combat AI was significantly improved. Escort fighters became
-  brigades. Naval Bombers were weakened.
-- ARMA: Air combat AI was again improved. Aircraft take much more
-  damage by enemy fire than in previous versions of the game. That
-  means more micromanagement as you really don´t want your planes to
-  attack larger enemy stacks.
+-   HOI2: Air combat in the original HOI2 game was considerably flawed.
+    The AI would send aircraft on suicide missions, and literally waste
+    its most valuable aircraft for no tactical nor strategic gain.
+    Meanwhile, Naval Bombers were ridiculously overpowered and could
+    single handedly wipe out entire navies.
+-   DD: Air combat AI was significantly improved. Escort fighters became
+    brigades. Naval Bombers were weakened.
+-   ARMA: Air combat AI was again improved. Aircraft take much more
+    damage by enemy fire than in previous versions of the game. That
+    means more micromanagement as you really don´t want your planes to
+    attack larger enemy stacks.
 
 ## [ Strategy ]{#Strategy .mw-headline}
 
@@ -100,12 +98,12 @@ aircraft share technology doctrines, making them popular choices:
 Fighters and Interceptors; and Tactical and Naval Bombers.
 
 For major nations, the choice in Bombers is divided three ways, and
-_only two options_ can effectively be pursued. Most players choose
+*only two options* can effectively be pursued. Most players choose
 TAC/NAV & CAS, and ignore STR:
 
-- Tactical & Naval Bombers
-- Close Air Support Bombers
-- Strategic Bombers
+-   Tactical & Naval Bombers
+-   Close Air Support Bombers
+-   Strategic Bombers
 
 ### [ Airfields ]{#Airfields .mw-headline}
 
@@ -126,16 +124,16 @@ for air power.
 A total of five factors can be used to provide an extremely strong air
 defense:
 
-- Interceptor \"umbrella\": Interceptors on Air Superiority missions
-  covering each major interior region of your nation.
-- Fighter \"barrier\": Fighters on Air Superiority missions that
-  provide a defensive \"front-line\".
-- Anti-Aircraft: To assist fighters and interceptors, anti-aircraft
-  installations are very effective
-- Air Bases: Any air engagement over an airbase provides your aircraft
-  with combat bonuses
-- Radar: Any air engagement over an airbase provides your aircraft
-  with combat bonuses
+-   Interceptor \"umbrella\": Interceptors on Air Superiority missions
+    covering each major interior region of your nation.
+-   Fighter \"barrier\": Fighters on Air Superiority missions that
+    provide a defensive \"front-line\".
+-   Anti-Aircraft: To assist fighters and interceptors, anti-aircraft
+    installations are very effective
+-   Air Bases: Any air engagement over an airbase provides your aircraft
+    with combat bonuses
+-   Radar: Any air engagement over an airbase provides your aircraft
+    with combat bonuses
 
 ### [ Air Superiority ]{#Air_Superiority .mw-headline}
 
@@ -154,10 +152,10 @@ aircraft is quite difficult and rare (in DD & ARMA).
 Strategic bombers are the best weapon for attacking enemy
 infrastructure, and perform three vital missions:
 
-- Installation strikes to reduce the effect of AA;
-- Runway cratering to reduce the strength of airfields;
-- Logistical strikes to reduce province infrastructure \-- which means
-  airfields and AA will take longer to come back to normal.
+-   Installation strikes to reduce the effect of AA;
+-   Runway cratering to reduce the strength of airfields;
+-   Logistical strikes to reduce province infrastructure \-- which means
+    airfields and AA will take longer to come back to normal.
 
 Once air superiority has been achieved, periodic Strategic Bombing runs
 are necessary to maintain supremacy. This method, though expensive, can
@@ -194,17 +192,17 @@ in the broader war effort, which generally means capturing provinces. In
 the land war, a complete/ideal use of the air force would be conducted
 like this:
 
-- An Interceptor wing flies over your own forces, protecting them from
-  enemy bombers
-- A fighter wing flies over enemy territory, attacking enemy
-  interceptors to clear the air for your own aircraft
-- Strategic Bombardment attacks behind enemy lines, weakening IC and
-  province infrastructure of the soon to be retreating forces
-- Tactical Bombers conduct interdiction missions on the enemy lines as
-  your main army attacks, helping to rapidly reduce enemy organisation
-- As the retreating enemy falls back into a province with greatly
-  reduced infrastructure, your Close Air Support bombers perform
-  ground attack missions, tearing the enemy army to shreds.
+-   An Interceptor wing flies over your own forces, protecting them from
+    enemy bombers
+-   A fighter wing flies over enemy territory, attacking enemy
+    interceptors to clear the air for your own aircraft
+-   Strategic Bombardment attacks behind enemy lines, weakening IC and
+    province infrastructure of the soon to be retreating forces
+-   Tactical Bombers conduct interdiction missions on the enemy lines as
+    your main army attacks, helping to rapidly reduce enemy organisation
+-   As the retreating enemy falls back into a province with greatly
+    reduced infrastructure, your Close Air Support bombers perform
+    ground attack missions, tearing the enemy army to shreds.
 
 ### [ Night Flying ]{#Night_Flying .mw-headline}
 
@@ -218,7 +216,7 @@ particular.
 
 ## [ Aircraft In-depth ]{#Aircraft_In-depth .mw-headline}
 
-### [ Interceptor vs. Fighter ]{#Interceptor_vs.\_Fighter .mw-headline}
+### [ Interceptor vs. Fighter ]{#Interceptor_vs._Fighter .mw-headline}
 
 Interceptors are designed to defeat bombers (STR, TAC, CAS, NAV), while
 Fighters are designed to achieve air superiority. For this reason,
@@ -229,26 +227,26 @@ bombers to abort their mission.
 
 Fighter Overview:
 
-- Superior Range (necessary in the Pacific)
-- High cost to build
-- High cost and time to repair
-- High supply/fuel needs
-- Technology comes later
-- Decent at non-conventional uses (ground attack, etc)
-- Excellent for JAP and USA due to range issues
+-   Superior Range (necessary in the Pacific)
+-   High cost to build
+-   High cost and time to repair
+-   High supply/fuel needs
+-   Technology comes later
+-   Decent at non-conventional uses (ground attack, etc)
+-   Excellent for JAP and USA due to range issues
 
 Interceptor Overview:
 
-- +25% combat bonus when fighting bombers
-- Inferior Range (not needed due to defensive role)
-- Low cost to build
-- Low cost and time to repair
-- Low supply/fuel needs
-- Technology comes earlier
-- Very poor at non-conventional uses (ground attack, etc)
-- Rocket interceptors are very poor and need two more aircraft techs
-  to be researched before interceptors can upgrade to turbojet models
-- Excellent for GER, USSR, ITA, UK
+-   +25% combat bonus when fighting bombers
+-   Inferior Range (not needed due to defensive role)
+-   Low cost to build
+-   Low cost and time to repair
+-   Low supply/fuel needs
+-   Technology comes earlier
+-   Very poor at non-conventional uses (ground attack, etc)
+-   Rocket interceptors are very poor and need two more aircraft techs
+    to be researched before interceptors can upgrade to turbojet models
+-   Excellent for GER, USSR, ITA, UK
 
 For these reasons, many players exclusively build Interceptors. A
 combined force of Fighters and Interceptors is the most potent
@@ -300,7 +298,7 @@ can be a major boon to keeping your supply lines open. Your convoys
 don\'t have to worry about submarines that are undersupplied and
 spending months longer in port to repair.
 
-### [ ]{#Tactical*&\_Close_Air_Support_Bombers} [ Tactical & Close Air Support Bombers ]{#Tactical*.26_Close_Air_Support_Bombers .mw-headline}
+### [ ]{#Tactical_&_Close_Air_Support_Bombers} [ Tactical & Close Air Support Bombers ]{#Tactical_.26_Close_Air_Support_Bombers .mw-headline}
 
 Once you have established air superiority, it is time to use your
 Tactical and CAS aircraft to effect. Your use of air is meant for one
@@ -438,4 +436,4 @@ A few other tips before I wrap it up:
     detrimental effect, but you can reduce this effect by researching
     the appropriate doctrines for the aircraft type. Attacking at night
     in the rain is pointless. Ground your aircraft and save the oil.
-    :::
+:::

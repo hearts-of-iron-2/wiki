@@ -1,9 +1,7 @@
 ---
 title: Siam
 ---
-
 ::: mw-parser-output
-
 ### [ Possible list of Armed Forces of Siam at the outbreak of World War II ]{#Possible_list_of_Armed_Forces_of_Siam_at_the_outbreak_of_World_War_II .mw-headline}
 
 Navy

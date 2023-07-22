@@ -1,7 +1,6 @@
 ---
 title: Portugal
 ---
-
 ::: mw-parser-output
 ::: {.eu4box style="width:330px; height:auto; float:right; clear:right"}
 ::: heading
@@ -14,7 +13,7 @@ title: Portugal
 [Major powers](/wiki/Major_power "Major power"){.mw-redirect}
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [France](/wiki/France "France")\
@@ -30,7 +29,7 @@ title: Portugal
 Regional powers
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [Argentina](/wiki/Argentina "Argentina")\
@@ -58,7 +57,7 @@ Regional powers
 [Minor powers](/wiki/Minor_power "Minor power"){.mw-redirect}
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [Austria](/wiki/Austria "Austria")\
@@ -81,7 +80,7 @@ Regional powers
 [Micro powers](/wiki/Micro_power "Micro power"){.mw-redirect}
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [Afghanistan](/wiki/Afghanistan "Afghanistan")\
@@ -131,29 +130,28 @@ Arabia](/wiki/index.php?title=Saudi_Arabia&action=edit&redlink=1 "Saudi Arabia (
 
 ::: {#toc .toc aria-labelledby="mw-toc-heading" role="navigation"}
 ::: {.toctitle dir="ltr" lang="en"}
-
 ## Contents {#mw-toc-heading}
 
 [ ]{.toctogglespan}
 :::
 
-- [[ 1 ]{.tocnumber} [ Overview ]{.toctext}](#Overview)
-- [[ 2 ]{.tocnumber} [ Technology ]{.toctext}](#Technology)
-- [[ 3 ]{.tocnumber} [ Diplomacy ]{.toctext}](#Diplomacy)
-  - [[ 3.1 ]{.tocnumber} [ Alliances ]{.toctext}](#Alliances)
-  - [[ 3.2 ]{.tocnumber} [ Sliders ]{.toctext}](#Sliders)
-  - [[ 3.3 ]{.tocnumber} [ Ministers ]{.toctext}](#Ministers)
-- [[ 4 ]{.tocnumber} [ Economy ]{.toctext}](#Economy)
-  - [[ 4.1 ]{.tocnumber} [ Trading ]{.toctext}](#Trading)
-  - [[ 4.2 ]{.tocnumber} [ Industrial Production
-    ]{.toctext}](#Industrial_Production)
-- [[ 5 ]{.tocnumber} [ Military ]{.toctext}](#Military)
-  - [[ 5.1 ]{.tocnumber} [ Army ]{.toctext}](#Army)
-  - [[ 5.2 ]{.tocnumber} [ Navy ]{.toctext}](#Navy)
-  - [[ 5.3 ]{.tocnumber} [ Air Force ]{.toctext}](#Air_Force)
-- [[ 6 ]{.tocnumber} [ War ]{.toctext}](#War)
-- [[ 7 ]{.tocnumber} [ Tech Teams ]{.toctext}](#Tech_Teams)
-  :::
+-   [[ 1 ]{.tocnumber} [ Overview ]{.toctext}](#Overview)
+-   [[ 2 ]{.tocnumber} [ Technology ]{.toctext}](#Technology)
+-   [[ 3 ]{.tocnumber} [ Diplomacy ]{.toctext}](#Diplomacy)
+    -   [[ 3.1 ]{.tocnumber} [ Alliances ]{.toctext}](#Alliances)
+    -   [[ 3.2 ]{.tocnumber} [ Sliders ]{.toctext}](#Sliders)
+    -   [[ 3.3 ]{.tocnumber} [ Ministers ]{.toctext}](#Ministers)
+-   [[ 4 ]{.tocnumber} [ Economy ]{.toctext}](#Economy)
+    -   [[ 4.1 ]{.tocnumber} [ Trading ]{.toctext}](#Trading)
+    -   [[ 4.2 ]{.tocnumber} [ Industrial Production
+        ]{.toctext}](#Industrial_Production)
+-   [[ 5 ]{.tocnumber} [ Military ]{.toctext}](#Military)
+    -   [[ 5.1 ]{.tocnumber} [ Army ]{.toctext}](#Army)
+    -   [[ 5.2 ]{.tocnumber} [ Navy ]{.toctext}](#Navy)
+    -   [[ 5.3 ]{.tocnumber} [ Air Force ]{.toctext}](#Air_Force)
+-   [[ 6 ]{.tocnumber} [ War ]{.toctext}](#War)
+-   [[ 7 ]{.tocnumber} [ Tech Teams ]{.toctext}](#Tech_Teams)
+:::
 
 ## [ Overview ]{#Overview .mw-headline}
 
@@ -174,17 +172,17 @@ be an early focus.
 
 Portugal has a large amount of options in terms of Alliances:
 
-- Portugal can join the Axis as early as the start of the game. Too
-  early an alliance with Germany may complicate early adventurism in
-  annexations. An Axis alliance can provide opportunities for resource
-  gains in Central and South Africa, though very difficult to manage.
-- Portugal can also join Japan. This is possible during the war with
-  China, and could provide Portugal with an opportunity to make gains.
-- Portugal can work very hard, with influence actions, to be able to
-  join the Allies. This is not entirely easy due to Portugal\'s
-  inability to generate cash. With relations of +200 with the UK,
-  Portugal\'s chances of being accepted into the Allies is 95%. When
-  in the Allies, adventures in Ethiopia or Thailand are possible.
+-   Portugal can join the Axis as early as the start of the game. Too
+    early an alliance with Germany may complicate early adventurism in
+    annexations. An Axis alliance can provide opportunities for resource
+    gains in Central and South Africa, though very difficult to manage.
+-   Portugal can also join Japan. This is possible during the war with
+    China, and could provide Portugal with an opportunity to make gains.
+-   Portugal can work very hard, with influence actions, to be able to
+    join the Allies. This is not entirely easy due to Portugal\'s
+    inability to generate cash. With relations of +200 with the UK,
+    Portugal\'s chances of being accepted into the Allies is 95%. When
+    in the Allies, adventures in Ethiopia or Thailand are possible.
 
 ### [ Sliders ]{#Sliders .mw-headline}
 
@@ -238,33 +236,30 @@ generally unthinkable.
 
 As a very weak starting country, Portugal has very few options:
 
-- Ireland: Beginning with just a single division, Ireland\'s weakness
-  and proximity makes it a good target for early war.
-- Spanish Civil War: Portugal is nowhere near powerful enough to face
-  the main combatants of the Spanish Civil War. Opportunism, however,
-  is a possibility. Portutgal can prey on the loosing side, and
-  attempt to grab one of their IC rich territories (La Corona, for
-  example) before they are annexed. Capturing an enemy capital
-  province will be a relative boon for Portugal\'s anemic stockpiles.
-- Thailand: A very tough opponent, but a possible target from the
-  Macao naval base.
+-   Ireland: Beginning with just a single division, Ireland\'s weakness
+    and proximity makes it a good target for early war.
+-   Spanish Civil War: Portugal is nowhere near powerful enough to face
+    the main combatants of the Spanish Civil War. Opportunism, however,
+    is a possibility. Portutgal can prey on the loosing side, and
+    attempt to grab one of their IC rich territories (La Corona, for
+    example) before they are annexed. Capturing an enemy capital
+    province will be a relative boon for Portugal\'s anemic stockpiles.
+-   Thailand: A very tough opponent, but a possible target from the
+    Macao naval base.
 
 ## [ [Tech Teams](/wiki/Tech_Teams_by_Country "Tech Teams by Country") ]{#Tech_Teams .mw-headline}
 
----
-
-Tech Team Skill lvl Years General Area of Expertise
-[Caminhos de Ferro Portugueses](http://en.wikipedia.org/wiki/Caminhos_de_Ferro_Portugueses){.external .text rel="nofollow"} 5 All\* Industry, Armor and Artillery
-Lisbon Dockyard 4 All Naval
-Fransisco Soares 4 All Land Doc
-Arsenal do Alfeite 3 All Nav, Ind
-Fábrica Militar de Santa Clara 3 All Infantry, Arm and Art
-Jaime Afreixo 3 All Naval Doc, Nav
-Manuel Gouveia 3 All Air Doc, Aircraft
-Oficinas Gerais de Material Aeronáutico 3 All Air, AD
-Oficinas Gerais de Material de Engenharia 3 All Arm and Art, Ind
-[José Norton de Matos](http://en.wikipedia.org/wiki/Jose_Norton_de_Matos){.external .text rel="nofollow"} 2 \'30-\'38 LD, Inf
-
----
-
+  ----------------------------------------------------------------------------------------------------------------------------- ----------- ----------- -------------------------------
+  Tech Team                                                                                                                     Skill lvl   Years       General Area of Expertise
+  [Caminhos de Ferro Portugueses](http://en.wikipedia.org/wiki/Caminhos_de_Ferro_Portugueses){.external .text rel="nofollow"}   5           All\*       Industry, Armor and Artillery
+  Lisbon Dockyard                                                                                                               4           All         Naval
+  Fransisco Soares                                                                                                              4           All         Land Doc
+  Arsenal do Alfeite                                                                                                            3           All         Nav, Ind
+  Fábrica Militar de Santa Clara                                                                                                3           All         Infantry, Arm and Art
+  Jaime Afreixo                                                                                                                 3           All         Naval Doc, Nav
+  Manuel Gouveia                                                                                                                3           All         Air Doc, Aircraft
+  Oficinas Gerais de Material Aeronáutico                                                                                       3           All         Air, AD
+  Oficinas Gerais de Material de Engenharia                                                                                     3           All         Arm and Art, Ind
+  [José Norton de Matos](http://en.wikipedia.org/wiki/Jose_Norton_de_Matos){.external .text rel="nofollow"}                     2           \'30-\'38   LD, Inf
+  ----------------------------------------------------------------------------------------------------------------------------- ----------- ----------- -------------------------------
 :::

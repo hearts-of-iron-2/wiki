@@ -1,9 +1,7 @@
 ---
 title: Sealane_Interdiction
 ---
-
 ::: mw-parser-output
-
 ### [ [Sealane Interdiction]{.mw-selflink .selflink} ]{#Sealane_Interdiction .mw-headline}
 
 SLI is the least popular doctrine, with Germany as its sole worshiper.

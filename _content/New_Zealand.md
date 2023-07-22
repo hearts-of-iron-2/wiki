@@ -1,7 +1,6 @@
 ---
 title: New_Zealand
 ---
-
 ::: mw-parser-output
 ::: {.eu4box style="width:330px; height:auto; float:right; clear:right"}
 ::: heading
@@ -14,7 +13,7 @@ title: New_Zealand
 [Major powers](/wiki/Major_power "Major power"){.mw-redirect}
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [France](/wiki/France "France")\
@@ -30,7 +29,7 @@ title: New_Zealand
 Regional powers
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [Argentina](/wiki/Argentina "Argentina")\
@@ -58,7 +57,7 @@ Regional powers
 [Minor powers](/wiki/Minor_power "Minor power"){.mw-redirect}
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [Austria](/wiki/Austria "Austria")\
@@ -81,7 +80,7 @@ Regional powers
 [Micro powers](/wiki/Micro_power "Micro power"){.mw-redirect}
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [Afghanistan](/wiki/Afghanistan "Afghanistan")\
@@ -131,19 +130,18 @@ Arabia](/wiki/index.php?title=Saudi_Arabia&action=edit&redlink=1 "Saudi Arabia (
 
 ::: {#toc .toc aria-labelledby="mw-toc-heading" role="navigation"}
 ::: {.toctitle dir="ltr" lang="en"}
-
 ## Contents {#mw-toc-heading}
 
 [ ]{.toctogglespan}
 :::
 
-- [[ 1 ]{.tocnumber} [ Background ]{.toctext}](#Background)
-- [[ 2 ]{.tocnumber} [ Before World War
-  ]{.toctext}](#Before_World_War)
-  - [[ 2.1 ]{.tocnumber} [ Research & Production
-    ]{.toctext}](#Research_.26_Production)
-- [[ 3 ]{.tocnumber} [ At war ]{.toctext}](#At_war)
-  :::
+-   [[ 1 ]{.tocnumber} [ Background ]{.toctext}](#Background)
+-   [[ 2 ]{.tocnumber} [ Before World War
+    ]{.toctext}](#Before_World_War)
+    -   [[ 2.1 ]{.tocnumber} [ Research & Production
+        ]{.toctext}](#Research_.26_Production)
+-   [[ 3 ]{.tocnumber} [ At war ]{.toctext}](#At_war)
+:::
 
 ## [ Background ]{#Background .mw-headline}
 
@@ -151,18 +149,18 @@ Arabia](/wiki/index.php?title=Saudi_Arabia&action=edit&redlink=1 "Saudi Arabia (
 forces but playing with it will be fun and challenging - as it has some
 advantages too.
 
-- **Advantages**
-  - Lots of powerful allies
-  - OK tech teams and a few are very good
-  - Isolationism: AI never attacks New Zealand
-- But there is lots of **disadvantages**
-  - Low [IC](/wiki/IC "IC"){.mw-redirect} and only one tech slot
-  - Low manpower
-  - Weak army: land units have only ½ strength\...
-    - Navy have only few transport ships, no cruisers or
-      battleships
-    - No air force
-  - Dove lobby: low manpower growth
+-   **Advantages**
+    -   Lots of powerful allies
+    -   OK tech teams and a few are very good
+    -   Isolationism: AI never attacks New Zealand
+-   But there is lots of **disadvantages**
+    -   Low [IC](/wiki/IC "IC"){.mw-redirect} and only one tech slot
+    -   Low manpower
+    -   Weak army: land units have only ½ strength\...
+        -   Navy have only few transport ships, no cruisers or
+            battleships
+        -   No air force
+    -   Dove lobby: low manpower growth
 
 ## [ Before World War ]{#Before_World_War .mw-headline}
 
@@ -170,32 +168,31 @@ The first thing you need to do is building infantry. One infantry costs
 4.82 IC so set production slider to 4 or 4.82 but then you must leave
 reinforcing your first divisions. Try upgrade obsolete divisions and
 reinforce old divisions\... In politics New Zealand have one good thing,
-it is _social democrat_ . Move Democracy slider to Authoritarian to make
+it is *social democrat* . Move Democracy slider to Authoritarian to make
 your goverment Left-Wing radical or Dove lobby slider to Hawk lobby. Do
 not research or build tanks.
 
-### [ ]{#Research*&\_Production} [ Research & Production ]{#Research*.26_Production .mw-headline}
+### [ ]{#Research_&_Production} [ Research & Production ]{#Research_.26_Production .mw-headline}
 
 Research and product
 
-- Basic [Infantry](/wiki/Infantry "Infantry")
-- Basic [Marines](/wiki/Marines "Marines"){.mw-redirect}
-- Transports and/or destroyers
+-   Basic [Infantry](/wiki/Infantry "Infantry")
+-   Basic [Marines](/wiki/Marines "Marines"){.mw-redirect}
+-   Transports and/or destroyers
 
 Don\'t
 
-- [Cavalry](/wiki/Cavalry "Cavalry"){.mw-redirect} , it is not useful
-  in island-to-island campaigns
-- [Battleships](/wiki/index.php?title=Battleships&action=edit&redlink=1 "Battleships (page does not exist)"){.new}
-  (it will be take too long to build any battleships, if you don\'t
-  use _no time limit_ -mod =\])
+-   [Cavalry](/wiki/Cavalry "Cavalry"){.mw-redirect} , it is not useful
+    in island-to-island campaigns
+-   [Battleships](/wiki/index.php?title=Battleships&action=edit&redlink=1 "Battleships (page does not exist)"){.new}
+    (it will be take too long to build any battleships, if you don\'t
+    use *no time limit* -mod =\])
 
 ```{=html}
 <!-- -->
 ```
-
-- And really don\'t waste your low IC on tanks, which are also weak
-  attacking islands
+-   And really don\'t waste your low IC on tanks, which are also weak
+    attacking islands
 
 And if you have time, try to research some basic doctrines, New Zealands
 best tech teams are doctrine-teams\...
@@ -212,22 +209,22 @@ be good for operations like this and if you play well, you can start
 amphibious assault on the [Japanese](/wiki/Japan "Japan") main Islands,
 where you really will need good infantry and luck too..
 
-- Alternatively\* What I like to do with NZ, (I didn\'t write the
-  above piece) is disband my CAV at the start, as they arent worth
-  reinforcing, then spam INF and transport them to Africa where they
-  can get XP stopping the Italians, as generally, the British AI
-  doesn\'t fight too hard in Africa. Then take your troops into Italy
-  itself, where the IC jackpot is. Try and get the RN to destroy the
-  Italian navy first, or go gamey and splash out for a NAV squadron or
-  two and bomb them. Then landing troops in Anzio for example is a
-  piece of cake. I generally tend to ignore Japan, as they have plenty
-  of trouble from the USA and Britain, and the gains to be made are
-  quite small. Then, once the IC rolls in, build some tanks with the
-  extra tech slots you\'ll have, or branch out into wherever you feel.
-  Buying planes from Britain doesnt hurt, but you have to reinforce
-  them. I used ground attack quite a bit, but have heard this has been
-  nerfed in Arma 1.2 so thats a blow. Good luck, NZ is quite hard to
-  play, but fun if you get it right.
+-   Alternatively\* What I like to do with NZ, (I didn\'t write the
+    above piece) is disband my CAV at the start, as they arent worth
+    reinforcing, then spam INF and transport them to Africa where they
+    can get XP stopping the Italians, as generally, the British AI
+    doesn\'t fight too hard in Africa. Then take your troops into Italy
+    itself, where the IC jackpot is. Try and get the RN to destroy the
+    Italian navy first, or go gamey and splash out for a NAV squadron or
+    two and bomb them. Then landing troops in Anzio for example is a
+    piece of cake. I generally tend to ignore Japan, as they have plenty
+    of trouble from the USA and Britain, and the gains to be made are
+    quite small. Then, once the IC rolls in, build some tanks with the
+    extra tech slots you\'ll have, or branch out into wherever you feel.
+    Buying planes from Britain doesnt hurt, but you have to reinforce
+    them. I used ground attack quite a bit, but have heard this has been
+    nerfed in Arma 1.2 so thats a blow. Good luck, NZ is quite hard to
+    play, but fun if you get it right.
 
 (just finished a game as NZ, annexed Germany and the rest of Europe, AAR
 on forums :D

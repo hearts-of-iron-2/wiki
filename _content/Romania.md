@@ -1,7 +1,6 @@
 ---
 title: Romania
 ---
-
 ::: mw-parser-output
 ::: {.eu4box style="width:330px; height:auto; float:right; clear:right"}
 ::: heading
@@ -14,7 +13,7 @@ title: Romania
 [Major powers](/wiki/Major_power "Major power"){.mw-redirect}
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [France](/wiki/France "France")\
@@ -30,7 +29,7 @@ title: Romania
 Regional powers
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [Argentina](/wiki/Argentina "Argentina")\
@@ -58,7 +57,7 @@ Regional powers
 [Minor powers](/wiki/Minor_power "Minor power"){.mw-redirect}
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [Austria](/wiki/Austria "Austria")\
@@ -81,7 +80,7 @@ Regional powers
 [Micro powers](/wiki/Micro_power "Micro power"){.mw-redirect}
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [Afghanistan](/wiki/Afghanistan "Afghanistan")\
@@ -136,25 +135,24 @@ many of whom have claims on your territory.
 
 ::: {#toc .toc aria-labelledby="mw-toc-heading" role="navigation"}
 ::: {.toctitle dir="ltr" lang="en"}
-
 ## Contents {#mw-toc-heading}
 
 [ ]{.toctogglespan}
 :::
 
-- [[ 1 ]{.tocnumber} [ Preparations ]{.toctext}](#Preparations)
-- [[ 2 ]{.tocnumber} [ Balkan war ]{.toctext}](#Balkan_war)
-- [[ 3 ]{.tocnumber} [ Further strategy
-  ]{.toctext}](#Further_strategy)
-- [[ 4 ]{.tocnumber} [ A more \"Patriotic\" alternative
-  ]{.toctext}](#A_more_.22Patriotic.22_alternative)
-- [[ 5 ]{.tocnumber} [ Romania: Balkan Superpower?
-  ]{.toctext}](#Romania:_Balkan_Superpower.3F)
-- [[ 6 ]{.tocnumber} [ An Allied Romania
-  ]{.toctext}](#An_Allied_Romania)
-- [[ 7 ]{.tocnumber} [ Further Interests
-  ]{.toctext}](#Further_Interests)
-  :::
+-   [[ 1 ]{.tocnumber} [ Preparations ]{.toctext}](#Preparations)
+-   [[ 2 ]{.tocnumber} [ Balkan war ]{.toctext}](#Balkan_war)
+-   [[ 3 ]{.tocnumber} [ Further strategy
+    ]{.toctext}](#Further_strategy)
+-   [[ 4 ]{.tocnumber} [ A more \"Patriotic\" alternative
+    ]{.toctext}](#A_more_.22Patriotic.22_alternative)
+-   [[ 5 ]{.tocnumber} [ Romania: Balkan Superpower?
+    ]{.toctext}](#Romania:_Balkan_Superpower.3F)
+-   [[ 6 ]{.tocnumber} [ An Allied Romania
+    ]{.toctext}](#An_Allied_Romania)
+-   [[ 7 ]{.tocnumber} [ Further Interests
+    ]{.toctext}](#Further_Interests)
+:::
 
 ## [ Preparations ]{#Preparations .mw-headline}
 
@@ -200,7 +198,7 @@ join the Comintern. Russians are next to you, and you\'ll have
 opportunities to strike whoever you would like. Maybe Yugoslavia,
 Turkey, or perhaps even Germany.
 
-## [ ]{#A*more*\"Patriotic\"_alternative} [ A more \"Patriotic\" alternative ]{#A_more_.22Patriotic.22_alternative .mw-headline}
+## [ ]{#A_more_\"Patriotic\"_alternative} [ A more \"Patriotic\" alternative ]{#A_more_.22Patriotic.22_alternative .mw-headline}
 
 Move towards Authorian and Right Wing. Further events should help you
 move towards Hawk Lobby, Standing Army, Central Planning, and
@@ -232,7 +230,7 @@ You now have a secure position.
 
 Your next target should be the oil fields in the Middle East.
 
-## [ ]{#Romania:\_Balkan_Superpower?} [ Romania: Balkan Superpower? ]{#Romania:\_Balkan_Superpower.3F .mw-headline}
+## [ ]{#Romania:_Balkan_Superpower?} [ Romania: Balkan Superpower? ]{#Romania:_Balkan_Superpower.3F .mw-headline}
 
 The goal here is an aggressive play for Hungary as soon as possible.
 Take your rather large starting army and start stacking it on the border

@@ -1,34 +1,32 @@
 ---
 title: Users_guide_to_versions_1.1,_1.2_and_1.3_consolidated
 ---
-
 ::: mw-parser-output
 [Template:HoI2
 v1.3](/wiki/index.php?title=Template:HoI2_v1.3&action=edit&redlink=1 "Template:HoI2 v1.3 (page does not exist)"){.new}
 
 ::: {#toc .toc aria-labelledby="mw-toc-heading" role="navigation"}
 ::: {.toctitle dir="ltr" lang="en"}
-
 ## Contents {#mw-toc-heading}
 
 [ ]{.toctogglespan}
 :::
 
-- [[ 1 ]{.tocnumber} [ A User's Guide to the 1.1 Update
-  ]{.toctext}](#A_User.E2.80.99s_Guide_to_the_1.1_Update)
-  - [[ 1.1 ]{.tocnumber} [ Land Combat ]{.toctext}](#Land_Combat)
-  - [[ 1.2 ]{.tocnumber} [ Convoys and submarines
-    ]{.toctext}](#Convoys_and_submarines)
-  - [[ 1.3 ]{.tocnumber} [ Air combat ]{.toctext}](#Air_combat)
-  - [[ 1.4 ]{.tocnumber} [ Diplomacy and political considerations
-    ]{.toctext}](#Diplomacy_and_political_considerations)
-  - [[ 1.5 ]{.tocnumber} [ Production and research
-    ]{.toctext}](#Production_and_research)
-- [[ 2 ]{.tocnumber} [ A User's Guide to the 1.2 Update
-  ]{.toctext}](#A_User.E2.80.99s_Guide_to_the_1.2_Update)
-- [[ 3 ]{.tocnumber} [ A User's Guide to the 1.3 Update
-  ]{.toctext}](#A_User.E2.80.99s_Guide_to_the_1.3_Update)
-  :::
+-   [[ 1 ]{.tocnumber} [ A User's Guide to the 1.1 Update
+    ]{.toctext}](#A_User.E2.80.99s_Guide_to_the_1.1_Update)
+    -   [[ 1.1 ]{.tocnumber} [ Land Combat ]{.toctext}](#Land_Combat)
+    -   [[ 1.2 ]{.tocnumber} [ Convoys and submarines
+        ]{.toctext}](#Convoys_and_submarines)
+    -   [[ 1.3 ]{.tocnumber} [ Air combat ]{.toctext}](#Air_combat)
+    -   [[ 1.4 ]{.tocnumber} [ Diplomacy and political considerations
+        ]{.toctext}](#Diplomacy_and_political_considerations)
+    -   [[ 1.5 ]{.tocnumber} [ Production and research
+        ]{.toctext}](#Production_and_research)
+-   [[ 2 ]{.tocnumber} [ A User's Guide to the 1.2 Update
+    ]{.toctext}](#A_User.E2.80.99s_Guide_to_the_1.2_Update)
+-   [[ 3 ]{.tocnumber} [ A User's Guide to the 1.3 Update
+    ]{.toctext}](#A_User.E2.80.99s_Guide_to_the_1.3_Update)
+:::
 
 ## [ ]{#A_User’s_Guide_to_the_1.1_Update} [ A User's Guide to the 1.1 Update ]{#A_User.E2.80.99s_Guide_to_the_1.1_Update .mw-headline}
 
@@ -154,53 +152,49 @@ understanding.
 The second element is a large number of bug fixes and tweaks for
 gameplay, balance and historicity. Some important examples are:
 
-- The Soviet Union has a combat penalty in the early years to reflect
-  the chaos, incompetence and paranoia of the purge era. It will find
-  it more difficult to bully its neighbours and so the debacle of the
-  Winter War against Finland may be reproduced. It only becomes more
-  effective after the Great Patriotic War is declared and the country
-  is fighting for survival.
+-   The Soviet Union has a combat penalty in the early years to reflect
+    the chaos, incompetence and paranoia of the purge era. It will find
+    it more difficult to bully its neighbours and so the debacle of the
+    Winter War against Finland may be reproduced. It only becomes more
+    effective after the Great Patriotic War is declared and the country
+    is fighting for survival.
 
 ```{=html}
 <!-- -->
 ```
-
-- You can no longer retreat immediately from naval combat. This means
-  that you have to take your lumps before you can run away and so weak
-  naval forces should be more cautious.
-
-```{=html}
-<!-- -->
-```
-
-- Fuel-consuming units like armoured divisions no longer suffer from
-  such severe movement penalties in badlands like the desert. They
-  will now outpace infantry in such terrain and so can more
-  effectively be used for deep thrusts, flanking moves and
-  encirclements. To help fuel these units, the effectiveness of the
-  oil conversion technologies has been improved so that the output of
-  converted oil increases as the technology is developed.
+-   You can no longer retreat immediately from naval combat. This means
+    that you have to take your lumps before you can run away and so weak
+    naval forces should be more cautious.
 
 ```{=html}
 <!-- -->
 ```
-
-- The technology teams have been reviewed and rebalanced. You will
-  need to check the skills of your favourite teams to see if they have
-  changed and maybe look for new choices for your research. Many
-  technologies have an especially difficult prototype stage and the
-  importance of this can now be seen more clearly.
+-   Fuel-consuming units like armoured divisions no longer suffer from
+    such severe movement penalties in badlands like the desert. They
+    will now outpace infantry in such terrain and so can more
+    effectively be used for deep thrusts, flanking moves and
+    encirclements. To help fuel these units, the effectiveness of the
+    oil conversion technologies has been improved so that the output of
+    converted oil increases as the technology is developed.
 
 ```{=html}
 <!-- -->
 ```
+-   The technology teams have been reviewed and rebalanced. You will
+    need to check the skills of your favourite teams to see if they have
+    changed and maybe look for new choices for your research. Many
+    technologies have an especially difficult prototype stage and the
+    importance of this can now be seen more clearly.
 
-- The countries which have large peacetime penalties like the USA now
-  get corresponding decreases in their raw material output too. This
-  means that the balance between output and consumption of raw
-  materials is more closely matched at a global level and so you will
-  need to trade harder in the early years to build up large
-  stockpiles.
+```{=html}
+<!-- -->
+```
+-   The countries which have large peacetime penalties like the USA now
+    get corresponding decreases in their raw material output too. This
+    means that the balance between output and consumption of raw
+    materials is more closely matched at a global level and so you will
+    need to trade harder in the early years to build up large
+    stockpiles.
 
 The third element of the patch is the new features. There are interface
 improvements like the display of the techs that your allies are
@@ -226,82 +220,73 @@ provide more challeging and rewarding gameplay.
 
 Features include the following
 
-- The Front AI has been vastly improved. Expect to see much more of a
-  challenge in attacking or defending. You want to make sure that your
-  units org is high and use the principles of combined arms.
+-   The Front AI has been vastly improved. Expect to see much more of a
+    challenge in attacking or defending. You want to make sure that your
+    units org is high and use the principles of combined arms.
 
 ```{=html}
 <!-- -->
 ```
-
-- The production AI will now do a better job of fielding the latest
-  technology units.
-
-```{=html}
-<!-- -->
-```
-
-- The Production Queue AI has been revamped for many countries to
-  produce a better mix of units. In particular national asset units
-  like transport planes and paratroopers are now built in moderation.
+-   The production AI will now do a better job of fielding the latest
+    technology units.
 
 ```{=html}
 <!-- -->
 ```
-
-- The AI now knows better how to concentrate and use its Naval Power
-  creating more effective Task Forces.
-
-```{=html}
-<!-- -->
-```
-
-- Polished MP game experience by getting rid of some annoying MP-only
-  bugs, like the well known mismatch on serial production of province
-  developments.
+-   The Production Queue AI has been revamped for many countries to
+    produce a better mix of units. In particular national asset units
+    like transport planes and paratroopers are now built in moderation.
 
 ```{=html}
 <!-- -->
 ```
-
-- Revamped the cost and supply/oil usage of nearly every brigade to
-  make them more worthwhile to build. You\'ll find that it\'s a good
-  sport to build a mixed army more, instead of just plain infantry
-  armies.
+-   The AI now knows better how to concentrate and use its Naval Power
+    creating more effective Task Forces.
 
 ```{=html}
 <!-- -->
 ```
-
-- A bunch of new events were included as a feature: Vichy has a
-  complete new event chain, there\'s surrender events for China &
-  Japan towards eachother, Bulgaria can claim Constanta,\... and more.
-
-```{=html}
-<!-- -->
-```
-
-- Beware of partisans now! They will be there. The partisans
-  parameters were reworked and you\'ll actively have to suppress them
-  in a number of areas.
+-   Polished MP game experience by getting rid of some annoying MP-only
+    bugs, like the well known mismatch on serial production of province
+    developments.
 
 ```{=html}
 <!-- -->
 ```
-
-- King Winter is back in town and carries a big stick! Think twice
-  before fighting long fights and carrying through big offensives in
-  the heart of winter. You\'ll find your troops in a bit more trouble
-  if you do, especially those nifty panzers, cool trucks and
-  halftracks with their frozen engines.
+-   Revamped the cost and supply/oil usage of nearly every brigade to
+    make them more worthwhile to build. You\'ll find that it\'s a good
+    sport to build a mixed army more, instead of just plain infantry
+    armies.
 
 ```{=html}
 <!-- -->
 ```
+-   A bunch of new events were included as a feature: Vichy has a
+    complete new event chain, there\'s surrender events for China &
+    Japan towards eachother, Bulgaria can claim Constanta,\... and more.
 
-- Close Air Support and Tactical Bombing can now cause alot more
-  mayhem amongst the enemy units. Use your bombers wisely though.
-  They\'ll be more effective in a number of roles, ranging from
-  bombing stationary units in defence to retreating units and units in
-  a fight.
-  :::
+```{=html}
+<!-- -->
+```
+-   Beware of partisans now! They will be there. The partisans
+    parameters were reworked and you\'ll actively have to suppress them
+    in a number of areas.
+
+```{=html}
+<!-- -->
+```
+-   King Winter is back in town and carries a big stick! Think twice
+    before fighting long fights and carrying through big offensives in
+    the heart of winter. You\'ll find your troops in a bit more trouble
+    if you do, especially those nifty panzers, cool trucks and
+    halftracks with their frozen engines.
+
+```{=html}
+<!-- -->
+```
+-   Close Air Support and Tactical Bombing can now cause alot more
+    mayhem amongst the enemy units. Use your bombers wisely though.
+    They\'ll be more effective in a number of roles, ranging from
+    bombing stationary units in defence to retreating units and units in
+    a fight.
+:::

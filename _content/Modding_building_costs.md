@@ -1,7 +1,6 @@
 ---
 title: Modding_building_costs
 ---
-
 ::: mw-parser-output
 Editing the cost for buildings is very simple! If you want to know how,
 please keep reading:
@@ -16,24 +15,24 @@ For example, say we want to mod the land fort\...
 
 You should see something like this:
 
-    landfort = {    cost       = 5      buildtime  = 120    manpower   = 0      size       = 1 }
+    landfort = {    cost       = 5      buildtime  = 120    manpower   = 0      size       = 1 } 
 
 As you can see, it\'s rather simple\...
 
 Here is what each value represents:
 
 cost
-: How much IC it costs while building
+:   How much IC it costs while building
 
 buildtime
-: How many days it takes until completion
+:   How many days it takes until completion
 
 manpower
-: How much manpower it costs to create.
+:   How much manpower it costs to create.
 
 size
-: How big it becomes upon completion. This would determine the
-capacity of a airbase or a naval base.
+:   How big it becomes upon completion. This would determine the
+    capacity of a airbase or a naval base.
 
 **NOTE!** As always when modding, make sure to have a backup of the
 original file in case you really mess things up!

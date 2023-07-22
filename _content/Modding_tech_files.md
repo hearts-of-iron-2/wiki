@@ -1,29 +1,42 @@
 ---
 title: Modding_tech_files
 ---
-
 ::: mw-parser-output
 ::: {#toc .toc aria-labelledby="mw-toc-heading" role="navigation"}
 ::: {.toctitle dir="ltr" lang="en"}
-
 ## Contents {#mw-toc-heading}
 
 [ ]{.toctogglespan}
 :::
 
-- [[ 1 ]{.tocnumber} [ Introduction ]{.toctext}](#Introduction)
-- [[ 2 ]{.tocnumber} [ Basic Structure ]{.toctext}](#Basic_Structure) - [[ 2.1 ]{.tocnumber} [ ID ]{.toctext}](#ID) - [[ 2.2 ]{.tocnumber} [ Name ]{.toctext}](#Name) - [[ 2.3 ]{.tocnumber} [ Position ]{.toctext}](#Position) - [[ 2.4 ]{.tocnumber} [ Historical Year
-  ]{.toctext}](#Historical_Year) - [[ 2.5 ]{.tocnumber} [ Components ]{.toctext}](#Components) - [[ 2.5.1 ]{.tocnumber} [ Component ID
-  ]{.toctext}](#Component_ID) - [[ 2.5.2 ]{.tocnumber} [ Component Name
-  ]{.toctext}](#Component_Name) - [[ 2.5.3 ]{.tocnumber} [ Component Type
-  ]{.toctext}](#Component_Type) - [[ 2.5.4 ]{.tocnumber} [ Component Difficulty
-  ]{.toctext}](#Component_Difficulty) - [[ 2.5.5 ]{.tocnumber} [ Double Time
-  ]{.toctext}](#Double_Time) - [[ 2.6 ]{.tocnumber} [ Prerequisites
-  ]{.toctext}](#Prerequisites) - [[ 2.7 ]{.tocnumber} [ Effects ]{.toctext}](#Effects) - [[ 2.7.1 ]{.tocnumber} [ Chance of Combat Events
-  ]{.toctext}](#Chance_of_Combat_Events) - [[ 2.7.2 ]{.tocnumber} [ HQ effects
-  ]{.toctext}](#HQ_effects) - [[ 2.7.2.1 ]{.tocnumber} [ HQ Supply Efficiency Modifier
-  ]{.toctext}](#HQ_Supply_Efficiency_Modifier)
-  :::
+-   [[ 1 ]{.tocnumber} [ Introduction ]{.toctext}](#Introduction)
+-   [[ 2 ]{.tocnumber} [ Basic Structure ]{.toctext}](#Basic_Structure)
+    -   [[ 2.1 ]{.tocnumber} [ ID ]{.toctext}](#ID)
+    -   [[ 2.2 ]{.tocnumber} [ Name ]{.toctext}](#Name)
+    -   [[ 2.3 ]{.tocnumber} [ Position ]{.toctext}](#Position)
+    -   [[ 2.4 ]{.tocnumber} [ Historical Year
+        ]{.toctext}](#Historical_Year)
+    -   [[ 2.5 ]{.tocnumber} [ Components ]{.toctext}](#Components)
+        -   [[ 2.5.1 ]{.tocnumber} [ Component ID
+            ]{.toctext}](#Component_ID)
+        -   [[ 2.5.2 ]{.tocnumber} [ Component Name
+            ]{.toctext}](#Component_Name)
+        -   [[ 2.5.3 ]{.tocnumber} [ Component Type
+            ]{.toctext}](#Component_Type)
+        -   [[ 2.5.4 ]{.tocnumber} [ Component Difficulty
+            ]{.toctext}](#Component_Difficulty)
+        -   [[ 2.5.5 ]{.tocnumber} [ Double Time
+            ]{.toctext}](#Double_Time)
+    -   [[ 2.6 ]{.tocnumber} [ Prerequisites
+        ]{.toctext}](#Prerequisites)
+    -   [[ 2.7 ]{.tocnumber} [ Effects ]{.toctext}](#Effects)
+        -   [[ 2.7.1 ]{.tocnumber} [ Chance of Combat Events
+            ]{.toctext}](#Chance_of_Combat_Events)
+        -   [[ 2.7.2 ]{.tocnumber} [ HQ effects
+            ]{.toctext}](#HQ_effects)
+            -   [[ 2.7.2.1 ]{.tocnumber} [ HQ Supply Efficiency Modifier
+                ]{.toctext}](#HQ_Supply_Efficiency_Modifier)
+:::
 
 ## [ Introduction ]{#Introduction .mw-headline}
 
@@ -38,7 +51,7 @@ are still quite easy to mod.
 The main structure of a tech file is a single tech application, like
 \"Early Infantry Division\".
 
-    application = { # Early Infantry Division    id = 1020                                ID    name = TECH_APP_INFANTRY_2_NAME                      Name    desc = TECH_APP_INFANTRY_2_DESC     position = { x = 24 y = 48 }                     Position    year = 1936                              Year     component = { # Service Rifle                        Components        id = 1021       name = TECH_CMP_INFANTRY_2_1_NAME       type = general_equipment        difficulty = 5  }   ##four more components   required = { 1010 }                          Prerequisites   effects = {                              Effects       command = { type = new_model which = infantry value = 1 }       command = { type = scrap_model which = infantry value = 0 }         command = { type = activate_unit_type which = police }  } }
+    application = { # Early Infantry Division    id = 1020                                ID    name = TECH_APP_INFANTRY_2_NAME                      Name    desc = TECH_APP_INFANTRY_2_DESC     position = { x = 24 y = 48 }                     Position    year = 1936                              Year     component = { # Service Rifle                        Components        id = 1021       name = TECH_CMP_INFANTRY_2_1_NAME       type = general_equipment        difficulty = 5  }   ##four more components   required = { 1010 }                          Prerequisites   effects = {                              Effects       command = { type = new_model which = infantry value = 1 }       command = { type = scrap_model which = infantry value = 0 }         command = { type = activate_unit_type which = police }  } } 
 
 \
 
@@ -55,7 +68,7 @@ naval doctrines, 9 = air doctrines)
 
 The next two digits should just be an integer counting the techs in the
 file, e.g. \"Early Infantry Division\" is the second tech in the
-_infantry_tech.txt_ file and has 02 there.
+*infantry_tech.txt* file and has 02 there.
 
 The last digit should be a 0 for the application.
 
@@ -64,20 +77,20 @@ The last digit should be a 0 for the application.
 ### [ Name ]{#Name .mw-headline}
 
 This specifies the tech name that appears ingame. This is language
-specific and found in the _config/tech_names.csv_ file.
+specific and found in the *config/tech_names.csv* file.
 
 Example:
 
-     name = "TECH_APP_INFANTRY_2_NAME"
+     name = "TECH_APP_INFANTRY_2_NAME" 
 
 The name can also be inserted right into the file. However, there is
-also a short name for each tech found in _config/tech_names.csv_ and
+also a short name for each tech found in *config/tech_names.csv* and
 that is the one that\'ll be displayed on the buttons. It has the same
 string name as the complete description prefixed with a \"SHORT\_\"
 
 Example:
 
-     name = "Basic Infantry Division"
+     name = "Basic Infantry Division" 
 
 The description is not used and is a relic from HoI1.
 
@@ -90,7 +103,7 @@ upper left corner of the tech tree graphic.
 
 Example:
 
-     position = { x = 24 y = 48 }
+     position = { x = 24 y = 48 } 
 
 [Position measured in
 pixels](/wiki/index.php?title=Special:Upload&wpDestFile=Techfiles_upperleftcorner_small.png "File:Techfiles upperleftcorner small.png"){.new}
@@ -105,9 +118,9 @@ each position.
 
 The historical year factors heavily into research if you try to get a
 tech ahead of its historical date. Your research speed will be divided
-by _(1 + d × m)_ with _d_ being the number of days you are away from
-January 1st of the historical year and _m_ being the multiplier in
-_misc.txt_ . Researching one year ahead of time will give you a penalty
+by *(1 + d × m)* with *d* being the number of days you are away from
+January 1st of the historical year and *m* being the multiplier in
+*misc.txt* . Researching one year ahead of time will give you a penalty
 of 54%. Note however that this is calculated component-wise, so the
 later components suffer less penalty than the earlier ones.
 
@@ -119,7 +132,7 @@ Each tech has five components.
 
 Example:
 
-    component = { # Great War Tank Prototype Tests  id = 2015                ID  name = TECH_CMP_ARMOR_1_5_NAME       Name  type = technical_efficiency      Type  difficulty = 5               Difficulty  double_time = yes            Double Time }
+    component = { # Great War Tank Prototype Tests  id = 2015                ID  name = TECH_CMP_ARMOR_1_5_NAME       Name  type = technical_efficiency      Type  difficulty = 5               Difficulty  double_time = yes            Double Time } 
 
 #### [ Component ID ]{#Component_ID .mw-headline}
 
@@ -130,17 +143,17 @@ count the components from 1 to 5.
 #### [ Component Name ]{#Component_Name .mw-headline}
 
 This specifies the component name that appears ingame. This is language
-specific and found in the _config/tech_names.csv_ file.
+specific and found in the *config/tech_names.csv* file.
 
 Example:
 
-     name = TECH_CMP_ARMOR_1_5_NAME
+     name = TECH_CMP_ARMOR_1_5_NAME 
 
 The name can also be inserted right into the file.
 
 Example:
 
-     name = "Great War Tank Prototype Tests"
+     name = "Great War Tank Prototype Tests" 
 
 Note quotes are only needed if you are inserting the text directly.
 Strings should be quote-free (or so my testing has shown).
@@ -179,7 +192,7 @@ tree you are working in to show the dependencies.
 
 Example: (Tech 1010 is required to research the tech in question)
 
-    required = { 1010 }
+    required = { 1010 } 
 
 You can also use a second type of this clause which will allow you to
 make a set of prerequisites of which only one is needed. Note that this
@@ -189,7 +202,7 @@ always be in, even if it is empty.
 Example: (Tech 8160 is required and **one** of 8180 and 8080 is also
 required)
 
-    OR_required = { 8180 8080 } required = { 8160 }
+    OR_required = { 8180 8080 } required = { 8160 } 
 
 \
 
@@ -197,7 +210,7 @@ required)
 
 Each tech can have one or more effects.
 
-Copy & Paste from _event commands.txt_ (will format it later)
+Copy & Paste from *event commands.txt* (will format it later)
 
 #### [ Chance of Combat Events ]{#Chance_of_Combat_Events .mw-headline}
 
@@ -207,7 +220,7 @@ events occurring. The value is additive.
 
 Example:
 
-    type = counterattack value = 4
+    type = counterattack value = 4 
 
 This will increase the probability for a counterattack by 4%.
 
@@ -220,7 +233,7 @@ adjactant provinces. This bonus can be changed by techs.
 
 Example:
 
-    type = hq_supply_eff value = X
+    type = hq_supply_eff value = X 
 
 Increases the Supply Efficiency bonus of HQs by X percent points.
 
@@ -259,7 +272,7 @@ command = { type = missile_carrier which = \[submarine\] }
 1.  UNIT VALUES
 2.  \[unit value\] =
     soft_attack/hard_attack/ground_defense/air_attack/air_defense/build_cost/build_time/manpower/speed/max_organization/transport_weight/supply_consumption/fuel_consumption/speed_cap_art/speed_cap_eng/speed_cap_at/speed_cap_aa
-3.
+3.  
 
 NOTE: I think some of these are out of date, I was modding around today
 and \"ground_defense\" seems to have changed to \"defensiveness\".
@@ -297,10 +310,9 @@ modifier\] }
 ```{=html}
 <!-- -->
 ```
-
-1.
+1.  
 2.  UNIT COMBAT MODIFIERS
-3.
+3.  
 4.  Terrain combat modifiers
 
 command = { type =
@@ -360,9 +372,9 @@ command = { type = night_move/night_attack/night_defense which =
 \[division type/brigade type\] value = \[X\] \# Modifier in percent (+10
 = 10%) }
 
-1.
+1.  
 2.  GLOBAL MODIFIERS
-3.
+3.  
 4.  Surprise modifiers
 
 command = { type = surprise which = \[naval/land/air\] value = \[X\] \#
@@ -382,14 +394,13 @@ Modifier in percents }
 
 command = { type = AA_batteries value = \[X\] \# Modifier in percents }
 
-1.
+1.  
 2.  INDUSTRIAL MODIFIERS
-3.
+3.  
 
 ```{=html}
 <!-- -->
 ```
-
 1.  Industrial multipliers
 2.  E.g. energy_to_oil 4 means four energy are needed to produce one
     oil. 0.5 means 1 energy produces 2 oil.

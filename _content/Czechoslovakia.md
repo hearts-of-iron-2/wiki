@@ -1,7 +1,6 @@
 ---
 title: Czechoslovakia
 ---
-
 ::: mw-parser-output
 ::: {.eu4box style="width:330px; height:auto; float:right; clear:right"}
 ::: heading
@@ -14,7 +13,7 @@ title: Czechoslovakia
 [Major powers](/wiki/Major_power "Major power"){.mw-redirect}
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [France](/wiki/France "France")\
@@ -30,7 +29,7 @@ title: Czechoslovakia
 Regional powers
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [Argentina](/wiki/Argentina "Argentina")\
@@ -58,7 +57,7 @@ Regional powers
 [Minor powers](/wiki/Minor_power "Minor power"){.mw-redirect}
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [Austria](/wiki/Austria "Austria")\
@@ -81,7 +80,7 @@ Regional powers
 [Micro powers](/wiki/Micro_power "Micro power"){.mw-redirect}
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [Afghanistan](/wiki/Afghanistan "Afghanistan")\
@@ -165,7 +164,7 @@ honor intact.
 
 \
 
-## [ ]{#Eye*of_the_Storm:\_A_Defiant_Czechoslovakian_Strategy*(1936*Scenario)} [ Eye of the Storm: A Defiant Czechoslovakian Strategy (1936 Scenario) ]{#Eye_of_the_Storm:\_A_Defiant_Czechoslovakian_Strategy*.281936_Scenario.29 .mw-headline}
+## [ ]{#Eye_of_the_Storm:_A_Defiant_Czechoslovakian_Strategy_(1936_Scenario)} [ Eye of the Storm: A Defiant Czechoslovakian Strategy (1936 Scenario) ]{#Eye_of_the_Storm:_A_Defiant_Czechoslovakian_Strategy_.281936_Scenario.29 .mw-headline}
 
 If you have no interest in becoming an Axis lapdog, the best way for
 Czechoslovakia to prevail is to take charge of the political situation
@@ -274,7 +273,7 @@ storm with a (hopefully) Allied Poland holding her right flank, at war
 with Germany who is also forced to deal with an advancing Italian
 onslaught from the south and a French threat to the west. In this
 desperate hour Czechoslovakia's mission is clear: it may not be possible
-to win -- but all Czechoslovakia needs to do is _not lose_ .
+to win -- but all Czechoslovakia needs to do is *not lose* .
 
 At this point anything can happen so it is difficult to give specific
 suggestions. In general plan on using your armored divisions as a

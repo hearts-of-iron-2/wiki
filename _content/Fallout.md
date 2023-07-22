@@ -1,7 +1,6 @@
 ---
 title: Fallout
 ---
-
 ::: mw-parser-output
 We would like to introduce you to **Fallout\'s Doomsday** , a post
 apocalyptic mod for Hearts of Iron 2 Doomsday Armageddon.
@@ -32,10 +31,10 @@ military forces to achieve dominance over the Wastelands.
 
 \
 
-- Mod Forum: [Fallout\'s Doomsday
-  Forum](http://terranova.dk/viewforum.php?f=15){.external .text
-  rel="nofollow"}
-- Mod Thread on Paradox Interactive Forum: [War, War Never
-  Changes\...](http://forum.paradoxplaza.com/forum/showthread.php?311272-War-war-never-changes...){.external
-  .text rel="nofollow"}
-  :::
+-   Mod Forum: [Fallout\'s Doomsday
+    Forum](http://terranova.dk/viewforum.php?f=15){.external .text
+    rel="nofollow"}
+-   Mod Thread on Paradox Interactive Forum: [War, War Never
+    Changes\...](http://forum.paradoxplaza.com/forum/showthread.php?311272-War-war-never-changes...){.external
+    .text rel="nofollow"}
+:::

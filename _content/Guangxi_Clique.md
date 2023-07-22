@@ -1,7 +1,6 @@
 ---
 title: Guangxi_Clique
 ---
-
 ::: mw-parser-output
 Guangxi Clique may not have what it takes to become a major power, but
 it can become a vital player in China\'s fight against Japan. As one of
@@ -13,19 +12,18 @@ first year and a half should be devoted to preparing for this war.
 
 ::: {#toc .toc aria-labelledby="mw-toc-heading" role="navigation"}
 ::: {.toctitle dir="ltr" lang="en"}
-
 ## Contents {#mw-toc-heading}
 
 [ ]{.toctogglespan}
 :::
 
-- [[ 1 ]{.tocnumber} [ Military ]{.toctext}](#Military)
-- [[ 2 ]{.tocnumber} [ Diplomacy ]{.toctext}](#Diplomacy)
-- [[ 3 ]{.tocnumber} [ Economy and Tech Teams
-  ]{.toctext}](#Economy_and_Tech_Teams)
-- [[ 4 ]{.tocnumber} [ The War Against Japan
-  ]{.toctext}](#The_War_Against_Japan)
-  :::
+-   [[ 1 ]{.tocnumber} [ Military ]{.toctext}](#Military)
+-   [[ 2 ]{.tocnumber} [ Diplomacy ]{.toctext}](#Diplomacy)
+-   [[ 3 ]{.tocnumber} [ Economy and Tech Teams
+    ]{.toctext}](#Economy_and_Tech_Teams)
+-   [[ 4 ]{.tocnumber} [ The War Against Japan
+    ]{.toctext}](#The_War_Against_Japan)
+:::
 
 ## [ Military ]{#Military .mw-headline}
 
@@ -80,5 +78,4 @@ carried out.
 \
 
 ## [ The War Against Japan ]{#The_War_Against_Japan .mw-headline}
-
 :::

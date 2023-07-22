@@ -14,7 +14,6 @@ export function markdownFileToHtml(path: string) {
     ["-f", "markdown", "-t", "html", path],
     { cwd: process.cwd(), encoding: "utf-8" }
   );
-  console.log("generating html for path: ", path);
   if (htmlOutput.error) {
     console.error(`Error: ${htmlOutput.error}`);
   }

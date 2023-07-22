@@ -1,7 +1,6 @@
 ---
 title: Total_IC_and_resources
 ---
-
 ::: mw-parser-output
 Because the strategic aim of warfare in Hoi2 is to secure your own
 country\'s place in the world by conquering provinces with high IC and
@@ -17,32 +16,27 @@ question which initiated this endeavour!
 
 ## [ Hearts of Iron 2 Doomsday Armageddon 1.2 ]{#Hearts_of_Iron_2_Doomsday_Armageddon_1.2 .mw-headline}
 
----
+  ---------------- ------ ------------------
+  Total IC         1855   in 637 provinces
+  Total manpower   1524   in 634 provinces
+  Total oil        1031   in 57 provinces
+  Total metal      3420   in 493 provinces
+  Total energy     6969   in 653 provinces
+  Total rares      1505   in 362 provinces
+  ---------------- ------ ------------------
 
-Total IC 1855 in 637 provinces
-Total manpower 1524 in 634 provinces
-Total oil 1031 in 57 provinces
-Total metal 3420 in 493 provinces
-Total energy 6969 in 653 provinces
-Total rares 1505 in 362 provinces
-
----
-
-## [ ]{#MOD:_World_in_Flames_Platinum_(HoI2*DD_Arma)} [ MOD: World in Flames Platinum (HoI2 DD Arma) ]{#MOD:\_World_in_Flames_Platinum*.28HoI2_DD_Arma.29 .mw-headline}
+## [ ]{#MOD:_World_in_Flames_Platinum_(HoI2_DD_Arma)} [ MOD: World in Flames Platinum (HoI2 DD Arma) ]{#MOD:_World_in_Flames_Platinum_.28HoI2_DD_Arma.29 .mw-headline}
 
 Note that manpower is computed differently in this mod, so while the raw
 values are much higher than in the standard game, the effective values
 are quite similar (even somewhat lower).
 
----
-
-Total IC 1991 in 653 provinces
-Total manpower 10654 in 1452 provinces
-Total oil 1064 in 68 provinces
-Total metal 3470 in 498 provinces
-Total energy 7044 in 660 provinces
-Total rares 1529 in 373 provinces
-
----
-
+  ---------------- ------- -------------------
+  Total IC         1991    in 653 provinces
+  Total manpower   10654   in 1452 provinces
+  Total oil        1064    in 68 provinces
+  Total metal      3470    in 498 provinces
+  Total energy     7044    in 660 provinces
+  Total rares      1529    in 373 provinces
+  ---------------- ------- -------------------
 :::

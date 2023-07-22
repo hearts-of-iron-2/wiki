@@ -1,7 +1,6 @@
 ---
 title: China_Improvement_Pack
 ---
-
 ::: mw-parser-output
 ::: center
 ::: floatnone

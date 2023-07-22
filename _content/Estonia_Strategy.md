@@ -1,27 +1,26 @@
 ---
 title: Estonia_Strategy
 ---
-
 ::: mw-parser-output
 +-----------------------------------+-----------------------------------+
-| ::: {style="width: 52px;"} | **[This](https://hoi2.parado |
+| ::: {style="width: 52px;"}        | **[This](https://hoi2.parado      |
 | ![Merge-arrows.gif](https://centr | xwikis.com/index.php?title=Estoni |
 | al.paradoxwikis.com/images/8/8b/M | a_Strategy&action=edit){.external |
-| erge-arrows.gif){file-height="20" | .text rel="nofollow"} article is |
-| file-width="50" | a candidate to be |
-| u | [merged](/wiki |
+| erge-arrows.gif){file-height="20" | .text rel="nofollow"} article is  |
+| file-width="50"                   | a candidate to be                 |
+| u                                 | [merged](/wiki                    |
 | rl="https://central.paradoxwikis. | /Template:Merge "Template:Merge") |
-| com/images/8/8b/Merge-arrows.gif" | with |
-| decoding="async" height="20" | [ |
-| loading="lazy" width="50"} | Estonia](/wiki/Estonia "Estonia") |
-| ::: | .**\ |
-| | [Please help to improve the wiki |
-| | by taking part in the |
-| | [discussion](/wiki/index.php?tit |
-| | le=Talk:Estonia_Strategy&action=e |
-| | dit&redlink=1 "Talk:Estonia Strat |
-| | egy (page does not exist)"){.new} |
-| | of the proposed merger.]{.small} |
+| com/images/8/8b/Merge-arrows.gif" | with                              |
+| decoding="async" height="20"      | [                                 |
+| loading="lazy" width="50"}        | Estonia](/wiki/Estonia "Estonia") |
+| :::                               | .**\                              |
+|                                   | [Please help to improve the wiki  |
+|                                   | by taking part in the             |
+|                                   | [discussion](/wiki/index.php?tit  |
+|                                   | le=Talk:Estonia_Strategy&action=e |
+|                                   | dit&redlink=1 "Talk:Estonia Strat |
+|                                   | egy (page does not exist)"){.new} |
+|                                   | of the proposed merger.]{.small}  |
 +-----------------------------------+-----------------------------------+
 
 ::: {.eu4box style="width:330px; height:auto; float:right; clear:right"}
@@ -35,7 +34,7 @@ title: Estonia_Strategy
 [Major powers](/wiki/Major_power "Major power"){.mw-redirect}
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [France](/wiki/France "France")\
@@ -51,7 +50,7 @@ title: Estonia_Strategy
 Regional powers
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [Argentina](/wiki/Argentina "Argentina")\
@@ -79,7 +78,7 @@ Regional powers
 [Minor powers](/wiki/Minor_power "Minor power"){.mw-redirect}
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [Austria](/wiki/Austria "Austria")\
@@ -102,7 +101,7 @@ Regional powers
 [Micro powers](/wiki/Micro_power "Micro power"){.mw-redirect}
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [Afghanistan](/wiki/Afghanistan "Afghanistan")\
@@ -152,21 +151,20 @@ Arabia](/wiki/index.php?title=Saudi_Arabia&action=edit&redlink=1 "Saudi Arabia (
 
 ::: {#toc .toc aria-labelledby="mw-toc-heading" role="navigation"}
 ::: {.toctitle dir="ltr" lang="en"}
-
 ## Contents {#mw-toc-heading}
 
 [ ]{.toctogglespan}
 :::
 
-- [[ 1 ]{.tocnumber} [ Overview ]{.toctext}](#Overview)
-- [[ 2 ]{.tocnumber} [ Technology ]{.toctext}](#Technology)
-- [[ 3 ]{.tocnumber} [ Politics ]{.toctext}](#Politics)
-- [[ 4 ]{.tocnumber} [ Army ]{.toctext}](#Army)
-- [[ 5 ]{.tocnumber} [ A left-wing coup d\'état
-  ]{.toctext}](#A_left-wing_coup_d.27.C3.A9tat)
-- [[ 6 ]{.tocnumber} [ Alliance and War Strategy
-  ]{.toctext}](#Alliance_and_War_Strategy)
-  :::
+-   [[ 1 ]{.tocnumber} [ Overview ]{.toctext}](#Overview)
+-   [[ 2 ]{.tocnumber} [ Technology ]{.toctext}](#Technology)
+-   [[ 3 ]{.tocnumber} [ Politics ]{.toctext}](#Politics)
+-   [[ 4 ]{.tocnumber} [ Army ]{.toctext}](#Army)
+-   [[ 5 ]{.tocnumber} [ A left-wing coup d\'état
+    ]{.toctext}](#A_left-wing_coup_d.27.C3.A9tat)
+-   [[ 6 ]{.tocnumber} [ Alliance and War Strategy
+    ]{.toctext}](#Alliance_and_War_Strategy)
+:::
 
 ## [ Overview ]{#Overview .mw-headline}
 
@@ -180,8 +178,8 @@ few years. Diplomacy is its only chance.
 
 Do not play as Estonia if:
 
-- Soviet Union is human controlled, or
-- you are new to this game.
+-   Soviet Union is human controlled, or
+-   you are new to this game.
 
 Estonia is weak in all aspects of its society. The worst thing is its
 location, for it is placed alongside its historical enemies, both of
@@ -287,24 +285,24 @@ left-wing coup d\'état may happen.
 
 If the coup succeeds:
 
-- Authoritarianism set to 10
-- Political Left set to 10
-- Change of government to Stalinist
-- Dissent -1
+-   Authoritarianism set to 10
+-   Political Left set to 10
+-   Change of government to Stalinist
+-   Dissent -1
 
 If the coup is crushed:
 
-- No effect
+-   No effect
 
 ## [ Alliance and War Strategy ]{#Alliance_and_War_Strategy .mw-headline}
 
 Estonia has a lot of neighboring countries. With great effort you can
 battle
 
-- the Latvians
-- the Danes
-- the Finns
-- any of the three major factions (Allies, Axis, Comintern)
+-   the Latvians
+-   the Danes
+-   the Finns
+-   any of the three major factions (Allies, Axis, Comintern)
 
 First, remember that unless you alter the historical chain of events,
 the Soviet Union will invade the Baltic States by June 1940.
@@ -317,7 +315,8 @@ all the Red Army marches to Estonia, you can\'t hold them back with
 forts. Above all, keep in mind that fighting the Soviets alone is a very
 bad idea.
 
-Estonia can ally with Finland since the Soviet Union attacks them in 1939. Allying while Finland is at war will drag Estonia in the war
+Estonia can ally with Finland since the Soviet Union attacks them in
+1939. Allying while Finland is at war will drag Estonia in the war
 against Soviets, where Estonia and Finland must hold out until March
 1940, when the peace event fires. If you can\'t take control of the
 Finnish military, Finland is useless for you, because there is a sea

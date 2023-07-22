@@ -1,25 +1,24 @@
 ---
 title: United_Kingdom
 ---
-
 ::: mw-parser-output
 [File:Eng-topbar.JPG](/wiki/index.php?title=Special:Upload&wpDestFile=Eng-topbar.JPG "File:Eng-topbar.JPG"){.new}
 
 +-----------------------------------+-----------------------------------+
-| ::: {style="width: 52px;"} | **This article or section |
+| ::: {style="width: 52px;"}        | **This article or section         |
 | [![Broom                          | requires cleanup to meet the      |
-| icon.png](https://cen | wiki\'s [style |
-| tral.paradoxwikis.com/images/9/90 | guidelines](/ |
+| icon.png](https://cen             | wiki\'s [style                    |
+| tral.paradoxwikis.com/images/9/90 | guidelines](/                     |
 | /Broom_icon.png){file-height="50" | wiki/index.php?title=Hearts_of_Ir |
-| file-width="50" | on_2_Wiki:Style&action=edit&redli |
-| url="https://central.paradoxwiki | nk=1 "Hearts of Iron 2 Wiki:Style |
-| s.com/images/9/90/Broom_icon.png" | (page does not exist)"){.new}**\ |
-| decoding="async" height="50" | [Please help improve |
-| loading="lazy" | [this](https://hoi2.para |
-| width="50"}](/ | doxwikis.com/index.php?title=Unit |
+| file-width="50"                   | on_2_Wiki:Style&action=edit&redli |
+| url="https://central.paradoxwiki  | nk=1 "Hearts of Iron 2 Wiki:Style |
+| s.com/images/9/90/Broom_icon.png" |  (page does not exist)"){.new}**\ |
+| decoding="async" height="50"      | [Please help improve              |
+| loading="lazy"                    | [this](https://hoi2.para          |
+| width="50"}](/                    | doxwikis.com/index.php?title=Unit |
 | wiki/File:Broom_icon.png){.image} | ed_Kingdom&action=edit){.external |
-| ::: | .text rel="nofollow"} article if |
-| | you can.]{.small} |
+| :::                               | .text rel="nofollow"} article if  |
+|                                   | you can.]{.small}                 |
 +-----------------------------------+-----------------------------------+
 
 ::: {.eu4box style="width:330px; height:auto; float:right; clear:right"}
@@ -33,7 +32,7 @@ title: United_Kingdom
 [Major powers](/wiki/Major_power "Major power"){.mw-redirect}
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [France](/wiki/France "France")\
@@ -49,7 +48,7 @@ title: United_Kingdom
 Regional powers
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [Argentina](/wiki/Argentina "Argentina")\
@@ -77,7 +76,7 @@ Regional powers
 [Minor powers](/wiki/Minor_power "Minor power"){.mw-redirect}
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [Austria](/wiki/Austria "Austria")\
@@ -100,7 +99,7 @@ Regional powers
 [Micro powers](/wiki/Micro_power "Micro power"){.mw-redirect}
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [Afghanistan](/wiki/Afghanistan "Afghanistan")\
@@ -150,72 +149,71 @@ Arabia](/wiki/index.php?title=Saudi_Arabia&action=edit&redlink=1 "Saudi Arabia (
 
 ::: {#toc .toc aria-labelledby="mw-toc-heading" role="navigation"}
 ::: {.toctitle dir="ltr" lang="en"}
-
 ## Contents {#mw-toc-heading}
 
 [ ]{.toctogglespan}
 :::
 
-- [[ 1 ]{.tocnumber} [ Overview ]{.toctext}](#Overview)
-- [[ 2 ]{.tocnumber} [ Technology ]{.toctext}](#Technology)
-- [[ 3 ]{.tocnumber} [ Diplomacy ]{.toctext}](#Diplomacy)
-  - [[ 3.1 ]{.tocnumber} [ Alliances ]{.toctext}](#Alliances)
-  - [[ 3.2 ]{.tocnumber} [ Sliders ]{.toctext}](#Sliders)
-  - [[ 3.3 ]{.tocnumber} [ Ministers ]{.toctext}](#Ministers)
-- [[ 4 ]{.tocnumber} [ Intelligence ]{.toctext}](#Intelligence)
-- [[ 5 ]{.tocnumber} [ Economy ]{.toctext}](#Economy)
-  - [[ 5.1 ]{.tocnumber} [ Trading ]{.toctext}](#Trading)
-  - [[ 5.2 ]{.tocnumber} [ Industrial Production
-    ]{.toctext}](#Industrial_Production)
-- [[ 6 ]{.tocnumber} [ Military ]{.toctext}](#Military)
-  - [[ 6.1 ]{.tocnumber} [ Army ]{.toctext}](#Army)
-  - [[ 6.2 ]{.tocnumber} [ Navy ]{.toctext}](#Navy)
-  - [[ 6.3 ]{.tocnumber} [ Air Force ]{.toctext}](#Air_Force)
-- [[ 7 ]{.tocnumber} [ Events ]{.toctext}](#Events)
-  - [[ 7.1 ]{.tocnumber} [ Spanish Civil War - UK intervention
-    ]{.toctext}](#Spanish_Civil_War_-_UK_intervention)
-  - [[ 7.2 ]{.tocnumber} [ UK gears up for war
-    ]{.toctext}](#UK_gears_up_for_war)
-  - [[ 7.3 ]{.tocnumber} [ Guarantee Independence of Poland
-    ]{.toctext}](#Guarantee_Independence_of_Poland)
-  - [[ 7.4 ]{.tocnumber} [ Altmark Incident
-    ]{.toctext}](#Altmark_Incident)
-  - [[ 7.5 ]{.tocnumber} [ Destroyers for bases
-    ]{.toctext}](#Destroyers_for_bases)
-  - [[ 7.6 ]{.tocnumber} [ Lend and Lease Shipment
-    ]{.toctext}](#Lend_and_Lease_Shipment)
-  - [[ 7.7 ]{.tocnumber} [ Independence of India
-    ]{.toctext}](#Independence_of_India)
-- [[ 8 ]{.tocnumber} [ Basic Tactical Situation
-  ]{.toctext}](#Basic_Tactical_Situation)
-  - [[ 8.1 ]{.tocnumber} [ Advantages ]{.toctext}](#Advantages)
-  - [[ 8.2 ]{.tocnumber} [ Disadvantages
-    ]{.toctext}](#Disadvantages)
-- [[ 9 ]{.tocnumber} [ War ]{.toctext}](#War)
-  - [[ 9.1 ]{.tocnumber} [ Norway ]{.toctext}](#Norway)
-  - [[ 9.2 ]{.tocnumber} [ Holding Germany in Ardennes
-    ]{.toctext}](#Holding_Germany_in_Ardennes)
-  - [[ 9.3 ]{.tocnumber} [ Waiting for USSR
-    ]{.toctext}](#Waiting_for_USSR)
-  - [[ 9.4 ]{.tocnumber} [ Italy first ]{.toctext}](#Italy_first)
-  - [[ 9.5 ]{.tocnumber} [ Japan ]{.toctext}](#Japan)
-  - [[ 9.6 ]{.tocnumber} [ World War III
-    ]{.toctext}](#World_War_III)
-  - [[ 9.7 ]{.tocnumber} [ Britskrieg ]{.toctext}](#Britskrieg)
-- [[ 10 ]{.tocnumber} [ Gaming the System
-  ]{.toctext}](#Gaming_the_System)
-  - [[ 10.1 ]{.tocnumber} [ The Spanish Civil War
-    ]{.toctext}](#The_Spanish_Civil_War)
-  - [[ 10.2 ]{.tocnumber} [ Sicily Problem
-    ]{.toctext}](#Sicily_Problem)
-  - [[ 10.3 ]{.tocnumber} [ Avoid the German Surrender event
-    ]{.toctext}](#Avoid_the_German_Surrender_event)
-- [[ 11 ]{.tocnumber} [ Playing with a mod (such as HSR)
-  ]{.toctext}](#Playing_with_a_mod_.28such_as_HSR.29)
-- [[ 12 ]{.tocnumber} [ Additional Tips for 1936 Scenario -
-  multiplayer
-  ]{.toctext}](#Additional_Tips_for_1936_Scenario_-_multiplayer)
-  :::
+-   [[ 1 ]{.tocnumber} [ Overview ]{.toctext}](#Overview)
+-   [[ 2 ]{.tocnumber} [ Technology ]{.toctext}](#Technology)
+-   [[ 3 ]{.tocnumber} [ Diplomacy ]{.toctext}](#Diplomacy)
+    -   [[ 3.1 ]{.tocnumber} [ Alliances ]{.toctext}](#Alliances)
+    -   [[ 3.2 ]{.tocnumber} [ Sliders ]{.toctext}](#Sliders)
+    -   [[ 3.3 ]{.tocnumber} [ Ministers ]{.toctext}](#Ministers)
+-   [[ 4 ]{.tocnumber} [ Intelligence ]{.toctext}](#Intelligence)
+-   [[ 5 ]{.tocnumber} [ Economy ]{.toctext}](#Economy)
+    -   [[ 5.1 ]{.tocnumber} [ Trading ]{.toctext}](#Trading)
+    -   [[ 5.2 ]{.tocnumber} [ Industrial Production
+        ]{.toctext}](#Industrial_Production)
+-   [[ 6 ]{.tocnumber} [ Military ]{.toctext}](#Military)
+    -   [[ 6.1 ]{.tocnumber} [ Army ]{.toctext}](#Army)
+    -   [[ 6.2 ]{.tocnumber} [ Navy ]{.toctext}](#Navy)
+    -   [[ 6.3 ]{.tocnumber} [ Air Force ]{.toctext}](#Air_Force)
+-   [[ 7 ]{.tocnumber} [ Events ]{.toctext}](#Events)
+    -   [[ 7.1 ]{.tocnumber} [ Spanish Civil War - UK intervention
+        ]{.toctext}](#Spanish_Civil_War_-_UK_intervention)
+    -   [[ 7.2 ]{.tocnumber} [ UK gears up for war
+        ]{.toctext}](#UK_gears_up_for_war)
+    -   [[ 7.3 ]{.tocnumber} [ Guarantee Independence of Poland
+        ]{.toctext}](#Guarantee_Independence_of_Poland)
+    -   [[ 7.4 ]{.tocnumber} [ Altmark Incident
+        ]{.toctext}](#Altmark_Incident)
+    -   [[ 7.5 ]{.tocnumber} [ Destroyers for bases
+        ]{.toctext}](#Destroyers_for_bases)
+    -   [[ 7.6 ]{.tocnumber} [ Lend and Lease Shipment
+        ]{.toctext}](#Lend_and_Lease_Shipment)
+    -   [[ 7.7 ]{.tocnumber} [ Independence of India
+        ]{.toctext}](#Independence_of_India)
+-   [[ 8 ]{.tocnumber} [ Basic Tactical Situation
+    ]{.toctext}](#Basic_Tactical_Situation)
+    -   [[ 8.1 ]{.tocnumber} [ Advantages ]{.toctext}](#Advantages)
+    -   [[ 8.2 ]{.tocnumber} [ Disadvantages
+        ]{.toctext}](#Disadvantages)
+-   [[ 9 ]{.tocnumber} [ War ]{.toctext}](#War)
+    -   [[ 9.1 ]{.tocnumber} [ Norway ]{.toctext}](#Norway)
+    -   [[ 9.2 ]{.tocnumber} [ Holding Germany in Ardennes
+        ]{.toctext}](#Holding_Germany_in_Ardennes)
+    -   [[ 9.3 ]{.tocnumber} [ Waiting for USSR
+        ]{.toctext}](#Waiting_for_USSR)
+    -   [[ 9.4 ]{.tocnumber} [ Italy first ]{.toctext}](#Italy_first)
+    -   [[ 9.5 ]{.tocnumber} [ Japan ]{.toctext}](#Japan)
+    -   [[ 9.6 ]{.tocnumber} [ World War III
+        ]{.toctext}](#World_War_III)
+    -   [[ 9.7 ]{.tocnumber} [ Britskrieg ]{.toctext}](#Britskrieg)
+-   [[ 10 ]{.tocnumber} [ Gaming the System
+    ]{.toctext}](#Gaming_the_System)
+    -   [[ 10.1 ]{.tocnumber} [ The Spanish Civil War
+        ]{.toctext}](#The_Spanish_Civil_War)
+    -   [[ 10.2 ]{.tocnumber} [ Sicily Problem
+        ]{.toctext}](#Sicily_Problem)
+    -   [[ 10.3 ]{.tocnumber} [ Avoid the German Surrender event
+        ]{.toctext}](#Avoid_the_German_Surrender_event)
+-   [[ 11 ]{.tocnumber} [ Playing with a mod (such as HSR)
+    ]{.toctext}](#Playing_with_a_mod_.28such_as_HSR.29)
+-   [[ 12 ]{.tocnumber} [ Additional Tips for 1936 Scenario -
+    multiplayer
+    ]{.toctext}](#Additional_Tips_for_1936_Scenario_-_multiplayer)
+:::
 
 ## [ Overview ]{#Overview .mw-headline}
 
@@ -242,29 +240,29 @@ diplomatic options.
 
 ## [ Technology ]{#Technology .mw-headline}
 
-- Industrial: try to get industry research as high as possible
-  (especially the ones with + manpower, + IC, + IC efficiency, faster
-  production time and + research efficiency). It is a good idea to
-  watch the research of France carefully as they have a very high
-  priority here. Maybe it is worth to wait a few months to research
-  some of those techs so you can do it with French blueprints.
-- Infantry/tanks: Again, France will often research the ´39 infantry
-  very, very early, so maybe you wait for the blueprint. Wait for the
-  tank blueprints as well if you do not plan to start building them
-  early.
-- Air: The UK will be fighting in every theatre of the war: and will
-  need a massive air force if they are to be successful.The United
-  Kingdom can afford and benefit from researching and building both
-  [fighters](/wiki/Fighters "Fighters") and
-  [interceptors](/wiki/Interceptors "Interceptors") . The benefit
-  would be \"cheap\" home defence and powerful fighters for the Med,
-  India and the Pacific. [CAS](/wiki/CAS "CAS"){.mw-redirect} are a
-  bad idea: their range is an issue and if you don´t build them you
-  save yourself some doctrine research. Doctrines should be kept up to
-  date if one aspires to a world-class air force.
-- Navy: carriers and destroyers are your best friends. Make sure to
-  research and produce them. Very important are escort carriers as
-  they improve the British Battleship fleets considerably.
+-   Industrial: try to get industry research as high as possible
+    (especially the ones with + manpower, + IC, + IC efficiency, faster
+    production time and + research efficiency). It is a good idea to
+    watch the research of France carefully as they have a very high
+    priority here. Maybe it is worth to wait a few months to research
+    some of those techs so you can do it with French blueprints.
+-   Infantry/tanks: Again, France will often research the ´39 infantry
+    very, very early, so maybe you wait for the blueprint. Wait for the
+    tank blueprints as well if you do not plan to start building them
+    early.
+-   Air: The UK will be fighting in every theatre of the war: and will
+    need a massive air force if they are to be successful.The United
+    Kingdom can afford and benefit from researching and building both
+    [fighters](/wiki/Fighters "Fighters") and
+    [interceptors](/wiki/Interceptors "Interceptors") . The benefit
+    would be \"cheap\" home defence and powerful fighters for the Med,
+    India and the Pacific. [CAS](/wiki/CAS "CAS"){.mw-redirect} are a
+    bad idea: their range is an issue and if you don´t build them you
+    save yourself some doctrine research. Doctrines should be kept up to
+    date if one aspires to a world-class air force.
+-   Navy: carriers and destroyers are your best friends. Make sure to
+    research and produce them. Very important are escort carriers as
+    they improve the British Battleship fleets considerably.
 
 ## [ Diplomacy ]{#Diplomacy .mw-headline}
 
@@ -306,34 +304,34 @@ Churchill.
 
 The other ministers are:
 
-- **Foreign Minister** : Anthony Eden as ideological crusader is
-  available from the beginning. You may lose him in an event 1938.
-  Choose the option that you keep him, he is the only ideological
-  crusader until ´45!
-- **Armaments Ministers** : Sir John Simon gives +5% IC and +10%
-  industry research and is available from 1937 on.
-- **Minister of Security** : Viscount Templewood is a man of the
-  people and available from 37 on and can replace Baldwin (also a man
-  of the people), who´s often lost due an event.
-- **Head of Intelligence** : William Gallacher from the start or one
-  year later Lord Cecil of Chelwood, both industrial specialists.
-- **Chief of Staff** : That´s the player´s choice, until Sir Alan
-  Brooke and his +25% manpower bonus becomes available in ´40.
-- **Chief of Army** : Again, player´s choice. Sir Alan Brooke becomes
-  available in ´41 and offers Decisive Battle Doctrine, not the worst
-  choice. Elastic Defence from Sir John Dill is definitely another
-  good option.
-- **Chief of Navy** : From ´37 on you have Sir Dudley Pound, he offers
-  Decisive Battle and that´s most likely the best choice for the
-  Battleship-heavy Royal Navy.
-- **Chief of Air** : There is a great variety of ministers available.
-  Most naturally Air Superiority seems a good option, but it has
-  penalties for both strategic and naval bombers, so it might be a
-  good idea to change to someone else if the RAF will build those
-  planes. When the UK starts to build a wider variety of planes, maybe
-  a Carpet Bombing Doctrine minister fits better, as that doctrine
-  gives only a bonus for the most expensive planes and not a penalty
-  for anything else.
+-   **Foreign Minister** : Anthony Eden as ideological crusader is
+    available from the beginning. You may lose him in an event 1938.
+    Choose the option that you keep him, he is the only ideological
+    crusader until ´45!
+-   **Armaments Ministers** : Sir John Simon gives +5% IC and +10%
+    industry research and is available from 1937 on.
+-   **Minister of Security** : Viscount Templewood is a man of the
+    people and available from 37 on and can replace Baldwin (also a man
+    of the people), who´s often lost due an event.
+-   **Head of Intelligence** : William Gallacher from the start or one
+    year later Lord Cecil of Chelwood, both industrial specialists.
+-   **Chief of Staff** : That´s the player´s choice, until Sir Alan
+    Brooke and his +25% manpower bonus becomes available in ´40.
+-   **Chief of Army** : Again, player´s choice. Sir Alan Brooke becomes
+    available in ´41 and offers Decisive Battle Doctrine, not the worst
+    choice. Elastic Defence from Sir John Dill is definitely another
+    good option.
+-   **Chief of Navy** : From ´37 on you have Sir Dudley Pound, he offers
+    Decisive Battle and that´s most likely the best choice for the
+    Battleship-heavy Royal Navy.
+-   **Chief of Air** : There is a great variety of ministers available.
+    Most naturally Air Superiority seems a good option, but it has
+    penalties for both strategic and naval bombers, so it might be a
+    good idea to change to someone else if the RAF will build those
+    planes. When the UK starts to build a wider variety of planes, maybe
+    a Carpet Bombing Doctrine minister fits better, as that doctrine
+    gives only a bonus for the most expensive planes and not a penalty
+    for anything else.
 
 ## [ Intelligence ]{#Intelligence .mw-headline}
 
@@ -412,33 +410,32 @@ Japan.
 
 ## [ Events ]{#Events .mw-headline}
 
-### [ Spanish Civil War - UK intervention ]{#Spanish*Civil_War*-\_UK_intervention .mw-headline}
+### [ Spanish Civil War - UK intervention ]{#Spanish_Civil_War_-_UK_intervention .mw-headline}
 
 As soon as the Spanish Civil war brakes out in July 1936 the UK has the
 option to intervene or not.
 
-- Don´t support causes
-  - +2 [dissent](/wiki/Dissent "Dissent")
-  - +1 isolationism
+-   Don´t support causes
+    -   +2 [dissent](/wiki/Dissent "Dissent")
+    -   +1 isolationism
 
 ```{=html}
 <!-- -->
 ```
-
-- Support causes
-  - -200 money
-  - -10 manpower
-  - \- x supplies. x = 10 times the number of your maximum daily
-    production.
-  - +4 dissent
-  - +1 interventionism
-  - +1 political left
+-   Support causes
+    -   -200 money
+    -   -10 manpower
+    -   \- x supplies. x = 10 times the number of your maximum daily
+        production.
+    -   +4 dissent
+    -   +1 interventionism
+    -   +1 political left
 
 If the UK helped and the Republicans won the UK gets
 
-- +5 manpower
-- -1 dissent
-- one random blueprint
+-   +5 manpower
+-   -1 dissent
+-   one random blueprint
 
 In all those events the minor influences on relations to several nations
 are missing, but all are really minor changes.
@@ -448,17 +445,17 @@ are missing, but all are really minor changes.
 This event will fire five times in an historical road to war. It´s
 always triggered by German events:
 
-- Reoccupation of the Rhineland in the first months of ´36
-- Anschluß of Austria in Spring ´38
-- Sudetenland in Autumn ´38
-- Treaty of Munich in Spring ´39
-- Molotov-Ribbentrob Pact in August ´39
+-   Reoccupation of the Rhineland in the first months of ´36
+-   Anschluß of Austria in Spring ´38
+-   Sudetenland in Autumn ´38
+-   Treaty of Munich in Spring ´39
+-   Molotov-Ribbentrob Pact in August ´39
 
 The effects are:
 
-- 10% peacetime IC penalty removed
-- one move towards hawk lobby
-- +15 manpower
+-   10% peacetime IC penalty removed
+-   one move towards hawk lobby
+-   +15 manpower
 
 ### [ Guarantee Independence of Poland ]{#Guarantee_Independence_of_Poland .mw-headline}
 
@@ -469,20 +466,19 @@ fulfil their obligations to Poland if specifically Germany invaded. This
 was done to keep the Allies from having to declare war on the Soviet
 Union. The two option are:
 
-- Offer alliance
-  - relations to France and Poland
-  - relations to Germany suffer
-  - +1 interventionism
+-   Offer alliance
+    -   relations to France and Poland
+    -   relations to Germany suffer
+    -   +1 interventionism
 
 ```{=html}
 <!-- -->
 ```
-
-- Don´t offer alliance
-  - +15 [dissent](/wiki/Dissent "Dissent")
-  - relations to France and Poland become worse
-  - relations to Germany improve
-  - +2 isolationism
+-   Don´t offer alliance
+    -   +15 [dissent](/wiki/Dissent "Dissent")
+    -   relations to France and Poland become worse
+    -   relations to Germany improve
+    -   +2 isolationism
 
 ### [ Altmark Incident ]{#Altmark_Incident .mw-headline}
 
@@ -491,26 +487,26 @@ happen.
 
 If the UK decides to intervene:
 
-- +1 manpower
-- -1 dissent
-- +1 hawk lobby
+-   +1 manpower
+-   -1 dissent
+-   +1 hawk lobby
 
 Otherwise:
 
-- +1 manpower
-- -1 dissent
-- +1 dove lobby
+-   +1 manpower
+-   -1 dissent
+-   +1 dove lobby
 
 ### [ Destroyers for bases ]{#Destroyers_for_bases .mw-headline}
 
 If Paris is in Axis hands there is a 15% chance every 20 days that the
 USA offer destroyers to the UK
 
-- +1 Hawk lobby
-- +10 relations with USA
-- -5 manpower
-- +50 escorts in convoy pool
-- Military access for USA
+-   +1 Hawk lobby
+-   +10 relations with USA
+-   -5 manpower
+-   +50 escorts in convoy pool
+-   Military access for USA
 
 ### [ Lend and Lease Shipment ]{#Lend_and_Lease_Shipment .mw-headline}
 
@@ -519,17 +515,17 @@ is a good chance that the USA send Lend and Lease shipments to the
 Britain. The first shipment arrives usually shortly after the Vichy
 event fired and has the following effects for GB:
 
-- supplies +5000
-- oil +2500
-- metal +2500
-- +6 base IC in six different cities.
+-   supplies +5000
+-   oil +2500
+-   metal +2500
+-   +6 base IC in six different cities.
 
 Every following shipment delivers
 
-- 3000 supplies
-- 1000 oil
-- 1000 metal
-- +6 base IC in the same cities.
+-   3000 supplies
+-   1000 oil
+-   1000 metal
+-   +6 base IC in the same cities.
 
 ### [ Independence of India ]{#Independence_of_India .mw-headline}
 
@@ -539,34 +535,34 @@ If Germany does not exist there is a 8% chance every month from November
 No matter what option the player chooses, the UK cores are removed from
 Pakistan, India and Burma.
 
-- They cannot be hold back releases Pakistan and India as free
-  nations, not in your alliance.
-- This must not be allowed causes +20
-  [dissent](/wiki/Dissent "Dissent") .
+-   They cannot be hold back releases Pakistan and India as free
+    nations, not in your alliance.
+-   This must not be allowed causes +20
+    [dissent](/wiki/Dissent "Dissent") .
 
 ## [ Basic Tactical Situation ]{#Basic_Tactical_Situation .mw-headline}
 
 ### [ Advantages ]{#Advantages .mw-headline}
 
-- Natural ability to strike anywhere in the world, which could allow
-  for a multitude of different play styles, from historical
-  play-through to global conquest.
-- Generally in good shape resource wise making it easy to manage any
-  deficiencies that show up.
-- Once \"Lend-Lease\" is triggered they received numerous boosts of
-  IC.
-- Large starting navy.
-- Hardest nation in the world to be annexed.
-- AI normally will not (and won\'t at all on lower levels) invade
-  england.
+-   Natural ability to strike anywhere in the world, which could allow
+    for a multitude of different play styles, from historical
+    play-through to global conquest.
+-   Generally in good shape resource wise making it easy to manage any
+    deficiencies that show up.
+-   Once \"Lend-Lease\" is triggered they received numerous boosts of
+    IC.
+-   Large starting navy.
+-   Hardest nation in the world to be annexed.
+-   AI normally will not (and won\'t at all on lower levels) invade
+    england.
 
 ### [ Disadvantages ]{#Disadvantages .mw-headline}
 
-- Far flung worldwide territories are difficult to defend, which is
-  compounded with small defense forces in each general area.
-- Long Dangerous supply convoys.
-- Transporting units to a hot zone often takes a long time, and it\'s
-  very dangerous.
+-   Far flung worldwide territories are difficult to defend, which is
+    compounded with small defense forces in each general area.
+-   Long Dangerous supply convoys.
+-   Transporting units to a hot zone often takes a long time, and it\'s
+    very dangerous.
 
 ## [ War ]{#War .mw-headline}
 
@@ -711,10 +707,10 @@ outcome. The key principle is: apply overwhelming force to the decisive
 points quickly, and then move on. You will have a number of battles to
 fight, in order:
 
-- 1940 - Save Norway
-- 1940/1 - Drive Italy out of North Africa
-- 1941/2 - Defeat Japan and protect your Far Eastern possessions
-- 1943- - Rescue Europe from German domination
+-   1940 - Save Norway
+-   1940/1 - Drive Italy out of North Africa
+-   1941/2 - Defeat Japan and protect your Far Eastern possessions
+-   1943- - Rescue Europe from German domination
 
 If you get bogged down trying to fight Italy, Japan and Germany all at
 once you will not be able to defeat any of them. Instead, try to end
@@ -781,7 +777,8 @@ just sit back and enjoy your new Germanic colonies.
 
 In '36, Britain is crippled by the restrictions of its leadership and
 peace-time economy. While the monarchy sorts itself out, start
-influencing Republican Spain as actively as you can, all the way up to 200. - Trade with the Netherlands and Belgium for cash, if you have to.
+influencing Republican Spain as actively as you can, all the way up to
+200. - Trade with the Netherlands and Belgium for cash, if you have to.
 Once the Spanish civil war hits, ask them to your alliance until they
 accept. Congratulations, you are now at war. Take military control of
 both Republican Spain and France, and if you haven't already, pull
@@ -845,8 +842,8 @@ most of its troops to the southern tip of the peninsula trying to cross
 it and invade Sicily. There are two options that allow you to hold
 Sicily indefinitely:
 
-- Place a fleet between Italian mainland and Sicily.
-- Garrison enough troops to defend against AI invasion.
+-   Place a fleet between Italian mainland and Sicily.
+-   Garrison enough troops to defend against AI invasion.
 
 If you decide to place a fleet to guard Sicily, be very careful with
 Italian naval bombers. Return damaged ships to port to avoid being sunk.
@@ -863,7 +860,7 @@ encircle Berlin before the Red Army arrives. It will cut off the rest of
 Germany from supplies, but in that situation this exploit should not
 play an important role.
 
-## [ ]{#Playing*with_a_mod*(such*as_HSR)} [ Playing with a mod (such as HSR) ]{#Playing_with_a_mod*.28such_as_HSR.29 .mw-headline}
+## [ ]{#Playing_with_a_mod_(such_as_HSR)} [ Playing with a mod (such as HSR) ]{#Playing_with_a_mod_.28such_as_HSR.29 .mw-headline}
 
 If you are playing with a mod such as Historical Stony Road, Germany
 becomes a very powerful opponent and your only strategy when the war
@@ -882,47 +879,47 @@ you take Germany, but you will not win the game that way, Comintern will
 have a lot more points by the end. So step by step, here is what one
 should do if playing with HSR:
 
-- Build tons of carriers/destroyers
-- Marines and infantry should be your other specialization
-- Don\'t bother with armor before early 1943; armor in the
-  desert/jungles does not help much
-- With enough troops (15 should be more than enough) prepare for a
-  full scale African assault when Germany and Italy DOW you
-- Have at least two major fleets with carriers floating in the
-  Mediterranean, making sure no German on Italian fleet goes through
-- Secure the English Channel with lots of destroyers
-- Put some more destroyers around Gibraltar and to the west of it,
-  even to the west of Africa - this is where your convoys are usually
-  attacked by German subs
-- Expect a lot of air support, especially naval bombers, so make
-  fighters and place them accordingly
-- Send about 20+ troops, some with artillery and heavy division
-  attachments, to India to secure Sino-Indian border and commence an
-  attack on Siam (from Indonesia and India on two fronts)
-- Take and annex Siam ASAP and advance into Chinese mainland if
-  Japanese has already taken it
-- Continue to push them for as long as you can/want.
-- You will lose many islands in the Pacific, but don\'t bother taking
-  them back; US will do that for you later
-- D-day requires a lot of planning and units. When you think you\'re
-  ready and have enough US support (should be around 1943-1944), make
-  a lot of infantry/mechanized/armored divisions and with all your
-  remaining marines, land on any part of the beach and then proceed to
-  establishing a beachhead/new front.
-- I recommend taking control of US armies at this point, the D-Day in
-  HSR proved to be a very difficult thing mostly due to highly
-  advanced German forces and their determination to kick you back to
-  where you came from
-- Rush toward Berlin and try to take it before the Russkies
-- If you manage, you\'ll win this game; if not\....try again later.
+-   Build tons of carriers/destroyers
+-   Marines and infantry should be your other specialization
+-   Don\'t bother with armor before early 1943; armor in the
+    desert/jungles does not help much
+-   With enough troops (15 should be more than enough) prepare for a
+    full scale African assault when Germany and Italy DOW you
+-   Have at least two major fleets with carriers floating in the
+    Mediterranean, making sure no German on Italian fleet goes through
+-   Secure the English Channel with lots of destroyers
+-   Put some more destroyers around Gibraltar and to the west of it,
+    even to the west of Africa - this is where your convoys are usually
+    attacked by German subs
+-   Expect a lot of air support, especially naval bombers, so make
+    fighters and place them accordingly
+-   Send about 20+ troops, some with artillery and heavy division
+    attachments, to India to secure Sino-Indian border and commence an
+    attack on Siam (from Indonesia and India on two fronts)
+-   Take and annex Siam ASAP and advance into Chinese mainland if
+    Japanese has already taken it
+-   Continue to push them for as long as you can/want.
+-   You will lose many islands in the Pacific, but don\'t bother taking
+    them back; US will do that for you later
+-   D-day requires a lot of planning and units. When you think you\'re
+    ready and have enough US support (should be around 1943-1944), make
+    a lot of infantry/mechanized/armored divisions and with all your
+    remaining marines, land on any part of the beach and then proceed to
+    establishing a beachhead/new front.
+-   I recommend taking control of US armies at this point, the D-Day in
+    HSR proved to be a very difficult thing mostly due to highly
+    advanced German forces and their determination to kick you back to
+    where you came from
+-   Rush toward Berlin and try to take it before the Russkies
+-   If you manage, you\'ll win this game; if not\....try again later.
 
 \
 
-## [ Additional Tips for 1936 Scenario - multiplayer ]{#Additional*Tips_for_1936_Scenario*-\_multiplayer .mw-headline}
+## [ Additional Tips for 1936 Scenario - multiplayer ]{#Additional_Tips_for_1936_Scenario_-_multiplayer .mw-headline}
 
 Your priorities should be as follows:
 
-- 1\) Maintaining naval supremacy -
+-   1\) Maintaining naval supremacy -
 
 In the North Sea you can keep the German player bottled up from the
 beginning and not allow his transports to seize Iceland (for example, as
@@ -938,12 +935,12 @@ Italians/Germans from getting reinforcements to Africa, it is essential
 to keep the Suez open - if you control the med this shouldn\'t be a
 problem.
 
-- 2\) Air supremacy - In order to accomplish item one, you\'re going
-  to need a lot of planes. Naval bombers are your most dreaded
-  nightmare, and since they can wreck your fleet in almost no time
-  (and when this happens the game can go south very very quickly), so
-  to address this you\'re going to need to build some fighters, the 3
-  interceptors you start the game with will not cut it I\'m afraid.
+-   2\) Air supremacy - In order to accomplish item one, you\'re going
+    to need a lot of planes. Naval bombers are your most dreaded
+    nightmare, and since they can wreck your fleet in almost no time
+    (and when this happens the game can go south very very quickly), so
+    to address this you\'re going to need to build some fighters, the 3
+    interceptors you start the game with will not cut it I\'m afraid.
 
 If you succeed in these two endeavors, you should be able to hold the
 Suez open (especially critical as most German players will plow through

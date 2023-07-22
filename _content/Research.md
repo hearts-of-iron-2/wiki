@@ -1,33 +1,31 @@
 ---
 title: Research
 ---
-
 ::: mw-parser-output
 [Template:Anthology](/wiki/index.php?title=Template:Anthology&action=edit&redlink=1 "Template:Anthology (page does not exist)"){.new}
 
 ::: {#toc .toc aria-labelledby="mw-toc-heading" role="navigation"}
 ::: {.toctitle dir="ltr" lang="en"}
-
 ## Contents {#mw-toc-heading}
 
 [ ]{.toctogglespan}
 :::
 
-- [[ 1 ]{.tocnumber} [ Research Basics ]{.toctext}](#Research_Basics)
-- [[ 2 ]{.tocnumber} [ Examples ]{.toctext}](#Examples)
-- [[ 3 ]{.tocnumber} [ General things to learn
-  ]{.toctext}](#General_things_to_learn)
-- [[ 4 ]{.tocnumber} [ Researching ahead of time
-  ]{.toctext}](#Researching_ahead_of_time)
-- [[ 5 ]{.tocnumber} [ Effect of Rocket Test Sites
-  ]{.toctext}](#Effect_of_Rocket_Test_Sites)
-- [[ 6 ]{.tocnumber} [ Effect of Nuclear Reactors
-  ]{.toctext}](#Effect_of_Nuclear_Reactors)
-- [[ 7 ]{.tocnumber} [ Research Strategy
-  ]{.toctext}](#Research_Strategy)
-- [[ 8 ]{.tocnumber} [ Research Assistant Time Calculator
-  ]{.toctext}](#Research_Assistant_Time_Calculator)
-  :::
+-   [[ 1 ]{.tocnumber} [ Research Basics ]{.toctext}](#Research_Basics)
+-   [[ 2 ]{.tocnumber} [ Examples ]{.toctext}](#Examples)
+-   [[ 3 ]{.tocnumber} [ General things to learn
+    ]{.toctext}](#General_things_to_learn)
+-   [[ 4 ]{.tocnumber} [ Researching ahead of time
+    ]{.toctext}](#Researching_ahead_of_time)
+-   [[ 5 ]{.tocnumber} [ Effect of Rocket Test Sites
+    ]{.toctext}](#Effect_of_Rocket_Test_Sites)
+-   [[ 6 ]{.tocnumber} [ Effect of Nuclear Reactors
+    ]{.toctext}](#Effect_of_Nuclear_Reactors)
+-   [[ 7 ]{.tocnumber} [ Research Strategy
+    ]{.toctext}](#Research_Strategy)
+-   [[ 8 ]{.tocnumber} [ Research Assistant Time Calculator
+    ]{.toctext}](#Research_Assistant_Time_Calculator)
+:::
 
 ## [ Research Basics ]{#Research_Basics .mw-headline}
 
@@ -56,7 +54,7 @@ parts having a match is quartered.
 
 Researching a Technology is displayed as having five partial techs
 accounting for 20% each. The game engine internally counts each part
-separately with 100% (or 200% if _double_time = yes_ is specified in the
+separately with 100% (or 200% if *double_time = yes* is specified in the
 tech file). Each part of the technology is first fully completed before
 the next part starts. So any excess research progress in the day which
 finishes a part (to 20%, 40%, 60%, 80% and of course 100%) is lost. This
@@ -71,7 +69,7 @@ Research time (in days) with matching skill level (i.e. a skill level 5
 team researches a part of a technology with difficulty 5) And WITHOUT
 matching field of expertise.
 
-    Lvl 3: 37 Lvl 4: 40 Lvl 5: 42 Lvl 6: 44 Lvl 7: 46 Lvl 8: 47 Lvl 9: 49 Lvl10: 50
+    Lvl 3: 37 Lvl 4: 40 Lvl 5: 42 Lvl 6: 44 Lvl 7: 46 Lvl 8: 47 Lvl 9: 49 Lvl10: 50 
 
 This base time is modified by the difference between difficulty and
 skill level (=skill level-difficulty) as follows in cumulative days (so
@@ -80,7 +78,7 @@ behind it with some integers, so there are rounding errors when giving
 full days, but as already mentioned it should suffice for planning
 research):
 
-    -7: +9 -6: +8 -5: +7 -4: +6 -3: +5 -2: +4 -1: +3 0: 0 +1: -3 +2: -3 +3: -2 +4: -2 +5: -2 +6: -2
+    -7: +9 -6: +8 -5: +7 -4: +6 -3: +5 -2: +4 -1: +3 0: 0 +1: -3 +2: -3 +3: -2 +4: -2 +5: -2 +6: -2 
 
 Research efficiency modifier due to techs is a corresponding time
 modifier (i.e.: + 5% means each part takes 5% less time to research, so
@@ -95,7 +93,7 @@ giving research bonus (I just checked Todt of Germany).
 An example calculation for Germany in '36 (they have a +5% Research
 modifier due to tech) and Basic Machine tools (a '36 tech):
 
-    Chemistry 5 Industrial Engineering 5 Industrial Engineering 5 Industrial Engineering 6 Industrial Engineering 7 (doubled)
+    Chemistry 5 Industrial Engineering 5 Industrial Engineering 5 Industrial Engineering 6 Industrial Engineering 7 (doubled) 
 
 Now let's IG Farben do the job: Skill 9 and all fields of expertise
 match:
@@ -194,7 +192,7 @@ research modifiers) with skill lvl. 8 teams (results in days):
 rocketry site size / without rocketry field of expertise / with rocketry
 field of expertise
 
-    size 0 / 47d / 24d size 1 / 28d / 18d size 2 / 20d / 14d size 3 / 16d / 12d size 4 / 13d / 10d size 5 / 11d / 9d size 6 / 9d / 8d size 7 / 8d / 7d
+    size 0 / 47d / 24d size 1 / 28d / 18d size 2 / 20d / 14d size 3 / 16d / 12d size 4 / 13d / 10d size 5 / 11d / 9d size 6 / 9d / 8d size 7 / 8d / 7d 
 
 What we can see is, that starting from size 5 onwards, the differences
 are rather small. Blueprints will further cut these reduced times in
@@ -214,7 +212,7 @@ in days):
 nuclear reactor size / without nuclear field of expertise / with nuclear
 field of expertise
 
-    size 0 / 53d / 27d size 1 / 32d / 20d size 2 / 23d / 16d size 3 / 18d / 14d size 4 / 15d / 12d size 5 / 13d / 10d size 6 / 11d / 9d size 7 / 10d / 8d
+    size 0 / 53d / 27d size 1 / 32d / 20d size 2 / 23d / 16d size 3 / 18d / 14d size 4 / 15d / 12d size 5 / 13d / 10d size 6 / 11d / 9d size 7 / 10d / 8d 
 
 What we can see is the same as for rocketry test sites, that starting
 from size 5 onwards, the differences are rather small. Blueprints will
@@ -227,130 +225,120 @@ matching fields of expertise.
 
 ## [ Research Strategy ]{#Research_Strategy .mw-headline}
 
-- The number of tech teams you can use at once is determined by your
-  IC. You get one extra at each of 20, 40, 60 and 80 base IC.
+-   The number of tech teams you can use at once is determined by your
+    IC. You get one extra at each of 20, 40, 60 and 80 base IC.
 
 ```{=html}
 <!-- -->
 ```
-
-- Many technologies, particularly Industrial techs, give immediate
-  bonuses across your entire economy. The sooner you research them the
-  more you will be able to produce before war breaks out and you
-  should have no hesitation in trying to push them before their
-  historical years.
-
-```{=html}
-<!-- -->
-```
-
-- Try to match your tech advances with your current spare IC. If you
-  have spare IC (in times of relative peace), you can consider
-  researching new and improved weapons, because you have the IC for
-  the upgrades. If you are in a costly war that chews up IC in
-  re-inforcements, consider researching doctrines or unit types you
-  don\'t have yet because there is nothing to upgrade. Look at the
-  unit charts to see which upgrades are most worthwhile for your
-  situation.
+-   Many technologies, particularly Industrial techs, give immediate
+    bonuses across your entire economy. The sooner you research them the
+    more you will be able to produce before war breaks out and you
+    should have no hesitation in trying to push them before their
+    historical years.
 
 ```{=html}
 <!-- -->
 ```
-
-- Doctrine techs give instant combat bonuses with no IC cost. If you
-  are currently at war, these are very high priority. If you are at
-  peace, you might consider developing new units that require time to
-  build, and then move on to the doctrines later - just in time for
-  the war to start.
-
-```{=html}
-<!-- -->
-```
-
-- Some ministers give bonuses to some research areas. For instance,
-  Resource Industrialist Armamanents ministers give a bonus to
-  Industrial research as well as to IC. At the start of a campaign you
-  may well be investing heavily in Industrial research and find this
-  worthwhile.
+-   Try to match your tech advances with your current spare IC. If you
+    have spare IC (in times of relative peace), you can consider
+    researching new and improved weapons, because you have the IC for
+    the upgrades. If you are in a costly war that chews up IC in
+    re-inforcements, consider researching doctrines or unit types you
+    don\'t have yet because there is nothing to upgrade. Look at the
+    unit charts to see which upgrades are most worthwhile for your
+    situation.
 
 ```{=html}
 <!-- -->
 ```
-
-- Plan. This is one of the areas where really long term thinking pays
-  off.
-  - If you need to project power overseas (even in the far future),
-    you need aircraft carriers, marines and paratroopers and you
-    have to research them before you can build them (which will also
-    take time).
-  - Control of the skies started important and became more important
-    as the war went on, so consider air research whatever your
-    situation; in particular the Air Doctrine tree requires you to
-    research many easy techs, and to develop your bombers\'
-    organisation and morale before your fighters.
-  - If you are likely to have land conflicts, pay close attention to
-    your Land Doctrine Tree and its attributes. Your doctrine will
-    give you discounts on production of some units; do you want to
-    research these first to maximise the advantages?
+-   Doctrine techs give instant combat bonuses with no IC cost. If you
+    are currently at war, these are very high priority. If you are at
+    peace, you might consider developing new units that require time to
+    build, and then move on to the doctrines later - just in time for
+    the war to start.
 
 ```{=html}
 <!-- -->
 ```
-
-- Consider what you have. This has been mentioned elsewhere, but you
-  will probably start with a bunch of vanilla infantry, and you won\'t
-  be able to replace them overnight with mechanised infantry. If you
-  are heading for war quickly you you really don\'t want to be
-  fighting with 1918-model infantry and upgrading is your best bet. If
-  war is further away, your best bet may be to replace the divisions
-  entirely rather than upgrade.
+-   Some ministers give bonuses to some research areas. For instance,
+    Resource Industrialist Armamanents ministers give a bonus to
+    Industrial research as well as to IC. At the start of a campaign you
+    may well be investing heavily in Industrial research and find this
+    worthwhile.
 
 ```{=html}
 <!-- -->
 ```
-
-- Plan your construction to match your tech level. If you are about to
-  advance to a new level of tanks, wait until you get them before
-  putting in that monster tank order to make the most of the [gearing
-  bonus](/wiki/Gearing_Bonus "Gearing Bonus") ; however if major
-  operations are around the corner you may not be able to wait.
-
-```{=html}
-<!-- -->
-```
-
-- If you need cash for research, and have no dissent, trade for cash.
-  It is often more economical to spend a few ICs on making supplies
-  and trading those for cash than to put IC into excess consumer goods
-  to make cash. However, if you have dissent, you\'re pouring IC into
-  consumer goods anyway, so it\'s not really an issue. As with other
-  resources, make friends and trade early for a stockpile of cash
-  before the shooting war starts and then stop worring about it.
+-   Plan. This is one of the areas where really long term thinking pays
+    off.
+    -   If you need to project power overseas (even in the far future),
+        you need aircraft carriers, marines and paratroopers and you
+        have to research them before you can build them (which will also
+        take time).
+    -   Control of the skies started important and became more important
+        as the war went on, so consider air research whatever your
+        situation; in particular the Air Doctrine tree requires you to
+        research many easy techs, and to develop your bombers\'
+        organisation and morale before your fighters.
+    -   If you are likely to have land conflicts, pay close attention to
+        your Land Doctrine Tree and its attributes. Your doctrine will
+        give you discounts on production of some units; do you want to
+        research these first to maximise the advantages?
 
 ```{=html}
 <!-- -->
 ```
-
-- A potential approach to planning your research strategy is to use a
-  process of elimination. For instance, few nations will build large
-  numbers of Battleships AND Carriers, or Strat Bombers AND Close Air
-  Support. If you make such decisions early on you can remove whole
-  chunks of research that would be pointless and lets you focus on
-  what is most important for your forces.
+-   Consider what you have. This has been mentioned elsewhere, but you
+    will probably start with a bunch of vanilla infantry, and you won\'t
+    be able to replace them overnight with mechanised infantry. If you
+    are heading for war quickly you you really don\'t want to be
+    fighting with 1918-model infantry and upgrading is your best bet. If
+    war is further away, your best bet may be to replace the divisions
+    entirely rather than upgrade.
 
 ```{=html}
 <!-- -->
 ```
+-   Plan your construction to match your tech level. If you are about to
+    advance to a new level of tanks, wait until you get them before
+    putting in that monster tank order to make the most of the [gearing
+    bonus](/wiki/Gearing_Bonus "Gearing Bonus") ; however if major
+    operations are around the corner you may not be able to wait.
 
-- Consider holding off upgrades if you have the time. Upgrading twice
-  obsolete units is 1/2 the time and 1/2 the cost for the first
-  upgrade. Upgrading Inf \'18 once you have researched Inf \'39 will
-  cost you 1.25 the normal cost. Upgrading immediately twice will cost
-  the full upgrade amount twice. This is especially apparent with
-  really obsolete [artillery
-  brigades](/wiki/Artillery_brigade "Artillery brigade"){.mw-redirect}
-  . Wait until you have researched the models you want to upgrade the
-  units you have.
+```{=html}
+<!-- -->
+```
+-   If you need cash for research, and have no dissent, trade for cash.
+    It is often more economical to spend a few ICs on making supplies
+    and trading those for cash than to put IC into excess consumer goods
+    to make cash. However, if you have dissent, you\'re pouring IC into
+    consumer goods anyway, so it\'s not really an issue. As with other
+    resources, make friends and trade early for a stockpile of cash
+    before the shooting war starts and then stop worring about it.
+
+```{=html}
+<!-- -->
+```
+-   A potential approach to planning your research strategy is to use a
+    process of elimination. For instance, few nations will build large
+    numbers of Battleships AND Carriers, or Strat Bombers AND Close Air
+    Support. If you make such decisions early on you can remove whole
+    chunks of research that would be pointless and lets you focus on
+    what is most important for your forces.
+
+```{=html}
+<!-- -->
+```
+-   Consider holding off upgrades if you have the time. Upgrading twice
+    obsolete units is 1/2 the time and 1/2 the cost for the first
+    upgrade. Upgrading Inf \'18 once you have researched Inf \'39 will
+    cost you 1.25 the normal cost. Upgrading immediately twice will cost
+    the full upgrade amount twice. This is especially apparent with
+    really obsolete [artillery
+    brigades](/wiki/Artillery_brigade "Artillery brigade"){.mw-redirect}
+    . Wait until you have researched the models you want to upgrade the
+    units you have.
 
 ## [ Research Assistant Time Calculator ]{#Research_Assistant_Time_Calculator .mw-headline}
 

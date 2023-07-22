@@ -1,7 +1,6 @@
 ---
 title: Manchukuo_strategy
 ---
-
 ::: mw-parser-output
 ::: {.eu4box style="width:330px; height:auto; float:right; clear:right"}
 ::: heading
@@ -14,7 +13,7 @@ title: Manchukuo_strategy
 [Major powers](/wiki/Major_power "Major power"){.mw-redirect}
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [France](/wiki/France "France")\
@@ -30,7 +29,7 @@ title: Manchukuo_strategy
 Regional powers
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [Argentina](/wiki/Argentina "Argentina")\
@@ -58,7 +57,7 @@ Regional powers
 [Minor powers](/wiki/Minor_power "Minor power"){.mw-redirect}
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [Austria](/wiki/Austria "Austria")\
@@ -81,7 +80,7 @@ Regional powers
 [Micro powers](/wiki/Micro_power "Micro power"){.mw-redirect}
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [Afghanistan](/wiki/Afghanistan "Afghanistan")\
@@ -130,45 +129,50 @@ Arabia](/wiki/index.php?title=Saudi_Arabia&action=edit&redlink=1 "Saudi Arabia (
 :::
 
 +-----------------------------------+-----------------------------------+
-| ::: {style="width: 52px;"} | **[This](https://hoi2.paradoxw |
+| ::: {style="width: 52px;"}        | **[This](https://hoi2.paradoxw    |
 | ![Merge-arrows.gif](https://centr | ikis.com/index.php?title=Manchuku |
 | al.paradoxwikis.com/images/8/8b/M | o_strategy&action=edit){.external |
-| erge-arrows.gif){file-height="20" | .text rel="nofollow"} article is |
-| file-width="50" | a candidate to be |
-| u | [merged](/wiki |
+| erge-arrows.gif){file-height="20" | .text rel="nofollow"} article is  |
+| file-width="50"                   | a candidate to be                 |
+| u                                 | [merged](/wiki                    |
 | rl="https://central.paradoxwikis. | /Template:Merge "Template:Merge") |
-| com/images/8/8b/Merge-arrows.gif" | with |
-| decoding="async" height="20" | [Manchu |
-| loading="lazy" width="50"} | kuo](/wiki/Manchukuo "Manchukuo") |
-| ::: | .**\ |
-| | [Please help to improve the wiki |
-| | by taking part in the |
-| | [di |
-| | scussion](/wiki/index.php?title=T |
-| | alk:Manchukuo_strategy&action=edi |
-| | t&redlink=1 "Talk:Manchukuo strat |
-| | egy (page does not exist)"){.new} |
-| | of the proposed merger.]{.small} |
+| com/images/8/8b/Merge-arrows.gif" | with                              |
+| decoding="async" height="20"      | [Manchu                           |
+| loading="lazy" width="50"}        | kuo](/wiki/Manchukuo "Manchukuo") |
+| :::                               | .**\                              |
+|                                   | [Please help to improve the wiki  |
+|                                   | by taking part in the             |
+|                                   | [di                               |
+|                                   | scussion](/wiki/index.php?title=T |
+|                                   | alk:Manchukuo_strategy&action=edi |
+|                                   | t&redlink=1 "Talk:Manchukuo strat |
+|                                   | egy (page does not exist)"){.new} |
+|                                   | of the proposed merger.]{.small}  |
 +-----------------------------------+-----------------------------------+
 
 \
 
 ::: {#toc .toc aria-labelledby="mw-toc-heading" role="navigation"}
 ::: {.toctitle dir="ltr" lang="en"}
-
 ## Contents {#mw-toc-heading}
 
 [ ]{.toctogglespan}
 :::
 
-- [[ 1 ]{.tocnumber} [ Background ]{.toctext}](#Background)
-- [[ 2 ]{.tocnumber} [ Walkthrough for 1936 Scenario
-  ]{.toctext}](#Walkthrough_for_1936_Scenario) - [[ 2.1 ]{.tocnumber} [ Preparing for War
-  ]{.toctext}](#Preparing_for_War) - [[ 2.2 ]{.tocnumber} [ 1936-37 ]{.toctext}](#1936-37) - [[ 2.3 ]{.tocnumber} [ Sino-Japan War
-  ]{.toctext}](#Sino-Japan_War) - [[ 2.4 ]{.tocnumber} [ Pacific War ]{.toctext}](#Pacific_War) - [[ 2.5 ]{.tocnumber} [ Japanese-Soviet War
-  ]{.toctext}](#Japanese-Soviet_War) - [[ 2.6 ]{.tocnumber} [ Whats next for Manchukuo?
-  ]{.toctext}](#Whats_next_for_Manchukuo.3F)
-  :::
+-   [[ 1 ]{.tocnumber} [ Background ]{.toctext}](#Background)
+-   [[ 2 ]{.tocnumber} [ Walkthrough for 1936 Scenario
+    ]{.toctext}](#Walkthrough_for_1936_Scenario)
+    -   [[ 2.1 ]{.tocnumber} [ Preparing for War
+        ]{.toctext}](#Preparing_for_War)
+    -   [[ 2.2 ]{.tocnumber} [ 1936-37 ]{.toctext}](#1936-37)
+    -   [[ 2.3 ]{.tocnumber} [ Sino-Japan War
+        ]{.toctext}](#Sino-Japan_War)
+    -   [[ 2.4 ]{.tocnumber} [ Pacific War ]{.toctext}](#Pacific_War)
+    -   [[ 2.5 ]{.tocnumber} [ Japanese-Soviet War
+        ]{.toctext}](#Japanese-Soviet_War)
+    -   [[ 2.6 ]{.tocnumber} [ Whats next for Manchukuo?
+        ]{.toctext}](#Whats_next_for_Manchukuo.3F)
+:::
 
 ## [ Background ]{#Background .mw-headline}
 
@@ -185,19 +189,19 @@ success could lead to opportunities for your own \"Empire\".
 rely on Japanese blueprints. You may be stuck with 1930s technology well
 into the 1940s, just do what you can do.)
 
-- All agriculture: More manpower = more infantry.
-- Industrial: More industry = more infantry.
-- Infantry: Focus on infantry and supply technologies. If you can,
-  cavalry and mountain troops.
-- Armor and Artillery: Develop artillery only. If your manage to get 3
-  tech teams, build
+-   All agriculture: More manpower = more infantry.
+-   Industrial: More industry = more infantry.
+-   Infantry: Focus on infantry and supply technologies. If you can,
+    cavalry and mountain troops.
+-   Armor and Artillery: Develop artillery only. If your manage to get 3
+    tech teams, build
 
 **Trades**
 
-- Japan: Your one and only resourceful ally, get technologies from
-  them. They will offer you free resources.
-- Thailand: An okay ally, trade to prop up a fellow desperate Great
-  East Asia Co-Prosperity Sphere nation.
+-   Japan: Your one and only resourceful ally, get technologies from
+    them. They will offer you free resources.
+-   Thailand: An okay ally, trade to prop up a fellow desperate Great
+    East Asia Co-Prosperity Sphere nation.
 
 ### [ 1936-37 ]{#1936-37 .mw-headline}
 

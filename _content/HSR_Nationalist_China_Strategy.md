@@ -1,7 +1,6 @@
 ---
 title: HSR_Nationalist_China_Strategy
 ---
-
 ::: mw-parser-output
 If you\'re playing with a mod such as Historical Stony Road (which I
 personally recommend), you will experience a slightly different and much
@@ -72,4 +71,4 @@ Here are basic steps and warnings on how to play:
     grabs, but England with its Indian abbundance is probably easier and
     quicker to take.
 13. Good luck, commander!
-    :::
+:::

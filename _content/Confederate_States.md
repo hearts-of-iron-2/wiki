@@ -1,7 +1,6 @@
 ---
 title: Confederate_States
 ---
-
 ::: mw-parser-output
 The Confederate States is only playable if you have taken over the USA
 all ready. Further, if you manipulate the game play some, and jump from

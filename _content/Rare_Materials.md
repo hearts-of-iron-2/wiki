@@ -1,7 +1,6 @@
 ---
 title: Rare_Materials
 ---
-
 ::: mw-parser-output
 Rare materials represent a classification of industrial materials
 essential to wartime production, but no single material being used in

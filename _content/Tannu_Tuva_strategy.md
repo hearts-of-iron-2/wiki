@@ -1,28 +1,27 @@
 ---
 title: Tannu_Tuva_strategy
 ---
-
 ::: mw-parser-output
 +-----------------------------------+-----------------------------------+
-| ::: {style="width: 52px;"} | **[This](https://hoi2.paradoxwi |
+| ::: {style="width: 52px;"}        | **[This](https://hoi2.paradoxwi   |
 | ![Merge-arrows.gif](https://centr | kis.com/index.php?title=Tannu_Tuv |
 | al.paradoxwikis.com/images/8/8b/M | a_strategy&action=edit){.external |
-| erge-arrows.gif){file-height="20" | .text rel="nofollow"} article is |
-| file-width="50" | a candidate to be |
-| u | [merged](/wiki |
+| erge-arrows.gif){file-height="20" | .text rel="nofollow"} article is  |
+| file-width="50"                   | a candidate to be                 |
+| u                                 | [merged](/wiki                    |
 | rl="https://central.paradoxwikis. | /Template:Merge "Template:Merge") |
-| com/images/8/8b/Merge-arrows.gif" | with [Tannu |
-| decoding="async" height="20" | Tuv |
-| loading="lazy" width="50"} | a](/wiki/Tannu_Tuva "Tannu Tuva") |
-| ::: | .**\ |
-| | [Please help to improve the wiki |
-| | by taking part in the |
-| | [disc |
-| | ussion](/wiki/index.php?title=Tal |
-| | k:Tannu_Tuva_strategy&action=edit |
-| | &redlink=1 "Talk:Tannu Tuva strat |
-| | egy (page does not exist)"){.new} |
-| | of the proposed merger.]{.small} |
+| com/images/8/8b/Merge-arrows.gif" | with [Tannu                       |
+| decoding="async" height="20"      | Tuv                               |
+| loading="lazy" width="50"}        | a](/wiki/Tannu_Tuva "Tannu Tuva") |
+| :::                               | .**\                              |
+|                                   | [Please help to improve the wiki  |
+|                                   | by taking part in the             |
+|                                   | [disc                             |
+|                                   | ussion](/wiki/index.php?title=Tal |
+|                                   | k:Tannu_Tuva_strategy&action=edit |
+|                                   | &redlink=1 "Talk:Tannu Tuva strat |
+|                                   | egy (page does not exist)"){.new} |
+|                                   | of the proposed merger.]{.small}  |
 +-----------------------------------+-----------------------------------+
 
 ::: {.eu4box style="width:330px; height:auto; float:right; clear:right"}
@@ -36,7 +35,7 @@ title: Tannu_Tuva_strategy
 [Major powers](/wiki/Major_power "Major power"){.mw-redirect}
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [France](/wiki/France "France")\
@@ -52,7 +51,7 @@ title: Tannu_Tuva_strategy
 Regional powers
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [Argentina](/wiki/Argentina "Argentina")\
@@ -80,7 +79,7 @@ Regional powers
 [Minor powers](/wiki/Minor_power "Minor power"){.mw-redirect}
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [Austria](/wiki/Austria "Austria")\
@@ -103,7 +102,7 @@ Regional powers
 [Micro powers](/wiki/Micro_power "Micro power"){.mw-redirect}
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [Afghanistan](/wiki/Afghanistan "Afghanistan")\
@@ -153,20 +152,19 @@ Arabia](/wiki/index.php?title=Saudi_Arabia&action=edit&redlink=1 "Saudi Arabia (
 
 ::: {#toc .toc aria-labelledby="mw-toc-heading" role="navigation"}
 ::: {.toctitle dir="ltr" lang="en"}
-
 ## Contents {#mw-toc-heading}
 
 [ ]{.toctogglespan}
 :::
 
-- [[ 1 ]{.tocnumber} [ Background ]{.toctext}](#Background)
-- [[ 2 ]{.tocnumber} [ Early Years ]{.toctext}](#Early_Years)
-- [[ 3 ]{.tocnumber} [ The German War Machine
-  ]{.toctext}](#The_German_War_Machine)
-- [[ 4 ]{.tocnumber} [ And now the fun begins!
-  ]{.toctext}](#And_now_the_fun_begins.21)
-- [[ 5 ]{.tocnumber} [ What next? ]{.toctext}](#What_next.3F)
-  :::
+-   [[ 1 ]{.tocnumber} [ Background ]{.toctext}](#Background)
+-   [[ 2 ]{.tocnumber} [ Early Years ]{.toctext}](#Early_Years)
+-   [[ 3 ]{.tocnumber} [ The German War Machine
+    ]{.toctext}](#The_German_War_Machine)
+-   [[ 4 ]{.tocnumber} [ And now the fun begins!
+    ]{.toctext}](#And_now_the_fun_begins.21)
+-   [[ 5 ]{.tocnumber} [ What next? ]{.toctext}](#What_next.3F)
+:::
 
 ## [ Background ]{#Background .mw-headline}
 
@@ -188,9 +186,9 @@ reach Sinkiang- that is, Bijsk or Ziryanovsk, and there\'s no way
 Mongolia will give you Khobdo- it being their only victory point save
 for Ulan Bator. Basically, the advantages you do have are that:
 
-- In the middle of nowhere surrounded by friendly nations. No way you
-  can be attacked.
-- Only one province to defend
+-   In the middle of nowhere surrounded by friendly nations. No way you
+    can be attacked.
+-   Only one province to defend
 
 Sure, you have some bad ministers and leaders but that can all be sorted
 out in the years to come when you are the one in a position to make

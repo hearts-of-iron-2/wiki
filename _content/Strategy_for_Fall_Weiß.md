@@ -1,7 +1,6 @@
 ---
 title: Strategy_for_Fall_Weiß
 ---
-
 ::: mw-parser-output
 [Template:Scenario
 guides](/wiki/index.php?title=Template:Scenario_guides&action=edit&redlink=1 "Template:Scenario guides (page does not exist)"){.new}
@@ -20,16 +19,16 @@ width="44"}](/wiki/File:Vs.jpg){.image}
 This battle scenario is relatively easy for German even in very
 hard/furious. Some tips to help in the conquest:
 
-- Always put all of the armies in offensive mode.
-- Try to attack from two provinces or more.
-- You may want to reshuffle (and promote) several leaders.
-- At all time, put your bombers in interdiction and air superiority
-  for fighters. Also remember to rebase and change their area after
-  you conquered the area.
-- Don't bother with Polish navy. Just leave them alone since they can
-  not do anything anyway.
-- Make sure you advance quickly and capture Warsaw, Zamosc and
-  Brest-Litovsk before Soviet can seize them.
+-   Always put all of the armies in offensive mode.
+-   Try to attack from two provinces or more.
+-   You may want to reshuffle (and promote) several leaders.
+-   At all time, put your bombers in interdiction and air superiority
+    for fighters. Also remember to rebase and change their area after
+    you conquered the area.
+-   Don't bother with Polish navy. Just leave them alone since they can
+    not do anything anyway.
+-   Make sure you advance quickly and capture Warsaw, Zamosc and
+    Brest-Litovsk before Soviet can seize them.
 
 ## [ ]{#Fall_Weiß_Strategy_for_Poland} [ Fall Weiß Strategy for Poland ]{#Fall_Wei.C3.9F_Strategy_for_Poland .mw-headline}
 

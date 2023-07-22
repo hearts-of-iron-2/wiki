@@ -1,7 +1,6 @@
 ---
 title: Ethiopia
 ---
-
 ::: mw-parser-output
 ::: {.eu4box style="width:330px; height:auto; float:right; clear:right"}
 ::: heading
@@ -14,7 +13,7 @@ title: Ethiopia
 [Major powers](/wiki/Major_power "Major power"){.mw-redirect}
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [France](/wiki/France "France")\
@@ -30,7 +29,7 @@ title: Ethiopia
 Regional powers
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [Argentina](/wiki/Argentina "Argentina")\
@@ -58,7 +57,7 @@ Regional powers
 [Minor powers](/wiki/Minor_power "Minor power"){.mw-redirect}
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [Austria](/wiki/Austria "Austria")\
@@ -81,7 +80,7 @@ Regional powers
 [Micro powers](/wiki/Micro_power "Micro power"){.mw-redirect}
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [Afghanistan](/wiki/Afghanistan "Afghanistan")\
@@ -133,20 +132,19 @@ Surviving the Italian onslaught.
 
 ::: {#toc .toc aria-labelledby="mw-toc-heading" role="navigation"}
 ::: {.toctitle dir="ltr" lang="en"}
-
 ## Contents {#mw-toc-heading}
 
 [ ]{.toctogglespan}
 :::
 
-- [[ 1 ]{.tocnumber} [ Are you seriously playing Ethiopia?
-  ]{.toctext}](#Are_you_seriously_playing_Ethiopia.3F)
-- [[ 2 ]{.tocnumber} [ Step 1: Pull back
-  ]{.toctext}](#Step_1:_Pull_back)
-- [[ 3 ]{.tocnumber} [ Step 2: Counterattack South
-  ]{.toctext}](#Step_2:_Counterattack_South)
-- [[ 4 ]{.tocnumber} [ TO BE CONTINUED ]{.toctext}](#TO_BE_CONTINUED)
-  :::
+-   [[ 1 ]{.tocnumber} [ Are you seriously playing Ethiopia?
+    ]{.toctext}](#Are_you_seriously_playing_Ethiopia.3F)
+-   [[ 2 ]{.tocnumber} [ Step 1: Pull back
+    ]{.toctext}](#Step_1:_Pull_back)
+-   [[ 3 ]{.tocnumber} [ Step 2: Counterattack South
+    ]{.toctext}](#Step_2:_Counterattack_South)
+-   [[ 4 ]{.tocnumber} [ TO BE CONTINUED ]{.toctext}](#TO_BE_CONTINUED)
+:::
 
 ## [ ]{#Are_you_seriously_playing_Ethiopia?} [ Are you seriously playing Ethiopia? ]{#Are_you_seriously_playing_Ethiopia.3F .mw-headline}
 
@@ -168,13 +166,13 @@ Well, here are some tips:
     you can. Its attack-to-defense ratio is far higher than that of
     militia divisions.
 
-## [ Step 1: Pull back ]{#Step_1:\_Pull_back .mw-headline}
+## [ Step 1: Pull back ]{#Step_1:_Pull_back .mw-headline}
 
 Start off by pulling your forces into a better defensive position. Just
 don\'t retreat too far\...\"too far\" being when you have less than two
 provinces. If the Italians surround your capital, you\'re screwed.
 
-## [ Step 2: Counterattack South ]{#Step_2:\_Counterattack_South .mw-headline}
+## [ Step 2: Counterattack South ]{#Step_2:_Counterattack_South .mw-headline}
 
 While holding onto the northern border, push south. With any luck
 you\'ll surround and destroy the Italians in Somalia.

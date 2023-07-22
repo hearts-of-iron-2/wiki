@@ -1,7 +1,6 @@
 ---
 title: Major_Power
 ---
-
 ::: mw-parser-output
 The term, **Major Power** is used to define a
 [nation](/wiki/index.php?title=Nation&action=edit&redlink=1 "Nation (page does not exist)"){.new}

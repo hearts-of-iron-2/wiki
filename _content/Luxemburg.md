@@ -1,7 +1,6 @@
 ---
 title: Luxemburg
 ---
-
 ::: mw-parser-output
 ::: {.eu4box style="width:330px; height:auto; float:right; clear:right"}
 ::: heading
@@ -14,7 +13,7 @@ title: Luxemburg
 [Major powers](/wiki/Major_power "Major power"){.mw-redirect}
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [France](/wiki/France "France")\
@@ -30,7 +29,7 @@ title: Luxemburg
 Regional powers
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [Argentina](/wiki/Argentina "Argentina")\
@@ -58,7 +57,7 @@ Regional powers
 [Minor powers](/wiki/Minor_power "Minor power"){.mw-redirect}
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [Austria](/wiki/Austria "Austria")\
@@ -81,7 +80,7 @@ Regional powers
 [Micro powers](/wiki/Micro_power "Micro power"){.mw-redirect}
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [Afghanistan](/wiki/Afghanistan "Afghanistan")\
@@ -131,17 +130,18 @@ Arabia](/wiki/index.php?title=Saudi_Arabia&action=edit&redlink=1 "Saudi Arabia (
 
 ::: {#toc .toc aria-labelledby="mw-toc-heading" role="navigation"}
 ::: {.toctitle dir="ltr" lang="en"}
-
 ## Contents {#mw-toc-heading}
 
 [ ]{.toctogglespan}
 :::
 
-- [[ 1 ]{.tocnumber} [ Fort Luxemburg ]{.toctext}](#Fort_Luxemburg)
-- [[ 2 ]{.tocnumber} [ Find an Ally ]{.toctext}](#Find_an_Ally) - [[ 2.1 ]{.tocnumber} [ Joining the Allies
-  ]{.toctext}](#Joining_the_Allies) - [[ 2.2 ]{.tocnumber} [ Joining the Axis
-  ]{.toctext}](#Joining_the_Axis)
-  :::
+-   [[ 1 ]{.tocnumber} [ Fort Luxemburg ]{.toctext}](#Fort_Luxemburg)
+-   [[ 2 ]{.tocnumber} [ Find an Ally ]{.toctext}](#Find_an_Ally)
+    -   [[ 2.1 ]{.tocnumber} [ Joining the Allies
+        ]{.toctext}](#Joining_the_Allies)
+    -   [[ 2.2 ]{.tocnumber} [ Joining the Axis
+        ]{.toctext}](#Joining_the_Axis)
+:::
 
 ## [ Fort Luxemburg ]{#Fort_Luxemburg .mw-headline}
 

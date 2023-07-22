@@ -1,22 +1,34 @@
 ---
 title: Modding_leader_files
 ---
-
 ::: mw-parser-output
 ::: {#toc .toc aria-labelledby="mw-toc-heading" role="navigation"}
 ::: {.toctitle dir="ltr" lang="en"}
-
 ## Contents {#mw-toc-heading}
 
 [ ]{.toctogglespan}
 :::
 
-- [[ 1 ]{.tocnumber} [ Introduction ]{.toctext}](#Introduction)
-- [[ 2 ]{.tocnumber} [ Getting Started ]{.toctext}](#Getting_Started)
-- [[ 3 ]{.tocnumber} [ Fields Details ]{.toctext}](#Fields_Details) - [[ 3.1 ]{.tocnumber} [ Name ]{.toctext}](#Name) - [[ 3.2 ]{.tocnumber} [ ID ]{.toctext}](#ID) - [[ 3.3 ]{.tocnumber} [ Country ]{.toctext}](#Country) - [[ 3.4 ]{.tocnumber} [ Ranking Years
-  ]{.toctext}](#Ranking_Years) - [[ 3.5 ]{.tocnumber} [ Ideal Rank ]{.toctext}](#Ideal_Rank) - [[ 3.6 ]{.tocnumber} [ Maximum Skill
-  ]{.toctext}](#Maximum_Skill) - [[ 3.7 ]{.tocnumber} [ Traits ]{.toctext}](#Traits) - [[ 3.8 ]{.tocnumber} [ Skill ]{.toctext}](#Skill) - [[ 3.9 ]{.tocnumber} [ Experience ]{.toctext}](#Experience) - [[ 3.10 ]{.tocnumber} [ Loyalty ]{.toctext}](#Loyalty) - [[ 3.11 ]{.tocnumber} [ Type ]{.toctext}](#Type) - [[ 3.12 ]{.tocnumber} [ Picture ]{.toctext}](#Picture) - [[ 3.13 ]{.tocnumber} [ Start Year ]{.toctext}](#Start_Year) - [[ 3.14 ]{.tocnumber} [ End Year ]{.toctext}](#End_Year)
-  :::
+-   [[ 1 ]{.tocnumber} [ Introduction ]{.toctext}](#Introduction)
+-   [[ 2 ]{.tocnumber} [ Getting Started ]{.toctext}](#Getting_Started)
+-   [[ 3 ]{.tocnumber} [ Fields Details ]{.toctext}](#Fields_Details)
+    -   [[ 3.1 ]{.tocnumber} [ Name ]{.toctext}](#Name)
+    -   [[ 3.2 ]{.tocnumber} [ ID ]{.toctext}](#ID)
+    -   [[ 3.3 ]{.tocnumber} [ Country ]{.toctext}](#Country)
+    -   [[ 3.4 ]{.tocnumber} [ Ranking Years
+        ]{.toctext}](#Ranking_Years)
+    -   [[ 3.5 ]{.tocnumber} [ Ideal Rank ]{.toctext}](#Ideal_Rank)
+    -   [[ 3.6 ]{.tocnumber} [ Maximum Skill
+        ]{.toctext}](#Maximum_Skill)
+    -   [[ 3.7 ]{.tocnumber} [ Traits ]{.toctext}](#Traits)
+    -   [[ 3.8 ]{.tocnumber} [ Skill ]{.toctext}](#Skill)
+    -   [[ 3.9 ]{.tocnumber} [ Experience ]{.toctext}](#Experience)
+    -   [[ 3.10 ]{.tocnumber} [ Loyalty ]{.toctext}](#Loyalty)
+    -   [[ 3.11 ]{.tocnumber} [ Type ]{.toctext}](#Type)
+    -   [[ 3.12 ]{.tocnumber} [ Picture ]{.toctext}](#Picture)
+    -   [[ 3.13 ]{.tocnumber} [ Start Year ]{.toctext}](#Start_Year)
+    -   [[ 3.14 ]{.tocnumber} [ End Year ]{.toctext}](#End_Year)
+:::
 
 ## [ Introduction ]{#Introduction .mw-headline}
 
@@ -37,7 +49,7 @@ In the first line of each files you will see something like this:
 
 Example:
 
-    Name;ID;Country;Rank 3 Year;Rank 2 Year;Rank 1 Year;Rank 0 Year;Ideal Rank; Max Skill;Traits;Skill;Experience;Loyalty;Type;Picture;Start Year;End Year;x
+    Name;ID;Country;Rank 3 Year;Rank 2 Year;Rank 1 Year;Rank 0 Year;Ideal Rank; Max Skill;Traits;Skill;Experience;Loyalty;Type;Picture;Start Year;End Year;x 
 
 This is not a part of leader data. It is there mainly to provide
 guidance for you so that you will understand the order of the fields.
@@ -52,7 +64,7 @@ name does not contain semi-color(;) or a colon(:).
 
 Example:
 
-    Napoleon;328328;FRA;1789;1807;1811;1813;0;9;22;9;0;5;0;NAPO;1789;1815;x
+    Napoleon;328328;FRA;1789;1807;1811;1813;0;9;22;9;0;5;0;NAPO;1789;1815;x 
 
 ### [ ID ]{#ID .mw-headline}
 
@@ -61,7 +73,7 @@ you an error message when loading a scenario.
 
 Example:
 
-    Napoleon;328328;FRA;1789;1807;1811;1813;0;9;22;9;0;5;0;NAPO;1789;1815;x
+    Napoleon;328328;FRA;1789;1807;1811;1813;0;9;22;9;0;5;0;NAPO;1789;1815;x 
 
 ### [ Country ]{#Country .mw-headline}
 
@@ -71,7 +83,7 @@ France has the FRA tag.
 
 Example:
 
-    Napoleon;328328;FRA;1789;1807;1811;1813;0;9;22;9;0;5;0;NAPO;1789;1815;x
+    Napoleon;328328;FRA;1789;1807;1811;1813;0;9;22;9;0;5;0;NAPO;1789;1815;x 
 
 ### [ Ranking Years ]{#Ranking_Years .mw-headline}
 
@@ -86,7 +98,7 @@ campaign, you will need to change his rank 0 to 1936 or lower.\
 3 = Mj. General\
 Example:
 
-    Napoleon;328328;FRA;1789;1807;1811;1813;0;9;22;9;0;5;0;NAPO;1789;1815;x
+    Napoleon;328328;FRA;1789;1807;1811;1813;0;9;22;9;0;5;0;NAPO;1789;1815;x 
 
 ### [ Ideal Rank ]{#Ideal_Rank .mw-headline}
 
@@ -95,7 +107,7 @@ experience while his rank is lower than the specified one.
 
 Example:
 
-    Napoleon;328328;FRA;1789;1807;1811;1813;0;9;22;9;0;5;0;NAPO;1789;1815;x
+    Napoleon;328328;FRA;1789;1807;1811;1813;0;9;22;9;0;5;0;NAPO;1789;1815;x 
 
 ### [ Maximum Skill ]{#Maximum_Skill .mw-headline}
 
@@ -103,7 +115,7 @@ This field sets the maximum skill that a leader can have.
 
 Example:
 
-    Napoleon;328328;FRA;1789;1807;1811;1813;0;9;22;9;0;5;0;NAPO;1789;1815;x
+    Napoleon;328328;FRA;1789;1807;1811;1813;0;9;22;9;0;5;0;NAPO;1789;1815;x 
 
 ### [ Traits ]{#Traits .mw-headline}
 
@@ -112,7 +124,7 @@ traits](/wiki/Leader_Traits "Leader Traits") for more information.
 
 Example:
 
-    Napoleon;328328;FRA;1789;1807;1811;1813;0;9;22;9;0;5;0;NAPO;1789;1815;x
+    Napoleon;328328;FRA;1789;1807;1811;1813;0;9;22;9;0;5;0;NAPO;1789;1815;x 
 
 In this case, the leader has the offensive doctrine, defensive doctrine
 and trickster traits.
@@ -124,7 +136,7 @@ troop strength in battle.
 
 Example:
 
-    Napoleon;328328;FRA;1789;1807;1811;1813;0;9;22;9;0;5;0;NAPO;1789;1815;x
+    Napoleon;328328;FRA;1789;1807;1811;1813;0;9;22;9;0;5;0;NAPO;1789;1815;x 
 
 ### [ Experience ]{#Experience .mw-headline}
 
@@ -132,7 +144,7 @@ This field sets the leader\'s experience. The default is 0.
 
 Example:
 
-    Napoleon;328328;FRA;1789;1807;1811;1813;0;9;22;9;0;5;0;NAPO;1789;1815;x
+    Napoleon;328328;FRA;1789;1807;1811;1813;0;9;22;9;0;5;0;NAPO;1789;1815;x 
 
 ### [ Loyalty ]{#Loyalty .mw-headline}
 
@@ -141,7 +153,7 @@ randomly. Currently it is not used.
 
 Example:
 
-    Napoleon;328328;FRA;1789;1807;1811;1813;0;9;22;9;0;5;0;NAPO;1789;1815;x
+    Napoleon;328328;FRA;1789;1807;1811;1813;0;9;22;9;0;5;0;NAPO;1789;1815;x 
 
 ### [ Type ]{#Type .mw-headline}
 
@@ -152,7 +164,7 @@ This is the leader\'s line of work.\
 
 Example:
 
-    Napoleon;328328;FRA;1789;1807;1811;1813;0;9;22;9;0;5;0;NAPO;1789;1815;x
+    Napoleon;328328;FRA;1789;1807;1811;1813;0;9;22;9;0;5;0;NAPO;1789;1815;x 
 
 ### [ Picture ]{#Picture .mw-headline}
 
@@ -164,7 +176,7 @@ in the field.
 
 Example:
 
-    Napoleon;328328;FRA;1789;1807;1811;1813;0;9;22;9;0;5;0;NAPO;1789;1815;x
+    Napoleon;328328;FRA;1789;1807;1811;1813;0;9;22;9;0;5;0;NAPO;1789;1815;x 
 
 ### [ Start Year ]{#Start_Year .mw-headline}
 
@@ -173,7 +185,7 @@ service.
 
 Example:
 
-    Napoleon;328328;FRA;1789;1807;1811;1813;0;9;22;9;0;5;0;NAPO;1789;1815;x
+    Napoleon;328328;FRA;1789;1807;1811;1813;0;9;22;9;0;5;0;NAPO;1789;1815;x 
 
 ### [ End Year ]{#End_Year .mw-headline}
 
@@ -182,6 +194,5 @@ year and subsequent years if he is engaged in battle.
 
 Example:
 
-    Napoleon;328328;FRA;1789;1807;1811;1813;0;9;22;9;0;5;0;NAPO;1789;1815;x
-
+    Napoleon;328328;FRA;1789;1807;1811;1813;0;9;22;9;0;5;0;NAPO;1789;1815;x 
 :::

@@ -1,7 +1,6 @@
 ---
 title: Do_I_build_Factories?
 ---
-
 ::: mw-parser-output
 [Template:Anthology](/wiki/index.php?title=Template:Anthology&action=edit&redlink=1 "Template:Anthology (page does not exist)"){.new}
 
@@ -17,21 +16,20 @@ Capacity](/wiki/Transport_Capacity_and_Supply_Efficiency_FAQ "Transport Capacity
 
 ::: {#toc .toc aria-labelledby="mw-toc-heading" role="navigation"}
 ::: {.toctitle dir="ltr" lang="en"}
-
 ## Contents {#mw-toc-heading}
 
 [ ]{.toctogglespan}
 :::
 
-- [[ 1 ]{.tocnumber} [ How quickly do factories pay for themselves?
-  ]{.toctext}](#How_quickly_do_factories_pay_for_themselves.3F)
-- [[ 2 ]{.tocnumber} [ Transport Capacity effects
-  ]{.toctext}](#Transport_Capacity_effects)
-- [[ 3 ]{.tocnumber} [ Technology ]{.toctext}](#Technology)
-- [[ 4 ]{.tocnumber} [ Readiness for War
-  ]{.toctext}](#Readiness_for_War)
-- [[ 5 ]{.tocnumber} [ Other Factors ]{.toctext}](#Other_Factors)
-  :::
+-   [[ 1 ]{.tocnumber} [ How quickly do factories pay for themselves?
+    ]{.toctext}](#How_quickly_do_factories_pay_for_themselves.3F)
+-   [[ 2 ]{.tocnumber} [ Transport Capacity effects
+    ]{.toctext}](#Transport_Capacity_effects)
+-   [[ 3 ]{.tocnumber} [ Technology ]{.toctext}](#Technology)
+-   [[ 4 ]{.tocnumber} [ Readiness for War
+    ]{.toctext}](#Readiness_for_War)
+-   [[ 5 ]{.tocnumber} [ Other Factors ]{.toctext}](#Other_Factors)
+:::
 
 ## [ ]{#How_quickly_do_factories_pay_for_themselves?} [ How quickly do factories pay for themselves? ]{#How_quickly_do_factories_pay_for_themselves.3F .mw-headline}
 
@@ -47,19 +45,19 @@ will have higher overall production by 1941. If you are intending to go
 to war in 1944, this is great news. If you are intending to go to war in
 1937, building factories is a bad idea.
 
-**_This calculation depends hugely on the IC modifier from ministers,
-technology, peace, and other variables_** .
+***This calculation depends hugely on the IC modifier from ministers,
+technology, peace, and other variables*** .
 
 Here is a list of some of the factors that affect your effective IC
 level:
 
-- The central planning policy slider
-- Your Machine Tools technologies
-- Ministers: Armaments Minister, Intelligence Minister, some Head of
-  Government/Heads of States,
-- For democracies, whether you are at peace
-- Dissent levels
-- Difficulty level
+-   The central planning policy slider
+-   Your Machine Tools technologies
+-   Ministers: Armaments Minister, Intelligence Minister, some Head of
+    Government/Heads of States,
+-   For democracies, whether you are at peace
+-   Dissent levels
+-   Difficulty level
 
 Also at least some of the increase in IC will be diverted to consumer
 goods.
@@ -91,9 +89,9 @@ Other players are less disturbed by having units at reduced
 effectiveness by lack of Transport Capacity. Steps that can be taken to
 mitigate the problem include:
 
-- giving units \'Supply for Offensive\' status
-- having smaller numbers of units
-- granting independence to nations in conquered territory
+-   giving units \'Supply for Offensive\' status
+-   having smaller numbers of units
+-   granting independence to nations in conquered territory
 
 ## [ Technology ]{#Technology .mw-headline}
 
@@ -115,31 +113,31 @@ must commence building now, rather than building any factories.
 There are also other factors that affect whether you should or should
 not invest in factories.
 
-- The amount of resources which you have can alter your strategy in
-  relation to factories. Rather than buying a factory, it may be
-  preferable to trade resources which would otherwise be diverted to
-  factories on supplies, thus maximizing your current IC. Instead of
-  dumping rare minerals and the like on factories, those resources can
-  be traded to gain supplies, meaning you can set your supply slider a
-  bit lower. Although this may not make a big difference, it could
-  lower the effectiveness of a factory.
-- Manpower is also a factor. Obviously, if you have little or no
-  manpower, it may not be wise to waste it on ground divisions, and it
-  may be better to spend a bit on factories before you decide how to
-  invest your manpower.
-- The total benefits of a factory may be bigger than when the factory
-  actually pays for itself in construction. That is because if instead
-  of building a factory, you build infantry, they will continue to
-  gobble supplies until the end of the game. This raises the total
-  cost of buying anything except items that do not consume supplies,
-  such as factories. That means factories may actually pay for
-  themselves sooner - by increasing your overall IC capacity you can
-  build your armies later because you can build more at once, thus
-  also meaning less upgrades. Clearly this is a more risky strategy
-  though.
-- The infrastructure level in the province you want to build the
-  factory in affects the time it takes to bring the factory online.
-  Infrastructure does not effect the actual build time of the factory,
-  only how quickly the IC produced by the factory becomes available
-  after placement, capture, bombing, etc.
-  :::
+-   The amount of resources which you have can alter your strategy in
+    relation to factories. Rather than buying a factory, it may be
+    preferable to trade resources which would otherwise be diverted to
+    factories on supplies, thus maximizing your current IC. Instead of
+    dumping rare minerals and the like on factories, those resources can
+    be traded to gain supplies, meaning you can set your supply slider a
+    bit lower. Although this may not make a big difference, it could
+    lower the effectiveness of a factory.
+-   Manpower is also a factor. Obviously, if you have little or no
+    manpower, it may not be wise to waste it on ground divisions, and it
+    may be better to spend a bit on factories before you decide how to
+    invest your manpower.
+-   The total benefits of a factory may be bigger than when the factory
+    actually pays for itself in construction. That is because if instead
+    of building a factory, you build infantry, they will continue to
+    gobble supplies until the end of the game. This raises the total
+    cost of buying anything except items that do not consume supplies,
+    such as factories. That means factories may actually pay for
+    themselves sooner - by increasing your overall IC capacity you can
+    build your armies later because you can build more at once, thus
+    also meaning less upgrades. Clearly this is a more risky strategy
+    though.
+-   The infrastructure level in the province you want to build the
+    factory in affects the time it takes to bring the factory online.
+    Infrastructure does not effect the actual build time of the factory,
+    only how quickly the IC produced by the factory becomes available
+    after placement, capture, bombing, etc.
+:::

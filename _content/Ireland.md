@@ -1,7 +1,6 @@
 ---
 title: Ireland
 ---
-
 ::: mw-parser-output
 ::: {.eu4box style="width:330px; height:auto; float:right; clear:right"}
 ::: heading
@@ -14,7 +13,7 @@ title: Ireland
 [Major powers](/wiki/Major_power "Major power"){.mw-redirect}
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [France](/wiki/France "France")\
@@ -30,7 +29,7 @@ title: Ireland
 Regional powers
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [Argentina](/wiki/Argentina "Argentina")\
@@ -58,7 +57,7 @@ Regional powers
 [Minor powers](/wiki/Minor_power "Minor power"){.mw-redirect}
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [Austria](/wiki/Austria "Austria")\
@@ -81,7 +80,7 @@ Regional powers
 [Micro powers](/wiki/Micro_power "Micro power"){.mw-redirect}
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [Afghanistan](/wiki/Afghanistan "Afghanistan")\
@@ -133,18 +132,19 @@ Arabia](/wiki/index.php?title=Saudi_Arabia&action=edit&redlink=1 "Saudi Arabia (
 
 ::: {#toc .toc aria-labelledby="mw-toc-heading" role="navigation"}
 ::: {.toctitle dir="ltr" lang="en"}
-
 ## Contents {#mw-toc-heading}
 
 [ ]{.toctogglespan}
 :::
 
-- [[ 1 ]{.tocnumber} [ Overview ]{.toctext}](#Overview)
-- [[ 2 ]{.tocnumber} [ Technology ]{.toctext}](#Technology)
-- [[ 3 ]{.tocnumber} [ Diplomacy ]{.toctext}](#Diplomacy) - [[ 3.1 ]{.tocnumber} [ Foreign Policy Initiative
-  ]{.toctext}](#Foreign_Policy_Initiative) - [[ 3.2 ]{.tocnumber} [ Demand Territory
-  ]{.toctext}](#Demand_Territory)
-  :::
+-   [[ 1 ]{.tocnumber} [ Overview ]{.toctext}](#Overview)
+-   [[ 2 ]{.tocnumber} [ Technology ]{.toctext}](#Technology)
+-   [[ 3 ]{.tocnumber} [ Diplomacy ]{.toctext}](#Diplomacy)
+    -   [[ 3.1 ]{.tocnumber} [ Foreign Policy Initiative
+        ]{.toctext}](#Foreign_Policy_Initiative)
+    -   [[ 3.2 ]{.tocnumber} [ Demand Territory
+        ]{.toctext}](#Demand_Territory)
+:::
 
 ## [ Overview ]{#Overview .mw-headline}
 
@@ -155,10 +155,10 @@ seem pointless, but do not be tricked; Ireland has an impressive group
 of tech teams and leaders. Some advantages of the republic include the
 following:
 
-- A wide range of tech teams, including a team with nuclear physics.
-- Strong Generals
-- Good leaders
-- A small surplus of resources
+-   A wide range of tech teams, including a team with nuclear physics.
+-   Strong Generals
+-   Good leaders
+-   A small surplus of resources
 
 ## [ Technology ]{#Technology .mw-headline}
 
@@ -177,7 +177,7 @@ allow Ireland to become more interventionist.
 
 ### [ Foreign Policy Initiative ]{#Foreign_Policy_Initiative .mw-headline}
 
-There are two _feasible_ choices for Ireland in this event. The first
+There are two *feasible* choices for Ireland in this event. The first
 one is to force it through, which would result in 2 shifts of
 interventionism and 1 shift towards Political right, with the cost being
 10 dissent. The other option, strike a bargain with the Liberals, would

@@ -1,7 +1,6 @@
 ---
 title: FOW
 ---
-
 ::: mw-parser-output
 **Fog of War** (FOW) is the term used to describe the inability to see
 certain

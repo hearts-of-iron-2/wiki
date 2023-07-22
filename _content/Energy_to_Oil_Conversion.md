@@ -1,7 +1,6 @@
 ---
 title: Energy_to_Oil_Conversion
 ---
-
 ::: mw-parser-output
 As determined by **Steel** et al.:
 

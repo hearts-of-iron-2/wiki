@@ -1,7 +1,6 @@
 ---
 title: Germany_Strategy-_Taming_the_Bear
 ---
-
 ::: mw-parser-output
 [Template:GermanyStrategyGuides](/wiki/index.php?title=Template:GermanyStrategyGuides&action=edit&redlink=1 "Template:GermanyStrategyGuides (page does not exist)"){.new}
 Russia has massive manpower and military potential and often hostile
@@ -9,10 +8,10 @@ terrain. You must carefully plan your attack to reach definable
 objectives before adverse environmental effects start to make your life
 difficult.
 
-- The Russian army can be dealt with by motorized encirclement and
-  destruction warfare.
-- The Russian environment can be dealt with by careful timing and
-  preparation.
+-   The Russian army can be dealt with by motorized encirclement and
+    destruction warfare.
+-   The Russian environment can be dealt with by careful timing and
+    preparation.
 
 All other military options are meaningless distractions. Russian
 industry is widely dispersed and is impossible to deal with by strategic
@@ -26,25 +25,24 @@ infantry and improved medium tanks.
 
 ::: {#toc .toc aria-labelledby="mw-toc-heading" role="navigation"}
 ::: {.toctitle dir="ltr" lang="en"}
-
 ## Contents {#mw-toc-heading}
 
 [ ]{.toctogglespan}
 :::
 
-- [[ 1 ]{.tocnumber} [ Be Prepared ]{.toctext}](#Be_Prepared)
-- [[ 2 ]{.tocnumber} [ Be Early ]{.toctext}](#Be_Early)
-- [[ 3 ]{.tocnumber} [ Two Offensive Seasons
-  ]{.toctext}](#Two_Offensive_Seasons)
-- [[ 4 ]{.tocnumber} [ Deploy for maximum effect
-  ]{.toctext}](#Deploy_for_maximum_effect)
-  - [[ 4.1 ]{.tocnumber} [ Multiple Axes of Attack
-    ]{.toctext}](#Multiple_Axes_of_Attack)
-  - [[ 4.2 ]{.tocnumber} [ Single Axis of Attack
-    ]{.toctext}](#Single_Axis_of_Attack)
-- [[ 5 ]{.tocnumber} [ Russia\'s Natural Offensive Limits
-  ]{.toctext}](#Russia.27s_Natural_Offensive_Limits)
-  :::
+-   [[ 1 ]{.tocnumber} [ Be Prepared ]{.toctext}](#Be_Prepared)
+-   [[ 2 ]{.tocnumber} [ Be Early ]{.toctext}](#Be_Early)
+-   [[ 3 ]{.tocnumber} [ Two Offensive Seasons
+    ]{.toctext}](#Two_Offensive_Seasons)
+-   [[ 4 ]{.tocnumber} [ Deploy for maximum effect
+    ]{.toctext}](#Deploy_for_maximum_effect)
+    -   [[ 4.1 ]{.tocnumber} [ Multiple Axes of Attack
+        ]{.toctext}](#Multiple_Axes_of_Attack)
+    -   [[ 4.2 ]{.tocnumber} [ Single Axis of Attack
+        ]{.toctext}](#Single_Axis_of_Attack)
+-   [[ 5 ]{.tocnumber} [ Russia\'s Natural Offensive Limits
+    ]{.toctext}](#Russia.27s_Natural_Offensive_Limits)
+:::
 
 #### [ Be Prepared ]{#Be_Prepared .mw-headline}
 
@@ -92,12 +90,12 @@ reinforcements.
 
 The armored units must be assisted by the infantry. Their role is:
 
-- To provide overwhelming force at the initial point of breakthrough
-  of enemy lines
-- To pin in place enemy forces that are subsequently to be encircled
-- To assist in the destruction of Soviet pockets, in particular in bad
-  tank terrain (cities, marshes)
-- To move up in support of the spearhead.
+-   To provide overwhelming force at the initial point of breakthrough
+    of enemy lines
+-   To pin in place enemy forces that are subsequently to be encircled
+-   To assist in the destruction of Soviet pockets, in particular in bad
+    tank terrain (cities, marshes)
+-   To move up in support of the spearhead.
 
 ##### [ Multiple Axes of Attack ]{#Multiple_Axes_of_Attack .mw-headline}
 

@@ -1,9 +1,7 @@
 ---
 title: Consumer_Goods_Slider
 ---
-
 ::: mw-parser-output
-
 ## [ Consumer Goods Slider ]{#Consumer_Goods_Slider .mw-headline}
 
 The consumer goods slider allocates how much [Industrial

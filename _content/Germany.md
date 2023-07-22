@@ -1,27 +1,26 @@
 ---
 title: Germany
 ---
-
 ::: mw-parser-output
 +-----------------------------------+-----------------------------------+
-| ::: {style="width: 52px;"} | **[This](https://ho |
+| ::: {style="width: 52px;"}        | **[This](https://ho               |
 | ![Merge-arrows.gif](https://centr | i2.paradoxwikis.com/index.php?tit |
 | al.paradoxwikis.com/images/8/8b/M | le=Germany&action=edit){.external |
-| erge-arrows.gif){file-height="20" | .text rel="nofollow"} article is |
-| file-width="50" | a candidate to be |
-| u | [merged](/wiki |
+| erge-arrows.gif){file-height="20" | .text rel="nofollow"} article is  |
+| file-width="50"                   | a candidate to be                 |
+| u                                 | [merged](/wiki                    |
 | rl="https://central.paradoxwikis. | /Template:Merge "Template:Merge") |
-| com/images/8/8b/Merge-arrows.gif" | with [Germany Strategy |
-| decoding="async" height="20" | Guide](/wiki/Germany_Strateg |
-| loading="lazy" width="50"} | y_Guide "Germany Strategy Guide") |
-| ::: | .**\ |
-| | [Please help to improve the wiki |
-| | by taking part in the |
-| | [discussion](/ |
-| | wiki/index.php?title=Talk:Germany |
-| | &action=edit&redlink=1 "Talk:Germ |
-| | any (page does not exist)"){.new} |
-| | of the proposed merger.]{.small} |
+| com/images/8/8b/Merge-arrows.gif" | with [Germany Strategy            |
+| decoding="async" height="20"      | Guide](/wiki/Germany_Strateg      |
+| loading="lazy" width="50"}        | y_Guide "Germany Strategy Guide") |
+| :::                               | .**\                              |
+|                                   | [Please help to improve the wiki  |
+|                                   | by taking part in the             |
+|                                   | [discussion](/                    |
+|                                   | wiki/index.php?title=Talk:Germany |
+|                                   | &action=edit&redlink=1 "Talk:Germ |
+|                                   | any (page does not exist)"){.new} |
+|                                   | of the proposed merger.]{.small}  |
 +-----------------------------------+-----------------------------------+
 
 **Germany** is a [major
@@ -32,30 +31,29 @@ also the most commonly played.
 
 ::: {#toc .toc aria-labelledby="mw-toc-heading" role="navigation"}
 ::: {.toctitle dir="ltr" lang="en"}
-
 ## Contents {#mw-toc-heading}
 
 [ ]{.toctogglespan}
 :::
 
-- [[ 1 ]{.tocnumber} [ Overview ]{.toctext}](#Overview)
-- [[ 2 ]{.tocnumber} [ Territory ]{.toctext}](#Territory)
-- [[ 3 ]{.tocnumber} [ Resources ]{.toctext}](#Resources)
-  - [[ 3.1 ]{.tocnumber} [ Natural resources
-    ]{.toctext}](#Natural_resources)
-  - [[ 3.2 ]{.tocnumber} [ Industry ]{.toctext}](#Industry)
-  - [[ 3.3 ]{.tocnumber} [ Infrastructure
-    ]{.toctext}](#Infrastructure)
-- [[ 4 ]{.tocnumber} [ Military ]{.toctext}](#Military)
-  - [[ 4.1 ]{.tocnumber} [ Static defenses
-    ]{.toctext}](#Static_defenses)
-  - [[ 4.2 ]{.tocnumber} [ Army ]{.toctext}](#Army)
-  - [[ 4.3 ]{.tocnumber} [ Air Force ]{.toctext}](#Air_Force)
-  - [[ 4.4 ]{.tocnumber} [ Navy ]{.toctext}](#Navy)
-- [[ 5 ]{.tocnumber} [ Technology ]{.toctext}](#Technology)
-- [[ 6 ]{.tocnumber} [ Diplomacy ]{.toctext}](#Diplomacy)
-- [[ 7 ]{.tocnumber} [ Domestic ]{.toctext}](#Domestic)
-  :::
+-   [[ 1 ]{.tocnumber} [ Overview ]{.toctext}](#Overview)
+-   [[ 2 ]{.tocnumber} [ Territory ]{.toctext}](#Territory)
+-   [[ 3 ]{.tocnumber} [ Resources ]{.toctext}](#Resources)
+    -   [[ 3.1 ]{.tocnumber} [ Natural resources
+        ]{.toctext}](#Natural_resources)
+    -   [[ 3.2 ]{.tocnumber} [ Industry ]{.toctext}](#Industry)
+    -   [[ 3.3 ]{.tocnumber} [ Infrastructure
+        ]{.toctext}](#Infrastructure)
+-   [[ 4 ]{.tocnumber} [ Military ]{.toctext}](#Military)
+    -   [[ 4.1 ]{.tocnumber} [ Static defenses
+        ]{.toctext}](#Static_defenses)
+    -   [[ 4.2 ]{.tocnumber} [ Army ]{.toctext}](#Army)
+    -   [[ 4.3 ]{.tocnumber} [ Air Force ]{.toctext}](#Air_Force)
+    -   [[ 4.4 ]{.tocnumber} [ Navy ]{.toctext}](#Navy)
+-   [[ 5 ]{.tocnumber} [ Technology ]{.toctext}](#Technology)
+-   [[ 6 ]{.tocnumber} [ Diplomacy ]{.toctext}](#Diplomacy)
+-   [[ 7 ]{.tocnumber} [ Domestic ]{.toctext}](#Domestic)
+:::
 
 ## [ Overview ]{#Overview .mw-headline}
 
@@ -66,8 +64,8 @@ Guide](/wiki/Germany_Strategy_Guide "Germany Strategy Guide") .
 
 Germany begins with a dominant territorial position in Central Europe.
 
-- **Capital:**
-  [Berlin](/wiki/index.php?title=Berlin&action=edit&redlink=1 "Berlin (page does not exist)"){.new}
+-   **Capital:**
+    [Berlin](/wiki/index.php?title=Berlin&action=edit&redlink=1 "Berlin (page does not exist)"){.new}
 
 ## [ Resources ]{#Resources .mw-headline}
 
@@ -431,41 +429,41 @@ ally. Meanwhile, most of her actions will sour relations with the
 western powers and possibly the Soviets as well if she is not careful.
 Germany has only minor diplomatic agreements in place in 1936:
 
-- **[Non-agression
-  pacts](/wiki/index.php?title=Non-agression_pact&action=edit&redlink=1 "Non-agression pact (page does not exist)"){.new}**
-  : [Soviet Union](/wiki/Soviet_Union "Soviet Union") ,
-  [Poland](/wiki/Poland "Poland") , [Austria](/wiki/Austria "Austria")
-  , [Turkey](/wiki/Turkey "Turkey")
-- **[Independence
-  guarantees](/wiki/index.php?title=Independence_guarantee&action=edit&redlink=1 "Independence guarantee (page does not exist)"){.new}
-  to** : [Italy](/wiki/Italy "Italy") ,
-  [Sweden](/wiki/Sweden "Sweden") , [Turkey](/wiki/Turkey "Turkey") ,
-  [Poland](/wiki/Poland "Poland") , [Denmark](/wiki/Denmark "Denmark")
-  , [Switzerland](/wiki/Switzerland "Switzerland") ,
-  [Bulgaria](/wiki/Bulgaria "Bulgaria") ,
-  [Yugoslavia](/wiki/Yugoslavia "Yugoslavia") ,
-  [Romania](/wiki/Romania "Romania") ,
-  [Austria](/wiki/Austria "Austria") ,
-  [Czechoslovakia](/wiki/Czechoslovakia "Czechoslovakia") ,
-  [Finland](/wiki/Finland "Finland")
-- **[Territorial
-  claims](/wiki/index.php?title=Territorial_claim&action=edit&redlink=1 "Territorial claim (page does not exist)"){.new}
-  on** : [France](/wiki/France "France") ,
-  [Luxembourg](/wiki/index.php?title=Luxembourg&action=edit&redlink=1 "Luxembourg (page does not exist)"){.new}
-- **[Trade
-  agreements](/wiki/index.php?title=Trade_agreement&action=edit&redlink=1 "Trade agreement (page does not exist)"){.new}**
-  :
-  - [Soviet Union](/wiki/Soviet_Union "Soviet Union") : 3
-    [supplies](/wiki/index.php?title=Supplies&action=edit&redlink=1 "Supplies (page does not exist)"){.new}
-    for 10
-    [oil](/wiki/index.php?title=Oil&action=edit&redlink=1 "Oil (page does not exist)"){.new}
-    , 2
-    [metal](/wiki/index.php?title=Metal&action=edit&redlink=1 "Metal (page does not exist)"){.new}
-    , 4 rare; 5 supplies for 13 oil
-  - [Netherlands](/wiki/Netherlands "Netherlands") : 1 supplies and
-    12 energy for 3 metal and 4 rare
-  - [Italy](/wiki/Italy "Italy") : 20 energy for 2 supplies
-  - [Sweden](/wiki/Sweden "Sweden") : 8 energy for 4 metal
+-   **[Non-agression
+    pacts](/wiki/index.php?title=Non-agression_pact&action=edit&redlink=1 "Non-agression pact (page does not exist)"){.new}**
+    : [Soviet Union](/wiki/Soviet_Union "Soviet Union") ,
+    [Poland](/wiki/Poland "Poland") , [Austria](/wiki/Austria "Austria")
+    , [Turkey](/wiki/Turkey "Turkey")
+-   **[Independence
+    guarantees](/wiki/index.php?title=Independence_guarantee&action=edit&redlink=1 "Independence guarantee (page does not exist)"){.new}
+    to** : [Italy](/wiki/Italy "Italy") ,
+    [Sweden](/wiki/Sweden "Sweden") , [Turkey](/wiki/Turkey "Turkey") ,
+    [Poland](/wiki/Poland "Poland") , [Denmark](/wiki/Denmark "Denmark")
+    , [Switzerland](/wiki/Switzerland "Switzerland") ,
+    [Bulgaria](/wiki/Bulgaria "Bulgaria") ,
+    [Yugoslavia](/wiki/Yugoslavia "Yugoslavia") ,
+    [Romania](/wiki/Romania "Romania") ,
+    [Austria](/wiki/Austria "Austria") ,
+    [Czechoslovakia](/wiki/Czechoslovakia "Czechoslovakia") ,
+    [Finland](/wiki/Finland "Finland")
+-   **[Territorial
+    claims](/wiki/index.php?title=Territorial_claim&action=edit&redlink=1 "Territorial claim (page does not exist)"){.new}
+    on** : [France](/wiki/France "France") ,
+    [Luxembourg](/wiki/index.php?title=Luxembourg&action=edit&redlink=1 "Luxembourg (page does not exist)"){.new}
+-   **[Trade
+    agreements](/wiki/index.php?title=Trade_agreement&action=edit&redlink=1 "Trade agreement (page does not exist)"){.new}**
+    :
+    -   [Soviet Union](/wiki/Soviet_Union "Soviet Union") : 3
+        [supplies](/wiki/index.php?title=Supplies&action=edit&redlink=1 "Supplies (page does not exist)"){.new}
+        for 10
+        [oil](/wiki/index.php?title=Oil&action=edit&redlink=1 "Oil (page does not exist)"){.new}
+        , 2
+        [metal](/wiki/index.php?title=Metal&action=edit&redlink=1 "Metal (page does not exist)"){.new}
+        , 4 rare; 5 supplies for 13 oil
+    -   [Netherlands](/wiki/Netherlands "Netherlands") : 1 supplies and
+        12 energy for 3 metal and 4 rare
+    -   [Italy](/wiki/Italy "Italy") : 20 energy for 2 supplies
+    -   [Sweden](/wiki/Sweden "Sweden") : 8 energy for 4 metal
 
 ## [ Domestic ]{#Domestic .mw-headline}
 

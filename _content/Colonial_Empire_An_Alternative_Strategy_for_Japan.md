@@ -1,30 +1,39 @@
 ---
 title: Colonial_Empire_An_Alternative_Strategy_for_Japan
 ---
-
 ::: mw-parser-output
 ::: {#toc .toc aria-labelledby="mw-toc-heading" role="navigation"}
 ::: {.toctitle dir="ltr" lang="en"}
-
 ## Contents {#mw-toc-heading}
 
 [ ]{.toctogglespan}
 :::
 
-- [[ 1 ]{.tocnumber} [ Colonial Empire An Alternative Strategy for
-  Japan
-  ]{.toctext}](#Colonial_Empire_An_Alternative_Strategy_for_Japan) - [[ 1.1 ]{.tocnumber} [ Important Points
-  ]{.toctext}](#Important_Points) - [[ 1.2 ]{.tocnumber} [ Start ]{.toctext}](#Start) - [[ 1.3 ]{.tocnumber} [ Intervene into Chinese Civil War
-  ]{.toctext}](#Intervene_into_Chinese_Civil_War) - [[ 1.4 ]{.tocnumber} [ Invasion of Dutch East Indies
-  ]{.toctext}](#Invasion_of_Dutch_East_Indies) - [[ 1.5 ]{.tocnumber} [ Invasion of Portuguese Africa
-  ]{.toctext}](#Invasion_of_Portuguese_Africa) - [[ 1.6 ]{.tocnumber} [ Invasion of Belgian Congo
-  ]{.toctext}](#Invasion_of_Belgian_Congo) - [[ 1.7 ]{.tocnumber} [ Watch the Great Show in Europe
-  ]{.toctext}](#Watch_the_Great_Show_in_Europe) - [[ 1.8 ]{.tocnumber} [ Annexation of French Indochina
-  ]{.toctext}](#Annexation_of_French_Indochina) - [[ 1.9 ]{.tocnumber} [ Allies or Axis, that\'s the Problem
-  ]{.toctext}](#Allies_or_Axis.2C_that.27s_the_Problem) - [[ 1.10 ]{.tocnumber} [ Invasion of the USA
-  ]{.toctext}](#Invasion_of_the_USA) - [[ 1.11 ]{.tocnumber} [ Invasion of China
-  ]{.toctext}](#Invasion_of_China)
-  :::
+-   [[ 1 ]{.tocnumber} [ Colonial Empire An Alternative Strategy for
+    Japan
+    ]{.toctext}](#Colonial_Empire_An_Alternative_Strategy_for_Japan)
+    -   [[ 1.1 ]{.tocnumber} [ Important Points
+        ]{.toctext}](#Important_Points)
+    -   [[ 1.2 ]{.tocnumber} [ Start ]{.toctext}](#Start)
+    -   [[ 1.3 ]{.tocnumber} [ Intervene into Chinese Civil War
+        ]{.toctext}](#Intervene_into_Chinese_Civil_War)
+    -   [[ 1.4 ]{.tocnumber} [ Invasion of Dutch East Indies
+        ]{.toctext}](#Invasion_of_Dutch_East_Indies)
+    -   [[ 1.5 ]{.tocnumber} [ Invasion of Portuguese Africa
+        ]{.toctext}](#Invasion_of_Portuguese_Africa)
+    -   [[ 1.6 ]{.tocnumber} [ Invasion of Belgian Congo
+        ]{.toctext}](#Invasion_of_Belgian_Congo)
+    -   [[ 1.7 ]{.tocnumber} [ Watch the Great Show in Europe
+        ]{.toctext}](#Watch_the_Great_Show_in_Europe)
+    -   [[ 1.8 ]{.tocnumber} [ Annexation of French Indochina
+        ]{.toctext}](#Annexation_of_French_Indochina)
+    -   [[ 1.9 ]{.tocnumber} [ Allies or Axis, that\'s the Problem
+        ]{.toctext}](#Allies_or_Axis.2C_that.27s_the_Problem)
+    -   [[ 1.10 ]{.tocnumber} [ Invasion of the USA
+        ]{.toctext}](#Invasion_of_the_USA)
+    -   [[ 1.11 ]{.tocnumber} [ Invasion of China
+        ]{.toctext}](#Invasion_of_China)
+:::
 
 ## [ Colonial Empire An Alternative Strategy for Japan ]{#Colonial_Empire_An_Alternative_Strategy_for_Japan .mw-headline}
 
@@ -95,8 +104,8 @@ keep good relationships with the UK and France. They may cancel trade
 agreements, but you just bribe them and negotiate with them again. Sue
 for peace with the Netherlands. You don\'t need a lot of provinces: just
 ask for those resource-rich ones, like East Java, Banka Island, South
-Sumatra and South Borneo. _Don\'t forget_ to ask for Curacao, you need
-it for the next phase. _don\'t_ ask for Batavia. You may have to try
+Sumatra and South Borneo. *Don\'t forget* to ask for Curacao, you need
+it for the next phase. *don\'t* ask for Batavia. You may have to try
 this several times before a deal is agreed
 
 Note that there is a disadvantage to attacking the Dutch East Indies
@@ -161,7 +170,7 @@ forms, you will receive an event to request
 Don\'t ask for [Madagascar](/wiki/Madagascar "Madagascar") since the
 chance of suceeding is very small.
 
-### [ ]{#Allies_or_Axis,\_that's_the_Problem} [ Allies or Axis, that\'s the Problem ]{#Allies_or_Axis.2C_that.27s_the_Problem .mw-headline}
+### [ ]{#Allies_or_Axis,_that's_the_Problem} [ Allies or Axis, that\'s the Problem ]{#Allies_or_Axis.2C_that.27s_the_Problem .mw-headline}
 
 Now you are in a situation virtually to choose between the two major
 alliance. I would say choose the Axis, simply because they can offer you

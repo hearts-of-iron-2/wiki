@@ -1,22 +1,30 @@
 ---
 title: Modding_minister_files
 ---
-
 ::: mw-parser-output
 ::: {#toc .toc aria-labelledby="mw-toc-heading" role="navigation"}
 ::: {.toctitle dir="ltr" lang="en"}
-
 ## Contents {#mw-toc-heading}
 
 [ ]{.toctogglespan}
 :::
 
-- [[ 1 ]{.tocnumber} [ Introduction ]{.toctext}](#Introduction)
-- [[ 2 ]{.tocnumber} [ Getting Started ]{.toctext}](#Getting_Started) - [[ 2.1 ]{.tocnumber} [ The Ruling Cabinet
-  ]{.toctext}](#The_Ruling_Cabinet) - [[ 2.2 ]{.tocnumber} [ ID ]{.toctext}](#ID) - [[ 2.3 ]{.tocnumber} [ Start(Designation)
-  ]{.toctext}](#Start.28Designation.29) - [[ 2.4 ]{.tocnumber} [ Name ]{.toctext}](#Name) - [[ 2.5 ]{.tocnumber} [ Pool ]{.toctext}](#Pool) - [[ 2.6 ]{.tocnumber} [ Ideology ]{.toctext}](#Ideology) - [[ 2.7 ]{.tocnumber} [ Personality ]{.toctext}](#Personality) - [[ 2.8 ]{.tocnumber} [ Loyalty ]{.toctext}](#Loyalty) - [[ 2.9 ]{.tocnumber} [ Picturename ]{.toctext}](#Picturename) - [[ 2.10 ]{.tocnumber} [ Further Notes
-  ]{.toctext}](#Further_Notes)
-  :::
+-   [[ 1 ]{.tocnumber} [ Introduction ]{.toctext}](#Introduction)
+-   [[ 2 ]{.tocnumber} [ Getting Started ]{.toctext}](#Getting_Started)
+    -   [[ 2.1 ]{.tocnumber} [ The Ruling Cabinet
+        ]{.toctext}](#The_Ruling_Cabinet)
+    -   [[ 2.2 ]{.tocnumber} [ ID ]{.toctext}](#ID)
+    -   [[ 2.3 ]{.tocnumber} [ Start(Designation)
+        ]{.toctext}](#Start.28Designation.29)
+    -   [[ 2.4 ]{.tocnumber} [ Name ]{.toctext}](#Name)
+    -   [[ 2.5 ]{.tocnumber} [ Pool ]{.toctext}](#Pool)
+    -   [[ 2.6 ]{.tocnumber} [ Ideology ]{.toctext}](#Ideology)
+    -   [[ 2.7 ]{.tocnumber} [ Personality ]{.toctext}](#Personality)
+    -   [[ 2.8 ]{.tocnumber} [ Loyalty ]{.toctext}](#Loyalty)
+    -   [[ 2.9 ]{.tocnumber} [ Picturename ]{.toctext}](#Picturename)
+    -   [[ 2.10 ]{.tocnumber} [ Further Notes
+        ]{.toctext}](#Further_Notes)
+:::
 
 ## [ Introduction ]{#Introduction .mw-headline}
 
@@ -37,7 +45,7 @@ of the first line in a file.
 
 Example:
 
-    BHU;Ruling Cabinet - Start;Name;Pool;Ideology;Personality;Loyalty;Picturename;x
+    BHU;Ruling Cabinet - Start;Name;Pool;Ideology;Personality;Loyalty;Picturename;x 
 
 In this example, I am editing Bhutan\'s ministers. Replace the BHU tag
 with the country you are working on(Assuming it\'s a Custom Country) or
@@ -57,7 +65,7 @@ events or slider alterations.
 
 Example:
 
-    GER;Ruling Cabinet - Start;Name;Pool;Ideology;Personality;Loyalty;Picturename;Country 1;Head of State;Adolf Hitler;NA;NS;Powerhungry Demagogue;High;M1;x 2;Head of Government;Rudolf Hess;NA;NS;Silent Workhorse;High;M40;x 3;Foreign Minister;Constantin von Neurath;NA;FA;Great Compromiser;High;M3;x 4;Minister of Armament;Werner von Blomberg;NA;NS;Infantry Proponent;High;M4;x 5;Minister of Security;Wilhelm Frick;NA;NS;Prince of Terror;High;M5;x 6;Head of Military Intelligence;Wilhelm Canaris;NA;FA;Dismal Enigma;Medium;M6;x 7;Chief of Staff;Ludwig Beck;NA;PA;School of Manoeuvre;High;M7;x 8;Chief of Army;Werner von Fritsch;NA;PA;Armoured Spearhead Doctrine;High;M8;x 9;Chief of Navy;Erich Raeder;NA;NS;Decisive Naval Battle Doctrine;High;M9;x 10;Chief of Air Force;Hermann Göring;NA;NS;Army Aviation Doctrine;Very High;M10;x ;Replacements;;;;;;;x
+    GER;Ruling Cabinet - Start;Name;Pool;Ideology;Personality;Loyalty;Picturename;Country 1;Head of State;Adolf Hitler;NA;NS;Powerhungry Demagogue;High;M1;x 2;Head of Government;Rudolf Hess;NA;NS;Silent Workhorse;High;M40;x 3;Foreign Minister;Constantin von Neurath;NA;FA;Great Compromiser;High;M3;x 4;Minister of Armament;Werner von Blomberg;NA;NS;Infantry Proponent;High;M4;x 5;Minister of Security;Wilhelm Frick;NA;NS;Prince of Terror;High;M5;x 6;Head of Military Intelligence;Wilhelm Canaris;NA;FA;Dismal Enigma;Medium;M6;x 7;Chief of Staff;Ludwig Beck;NA;PA;School of Manoeuvre;High;M7;x 8;Chief of Army;Werner von Fritsch;NA;PA;Armoured Spearhead Doctrine;High;M8;x 9;Chief of Navy;Erich Raeder;NA;NS;Decisive Naval Battle Doctrine;High;M9;x 10;Chief of Air Force;Hermann Göring;NA;NS;Army Aviation Doctrine;Very High;M10;x ;Replacements;;;;;;;x 
 
 ### [ ID ]{#ID .mw-headline}
 
@@ -67,7 +75,7 @@ message upon loading a scenario.
 
 Example:
 
-    1;Head of State;Adolf Hitler;NA;NS;Powerhungry Demagogue;High;M1;x
+    1;Head of State;Adolf Hitler;NA;NS;Powerhungry Demagogue;High;M1;x 
 
 ### [ ]{#Start(Designation)} [ Start(Designation) ]{#Start.28Designation.29 .mw-headline}
 
@@ -76,11 +84,11 @@ Jobs.
 
 Example:
 
-    1;Head of State;Adolf Hitler;NA;NS;Powerhungry Demagogue;High;M1;x
+    1;Head of State;Adolf Hitler;NA;NS;Powerhungry Demagogue;High;M1;x 
 
 Example:
 
-    Head of State Head of Government Foreign Minister Minister of Armament Minister of Security Head of Military Chief of Staff Chief of Army Chief of Navy Chief of Air Force
+    Head of State Head of Government Foreign Minister Minister of Armament Minister of Security Head of Military Chief of Staff Chief of Army Chief of Navy Chief of Air Force 
 
 ### [ Name ]{#Name .mw-headline}
 
@@ -89,7 +97,7 @@ without a name, You will need to write their name in this field.
 
 Example:
 
-    1;Head of State;Adolf Hitler;NA;NS;Powerhungry Demagogue;High;M1;x
+    1;Head of State;Adolf Hitler;NA;NS;Powerhungry Demagogue;High;M1;x 
 
 ### [ Pool ]{#Pool .mw-headline}
 
@@ -98,7 +106,7 @@ this field are available from the very start.
 
 Example:
 
-    1;Head of State;Adolf Hitler;NA;NS;Powerhungry Demagogue;High;M1;x 77;Minister of Armament;Hjalmar Schacht;37;NS;Administrative Genius;Medium;M14;x
+    1;Head of State;Adolf Hitler;NA;NS;Powerhungry Demagogue;High;M1;x 77;Minister of Armament;Hjalmar Schacht;37;NS;Administrative Genius;Medium;M14;x 
 
 ### [ Ideology ]{#Ideology .mw-headline}
 
@@ -108,19 +116,19 @@ only have PA, NS, or FA Ministers if they are National Socialist)
 
 Example:
 
-    Fascist Ideologies NS - National Socialist PA - Paternal Autocrat FA - Fascist
+    Fascist Ideologies NS - National Socialist PA - Paternal Autocrat FA - Fascist 
 
 Example:
 
-    Democratic Ideologies SC - Social Conservative SD - Social Democrat SL - Social Liberal ML - Market Liberal
+    Democratic Ideologies SC - Social Conservative SD - Social Democrat SL - Social Liberal ML - Market Liberal 
 
 Example:
 
-    Communist Ideologies ST - Stalinist LWR - Left wing Radical LE - Leninist
+    Communist Ideologies ST - Stalinist LWR - Left wing Radical LE - Leninist 
 
 Example:
 
-    1;Head of State;Adolf Hitler;NA;NS;Powerhungry Demagogue;High;M1;x
+    1;Head of State;Adolf Hitler;NA;NS;Powerhungry Demagogue;High;M1;x 
 
 ### [ Personality ]{#Personality .mw-headline}
 
@@ -131,47 +139,47 @@ their effects on the wiki:
 
 Head of state Example:
 
-    Powerhungry Demagogue Stern Imperialist Barking Buffoon Benevolent Gentleman Insignificant Layman Autocratic Charmer Weary Stiffneck Ruthless Powermonger Pig-headed Isolationist Popular Figurehead Die-hard Reformer
+    Powerhungry Demagogue Stern Imperialist Barking Buffoon Benevolent Gentleman Insignificant Layman Autocratic Charmer Weary Stiffneck Ruthless Powermonger Pig-headed Isolationist Popular Figurehead Die-hard Reformer 
 
 Head of Government Example:
 
-    Political Protege Flamboyant Tough Guy Backroom Backstabber Silent Workhorse Smiling Oilman Naive Optimist Corporate Suit Old General Old Air Marshal Happy Amateur Old Admiral Ambitious Union Boss
+    Political Protege Flamboyant Tough Guy Backroom Backstabber Silent Workhorse Smiling Oilman Naive Optimist Corporate Suit Old General Old Air Marshal Happy Amateur Old Admiral Ambitious Union Boss 
 
 Foreign Minister Example:
 
-    Iron Fisted Brute General Staffer Ideological Crusader Great Compromiser Apologetic Clerk Biased Intellectual The Cloak N Dagger Schemer
+    Iron Fisted Brute General Staffer Ideological Crusader Great Compromiser Apologetic Clerk Biased Intellectual The Cloak N Dagger Schemer 
 
 Minister of Armament Example:
 
-    Military Entrepreneur Laissez Faires Capitalist Air Superiority Proponent Strategic Air Proponent Administrative Genius Tank Proponent Corrupt Kleptocrat Resource Industrialist Battle Fleet Proponent Air to Sea Proponent Theoretical Scientist Air to Ground Proponent Infantry Proponent Submarine Proponent
+    Military Entrepreneur Laissez Faires Capitalist Air Superiority Proponent Strategic Air Proponent Administrative Genius Tank Proponent Corrupt Kleptocrat Resource Industrialist Battle Fleet Proponent Air to Sea Proponent Theoretical Scientist Air to Ground Proponent Infantry Proponent Submarine Proponent 
 
 Minister of Security Example:
 
-    Compassionate Gentleman Man of the People Prince of Terror Crime Fighter Silent Lawyer Back Stabber Efficient Sociopath
+    Compassionate Gentleman Man of the People Prince of Terror Crime Fighter Silent Lawyer Back Stabber Efficient Sociopath 
 
 Head of Military Intelligence Example:
 
-    Industrial Specialist Political Specialist Dismal Enigma Naval Intelligence Specialist Technical Specialist Logistics Specialist
+    Industrial Specialist Political Specialist Dismal Enigma Naval Intelligence Specialist Technical Specialist Logistics Specialist 
 
 Chief of Staff Example:
 
-    School of Fire Support School of Manoeuvre School of Defence School of Psychology School of Mass Combat
+    School of Fire Support School of Manoeuvre School of Defence School of Psychology School of Mass Combat 
 
 Chief of Army Example:
 
-    Guns and Butter Doctrine Armoured Spearhead Doctrine Decisive Battle Doctrine Static Defence Doctrine Elastic Defense Doctrine
+    Guns and Butter Doctrine Armoured Spearhead Doctrine Decisive Battle Doctrine Static Defence Doctrine Elastic Defense Doctrine 
 
 Chief of Navy Example:
 
-    Base Control Doctrine Open Seas Doctrine Decisive Naval Battle Doctrine Power Projection Doctrine Indirect Approach Doctrine
+    Base Control Doctrine Open Seas Doctrine Decisive Naval Battle Doctrine Power Projection Doctrine Indirect Approach Doctrine 
 
 Chief of Air Force Example:
 
-    Carpet Bombing Doctrine Naval Aviation Doctrine Air Superiority Doctrine Army Aviation Doctrine Vertical Envelopement Doctrine
+    Carpet Bombing Doctrine Naval Aviation Doctrine Air Superiority Doctrine Army Aviation Doctrine Vertical Envelopement Doctrine 
 
 Example:
 
-    1;Head of State;Adolf Hitler;NA;NS;Powerhungry Demagogue;High;M1;x
+    1;Head of State;Adolf Hitler;NA;NS;Powerhungry Demagogue;High;M1;x 
 
 ### [ Loyalty ]{#Loyalty .mw-headline}
 
@@ -180,7 +188,7 @@ random event. Not sure if this is implemented or not.
 
 Example:
 
-    1;Head of State;Adolf Hitler;NA;NS;Powerhungry Demagogue;High;M1;x
+    1;Head of State;Adolf Hitler;NA;NS;Powerhungry Demagogue;High;M1;x 
 
 ### [ Picturename ]{#Picturename .mw-headline}
 
@@ -190,7 +198,7 @@ picture, It should be 36 x 50 pixels.
 
 Example:
 
-    1;Head of State;Adolf Hitler;NA;NS;Powerhungry Demagogue;High;M1;x
+    1;Head of State;Adolf Hitler;NA;NS;Powerhungry Demagogue;High;M1;x 
 
 ### [ Further Notes ]{#Further_Notes .mw-headline}
 

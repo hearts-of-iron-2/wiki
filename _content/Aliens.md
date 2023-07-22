@@ -1,7 +1,6 @@
 ---
 title: Aliens
 ---
-
 ::: mw-parser-output
 The Aliens are a bit of a hidden feature of HoI. They are unleashed
 through a \"cheat\' that is activated by typing in

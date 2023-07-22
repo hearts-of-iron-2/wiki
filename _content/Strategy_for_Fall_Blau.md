@@ -1,7 +1,6 @@
 ---
 title: Strategy_for_Fall_Blau
 ---
-
 ::: mw-parser-output
 [Template:Scenario
 guides](/wiki/index.php?title=Template:Scenario_guides&action=edit&redlink=1 "Template:Scenario guides (page does not exist)"){.new}
@@ -20,15 +19,17 @@ width="44"}](/wiki/File:Shieldsov.jpg){.image}
 
 ::: {#toc .toc aria-labelledby="mw-toc-heading" role="navigation"}
 ::: {.toctitle dir="ltr" lang="en"}
-
 ## Contents {#mw-toc-heading}
 
 [ ]{.toctogglespan}
 :::
 
-- [[ 1 ]{.tocnumber} [ German Strategy ]{.toctext}](#German_Strategy) - [[ 1.1 ]{.tocnumber} [ Opening moves
-  ]{.toctext}](#Opening_moves) - [[ 1.2 ]{.tocnumber} [ The Don ]{.toctext}](#The_Don) - [[ 1.3 ]{.tocnumber} [ The East ]{.toctext}](#The_East)
-  :::
+-   [[ 1 ]{.tocnumber} [ German Strategy ]{.toctext}](#German_Strategy)
+    -   [[ 1.1 ]{.tocnumber} [ Opening moves
+        ]{.toctext}](#Opening_moves)
+    -   [[ 1.2 ]{.tocnumber} [ The Don ]{.toctext}](#The_Don)
+    -   [[ 1.3 ]{.tocnumber} [ The East ]{.toctext}](#The_East)
+:::
 
 ## [ German Strategy ]{#German_Strategy .mw-headline}
 

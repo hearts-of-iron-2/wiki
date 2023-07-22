@@ -1,7 +1,6 @@
 ---
 title: Cold_War_Tech_Tree_Extension_Project
 ---
-
 ::: mw-parser-output
 This mod extends the tech tree of the game to 1964, the official end
 date of Armageddon. While Paradox extended the game time in Armageddon,

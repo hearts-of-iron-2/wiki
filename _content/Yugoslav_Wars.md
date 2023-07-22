@@ -1,7 +1,6 @@
 ---
 title: Yugoslav_Wars
 ---
-
 ::: mw-parser-output
 \[ [\[1\]](http://img38.imageshack.us/img38/9817/logojx.png){.external
 .autonumber rel="nofollow"} \]

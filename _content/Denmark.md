@@ -1,7 +1,6 @@
 ---
 title: Denmark
 ---
-
 ::: mw-parser-output
 ::: {.eu4box style="width:330px; height:auto; float:right; clear:right"}
 ::: heading
@@ -14,7 +13,7 @@ title: Denmark
 [Major powers](/wiki/Major_power "Major power"){.mw-redirect}
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [France](/wiki/France "France")\
@@ -30,7 +29,7 @@ title: Denmark
 Regional powers
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [Argentina](/wiki/Argentina "Argentina")\
@@ -58,7 +57,7 @@ Regional powers
 [Minor powers](/wiki/Minor_power "Minor power"){.mw-redirect}
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [Austria](/wiki/Austria "Austria")\
@@ -81,7 +80,7 @@ Regional powers
 [Micro powers](/wiki/Micro_power "Micro power"){.mw-redirect}
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [Afghanistan](/wiki/Afghanistan "Afghanistan")\
@@ -131,22 +130,23 @@ Arabia](/wiki/index.php?title=Saudi_Arabia&action=edit&redlink=1 "Saudi Arabia (
 
 ::: {#toc .toc aria-labelledby="mw-toc-heading" role="navigation"}
 ::: {.toctitle dir="ltr" lang="en"}
-
 ## Contents {#mw-toc-heading}
 
 [ ]{.toctogglespan}
 :::
 
-- [[ 1 ]{.tocnumber} [ Summary ]{.toctext}](#Summary)
-- [[ 2 ]{.tocnumber} [ Pro\'s & Con\'s
-  ]{.toctext}](#Pro.27s_.26_Con.27s) - [[ 2.1 ]{.tocnumber} [ Pro\'s ]{.toctext}](#Pro.27s) - [[ 2.2 ]{.tocnumber} [ Con\'s ]{.toctext}](#Con.27s)
-  :::
+-   [[ 1 ]{.tocnumber} [ Summary ]{.toctext}](#Summary)
+-   [[ 2 ]{.tocnumber} [ Pro\'s & Con\'s
+    ]{.toctext}](#Pro.27s_.26_Con.27s)
+    -   [[ 2.1 ]{.tocnumber} [ Pro\'s ]{.toctext}](#Pro.27s)
+    -   [[ 2.2 ]{.tocnumber} [ Con\'s ]{.toctext}](#Con.27s)
+:::
 
 ### [ Summary ]{#Summary .mw-headline}
 
 Denmark is a small, little nation on top of the big, bad Nazi Germany.
 Meaning, any dreams of expanding southward\'s is already crushed.
-Starting off, Denmark is one of those _low_ minors, the ones that have
+Starting off, Denmark is one of those *low* minors, the ones that have
 more than 10 IC but less than 15 IC, which Denmark is in the middle of
 it with 13 IC.
 
@@ -165,25 +165,25 @@ a CAS and Interceptor combo, or if you really want or have the IC,
 Tactical and Fighters. You shouldn\'t focus much onto the navy since all
 of Germany\'s navy will be close to you when they declare war on you.
 
-### [ ]{#Pro's*&\_Con's} [ Pro\'s & Con\'s ]{#Pro.27s*.26_Con.27s .mw-headline}
+### [ ]{#Pro's_&_Con's} [ Pro\'s & Con\'s ]{#Pro.27s_.26_Con.27s .mw-headline}
 
 #### [ ]{#Pro's} [ Pro\'s ]{#Pro.27s .mw-headline}
 
-- You have positive relations with the Allies and Germany
-- Starting out with a fair amount of resources
-- Have some great Techteam, Niels Bohr (level 7, good for Nukes),
-  Burmeister & Wain (level 6) and F.L. Smidt (level 6) are great of
-  Industrial techs and some level 4 doctrine teams
-- Good position to attack Norway
-- A large navy for a minor
+-   You have positive relations with the Allies and Germany
+-   Starting out with a fair amount of resources
+-   Have some great Techteam, Niels Bohr (level 7, good for Nukes),
+    Burmeister & Wain (level 6) and F.L. Smidt (level 6) are great of
+    Industrial techs and some level 4 doctrine teams
+-   Good position to attack Norway
+-   A large navy for a minor
 
 #### [ ]{#Con's} [ Con\'s ]{#Con.27s .mw-headline}
 
-- Everyone else either doesn\'t like you or has 0 relations with you
-- Bad starting position since your onto of Germany
-- All of the other Industral Techs would be researched slower if your
-  are using Burmeister & Wain or F.L. Smidt
-- Why would Denmark need a Nuclear Techteam
-- Outdated Navy, meaning a waste of supplies
-- Bad, bad terrain
-  :::
+-   Everyone else either doesn\'t like you or has 0 relations with you
+-   Bad starting position since your onto of Germany
+-   All of the other Industral Techs would be researched slower if your
+    are using Burmeister & Wain or F.L. Smidt
+-   Why would Denmark need a Nuclear Techteam
+-   Outdated Navy, meaning a waste of supplies
+-   Bad, bad terrain
+:::

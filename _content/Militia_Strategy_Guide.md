@@ -1,7 +1,6 @@
 ---
 title: Militia_Strategy_Guide
 ---
-
 ::: mw-parser-output
 [Template:Anthology](/wiki/index.php?title=Template:Anthology&action=edit&redlink=1 "Template:Anthology (page does not exist)"){.new}
 At first glance, the [Militia
@@ -13,46 +12,48 @@ when they are able to do so.
 
 ::: {#toc .toc aria-labelledby="mw-toc-heading" role="navigation"}
 ::: {.toctitle dir="ltr" lang="en"}
-
 ## Contents {#mw-toc-heading}
 
 [ ]{.toctogglespan}
 :::
 
-- [[ 1 ]{.tocnumber} [ Comparison to Infantry
-  ]{.toctext}](#Comparison_to_Infantry)
-  - [[ 1.1 ]{.tocnumber} [ Value ]{.toctext}](#Value)
-  - [[ 1.2 ]{.tocnumber} [ Absorbing Bullets
-    ]{.toctext}](#Absorbing_Bullets)
-  - [[ 1.3 ]{.tocnumber} [ Battle Winning Ability
-    ]{.toctext}](#Battle_Winning_Ability)
-  - [[ 1.4 ]{.tocnumber} [ Command Limit
-    ]{.toctext}](#Command_Limit)
-- [[ 2 ]{.tocnumber} [ The Manpower issue
-  ]{.toctext}](#The_Manpower_issue) - [[ 2.1 ]{.tocnumber} [ The problem ]{.toctext}](#The_problem) - [[ 2.2 ]{.tocnumber} [ Consequences ]{.toctext}](#Consequences) - [[ 2.2.1 ]{.tocnumber} [ States which should rely heavily on
-  Militia
-  ]{.toctext}](#States_which_should_rely_heavily_on_Militia) - [[ 2.2.2 ]{.tocnumber} [ States which could use some Militia
-  ]{.toctext}](#States_which_could_use_some_Militia) - [[ 2.2.3 ]{.tocnumber} [ States which cannot afford Militia,
-  manpower-wise
-  ]{.toctext}](#States_which_cannot_afford_Militia.2C_manpower-wise)
-  :::
+-   [[ 1 ]{.tocnumber} [ Comparison to Infantry
+    ]{.toctext}](#Comparison_to_Infantry)
+    -   [[ 1.1 ]{.tocnumber} [ Value ]{.toctext}](#Value)
+    -   [[ 1.2 ]{.tocnumber} [ Absorbing Bullets
+        ]{.toctext}](#Absorbing_Bullets)
+    -   [[ 1.3 ]{.tocnumber} [ Battle Winning Ability
+        ]{.toctext}](#Battle_Winning_Ability)
+    -   [[ 1.4 ]{.tocnumber} [ Command Limit
+        ]{.toctext}](#Command_Limit)
+-   [[ 2 ]{.tocnumber} [ The Manpower issue
+    ]{.toctext}](#The_Manpower_issue)
+    -   [[ 2.1 ]{.tocnumber} [ The problem ]{.toctext}](#The_problem)
+    -   [[ 2.2 ]{.tocnumber} [ Consequences ]{.toctext}](#Consequences)
+        -   [[ 2.2.1 ]{.tocnumber} [ States which should rely heavily on
+            Militia
+            ]{.toctext}](#States_which_should_rely_heavily_on_Militia)
+        -   [[ 2.2.2 ]{.tocnumber} [ States which could use some Militia
+            ]{.toctext}](#States_which_could_use_some_Militia)
+        -   [[ 2.2.3 ]{.tocnumber} [ States which cannot afford Militia,
+            manpower-wise
+            ]{.toctext}](#States_which_cannot_afford_Militia.2C_manpower-wise)
+:::
 
 ## [ Comparison to Infantry ]{#Comparison_to_Infantry .mw-headline}
 
----
-
-Model ORG Morale Air Att. Air Def. Soft Att. Hard Att. Toughness Defensiveness Softness Cost Build-time Manpower Max Speed Supply Cons. Suppression
-Infantry \'36 30 30 2 3 10 1 12 15 100 7 95 10 4 1 2
-Militia \'36 30 30 1 2 2 0 1 8 100 4 50 5 4 0.2 1
-
----
+  --------------- ----- -------- ---------- ---------- ----------- ----------- ----------- --------------- ---------- ------ ------------ ---------- ----------- -------------- -------------
+  Model           ORG   Morale   Air Att.   Air Def.   Soft Att.   Hard Att.   Toughness   Defensiveness   Softness   Cost   Build-time   Manpower   Max Speed   Supply Cons.   Suppression
+  Infantry \'36   30    30       2          3          10          1           12          15              100        7      95           10         4           1              2
+  Militia \'36    30    30       1          2          2           0           1           8               100        4      50           5          4           0.2            1
+  --------------- ----- -------- ---------- ---------- ----------- ----------- ----------- --------------- ---------- ------ ------------ ---------- ----------- -------------- -------------
 
 This means:
 
-- Infantry uses five times as much supplies
-- Infantry increases TC load by five times
-- Infantry costs twice as much in manpower
-- Infantry costs over three times more IC days (665 versus 200)
+-   Infantry uses five times as much supplies
+-   Infantry increases TC load by five times
+-   Infantry costs twice as much in manpower
+-   Infantry costs over three times more IC days (665 versus 200)
 
 These facts aren\'t necessarily surprising: since Infantry is a better
 combat unit, it \"should\" cost more, right? Yet, combat isn\'t only
@@ -79,11 +80,11 @@ majority of a formation consists of militia. Hence, building 3 militia
 and 2 infantry (1,930 ICd) versus 3 infantry (1,995 ICd) is a far better
 choice because the mixed force is:
 
-- Superior in combat: more units are inflicting damage
-- Superior in losses: more units spread causalities evenly
-- Superior in staying power: Decreased loses enable infantry to fight
-  longer
-- Superior in costs, time, TC, supply, and manpower.
+-   Superior in combat: more units are inflicting damage
+-   Superior in losses: more units spread causalities evenly
+-   Superior in staying power: Decreased loses enable infantry to fight
+    longer
+-   Superior in costs, time, TC, supply, and manpower.
 
 ### [ Absorbing Bullets ]{#Absorbing_Bullets .mw-headline}
 
@@ -95,7 +96,7 @@ minimizing the causalities of your units.
 
 ### [ Battle Winning Ability ]{#Battle_Winning_Ability .mw-headline}
 
-All this being said, the _true_ value of Militia can only be understood
+All this being said, the *true* value of Militia can only be understood
 with battle winning ability (BWA). BWA = damage inflicted (soft attack)
 x damage absorbed (org). Continuing the example above of unit production
 that is the same in IC days, the choice of 3 militia with 2 infantry has
@@ -104,7 +105,8 @@ BWA is 3,900 (26 \* 150). Meanwhile, the group of 3 infantry has a total
 soft attack of 30, but a total organization of only 90. Thus, their BWA
 is 2,700 (30 \* 90).
 
-Meanwhile, 1 infantry with 300 BWA (30 \* 10) will defeat 2 Militia (4 \* 60) (240 BWA), however will loose handily against 3 Militia (540
+Meanwhile, 1 infantry with 300 BWA (30 \* 10) will defeat 2 Militia (4
+\* 60) (240 BWA), however will loose handily against 3 Militia (540
 BWA).
 
 ### [ Command Limit ]{#Command_Limit .mw-headline}
@@ -133,7 +135,7 @@ means you can build approximately 3.30 Militia for every 1 Infantry,
 which means you will spend 5 times 3.30 manpower (16.5) if you build
 Militia, versus 10 manpower if you go Infantry. This can be a good
 thing, as an investment in Militia is a quick and cost effective way to
-_use_ your manpower, rather than having it waste away in the manpower
+*use* your manpower, rather than having it waste away in the manpower
 pool.
 
 Militia will rapidly deplete and waste manpower if used incorrectly. For
@@ -194,7 +196,7 @@ even larger IC, which causes a medium mp/IC, like Germany (although you
 should keep the before-mentioned exception in mind) and most of the
 Allies in mid-game. Most minor powers also fall in this range.
 
-##### [ ]{#States_which_cannot_afford_Militia,\_manpower-wise} [ States which cannot afford Militia, manpower-wise ]{#States_which_cannot_afford_Militia.2C_manpower-wise .mw-headline}
+##### [ ]{#States_which_cannot_afford_Militia,_manpower-wise} [ States which cannot afford Militia, manpower-wise ]{#States_which_cannot_afford_Militia.2C_manpower-wise .mw-headline}
 
 These are states which typically have no manpower growth worthy of that
 name, and more IC than they can spend. Micro-powers often fall under

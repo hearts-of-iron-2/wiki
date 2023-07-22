@@ -1,7 +1,6 @@
 ---
 title: Communist_China
 ---
-
 ::: mw-parser-output
 ::: {.eu4box style="width:330px; height:auto; float:right; clear:right"}
 ::: heading
@@ -14,7 +13,7 @@ title: Communist_China
 [Major powers](/wiki/Major_power "Major power"){.mw-redirect}
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [France](/wiki/France "France")\
@@ -30,7 +29,7 @@ title: Communist_China
 Regional powers
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [Argentina](/wiki/Argentina "Argentina")\
@@ -58,7 +57,7 @@ Regional powers
 [Minor powers](/wiki/Minor_power "Minor power"){.mw-redirect}
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [Austria](/wiki/Austria "Austria")\
@@ -81,7 +80,7 @@ Regional powers
 [Micro powers](/wiki/Micro_power "Micro power"){.mw-redirect}
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [Afghanistan](/wiki/Afghanistan "Afghanistan")\
@@ -131,34 +130,35 @@ Arabia](/wiki/index.php?title=Saudi_Arabia&action=edit&redlink=1 "Saudi Arabia (
 
 ::: {#toc .toc aria-labelledby="mw-toc-heading" role="navigation"}
 ::: {.toctitle dir="ltr" lang="en"}
-
 ## Contents {#mw-toc-heading}
 
 [ ]{.toctogglespan}
 :::
 
-- [[ 1 ]{.tocnumber} [ Introduction ]{.toctext}](#Introduction)
-- [[ 2 ]{.tocnumber} [ Gameplay ]{.toctext}](#Gameplay)
-  - [[ 2.1 ]{.tocnumber} [ Research ]{.toctext}](#Research)
-  - [[ 2.2 ]{.tocnumber} [ Construction ]{.toctext}](#Construction)
-  - [[ 2.3 ]{.tocnumber} [ Trade ]{.toctext}](#Trade)
-  - [[ 2.4 ]{.tocnumber} [ Diplomacy ]{.toctext}](#Diplomacy)
-  - [[ 2.5 ]{.tocnumber} [ Military ]{.toctext}](#Military)
-  - [[ 2.6 ]{.tocnumber} [ Sliders ]{.toctext}](#Sliders)
-- [[ 3 ]{.tocnumber} [ Strategies ]{.toctext}](#Strategies)
-  - [[ 3.1 ]{.tocnumber} [ Foreword ]{.toctext}](#Foreword)
-  - [[ 3.2 ]{.tocnumber} [ The Way of Passivity
-    ]{.toctext}](#The_Way_of_Passivity)
-  - [[ 3.3 ]{.tocnumber} [ The Way of Prudence
-    ]{.toctext}](#The_Way_of_Prudence)
-  - [[ 3.4 ]{.tocnumber} [ The Way of War
-    ]{.toctext}](#The_Way_of_War)
-  - [[ 3.5 ]{.tocnumber} [ The Way of the Wanderer
-    ]{.toctext}](#The_Way_of_the_Wanderer)
-  - [[ 3.6 ]{.tocnumber} [ The Way of Intrigue
-    ]{.toctext}](#The_Way_of_Intrigue)
-- [[ 4 ]{.tocnumber} [ Conclusion ]{.toctext}](#Conclusion) - [[ 4.1 ]{.tocnumber} [ PROs ]{.toctext}](#PROs) - [[ 4.2 ]{.tocnumber} [ CONs ]{.toctext}](#CONs)
-  :::
+-   [[ 1 ]{.tocnumber} [ Introduction ]{.toctext}](#Introduction)
+-   [[ 2 ]{.tocnumber} [ Gameplay ]{.toctext}](#Gameplay)
+    -   [[ 2.1 ]{.tocnumber} [ Research ]{.toctext}](#Research)
+    -   [[ 2.2 ]{.tocnumber} [ Construction ]{.toctext}](#Construction)
+    -   [[ 2.3 ]{.tocnumber} [ Trade ]{.toctext}](#Trade)
+    -   [[ 2.4 ]{.tocnumber} [ Diplomacy ]{.toctext}](#Diplomacy)
+    -   [[ 2.5 ]{.tocnumber} [ Military ]{.toctext}](#Military)
+    -   [[ 2.6 ]{.tocnumber} [ Sliders ]{.toctext}](#Sliders)
+-   [[ 3 ]{.tocnumber} [ Strategies ]{.toctext}](#Strategies)
+    -   [[ 3.1 ]{.tocnumber} [ Foreword ]{.toctext}](#Foreword)
+    -   [[ 3.2 ]{.tocnumber} [ The Way of Passivity
+        ]{.toctext}](#The_Way_of_Passivity)
+    -   [[ 3.3 ]{.tocnumber} [ The Way of Prudence
+        ]{.toctext}](#The_Way_of_Prudence)
+    -   [[ 3.4 ]{.tocnumber} [ The Way of War
+        ]{.toctext}](#The_Way_of_War)
+    -   [[ 3.5 ]{.tocnumber} [ The Way of the Wanderer
+        ]{.toctext}](#The_Way_of_the_Wanderer)
+    -   [[ 3.6 ]{.tocnumber} [ The Way of Intrigue
+        ]{.toctext}](#The_Way_of_Intrigue)
+-   [[ 4 ]{.tocnumber} [ Conclusion ]{.toctext}](#Conclusion)
+    -   [[ 4.1 ]{.tocnumber} [ PROs ]{.toctext}](#PROs)
+    -   [[ 4.2 ]{.tocnumber} [ CONs ]{.toctext}](#CONs)
+:::
 
 ## [ Introduction ]{#Introduction .mw-headline}
 
@@ -296,27 +296,26 @@ The difficulty with playing Com. China is that the global strategy that
 will best serve your goals depends entirely on random factors, of which
 you have no control. These random factors are :
 
-- The Xi\'an incident : it is twice random. First, it fires at a
-  random date, usually in March or April 1936, but sometimes much
-  later, or even not at all. Then, Nat. China will have a choice to
-  force a white peace with you, to continue the war, or to forge the
-  unified front. (in Armageddon at least)
-- The Marco Polo bridge incident and the Japanese declaration of war :
-  Japan is likely to declare war against Nat. China at the Marco Polo
-  bridge incident ; but it may also choose to avoid the war ; or it
-  may also declare war against Nat. China, Com. China or a warlord
-  much earlier. AI Japan will DOW the Guanxi Clique early if
-  Nationalist China fares badly in its war with the Guanxi Clique, but
-  will DOW Nationalist China if the latter chooses to continue that
-  war.
+-   The Xi\'an incident : it is twice random. First, it fires at a
+    random date, usually in March or April 1936, but sometimes much
+    later, or even not at all. Then, Nat. China will have a choice to
+    force a white peace with you, to continue the war, or to forge the
+    unified front. (in Armageddon at least)
+-   The Marco Polo bridge incident and the Japanese declaration of war :
+    Japan is likely to declare war against Nat. China at the Marco Polo
+    bridge incident ; but it may also choose to avoid the war ; or it
+    may also declare war against Nat. China, Com. China or a warlord
+    much earlier. AI Japan will DOW the Guanxi Clique early if
+    Nationalist China fares badly in its war with the Guanxi Clique, but
+    will DOW Nationalist China if the latter chooses to continue that
+    war.
 
 ```{=html}
 <!-- -->
 ```
-
-- The Unified front : after Japan is at war, Nat. China will have a
-  choice to force Com. China and the warlords into an alliance, or
-  not.
+-   The Unified front : after Japan is at war, Nat. China will have a
+    choice to force Com. China and the warlords into an alliance, or
+    not.
 
 The different strategies exposed here are designed to deal with
 different risk/reward approaches regarding those random factors.
@@ -366,11 +365,11 @@ In the war against Nat. China, let your commanders gain as much
 experience as they can, but avoid to destroy Nat. Chinese armies. When
 the Xi\'an incident event fire :
 
-- if Nat. China chooses peace, rejoice and read below.
-- if Nat. China chooses war, change tactics and go for the kill : see
-  the Way of War.
-- if Nat. China chooses to forge the united front, you\'re screwed :
-  you\'re bound to follow the Way of Passivity.
+-   if Nat. China chooses peace, rejoice and read below.
+-   if Nat. China chooses war, change tactics and go for the kill : see
+    the Way of War.
+-   if Nat. China chooses to forge the united front, you\'re screwed :
+    you\'re bound to follow the Way of Passivity.
 
 As soon as your troops have redeployed in your mainland after the Xi\'an
 incident, the next step is to attack and annex Shanxi. Since they are
@@ -393,25 +392,25 @@ Japanese invasion.
 
 **PROs**
 
-- During the war against Japan, advancing Chinese troops in Manchuria
-  will claim provinces for Com. China, since your provinces are the
-  one on the border with Japan/Manchuria. Do not annex Manchuria
-  though, because Nat. China would receive all the territory, since
-  they are the leader of the alliance, and those provinces are
-  national for them too.
-- This Way gives the best chance that the Chinese will defeat the
-  Japanese, and lets you prepare for the Civil war with a reasonable
-  industrial base (Shanxi, later Manchuria and maybe Korea).
-- You will have Nationalist China as a trading partner, and can obtain
-  many blueprints from them during the war against Japan.
+-   During the war against Japan, advancing Chinese troops in Manchuria
+    will claim provinces for Com. China, since your provinces are the
+    one on the border with Japan/Manchuria. Do not annex Manchuria
+    though, because Nat. China would receive all the territory, since
+    they are the leader of the alliance, and those provinces are
+    national for them too.
+-   This Way gives the best chance that the Chinese will defeat the
+    Japanese, and lets you prepare for the Civil war with a reasonable
+    industrial base (Shanxi, later Manchuria and maybe Korea).
+-   You will have Nationalist China as a trading partner, and can obtain
+    many blueprints from them during the war against Japan.
 
 **CONs**
 
-- If Nat. China picks \"Arrest them all\" (i.e. war) at the Xi\'an
-  incident, you will have less initial advantage against them than
-  with the Way of War.
-- Nat. China will still be more powerful than you after the war
-  against Japan, and the Civil war may be tricky.
+-   If Nat. China picks \"Arrest them all\" (i.e. war) at the Xi\'an
+    incident, you will have less initial advantage against them than
+    with the Way of War.
+-   Nat. China will still be more powerful than you after the war
+    against Japan, and the Civil war may be tricky.
 
 ### [ The Way of War ]{#The_Way_of_War .mw-headline}
 
@@ -419,9 +418,9 @@ The goal is here to defeat Nat. China before the war against Japan.
 
 During the first months of the game :
 
-- try to pocket and destroy as many Nat. Chinese armies as you can.
-- do not declare war against any warlord.
-- advance prudently into Nat. China territory.
+-   try to pocket and destroy as many Nat. Chinese armies as you can.
+-   do not declare war against any warlord.
+-   advance prudently into Nat. China territory.
 
 **If Nat. China chooses peace (most likely option)**
 
@@ -443,8 +442,8 @@ you\'ll be able to annex before Japan enters the dance.
 Note that since annexion of Nationalist China is quite difficult and
 largely random due to the victory point in Hainan, your best choice
 would probably be to puppet Nat. China : you will receive everything
-excepted Nanjing ( _see the \"important warning\" in the foreword about
-annexion_ ). Another option is to sign a peace treaty giving you as much
+excepted Nanjing ( *see the \"important warning\" in the foreword about
+annexion* ). Another option is to sign a peace treaty giving you as much
 of China as possible, including Hainan : and then to shamelessly break
 it and conquer what remains (if you don\'t mind playing dirty and seeing
 your belligerance skyrocket).
@@ -484,21 +483,21 @@ As usual : you\'re bound to follow the Way of Passivity.
 
 **PROs**
 
-- You can get rid of Nationalist China before the Unified front, or at
-  least grab significant gains before it happens.
-- If you puppet Nat. China, you can obtain a few blueprints from them.
-- This strategy works also if China picks \"Arrest them all\" (i.e.
-  war) at the Xi\'an incident.
+-   You can get rid of Nationalist China before the Unified front, or at
+    least grab significant gains before it happens.
+-   If you puppet Nat. China, you can obtain a few blueprints from them.
+-   This strategy works also if China picks \"Arrest them all\" (i.e.
+    war) at the Xi\'an incident.
 
 **CONs**
 
-- Annexion of Nationalist China is difficult.
-- China as a whole will be weaker against Japan during the first years
-  of the war.
-- You\'re very vulnerable to a Japanese early attack while you\'re
-  busy in China.
-- You get 20 points of belligerance after breaking the peace treaty
-  that Nationalist China forced upon you at the Xi\'an incident.
+-   Annexion of Nationalist China is difficult.
+-   China as a whole will be weaker against Japan during the first years
+    of the war.
+-   You\'re very vulnerable to a Japanese early attack while you\'re
+    busy in China.
+-   You get 20 points of belligerance after breaking the peace treaty
+    that Nationalist China forced upon you at the Xi\'an incident.
 
 ### [ The Way of the Wanderer ]{#The_Way_of_the_Wanderer .mw-headline}
 
@@ -525,16 +524,16 @@ taskforce.
 
 In detail :
 
-- army : let your troops and commanders gain experience, but without
-  destroying any Chinese army. Keep your troops in your home
-  provinces, so that they will not lose time to redeploy after Xi\'an.
-- technology : from the very start, research \"Improved construction
-  engineering\" with your best tech team (Deng Xiaopin) : you\'ll need
-  it to build a naval base. It\'s a 1937 tech but you can not afford
-  to research anything else right now.
-- production : start a series of 2 transport ships, and a series of 3
-  convoys. Yes, you can do that without a harbour : they will just
-  stay in your redeployment pool.
+-   army : let your troops and commanders gain experience, but without
+    destroying any Chinese army. Keep your troops in your home
+    provinces, so that they will not lose time to redeploy after Xi\'an.
+-   technology : from the very start, research \"Improved construction
+    engineering\" with your best tech team (Deng Xiaopin) : you\'ll need
+    it to build a naval base. It\'s a 1937 tech but you can not afford
+    to research anything else right now.
+-   production : start a series of 2 transport ships, and a series of 3
+    convoys. Yes, you can do that without a harbour : they will just
+    stay in your redeployment pool.
 
 **Second step : after the Xi\'an incident, Shanxi**
 
@@ -547,29 +546,29 @@ securing your diplomatic position.
 
 In detail :
 
-- war against Shanxi : make sure to conquer Yucheng (or Tianjin) in
-  time to start building a harbor as soon as your tech team finishes
-  researching \"Advanced construction engineering\". Also, make sure
-  not to lose troops to Shanxi : you will need your experimented
-  troops later.
-- production : absolute priority to building the harbor. Also, finish
-  building the transport ships and convoys. If you have spare IC (with
-  the industries captured in Shanxi), build infantry, militias or
-  artillery.
-- trade : it\'s vital to upgrade your relation with Japan through
-  trade (see : Gameplay). As soon as you have a coastal province, you
-  can also trade supplies for resources with the Allies (the UK and
-  France are fair trade partners) : as usual, only what you really
-  need.
-- diplomacy : you should delay the proper annexion of Shanxi until
-  Japan is somewhat more friendly toward you. It\'s also vital to
-  declare war against Guangxi Clique before June 1936 : that will
-  prevent them from DOWing Nationalist China (and thus losing more
-  than half their territory and all their beach provinces).
-- research : first Large Front Doctrine (1937 land doctrines) and 1936
-  infantry (you have the blueprints), then Rear Area Supply Dumps (for
-  the \"strategical deployment\" mission). In you spare time, infantry
-  and artillery techs.
+-   war against Shanxi : make sure to conquer Yucheng (or Tianjin) in
+    time to start building a harbor as soon as your tech team finishes
+    researching \"Advanced construction engineering\". Also, make sure
+    not to lose troops to Shanxi : you will need your experimented
+    troops later.
+-   production : absolute priority to building the harbor. Also, finish
+    building the transport ships and convoys. If you have spare IC (with
+    the industries captured in Shanxi), build infantry, militias or
+    artillery.
+-   trade : it\'s vital to upgrade your relation with Japan through
+    trade (see : Gameplay). As soon as you have a coastal province, you
+    can also trade supplies for resources with the Allies (the UK and
+    France are fair trade partners) : as usual, only what you really
+    need.
+-   diplomacy : you should delay the proper annexion of Shanxi until
+    Japan is somewhat more friendly toward you. It\'s also vital to
+    declare war against Guangxi Clique before June 1936 : that will
+    prevent them from DOWing Nationalist China (and thus losing more
+    than half their territory and all their beach provinces).
+-   research : first Large Front Doctrine (1937 land doctrines) and 1936
+    infantry (you have the blueprints), then Rear Area Supply Dumps (for
+    the \"strategical deployment\" mission). In you spare time, infantry
+    and artillery techs.
 
 **Third step : overseas, Guangxi Clique**
 
@@ -586,16 +585,16 @@ the Japanese aggression.
 
 In detail :
 
-- war against Guangxi : concentrate your forces against victory points
-  and annex. As usual, you can hardly afford to lose any experienced
-  troops, but fortunately, the army of Guangxi is rather obsolete.
-- diplomacy and trade : when your relation with Japan reaches +50,
-  cancel your deals. Start to improve you relation with Nationalist
-  China the same way.
-- production : nothing but infantry, militias and artillery.
-- research : as soon as your research concerning infantry, land
-  doctrines and artillery is up to date, start to research naval
-  doctrines, and aircraft carriers. Yes, that early.
+-   war against Guangxi : concentrate your forces against victory points
+    and annex. As usual, you can hardly afford to lose any experienced
+    troops, but fortunately, the army of Guangxi is rather obsolete.
+-   diplomacy and trade : when your relation with Japan reaches +50,
+    cancel your deals. Start to improve you relation with Nationalist
+    China the same way.
+-   production : nothing but infantry, militias and artillery.
+-   research : as soon as your research concerning infantry, land
+    doctrines and artillery is up to date, start to research naval
+    doctrines, and aircraft carriers. Yes, that early.
 
 **Optional fourth step : Yunnan**
 
@@ -630,24 +629,24 @@ a powerful navy.
 
 In detail :
 
-- war against Japan : defensive in mountain provinces or across
-  rivers, until you have enough troops to largely outnumber them and
-  push them back.
-- production : spam infantry and artillery brigades, and militias for
-  a defensive use. You will also absolutely need at least one
-  headquarter for offensives.
-- research : naval doctrines (remember to buy Nationalist China\'s
-  early blueprints) and aircraft carriers. Infantry, land doctrines
-  and artillery when needed. Let Nationalist China research things for
-  you as much as you can, but do not count on them to research
-  anything about the navy : they never do. Also, your naval research
-  will be a lot easier if you play with \"tech teams takeover\"
-  enabled.
-- diplomacy : once you start to puch back the Japanese, remember NOT
-  to annex Manchuria : all the land would go to Nationalist China
-  since they are the leader of your alliance. But you will receive
-  full IC from those occupied provinces since they are nationals for
-  you too.
+-   war against Japan : defensive in mountain provinces or across
+    rivers, until you have enough troops to largely outnumber them and
+    push them back.
+-   production : spam infantry and artillery brigades, and militias for
+    a defensive use. You will also absolutely need at least one
+    headquarter for offensives.
+-   research : naval doctrines (remember to buy Nationalist China\'s
+    early blueprints) and aircraft carriers. Infantry, land doctrines
+    and artillery when needed. Let Nationalist China research things for
+    you as much as you can, but do not count on them to research
+    anything about the navy : they never do. Also, your naval research
+    will be a lot easier if you play with \"tech teams takeover\"
+    enabled.
+-   diplomacy : once you start to puch back the Japanese, remember NOT
+    to annex Manchuria : all the land would go to Nationalist China
+    since they are the leader of your alliance. But you will receive
+    full IC from those occupied provinces since they are nationals for
+    you too.
 
 **Sixth step : prepare the invasion of Japan**
 
@@ -662,28 +661,28 @@ Japanese fleet though.
 
 In detail :
 
-- war against Japan, before you have a navy : be content to defend
-  your beaches in China and Korea. Remember that, after France falls,
-  Japan may receive Indochina and open a southern front, with the
-  eventual help of Siam. That\'s good news since you share a border
-  with Indochina (former Guanxi provinces), so that means more land
-  gains for you. Moreover, Japan will further exhaust itself there.
-- war against Japan, after you have a navy : prepare a landing
-  taskforce. If Japan has not waged war on land since a long time,
-  their coasts will be heavily garrisoned, and you will need marines.
-  If Japan is still sending all it\'s forces into Burma or Indochina,
-  expect less resistance in the home islands : mountaineers may be
-  sufficient to land and secure a beachhead.
-- navy : wait until you have decent carrier models ready (CV-4 or CV-5
-  in 1942 or 1943) and produce like 6 of them at the same time. Then
-  destroyers as screens.
-- research : naval doctrines, aircraft carriers and destroyers. Second
-  priority : marines and land doctrines.
-- production : build a large stock of resources in order to be able to
-  divert your whole production into aircraft carriers and marines when
-  the time comes. When possible, build regular troops to garrison the
-  beaches (they will be useful later on against Nationalist China,
-  too). Remember to build naval convoys and escorts.
+-   war against Japan, before you have a navy : be content to defend
+    your beaches in China and Korea. Remember that, after France falls,
+    Japan may receive Indochina and open a southern front, with the
+    eventual help of Siam. That\'s good news since you share a border
+    with Indochina (former Guanxi provinces), so that means more land
+    gains for you. Moreover, Japan will further exhaust itself there.
+-   war against Japan, after you have a navy : prepare a landing
+    taskforce. If Japan has not waged war on land since a long time,
+    their coasts will be heavily garrisoned, and you will need marines.
+    If Japan is still sending all it\'s forces into Burma or Indochina,
+    expect less resistance in the home islands : mountaineers may be
+    sufficient to land and secure a beachhead.
+-   navy : wait until you have decent carrier models ready (CV-4 or CV-5
+    in 1942 or 1943) and produce like 6 of them at the same time. Then
+    destroyers as screens.
+-   research : naval doctrines, aircraft carriers and destroyers. Second
+    priority : marines and land doctrines.
+-   production : build a large stock of resources in order to be able to
+    divert your whole production into aircraft carriers and marines when
+    the time comes. When possible, build regular troops to garrison the
+    beaches (they will be useful later on against Nationalist China,
+    too). Remember to build naval convoys and escorts.
 
 **Seventh step : the fall of Japan and the Chinese civil war**
 
@@ -694,12 +693,12 @@ to build enough convoys to keep your troops supplied.
 
 After that, you can either :
 
-- puppet Japan : you will receive Taiwan and a couple Japanese
-  provinces in China, but Manchuria will be freed and still at war
-  with nationalist China.
-- if your navy didn\'t take too much a beating, annex Japan (they may
-  have victory points in the Pacific, depending on how the war with
-  the USA went).
+-   puppet Japan : you will receive Taiwan and a couple Japanese
+    provinces in China, but Manchuria will be freed and still at war
+    with nationalist China.
+-   if your navy didn\'t take too much a beating, annex Japan (they may
+    have victory points in the Pacific, depending on how the war with
+    the USA went).
 
 Once Japan is defeated, remember that your first and main goal is still
 to bring the joy of socialism to the Chinese masses : you can delay the
@@ -709,17 +708,17 @@ outpower Nationalist China in the civil war to come.
 \
 **PROs**
 
-- This strategy allows Communist China to become a major power and
-  defeat Japan around year 1945.
-- It gives you the best chance to defeat Nationalist China during the
-  civil war.
-- It is quite fun to play.
+-   This strategy allows Communist China to become a major power and
+    defeat Japan around year 1945.
+-   It gives you the best chance to defeat Nationalist China during the
+    civil war.
+-   It is quite fun to play.
 
 **CONs**
 
-- Requires lots of micromanagement.
-- The initial build-up is irrelevant if nationalist China chooses
-  \"war\" at the Xi\'an incident.
+-   Requires lots of micromanagement.
+-   The initial build-up is irrelevant if nationalist China chooses
+    \"war\" at the Xi\'an incident.
 
 ### [ The Way of Intrigue ]{#The_Way_of_Intrigue .mw-headline}
 
@@ -810,14 +809,14 @@ attention to building a massive Asian superpower. Who knows? by the
 
 **PROs**
 
-- this is the fastest way to become a superpower
-- Gives the best opportunity to defeat Japan
+-   this is the fastest way to become a superpower
+-   Gives the best opportunity to defeat Japan
 
 **CONs**
 
-- Your belligerence will skyrocket long before WW2 is over
-- requires careful timing and micromanagement in the begining
-- a rather gamey strategy
+-   Your belligerence will skyrocket long before WW2 is over
+-   requires careful timing and micromanagement in the begining
+-   a rather gamey strategy
 
 ## [ Conclusion ]{#Conclusion .mw-headline}
 
@@ -829,76 +828,66 @@ have been with same amount of land.
 
 ### [ PROs ]{#PROs .mw-headline}
 
-- When all the land is taken, huge IC/manpower and no partisans since
-  the land is already yours.
+-   When all the land is taken, huge IC/manpower and no partisans since
+    the land is already yours.
 
 ```{=html}
 <!-- -->
 ```
-
-- Starting with powerful army compared to anyone else in the region
-  (apart from Japan).
-
-```{=html}
-<!-- -->
-```
-
-- Mao event adds morale and org to your troops in the beginning.
-  _(What\'s that?)_
+-   Starting with powerful army compared to anyone else in the region
+    (apart from Japan).
 
 ```{=html}
 <!-- -->
 ```
+-   Mao event adds morale and org to your troops in the beginning.
+    *(What\'s that?)*
 
-- Most fun you will have if you start kicking ass, Communist China is
-  a rewarding faction.
+```{=html}
+<!-- -->
+```
+-   Most fun you will have if you start kicking ass, Communist China is
+    a rewarding faction.
 
 \
 
 ### [ CONs ]{#CONs .mw-headline}
 
-- Requires careful planning and micromanagement.
+-   Requires careful planning and micromanagement.
 
 ```{=html}
 <!-- -->
 ```
-
-- Bad luck at random events may doom your strategy.
-
-```{=html}
-<!-- -->
-```
-
-- Other nations hate you.
+-   Bad luck at random events may doom your strategy.
 
 ```{=html}
 <!-- -->
 ```
-
-- Almost constant resource shortage.
-
-```{=html}
-<!-- -->
-```
-
-- Starting with a shrimp of a country with nothing in it and only few
-  units.
+-   Other nations hate you.
 
 ```{=html}
 <!-- -->
 ```
-
-- Almost no research to begin with.
-
-```{=html}
-<!-- -->
-```
-
-- Average to crappy research teams.
+-   Almost constant resource shortage.
 
 ```{=html}
 <!-- -->
 ```
+-   Starting with a shrimp of a country with nothing in it and only few
+    units.
 
-- Not that many generals and most suck.
-  :::
+```{=html}
+<!-- -->
+```
+-   Almost no research to begin with.
+
+```{=html}
+<!-- -->
+```
+-   Average to crappy research teams.
+
+```{=html}
+<!-- -->
+```
+-   Not that many generals and most suck.
+:::

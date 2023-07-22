@@ -1,9 +1,7 @@
 ---
 title: Wolfpack
 ---
-
 ::: mw-parser-output
-
 ### [ Submarine [Wolfpack]{.mw-selflink .selflink} ]{#Submarine_Wolfpack .mw-headline}
 
 Any group of [submarines](/wiki/Submarine "Submarine") that includes no
@@ -22,7 +20,7 @@ The other requirement for Sub-fleet positioning is that together they
 must form a complete blockade-cordon, cutting the enemy capital from all
 possible convoy destinations. The AI will automatically shift the route
 of a Convoy that has suffered U-Boat or Air attack\... but this won\'t
-help it at all as long as _all possible_ Convoy-routes are covered by
+help it at all as long as *all possible* Convoy-routes are covered by
 subs.
 
 #### [ Doomsday and Armageddon ]{#Doomsday_and_Armageddon .mw-headline}

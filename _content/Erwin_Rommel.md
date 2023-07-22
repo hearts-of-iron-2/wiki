@@ -1,7 +1,6 @@
 ---
 title: Erwin_Rommel
 ---
-
 ::: mw-parser-output
 Before being promoted to the rank of Major General in September, 1939,
 [Erwin Rommel](http://en.wikipedia.org/wiki/Erwin_Rommel){.external

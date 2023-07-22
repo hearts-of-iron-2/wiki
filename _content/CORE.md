@@ -1,7 +1,6 @@
 ---
 title: CORE
 ---
-
 ::: mw-parser-output
 CORE is the Community Open Resource Exchange. CORE aims to make Hearts
 of Iron 2 a more historically accurate and involving game, through
@@ -24,17 +23,17 @@ available, such as country-specific model graphics and tech imagery.
 
 \
 
-- Mod Website: Is now permanently down
-- Download: None known - Try the forums at:
-  [http://forum.paradoxplaza.com/forum/forumdisplay.php?289-C.O.R.E](http://forum.paradoxplaza.com/forum/forumdisplay.php?289-C.O.R.E){.external
-  .free rel="nofollow"} .
-- Current Version: 0.4.9, available for Arsenal of Democracy 1.02 (up
-  to 1.04 with Tweaks)
-- Current Version: 0.4.1, available for Armageddon 1.3b2
-- Current Version: 0.3.2.3, available for Doomsday 1.3A and Armageddon
-  1.2
-- Last Update: July, 2009
-- Popularity: _over 10,000 posts_
-- Compatibility: [HOI2, DD,
-  ARMA](/wiki/Abbreviations#H "Abbreviations")
-  :::
+-   Mod Website: Is now permanently down
+-   Download: None known - Try the forums at:
+    [http://forum.paradoxplaza.com/forum/forumdisplay.php?289-C.O.R.E](http://forum.paradoxplaza.com/forum/forumdisplay.php?289-C.O.R.E){.external
+    .free rel="nofollow"} .
+-   Current Version: 0.4.9, available for Arsenal of Democracy 1.02 (up
+    to 1.04 with Tweaks)
+-   Current Version: 0.4.1, available for Armageddon 1.3b2
+-   Current Version: 0.3.2.3, available for Doomsday 1.3A and Armageddon
+    1.2
+-   Last Update: July, 2009
+-   Popularity: *over 10,000 posts*
+-   Compatibility: [HOI2, DD,
+    ARMA](/wiki/Abbreviations#H "Abbreviations")
+:::

@@ -1,7 +1,6 @@
 ---
 title: Strategy_for_Desert_Fox
 ---
-
 ::: mw-parser-output
 [Template:Scenario
 guides](/wiki/index.php?title=Template:Scenario_guides&action=edit&redlink=1 "Template:Scenario guides (page does not exist)"){.new}
@@ -76,12 +75,12 @@ armies in nearby territories while after winning the battle, cancelling
 the attack instead of going on to occupy the province. Here is the
 breakdown of invasions:
 
-- Tobruk armies should try to make Derna empty.
-- Forte Capuzzo being the weakest should get the help of armies in
-  Tobruk to rout Italian armies in Mechilli. It must also keep Forte
-  Maddalena empty with the help of armies in Rabia.
-- Armies in Rabia must keep Siwa empty all the time to avoid being
-  circled.
+-   Tobruk armies should try to make Derna empty.
+-   Forte Capuzzo being the weakest should get the help of armies in
+    Tobruk to rout Italian armies in Mechilli. It must also keep Forte
+    Maddalena empty with the help of armies in Rabia.
+-   Armies in Rabia must keep Siwa empty all the time to avoid being
+    circled.
 
 In 27 April 1941, there will be an event indicating German invasion to
 Crete. Only the second option (defend with all we can afford) has any

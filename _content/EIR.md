@@ -1,17 +1,15 @@
 ---
 title: EIR
 ---
-
 ::: mw-parser-output
+## [ ]{#The_East_is_Red_--_Goering's_Delay} [ **The East is Red \-- Goering\'s Delay** ]{#The_East_is_Red_--_Goering.27s_Delay .mw-headline}
 
-## [ ]{#The*East_is_Red*--_Goering's_Delay} [ **The East is Red \-- Goering\'s Delay** ]{#The_East_is_Red_--\_Goering.27s_Delay .mw-headline}
-
-_The East is Red \-- Goering\'s Delay is an evolution of a long term
+*The East is Red \-- Goering\'s Delay is an evolution of a long term
 multiplayer HOI II modding endeavour started in 2007. Aimed at creating
 a flexible and balanced multiplayer experience in HOI2 DD Armageddon the
 system was originally designed solely for multiplayer gaming it has now
 been upgraded with AI enhancements so that it will play out in single
-player mode._
+player mode.*
 
 **The Balance of Power and Floating Historical Events:**
 
@@ -46,37 +44,34 @@ Poland temporarily out of the war, and strike west immediately for
 Belgium and try to catch the French unprepared, and snap up Denmark on
 the way.
 
-In short Germany gets to decide when and how WWII will begin, _without
-losing the main lines of the historical event train_ .
+In short Germany gets to decide when and how WWII will begin, *without
+losing the main lines of the historical event train* .
 
-- Mod Forum: [Lord
-  Ederon\'s](http://forums.ederon.net/default.aspx?g=topics&f=55){.external
-  .text rel="nofollow"}
-- Current Version: Goering\'s Delay 1936 Scenario for HOI2 DDA 1.3b
-- Last Update: October, 2009
-- Compatibility: [HOI2, DD,
-  ARMA](/wiki/Abbreviations#H "Abbreviations")
-- EIR \"Q&A\": [Answers to \"WTF is with these TP\'s?\" and other
-  questions.](http://forums.ederon.net/default.aspx?g=posts&t=1707EIR:){.external
-  .text rel="nofollow"}
+-   Mod Forum: [Lord
+    Ederon\'s](http://forums.ederon.net/default.aspx?g=topics&f=55){.external
+    .text rel="nofollow"}
+-   Current Version: Goering\'s Delay 1936 Scenario for HOI2 DDA 1.3b
+-   Last Update: October, 2009
+-   Compatibility: [HOI2, DD,
+    ARMA](/wiki/Abbreviations#H "Abbreviations")
+-   EIR \"Q&A\": [Answers to \"WTF is with these TP\'s?\" and other
+    questions.](http://forums.ederon.net/default.aspx?g=posts&t=1707EIR:){.external
+    .text rel="nofollow"}
 
 **Features Explained:**
 
----
-
-Feature Description
-Multiplayer Dedicated The entire system designed to be first and foremost to be multi-player playable for balance and to account for A-historical variation in Four and Six player set ups
-[Floating Historical Events System](http://forums.ederon.net/default.aspx?g=posts&t=1683){.external .text rel="nofollow"} War can commence anytime after January 1938. Early or late invasion of Poland, Czech, Belgium, Denmark Yugoslavia, without disturbing the WWII event train.
-East is Red Asian Events System Limited conquest of China used to make the Asian theater balance in MP
-Reactive A-historical Diplomatic AI The AI\'s for the major powers make reasonable pro-active and reactive strategic decisions, of the kind made by human players in reaction to events, so the game can be played in Single Player mode.
-[New Playable Country](http://forums.ederon.net/default.aspx?g=posts&t=1694){.external .text rel="nofollow"} The East is Red introduces the \"British Raj\" as a playble country in HOI II. This is not India, nor is it England, but something in between: A British Puppet in Asia.
-Geography Map enhanced using Durruti\'s MEM map to ease up common bottlenecks in France and Spain, and other additions.
-Land Combat Mechanics Long duration combat system. Higher division costs to reduce division count down to historical levels.
-[Air-Naval Mechanics](http://img233.imageshack.us/img233/5972/tech4aa2.png){.external .text rel="nofollow"} Entirely revamped \"anti-shipping\" war system designed to make carriers and surface fleets the rulers of sea, not land based air. Complete with new specialized Air-Naval doctrine tree and new Naval Bomber types.
-[Air Combat Mechanics](http://forums.ederon.net/default.aspx?g=posts&t=1681){.external .text rel="nofollow"} Air power made more reasonable
-[Mobilization Techs](http://forums.ederon.net/default.aspx?g=posts&t=1682){.external .text rel="nofollow"} New techs for war mobilization and manpower drafts
-New Event Trains \"Turkey Divided\", \"The East is Red\", \"The Hundred Regiments Offensive\", \"Military and Industrial Co-operation\" (USSR/Germany), \"The Vacillations of Comrade Stalin\", \"UK Leans on Norway\", \"Belligerent Italy\", \"Reactive Move Industry System for USSR\" and more.
-
----
-
+  --------------------------------------------------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  Feature                                                                                                                     Description
+  Multiplayer Dedicated                                                                                                       The entire system designed to be first and foremost to be multi-player playable for balance and to account for A-historical variation in Four and Six player set ups
+  [Floating Historical Events System](http://forums.ederon.net/default.aspx?g=posts&t=1683){.external .text rel="nofollow"}   War can commence anytime after January 1938. Early or late invasion of Poland, Czech, Belgium, Denmark Yugoslavia, without disturbing the WWII event train.
+  East is Red Asian Events System                                                                                             Limited conquest of China used to make the Asian theater balance in MP
+  Reactive A-historical Diplomatic AI                                                                                         The AI\'s for the major powers make reasonable pro-active and reactive strategic decisions, of the kind made by human players in reaction to events, so the game can be played in Single Player mode.
+  [New Playable Country](http://forums.ederon.net/default.aspx?g=posts&t=1694){.external .text rel="nofollow"}                The East is Red introduces the \"British Raj\" as a playble country in HOI II. This is not India, nor is it England, but something in between: A British Puppet in Asia.
+  Geography                                                                                                                   Map enhanced using Durruti\'s MEM map to ease up common bottlenecks in France and Spain, and other additions.
+  Land Combat Mechanics                                                                                                       Long duration combat system. Higher division costs to reduce division count down to historical levels.
+  [Air-Naval Mechanics](http://img233.imageshack.us/img233/5972/tech4aa2.png){.external .text rel="nofollow"}                 Entirely revamped \"anti-shipping\" war system designed to make carriers and surface fleets the rulers of sea, not land based air. Complete with new specialized Air-Naval doctrine tree and new Naval Bomber types.
+  [Air Combat Mechanics](http://forums.ederon.net/default.aspx?g=posts&t=1681){.external .text rel="nofollow"}                Air power made more reasonable
+  [Mobilization Techs](http://forums.ederon.net/default.aspx?g=posts&t=1682){.external .text rel="nofollow"}                  New techs for war mobilization and manpower drafts
+  New Event Trains                                                                                                            \"Turkey Divided\", \"The East is Red\", \"The Hundred Regiments Offensive\", \"Military and Industrial Co-operation\" (USSR/Germany), \"The Vacillations of Comrade Stalin\", \"UK Leans on Norway\", \"Belligerent Italy\", \"Reactive Move Industry System for USSR\" and more.
+  --------------------------------------------------------------------------------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 :::

@@ -1,7 +1,6 @@
 ---
 title: HoI2
 ---
-
 ::: mw-parser-output
 ::: floatright
 [![HOI2 Box.png](/images/0/03/HOI2_Box.png){file-height="500"

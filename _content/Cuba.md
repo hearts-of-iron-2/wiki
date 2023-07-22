@@ -1,7 +1,6 @@
 ---
 title: Cuba
 ---
-
 ::: mw-parser-output
 ::: {.eu4box style="width:330px; height:auto; float:right; clear:right"}
 ::: heading
@@ -14,7 +13,7 @@ title: Cuba
 [Major powers](/wiki/Major_power "Major power"){.mw-redirect}
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [France](/wiki/France "France")\
@@ -30,7 +29,7 @@ title: Cuba
 Regional powers
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [Argentina](/wiki/Argentina "Argentina")\
@@ -58,7 +57,7 @@ Regional powers
 [Minor powers](/wiki/Minor_power "Minor power"){.mw-redirect}
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [Austria](/wiki/Austria "Austria")\
@@ -81,7 +80,7 @@ Regional powers
 [Micro powers](/wiki/Micro_power "Micro power"){.mw-redirect}
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [Afghanistan](/wiki/Afghanistan "Afghanistan")\
@@ -131,20 +130,24 @@ Arabia](/wiki/index.php?title=Saudi_Arabia&action=edit&redlink=1 "Saudi Arabia (
 
 ::: {#toc .toc aria-labelledby="mw-toc-heading" role="navigation"}
 ::: {.toctitle dir="ltr" lang="en"}
-
 ## Contents {#mw-toc-heading}
 
 [ ]{.toctogglespan}
 :::
 
-- [[ 1 ]{.tocnumber} [ Introduction ]{.toctext}](#Introduction)
-- [[ 2 ]{.tocnumber} [ Starting off ]{.toctext}](#Starting_off)
-- [[ 3 ]{.tocnumber} [ Technology ]{.toctext}](#Technology)
-- [[ 4 ]{.tocnumber} [ Influence ]{.toctext}](#Influence)
-- [[ 5 ]{.tocnumber} [ Strategy ]{.toctext}](#Strategy) - [[ 5.1 ]{.tocnumber} [ Dominican Republic
-  ]{.toctext}](#Dominican_Republic) - [[ 5.2 ]{.tocnumber} [ Haiti ]{.toctext}](#Haiti) - [[ 5.3 ]{.tocnumber} [ Central America
-  ]{.toctext}](#Central_America) - [[ 5.4 ]{.tocnumber} [ Alliances ]{.toctext}](#Alliances) - [[ 5.5 ]{.tocnumber} [ What\'s next ]{.toctext}](#What.27s_next)
-  :::
+-   [[ 1 ]{.tocnumber} [ Introduction ]{.toctext}](#Introduction)
+-   [[ 2 ]{.tocnumber} [ Starting off ]{.toctext}](#Starting_off)
+-   [[ 3 ]{.tocnumber} [ Technology ]{.toctext}](#Technology)
+-   [[ 4 ]{.tocnumber} [ Influence ]{.toctext}](#Influence)
+-   [[ 5 ]{.tocnumber} [ Strategy ]{.toctext}](#Strategy)
+    -   [[ 5.1 ]{.tocnumber} [ Dominican Republic
+        ]{.toctext}](#Dominican_Republic)
+    -   [[ 5.2 ]{.tocnumber} [ Haiti ]{.toctext}](#Haiti)
+    -   [[ 5.3 ]{.tocnumber} [ Central America
+        ]{.toctext}](#Central_America)
+    -   [[ 5.4 ]{.tocnumber} [ Alliances ]{.toctext}](#Alliances)
+    -   [[ 5.5 ]{.tocnumber} [ What\'s next ]{.toctext}](#What.27s_next)
+:::
 
 ## [ Introduction ]{#Introduction .mw-headline}
 

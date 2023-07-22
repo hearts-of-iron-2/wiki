@@ -1,7 +1,6 @@
 ---
 title: Bulgaria
 ---
-
 ::: mw-parser-output
 ::: {.eu4box style="width:330px; height:auto; float:right; clear:right"}
 ::: heading
@@ -14,7 +13,7 @@ title: Bulgaria
 [Major powers](/wiki/Major_power "Major power"){.mw-redirect}
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [France](/wiki/France "France")\
@@ -30,7 +29,7 @@ title: Bulgaria
 Regional powers
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [Argentina](/wiki/Argentina "Argentina")\
@@ -58,7 +57,7 @@ Regional powers
 [Minor powers](/wiki/Minor_power "Minor power"){.mw-redirect}
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [Austria](/wiki/Austria "Austria")\
@@ -81,7 +80,7 @@ Regional powers
 [Micro powers](/wiki/Micro_power "Micro power"){.mw-redirect}
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [Afghanistan](/wiki/Afghanistan "Afghanistan")\
@@ -131,33 +130,32 @@ Arabia](/wiki/index.php?title=Saudi_Arabia&action=edit&redlink=1 "Saudi Arabia (
 
 ::: {#toc .toc aria-labelledby="mw-toc-heading" role="navigation"}
 ::: {.toctitle dir="ltr" lang="en"}
-
 ## Contents {#mw-toc-heading}
 
 [ ]{.toctogglespan}
 :::
 
-- [[ 1 ]{.tocnumber} [ Preamble ]{.toctext}](#Preamble)
-- [[ 2 ]{.tocnumber} [ Starting Position
-  ]{.toctext}](#Starting_Position)
-- [[ 3 ]{.tocnumber} [ In the Beginning
-  ]{.toctext}](#In_the_Beginning)
-- [[ 4 ]{.tocnumber} [ First: Greece ]{.toctext}](#First:_Greece)
-- [[ 5 ]{.tocnumber} [ Second: Yugoslavia
-  ]{.toctext}](#Second:_Yugoslavia)
-- [[ 6 ]{.tocnumber} [ Third: Decide the war against the Soviet Union
-  ]{.toctext}](#Third:_Decide_the_war_against_the_Soviet_Union)
-- [[ 7 ]{.tocnumber} [ Next steps ]{.toctext}](#Next_steps)
-  - [[ 7.1 ]{.tocnumber} [ Bulgaria strategy starting 1944 year:
-    ]{.toctext}](#Bulgaria_strategy_starting_1944_year:)
-- [[ 8 ]{.tocnumber} [ First Steps ]{.toctext}](#First_Steps)
-- [[ 9 ]{.tocnumber} [ Germany is down ]{.toctext}](#Germany_is_down)
-- [[ 10 ]{.tocnumber} [ Crysis comes ]{.toctext}](#Crysis_comes)
-- [[ 11 ]{.tocnumber} [ Peace with Turkey/Greece but still wars
-  ]{.toctext}](#Peace_with_Turkey.2FGreece_but_still_wars)
-- [[ 12 ]{.tocnumber} [ Time to become empire
-  ]{.toctext}](#Time_to_become_empire)
-  :::
+-   [[ 1 ]{.tocnumber} [ Preamble ]{.toctext}](#Preamble)
+-   [[ 2 ]{.tocnumber} [ Starting Position
+    ]{.toctext}](#Starting_Position)
+-   [[ 3 ]{.tocnumber} [ In the Beginning
+    ]{.toctext}](#In_the_Beginning)
+-   [[ 4 ]{.tocnumber} [ First: Greece ]{.toctext}](#First:_Greece)
+-   [[ 5 ]{.tocnumber} [ Second: Yugoslavia
+    ]{.toctext}](#Second:_Yugoslavia)
+-   [[ 6 ]{.tocnumber} [ Third: Decide the war against the Soviet Union
+    ]{.toctext}](#Third:_Decide_the_war_against_the_Soviet_Union)
+-   [[ 7 ]{.tocnumber} [ Next steps ]{.toctext}](#Next_steps)
+    -   [[ 7.1 ]{.tocnumber} [ Bulgaria strategy starting 1944 year:
+        ]{.toctext}](#Bulgaria_strategy_starting_1944_year:)
+-   [[ 8 ]{.tocnumber} [ First Steps ]{.toctext}](#First_Steps)
+-   [[ 9 ]{.tocnumber} [ Germany is down ]{.toctext}](#Germany_is_down)
+-   [[ 10 ]{.tocnumber} [ Crysis comes ]{.toctext}](#Crysis_comes)
+-   [[ 11 ]{.tocnumber} [ Peace with Turkey/Greece but still wars
+    ]{.toctext}](#Peace_with_Turkey.2FGreece_but_still_wars)
+-   [[ 12 ]{.tocnumber} [ Time to become empire
+    ]{.toctext}](#Time_to_become_empire)
+:::
 
 ### [ Preamble ]{#Preamble .mw-headline}
 
@@ -175,29 +173,29 @@ game.
 
 Advantages:
 
-- You sit on a nice spot , because you have no major powers as direct
-  neighbours.
-- Nice terrain if you have to defend yourself
-- 20 IC, enough for a second research team.
-- Slider settings allow you to DoW without dissent within three years.
-- You have an OK industry tech team (level 5), and a nice Land
-  Doctrine research team (level 3) that has the right five
-  specializations for the Firepower-Focus -\> Grand Battle Plan path
-  (the doctrines top right).
+-   You sit on a nice spot , because you have no major powers as direct
+    neighbours.
+-   Nice terrain if you have to defend yourself
+-   20 IC, enough for a second research team.
+-   Slider settings allow you to DoW without dissent within three years.
+-   You have an OK industry tech team (level 5), and a nice Land
+    Doctrine research team (level 3) that has the right five
+    specializations for the Firepower-Focus -\> Grand Battle Plan path
+    (the doctrines top right).
 
 Disadvantages:
 
-- Few men available, although not as few as the Netherlands or
-  Belgium.
-- Low IC in the beginning
-- You start without any useful techs
-- No navy, no air force
-- Most research teams are level 3 and have not the best
-  specializations.
-- Only two research team slots at start
-- You have to trade for many resources
-- Your Head of state and Head of Government give you -15 IC. Only a
-  +10 IC Armaments minister makes this tolerable.
+-   Few men available, although not as few as the Netherlands or
+    Belgium.
+-   Low IC in the beginning
+-   You start without any useful techs
+-   No navy, no air force
+-   Most research teams are level 3 and have not the best
+    specializations.
+-   Only two research team slots at start
+-   You have to trade for many resources
+-   Your Head of state and Head of Government give you -15 IC. Only a
+    +10 IC Armaments minister makes this tolerable.
 
 ### [ In the Beginning ]{#In_the_Beginning .mw-headline}
 
@@ -218,7 +216,7 @@ Research the usual industry techs (oh yeah, that takes time!), Land
 Doctrines, and the ´39 infantry. With German blueprints the mountaineers
 are a nice thing to have.
 
-### [ First: Greece ]{#First:\_Greece .mw-headline}
+### [ First: Greece ]{#First:_Greece .mw-headline}
 
 The war begins, and you still have only a small, outdated 1918 army? It
 does not matter at the moment, as nobody can reach your territory, but
@@ -250,7 +248,7 @@ As the UK likes to land at empty beaches you don´t want to have empty
 beaches. But you have neither IC nor manpower to defend them adequately,
 so use cheap militias instead. You can´t afford more.
 
-### [ Second: Yugoslavia ]{#Second:\_Yugoslavia .mw-headline}
+### [ Second: Yugoslavia ]{#Second:_Yugoslavia .mw-headline}
 
 In mid ´40 I found out, I had no idea, what to do with my IC. After
 Greece was Bulgarian, I had \~30 base IC and not enough manpower for
@@ -281,7 +279,7 @@ mountaineers. At that moment, after the HQ was ready, Bulgaria had lot´s
 of spare IC that produced supplies then, as the fighter-II model was not
 yet ready.
 
-### [ Third: Decide the war against the Soviet Union ]{#Third:\_Decide_the_war_against_the_Soviet_Union .mw-headline}
+### [ Third: Decide the war against the Soviet Union ]{#Third:_Decide_the_war_against_the_Soviet_Union .mw-headline}
 
 With this small 24 units army I made sure the German southern flank did
 a good job. Do what you can but don´t engage larger groups of the Red
@@ -375,7 +373,8 @@ finish u 3.2.3 That\'s why it\'s good we bought the oil from Persia -
 the enemy of Syria who will help u.
 
 4\. Conquer Turkey, they are weak, will offer u peace. 5. Ignore
-f\*cking UK, all the time they will make u problems, but nothing serious 6. Use Persia to help u against Syria. 7. Make good relations with
+f\*cking UK, all the time they will make u problems, but nothing serious
+6. Use Persia to help u against Syria. 7. Make good relations with
 France so Lebanon doesn\'t join the war 8. Make good relations with
 Nationalist Spain, they may be in big help during hte later expansion.
 :::

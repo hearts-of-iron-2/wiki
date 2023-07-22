@@ -1,7 +1,6 @@
 ---
 title: Hungary
 ---
-
 ::: mw-parser-output
 ::: {.eu4box style="width:330px; height:auto; float:right; clear:right"}
 ::: heading
@@ -14,7 +13,7 @@ title: Hungary
 [Major powers](/wiki/Major_power "Major power"){.mw-redirect}
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [France](/wiki/France "France")\
@@ -30,7 +29,7 @@ title: Hungary
 Regional powers
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [Argentina](/wiki/Argentina "Argentina")\
@@ -58,7 +57,7 @@ Regional powers
 [Minor powers](/wiki/Minor_power "Minor power"){.mw-redirect}
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [Austria](/wiki/Austria "Austria")\
@@ -81,7 +80,7 @@ Regional powers
 [Micro powers](/wiki/Micro_power "Micro power"){.mw-redirect}
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [Afghanistan](/wiki/Afghanistan "Afghanistan")\
@@ -131,49 +130,48 @@ Arabia](/wiki/index.php?title=Saudi_Arabia&action=edit&redlink=1 "Saudi Arabia (
 
 ::: {#toc .toc aria-labelledby="mw-toc-heading" role="navigation"}
 ::: {.toctitle dir="ltr" lang="en"}
-
 ## Contents {#mw-toc-heading}
 
 [ ]{.toctogglespan}
 :::
 
-- [[ 1 ]{.tocnumber} [ Pros/Cons ]{.toctext}](#Pros.2FCons)
-- [[ 2 ]{.tocnumber} [ Starting Out ]{.toctext}](#Starting_Out)
-- [[ 3 ]{.tocnumber} [ War With Yugoslavia
-  ]{.toctext}](#War_With_Yugoslavia)
-- [[ 4 ]{.tocnumber} [ The Vienna Dictate
-  ]{.toctext}](#The_Vienna_Dictate)
-- [[ 5 ]{.tocnumber} [ War with Bulgaria
-  ]{.toctext}](#War_with_Bulgaria)
-- [[ 6 ]{.tocnumber} [ War with Greece ]{.toctext}](#War_with_Greece)
-- [[ 7 ]{.tocnumber} [ Turkey and Beyond
-  ]{.toctext}](#Turkey_and_Beyond)
-  :::
+-   [[ 1 ]{.tocnumber} [ Pros/Cons ]{.toctext}](#Pros.2FCons)
+-   [[ 2 ]{.tocnumber} [ Starting Out ]{.toctext}](#Starting_Out)
+-   [[ 3 ]{.tocnumber} [ War With Yugoslavia
+    ]{.toctext}](#War_With_Yugoslavia)
+-   [[ 4 ]{.tocnumber} [ The Vienna Dictate
+    ]{.toctext}](#The_Vienna_Dictate)
+-   [[ 5 ]{.tocnumber} [ War with Bulgaria
+    ]{.toctext}](#War_with_Bulgaria)
+-   [[ 6 ]{.tocnumber} [ War with Greece ]{.toctext}](#War_with_Greece)
+-   [[ 7 ]{.tocnumber} [ Turkey and Beyond
+    ]{.toctext}](#Turkey_and_Beyond)
+:::
 
 ## [ ]{#Pros/Cons} [ Pros/Cons ]{#Pros.2FCons .mw-headline}
 
 Hungary has a lot of going things going for it, but there are some
 negative aspects which impede its success worldwide. The good things:
 
-- Decent research teams
-- Right in the middle of Eastern Europe (to make conquest easier)
-- High IC relative to size
-- Good relations with Germany
-- Decent tech teams
-- OK military leaders
-- Metal surplus
-- Excellent ministers
+-   Decent research teams
+-   Right in the middle of Eastern Europe (to make conquest easier)
+-   High IC relative to size
+-   Good relations with Germany
+-   Decent tech teams
+-   OK military leaders
+-   Metal surplus
+-   Excellent ministers
 
 And the bad things:
 
-- Lack of many resources
-- All neighboring nations have their independence guaranteed by at
-  least 3 countries each
-- Low starting IC compared to some neighbors
-- Small starting army
-- Low manpower
-- Only 2 tech slots
-- No navy (unimportant, if you don´t have a port)
+-   Lack of many resources
+-   All neighboring nations have their independence guaranteed by at
+    least 3 countries each
+-   Low starting IC compared to some neighbors
+-   Small starting army
+-   Low manpower
+-   Only 2 tech slots
+-   No navy (unimportant, if you don´t have a port)
 
 ## [ Starting Out ]{#Starting_Out .mw-headline}
 

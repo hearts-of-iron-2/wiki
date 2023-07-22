@@ -1,7 +1,6 @@
 ---
 title: Belgium
 ---
-
 ::: mw-parser-output
 ::: {.eu4box style="width:330px; height:auto; float:right; clear:right"}
 ::: heading
@@ -14,7 +13,7 @@ title: Belgium
 [Major powers](/wiki/Major_power "Major power"){.mw-redirect}
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [France](/wiki/France "France")\
@@ -30,7 +29,7 @@ title: Belgium
 Regional powers
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [Argentina](/wiki/Argentina "Argentina")\
@@ -58,7 +57,7 @@ Regional powers
 [Minor powers](/wiki/Minor_power "Minor power"){.mw-redirect}
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [Austria](/wiki/Austria "Austria")\
@@ -81,7 +80,7 @@ Regional powers
 [Micro powers](/wiki/Micro_power "Micro power"){.mw-redirect}
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [Afghanistan](/wiki/Afghanistan "Afghanistan")\
@@ -131,33 +130,46 @@ Arabia](/wiki/index.php?title=Saudi_Arabia&action=edit&redlink=1 "Saudi Arabia (
 
 ::: {#toc .toc aria-labelledby="mw-toc-heading" role="navigation"}
 ::: {.toctitle dir="ltr" lang="en"}
-
 ## Contents {#mw-toc-heading}
 
 [ ]{.toctogglespan}
 :::
 
-- [[ 1 ]{.tocnumber} [ Historical introduction
-  ]{.toctext}](#Historical_introduction)
-  - [[ 1.1 ]{.tocnumber} [ Translation into HOI
-    ]{.toctext}](#Translation_into_HOI)
-  - [[ 1.2 ]{.tocnumber} [ A warning for the handyman - modding and
-    this guide
-    ]{.toctext}](#A_warning_for_the_handyman_-_modding_and_this_guide)
-- [[ 2 ]{.tocnumber} [ Strengths and Weaknesses
-  ]{.toctext}](#Strengths_and_Weaknesses)
-  - [[ 2.1 ]{.tocnumber} [ Strengths ]{.toctext}](#Strengths)
-  - [[ 2.2 ]{.tocnumber} [ Weaknesses ]{.toctext}](#Weaknesses)
-- [[ 3 ]{.tocnumber} [ Walkthroughs from 1936 onward
-  ]{.toctext}](#Walkthroughs_from_1936_onward) - [[ 3.1 ]{.tocnumber} [ The bastion of democracy
-  ]{.toctext}](#The_bastion_of_democracy) - [[ 3.1.1 ]{.tocnumber} [ Slow ride - 1936 through 1938
-  ]{.toctext}](#Slow_ride_-_1936_through_1938) - [[ 3.1.2 ]{.tocnumber} [ Fortress Belgium
-  ]{.toctext}](#Fortress_Belgium) - [[ 3.1.3 ]{.tocnumber} [ What now?
-  ]{.toctext}](#What_now.3F) - [[ 3.1.4 ]{.tocnumber} [ Spare IC ]{.toctext}](#Spare_IC) - [[ 3.2 ]{.tocnumber} [ A fascist henchman
-  ]{.toctext}](#A_fascist_henchman) - [[ 3.3 ]{.tocnumber} [ Dietsland ]{.toctext}](#Dietsland) - [[ 3.3.1 ]{.tocnumber} [ Policies ]{.toctext}](#Policies) - [[ 3.3.2 ]{.tocnumber} [ Production
-  ]{.toctext}](#Production) - [[ 3.3.3 ]{.tocnumber} [ Gameplay ]{.toctext}](#Gameplay) - [[ 3.4 ]{.tocnumber} [ Le Congo ]{.toctext}](#Le_Congo) - [[ 3.4.1 ]{.tocnumber} [ Policies ]{.toctext}](#Policies_2) - [[ 3.4.2 ]{.tocnumber} [ Production
-  ]{.toctext}](#Production_2) - [[ 3.4.3 ]{.tocnumber} [ Gameplay ]{.toctext}](#Gameplay_2)
-  :::
+-   [[ 1 ]{.tocnumber} [ Historical introduction
+    ]{.toctext}](#Historical_introduction)
+    -   [[ 1.1 ]{.tocnumber} [ Translation into HOI
+        ]{.toctext}](#Translation_into_HOI)
+    -   [[ 1.2 ]{.tocnumber} [ A warning for the handyman - modding and
+        this guide
+        ]{.toctext}](#A_warning_for_the_handyman_-_modding_and_this_guide)
+-   [[ 2 ]{.tocnumber} [ Strengths and Weaknesses
+    ]{.toctext}](#Strengths_and_Weaknesses)
+    -   [[ 2.1 ]{.tocnumber} [ Strengths ]{.toctext}](#Strengths)
+    -   [[ 2.2 ]{.tocnumber} [ Weaknesses ]{.toctext}](#Weaknesses)
+-   [[ 3 ]{.tocnumber} [ Walkthroughs from 1936 onward
+    ]{.toctext}](#Walkthroughs_from_1936_onward)
+    -   [[ 3.1 ]{.tocnumber} [ The bastion of democracy
+        ]{.toctext}](#The_bastion_of_democracy)
+        -   [[ 3.1.1 ]{.tocnumber} [ Slow ride - 1936 through 1938
+            ]{.toctext}](#Slow_ride_-_1936_through_1938)
+        -   [[ 3.1.2 ]{.tocnumber} [ Fortress Belgium
+            ]{.toctext}](#Fortress_Belgium)
+        -   [[ 3.1.3 ]{.tocnumber} [ What now?
+            ]{.toctext}](#What_now.3F)
+        -   [[ 3.1.4 ]{.tocnumber} [ Spare IC ]{.toctext}](#Spare_IC)
+    -   [[ 3.2 ]{.tocnumber} [ A fascist henchman
+        ]{.toctext}](#A_fascist_henchman)
+    -   [[ 3.3 ]{.tocnumber} [ Dietsland ]{.toctext}](#Dietsland)
+        -   [[ 3.3.1 ]{.tocnumber} [ Policies ]{.toctext}](#Policies)
+        -   [[ 3.3.2 ]{.tocnumber} [ Production
+            ]{.toctext}](#Production)
+        -   [[ 3.3.3 ]{.tocnumber} [ Gameplay ]{.toctext}](#Gameplay)
+    -   [[ 3.4 ]{.tocnumber} [ Le Congo ]{.toctext}](#Le_Congo)
+        -   [[ 3.4.1 ]{.tocnumber} [ Policies ]{.toctext}](#Policies_2)
+        -   [[ 3.4.2 ]{.tocnumber} [ Production
+            ]{.toctext}](#Production_2)
+        -   [[ 3.4.3 ]{.tocnumber} [ Gameplay ]{.toctext}](#Gameplay_2)
+:::
 
 ## [ Historical introduction ]{#Historical_introduction .mw-headline}
 
@@ -177,7 +189,7 @@ are quite strong. As with other colonies, the makers of the game have
 also taken some liberty as to the makeup of the Congo - awkward manpower
 and resource distribution and such.
 
-### [ A warning for the handyman - modding and this guide ]{#A*warning_for_the_handyman*-\_modding_and_this_guide .mw-headline}
+### [ A warning for the handyman - modding and this guide ]{#A_warning_for_the_handyman_-_modding_and_this_guide .mw-headline}
 
 This guide was written without using any mods, or without doing some
 tweaks by myself (think upping the manpower production for some
@@ -274,7 +286,7 @@ The first guide will detail a game wherein Belgium holds it ground in
 Europe, thus keeping France from falling, and in effect stopping the
 German war-machine before it even starts rolling.
 
-##### [ Slow ride - 1936 through 1938 ]{#Slow*ride*-\_1936_through_1938 .mw-headline}
+##### [ Slow ride - 1936 through 1938 ]{#Slow_ride_-_1936_through_1938 .mw-headline}
 
 At first, you won\'t be doing a lot of fun things - I suggest getting a
 book to read through the waiting periods.
@@ -300,7 +312,8 @@ building later on.
 
 ##### [ Fortress Belgium ]{#Fortress_Belgium .mw-headline}
 
-If you played it out well, you should have ten extra base ic by mid 1938. Now use all your newfound ic to build 10 land forts in Ghent,
+If you played it out well, you should have ten extra base ic by mid
+1938. Now use all your newfound ic to build 10 land forts in Ghent,
 Antwerp, Liège (already has two) and Arlon. They will be completed one
 month befor the German invasion, if you are able to funnel enough ic
 into it. Also, put some of your extra ic into new infantry units. Spread

@@ -1,7 +1,6 @@
 ---
 title: DAIM
 ---
-
 ::: mw-parser-output
 DAIM stands for \"Determined AI Modification\" and is a mod that solely
 focuses on improving the AI. This is accomplished by ensuring the AI
@@ -12,12 +11,12 @@ Japan, Great Britain, Soviet Union, U.S.A. and Nationalist China. DAIM
 can be adapted to other mods, since it only changes a select few AI
 files.
 
-- Mod Forum:
-  [DAIM](https://forum.paradoxplaza.com/forum/index.php?forums/daim.298/){.external
-  .text rel="nofollow"}
-- Current Version: (does not use versioning)
-- Last Update: April, 2007
-- Popularity: _1,000 - 5,000 posts_
-- Compatibility: [HOI2, DD,
-  ARMA](/wiki/Abbreviations#H "Abbreviations")
-  :::
+-   Mod Forum:
+    [DAIM](https://forum.paradoxplaza.com/forum/index.php?forums/daim.298/){.external
+    .text rel="nofollow"}
+-   Current Version: (does not use versioning)
+-   Last Update: April, 2007
+-   Popularity: *1,000 - 5,000 posts*
+-   Compatibility: [HOI2, DD,
+    ARMA](/wiki/Abbreviations#H "Abbreviations")
+:::

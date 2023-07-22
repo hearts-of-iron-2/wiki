@@ -1,9 +1,7 @@
 ---
 title: Event_ID_Ranges
 ---
-
 ::: mw-parser-output
-
 ## [ Key ]{#Key .mw-headline}
 
 The Bolded word is the file events are in(IE: Deaths =

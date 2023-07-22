@@ -1,7 +1,6 @@
 ---
 title: Poland
 ---
-
 ::: mw-parser-output
 ::: {.eu4box style="width:330px; height:auto; float:right; clear:right"}
 ::: heading
@@ -14,7 +13,7 @@ title: Poland
 [Major powers](/wiki/Major_power "Major power"){.mw-redirect}
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [France](/wiki/France "France")\
@@ -30,7 +29,7 @@ title: Poland
 Regional powers
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [Argentina](/wiki/Argentina "Argentina")\
@@ -58,7 +57,7 @@ Regional powers
 [Minor powers](/wiki/Minor_power "Minor power"){.mw-redirect}
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [Austria](/wiki/Austria "Austria")\
@@ -81,7 +80,7 @@ Regional powers
 [Micro powers](/wiki/Micro_power "Micro power"){.mw-redirect}
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [Afghanistan](/wiki/Afghanistan "Afghanistan")\
@@ -131,42 +130,46 @@ Arabia](/wiki/index.php?title=Saudi_Arabia&action=edit&redlink=1 "Saudi Arabia (
 
 ::: {#toc .toc aria-labelledby="mw-toc-heading" role="navigation"}
 ::: {.toctitle dir="ltr" lang="en"}
-
 ## Contents {#mw-toc-heading}
 
 [ ]{.toctogglespan}
 :::
 
-- [[ 1 ]{.tocnumber} [ Background ]{.toctext}](#Background)
-- [[ 2 ]{.tocnumber} [ Tricks ]{.toctext}](#Tricks)
-  - [[ 2.1 ]{.tocnumber} [ Make Friends and Influence Countries
-    ]{.toctext}](#Make_Friends_and_Influence_Countries)
-  - [[ 2.2 ]{.tocnumber} [ Demand Territory
-    ]{.toctext}](#Demand_Territory)
-  - [[ 2.3 ]{.tocnumber} [ Early Alliance and an Overseas Haven
-    ]{.toctext}](#Early_Alliance_and_an_Overseas_Haven)
-  - [[ 2.4 ]{.tocnumber} [ Fortress Warsaw
-    ]{.toctext}](#Fortress_Warsaw)
-  - [[ 2.5 ]{.tocnumber} [ The Polish Congo
-    ]{.toctext}](#The_Polish_Congo)
-  - [[ 2.6 ]{.tocnumber} [ Polish Ireland
-    ]{.toctext}](#Polish_Ireland)
-- [[ 3 ]{.tocnumber} [ Walkthrough for 1936 Scenario
-  ]{.toctext}](#Walkthrough_for_1936_Scenario)
-  - [[ 3.1 ]{.tocnumber} [ Peace Time ]{.toctext}](#Peace_Time)
-  - [[ 3.2 ]{.tocnumber} [ Troop Placement
-    ]{.toctext}](#Troop_Placement)
-  - [[ 3.3 ]{.tocnumber} [ Danzig or War!
-    ]{.toctext}](#Danzig_or_War.21)
-  - [[ 3.4 ]{.tocnumber} [ Slovakia ]{.toctext}](#Slovakia)
-  - [[ 3.5 ]{.tocnumber} [ Germany ]{.toctext}](#Germany)
-  - [[ 3.6 ]{.tocnumber} [ Soviet Union ]{.toctext}](#Soviet_Union)
-- [[ 4 ]{.tocnumber} [ Walkthrough for 1936: Option 2
-  ]{.toctext}](#Walkthrough_for_1936:_Option_2) - [[ 4.1 ]{.tocnumber} [ Jan 1 1936 ]{.toctext}](#Jan_1_1936) - [[ 4.2 ]{.tocnumber} [ Jan 2 1936 ]{.toctext}](#Jan_2_1936) - [[ 4.3 ]{.tocnumber} [ End of Feb 1936
-  ]{.toctext}](#End_of_Feb_1936) - [[ 4.4 ]{.tocnumber} [ Apr to July 1936
-  ]{.toctext}](#Apr_to_July_1936) - [[ 4.5 ]{.tocnumber} [ Post Dec 1936
-  ]{.toctext}](#Post_Dec_1936)
-  :::
+-   [[ 1 ]{.tocnumber} [ Background ]{.toctext}](#Background)
+-   [[ 2 ]{.tocnumber} [ Tricks ]{.toctext}](#Tricks)
+    -   [[ 2.1 ]{.tocnumber} [ Make Friends and Influence Countries
+        ]{.toctext}](#Make_Friends_and_Influence_Countries)
+    -   [[ 2.2 ]{.tocnumber} [ Demand Territory
+        ]{.toctext}](#Demand_Territory)
+    -   [[ 2.3 ]{.tocnumber} [ Early Alliance and an Overseas Haven
+        ]{.toctext}](#Early_Alliance_and_an_Overseas_Haven)
+    -   [[ 2.4 ]{.tocnumber} [ Fortress Warsaw
+        ]{.toctext}](#Fortress_Warsaw)
+    -   [[ 2.5 ]{.tocnumber} [ The Polish Congo
+        ]{.toctext}](#The_Polish_Congo)
+    -   [[ 2.6 ]{.tocnumber} [ Polish Ireland
+        ]{.toctext}](#Polish_Ireland)
+-   [[ 3 ]{.tocnumber} [ Walkthrough for 1936 Scenario
+    ]{.toctext}](#Walkthrough_for_1936_Scenario)
+    -   [[ 3.1 ]{.tocnumber} [ Peace Time ]{.toctext}](#Peace_Time)
+    -   [[ 3.2 ]{.tocnumber} [ Troop Placement
+        ]{.toctext}](#Troop_Placement)
+    -   [[ 3.3 ]{.tocnumber} [ Danzig or War!
+        ]{.toctext}](#Danzig_or_War.21)
+    -   [[ 3.4 ]{.tocnumber} [ Slovakia ]{.toctext}](#Slovakia)
+    -   [[ 3.5 ]{.tocnumber} [ Germany ]{.toctext}](#Germany)
+    -   [[ 3.6 ]{.tocnumber} [ Soviet Union ]{.toctext}](#Soviet_Union)
+-   [[ 4 ]{.tocnumber} [ Walkthrough for 1936: Option 2
+    ]{.toctext}](#Walkthrough_for_1936:_Option_2)
+    -   [[ 4.1 ]{.tocnumber} [ Jan 1 1936 ]{.toctext}](#Jan_1_1936)
+    -   [[ 4.2 ]{.tocnumber} [ Jan 2 1936 ]{.toctext}](#Jan_2_1936)
+    -   [[ 4.3 ]{.tocnumber} [ End of Feb 1936
+        ]{.toctext}](#End_of_Feb_1936)
+    -   [[ 4.4 ]{.tocnumber} [ Apr to July 1936
+        ]{.toctext}](#Apr_to_July_1936)
+    -   [[ 4.5 ]{.tocnumber} [ Post Dec 1936
+        ]{.toctext}](#Post_Dec_1936)
+:::
 
 ## [ Background ]{#Background .mw-headline}
 
@@ -178,8 +181,8 @@ hearted and inexperienced player.
 
 Do not bother playing Poland if:
 
-- Germany is human controlled.
-- You are new to this game.
+-   Germany is human controlled.
+-   You are new to this game.
 
 ## [ Tricks ]{#Tricks .mw-headline}
 
@@ -316,10 +319,10 @@ of researching Armor & Artillery, Naval, Naval Doctrine and Secret
 Weapon. Think twice before researching anything in aircraft and air
 doctrine.
 
-- Industrial: manufacturing, agriculture and cryptography.
-- Infantry: standard infantry, cavalry and supply.
-- Air: you may consider researching interceptor although it is
-  difficult to produce enough of them to make a difference.
+-   Industrial: manufacturing, agriculture and cryptography.
+-   Infantry: standard infantry, cavalry and supply.
+-   Air: you may consider researching interceptor although it is
+    difficult to produce enough of them to make a difference.
 
 **Trades**
 
@@ -328,10 +331,10 @@ amount of resources and will give you the best deals.
 
 **Ministers**
 
-- Armaments Minister: use the person who gives +10% IC
-- Head of Intelligence: during peace time, you may want the person
-  with +30% intelligence. However make sure before war to replace him
-  with minister that gives bonus of +30% army intelligence.
+-   Armaments Minister: use the person who gives +10% IC
+-   Head of Intelligence: during peace time, you may want the person
+    with +30% intelligence. However make sure before war to replace him
+    with minister that gives bonus of +30% army intelligence.
 
 ### [ Troop Placement ]{#Troop_Placement .mw-headline}
 
@@ -403,7 +406,7 @@ hold any invasion plan on USSR for a while. However, you may want to
 demand territory from the Soviets. If you are lucky, you will gain free
 territories where you have claim.
 
-## [ Walkthrough for 1936: Option 2 ]{#Walkthrough_for_1936:\_Option_2 .mw-headline}
+## [ Walkthrough for 1936: Option 2 ]{#Walkthrough_for_1936:_Option_2 .mw-headline}
 
 This requires to attack from the word Go. It is easier to implement than
 the walkthrough above as Germany does not have time for military
@@ -501,7 +504,8 @@ a six unit troop back from the main war to polish up.
 Control partisian activity as you go along. The hardest part came at the
 end, where I had to defeat the German troops at the Franco-German
 border, which is heavily fortified. This was done one province at a
-time, and after a few heart stopping moments, I annexed Germany in Dec 1936.
+time, and after a few heart stopping moments, I annexed Germany in Dec
+1936.
 
 ### [ Post Dec 1936 ]{#Post_Dec_1936 .mw-headline}
 

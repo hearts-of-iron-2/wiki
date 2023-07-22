@@ -1,31 +1,29 @@
 ---
 title: Conquering_-_What_do_I_gain?
 ---
-
 ::: mw-parser-output
 [Template:Anthology](/wiki/index.php?title=Template:Anthology&action=edit&redlink=1 "Template:Anthology (page does not exist)"){.new}
 
 ::: {#toc .toc aria-labelledby="mw-toc-heading" role="navigation"}
 ::: {.toctitle dir="ltr" lang="en"}
-
 ## Contents {#mw-toc-heading}
 
 [ ]{.toctogglespan}
 :::
 
-- [[ 1 ]{.tocnumber} [ Importance of National Provinces
-  ]{.toctext}](#Importance_of_National_Provinces)
-- [[ 2 ]{.tocnumber} [ How Do You See What Your National Provinces Are
-  ]{.toctext}](#How_Do_You_See_What_Your_National_Provinces_Are)
-- [[ 3 ]{.tocnumber} [ Industrial Capacity
-  ]{.toctext}](#Industrial_Capacity)
-- [[ 4 ]{.tocnumber} [ Resources ]{.toctext}](#Resources)
-- [[ 5 ]{.tocnumber} [ Manpower ]{.toctext}](#Manpower)
-- [[ 6 ]{.tocnumber} [ Partisans ]{.toctext}](#Partisans)
-- [[ 7 ]{.tocnumber} [ Puppets ]{.toctext}](#Puppets)
-- [[ 8 ]{.tocnumber} [ Colonies ]{.toctext}](#Colonies)
-- [[ 9 ]{.tocnumber} [ \\db\\misc.txt ]{.toctext}](#.5Cdb.5Cmisc.txt)
-  :::
+-   [[ 1 ]{.tocnumber} [ Importance of National Provinces
+    ]{.toctext}](#Importance_of_National_Provinces)
+-   [[ 2 ]{.tocnumber} [ How Do You See What Your National Provinces Are
+    ]{.toctext}](#How_Do_You_See_What_Your_National_Provinces_Are)
+-   [[ 3 ]{.tocnumber} [ Industrial Capacity
+    ]{.toctext}](#Industrial_Capacity)
+-   [[ 4 ]{.tocnumber} [ Resources ]{.toctext}](#Resources)
+-   [[ 5 ]{.tocnumber} [ Manpower ]{.toctext}](#Manpower)
+-   [[ 6 ]{.tocnumber} [ Partisans ]{.toctext}](#Partisans)
+-   [[ 7 ]{.tocnumber} [ Puppets ]{.toctext}](#Puppets)
+-   [[ 8 ]{.tocnumber} [ Colonies ]{.toctext}](#Colonies)
+-   [[ 9 ]{.tocnumber} [ \\db\\misc.txt ]{.toctext}](#.5Cdb.5Cmisc.txt)
+:::
 
 ## [ Importance of National Provinces ]{#Importance_of_National_Provinces .mw-headline}
 

@@ -1,7 +1,6 @@
 ---
 title: Amphibious_assault
 ---
-
 ::: mw-parser-output
 [Template:Anthology](/wiki/index.php?title=Template:Anthology&action=edit&redlink=1 "Template:Anthology (page does not exist)"){.new}
 
@@ -17,21 +16,20 @@ overview.
 
 ::: {#toc .toc aria-labelledby="mw-toc-heading" role="navigation"}
 ::: {.toctitle dir="ltr" lang="en"}
-
 ## Contents {#mw-toc-heading}
 
 [ ]{.toctogglespan}
 :::
 
-- [[ 1 ]{.tocnumber} [ Amphibious Assault Efficiency
-  ]{.toctext}](#Amphibious_Assault_Efficiency)
-- [[ 2 ]{.tocnumber} [ Best units for a landing
-  ]{.toctext}](#Best_units_for_a_landing)
-- [[ 3 ]{.tocnumber} [ Planning the landing
-  ]{.toctext}](#Planning_the_landing)
-- [[ 4 ]{.tocnumber} [ Changes with Armageddon 1.3 Beta
-  ]{.toctext}](#Changes_with_Armageddon_1.3_Beta)
-  :::
+-   [[ 1 ]{.tocnumber} [ Amphibious Assault Efficiency
+    ]{.toctext}](#Amphibious_Assault_Efficiency)
+-   [[ 2 ]{.tocnumber} [ Best units for a landing
+    ]{.toctext}](#Best_units_for_a_landing)
+-   [[ 3 ]{.tocnumber} [ Planning the landing
+    ]{.toctext}](#Planning_the_landing)
+-   [[ 4 ]{.tocnumber} [ Changes with Armageddon 1.3 Beta
+    ]{.toctext}](#Changes_with_Armageddon_1.3_Beta)
+:::
 
 ### [ Amphibious Assault Efficiency ]{#Amphibious_Assault_Efficiency .mw-headline}
 
@@ -43,7 +41,7 @@ stacking limit exists. For Doomsday, the limit is 3 divisions, for
 Armageddon, the limit depends on your naval doctrines and can be between
 3 and 8 (for the [Base Strike](/wiki/Base_Strike "Base Strike") 1952
 tech). Every unit over this limit will decrease the combat effectiveness
-of _all units_ by 10%, cumulatively. For example, let\'s say the command
+of *all units* by 10%, cumulatively. For example, let\'s say the command
 limit is 3. If you attack with 3 divisions, all attack with 100%
 efficiency. If you attack with 4, all four will attack at 90%
 efficiency. If you should chose to attack with 12 divisions, all units
@@ -60,7 +58,7 @@ will demonstrate this for a stacking limit of 3.
 
 ` `
 
-    Units Eff/unit Total Eff 1 100 100 2 100 200 3 100 300 4 90 360 5 80 400 6 70 420* 7 60 420* 8 50 400 9 40 360
+    Units Eff/unit Total Eff 1 100 100 2 100 200 3 100 300 4 90 360 5 80 400 6 70 420* 7 60 420* 8 50 400 9 40 360 
 
 ` `
 
@@ -82,7 +80,7 @@ cheaper to build.
 have less difficulty participating in a landing. But consider, if you
 have paratroopers, these would be better used to stage a simultaneous
 drop-off over the beachhead for extra efficiency. Plain vanilla leg
-infantry will also be capable of an amphibious invasion. Do _not_ use
+infantry will also be capable of an amphibious invasion. Do *not* use
 Mechs, Mots, Arms or HQs, as these divisions have excessive amphibious
 landing penalties.
 
@@ -90,7 +88,7 @@ The amphibious landing penalties are reduced for each Marines tech
 researched. Even if you never plan to build marines and want to use Mnt
 or pure Inf in your landings, you should research the Marines techs, as
 the increased amphibious assault efficiency will make landings easier
-for _all_ unit types.
+for *all* unit types.
 
 As you would want to have as much firepower as possible during the
 attack, all units should be brigaded if you expect stiff resistance.
@@ -118,8 +116,8 @@ the counter-attacker!
 ### [ Planning the landing ]{#Planning_the_landing .mw-headline}
 
 Put together your landing force \-- preferably marines with artillery
-and load them onto your transports. An _Amphibious Assault_ mission is
-now active for the transports \-- do _not_ use it! It is bugged and can
+and load them onto your transports. An *Amphibious Assault* mission is
+now active for the transports \-- do *not* use it! It is bugged and can
 lead to lots of headaches. Instead, move the transports to a sea zone
 next to the province you want to attack. Click on the \"unload\" button
 of the transport fleet. Chose the units you want to use in the attack

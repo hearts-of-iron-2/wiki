@@ -1,10 +1,8 @@
 ---
 title: Anti-Submarine_Warfare_Group
 ---
-
 ::: mw-parser-output
-
-### [ ]{#Anti-Submarine*Warfare_Group*(ASW*Group)} [ [Anti-Submarine Warfare Group]{.mw-selflink .selflink} (ASW Group) ]{#Anti-Submarine_Warfare_Group*.28ASW_Group.29 .mw-headline}
+### [ ]{#Anti-Submarine_Warfare_Group_(ASW_Group)} [ [Anti-Submarine Warfare Group]{.mw-selflink .selflink} (ASW Group) ]{#Anti-Submarine_Warfare_Group_.28ASW_Group.29 .mw-headline}
 
 An **Anti-Submarine Warfare Group** is a group of ships whose role is to
 hunt and sink enemy [subs](/wiki/Submarine "Submarine") . Since the
@@ -19,7 +17,7 @@ late-game, it is very deadly.
 
 Best is smaller numbers for increased range:
 
-- 2 CVLs
-- 2 CLs
-- 4 DDs (possibly with ASW naval brigade)
-  :::
+-   2 CVLs
+-   2 CLs
+-   4 DDs (possibly with ASW naval brigade)
+:::

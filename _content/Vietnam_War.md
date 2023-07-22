@@ -1,7 +1,6 @@
 ---
 title: Vietnam_War
 ---
-
 ::: mw-parser-output
 **The Vietnam War version 5.0 by FRVP with Map, Final Version**\
 compatable with all versions! new map \~ new units \~ new music \~ new
@@ -68,8 +67,8 @@ go beyond 1964! For DD users only: You will need to unzip the VN_DD
 patch to your DD directory. For HOI2 users only: You will need to unzip
 the VN_HOI2 patch to your HOI2 directory.
 
-_Thanks to Jamie for his Map Maker and Hilsdorf and Strits1945 for their
-contributions!_ FRVP \~ Creator of Vietnam War Scenario
+*Thanks to Jamie for his Map Maker and Hilsdorf and Strits1945 for their
+contributions!* FRVP \~ Creator of Vietnam War Scenario
 
 **Download here, Enjoy!:**
 

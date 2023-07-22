@@ -1,7 +1,6 @@
 ---
 title: Canada
 ---
-
 ::: mw-parser-output
 ::: {.eu4box style="width:330px; height:auto; float:right; clear:right"}
 ::: heading
@@ -14,7 +13,7 @@ title: Canada
 [Major powers](/wiki/Major_power "Major power"){.mw-redirect}
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [France](/wiki/France "France")\
@@ -30,7 +29,7 @@ title: Canada
 Regional powers
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [Argentina](/wiki/Argentina "Argentina")\
@@ -58,7 +57,7 @@ Regional powers
 [Minor powers](/wiki/Minor_power "Minor power"){.mw-redirect}
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [Austria](/wiki/Austria "Austria")\
@@ -81,7 +80,7 @@ Regional powers
 [Micro powers](/wiki/Micro_power "Micro power"){.mw-redirect}
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [Afghanistan](/wiki/Afghanistan "Afghanistan")\
@@ -131,26 +130,25 @@ Arabia](/wiki/index.php?title=Saudi_Arabia&action=edit&redlink=1 "Saudi Arabia (
 
 ::: {#toc .toc aria-labelledby="mw-toc-heading" role="navigation"}
 ::: {.toctitle dir="ltr" lang="en"}
-
 ## Contents {#mw-toc-heading}
 
 [ ]{.toctogglespan}
 :::
 
-- [[ 1 ]{.tocnumber} [ Background ]{.toctext}](#Background)
-- [[ 2 ]{.tocnumber} [ Tips ]{.toctext}](#Tips)
-  - [[ 2.1 ]{.tocnumber} [ In the Beginning
-    ]{.toctext}](#In_the_Beginning)
-  - [[ 2.2 ]{.tocnumber} [ Research ]{.toctext}](#Research)
-  - [[ 2.3 ]{.tocnumber} [ Canadian Invasion
-    ]{.toctext}](#Canadian_Invasion)
-  - [[ 2.4 ]{.tocnumber} [ Portugec ]{.toctext}](#Portugec)
-  - [[ 2.5 ]{.tocnumber} [ South Canada ]{.toctext}](#South_Canada)
-  - [[ 2.6 ]{.tocnumber} [ The Rest ]{.toctext}](#The_Rest)
-  - [[ 2.7 ]{.tocnumber} [ US of C ]{.toctext}](#US_of_C)
-- [[ 3 ]{.tocnumber} [ Variation of War Against the States
-  ]{.toctext}](#Variation_of_War_Against_the_States)
-  :::
+-   [[ 1 ]{.tocnumber} [ Background ]{.toctext}](#Background)
+-   [[ 2 ]{.tocnumber} [ Tips ]{.toctext}](#Tips)
+    -   [[ 2.1 ]{.tocnumber} [ In the Beginning
+        ]{.toctext}](#In_the_Beginning)
+    -   [[ 2.2 ]{.tocnumber} [ Research ]{.toctext}](#Research)
+    -   [[ 2.3 ]{.tocnumber} [ Canadian Invasion
+        ]{.toctext}](#Canadian_Invasion)
+    -   [[ 2.4 ]{.tocnumber} [ Portugec ]{.toctext}](#Portugec)
+    -   [[ 2.5 ]{.tocnumber} [ South Canada ]{.toctext}](#South_Canada)
+    -   [[ 2.6 ]{.tocnumber} [ The Rest ]{.toctext}](#The_Rest)
+    -   [[ 2.7 ]{.tocnumber} [ US of C ]{.toctext}](#US_of_C)
+-   [[ 3 ]{.tocnumber} [ Variation of War Against the States
+    ]{.toctext}](#Variation_of_War_Against_the_States)
+:::
 
 ## [ Background ]{#Background .mw-headline}
 
@@ -170,19 +168,19 @@ obvious advantages in the game.
 
 Advantages:
 
-- Isolation from the actual war, separated by an ocean.
-- Huge number of allies.
-- Virtually no way of running out of resources.
-- Freedom of action
+-   Isolation from the actual war, separated by an ocean.
+-   Huge number of allies.
+-   Virtually no way of running out of resources.
+-   Freedom of action
 
 Disadvantages:
 
-- Very few men available
-- Low IC in the beginning
-- No army
-- No NAVY
-- Nothing to fight with in general
-- Only two research team slots at start
+-   Very few men available
+-   Low IC in the beginning
+-   No army
+-   No NAVY
+-   Nothing to fight with in general
+-   Only two research team slots at start
 
 You will most of the time depend on the UK to do the NAVY fighting for
 you as well as giving you basic land support, but everything else, such
@@ -284,9 +282,9 @@ see Lissabon, nice place. By now you should be about 55 or so in your
 ICs and can start making more divisions/do more research (extra team
 should be available). I would do as follows:
 
-- Team for research in industry
-- Team for infatry/marines/land doctrines
-- Team for armor
+-   Team for research in industry
+-   Team for infatry/marines/land doctrines
+-   Team for armor
 
 What\'s next? Let\'s go South!
 
@@ -296,9 +294,9 @@ Look at South America. You see those green lushes filled with riches and
 industry? Well, let\'s get them and turn them into bilingual(or
 trilingual) empire of Canada! Start with Mexico. Why Mexico?
 
-- It gives an extra entrance to USA
-- It has a UK province next to it, so you can either retreat there if
-  something goes bad or you can wait for UK support.
+-   It gives an extra entrance to USA
+-   It has a UK province next to it, so you can either retreat there if
+    something goes bad or you can wait for UK support.
 
 Land in Belize and strike from there. It helps a lot if you have marines
 by then. Marines will definitely cut through most mexicans like hot
@@ -353,40 +351,40 @@ but that only becomes possible if Soviets destroyed most German
 divisions and are quickly advancing toward Berlin. I\'d rather talk
 about the US invasion though. HOW TO:
 
-- Put several divisions in every province in Canada and Mexico
-- Anticipate your advance, but in general 30 divisions can take about
-  half of USA before US starts reacting. It thus becomes imperative to
-  take important provinces such as New York and Philadelphia first,
-  crippling their production and eliminating a possible counter
-  attack.
-- Mexican strike force will advance slowly, but you should have a tank
-  division going NW so that you can take most oil stations fast and
-  possibly secure the ports, getting rid of the pesky US NAVY.
-- Don\'t expect much UK help. Their NAVY has a big chance of
-  collapsing under the US pressure and it\'s most likely that US will
-  join the axis, but in any case, you should not stop no matter what.
-- US normally keeps only garrisoned troops on its soil and those
-  troops tend to be lower quality than your strike forces, so that
-  should cause a problem.
-- The problem arises from the troops that USA might be making and so
-  if you\'re not fast enough in capturing their land, you might be
-  faced with a huge army force.
-- You have about 3-4 months before the first new US divisions are made
-- Normally, US also keeps a bunch of divisions in the pacific and even
-  in the Hawaii, so you might have some trouble after all, but it
-  seems that AI tends not to move those divisions. It seems to be a
-  random event in a sense.
-- You won\'t be able to annex the US unless you take most key points
-  such as Hawaii, so make sure you secure the western coast, should
-  you be successful in your conquest.
-- If you ever manage to get any Navy going, try to take Hawaii and
-  maybe annex the states, otherwise just sit tight and let the Japs do
-  your job.
-- Whatever happens, keep your transports intact, don\'t move them
-  anywhere, they\'ll get slaughtered instantly.
-- Don\'t forget to take Alaska\...
-- If you\'ve succeeded, congratulations, this indeed was probably one
-  of the most difficult conquests possible during the WW2.
+-   Put several divisions in every province in Canada and Mexico
+-   Anticipate your advance, but in general 30 divisions can take about
+    half of USA before US starts reacting. It thus becomes imperative to
+    take important provinces such as New York and Philadelphia first,
+    crippling their production and eliminating a possible counter
+    attack.
+-   Mexican strike force will advance slowly, but you should have a tank
+    division going NW so that you can take most oil stations fast and
+    possibly secure the ports, getting rid of the pesky US NAVY.
+-   Don\'t expect much UK help. Their NAVY has a big chance of
+    collapsing under the US pressure and it\'s most likely that US will
+    join the axis, but in any case, you should not stop no matter what.
+-   US normally keeps only garrisoned troops on its soil and those
+    troops tend to be lower quality than your strike forces, so that
+    should cause a problem.
+-   The problem arises from the troops that USA might be making and so
+    if you\'re not fast enough in capturing their land, you might be
+    faced with a huge army force.
+-   You have about 3-4 months before the first new US divisions are made
+-   Normally, US also keeps a bunch of divisions in the pacific and even
+    in the Hawaii, so you might have some trouble after all, but it
+    seems that AI tends not to move those divisions. It seems to be a
+    random event in a sense.
+-   You won\'t be able to annex the US unless you take most key points
+    such as Hawaii, so make sure you secure the western coast, should
+    you be successful in your conquest.
+-   If you ever manage to get any Navy going, try to take Hawaii and
+    maybe annex the states, otherwise just sit tight and let the Japs do
+    your job.
+-   Whatever happens, keep your transports intact, don\'t move them
+    anywhere, they\'ll get slaughtered instantly.
+-   Don\'t forget to take Alaska\...
+-   If you\'ve succeeded, congratulations, this indeed was probably one
+    of the most difficult conquests possible during the WW2.
 
 ::: center
 ::: floatnone
@@ -397,7 +395,7 @@ Poster](/wiki/index.php?title=Special:Upload&wpDestFile=Pp_can_66.jpg "File:Pp c
 
 ## [ Variation of War Against the States ]{#Variation_of_War_Against_the_States .mw-headline}
 
-- Note: Hoi2 Armageddon 1.2
+-   Note: Hoi2 Armageddon 1.2
 
 In 1936, you should begin to focus on mainly Light Tank & Infantry
 research. The manpower techs will come later, once the US is occupied.

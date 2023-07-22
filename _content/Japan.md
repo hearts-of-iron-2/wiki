@@ -1,7 +1,6 @@
 ---
 title: Japan
 ---
-
 ::: mw-parser-output
 [File:Jap-topbar.JPG](/wiki/index.php?title=Special:Upload&wpDestFile=Jap-topbar.JPG "File:Jap-topbar.JPG"){.new}
 
@@ -16,7 +15,7 @@ title: Japan
 [Major powers](/wiki/Major_power "Major power"){.mw-redirect}
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [France](/wiki/France "France")\
@@ -32,7 +31,7 @@ title: Japan
 Regional powers
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [Argentina](/wiki/Argentina "Argentina")\
@@ -60,7 +59,7 @@ Regional powers
 [Minor powers](/wiki/Minor_power "Minor power"){.mw-redirect}
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [Austria](/wiki/Austria "Austria")\
@@ -83,7 +82,7 @@ Regional powers
 [Micro powers](/wiki/Micro_power "Micro power"){.mw-redirect}
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [Afghanistan](/wiki/Afghanistan "Afghanistan")\
@@ -133,85 +132,84 @@ Arabia](/wiki/index.php?title=Saudi_Arabia&action=edit&redlink=1 "Saudi Arabia (
 
 ::: {#toc .toc aria-labelledby="mw-toc-heading" role="navigation"}
 ::: {.toctitle dir="ltr" lang="en"}
-
 ## Contents {#mw-toc-heading}
 
 [ ]{.toctogglespan}
 :::
 
-- [[ 1 ]{.tocnumber} [ Overview ]{.toctext}](#Overview)
-- [[ 2 ]{.tocnumber} [ Technology ]{.toctext}](#Technology)
-- [[ 3 ]{.tocnumber} [ Diplomacy ]{.toctext}](#Diplomacy)
-  - [[ 3.1 ]{.tocnumber} [ Alliances ]{.toctext}](#Alliances)
-  - [[ 3.2 ]{.tocnumber} [ Sliders ]{.toctext}](#Sliders)
-  - [[ 3.3 ]{.tocnumber} [ Ministers ]{.toctext}](#Ministers)
-- [[ 4 ]{.tocnumber} [ Intelligence ]{.toctext}](#Intelligence)
-- [[ 5 ]{.tocnumber} [ Economy ]{.toctext}](#Economy)
-  - [[ 5.1 ]{.tocnumber} [ Trading ]{.toctext}](#Trading)
-  - [[ 5.2 ]{.tocnumber} [ Industrial Production
-    ]{.toctext}](#Industrial_Production)
-- [[ 6 ]{.tocnumber} [ Military ]{.toctext}](#Military)
-  - [[ 6.1 ]{.tocnumber} [ Army ]{.toctext}](#Army)
-  - [[ 6.2 ]{.tocnumber} [ Navy ]{.toctext}](#Navy)
-  - [[ 6.3 ]{.tocnumber} [ Air Force ]{.toctext}](#Air_Force)
-- [[ 7 ]{.tocnumber} [ Events ]{.toctext}](#Events)
-  - [[ 7.1 ]{.tocnumber} [ The 2-2-6 Incident
-    ]{.toctext}](#The_2-2-6_Incident)
-  - [[ 7.2 ]{.tocnumber} [ Anti-Comintern Pact
-    ]{.toctext}](#Anti-Comintern_Pact)
-  - [[ 7.3 ]{.tocnumber} [ Marco Polo Bridge Incident
-    ]{.toctext}](#Marco_Polo_Bridge_Incident)
-  - [[ 7.4 ]{.tocnumber} [ Panay Incident
-    ]{.toctext}](#Panay_Incident)
-  - [[ 7.5 ]{.tocnumber} [ Capture of Automedon
-    ]{.toctext}](#Capture_of_Automedon)
-  - [[ 7.6 ]{.tocnumber} [ The Fate of China
-    ]{.toctext}](#The_Fate_of_China)
-  - [[ 7.7 ]{.tocnumber} [ Changfukeng Incident
-    ]{.toctext}](#Changfukeng_Incident)
-  - [[ 7.8 ]{.tocnumber} [ Tri-Partitate Pact
-    ]{.toctext}](#Tri-Partitate_Pact)
-  - [[ 7.9 ]{.tocnumber} [ Nomonhan Incident
-    ]{.toctext}](#Nomonhan_Incident)
-  - [[ 7.10 ]{.tocnumber} [ Colonies of Vichy France
-    ]{.toctext}](#Colonies_of_Vichy_France)
-  - [[ 7.11 ]{.tocnumber} [ Pearl Harbor ]{.toctext}](#Pearl_Harbor)
-  - [[ 7.12 ]{.tocnumber} [ Japan pressures Siam
-    ]{.toctext}](#Japan_pressures_Siam)
-  - [[ 7.13 ]{.tocnumber} [ Siam aligns with Japan
-    ]{.toctext}](#Siam_aligns_with_Japan)
-- [[ 8 ]{.tocnumber} [ War ]{.toctext}](#War)
-  - [[ 8.1 ]{.tocnumber} [ Sino-Japan War
-    ]{.toctext}](#Sino-Japan_War)
-    - [[ 8.1.1 ]{.tocnumber} [ Partisans ]{.toctext}](#Partisans)
-    - [[ 8.1.2 ]{.tocnumber} [ Puppets ]{.toctext}](#Puppets)
-  - [[ 8.2 ]{.tocnumber} [ Japanese-Soviet War
-    ]{.toctext}](#Japanese-Soviet_War)
-  - [[ 8.3 ]{.tocnumber} [ Pacific War ]{.toctext}](#Pacific_War)
-  - [[ 8.4 ]{.tocnumber} [ Beyond the Pacific
-    ]{.toctext}](#Beyond_the_Pacific)
-    - [[ 8.4.1 ]{.tocnumber} [ Defensive Strategy
-      ]{.toctext}](#Defensive_Strategy)
-    - [[ 8.4.2 ]{.tocnumber} [ Soviet Far East Strategy
-      ]{.toctext}](#Soviet_Far_East_Strategy)
-    - [[ 8.4.3 ]{.tocnumber} [ US Mainland Strategy
-      ]{.toctext}](#US_Mainland_Strategy)
-- [[ 9 ]{.tocnumber} [ Gaming the System
-  ]{.toctext}](#Gaming_the_System)
-  - [[ 9.1 ]{.tocnumber} [ Colonies ]{.toctext}](#Colonies)
-    - [[ 9.1.1 ]{.tocnumber} [ Persio-Japan War
-      ]{.toctext}](#Persio-Japan_War)
-    - [[ 9.1.2 ]{.tocnumber} [ Congo-Japan War
-      ]{.toctext}](#Congo-Japan_War)
-    - [[ 9.1.3 ]{.tocnumber} [ Ireo-Japan War
-      ]{.toctext}](#Ireo-Japan_War)
-    - [[ 9.1.4 ]{.tocnumber} [ Advantages
-      ]{.toctext}](#Advantages)
-  - [[ 9.2 ]{.tocnumber} [ United Front Against Soviet Aggression
-    ]{.toctext}](#United_Front_Against_Soviet_Aggression)
-- [[ 10 ]{.tocnumber} [ Further strategy guides
-  ]{.toctext}](#Further_strategy_guides)
-  :::
+-   [[ 1 ]{.tocnumber} [ Overview ]{.toctext}](#Overview)
+-   [[ 2 ]{.tocnumber} [ Technology ]{.toctext}](#Technology)
+-   [[ 3 ]{.tocnumber} [ Diplomacy ]{.toctext}](#Diplomacy)
+    -   [[ 3.1 ]{.tocnumber} [ Alliances ]{.toctext}](#Alliances)
+    -   [[ 3.2 ]{.tocnumber} [ Sliders ]{.toctext}](#Sliders)
+    -   [[ 3.3 ]{.tocnumber} [ Ministers ]{.toctext}](#Ministers)
+-   [[ 4 ]{.tocnumber} [ Intelligence ]{.toctext}](#Intelligence)
+-   [[ 5 ]{.tocnumber} [ Economy ]{.toctext}](#Economy)
+    -   [[ 5.1 ]{.tocnumber} [ Trading ]{.toctext}](#Trading)
+    -   [[ 5.2 ]{.tocnumber} [ Industrial Production
+        ]{.toctext}](#Industrial_Production)
+-   [[ 6 ]{.tocnumber} [ Military ]{.toctext}](#Military)
+    -   [[ 6.1 ]{.tocnumber} [ Army ]{.toctext}](#Army)
+    -   [[ 6.2 ]{.tocnumber} [ Navy ]{.toctext}](#Navy)
+    -   [[ 6.3 ]{.tocnumber} [ Air Force ]{.toctext}](#Air_Force)
+-   [[ 7 ]{.tocnumber} [ Events ]{.toctext}](#Events)
+    -   [[ 7.1 ]{.tocnumber} [ The 2-2-6 Incident
+        ]{.toctext}](#The_2-2-6_Incident)
+    -   [[ 7.2 ]{.tocnumber} [ Anti-Comintern Pact
+        ]{.toctext}](#Anti-Comintern_Pact)
+    -   [[ 7.3 ]{.tocnumber} [ Marco Polo Bridge Incident
+        ]{.toctext}](#Marco_Polo_Bridge_Incident)
+    -   [[ 7.4 ]{.tocnumber} [ Panay Incident
+        ]{.toctext}](#Panay_Incident)
+    -   [[ 7.5 ]{.tocnumber} [ Capture of Automedon
+        ]{.toctext}](#Capture_of_Automedon)
+    -   [[ 7.6 ]{.tocnumber} [ The Fate of China
+        ]{.toctext}](#The_Fate_of_China)
+    -   [[ 7.7 ]{.tocnumber} [ Changfukeng Incident
+        ]{.toctext}](#Changfukeng_Incident)
+    -   [[ 7.8 ]{.tocnumber} [ Tri-Partitate Pact
+        ]{.toctext}](#Tri-Partitate_Pact)
+    -   [[ 7.9 ]{.tocnumber} [ Nomonhan Incident
+        ]{.toctext}](#Nomonhan_Incident)
+    -   [[ 7.10 ]{.tocnumber} [ Colonies of Vichy France
+        ]{.toctext}](#Colonies_of_Vichy_France)
+    -   [[ 7.11 ]{.tocnumber} [ Pearl Harbor ]{.toctext}](#Pearl_Harbor)
+    -   [[ 7.12 ]{.tocnumber} [ Japan pressures Siam
+        ]{.toctext}](#Japan_pressures_Siam)
+    -   [[ 7.13 ]{.tocnumber} [ Siam aligns with Japan
+        ]{.toctext}](#Siam_aligns_with_Japan)
+-   [[ 8 ]{.tocnumber} [ War ]{.toctext}](#War)
+    -   [[ 8.1 ]{.tocnumber} [ Sino-Japan War
+        ]{.toctext}](#Sino-Japan_War)
+        -   [[ 8.1.1 ]{.tocnumber} [ Partisans ]{.toctext}](#Partisans)
+        -   [[ 8.1.2 ]{.tocnumber} [ Puppets ]{.toctext}](#Puppets)
+    -   [[ 8.2 ]{.tocnumber} [ Japanese-Soviet War
+        ]{.toctext}](#Japanese-Soviet_War)
+    -   [[ 8.3 ]{.tocnumber} [ Pacific War ]{.toctext}](#Pacific_War)
+    -   [[ 8.4 ]{.tocnumber} [ Beyond the Pacific
+        ]{.toctext}](#Beyond_the_Pacific)
+        -   [[ 8.4.1 ]{.tocnumber} [ Defensive Strategy
+            ]{.toctext}](#Defensive_Strategy)
+        -   [[ 8.4.2 ]{.tocnumber} [ Soviet Far East Strategy
+            ]{.toctext}](#Soviet_Far_East_Strategy)
+        -   [[ 8.4.3 ]{.tocnumber} [ US Mainland Strategy
+            ]{.toctext}](#US_Mainland_Strategy)
+-   [[ 9 ]{.tocnumber} [ Gaming the System
+    ]{.toctext}](#Gaming_the_System)
+    -   [[ 9.1 ]{.tocnumber} [ Colonies ]{.toctext}](#Colonies)
+        -   [[ 9.1.1 ]{.tocnumber} [ Persio-Japan War
+            ]{.toctext}](#Persio-Japan_War)
+        -   [[ 9.1.2 ]{.tocnumber} [ Congo-Japan War
+            ]{.toctext}](#Congo-Japan_War)
+        -   [[ 9.1.3 ]{.tocnumber} [ Ireo-Japan War
+            ]{.toctext}](#Ireo-Japan_War)
+        -   [[ 9.1.4 ]{.tocnumber} [ Advantages
+            ]{.toctext}](#Advantages)
+    -   [[ 9.2 ]{.tocnumber} [ United Front Against Soviet Aggression
+        ]{.toctext}](#United_Front_Against_Soviet_Aggression)
+-   [[ 10 ]{.tocnumber} [ Further strategy guides
+    ]{.toctext}](#Further_strategy_guides)
+:::
 
 ## [ Overview ]{#Overview .mw-headline}
 
@@ -227,25 +225,25 @@ and if successful far beyond.
 
 ## [ Technology ]{#Technology .mw-headline}
 
-- Industrial: Japan\'s highest priority are techs that boost IC, IC
-  efficiency, production time and research efficiency. Generally, oil
-  conversion techs are also important due to Japans lack of this
-  resource. Try to always be a step ahead with decryption and
-  encryption techs, as these will help you win naval battles. Manpower
-  techs might be good, but if you choose to rely on puppets to supply
-  the bulk of your infantry, these techs can be safely ignored until
-  later in the war.
-- Infantry: Good infantry and marines are essential, while cavalry and
-  mountaineers are good but not necessary. Japan do begin with quite a
-  few cavalry divisions, and it might be worthwhile keeping them up to
-  date.
-- Air force: Fighters and tactical and naval bombers are most
-  important due to the great ranges necessary in Asia and the Pacific,
-  but you can also build airfields near expected fronts and research
-  interceptors and CAS.
-- Navy: Aircraft Carriers and up-to-date support ships are a must,
-  with Admiral Isoroku Yamamoto Japan can easily rival the US in
-  leading the world in Naval Doctrine techs.
+-   Industrial: Japan\'s highest priority are techs that boost IC, IC
+    efficiency, production time and research efficiency. Generally, oil
+    conversion techs are also important due to Japans lack of this
+    resource. Try to always be a step ahead with decryption and
+    encryption techs, as these will help you win naval battles. Manpower
+    techs might be good, but if you choose to rely on puppets to supply
+    the bulk of your infantry, these techs can be safely ignored until
+    later in the war.
+-   Infantry: Good infantry and marines are essential, while cavalry and
+    mountaineers are good but not necessary. Japan do begin with quite a
+    few cavalry divisions, and it might be worthwhile keeping them up to
+    date.
+-   Air force: Fighters and tactical and naval bombers are most
+    important due to the great ranges necessary in Asia and the Pacific,
+    but you can also build airfields near expected fronts and research
+    interceptors and CAS.
+-   Navy: Aircraft Carriers and up-to-date support ships are a must,
+    with Admiral Isoroku Yamamoto Japan can easily rival the US in
+    leading the world in Naval Doctrine techs.
 
 See a complete listing of all [Japanese Tech
 Teams](/wiki/Japanese_Tech_Team "Japanese Tech Team"){.mw-redirect} .
@@ -265,7 +263,8 @@ Japan does not typically join the Axis.
 ### [ Sliders ]{#Sliders .mw-headline}
 
 Japan receives several free slider moves. Assuming a historical
-direction, Japan will have 6 hawk moves and 6 interventionism moves by 1939. Since only 2 of each are needed in 1936, both can be safely
+direction, Japan will have 6 hawk moves and 6 interventionism moves by
+1939. Since only 2 of each are needed in 1936, both can be safely
 ignored. Therefore, early slider moves are best towards Central
 Planning, which will provide immediate IC bonuses. With Central Planning
 maxxed by 1937, in 1938 slider moves should drive towards Standing Army.
@@ -276,24 +275,24 @@ Japan begins the game with decent ministers, but fortunately a good pool
 of alternatives. If Japan will listen to the demands after the 2-2-6
 incident, no initial minister changes are worthwhile.
 
-- **Chief of the Army:** Satoru provides a -15% supply consumption
-  bonus
-- **Head of Intelligence:** Shiro provides a +5% IC bonus
-- **Armaments Minister:** Gotaro provides a +5% IC bonus, and +10%
-  industrial research bonus
+-   **Chief of the Army:** Satoru provides a -15% supply consumption
+    bonus
+-   **Head of Intelligence:** Shiro provides a +5% IC bonus
+-   **Armaments Minister:** Gotaro provides a +5% IC bonus, and +10%
+    industrial research bonus
 
 Before the Sino-Japanese war begins in the summer of 1937, minister
 changes are essentially \"free\" due to the reduction of dissent the war
 causes. Changes can include:
 
-- **Armaments Minister:** Kazue provides +20% supplies
-- **Chief of the Army:** Satoru provides a -15% supply consumption
-  bonus
-- **Chef of the Navy:** Jisaburo provides a minor carrier defensive
-  bonus
-- **Chief of Staff:** Tashiro provides a +20% org regain
-- **Minister of Security:** Keisuke provides +15% foreign IC use,
-  while Kesago provides manpower bonuses.
+-   **Armaments Minister:** Kazue provides +20% supplies
+-   **Chief of the Army:** Satoru provides a -15% supply consumption
+    bonus
+-   **Chef of the Navy:** Jisaburo provides a minor carrier defensive
+    bonus
+-   **Chief of Staff:** Tashiro provides a +20% org regain
+-   **Minister of Security:** Keisuke provides +15% foreign IC use,
+    while Kesago provides manpower bonuses.
 
 ## [ Intelligence ]{#Intelligence .mw-headline}
 
@@ -311,14 +310,14 @@ which accurately reflects Japan\'s enormous reliance on foreign holdings
 to support its nascent industry. Japan\'s best trading partners are, in
 order:
 
-- USA: Japan\'s best trade partner before war. Trading the USA for
-  money is a great way to free-up IC used on consumer goods.
-- Siam: Favorable trades, but not much to trade.
-- Germany
-- Italy
-- Turkey
-- Soviet Union
-- France
+-   USA: Japan\'s best trade partner before war. Trading the USA for
+    money is a great way to free-up IC used on consumer goods.
+-   Siam: Favorable trades, but not much to trade.
+-   Germany
+-   Italy
+-   Turkey
+-   Soviet Union
+-   France
 
 ### [ Industrial Production ]{#Industrial_Production .mw-headline}
 
@@ -410,14 +409,14 @@ first place.
 
 This event occurs on February 25, 1936:
 
-- Crush this coup: Gain 1 dissent, 1 move to interventionism, 3 to
-  democratic, 4 to political left, and 1 to closed society. Remain
-  Paternal Autocrat.
-- Listen to their demands: Gain 3 dissent, 2 moves to interventionism,
-  3 to authoritarian, 3 to political right, 3 to closed society, 1 to
-  hawk lobby. Become a National Socialist nation. Minister changes
-  include Shiro to Head of Intelligence, and the loss of Social
-  Conservative ministers such as Gataro.
+-   Crush this coup: Gain 1 dissent, 1 move to interventionism, 3 to
+    democratic, 4 to political left, and 1 to closed society. Remain
+    Paternal Autocrat.
+-   Listen to their demands: Gain 3 dissent, 2 moves to interventionism,
+    3 to authoritarian, 3 to political right, 3 to closed society, 1 to
+    hawk lobby. Become a National Socialist nation. Minister changes
+    include Shiro to Head of Intelligence, and the loss of Social
+    Conservative ministers such as Gataro.
 
 For a normal game, listening to demands is a far more powerful choice,
 though as the game progresses a subsequent series of coups will cause
@@ -429,8 +428,8 @@ the choice made here.
 Beginning in January, 1937, Germany will likely seek agreement in the
 anti-comintern pact. If it does, Japan has the following options:
 
-- Sign the Pact: move 1 authoritarian, 1 interventionism.
-- move 1 isolationism
+-   Sign the Pact: move 1 authoritarian, 1 interventionism.
+-   move 1 isolationism
 
 ### [ Marco Polo Bridge Incident ]{#Marco_Polo_Bridge_Incident .mw-headline}
 
@@ -438,51 +437,51 @@ This event is among the most important events for Japan, as it signals
 the beginning of the Sino-Japanese war. The event may fire anytime
 between June 1, 1937 and August 29, 1937.
 
-- Teach the Chinese a Lesson: War with China. Loose 10 dissent, gain 1
-  interventionism, 2 moves to hawk, 50 new manpower.
-- We Cannot Afford a War: Gain 3 dissent, move 1 to dove lobby, and 1
-  to isolationism.
+-   Teach the Chinese a Lesson: War with China. Loose 10 dissent, gain 1
+    interventionism, 2 moves to hawk, 50 new manpower.
+-   We Cannot Afford a War: Gain 3 dissent, move 1 to dove lobby, and 1
+    to isolationism.
 
 ### [ Panay Incident ]{#Panay_Incident .mw-headline}
 
 After the Nanjing Massacre, the Japanese attack US vessels:
 
-- Compensation must be paid: Loose \$500, and 1 move to isolationism
-- Let them know fear: move 1 toward interventionism, loose 1 dissent,
-  gain 1% belligerence.
+-   Compensation must be paid: Loose \$500, and 1 move to isolationism
+-   Let them know fear: move 1 toward interventionism, loose 1 dissent,
+    gain 1% belligerence.
 
 ### [ Capture of Automedon ]{#Capture_of_Automedon .mw-headline}
 
 This event will occur sometime in 1940:
 
-- These documents are important: Gain 1 interventionism, 1 hawk, and
-  1000 oil
-- These documents are irrelevant: Move 1 isolationism, 1 dove lobby
+-   These documents are important: Gain 1 interventionism, 1 hawk, and
+    1000 oil
+-   These documents are irrelevant: Move 1 isolationism, 1 dove lobby
 
 ### [ The Fate of China ]{#The_Fate_of_China .mw-headline}
 
 After a Japanese victory against China, Japan has three options:
 
-- **Install a loyal puppet:** All existing Chinese warlords will be
-  annexed. Nationalist China will be recreated in part, with Japanese
-  holdings surrounding it. This is a powerful choice, and many players
-  see this as the most gamey choice: Nationalist China will provide
-  Japan an enormous number of free infantry.
-- **Carve up the Chinese lands:** Japan will recreate four Chinese
-  warlords as puppets, while Nationalist China will disappear. Each
-  puppet is larger than they were in 1936, but still relatively weak.
-  This is often considered the most historical option, since Japan did
-  historically create two puppet enclaves. This option also prevents
-  any one puppet from being ridiculously strong, while still being
-  strong enough to provide Japan with some assistance.
-- **Total occupation:** Japan will automatically annex all
-  adversaries, with the exception of Sinkiang, and gain 3 dissent.
-  Japan gains a total of 34 base IC with this option. In HoI2 and
-  Doomsday, the partisan activity in such a massive land mass will
-  seriously hurt Japan, and cripple Japanese
-  [TC](/wiki/TC "TC"){.mw-redirect} . In Armageddon, partisan activity
-  will disappear within 2 years, well in time for the war with the
-  Allies.
+-   **Install a loyal puppet:** All existing Chinese warlords will be
+    annexed. Nationalist China will be recreated in part, with Japanese
+    holdings surrounding it. This is a powerful choice, and many players
+    see this as the most gamey choice: Nationalist China will provide
+    Japan an enormous number of free infantry.
+-   **Carve up the Chinese lands:** Japan will recreate four Chinese
+    warlords as puppets, while Nationalist China will disappear. Each
+    puppet is larger than they were in 1936, but still relatively weak.
+    This is often considered the most historical option, since Japan did
+    historically create two puppet enclaves. This option also prevents
+    any one puppet from being ridiculously strong, while still being
+    strong enough to provide Japan with some assistance.
+-   **Total occupation:** Japan will automatically annex all
+    adversaries, with the exception of Sinkiang, and gain 3 dissent.
+    Japan gains a total of 34 base IC with this option. In HoI2 and
+    Doomsday, the partisan activity in such a massive land mass will
+    seriously hurt Japan, and cripple Japanese
+    [TC](/wiki/TC "TC"){.mw-redirect} . In Armageddon, partisan activity
+    will disappear within 2 years, well in time for the war with the
+    Allies.
 
 There is a way you can choose both of the first two options. Click
 \"Carve up the Chinese mainlands\" when you get the event, then go to
@@ -506,30 +505,30 @@ Beginning January, 1939, Germany will likely seek agreement in the
 Tri-Partiate Pact. This is a meaningless agreement in game terms. If
 Germany offers the pact, Japan has the following options:
 
-- Sign the Pact: Gain 10 money, 1 move to interventionism
-- This Pact is not Needed: Loose 10 money, move 1 isolationism.
+-   Sign the Pact: Gain 10 money, 1 move to interventionism
+-   This Pact is not Needed: Loose 10 money, move 1 isolationism.
 
 ### [ Nomonhan Incident ]{#Nomonhan_Incident .mw-headline}
 
 This will occur between May 11, 1939 and September 20, 1939.
 
-- We have lost this battle: Gain 1 dissent, loose 40 manpower, loose
-  1500 supplies, 1 step hawk.
-- This defeat must be avenged: War with the Soviet Union. Gain 1
-  dissent, loose 40 manpower, loose 1500 supplies, 2 steps hawk.
+-   We have lost this battle: Gain 1 dissent, loose 40 manpower, loose
+    1500 supplies, 1 step hawk.
+-   This defeat must be avenged: War with the Soviet Union. Gain 1
+    dissent, loose 40 manpower, loose 1500 supplies, 2 steps hawk.
 
 ### [ Colonies of Vichy France ]{#Colonies_of_Vichy_France .mw-headline}
 
 After Germany defeats France and creates Vichy, this event will fire
 (usually around June 26, 1941).
 
-- Demand Indochina: Inherit all of Indochina, receive four garrison
-  divisions.
-- Demand Airbases: Gain 3 militia divisions, and two territories in
-  Indochina.
-- Demand Indochina and Madagascar: It is very likely Vichy will refuse
-  this request. Otherwise, Japan will gain all of Indochina and
-  Madagascar.
+-   Demand Indochina: Inherit all of Indochina, receive four garrison
+    divisions.
+-   Demand Airbases: Gain 3 militia divisions, and two territories in
+    Indochina.
+-   Demand Indochina and Madagascar: It is very likely Vichy will refuse
+    this request. Otherwise, Japan will gain all of Indochina and
+    Madagascar.
 
 ### [ Pearl Harbor ]{#Pearl_Harbor .mw-headline}
 
@@ -538,21 +537,21 @@ the Surprise attack against Pearl Harbor or not.
 
 If you do so you get
 
-- Ambush Chance +30%
-- Air and naval surprise chance +40%
-- Land surprise chance + 20%
-- one move towards hawk lobby
+-   Ambush Chance +30%
+-   Air and naval surprise chance +40%
+-   Land surprise chance + 20%
+-   one move towards hawk lobby
 
 From now on there is a 10% chance every two months that the enemy
 recovers.
 
 If Japan carries out the surprise attack the USA get
 
-- -1 dissent
-- +3 hawk lobby
-- +4 interventionism
-- +250 manpower
-- +50 relations with UK
+-   -1 dissent
+-   +3 hawk lobby
+-   +4 interventionism
+-   +250 manpower
+-   +50 relations with UK
 
 So the benefit for Japan is relatively small, the benefit for the USA is
 huge. So consider carefully which option you choose, only a very fast
@@ -564,15 +563,15 @@ when at war with the USA.
 
 After the war with the Allies begins, this event will occur:
 
-- Lean on Siam: Siam joins the Japanese Alliance
-- Siam is Unimportant: No effect.
+-   Lean on Siam: Siam joins the Japanese Alliance
+-   Siam is Unimportant: No effect.
 
 ### [ Siam aligns with Japan ]{#Siam_aligns_with_Japan .mw-headline}
 
 In Armageddon this event fires as soon as Japan and Siam are in the same
 alliance, no matter how that happened:
 
-- Siam becomes puppet state of Japan
+-   Siam becomes puppet state of Japan
 
 ## [ War ]{#War .mw-headline}
 
@@ -657,19 +656,19 @@ Planning the war against the Allies is incredibly complex, far more than
 the planning required for any other nation. Specifically, Japan must
 develop distinct plans for:
 
-- Far West: formerly the border of Sinkiang, now Japan borders British
-  India and Pakistan. This presents the fastest opportunity to take
-  India.
-- South East Asia: Japanese border with British Burma. This is a
-  difficult border and movement will be slow.
-- Hong Kong: British stronghold
-- Malaysia: Enormous source of British rare materials, with almost no
-  defenses.
-- Indonesia: Annex the Netherlands government in exile after taking
-  just 7 VP territories, usually without any defenses.
-- Philippines: A US puppet close to the homeland.
-- Australia: A friendly harbor for US and British forces
-- Pacific Islands: Guam, Wake Island, Midway, Johnson Island & Hawaii
+-   Far West: formerly the border of Sinkiang, now Japan borders British
+    India and Pakistan. This presents the fastest opportunity to take
+    India.
+-   South East Asia: Japanese border with British Burma. This is a
+    difficult border and movement will be slow.
+-   Hong Kong: British stronghold
+-   Malaysia: Enormous source of British rare materials, with almost no
+    defenses.
+-   Indonesia: Annex the Netherlands government in exile after taking
+    just 7 VP territories, usually without any defenses.
+-   Philippines: A US puppet close to the homeland.
+-   Australia: A friendly harbor for US and British forces
+-   Pacific Islands: Guam, Wake Island, Midway, Johnson Island & Hawaii
 
 A veteran HoI2 player can achieve all these objectives as Japan in less
 than 6 months. In fact, the key to such sweeping success is extremely
@@ -708,18 +707,18 @@ provinces for annexation.
 After a complete conquest of the Pacific Theater, what will Japan do?
 Japan has three distinct options:
 
-- Defense: Defend all pacific islands captured, continue fleet
-  building, and see how long you can last against the US Navy. This is
-  the most realistic option.
-- Soviet War: Considering the Pacific War can be won by the summer of
-  1942, the German offensive against the Soviet Union has likely begun
-  to stall. This option is fairly realistic considering past tension
-  with the USSR. The Soviet far east, in particular, had long been
-  sought after by Japan, and the nation of Primorsk can be released.
-- USA mainland: This can be challenging, but also surprisingly easy.
-  The invasion route is simply: San Diego \--\> Panama \--\> New York.
-  Focus all efforts on the North Eastern USA, as that will hurt the US
-  the most.
+-   Defense: Defend all pacific islands captured, continue fleet
+    building, and see how long you can last against the US Navy. This is
+    the most realistic option.
+-   Soviet War: Considering the Pacific War can be won by the summer of
+    1942, the German offensive against the Soviet Union has likely begun
+    to stall. This option is fairly realistic considering past tension
+    with the USSR. The Soviet far east, in particular, had long been
+    sought after by Japan, and the nation of Primorsk can be released.
+-   USA mainland: This can be challenging, but also surprisingly easy.
+    The invasion route is simply: San Diego \--\> Panama \--\> New York.
+    Focus all efforts on the North Eastern USA, as that will hurt the US
+    the most.
 
 #### [ Defensive Strategy ]{#Defensive_Strategy .mw-headline}
 
@@ -804,11 +803,11 @@ Ma](/wiki/Xibei_San_Ma "Xibei San Ma") .
 
 ## [ Further strategy guides ]{#Further_strategy_guides .mw-headline}
 
-- [Colonial Empire An Alternative Strategy for
-  Japan](/wiki/Colonial_Empire_An_Alternative_Strategy_for_Japan "Colonial Empire An Alternative Strategy for Japan")
-  -- A strategy guide for Japan in the 1936 Campaign
-- [Japan Conquering the world - in Very Hard difficulty
-  level](/wiki/Japan_Conquering_the_world_-_in_Very_Hard_difficulty_level "Japan Conquering the world - in Very Hard difficulty level")
-  -- This is a strategy guide for playing an ahistorical way of
-  conquering the world.
-  :::
+-   [Colonial Empire An Alternative Strategy for
+    Japan](/wiki/Colonial_Empire_An_Alternative_Strategy_for_Japan "Colonial Empire An Alternative Strategy for Japan")
+    -- A strategy guide for Japan in the 1936 Campaign
+-   [Japan Conquering the world - in Very Hard difficulty
+    level](/wiki/Japan_Conquering_the_world_-_in_Very_Hard_difficulty_level "Japan Conquering the world - in Very Hard difficulty level")
+    -- This is a strategy guide for playing an ahistorical way of
+    conquering the world.
+:::

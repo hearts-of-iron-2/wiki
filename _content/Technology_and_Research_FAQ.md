@@ -1,33 +1,39 @@
 ---
 title: Technology_and_Research_FAQ
 ---
-
 ::: mw-parser-output
 ::: {#toc .toc aria-labelledby="mw-toc-heading" role="navigation"}
 ::: {.toctitle dir="ltr" lang="en"}
-
 ## Contents {#mw-toc-heading}
 
 [ ]{.toctogglespan}
 :::
 
-- [[ 1 ]{.tocnumber} [ Technology and Research
-  ]{.toctext}](#Technology_and_Research) - [[ 1.1 ]{.tocnumber} [ How many tech teams slots can a country
-  have?
-  ]{.toctext}](#How_many_tech_teams_slots_can_a_country_have.3F) - [[ 1.2 ]{.tocnumber} [ Why isn\'t Rolls-Royce in the game?
-  ]{.toctext}](#Why_isn.27t_Rolls-Royce_in_the_game.3F) - [[ 1.3 ]{.tocnumber} [ What effect does blueprint have?
-  ]{.toctext}](#What_effect_does_blueprint_have.3F) - [[ 1.4 ]{.tocnumber} [ What is the difference between blue and
-  red specialties?
-  ]{.toctext}](#What_is_the_difference_between_blue_and_red_specialties.3F) - [[ 1.5 ]{.tocnumber} [ Why the last part (fifth) of the research
-  sub-topic seem to take longer time than the others?
-  ]{.toctext}](#Why_the_last_part_.28fifth.29_of_the_research_sub-topic_seem_to_take_longer_time_than_the_others.3F) - [[ 1.6 ]{.tocnumber} [ What effect does it have if I have
-  research team with matching specialty with my research topic?
-  ]{.toctext}](#What_effect_does_it_have_if_I_have_research_team_with_matching_specialty_with_my_research_topic.3F) - [[ 1.7 ]{.tocnumber} [ What\'s the deal with oil conversion
-  techs?
-  ]{.toctext}](#What.27s_the_deal_with_oil_conversion_techs.3F) - [[ 1.8 ]{.tocnumber} [ What do Encryption/Decryption
-  technologies actually do?
-  ]{.toctext}](#What_do_Encryption.2FDecryption_technologies_actually_do.3F)
-  :::
+-   [[ 1 ]{.tocnumber} [ Technology and Research
+    ]{.toctext}](#Technology_and_Research)
+    -   [[ 1.1 ]{.tocnumber} [ How many tech teams slots can a country
+        have?
+        ]{.toctext}](#How_many_tech_teams_slots_can_a_country_have.3F)
+    -   [[ 1.2 ]{.tocnumber} [ Why isn\'t Rolls-Royce in the game?
+        ]{.toctext}](#Why_isn.27t_Rolls-Royce_in_the_game.3F)
+    -   [[ 1.3 ]{.tocnumber} [ What effect does blueprint have?
+        ]{.toctext}](#What_effect_does_blueprint_have.3F)
+    -   [[ 1.4 ]{.tocnumber} [ What is the difference between blue and
+        red specialties?
+        ]{.toctext}](#What_is_the_difference_between_blue_and_red_specialties.3F)
+    -   [[ 1.5 ]{.tocnumber} [ Why the last part (fifth) of the research
+        sub-topic seem to take longer time than the others?
+        ]{.toctext}](#Why_the_last_part_.28fifth.29_of_the_research_sub-topic_seem_to_take_longer_time_than_the_others.3F)
+    -   [[ 1.6 ]{.tocnumber} [ What effect does it have if I have
+        research team with matching specialty with my research topic?
+        ]{.toctext}](#What_effect_does_it_have_if_I_have_research_team_with_matching_specialty_with_my_research_topic.3F)
+    -   [[ 1.7 ]{.tocnumber} [ What\'s the deal with oil conversion
+        techs?
+        ]{.toctext}](#What.27s_the_deal_with_oil_conversion_techs.3F)
+    -   [[ 1.8 ]{.tocnumber} [ What do Encryption/Decryption
+        technologies actually do?
+        ]{.toctext}](#What_do_Encryption.2FDecryption_technologies_actually_do.3F)
+:::
 
 # [ [Technology and Research]{.mw-selflink .selflink} ]{#Technology_and_Research .mw-headline}
 
@@ -42,10 +48,10 @@ three slots, 60 to 79 base has four slots, and 80+ means the maximum of
 ### [ ]{#Why_isn't_Rolls-Royce_in_the_game?} [ Why isn\'t Rolls-Royce in the game? ]{#Why_isn.27t_Rolls-Royce_in_the_game.3F .mw-headline}
 
 From **Johnny Cannuck** :\
-_In terms of Rolls-Royce, the decision was made to exclude it on the
+*In terms of Rolls-Royce, the decision was made to exclude it on the
 basis that the major British aircraft manufacturers were already
 included, such as Supermarine. Not having Rolls-Royce does not in any
-real way affect the ability of the British to research aircraft techs._
+real way affect the ability of the British to research aircraft techs.*
 
 This same theory also applies to other tech teams, organizations, and
 corporations that exist in the real world but are not present in the
@@ -64,7 +70,7 @@ It halves the research time.
 
 Red denotes doctrines.
 
-### [ ]{#Why*the_last_part*(fifth)_of_the_research_sub-topic_seem_to_take_longer_time_than_the_others?} [ Why the last part (fifth) of the research sub-topic seem to take longer time than the others? ]{#Why_the_last_part_.28fifth.29_of_the_research_sub-topic_seem_to_take_longer_time_than_the_others.3F .mw-headline}
+### [ ]{#Why_the_last_part_(fifth)_of_the_research_sub-topic_seem_to_take_longer_time_than_the_others?} [ Why the last part (fifth) of the research sub-topic seem to take longer time than the others? ]{#Why_the_last_part_.28fifth.29_of_the_research_sub-topic_seem_to_take_longer_time_than_the_others.3F .mw-headline}
 
 The last part of many research categories take twice as long as the
 other sub-topics. Unfortunately there is no sure-fire in-game way of

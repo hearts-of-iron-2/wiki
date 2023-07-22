@@ -1,7 +1,6 @@
 ---
 title: Strategy_for_Operation_Downfall:_Invasion_of_Japan
 ---
-
 ::: mw-parser-output
 [Template:Scenario
 guides](/wiki/index.php?title=Template:Scenario_guides&action=edit&redlink=1 "Template:Scenario guides (page does not exist)"){.new}
@@ -22,7 +21,7 @@ file-width="44" url="/images/5/57/Shieldals.jpg" decoding="async"
 height="70" loading="lazy"
 width="44"}](/wiki/File:Shieldals.jpg){.image}
 
-## [ Operation Downfall: Strategy for the Allies ]{#Operation_Downfall:\_Strategy_for_the_Allies .mw-headline}
+## [ Operation Downfall: Strategy for the Allies ]{#Operation_Downfall:_Strategy_for_the_Allies .mw-headline}
 
 The main way to beat this scenario is to hack slowly away at the
 Japanese possessions. By this I mean first take the southern part of the

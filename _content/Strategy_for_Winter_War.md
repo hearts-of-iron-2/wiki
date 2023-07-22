@@ -1,7 +1,6 @@
 ---
 title: Strategy_for_Winter_War
 ---
-
 ::: mw-parser-output
 [Template:Scenario
 guides](/wiki/index.php?title=Template:Scenario_guides&action=edit&redlink=1 "Template:Scenario guides (page does not exist)"){.new}
@@ -29,14 +28,14 @@ defensive setup to contain Finnish troops. Note that you may change
 troop allocation depending on the situation. Recommended setup before
 starting the game:
 
-- Put all fighter planes on air superiority in Karelia.
-- Put all bombers on interdiction in Karelia.
-- Move 10. Tank Corps in Luga to Petrozavodsk.
-- Move the rest of the army in Luga and Kingisep to Leningrad.
-- Move 1. Corps in Petrozavodsk to Kem.
-- Move the navy in Leningrad to Gulf of Finland.
-- Make sure you assign Soviet\'s best leaders to all of the units
-  (i.e. don\'t let Zhukov and Konev sit in your leader pool).
+-   Put all fighter planes on air superiority in Karelia.
+-   Put all bombers on interdiction in Karelia.
+-   Move 10. Tank Corps in Luga to Petrozavodsk.
+-   Move the rest of the army in Luga and Kingisep to Leningrad.
+-   Move 1. Corps in Petrozavodsk to Kem.
+-   Move the navy in Leningrad to Gulf of Finland.
+-   Make sure you assign Soviet\'s best leaders to all of the units
+    (i.e. don\'t let Zhukov and Konev sit in your leader pool).
 
 When the game starts, attack Kajaani with troops in Murmask and
 Kandalaksja. Cancel the attack after you win the battle (do not occupy

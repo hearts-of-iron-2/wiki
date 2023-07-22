@@ -1,7 +1,6 @@
 ---
 title: Screen_Ship
 ---
-
 ::: mw-parser-output
 CLs and DDs, which are operating in the same battle with capital ships,
 are called screens. They may not necessarily belong to the same task

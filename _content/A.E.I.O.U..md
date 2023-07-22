@@ -1,7 +1,6 @@
 ---
 title: A.E.I.O.U.
 ---
-
 ::: mw-parser-output
 The end of the Great War brought with it the end of the age of
 monarchies. In Russia, Germany, Austria-Hungary, Turkey, and Serbia,
@@ -14,9 +13,9 @@ Powers, the emperors had returned? Play A.E.I.O.U., a modification of
 Hearts of Iron 2, and find out. Can you lead Austria to reclaim her lost
 glory?.
 
-- Mod site: Is now down
-- Mirror:
-  [\[1\]](http://www.si-games.com/forums/local_links.php?catid=23){.external
-  .autonumber rel="nofollow"} - Leads to a German website - it may be
-  located here somewhere.
-  :::
+-   Mod site: Is now down
+-   Mirror:
+    [\[1\]](http://www.si-games.com/forums/local_links.php?catid=23){.external
+    .autonumber rel="nofollow"} - Leads to a German website - it may be
+    located here somewhere.
+:::

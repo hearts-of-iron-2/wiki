@@ -1,7 +1,6 @@
 ---
 title: Gearing_Bonus
 ---
-
 ::: mw-parser-output
 When producing units for your nation, you will receive a **Gearing
 Bonus** for each unit you produce in
@@ -35,7 +34,7 @@ setting:
 
 \
 
-     Drafted Army Standing Army Days for Days for # Days for Days for series ship series ship 1 584 584 1 584 584 2 1139 525 2 1139 525 3 1664 497 3 1664 497 4 2161 467 4 2161 467 5 2628 438 5 2628 438 6 3066 409 6 3066 438 7 3475 379 7 3504 438 8 3854 351 8 3942 438 9 4205 321 9 4380 438 10 4526 321 10 4818 438 11 4847 321 11 5256 438 12 5168 321 12 5694 438
+     Drafted Army Standing Army Days for Days for # Days for Days for series ship series ship 1 584 584 1 584 584 2 1139 525 2 1139 525 3 1664 497 3 1664 497 4 2161 467 4 2161 467 5 2628 438 5 2628 438 6 3066 409 6 3066 438 7 3475 379 7 3504 438 8 3854 351 8 3942 438 9 4205 321 9 4380 438 10 4526 321 10 4818 438 11 4847 321 11 5256 438 12 5168 321 12 5694 438 
 
 For the first 5 ships the bonus is the same, the gearing bonus maxes out
 at the 9th ship (with slider setting for army in the middle this is the

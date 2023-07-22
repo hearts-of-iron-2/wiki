@@ -1,7 +1,6 @@
 ---
 title: Dominican_Republic
 ---
-
 ::: mw-parser-output
 ::: {.eu4box style="width:330px; height:auto; float:right; clear:right"}
 ::: heading
@@ -14,7 +13,7 @@ title: Dominican_Republic
 [Major powers](/wiki/Major_power "Major power"){.mw-redirect}
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [France](/wiki/France "France")\
@@ -30,7 +29,7 @@ title: Dominican_Republic
 Regional powers
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [Argentina](/wiki/Argentina "Argentina")\
@@ -58,7 +57,7 @@ Regional powers
 [Minor powers](/wiki/Minor_power "Minor power"){.mw-redirect}
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [Austria](/wiki/Austria "Austria")\
@@ -81,7 +80,7 @@ Regional powers
 [Micro powers](/wiki/Micro_power "Micro power"){.mw-redirect}
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [Afghanistan](/wiki/Afghanistan "Afghanistan")\
@@ -138,23 +137,22 @@ needs reinforcements.
 
 ::: {#toc .toc aria-labelledby="mw-toc-heading" role="navigation"}
 ::: {.toctitle dir="ltr" lang="en"}
-
 ## Contents {#mw-toc-heading}
 
 [ ]{.toctogglespan}
 :::
 
-- [[ 1 ]{.tocnumber} [ Tips ]{.toctext}](#Tips)
-- [[ 2 ]{.tocnumber} [ The country ]{.toctext}](#The_country)
-- [[ 3 ]{.tocnumber} [ Expansion Westward!
-  ]{.toctext}](#Expansion_Westward.21)
-- [[ 4 ]{.tocnumber} [ Expansion Southward!
-  ]{.toctext}](#Expansion_Southward.21)
-- [[ 5 ]{.tocnumber} [ Fighting Superpowers
-  ]{.toctext}](#Fighting_Superpowers)
-- [[ 6 ]{.tocnumber} [ Central America ]{.toctext}](#Central_America)
-- [[ 7 ]{.tocnumber} [ In conclusion ]{.toctext}](#In_conclusion)
-  :::
+-   [[ 1 ]{.tocnumber} [ Tips ]{.toctext}](#Tips)
+-   [[ 2 ]{.tocnumber} [ The country ]{.toctext}](#The_country)
+-   [[ 3 ]{.tocnumber} [ Expansion Westward!
+    ]{.toctext}](#Expansion_Westward.21)
+-   [[ 4 ]{.tocnumber} [ Expansion Southward!
+    ]{.toctext}](#Expansion_Southward.21)
+-   [[ 5 ]{.tocnumber} [ Fighting Superpowers
+    ]{.toctext}](#Fighting_Superpowers)
+-   [[ 6 ]{.tocnumber} [ Central America ]{.toctext}](#Central_America)
+-   [[ 7 ]{.tocnumber} [ In conclusion ]{.toctext}](#In_conclusion)
+:::
 
 ## [ Tips ]{#Tips .mw-headline}
 
@@ -322,7 +320,7 @@ will influence you as well, which I found amusing.
 Brazil is a South American superpower. The largest IC is located in the
 easternmost part of the country, and you must fight a large war with
 them. You cannot beat the Brazilian Army by yourself unless you have
-increased _your_ IC to 41 or higher. This is why alliances with local
+increased *your* IC to 41 or higher. This is why alliances with local
 countries are crucial. Bolivia can defeat many of the Brazilian
 divisions, and this will cause them to fight a two front war, which, as
 we all know, is a terrible thing to fight. With enough divisions from

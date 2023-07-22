@@ -1,21 +1,26 @@
 ---
 title: USNA_Strategy
 ---
-
 ::: mw-parser-output
 ::: {#toc .toc aria-labelledby="mw-toc-heading" role="navigation"}
 ::: {.toctitle dir="ltr" lang="en"}
-
 ## Contents {#mw-toc-heading}
 
 [ ]{.toctogglespan}
 :::
 
-- [[ 1 ]{.tocnumber} [ General Guide ]{.toctext}](#General_Guide)
-- [[ 2 ]{.tocnumber} [ Abyss ]{.toctext}](#Abyss) - [[ 2.1 ]{.tocnumber} [ Research ]{.toctext}](#Research) - [[ 2.2 ]{.tocnumber} [ Resources ]{.toctext}](#Resources) - [[ 2.3 ]{.tocnumber} [ Relationships
-  ]{.toctext}](#Relationships) - [[ 2.4 ]{.tocnumber} [ Spying ]{.toctext}](#Spying) - [[ 2.5 ]{.tocnumber} [ Sliders and Ministers
-  ]{.toctext}](#Sliders_and_Ministers) - [[ 2.6 ]{.tocnumber} [ Armed Forces ]{.toctext}](#Armed_Forces) - [[ 2.7 ]{.tocnumber} [ Other Notes ]{.toctext}](#Other_Notes)
-  :::
+-   [[ 1 ]{.tocnumber} [ General Guide ]{.toctext}](#General_Guide)
+-   [[ 2 ]{.tocnumber} [ Abyss ]{.toctext}](#Abyss)
+    -   [[ 2.1 ]{.tocnumber} [ Research ]{.toctext}](#Research)
+    -   [[ 2.2 ]{.tocnumber} [ Resources ]{.toctext}](#Resources)
+    -   [[ 2.3 ]{.tocnumber} [ Relationships
+        ]{.toctext}](#Relationships)
+    -   [[ 2.4 ]{.tocnumber} [ Spying ]{.toctext}](#Spying)
+    -   [[ 2.5 ]{.tocnumber} [ Sliders and Ministers
+        ]{.toctext}](#Sliders_and_Ministers)
+    -   [[ 2.6 ]{.tocnumber} [ Armed Forces ]{.toctext}](#Armed_Forces)
+    -   [[ 2.7 ]{.tocnumber} [ Other Notes ]{.toctext}](#Other_Notes)
+:::
 
 ## [ General Guide ]{#General_Guide .mw-headline}
 

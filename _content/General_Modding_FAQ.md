@@ -1,7 +1,6 @@
 ---
 title: General_Modding_FAQ
 ---
-
 ::: mw-parser-output
 **Q** : What do I need to edit to make a new Country?\
 **A** : Making a new country from scratch is alot of work. First you
@@ -34,10 +33,10 @@ nation\
 **A** : Go to **Hearts of Iron 2\\db\\revolt.txt** , Search for the tag
 of the country which you wish to change. The date and expiry date are
 the years that the country becomes available to liberate and stops being
-liberatable. The _minimum_ field is the minimum amount of provinces
+liberatable. The *minimum* field is the minimum amount of provinces
 required the liberate that nation, the nation wil always get these
 provinces upon being liberated and you will need all of them to liberate
-it. The _extra_ field is extra provinces that the nation can receive if
+it. The *extra* field is extra provinces that the nation can receive if
 you control them. If you do not control them, then the liberated nation
 will instead get national claims on them. The Capital is the liberated
 nation\'s capital. intrinsic_gov_type means that only nations of that
@@ -54,27 +53,26 @@ file to the file you where modding. That is, Exported event text is in
 event_text while exported tech text is in tech_names. You can also edit
 and change game text with .csv files.\
 You can export something of your choosing, in three easy steps:\
-
 1. Determine what the export name is to be.\
 2. Place that name, followed by a semi-colon.\
 3. Place the text you want to export.\
-   A semi-colon after the exported text is the exported text that will be
-   used in different versions of the game. (IE: One semi-colon after the
-   exported text is the exported text that will be used in the French
-   version of Hoi, While the semi-colon after that is the version that will
-   be used in the German version.)\
-   \
-   **Q** : How do I change each countries Politcal Map-mode color?\
-   **A** : Go to **Hearts of Iron 2\\db\\country.csv** , Search for the tag
-   of the country you want to change, and change each color. Beware that
-   some colors are not what they see, For Example, Light green is more of a
-   Mint-white.\
-   \
-   **Q** : I made an Event Picture/Minister Photo/Leader Photo and it\'s
-   all streched out!\
-   **A** : It\'s too big. See [Modding
-   Graphics](/wiki/Modding_graphics "Modding graphics")\
-   \
-   **Q** : How do you add a new unit type?\
-   **A** : You don\'t. Unit types are hardcoded, apparently.
-   :::
+A semi-colon after the exported text is the exported text that will be
+used in different versions of the game. (IE: One semi-colon after the
+exported text is the exported text that will be used in the French
+version of Hoi, While the semi-colon after that is the version that will
+be used in the German version.)\
+\
+**Q** : How do I change each countries Politcal Map-mode color?\
+**A** : Go to **Hearts of Iron 2\\db\\country.csv** , Search for the tag
+of the country you want to change, and change each color. Beware that
+some colors are not what they see, For Example, Light green is more of a
+Mint-white.\
+\
+**Q** : I made an Event Picture/Minister Photo/Leader Photo and it\'s
+all streched out!\
+**A** : It\'s too big. See [Modding
+Graphics](/wiki/Modding_graphics "Modding graphics")\
+\
+**Q** : How do you add a new unit type?\
+**A** : You don\'t. Unit types are hardcoded, apparently.
+:::

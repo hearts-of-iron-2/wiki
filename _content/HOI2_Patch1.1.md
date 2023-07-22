@@ -1,45 +1,43 @@
 ---
 title: HOI2_Patch1.1
 ---
-
 ::: mw-parser-output
 +-----------------------------------+-----------------------------------+
-| ::: {style="width: 52px;"} | **This article may need to be |
-| [![Wikitext.png](https://c | formatted [following an |
-| entral.paradoxwikis.com/images/2/ | encyclopedic |
-| 2f/Wikitext.png){file-height="20" | style](/wiki/T |
-| file-width="50" | emplate:Wikify "Template:Wikify") |
-| url="https://central.paradoxwi | .**\ |
-| kis.com/images/2/2f/Wikitext.png" | [Please help improve |
-| decoding="async" height="20" | [this](https://hoi2.par |
-| loading="lazy" | adoxwikis.com/index.php?title=HOI |
-| width="50"}] | 2_Patch1.1&action=edit){.external |
-| (/wiki/File:Wikitext.png){.image} | .text rel="nofollow"} article if |
-| ::: | you can.]{.small} |
+| ::: {style="width: 52px;"}        | **This article may need to be     |
+| [![Wikitext.png](https://c        | formatted [following an           |
+| entral.paradoxwikis.com/images/2/ | encyclopedic                      |
+| 2f/Wikitext.png){file-height="20" | style](/wiki/T                    |
+| file-width="50"                   | emplate:Wikify "Template:Wikify") |
+| url="https://central.paradoxwi    | .**\                              |
+| kis.com/images/2/2f/Wikitext.png" | [Please help improve              |
+| decoding="async" height="20"      | [this](https://hoi2.par           |
+| loading="lazy"                    | adoxwikis.com/index.php?title=HOI |
+| width="50"}]                      | 2_Patch1.1&action=edit){.external |
+| (/wiki/File:Wikitext.png){.image} | .text rel="nofollow"} article if  |
+| :::                               | you can.]{.small}                 |
 +-----------------------------------+-----------------------------------+
 
 \
 
 ::: {#toc .toc aria-labelledby="mw-toc-heading" role="navigation"}
 ::: {.toctitle dir="ltr" lang="en"}
-
 ## Contents {#mw-toc-heading}
 
 [ ]{.toctogglespan}
 :::
 
-- [[ 1 ]{.tocnumber} [ Interface Enhancements
-  ]{.toctext}](#Interface_Enhancements)
-- [[ 2 ]{.tocnumber} [ Gameplay Changes
-  ]{.toctext}](#Gameplay_Changes)
-- [[ 3 ]{.tocnumber} [ AI Improvements ]{.toctext}](#AI_Improvements)
-- [[ 4 ]{.tocnumber} [ Modding Support ]{.toctext}](#Modding_Support)
-- [[ 5 ]{.tocnumber} [ Multiplayer Specific
-  ]{.toctext}](#Multiplayer_Specific)
-- [[ 6 ]{.tocnumber} [ Bugfixes ]{.toctext}](#Bugfixes)
-- [[ 7 ]{.tocnumber} [ Events ]{.toctext}](#Events)
-- [[ 8 ]{.tocnumber} [ Scenario Setup ]{.toctext}](#Scenario_Setup)
-  :::
+-   [[ 1 ]{.tocnumber} [ Interface Enhancements
+    ]{.toctext}](#Interface_Enhancements)
+-   [[ 2 ]{.tocnumber} [ Gameplay Changes
+    ]{.toctext}](#Gameplay_Changes)
+-   [[ 3 ]{.tocnumber} [ AI Improvements ]{.toctext}](#AI_Improvements)
+-   [[ 4 ]{.tocnumber} [ Modding Support ]{.toctext}](#Modding_Support)
+-   [[ 5 ]{.tocnumber} [ Multiplayer Specific
+    ]{.toctext}](#Multiplayer_Specific)
+-   [[ 6 ]{.tocnumber} [ Bugfixes ]{.toctext}](#Bugfixes)
+-   [[ 7 ]{.tocnumber} [ Events ]{.toctext}](#Events)
+-   [[ 8 ]{.tocnumber} [ Scenario Setup ]{.toctext}](#Scenario_Setup)
+:::
 
 ## [ Interface Enhancements ]{#Interface_Enhancements .mw-headline}
 
@@ -369,581 +367,494 @@ get a name shown.
 
 \- New Eventseries:
 
-- \"Soviet-Romanian War\" (over Bessarabia with a limited peace offer)
+-   \"Soviet-Romanian War\" (over Bessarabia with a limited peace offer)
 
 ```{=html}
 <!-- -->
 ```
-
-- \"Lin Sen\" (death event)
-
-```{=html}
-<!-- -->
-```
-
-- \"Alternative US Elections\" (if US is Paternal Authocratic)
+-   \"Lin Sen\" (death event)
 
 ```{=html}
 <!-- -->
 ```
-
-- \"Democracy Defended\" (Republican boost if Franco get no foreign
-  help)
+-   \"Alternative US Elections\" (if US is Paternal Authocratic)
 
 ```{=html}
 <!-- -->
 ```
-
-- \"Great War Demonstration\" (might happen if GER doesn\'t occupy
-  Rhineland)
-
-```{=html}
-<!-- -->
-```
-
-- \"Independent Croatia\" (Croatia become German puppet)
+-   \"Democracy Defended\" (Republican boost if Franco get no foreign
+    help)
 
 ```{=html}
 <!-- -->
 ```
+-   \"Great War Demonstration\" (might happen if GER doesn\'t occupy
+    Rhineland)
 
-- \"Germany Surrender\" (if the Soviets can take a bath in the Eng
-  Channel)
+```{=html}
+<!-- -->
+```
+-   \"Independent Croatia\" (Croatia become German puppet)
+
+```{=html}
+<!-- -->
+```
+-   \"Germany Surrender\" (if the Soviets can take a bath in the Eng
+    Channel)
 
 \
-
 - Modified triggers for the following events:
 
-- \"The Undeclared War\"
+-   \"The Undeclared War\"
 
 ```{=html}
 <!-- -->
 ```
-
-- \"US Lend-Lease Events\"
-
-```{=html}
-<!-- -->
-```
-
-- \"Oil Embargo against Japan\"
+-   \"US Lend-Lease Events\"
 
 ```{=html}
 <!-- -->
 ```
-
-- \"Vichy France\"
-
-```{=html}
-<!-- -->
-```
-
-- \"Marco Polo Bridge\"
+-   \"Oil Embargo against Japan\"
 
 ```{=html}
 <!-- -->
 ```
-
-- \"Molotov-Ribbentrop Pact\"
-
-```{=html}
-<!-- -->
-```
-
-- \"Bitter Peace\"
+-   \"Vichy France\"
 
 ```{=html}
 <!-- -->
 ```
-
-- \"Destroyers for bases\"
-
-```{=html}
-<!-- -->
-```
-
-- \"Denmark folds\"
+-   \"Marco Polo Bridge\"
 
 ```{=html}
 <!-- -->
 ```
-
-- \"US Elections\"
-
-```{=html}
-<!-- -->
-```
-
-- \"Jose Antonio\"
+-   \"Molotov-Ribbentrop Pact\"
 
 ```{=html}
 <!-- -->
 ```
-
-- \"Victory events for Coral Sea\"
-
-```{=html}
-<!-- -->
-```
-
-- \"Victory events for Desert Fox\"
+-   \"Bitter Peace\"
 
 ```{=html}
 <!-- -->
 ```
-
-- \"Vichy leader defection\"
-
-```{=html}
-<!-- -->
-```
-
-- \"Hess\' flight to Scotland\"
+-   \"Destroyers for bases\"
 
 ```{=html}
 <!-- -->
 ```
+-   \"Denmark folds\"
 
-- \"US Gearing Up events\"
+```{=html}
+<!-- -->
+```
+-   \"US Elections\"
+
+```{=html}
+<!-- -->
+```
+-   \"Jose Antonio\"
+
+```{=html}
+<!-- -->
+```
+-   \"Victory events for Coral Sea\"
+
+```{=html}
+<!-- -->
+```
+-   \"Victory events for Desert Fox\"
+
+```{=html}
+<!-- -->
+```
+-   \"Vichy leader defection\"
+
+```{=html}
+<!-- -->
+```
+-   \"Hess\' flight to Scotland\"
+
+```{=html}
+<!-- -->
+```
+-   \"US Gearing Up events\"
 
 \
-
 - Modified effects in the following events:
 
-- \"Destroyers for bases\" (USA get access to UK)
+-   \"Destroyers for bases\" (USA get access to UK)
 
 ```{=html}
 <!-- -->
 ```
-
-- \"Lean on Siam\"/\"Pressure on Siam\" (many effects in all events in
-  the serie)
-
-```{=html}
-<!-- -->
-```
-
-- \"ROM/HUN switches side\" (will ally the USSR)
+-   \"Lean on Siam\"/\"Pressure on Siam\" (many effects in all events in
+    the serie)
 
 ```{=html}
 <!-- -->
 ```
-
-- \"Bitter Peace-2nd Version\" (seccedes Romanian provinces)
-
-```{=html}
-<!-- -->
-```
-
-- \"Spanish Civil War\" (supply costs decreased)
+-   \"ROM/HUN switches side\" (will ally the USSR)
 
 ```{=html}
 <!-- -->
 ```
-
-- \"Wilkie\"
-
-```{=html}
-<!-- -->
-```
-
-- \"US Lendlease to USSR\"
+-   \"Bitter Peace-2nd Version\" (seccedes Romanian provinces)
 
 ```{=html}
 <!-- -->
 ```
-
-- \"Creation of Vichy\"
-
-```{=html}
-<!-- -->
-```
-
-- \"Treaty of Munich/End of Czech\"
+-   \"Spanish Civil War\" (supply costs decreased)
 
 ```{=html}
 <!-- -->
 ```
+-   \"Wilkie\"
 
-- \"Warsaw Uprising\"
+```{=html}
+<!-- -->
+```
+-   \"US Lendlease to USSR\"
+
+```{=html}
+<!-- -->
+```
+-   \"Creation of Vichy\"
+
+```{=html}
+<!-- -->
+```
+-   \"Treaty of Munich/End of Czech\"
+
+```{=html}
+<!-- -->
+```
+-   \"Warsaw Uprising\"
 
 \
-
 - New event commands:
 
-- new trigger \"attack\" which lets the event check if the country is
-  attacked by another given country.
+-   new trigger \"attack\" which lets the event check if the country is
+    attacked by another given country.
 
 ```{=html}
 <!-- -->
 ```
-
-- command reformulated to allow partisan-controlled provinces to
-  secede.
+-   command reformulated to allow partisan-controlled provinces to
+    secede.
 
 ## [ Scenario Setup ]{#Scenario_Setup .mw-headline}
 
 \- Modifications to the 1936 campaign
 
-- Switched Manchurian for Korean provinces as nationals for Japan.
+-   Switched Manchurian for Korean provinces as nationals for Japan.
 
 ```{=html}
 <!-- -->
 ```
-
-- Added missing static anti-air guns in Southern Part of Maginot line
-  for France.
-
-```{=html}
-<!-- -->
-```
-
-- Decreased Manchurian supply at start from 10000 to 100.
+-   Added missing static anti-air guns in Southern Part of Maginot line
+    for France.
 
 ```{=html}
 <!-- -->
 ```
-
-- Added Southern Sakhalin as nationalprovinces for Japan.
-
-```{=html}
-<!-- -->
-```
-
-- US force at Philippines is now locked in position.
+-   Decreased Manchurian supply at start from 10000 to 100.
 
 ```{=html}
 <!-- -->
 ```
-
-- Added some Australian bases.
-
-```{=html}
-<!-- -->
-```
-
-- Modifications to Communist and Nationalist unit setups.
+-   Added Southern Sakhalin as nationalprovinces for Japan.
 
 ```{=html}
 <!-- -->
 ```
-
-- Added Home defense units to the UK and removed all the extra IC.
+-   US force at Philippines is now locked in position.
 
 ```{=html}
 <!-- -->
 ```
+-   Added some Australian bases.
 
-- Lowered Italian belligerence to 0.
+```{=html}
+<!-- -->
+```
+-   Modifications to Communist and Nationalist unit setups.
+
+```{=html}
+<!-- -->
+```
+-   Added Home defense units to the UK and removed all the extra IC.
+
+```{=html}
+<!-- -->
+```
+-   Lowered Italian belligerence to 0.
 
 \- Modifications to the 1939 campaign
 
-- Switched Manchurian for Korean provinces as nationals for Japan.
+-   Switched Manchurian for Korean provinces as nationals for Japan.
 
 ```{=html}
 <!-- -->
 ```
-
-- Removed Italian navalbase from inland Turin.
-
-```{=html}
-<!-- -->
-```
-
-- Added missing static anti-air guns in Southern Part of Maginot line
-  for France.
+-   Removed Italian navalbase from inland Turin.
 
 ```{=html}
 <!-- -->
 ```
-
-- Communist China is now allied with Nationalist China.
-
-```{=html}
-<!-- -->
-```
-
-- US force at Philippines is now locked in position.
+-   Added missing static anti-air guns in Southern Part of Maginot line
+    for France.
 
 ```{=html}
 <!-- -->
 ```
-
-- Added some Australian bases.
-
-```{=html}
-<!-- -->
-```
-
-- Added an airbase for Nationalist China.
+-   Communist China is now allied with Nationalist China.
 
 ```{=html}
 <!-- -->
 ```
+-   US force at Philippines is now locked in position.
 
-- Switched a province from Siam to France.
+```{=html}
+<!-- -->
+```
+-   Added some Australian bases.
+
+```{=html}
+<!-- -->
+```
+-   Added an airbase for Nationalist China.
+
+```{=html}
+<!-- -->
+```
+-   Switched a province from Siam to France.
 
 \- Modifications to the 1941 campaign
 
-- Switched Manchurian for Korean provinces as nationals for Japan.
+-   Switched Manchurian for Korean provinces as nationals for Japan.
 
 ```{=html}
 <!-- -->
 ```
-
-- Communist China is now allied with Nationalist China.
-
-```{=html}
-<!-- -->
-```
-
-- Switched ownership of a few provinces between Japan and Nationalist
-  China.
+-   Communist China is now allied with Nationalist China.
 
 ```{=html}
 <!-- -->
 ```
-
-- Added Southern Sakhalin as nationalprovinces for Japan.
-
-```{=html}
-<!-- -->
-```
-
-- Added some Australian bases.
+-   Switched ownership of a few provinces between Japan and Nationalist
+    China.
 
 ```{=html}
 <!-- -->
 ```
-
-- Modifications to German unit names.
+-   Added Southern Sakhalin as nationalprovinces for Japan.
 
 ```{=html}
 <!-- -->
 ```
+-   Added some Australian bases.
 
-- Moved a Turkish unit from Tblisi to Turkish territory.
+```{=html}
+<!-- -->
+```
+-   Modifications to German unit names.
+
+```{=html}
+<!-- -->
+```
+-   Moved a Turkish unit from Tblisi to Turkish territory.
 
 \- Modifications to the 1944 campaign
 
-- Switched Manchurian for Korean provinces as nationals for Japan.
+-   Switched Manchurian for Korean provinces as nationals for Japan.
 
 ```{=html}
 <!-- -->
 ```
-
-- Switched ownership of a few provinces between Japan and Nationalist
-  China.
-
-```{=html}
-<!-- -->
-```
-
-- Modifications to German unit names.
+-   Switched ownership of a few provinces between Japan and Nationalist
+    China.
 
 ```{=html}
 <!-- -->
 ```
-
-- Moved some German V-rockets from Ghent to Lille, and gave Lille an
-  airbase for them.
+-   Modifications to German unit names.
 
 ```{=html}
 <!-- -->
 ```
+-   Moved some German V-rockets from Ghent to Lille, and gave Lille an
+    airbase for them.
 
-- Three provinces added as nationalprovinces for Siam.
+```{=html}
+<!-- -->
+```
+-   Three provinces added as nationalprovinces for Siam.
 
 \- Modifications to Ardennes:
 
-- Modifications to event triggers, dates and effects.
+-   Modifications to event triggers, dates and effects.
 
 ```{=html}
 <!-- -->
 ```
-
-- Tweaked down the offmap supplies/oil to make the supply events more
-  useful.
-
-```{=html}
-<!-- -->
-```
-
-- Removed static weather, snowstorms will now come and go in the
-  scenario.
+-   Tweaked down the offmap supplies/oil to make the supply events more
+    useful.
 
 ```{=html}
 <!-- -->
 ```
-
-- Modifications to German unit names.
-
-```{=html}
-<!-- -->
-```
-
-- Added a supplypool in Dunkirk and added a German technology.
+-   Removed static weather, snowstorms will now come and go in the
+    scenario.
 
 ```{=html}
 <!-- -->
 ```
-
-- Added offensives to many German units.
-
-```{=html}
-<!-- -->
-```
-
-- Reduced allied oil/supply pool significantly and doubled effect of
-  oil/supply events.
+-   Modifications to German unit names.
 
 ```{=html}
 <!-- -->
 ```
+-   Added a supplypool in Dunkirk and added a German technology.
 
-- Changed many artillery brigades to self-propelled artillery.
+```{=html}
+<!-- -->
+```
+-   Added offensives to many German units.
+
+```{=html}
+<!-- -->
+```
+-   Reduced allied oil/supply pool significantly and doubled effect of
+    oil/supply events.
+
+```{=html}
+<!-- -->
+```
+-   Changed many artillery brigades to self-propelled artillery.
 
 \
-
 - Modifications to D-Day:
 
-- Two GER divs will be activated properly in D-Day.
+-   Two GER divs will be activated properly in D-Day.
 
 ```{=html}
 <!-- -->
 ```
-
-- Panzer Reserve is unlocked if Allies launches Operation Dragoon.
+-   Panzer Reserve is unlocked if Allies launches Operation Dragoon.
 
 \
-
 - Terrain Modifications:
 
-- Rearranged some areas in Far East Russia.
+-   Rearranged some areas in Far East Russia.
 
 ```{=html}
 <!-- -->
 ```
-
-- Added two Chinese beaches.
-
-```{=html}
-<!-- -->
-```
-
-- Modifications to climate for seazones, lakes and provinces.
+-   Added two Chinese beaches.
 
 ```{=html}
 <!-- -->
 ```
-
-- Modifications to terrain for provinces.
+-   Modifications to climate for seazones, lakes and provinces.
 
 ```{=html}
 <!-- -->
 ```
+-   Modifications to terrain for provinces.
 
-- Åmål no longer has a port nor a beach.
+```{=html}
+<!-- -->
+```
+-   Åmål no longer has a port nor a beach.
 
 \- Added river connections
 
-- Lille - Mons
+-   Lille - Mons
 
 ```{=html}
 <!-- -->
 ```
-
-- Amsterdam - Leeuwarden
+-   Amsterdam - Leeuwarden
 
 \- Modifications to setup technologies
 
-- Added Adv Machine Tools to British setup in GC41.
+-   Added Adv Machine Tools to British setup in GC41.
 
 ```{=html}
 <!-- -->
 ```
-
-- Added Air Superiority Doctrine to Nationalist Chinese setup in GC36,
-  GC39 and GC41.
-
-```{=html}
-<!-- -->
-```
-
-- Added Mobility Focus doctrine to Nationalist Chinese setup in GC39.
+-   Added Air Superiority Doctrine to Nationalist Chinese setup in GC36,
+    GC39 and GC41.
 
 ```{=html}
 <!-- -->
 ```
-
-- Communist China can now dig-in in GC36.
-
-```{=html}
-<!-- -->
-```
-
-- Removed the two oil refinery techs from, and added Basic Naval
-  Bomber to the USA in GC36.
+-   Added Mobility Focus doctrine to Nationalist Chinese setup in GC39.
 
 ```{=html}
 <!-- -->
 ```
-
-- Added air superiority doctrine to Yugoslavia in GC36 and GC39, and
-  to Bulgaria in GC39.
+-   Communist China can now dig-in in GC36.
 
 ```{=html}
 <!-- -->
 ```
+-   Removed the two oil refinery techs from, and added Basic Naval
+    Bomber to the USA in GC36.
 
-- Modified Finnish land techs in GC39,GC41 and GC44.
+```{=html}
+<!-- -->
+```
+-   Added air superiority doctrine to Yugoslavia in GC36 and GC39, and
+    to Bulgaria in GC39.
+
+```{=html}
+<!-- -->
+```
+-   Modified Finnish land techs in GC39,GC41 and GC44.
 
 \- Modifications to Ministers and Leaders.
 
-- RSI now defaults to Fascist state ideology.
+-   RSI now defaults to Fascist state ideology.
 
 ```{=html}
 <!-- -->
 ```
-
-- Sweden starts with a Socialdemocratic government in GC36.
-
-```{=html}
-<!-- -->
-```
-
-- Added Dutch, New Zeelander and Australian leaders to Southern
-  Conquest scenario.
+-   Sweden starts with a Socialdemocratic government in GC36.
 
 ```{=html}
 <!-- -->
 ```
-
-- Modified traits for a number of leaders.
-
-```{=html}
-<!-- -->
-```
-
-- California,Texas, and Scotland will be fascist if the are released.
+-   Added Dutch, New Zeelander and Australian leaders to Southern
+    Conquest scenario.
 
 ```{=html}
 <!-- -->
 ```
-
-- Added US Ministers.
-
-```{=html}
-<!-- -->
-```
-
-- British land leader \"Bourne of Atherstone\" should now be
-  Commando + Logistics Wizard.
+-   Modified traits for a number of leaders.
 
 ```{=html}
 <!-- -->
 ```
+-   California,Texas, and Scotland will be fascist if the are released.
 
-- Changed death date for a German leader/tech team used by Germany and
-  Nationalist China.
-  :::
+```{=html}
+<!-- -->
+```
+-   Added US Ministers.
+
+```{=html}
+<!-- -->
+```
+-   British land leader \"Bourne of Atherstone\" should now be
+    Commando + Logistics Wizard.
+
+```{=html}
+<!-- -->
+```
+-   Changed death date for a German leader/tech team used by Germany and
+    Nationalist China.
+:::

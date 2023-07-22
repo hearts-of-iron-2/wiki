@@ -1,31 +1,34 @@
 ---
 title: HQ_Units_in_Action
 ---
-
 ::: mw-parser-output
 [Template:Anthology](/wiki/index.php?title=Template:Anthology&action=edit&redlink=1 "Template:Anthology (page does not exist)"){.new}
-_This Guide was originally developed by **czar1111** . Please see [this
+*This Guide was originally developed by **czar1111** . Please see [this
 thread](http://forum.paradoxplaza.com/forum/showthread.php?t=188821){.external
-.text rel="nofollow"} on the Paradox Forums for the original file._
+.text rel="nofollow"} on the Paradox Forums for the original file.*
 
 ::: {#toc .toc aria-labelledby="mw-toc-heading" role="navigation"}
 ::: {.toctitle dir="ltr" lang="en"}
-
 ## Contents {#mw-toc-heading}
 
 [ ]{.toctogglespan}
 :::
 
-- [[ 1 ]{.tocnumber} [ HQ Units and Planning in HoI 2 (The Invasion of
-  Poland)
-  ]{.toctext}](#HQ_Units_and_Planning_in_HoI_2_.28The_Invasion_of_Poland.29) - [[ 1.1 ]{.tocnumber} [ HQ Command Abilities
-  ]{.toctext}](#HQ_Command_Abilities) - [[ 1.2 ]{.tocnumber} [ Battle Planning
-  ]{.toctext}](#Battle_Planning) - [[ 1.2.1 ]{.tocnumber} [ Adding a Second HQ
-  ]{.toctext}](#Adding_a_Second_HQ) - [[ 1.2.2 ]{.tocnumber} [ Three HQ Units??
-  ]{.toctext}](#Three_HQ_Units.3F.3F) - [[ 1.3 ]{.tocnumber} [ The Results ]{.toctext}](#The_Results)
-  :::
+-   [[ 1 ]{.tocnumber} [ HQ Units and Planning in HoI 2 (The Invasion of
+    Poland)
+    ]{.toctext}](#HQ_Units_and_Planning_in_HoI_2_.28The_Invasion_of_Poland.29)
+    -   [[ 1.1 ]{.tocnumber} [ HQ Command Abilities
+        ]{.toctext}](#HQ_Command_Abilities)
+    -   [[ 1.2 ]{.tocnumber} [ Battle Planning
+        ]{.toctext}](#Battle_Planning)
+        -   [[ 1.2.1 ]{.tocnumber} [ Adding a Second HQ
+            ]{.toctext}](#Adding_a_Second_HQ)
+        -   [[ 1.2.2 ]{.tocnumber} [ Three HQ Units??
+            ]{.toctext}](#Three_HQ_Units.3F.3F)
+    -   [[ 1.3 ]{.tocnumber} [ The Results ]{.toctext}](#The_Results)
+:::
 
-# [ ]{#HQ*Units_and_Planning_in_HoI_2*(The*Invasion_of_Poland)} [ HQ Units and Planning in HoI 2 (The Invasion of Poland) ]{#HQ_Units_and_Planning_in_HoI_2*.28The_Invasion_of_Poland.29 .mw-headline}
+# [ ]{#HQ_Units_and_Planning_in_HoI_2_(The_Invasion_of_Poland)} [ HQ Units and Planning in HoI 2 (The Invasion of Poland) ]{#HQ_Units_and_Planning_in_HoI_2_.28The_Invasion_of_Poland.29 .mw-headline}
 
 This AAR is more a discussion of the use of [HQ
 Units](/wiki/HQ_Division "HQ Division") in HoI2. It began as a more

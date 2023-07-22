@@ -1,9 +1,7 @@
 ---
 title: Production_FAQ
 ---
-
 ::: mw-parser-output
-
 # [ [Production]{.mw-selflink .selflink} ]{#Production .mw-headline}
 
 ### [ ]{#Why_doesn't_the_build_time/cost_change_when_I_change_ministers_or_research_a_new_tech?} [ Why doesn\'t the build time/cost change when I change ministers or research a new tech? ]{#Why_doesn.27t_the_build_time.2Fcost_change_when_I_change_ministers_or_research_a_new_tech.3F .mw-headline}

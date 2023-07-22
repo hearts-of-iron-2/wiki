@@ -1,9 +1,7 @@
 ---
 title: Production_Slider
 ---
-
 ::: mw-parser-output
-
 ## [ Production Slider ]{#Production_Slider .mw-headline}
 
 The Production slider allocates how much [Industrial

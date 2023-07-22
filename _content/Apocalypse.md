@@ -1,9 +1,8 @@
 ---
 title: Apocalypse
 ---
-
 ::: mw-parser-output
-**_Apocalypse_** is a set of mini-mods for Arsenal of Democracy
+***Apocalypse*** is a set of mini-mods for Arsenal of Democracy
 expanding the [Armageddon](/wiki/Armageddon "Armageddon") Scenarios with
 a later start date, allowing the players to jump straight into the
 action with the new motorized and mechanized troops and generally a
@@ -27,15 +26,15 @@ a player who wants to switch has someone providing him with blueprints.
 The secret weapons research lags somewhat behind to prevent especially
 the \'45 Scenario to turn into a nuclear massacre right from the start.
 The selection of starting units (Fleets and the amount of
-Arm/Mec/Mot/Mil) is influenced by the doctrine path. _Note:_ The players
-start at peace, but the AI is much more aggressive than in _The Abyss_ .
+Arm/Mec/Mot/Mil) is influenced by the doctrine path. *Note:* The players
+start at peace, but the AI is much more aggressive than in *The Abyss* .
 Even on \"normal\" it usually takes less than a year until the wars
 start.
 
 ### [ **Available Scenarios** ]{#Available_Scenarios .mw-headline}
 
-- Apocalypse \'42
-- Apocalypse \'45
+-   Apocalypse \'42
+-   Apocalypse \'45
 
 ### [ **Download** ]{#Download .mw-headline}
 

@@ -1,28 +1,31 @@
 ---
 title: Province_Improvement_FAQ
 ---
-
 ::: mw-parser-output
 ::: {#toc .toc aria-labelledby="mw-toc-heading" role="navigation"}
 ::: {.toctitle dir="ltr" lang="en"}
-
 ## Contents {#mw-toc-heading}
 
 [ ]{.toctogglespan}
 :::
 
-- [[ 1 ]{.tocnumber} [ Province Improvement
-  ]{.toctext}](#Province_Improvement) - [[ 1.1 ]{.tocnumber} [ Where is the best place to build a new
-  factory?
-  ]{.toctext}](#Where_is_the_best_place_to_build_a_new_factory.3F) - [[ 1.2 ]{.tocnumber} [ Does increasing infrastructure also
-  increase the resource output of the province?
-  ]{.toctext}](#Does_increasing_infrastructure_also_increase_the_resource_output_of_the_province.3F) - [[ 1.3 ]{.tocnumber} [ What is the difference between size 1 and
-  size 10 airbase/navalbase?
-  ]{.toctext}](#What_is_the_difference_between_size_1_and_size_10_airbase.2Fnavalbase.3F) - [[ 1.4 ]{.tocnumber} [ What is the purpose of radar station?
-  ]{.toctext}](#What_is_the_purpose_of_radar_station.3F) - [[ 1.5 ]{.tocnumber} [ What do Rocket Test Facilities and
-  Nuclear Reactors do?
-  ]{.toctext}](#What_do_Rocket_Test_Facilities_and_Nuclear_Reactors_do.3F)
-  :::
+-   [[ 1 ]{.tocnumber} [ Province Improvement
+    ]{.toctext}](#Province_Improvement)
+    -   [[ 1.1 ]{.tocnumber} [ Where is the best place to build a new
+        factory?
+        ]{.toctext}](#Where_is_the_best_place_to_build_a_new_factory.3F)
+    -   [[ 1.2 ]{.tocnumber} [ Does increasing infrastructure also
+        increase the resource output of the province?
+        ]{.toctext}](#Does_increasing_infrastructure_also_increase_the_resource_output_of_the_province.3F)
+    -   [[ 1.3 ]{.tocnumber} [ What is the difference between size 1 and
+        size 10 airbase/navalbase?
+        ]{.toctext}](#What_is_the_difference_between_size_1_and_size_10_airbase.2Fnavalbase.3F)
+    -   [[ 1.4 ]{.tocnumber} [ What is the purpose of radar station?
+        ]{.toctext}](#What_is_the_purpose_of_radar_station.3F)
+    -   [[ 1.5 ]{.tocnumber} [ What do Rocket Test Facilities and
+        Nuclear Reactors do?
+        ]{.toctext}](#What_do_Rocket_Test_Facilities_and_Nuclear_Reactors_do.3F)
+:::
 
 # [ [Province Improvement]{.mw-selflink .selflink} ]{#Province_Improvement .mw-headline}
 
@@ -67,35 +70,35 @@ organization and strength at a much lower rate.
 
 The functions are:
 
-- Reduces enemy air units\' combat efficiency by 2.5% for each level
-  of radar you have in the territory.
-- The effectiveness of this factor can be increased by research. A 30%
-  radar efficiency would mean 1.3\*2.5.
-- Coastal radar stations have a combat air battle factor in adjacent
-  seazones. On land, however, each province\'s radar is used only for
-  that province without any adjacency effects.
-- Radar stations [do not detect naval
-  units](http://forum.paradoxplaza.com/forum/showthread.php?t=218736){.external
-  .text rel="nofollow"} .
-- Radar is [absolutely vital for a good
-  air-defence](http://forum.paradoxplaza.com/forum/showthread.php?t=218736){.external
-  .text rel="nofollow"} in HOI2 and HOI2 DD versions 1.0 and 1.1:
-  - Without it the airunits on air-superiority missions will just
-    move towards random provinces within the area.
-  - With it, the airunit will know about any planes nearby that is
-    heading to/through the province with the radar.
-- Radar [does not provide
-  detection](http://forum.paradoxplaza.com/forum/showpost.php?p=8204611&postcount=27){.external
-  .text rel="nofollow"} after HOI2DD 1.2 through ARMA 1.2. Two
-  comments by Johan on pg 2 of a long thread: [Johan mentions but does
-  not explain the
-  change](http://forum.paradoxplaza.com/forum/showthread.php?t=346220&page=2){.external
-  .text rel="nofollow"}
-- In ARMA, Radar improves naval engagement range
-- Since radar is intelligence related, it\'s always us vs them
-  comparisons for spotting purposes. Slider (open vs closed society),
-  relative tech levels for encryption and decryption, and difficulty
-  levels influence how well radar detects the enemy.
+-   Reduces enemy air units\' combat efficiency by 2.5% for each level
+    of radar you have in the territory.
+-   The effectiveness of this factor can be increased by research. A 30%
+    radar efficiency would mean 1.3\*2.5.
+-   Coastal radar stations have a combat air battle factor in adjacent
+    seazones. On land, however, each province\'s radar is used only for
+    that province without any adjacency effects.
+-   Radar stations [do not detect naval
+    units](http://forum.paradoxplaza.com/forum/showthread.php?t=218736){.external
+    .text rel="nofollow"} .
+-   Radar is [absolutely vital for a good
+    air-defence](http://forum.paradoxplaza.com/forum/showthread.php?t=218736){.external
+    .text rel="nofollow"} in HOI2 and HOI2 DD versions 1.0 and 1.1:
+    -   Without it the airunits on air-superiority missions will just
+        move towards random provinces within the area.
+    -   With it, the airunit will know about any planes nearby that is
+        heading to/through the province with the radar.
+-   Radar [does not provide
+    detection](http://forum.paradoxplaza.com/forum/showpost.php?p=8204611&postcount=27){.external
+    .text rel="nofollow"} after HOI2DD 1.2 through ARMA 1.2. Two
+    comments by Johan on pg 2 of a long thread: [Johan mentions but does
+    not explain the
+    change](http://forum.paradoxplaza.com/forum/showthread.php?t=346220&page=2){.external
+    .text rel="nofollow"}
+-   In ARMA, Radar improves naval engagement range
+-   Since radar is intelligence related, it\'s always us vs them
+    comparisons for spotting purposes. Slider (open vs closed society),
+    relative tech levels for encryption and decryption, and difficulty
+    levels influence how well radar detects the enemy.
 
 ### [ ]{#What_do_Rocket_Test_Facilities_and_Nuclear_Reactors_do?} [ What do Rocket Test Facilities and Nuclear Reactors do? ]{#What_do_Rocket_Test_Facilities_and_Nuclear_Reactors_do.3F .mw-headline}
 

@@ -1,23 +1,26 @@
 ---
 title: Modding_unit_statistics
 ---
-
 ::: mw-parser-output
 ::: {#toc .toc aria-labelledby="mw-toc-heading" role="navigation"}
 ::: {.toctitle dir="ltr" lang="en"}
-
 ## Contents {#mw-toc-heading}
 
 [ ]{.toctogglespan}
 :::
 
-- [[ 1 ]{.tocnumber} [ Introduction ]{.toctext}](#Introduction) - [[ 1.1 ]{.tocnumber} [ Allowed brigades
-  ]{.toctext}](#Allowed_brigades) - [[ 1.2 ]{.tocnumber} [ Changing the units stats
-  ]{.toctext}](#Changing_the_units_stats) - [[ 1.3 ]{.tocnumber} [ Editing Naval units
-  ]{.toctext}](#Editing_Naval_units) - [[ 1.4 ]{.tocnumber} [ Editing Air Units
-  ]{.toctext}](#Editing_Air_Units) - [[ 1.5 ]{.tocnumber} [ Editing Brigades
-  ]{.toctext}](#Editing_Brigades)
-  :::
+-   [[ 1 ]{.tocnumber} [ Introduction ]{.toctext}](#Introduction)
+    -   [[ 1.1 ]{.tocnumber} [ Allowed brigades
+        ]{.toctext}](#Allowed_brigades)
+    -   [[ 1.2 ]{.tocnumber} [ Changing the units stats
+        ]{.toctext}](#Changing_the_units_stats)
+    -   [[ 1.3 ]{.tocnumber} [ Editing Naval units
+        ]{.toctext}](#Editing_Naval_units)
+    -   [[ 1.4 ]{.tocnumber} [ Editing Air Units
+        ]{.toctext}](#Editing_Air_Units)
+    -   [[ 1.5 ]{.tocnumber} [ Editing Brigades
+        ]{.toctext}](#Editing_Brigades)
+:::
 
 ## [ Introduction ]{#Introduction .mw-headline}
 
@@ -33,7 +36,7 @@ Once you pick a file, You should see something like this.
 
 Example:
 
-    #allowed_brigades = artillery allowed_brigades = anti_tank        allowed_brigades = anti_air         #allowed_brigades = rocket_artillery allowed_brigades = sp_artillery    allowed_brigades = sp_rct_artillery allowed_brigades = tank_destroyer   allowed_brigades = light_armor_brigade allowed_brigades = heavy_armor   #allowed_brigades = super_heavy_armor allowed_brigades = armored_car allowed_brigades = engineer            #allowed_brigades = police
+    #allowed_brigades = artillery allowed_brigades = anti_tank        allowed_brigades = anti_air         #allowed_brigades = rocket_artillery allowed_brigades = sp_artillery    allowed_brigades = sp_rct_artillery allowed_brigades = tank_destroyer   allowed_brigades = light_armor_brigade allowed_brigades = heavy_armor   #allowed_brigades = super_heavy_armor allowed_brigades = armored_car allowed_brigades = engineer            #allowed_brigades = police 
 
 This decides which brigades the unit can or can\'t use. In order to deny
 units certain brigades you can either comment them out with a #. Or
@@ -49,11 +52,11 @@ it\'s time to edit the actual unit. You should see something like this
 
 Example:
 
-    # 0 - Great War Tank model = {     cost                    = 16    buildtime               = 180   manpower                = 7     maxspeed                = 8     defaultorganisation     = 30    morale                  = 30    defensiveness           = 5     toughness               = 7     softness                = 30    suppression             = 1     airdefence              = 1     softattack              = 9     hardattack              = 2     airattack               = 1     transportweight         = 30    supplyconsumption       = 2     fuelconsumption         = 4     speed_cap_art           = 8     speed_cap_eng           = 8     speed_cap_at            = 8     speed_cap_aa            = 8     upgrade_time_factor = 1.0   upgrade_cost_factor = 1.0 }
+    # 0 - Great War Tank model = {     cost                    = 16    buildtime               = 180   manpower                = 7     maxspeed                = 8     defaultorganisation     = 30    morale                  = 30    defensiveness           = 5     toughness               = 7     softness                = 30    suppression             = 1     airdefence              = 1     softattack              = 9     hardattack              = 2     airattack               = 1     transportweight         = 30    supplyconsumption       = 2     fuelconsumption         = 4     speed_cap_art           = 8     speed_cap_eng           = 8     speed_cap_at            = 8     speed_cap_aa            = 8     upgrade_time_factor = 1.0   upgrade_cost_factor = 1.0 } 
 
 Now, I will run down what each function does.
 
----
+------------------------------------------------------------------------
 
 Cost: This is the IC cost of the unit
 
@@ -121,7 +124,7 @@ changing this will work the same way as changing the time. You can
 double, triple, or halve the normal amount of time(which I\'m guessing
 is 1/3). Hope this wasn\'t too confusing :P
 
----
+------------------------------------------------------------------------
 
 ### [ Editing Naval units ]{#Editing_Naval_units .mw-headline}
 
@@ -130,11 +133,11 @@ units, except they have a few different values.
 
 Example:
 
-    # 0 - Great War Carrier model = {  cost                        = 5     buildtime                   = 547   defaultorganisation         = 30    morale                      = 30    manpower                    = 1     maxspeed                    = 18    surfacedetectioncapability  = 1     airdetectioncapability      = 2     subdetectioncapability      = 1     visibility                  = 100   seadefence                  = 8     airdefence                  = 1     seaattack                   = 1     subattack                   = 1     airattack                   = 1     shorebombardment            = 0     transportcapability         = 0     range                       = 2000  supplyconsumption           = 0.9   fuelconsumption             = 1     distance                    = 0.14 }
+    # 0 - Great War Carrier model = {  cost                        = 5     buildtime                   = 547   defaultorganisation         = 30    morale                      = 30    manpower                    = 1     maxspeed                    = 18    surfacedetectioncapability  = 1     airdetectioncapability      = 2     subdetectioncapability      = 1     visibility                  = 100   seadefence                  = 8     airdefence                  = 1     seaattack                   = 1     subattack                   = 1     airattack                   = 1     shorebombardment            = 0     transportcapability         = 0     range                       = 2000  supplyconsumption           = 0.9   fuelconsumption             = 1     distance                    = 0.14 } 
 
 I\'ll now go over the different values
 
----
+------------------------------------------------------------------------
 
 Surfacedetectioncapability: This is the units ability to detect enemy
 ships in an adjacent sea province
@@ -165,7 +168,7 @@ Distance: This is the distance the unit can try to close or keep away
 from enemy ships(This is without bonuses from doctrines or a good
 admiral)
 
----
+------------------------------------------------------------------------
 
 Also note that if you want the sea unit you are editing to be able to
 use CAGs, Add allowed_brigades = cag to the top of the file.
@@ -177,11 +180,11 @@ units.
 
 Example:
 
-    # 0 - Interwar Bomber model = {  cost                        = 11    buildtime                   = 160   defaultorganisation         = 30    morale                      = 30    manpower                    = 2     maxspeed                    = 180   surfacedetectioncapability  = 1     airdetectioncapability      = 0     surfacedefence              = 3     airdefence                  = 1     airattack                   = 1     strategicattack             = 3     softattack                  = 6     hardattack                  = 2     navalattack                 = 1     range                       = 400   supplyconsumption           = 1.5   fuelconsumption             = 3     upgrade_time_factor = 1.0   upgrade_cost_factor = 1.0 }
+    # 0 - Interwar Bomber model = {  cost                        = 11    buildtime                   = 160   defaultorganisation         = 30    morale                      = 30    manpower                    = 2     maxspeed                    = 180   surfacedetectioncapability  = 1     airdetectioncapability      = 0     surfacedefence              = 3     airdefence                  = 1     airattack                   = 1     strategicattack             = 3     softattack                  = 6     hardattack                  = 2     navalattack                 = 1     range                       = 400   supplyconsumption           = 1.5   fuelconsumption             = 3     upgrade_time_factor = 1.0   upgrade_cost_factor = 1.0 } 
 
 As usual, Here are what each value means
 
----
+------------------------------------------------------------------------
 
 Surfacedetectioncapability: This is the air units ability to detect
 ships
@@ -210,7 +213,7 @@ Navalattack: This is the air units attack power when bombing ships
 
 Range: This is the air units range
 
----
+------------------------------------------------------------------------
 
 ### [ Editing Brigades ]{#Editing_Brigades .mw-headline}
 
@@ -220,9 +223,9 @@ then editing units, as there\'s alot less values to edit.
 
 Example:
 
-    model = {    cost                = 10    buildtime           = 120   manpower            = 2     defensiveness       = 8     toughness           = 2     maxspeed            = -4    softness            = -20   hardattack          = 8     softattack          = 7     supplyconsumption   = 1.5   fuelconsumption     = 5     upgrade_time_factor = 0.5   upgrade_cost_factor = 1.0 }
+    model = {    cost                = 10    buildtime           = 120   manpower            = 2     defensiveness       = 8     toughness           = 2     maxspeed            = -4    softness            = -20   hardattack          = 8     softattack          = 7     supplyconsumption   = 1.5   fuelconsumption     = 5     upgrade_time_factor = 0.5   upgrade_cost_factor = 1.0 } 
 
----
+------------------------------------------------------------------------
 
 As you can see, alot of these are the same values as land units. When
 attaching a brigade, these values are added to the original unit as a
@@ -233,23 +236,22 @@ case it would be the Heavy Tanks slowing down the rest of the unit.\
 However, not all negative values are bad. For example, having a negative
 modifier on the softness value would make the unit take less damage from
 \"Soft\" attacks. Also, Be careful when assigning negative values, not
-every value can be negative, _supplyconsumption_ and _cost_ are some
+every value can be negative, *supplyconsumption* and *cost* are some
 good examples of these values.
 
 The CAG brigades (which are limited to carriers only) also have some
 extra values that are the same as naval unit values. These are:
 
-- Sea attack
-- Sub attack
-- Shorebombardment
-- Distance
-- Airdetection
-- Subdetection
-- Airdefense
-- Surfacedetection
+-   Sea attack
+-   Sub attack
+-   Shorebombardment
+-   Distance
+-   Airdetection
+-   Subdetection
+-   Airdefense
+-   Surfacedetection
 
 All of these work in the same way as their Naval counterparts.
 
----
-
+------------------------------------------------------------------------
 :::

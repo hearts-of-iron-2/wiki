@@ -1,7 +1,6 @@
 ---
 title: Modding_difficulty_levels
 ---
-
 ::: mw-parser-output
 Open the file /db/difficuly.csv and change the values which you want.
 
@@ -12,10 +11,9 @@ penalties/bonuses for each setting
 
 I find that the difference between the difficulty levels is too big so I
 create 2 new levels\
-
-1. half way between Normal and Hard\
-2. half way between Hard and VeryHard\
-   and delete the 2 easy levels which I never want.
+1) half way between Normal and Hard\
+2) half way between Hard and VeryHard\
+and delete the 2 easy levels which I never want.
 
 Since VERYEASY;EASY;NORMAL;HARD;VERYHARD will always be the options
 displayed when creating a new game, you have to remember which option
@@ -50,6 +48,5 @@ INTELLIGENCE;0;5;10;15;20;;X\
 The following table shows the option to choose for the new difficulty
 settings
 
-     Select gets a standard difficulty of Very Easy Normal Easy Normal-Hard Normal Hard Hard Hard-VeryHard Very Hard Very Hard
-
+     Select gets a standard difficulty of Very Easy Normal Easy Normal-Hard Normal Hard Hard Hard-VeryHard Very Hard Very Hard 
 :::

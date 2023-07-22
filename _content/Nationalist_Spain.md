@@ -1,7 +1,6 @@
 ---
 title: Nationalist_Spain
 ---
-
 ::: mw-parser-output
 ::: {.eu4box style="width:330px; height:auto; float:right; clear:right"}
 ::: heading
@@ -14,7 +13,7 @@ title: Nationalist_Spain
 [Major powers](/wiki/Major_power "Major power"){.mw-redirect}
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [France](/wiki/France "France")\
@@ -30,7 +29,7 @@ title: Nationalist_Spain
 Regional powers
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [Argentina](/wiki/Argentina "Argentina")\
@@ -58,7 +57,7 @@ Regional powers
 [Minor powers](/wiki/Minor_power "Minor power"){.mw-redirect}
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [Austria](/wiki/Austria "Austria")\
@@ -81,7 +80,7 @@ Regional powers
 [Micro powers](/wiki/Micro_power "Micro power"){.mw-redirect}
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [Afghanistan](/wiki/Afghanistan "Afghanistan")\
@@ -131,30 +130,29 @@ Arabia](/wiki/index.php?title=Saudi_Arabia&action=edit&redlink=1 "Saudi Arabia (
 
 ::: {#toc .toc aria-labelledby="mw-toc-heading" role="navigation"}
 ::: {.toctitle dir="ltr" lang="en"}
-
 ## Contents {#mw-toc-heading}
 
 [ ]{.toctogglespan}
 :::
 
-- [[ 1 ]{.tocnumber} [ Starter ]{.toctext}](#Starter)
-- [[ 2 ]{.tocnumber} [ 1936 Scenario Civil War
-  ]{.toctext}](#1936_Scenario_Civil_War)
-- [[ 3 ]{.tocnumber} [ Victory and Annexation!
-  ]{.toctext}](#Victory_and_Annexation.21)
-- [[ 4 ]{.tocnumber} [ Research Priorities
-  ]{.toctext}](#Research_Priorities)
-- [[ 5 ]{.tocnumber} [ The State of the Army
-  ]{.toctext}](#The_State_of_the_Army)
-- [[ 6 ]{.tocnumber} [ Waiting ]{.toctext}](#Waiting)
-- [[ 7 ]{.tocnumber} [ Axis Support Game
-  ]{.toctext}](#Axis_Support_Game)
-- [[ 8 ]{.tocnumber} [ The Spanish Pond Game
-  ]{.toctext}](#The_Spanish_Pond_Game)
-- [[ 9 ]{.tocnumber} [ Imperial Spain ]{.toctext}](#Imperial_Spain)
-- [[ 10 ]{.tocnumber} [ Ministers ]{.toctext}](#Ministers)
-- [[ 11 ]{.tocnumber} [ Resources ]{.toctext}](#Resources)
-  :::
+-   [[ 1 ]{.tocnumber} [ Starter ]{.toctext}](#Starter)
+-   [[ 2 ]{.tocnumber} [ 1936 Scenario Civil War
+    ]{.toctext}](#1936_Scenario_Civil_War)
+-   [[ 3 ]{.tocnumber} [ Victory and Annexation!
+    ]{.toctext}](#Victory_and_Annexation.21)
+-   [[ 4 ]{.tocnumber} [ Research Priorities
+    ]{.toctext}](#Research_Priorities)
+-   [[ 5 ]{.tocnumber} [ The State of the Army
+    ]{.toctext}](#The_State_of_the_Army)
+-   [[ 6 ]{.tocnumber} [ Waiting ]{.toctext}](#Waiting)
+-   [[ 7 ]{.tocnumber} [ Axis Support Game
+    ]{.toctext}](#Axis_Support_Game)
+-   [[ 8 ]{.tocnumber} [ The Spanish Pond Game
+    ]{.toctext}](#The_Spanish_Pond_Game)
+-   [[ 9 ]{.tocnumber} [ Imperial Spain ]{.toctext}](#Imperial_Spain)
+-   [[ 10 ]{.tocnumber} [ Ministers ]{.toctext}](#Ministers)
+-   [[ 11 ]{.tocnumber} [ Resources ]{.toctext}](#Resources)
+:::
 
 ## [ Starter ]{#Starter .mw-headline}
 
@@ -179,7 +177,8 @@ really for you.
 
 ## [ 1936 Scenario Civil War ]{#1936_Scenario_Civil_War .mw-headline}
 
-I played as Luxemburg until the civil war event pops up on July 18, 1936. I have noticed that 75% of the time the province split gives the
+I played as Luxemburg until the civil war event pops up on July 18,
+1936. I have noticed that 75% of the time the province split gives the
 Nationalists Seville, Madrid, and Barcelona. The other 25% of the time
 the Republicans get Madrid and a large portion of southern Spain, and
 you get Seville and its immediate western province. In this latter

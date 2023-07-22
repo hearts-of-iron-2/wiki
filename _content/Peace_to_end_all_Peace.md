@@ -1,7 +1,6 @@
 ---
 title: Peace_to_end_all_Peace
 ---
-
 ::: mw-parser-output
 This mod will give you the possibility to play as Imperial Germany,
 Austria-Hungary, Russian Empire, Ottoman Empire, etc in 1936, with the
@@ -26,29 +25,26 @@ crisis occured. But the massive industrial build-up of Europe came at a
 cost, and the colonial empires are dependent of their colonies regarding
 resources.
 
-- Mod Forum:
-  [\[1\]](http://forum.paradoxplaza.com/forum/showthread.php?t=324972){.external
-  .autonumber rel="nofollow"}
-- Download: None known presently exists
-- Current Version: 0.6.1
-- Last Update: July, 2008
-- Popularity: _1,000 posts_
-- Compatibility: [HOI2, DD,
-  ARMA](/wiki/Abbreviations#H "Abbreviations")
+-   Mod Forum:
+    [\[1\]](http://forum.paradoxplaza.com/forum/showthread.php?t=324972){.external
+    .autonumber rel="nofollow"}
+-   Download: None known presently exists
+-   Current Version: 0.6.1
+-   Last Update: July, 2008
+-   Popularity: *1,000 posts*
+-   Compatibility: [HOI2, DD,
+    ARMA](/wiki/Abbreviations#H "Abbreviations")
 
 **Features Explained:**
 
----
-
-Feature Description
-Graphics & Sound Some color improvements
-AI Geared to scenario
-Technology No changes.
-Territory Complete changes to the map based on pre-World War I borders.
-Events Some events to drive the scenario.
-New Units No changes.
-Game Mechanics No changes.
-
----
-
+  ------------------ ---------------------------------------------------------------
+  Feature            Description
+  Graphics & Sound   Some color improvements
+  AI                 Geared to scenario
+  Technology         No changes.
+  Territory          Complete changes to the map based on pre-World War I borders.
+  Events             Some events to drive the scenario.
+  New Units          No changes.
+  Game Mechanics     No changes.
+  ------------------ ---------------------------------------------------------------
 :::

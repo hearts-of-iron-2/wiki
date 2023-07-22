@@ -1,7 +1,6 @@
 ---
 title: USA
 ---
-
 ::: mw-parser-output
 [File:Usa-topbar.JPG](/wiki/index.php?title=Special:Upload&wpDestFile=Usa-topbar.JPG "File:Usa-topbar.JPG"){.new}
 
@@ -16,7 +15,7 @@ title: USA
 [Major powers](/wiki/Major_power "Major power"){.mw-redirect}
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [France](/wiki/France "France")\
@@ -32,7 +31,7 @@ title: USA
 Regional powers
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [Argentina](/wiki/Argentina "Argentina")\
@@ -60,7 +59,7 @@ Regional powers
 [Minor powers](/wiki/Minor_power "Minor power"){.mw-redirect}
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [Austria](/wiki/Austria "Austria")\
@@ -83,7 +82,7 @@ Regional powers
 [Micro powers](/wiki/Micro_power "Micro power"){.mw-redirect}
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [Afghanistan](/wiki/Afghanistan "Afghanistan")\
@@ -137,51 +136,50 @@ Arabia](/wiki/index.php?title=Saudi_Arabia&action=edit&redlink=1 "Saudi Arabia (
 
 ::: {#toc .toc aria-labelledby="mw-toc-heading" role="navigation"}
 ::: {.toctitle dir="ltr" lang="en"}
-
 ## Contents {#mw-toc-heading}
 
 [ ]{.toctogglespan}
 :::
 
-- [[ 1 ]{.tocnumber} [ Overview ]{.toctext}](#Overview)
-- [[ 2 ]{.tocnumber} [ Technology ]{.toctext}](#Technology)
-- [[ 3 ]{.tocnumber} [ Diplomacy ]{.toctext}](#Diplomacy)
-  - [[ 3.1 ]{.tocnumber} [ Alliances ]{.toctext}](#Alliances)
-  - [[ 3.2 ]{.tocnumber} [ Sliders ]{.toctext}](#Sliders)
-  - [[ 3.3 ]{.tocnumber} [ Ministers ]{.toctext}](#Ministers)
-- [[ 4 ]{.tocnumber} [ Intelligence ]{.toctext}](#Intelligence)
-- [[ 5 ]{.tocnumber} [ Economy ]{.toctext}](#Economy)
-  - [[ 5.1 ]{.tocnumber} [ Trading ]{.toctext}](#Trading)
-  - [[ 5.2 ]{.tocnumber} [ Industrial Production
-    ]{.toctext}](#Industrial_Production)
-- [[ 6 ]{.tocnumber} [ Military ]{.toctext}](#Military)
-  - [[ 6.1 ]{.tocnumber} [ Army ]{.toctext}](#Army)
-  - [[ 6.2 ]{.tocnumber} [ Navy ]{.toctext}](#Navy)
-  - [[ 6.3 ]{.tocnumber} [ Air Force ]{.toctext}](#Air_Force)
-- [[ 7 ]{.tocnumber} [ Events ]{.toctext}](#Events)
-  - [[ 7.1 ]{.tocnumber} [ Election of 1936
-    ]{.toctext}](#Election_of_1936)
-  - [[ 7.2 ]{.tocnumber} [ Revolution ]{.toctext}](#Revolution)
-  - [[ 7.3 ]{.tocnumber} [ Pitman Act: Assistance to China
-    ]{.toctext}](#Pitman_Act:_Assistance_to_China)
-  - [[ 7.4 ]{.tocnumber} [ Nanking Massacre
-    ]{.toctext}](#Nanking_Massacre)
-  - [[ 7.5 ]{.tocnumber} [ Panay Incident
-    ]{.toctext}](#Panay_Incident)
-  - [[ 7.6 ]{.tocnumber} [ Gearing up for War
-    ]{.toctext}](#Gearing_up_for_War)
-  - [[ 7.7 ]{.tocnumber} [ Arsenal of Democracy
-    ]{.toctext}](#Arsenal_of_Democracy)
-  - [[ 7.8 ]{.tocnumber} [ Lend Lease Act
-    ]{.toctext}](#Lend_Lease_Act)
-- [[ 8 ]{.tocnumber} [ War ]{.toctext}](#War)
-  - [[ 8.1 ]{.tocnumber} [ War with Japan
-    ]{.toctext}](#War_with_Japan)
-  - [[ 8.2 ]{.tocnumber} [ War with Germany
-    ]{.toctext}](#War_with_Germany)
-- [[ 9 ]{.tocnumber} [ Gaming the System
-  ]{.toctext}](#Gaming_the_System)
-  :::
+-   [[ 1 ]{.tocnumber} [ Overview ]{.toctext}](#Overview)
+-   [[ 2 ]{.tocnumber} [ Technology ]{.toctext}](#Technology)
+-   [[ 3 ]{.tocnumber} [ Diplomacy ]{.toctext}](#Diplomacy)
+    -   [[ 3.1 ]{.tocnumber} [ Alliances ]{.toctext}](#Alliances)
+    -   [[ 3.2 ]{.tocnumber} [ Sliders ]{.toctext}](#Sliders)
+    -   [[ 3.3 ]{.tocnumber} [ Ministers ]{.toctext}](#Ministers)
+-   [[ 4 ]{.tocnumber} [ Intelligence ]{.toctext}](#Intelligence)
+-   [[ 5 ]{.tocnumber} [ Economy ]{.toctext}](#Economy)
+    -   [[ 5.1 ]{.tocnumber} [ Trading ]{.toctext}](#Trading)
+    -   [[ 5.2 ]{.tocnumber} [ Industrial Production
+        ]{.toctext}](#Industrial_Production)
+-   [[ 6 ]{.tocnumber} [ Military ]{.toctext}](#Military)
+    -   [[ 6.1 ]{.tocnumber} [ Army ]{.toctext}](#Army)
+    -   [[ 6.2 ]{.tocnumber} [ Navy ]{.toctext}](#Navy)
+    -   [[ 6.3 ]{.tocnumber} [ Air Force ]{.toctext}](#Air_Force)
+-   [[ 7 ]{.tocnumber} [ Events ]{.toctext}](#Events)
+    -   [[ 7.1 ]{.tocnumber} [ Election of 1936
+        ]{.toctext}](#Election_of_1936)
+    -   [[ 7.2 ]{.tocnumber} [ Revolution ]{.toctext}](#Revolution)
+    -   [[ 7.3 ]{.tocnumber} [ Pitman Act: Assistance to China
+        ]{.toctext}](#Pitman_Act:_Assistance_to_China)
+    -   [[ 7.4 ]{.tocnumber} [ Nanking Massacre
+        ]{.toctext}](#Nanking_Massacre)
+    -   [[ 7.5 ]{.tocnumber} [ Panay Incident
+        ]{.toctext}](#Panay_Incident)
+    -   [[ 7.6 ]{.tocnumber} [ Gearing up for War
+        ]{.toctext}](#Gearing_up_for_War)
+    -   [[ 7.7 ]{.tocnumber} [ Arsenal of Democracy
+        ]{.toctext}](#Arsenal_of_Democracy)
+    -   [[ 7.8 ]{.tocnumber} [ Lend Lease Act
+        ]{.toctext}](#Lend_Lease_Act)
+-   [[ 8 ]{.tocnumber} [ War ]{.toctext}](#War)
+    -   [[ 8.1 ]{.tocnumber} [ War with Japan
+        ]{.toctext}](#War_with_Japan)
+    -   [[ 8.2 ]{.tocnumber} [ War with Germany
+        ]{.toctext}](#War_with_Germany)
+-   [[ 9 ]{.tocnumber} [ Gaming the System
+    ]{.toctext}](#Gaming_the_System)
+:::
 
 ## [ Overview ]{#Overview .mw-headline}
 
@@ -213,7 +211,7 @@ effectively only after 1944. Some players may choose to abandon this
 tree for that reason, however doing so could be considered
 [gamey](/wiki/Gamey_tactics "Gamey tactics") since the US is
 tremendously overpowered in every other respect. By August, 1937, it is
-possible for the USA to have researched _every_ 1936 and 1937
+possible for the USA to have researched *every* 1936 and 1937
 technology.
 
 ## [ Diplomacy ]{#Diplomacy .mw-headline}
@@ -326,22 +324,23 @@ submission.
 
 ### [ Election of 1936 ]{#Election_of_1936 .mw-headline}
 
-- Roosevelt: Dissent -2, Manpower +20.
-- Landon: Political Right set to 2, Isolationism +1, Dissent +2; +10
-  IC.
+-   Roosevelt: Dissent -2, Manpower +20.
+-   Landon: Political Right set to 2, Isolationism +1, Dissent +2; +10
+    IC.
 
 ### [ Revolution ]{#Revolution .mw-headline}
 
 If the USA ever gets 65 dissent or higher, a revolution event will fire
 and the player can choose either a Communist or Socialist government.
 
-### [ Pitman Act: Assistance to China ]{#Pitman_Act:\_Assistance_to_China .mw-headline}
+### [ Pitman Act: Assistance to China ]{#Pitman_Act:_Assistance_to_China .mw-headline}
 
-This will occur after the Japanese invasion of China, around July 1, 1937. In HoI2, the Japanese will never take over China. In DD and ARMA,
+This will occur after the Japanese invasion of China, around July 1,
+1937. In HoI2, the Japanese will never take over China. In DD and ARMA,
 the Japanese will always defeat China. The US has two options:
 
-- Pass the Act: -1000 supplies.
-- Do not Pass the Act: +1 isolationism
+-   Pass the Act: -1000 supplies.
+-   Do not Pass the Act: +1 isolationism
 
 ### [ Nanking Massacre ]{#Nanking_Massacre .mw-headline}
 
@@ -357,31 +356,31 @@ will receive money +500, and dissent +1.
 
 **After the Dutch capitulation, typically in May, 1940:**
 
-- Prepare for War: +3 IC, +3 Hawk, +200 Manpower, Peace time modified
-  by +25%.
-- These measures are not needed: +1 dove; +50 manpower
+-   Prepare for War: +3 IC, +3 Hawk, +200 Manpower, Peace time modified
+    by +25%.
+-   These measures are not needed: +1 dove; +50 manpower
 
 **After the German attack on the Soviet Union:**
 
-- Prepare for War: +3 IC, +1 Hawk, +1 Isolationism, +100 Manpower,
-  Peace time modified by +15%.
-- These measures are not needed: +1 dove; +50 manpower
+-   Prepare for War: +3 IC, +1 Hawk, +1 Isolationism, +100 Manpower,
+    Peace time modified by +15%.
+-   These measures are not needed: +1 dove; +50 manpower
 
 **August, 1941**
 
-- Prepare for War: +3 IC, +1 Hawk, +1 Isolationism, +100 Manpower,
-  Peace time modified by +15%.
-- These measures are not needed: +1 dove; +50 manpower
+-   Prepare for War: +3 IC, +1 Hawk, +1 Isolationism, +100 Manpower,
+    Peace time modified by +15%.
+-   These measures are not needed: +1 dove; +50 manpower
 
 **Destroyers for Bases** In the Summer of 1940 this event will fire.
 
-- Sign the Agreement: +5 manpower, -50 convoy escorts
-- We need these ships: +1 isolationism
+-   Sign the Agreement: +5 manpower, -50 convoy escorts
+-   We need these ships: +1 isolationism
 
 **Presidential Election: 1940\'**
 
-- Roosevelt: Dissent -2; Manpower +10.
-- Wilkie: Change of government
+-   Roosevelt: Dissent -2; Manpower +10.
+-   Wilkie: Change of government
 
 **There is one more thing, the Japanese surprise attack. This has to be
 added but one caveat, I have seen the Japanese surprise attack on Pearl
@@ -397,28 +396,28 @@ option to do the Surprise attack.
 
 **Normal Japanese Surprise attack on Pearl Harbor:**
 
-- +2 Hawk, +3 Intervention
+-   +2 Hawk, +3 Intervention
 
 **Occasional value for the same attack (not sure what modifies it, maybe
 random chance?):**
 
-- +3 Hawk, +4 Intervention
+-   +3 Hawk, +4 Intervention
 
 ### [ Arsenal of Democracy ]{#Arsenal_of_Democracy .mw-headline}
 
 Occurs when the USA goes to war with Germany (likely around December
 1941 or later):
 
-- Pass the Act: -5000 supplies, -2500 oil, -2500 metal.
-  Interventionism +1. Provides considerable help to the Allies.
-- Remain Completely Neutral: Isolationism +1
+-   Pass the Act: -5000 supplies, -2500 oil, -2500 metal.
+    Interventionism +1. Provides considerable help to the Allies.
+-   Remain Completely Neutral: Isolationism +1
 
 ### [ Lend Lease Act ]{#Lend_Lease_Act .mw-headline}
 
 This event provides considerable help to the UK and the USSR.
 
-- Pass the Act: -5000 Supplies, -2500 Oil, -2500 Metal
-- Don\'t Pass: +1 Isolationism
+-   Pass the Act: -5000 Supplies, -2500 Oil, -2500 Metal
+-   Don\'t Pass: +1 Isolationism
 
 ## [ War ]{#War .mw-headline}
 
@@ -445,6 +444,6 @@ Italy, proceeded by an invasion of France.
 A player of the USA can use a litany of [gamey
 tactics](/wiki/Gamey_tactics "Gamey tactics") , including:
 
-- Early declaration of war to erase the IC penalties
-- Early to join the Allies, and help research
-  :::
+-   Early declaration of war to erase the IC penalties
+-   Early to join the Allies, and help research
+:::

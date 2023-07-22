@@ -1,7 +1,6 @@
 ---
 title: Afghanistan
 ---
-
 ::: mw-parser-output
 ::: {.eu4box style="width:330px; height:auto; float:right; clear:right"}
 ::: heading
@@ -14,7 +13,7 @@ title: Afghanistan
 [Major powers](/wiki/Major_power "Major power"){.mw-redirect}
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [France](/wiki/France "France")\
@@ -30,7 +29,7 @@ title: Afghanistan
 Regional powers
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [Argentina](/wiki/Argentina "Argentina")\
@@ -58,7 +57,7 @@ Regional powers
 [Minor powers](/wiki/Minor_power "Minor power"){.mw-redirect}
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [Austria](/wiki/Austria "Austria")\
@@ -81,7 +80,7 @@ Regional powers
 [Micro powers](/wiki/Micro_power "Micro power"){.mw-redirect}
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [Afghanistan]{.mw-selflink .selflink}\
@@ -139,26 +138,25 @@ ministers are so damned bad, you can use only 5.
 
 ::: {#toc .toc aria-labelledby="mw-toc-heading" role="navigation"}
 ::: {.toctitle dir="ltr" lang="en"}
-
 ## Contents {#mw-toc-heading}
 
 [ ]{.toctogglespan}
 :::
 
-- [[ 1 ]{.tocnumber} [ General tips ]{.toctext}](#General_tips)
-- [[ 2 ]{.tocnumber} [ Preview ]{.toctext}](#Preview)
-- [[ 3 ]{.tocnumber} [ Before war ]{.toctext}](#Before_war)
-  - [[ 3.1 ]{.tocnumber} [ Policies ]{.toctext}](#Policies)
-  - [[ 3.2 ]{.tocnumber} [ Research and build
-    ]{.toctext}](#Research_and_build)
-- [[ 4 ]{.tocnumber} [ First expansions
-  ]{.toctext}](#First_expansions)
-  - [[ 4.1 ]{.tocnumber} [ Persia ]{.toctext}](#Persia)
-  - [[ 4.2 ]{.tocnumber} [ Sinkiang ]{.toctext}](#Sinkiang)
-  - [[ 4.3 ]{.tocnumber} [ Whats next? ]{.toctext}](#Whats_next.3F)
-- [[ 5 ]{.tocnumber} [ Against Soviet Union
-  ]{.toctext}](#Against_Soviet_Union)
-  :::
+-   [[ 1 ]{.tocnumber} [ General tips ]{.toctext}](#General_tips)
+-   [[ 2 ]{.tocnumber} [ Preview ]{.toctext}](#Preview)
+-   [[ 3 ]{.tocnumber} [ Before war ]{.toctext}](#Before_war)
+    -   [[ 3.1 ]{.tocnumber} [ Policies ]{.toctext}](#Policies)
+    -   [[ 3.2 ]{.tocnumber} [ Research and build
+        ]{.toctext}](#Research_and_build)
+-   [[ 4 ]{.tocnumber} [ First expansions
+    ]{.toctext}](#First_expansions)
+    -   [[ 4.1 ]{.tocnumber} [ Persia ]{.toctext}](#Persia)
+    -   [[ 4.2 ]{.tocnumber} [ Sinkiang ]{.toctext}](#Sinkiang)
+    -   [[ 4.3 ]{.tocnumber} [ Whats next? ]{.toctext}](#Whats_next.3F)
+-   [[ 5 ]{.tocnumber} [ Against Soviet Union
+    ]{.toctext}](#Against_Soviet_Union)
+:::
 
 ## [ General tips ]{#General_tips .mw-headline}
 
@@ -184,9 +182,9 @@ Afghanistan. But most things make your game hard. Your slides suck, but
 it\'s not a problem, because you never have to hurry playing
 Afghanistan. Your government\'s isolationism makes it a bit difficult to
 declare wars, because your dissent skyrockets in every DoW. Your
-ministers are also very bad: _[Muhammed
+ministers are also very bad: *[Muhammed
 Zahir](http://en.wikipedia.org/wiki/Mohammed_Zahir_Shah){.external .text
-rel="nofollow"}_ is an _autocratic charmer_ , which means -10% IC.
+rel="nofollow"}* is an *autocratic charmer* , which means -10% IC.
 
 ## [ Before war ]{#Before_war .mw-headline}
 

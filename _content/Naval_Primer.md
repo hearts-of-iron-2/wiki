@@ -1,7 +1,6 @@
 ---
 title: Naval_Primer
 ---
-
 ::: mw-parser-output
 [Template:Anthology](/wiki/index.php?title=Template:Anthology&action=edit&redlink=1 "Template:Anthology (page does not exist)"){.new}
 Reflecting its historical roots, land warfare is the most important
@@ -15,89 +14,93 @@ warfare objectives:
 
 ::: {#toc .toc aria-labelledby="mw-toc-heading" role="navigation"}
 ::: {.toctitle dir="ltr" lang="en"}
-
 ## Contents {#mw-toc-heading}
 
 [ ]{.toctogglespan}
 :::
 
-- [[ 1 ]{.tocnumber} [ Naval Strategy ]{.toctext}](#Naval_Strategy)
-  - [[ 1.1 ]{.tocnumber} [ Projection or Defence
-    ]{.toctext}](#Projection_or_Defence)
-    - [[ 1.1.1 ]{.tocnumber} [ Force Projection
-      ]{.toctext}](#Force_Projection)
-    - [[ 1.1.2 ]{.tocnumber} [ Home Defence
-      ]{.toctext}](#Home_Defence)
-  - [[ 1.2 ]{.tocnumber} [ Starting Navies
-    ]{.toctext}](#Starting_Navies)
-  - [[ 1.3 ]{.tocnumber} [ Naval Research
-    ]{.toctext}](#Naval_Research)
-- [[ 2 ]{.tocnumber} [ Ship Strengths & Weaknesses
-  ]{.toctext}](#Ship_Strengths_.26_Weaknesses)
-  - [[ 2.1 ]{.tocnumber} [ Capital Ships
-    ]{.toctext}](#Capital_Ships)
-    - [[ 2.1.1 ]{.tocnumber} [ Carriers (CV): (aka _Kings of the
-      Sea_ )
-      ]{.toctext}](#Carriers_.28CV.29:_.28aka_Kings_of_the_Sea.29)
-    - [[ 2.1.2 ]{.tocnumber} [ Light Carriers (CVL): (aka _Carrier
-      Killers_ )
-      ]{.toctext}](#Light_Carriers_.28CVL.29:_.28aka_Carrier_Killers.29)
-    - [[ 2.1.3 ]{.tocnumber} [ Battleships (BB): (aka _Queens of
-      the Sea_ )
-      ]{.toctext}](#Battleships_.28BB.29:_.28aka_Queens_of_the_Sea.29)
-    - [[ 2.1.4 ]{.tocnumber} [ Battle Cruisers (BC): (aka _Scrap
-      Metal_ )
-      ]{.toctext}](#Battle_Cruisers_.28BC.29:_.28aka_Scrap_Metal.29)
-    - [[ 2.1.5 ]{.tocnumber} [ Heavy cruisers (CA): (aka _Poor
-      Man\'s Battleship_ )
-      ]{.toctext}](#Heavy_cruisers_.28CA.29:_.28aka_Poor_Man.27s_Battleship.29)
-    - [[ 2.1.6 ]{.tocnumber} [ Submarines (SS): (aka _Silent
-      Killers_ )
-      ]{.toctext}](#Submarines_.28SS.29:_.28aka_Silent_Killers.29)
-  - [[ 2.2 ]{.tocnumber} [ Screens ]{.toctext}](#Screens)
-    - [[ 2.2.1 ]{.tocnumber} [ Light cruisers (CL)
-      ]{.toctext}](#Light_cruisers_.28CL.29)
-    - [[ 2.2.2 ]{.tocnumber} [ Destroyers (DD)
-      ]{.toctext}](#Destroyers_.28DD.29)
-- [[ 3 ]{.tocnumber} [ Task Forces ]{.toctext}](#Task_Forces)
-  - [[ 3.1 ]{.tocnumber} [ Carrier Task Force (CTF)
-    ]{.toctext}](#Carrier_Task_Force_.28CTF.29)
-    - [[ 3.1.1 ]{.tocnumber} [ CTF Composition
-      ]{.toctext}](#CTF_Composition)
-  - [[ 3.2 ]{.tocnumber} [ Surface Action Group (SAG)
-    ]{.toctext}](#Surface_Action_Group_.28SAG.29)
-    - [[ 3.2.1 ]{.tocnumber} [ Fleet Composition
-      ]{.toctext}](#Fleet_Composition)
-    - [[ 3.2.2 ]{.tocnumber} [ Zerg Fleets
-      ]{.toctext}](#Zerg_Fleets)
-      - [[ 3.2.2.1 ]{.tocnumber} [ The Original Cruizerg Fleet
-        ]{.toctext}](#The_Original_Cruizerg_Fleet)
-      - [[ 3.2.2.2 ]{.tocnumber} [ DD Zerg Fleet
-        ]{.toctext}](#DD_Zerg_Fleet)
-      - [[ 3.2.2.3 ]{.tocnumber} [ Cruizerg Fleets for Doomsday
-        ]{.toctext}](#Cruizerg_Fleets_for_Doomsday)
-        - [[ 3.2.2.3.1 ]{.tocnumber} [ Early-Game Composition
-          ]{.toctext}](#Early-Game_Composition)
-        - [[ 3.2.2.3.2 ]{.tocnumber} [ Late-Game Composition
-          ]{.toctext}](#Late-Game_Composition)
-    - [[ 3.2.3 ]{.tocnumber} [ Hybrid Fleet Composition
-      ]{.toctext}](#Hybrid_Fleet_Composition)
-  - [[ 3.3 ]{.tocnumber} [ Marine Amphibious Force (MAF)
-    ]{.toctext}](#Marine_Amphibious_Force_.28MAF.29)
-    - [[ 3.3.1 ]{.tocnumber} [ MAF Fleet Composition
-      ]{.toctext}](#MAF_Fleet_Composition)
-  - [[ 3.4 ]{.tocnumber} [ Anti-Submarine Warfare Group (ASW Group)
-    ]{.toctext}](#Anti-Submarine_Warfare_Group_.28ASW_Group.29)
-    - [[ 3.4.1 ]{.tocnumber} [ ASW Fleet Composition
-      ]{.toctext}](#ASW_Fleet_Composition)
-  - [[ 3.5 ]{.tocnumber} [ Submarine Wolfpack
-    ]{.toctext}](#Submarine_Wolfpack)
-    - [[ 3.5.1 ]{.tocnumber} [ Convoy Raiding
-      ]{.toctext}](#Convoy_Raiding)
-    - [[ 3.5.2 ]{.tocnumber} [ Doomsday and Armageddon
-      ]{.toctext}](#Doomsday_and_Armageddon)
-- [[ 4 ]{.tocnumber} [ Tactics ]{.toctext}](#Tactics) - [[ 4.1 ]{.tocnumber} [ Positioning ]{.toctext}](#Positioning) - [[ 4.2 ]{.tocnumber} [ Combat Range ]{.toctext}](#Combat_Range) - [[ 4.3 ]{.tocnumber} [ Leadership ]{.toctext}](#Leadership) - [[ 4.4 ]{.tocnumber} [ Stacking ]{.toctext}](#Stacking) - [[ 4.5 ]{.tocnumber} [ After-action ]{.toctext}](#After-action)
-  :::
+-   [[ 1 ]{.tocnumber} [ Naval Strategy ]{.toctext}](#Naval_Strategy)
+    -   [[ 1.1 ]{.tocnumber} [ Projection or Defence
+        ]{.toctext}](#Projection_or_Defence)
+        -   [[ 1.1.1 ]{.tocnumber} [ Force Projection
+            ]{.toctext}](#Force_Projection)
+        -   [[ 1.1.2 ]{.tocnumber} [ Home Defence
+            ]{.toctext}](#Home_Defence)
+    -   [[ 1.2 ]{.tocnumber} [ Starting Navies
+        ]{.toctext}](#Starting_Navies)
+    -   [[ 1.3 ]{.tocnumber} [ Naval Research
+        ]{.toctext}](#Naval_Research)
+-   [[ 2 ]{.tocnumber} [ Ship Strengths & Weaknesses
+    ]{.toctext}](#Ship_Strengths_.26_Weaknesses)
+    -   [[ 2.1 ]{.tocnumber} [ Capital Ships
+        ]{.toctext}](#Capital_Ships)
+        -   [[ 2.1.1 ]{.tocnumber} [ Carriers (CV): (aka *Kings of the
+            Sea* )
+            ]{.toctext}](#Carriers_.28CV.29:_.28aka_Kings_of_the_Sea.29)
+        -   [[ 2.1.2 ]{.tocnumber} [ Light Carriers (CVL): (aka *Carrier
+            Killers* )
+            ]{.toctext}](#Light_Carriers_.28CVL.29:_.28aka_Carrier_Killers.29)
+        -   [[ 2.1.3 ]{.tocnumber} [ Battleships (BB): (aka *Queens of
+            the Sea* )
+            ]{.toctext}](#Battleships_.28BB.29:_.28aka_Queens_of_the_Sea.29)
+        -   [[ 2.1.4 ]{.tocnumber} [ Battle Cruisers (BC): (aka *Scrap
+            Metal* )
+            ]{.toctext}](#Battle_Cruisers_.28BC.29:_.28aka_Scrap_Metal.29)
+        -   [[ 2.1.5 ]{.tocnumber} [ Heavy cruisers (CA): (aka *Poor
+            Man\'s Battleship* )
+            ]{.toctext}](#Heavy_cruisers_.28CA.29:_.28aka_Poor_Man.27s_Battleship.29)
+        -   [[ 2.1.6 ]{.tocnumber} [ Submarines (SS): (aka *Silent
+            Killers* )
+            ]{.toctext}](#Submarines_.28SS.29:_.28aka_Silent_Killers.29)
+    -   [[ 2.2 ]{.tocnumber} [ Screens ]{.toctext}](#Screens)
+        -   [[ 2.2.1 ]{.tocnumber} [ Light cruisers (CL)
+            ]{.toctext}](#Light_cruisers_.28CL.29)
+        -   [[ 2.2.2 ]{.tocnumber} [ Destroyers (DD)
+            ]{.toctext}](#Destroyers_.28DD.29)
+-   [[ 3 ]{.tocnumber} [ Task Forces ]{.toctext}](#Task_Forces)
+    -   [[ 3.1 ]{.tocnumber} [ Carrier Task Force (CTF)
+        ]{.toctext}](#Carrier_Task_Force_.28CTF.29)
+        -   [[ 3.1.1 ]{.tocnumber} [ CTF Composition
+            ]{.toctext}](#CTF_Composition)
+    -   [[ 3.2 ]{.tocnumber} [ Surface Action Group (SAG)
+        ]{.toctext}](#Surface_Action_Group_.28SAG.29)
+        -   [[ 3.2.1 ]{.tocnumber} [ Fleet Composition
+            ]{.toctext}](#Fleet_Composition)
+        -   [[ 3.2.2 ]{.tocnumber} [ Zerg Fleets
+            ]{.toctext}](#Zerg_Fleets)
+            -   [[ 3.2.2.1 ]{.tocnumber} [ The Original Cruizerg Fleet
+                ]{.toctext}](#The_Original_Cruizerg_Fleet)
+            -   [[ 3.2.2.2 ]{.tocnumber} [ DD Zerg Fleet
+                ]{.toctext}](#DD_Zerg_Fleet)
+            -   [[ 3.2.2.3 ]{.tocnumber} [ Cruizerg Fleets for Doomsday
+                ]{.toctext}](#Cruizerg_Fleets_for_Doomsday)
+                -   [[ 3.2.2.3.1 ]{.tocnumber} [ Early-Game Composition
+                    ]{.toctext}](#Early-Game_Composition)
+                -   [[ 3.2.2.3.2 ]{.tocnumber} [ Late-Game Composition
+                    ]{.toctext}](#Late-Game_Composition)
+        -   [[ 3.2.3 ]{.tocnumber} [ Hybrid Fleet Composition
+            ]{.toctext}](#Hybrid_Fleet_Composition)
+    -   [[ 3.3 ]{.tocnumber} [ Marine Amphibious Force (MAF)
+        ]{.toctext}](#Marine_Amphibious_Force_.28MAF.29)
+        -   [[ 3.3.1 ]{.tocnumber} [ MAF Fleet Composition
+            ]{.toctext}](#MAF_Fleet_Composition)
+    -   [[ 3.4 ]{.tocnumber} [ Anti-Submarine Warfare Group (ASW Group)
+        ]{.toctext}](#Anti-Submarine_Warfare_Group_.28ASW_Group.29)
+        -   [[ 3.4.1 ]{.tocnumber} [ ASW Fleet Composition
+            ]{.toctext}](#ASW_Fleet_Composition)
+    -   [[ 3.5 ]{.tocnumber} [ Submarine Wolfpack
+        ]{.toctext}](#Submarine_Wolfpack)
+        -   [[ 3.5.1 ]{.tocnumber} [ Convoy Raiding
+            ]{.toctext}](#Convoy_Raiding)
+        -   [[ 3.5.2 ]{.tocnumber} [ Doomsday and Armageddon
+            ]{.toctext}](#Doomsday_and_Armageddon)
+-   [[ 4 ]{.tocnumber} [ Tactics ]{.toctext}](#Tactics)
+    -   [[ 4.1 ]{.tocnumber} [ Positioning ]{.toctext}](#Positioning)
+    -   [[ 4.2 ]{.tocnumber} [ Combat Range ]{.toctext}](#Combat_Range)
+    -   [[ 4.3 ]{.tocnumber} [ Leadership ]{.toctext}](#Leadership)
+    -   [[ 4.4 ]{.tocnumber} [ Stacking ]{.toctext}](#Stacking)
+    -   [[ 4.5 ]{.tocnumber} [ After-action ]{.toctext}](#After-action)
+:::
 
 ## [ Naval Strategy ]{#Naval_Strategy .mw-headline}
 
@@ -140,144 +143,144 @@ all navies into appropriate fleet groups (see
 [below](/wiki/Naval_Primer#Task_Forces "Naval Primer") ). Once
 accomplished, three basic methods are often suggested:
 
-- Retain navy: Use existing navy for limited roles according to fleet
-  composition (see below).
-- Disband early models: This saves a small amount of supplies.
-  Generally this is only suggested for smaller ships (like DD), and
-  almost never for Battleships and Carriers.
-- Trade early models: Exchange naval vessels with allies in exchange
-  for supplies and resources.
+-   Retain navy: Use existing navy for limited roles according to fleet
+    composition (see below).
+-   Disband early models: This saves a small amount of supplies.
+    Generally this is only suggested for smaller ships (like DD), and
+    almost never for Battleships and Carriers.
+-   Trade early models: Exchange naval vessels with allies in exchange
+    for supplies and resources.
 
 ### [ Naval Research ]{#Naval_Research .mw-headline}
 
-- Research naval vessels as early as possible due to the long build
-  time required.
-- Quantity is more important than quality: It is far better to have
-  four 1938 Battleships, than two 1941 Battleships.
-- [Carriers](/wiki/CV "CV"){.mw-redirect} are a special unit due to
-  the carrier air group: these will upgrade as technology advances.
-  The carrier level is far less important in combat than the level of
-  the CAG.
-- Naval doctrines are very important for effective combat. For more
-  information see [Naval
-  Doctrine](/wiki/Naval_Doctrine "Naval Doctrine") .
-- Only the United States has the capability to research every naval
-  technology, and even then they won\'t get them in time to be ready
-  for hostilities.
-- See the [Research](/wiki/Research "Research") guide for general
-  research advice.
+-   Research naval vessels as early as possible due to the long build
+    time required.
+-   Quantity is more important than quality: It is far better to have
+    four 1938 Battleships, than two 1941 Battleships.
+-   [Carriers](/wiki/CV "CV"){.mw-redirect} are a special unit due to
+    the carrier air group: these will upgrade as technology advances.
+    The carrier level is far less important in combat than the level of
+    the CAG.
+-   Naval doctrines are very important for effective combat. For more
+    information see [Naval
+    Doctrine](/wiki/Naval_Doctrine "Naval Doctrine") .
+-   Only the United States has the capability to research every naval
+    technology, and even then they won\'t get them in time to be ready
+    for hostilities.
+-   See the [Research](/wiki/Research "Research") guide for general
+    research advice.
 
-## [ ]{#Ship*Strengths*&_Weaknesses} [ Ship Strengths & Weaknesses ]{#Ship_Strengths_.26_Weaknesses .mw-headline}
+## [ ]{#Ship_Strengths_&_Weaknesses} [ Ship Strengths & Weaknesses ]{#Ship_Strengths_.26_Weaknesses .mw-headline}
 
 ### [ Capital Ships ]{#Capital_Ships .mw-headline}
 
-#### [ ]{#Carriers*(CV):*(aka*Kings_of_the_Sea)} [ Carriers (CV): (aka *Kings of the Sea* ) ]{#Carriers*.28CV.29:\_.28aka_Kings_of_the_Sea.29 .mw-headline}
+#### [ ]{#Carriers_(CV):_(aka_Kings_of_the_Sea)} [ Carriers (CV): (aka *Kings of the Sea* ) ]{#Carriers_.28CV.29:_.28aka_Kings_of_the_Sea.29 .mw-headline}
 
 Strengths:
 
-- Excellent combat effectiveness in long-range naval engagements
-- Good visibility and sea detection
-- Carrier Air Groups (CAGs) can be upgraded
+-   Excellent combat effectiveness in long-range naval engagements
+-   Good visibility and sea detection
+-   Carrier Air Groups (CAGs) can be upgraded
 
 Weaknesses:
 
-- Poor combat effectiveness in short-range engagements
-- Expensive to build and repair
-- Strong carriers come late in the game (1942)
+-   Poor combat effectiveness in short-range engagements
+-   Expensive to build and repair
+-   Strong carriers come late in the game (1942)
 
-#### [ ]{#Light*Carriers*(CVL):_(aka_Carrier_Killers)} [ Light Carriers (CVL): (aka *Carrier Killers* ) ]{#Light_Carriers_.28CVL.29:\_.28aka_Carrier_Killers.29 .mw-headline}
+#### [ ]{#Light_Carriers_(CVL):_(aka_Carrier_Killers)} [ Light Carriers (CVL): (aka *Carrier Killers* ) ]{#Light_Carriers_.28CVL.29:_.28aka_Carrier_Killers.29 .mw-headline}
 
 Strengths:
 
-- Excellent in visibility and detection
-- Imperative ides for surface fleets (less so in the 1.3beta
-  Armageddon patch)
-- Good air defense and submarine defense
+-   Excellent in visibility and detection
+-   Imperative ides for surface fleets (less so in the 1.3beta
+    Armageddon patch)
+-   Good air defense and submarine defense
 
 Weaknesses:
 
-- No real combat capabilities
+-   No real combat capabilities
 
-#### [ ]{#Battleships*(BB):*(aka*Queens_of_the_Sea)} [ Battleships (BB): (aka *Queens of the Sea* ) ]{#Battleships*.28BB.29:\_.28aka_Queens_of_the_Sea.29 .mw-headline}
+#### [ ]{#Battleships_(BB):_(aka_Queens_of_the_Sea)} [ Battleships (BB): (aka *Queens of the Sea* ) ]{#Battleships_.28BB.29:_.28aka_Queens_of_the_Sea.29 .mw-headline}
 
 Strengths:
 
-- Most powerful surface vessel in close combat
-- Most powerful shore bombardment
+-   Most powerful surface vessel in close combat
+-   Most powerful shore bombardment
 
 Weaknesses:
 
-- Poor visibility, sea detection, and sub detection
-- Expensive to build and repair
+-   Poor visibility, sea detection, and sub detection
+-   Expensive to build and repair
 
-#### [ ]{#Battle*Cruisers*(BC):_(aka_Scrap_Metal)} [ Battle Cruisers (BC): (aka *Scrap Metal* ) ]{#Battle_Cruisers_.28BC.29:\_.28aka_Scrap_Metal.29 .mw-headline}
+#### [ ]{#Battle_Cruisers_(BC):_(aka_Scrap_Metal)} [ Battle Cruisers (BC): (aka *Scrap Metal* ) ]{#Battle_Cruisers_.28BC.29:_.28aka_Scrap_Metal.29 .mw-headline}
 
 Strengths:
 
-- Average combat effectiveness
-- Slightly stronger and tougher than heavy cruisers
+-   Average combat effectiveness
+-   Slightly stronger and tougher than heavy cruisers
 
 Weaknesses:
 
-- Poor visibility, sea detection, and sub detection
-- Expensive to build and repair
+-   Poor visibility, sea detection, and sub detection
+-   Expensive to build and repair
 
-#### [ ]{#Heavy*cruisers*(CA):_(aka_Poor_Man's_Battleship)} [ Heavy cruisers (CA): (aka *Poor Man\'s Battleship* ) ]{#Heavy_cruisers_.28CA.29:\_.28aka_Poor_Man.27s_Battleship.29 .mw-headline}
+#### [ ]{#Heavy_cruisers_(CA):_(aka_Poor_Man's_Battleship)} [ Heavy cruisers (CA): (aka *Poor Man\'s Battleship* ) ]{#Heavy_cruisers_.28CA.29:_.28aka_Poor_Man.27s_Battleship.29 .mw-headline}
 
 Strengths:
 
-- Most cost-effective capital surface vessel for close combat
-- Most cost-effective shore bombardment
+-   Most cost-effective capital surface vessel for close combat
+-   Most cost-effective shore bombardment
 
 Weaknesses:
 
-- Decent visibility, sea detection, and sub detection
+-   Decent visibility, sea detection, and sub detection
 
-#### [ ]{#Submarines*(SS):*(aka*Silent_Killers)} [ Submarines (SS): (aka *Silent Killers* ) ]{#Submarines*.28SS.29:\_.28aka_Silent_Killers.29 .mw-headline}
+#### [ ]{#Submarines_(SS):_(aka_Silent_Killers)} [ Submarines (SS): (aka *Silent Killers* ) ]{#Submarines_.28SS.29:_.28aka_Silent_Killers.29 .mw-headline}
 
 Strengths:
 
-- In ARMA: cost effective combat unit in wolfpack sizes (preferably 30
-  pack)
-- In HoI2: good combat capabilities
-- Excellent convoy raiding capabilities
-- Cheap to build and research, poor man\'s navy
+-   In ARMA: cost effective combat unit in wolfpack sizes (preferably 30
+    pack)
+-   In HoI2: good combat capabilities
+-   Excellent convoy raiding capabilities
+-   Cheap to build and research, poor man\'s navy
 
 Weaknesses:
 
-- In DD: extremely poor combat capabilities
-- Late-game ASW is deadly for submarines (1.3beta Armagddon patch
-  only)
+-   In DD: extremely poor combat capabilities
+-   Late-game ASW is deadly for submarines (1.3beta Armagddon patch
+    only)
 
 ### [ Screens ]{#Screens .mw-headline}
 
-#### [ ]{#Light*cruisers*(CL)} [ Light cruisers (CL) ]{#Light*cruisers*.28CL.29 .mw-headline}
+#### [ ]{#Light_cruisers_(CL)} [ Light cruisers (CL) ]{#Light_cruisers_.28CL.29 .mw-headline}
 
 Strengths:
 
-- Decent combat effectiveness, toughest screen
-- Good [Combat Range](/wiki/Combat_Range "Combat Range") , can support
-  Heavy Cruisers in combat
+-   Decent combat effectiveness, toughest screen
+-   Good [Combat Range](/wiki/Combat_Range "Combat Range") , can support
+    Heavy Cruisers in combat
 
 Weaknesses:
 
-- Relatively expensive to build and repair for a screen
-- Doomsday: sub attack is much lower than for DD
+-   Relatively expensive to build and repair for a screen
+-   Doomsday: sub attack is much lower than for DD
 
-#### [ ]{#Destroyers*(DD)} [ Destroyers (DD) ]{#Destroyers*.28DD.29 .mw-headline}
+#### [ ]{#Destroyers_(DD)} [ Destroyers (DD) ]{#Destroyers_.28DD.29 .mw-headline}
 
 Strengths:
 
-- Most cost-effective screen
-- Excellent sub detection and attack
+-   Most cost-effective screen
+-   Excellent sub detection and attack
 
 Weaknesses:
 
-- Short combat range
+-   Short combat range
 
 ## [ Task Forces ]{#Task_Forces .mw-headline}
 
-### [ ]{#Carrier*Task_Force*(CTF)} [ [Carrier Task Force](/wiki/Carrier_Task_Force "Carrier Task Force") (CTF) ]{#Carrier*Task_Force*.28CTF.29 .mw-headline}
+### [ ]{#Carrier_Task_Force_(CTF)} [ [Carrier Task Force](/wiki/Carrier_Task_Force "Carrier Task Force") (CTF) ]{#Carrier_Task_Force_.28CTF.29 .mw-headline}
 
 The **Carrier Task Force** (CTF) is quite different to the [Surface
 Action Group](/wiki/Surface_Action_Group "Surface Action Group") (SAG).
@@ -290,23 +293,23 @@ combatant group in the game.
 A strong composition for a CTF, considering a fleet size of 18, is as
 follows:
 
-- 6 CVs depending on the level of enemy resistance expected
-- 2 CVLs as damage soaks against surface ships in bad weather
-- 10 DDs to provide screens for the capitals, defence against subs and
-  enemy air
+-   6 CVs depending on the level of enemy resistance expected
+-   2 CVLs as damage soaks against surface ships in bad weather
+-   10 DDs to provide screens for the capitals, defence against subs and
+    enemy air
 
 Some players advocate using CAs instead of CVLs as damage soaks. For
 HoI2, this was the ideal soaking ship, as the CVL didn\'t exist. For
 Doomsday and Armageddon, however, a CVL is better suited, as it has a
 far better detection/visibility ratio than a CA.
 
-### [ ]{#Surface*Action_Group*(SAG)} [ [Surface Action Group](/wiki/Surface_Action_Group "Surface Action Group") (SAG) ]{#Surface*Action_Group*.28SAG.29 .mw-headline}
+### [ ]{#Surface_Action_Group_(SAG)} [ [Surface Action Group](/wiki/Surface_Action_Group "Surface Action Group") (SAG) ]{#Surface_Action_Group_.28SAG.29 .mw-headline}
 
 The **Surface Action Group** is quite different to the [Carrier Task
 Force](/wiki/Carrier_Task_Force "Carrier Task Force") (CTF). The SAG
 relies on killing its enemy, rather than driving it from the area. A SAG
 is a task force of surface ships whose primary duty is to attack and
-sink other surface ships. It relies on _Gun Ships_ to do direct damage
+sink other surface ships. It relies on *Gun Ships* to do direct damage
 to the Strength of other ships. A SAG also excels in its secondary duty
 of providing Shore Bombardment support to friendly land units fighting
 in coastal areas.
@@ -320,10 +323,10 @@ cost effective, since 3 BBs can be built for every 2 SHBBs. Finally,
 Heavy Cruisers (CA) can be used, for a cheap, yet still reasonably
 strong SAG.
 
-- 6 [Super Heavy Battleships](/wiki/Battleship "Battleship") (SHBB)
-  (or normal Battleships)
-- 2 [Light Carriers](/wiki/Escort_Carrier "Escort Carrier") (CVL)
-- 10 [Destroyers](/wiki/Destroyer "Destroyer") (DD)
+-   6 [Super Heavy Battleships](/wiki/Battleship "Battleship") (SHBB)
+    (or normal Battleships)
+-   2 [Light Carriers](/wiki/Escort_Carrier "Escort Carrier") (CVL)
+-   10 [Destroyers](/wiki/Destroyer "Destroyer") (DD)
 
 #### [ Zerg Fleets ]{#Zerg_Fleets .mw-headline}
 
@@ -348,9 +351,9 @@ exploit.
 
 ##### [ The Original Cruizerg Fleet ]{#The_Original_Cruizerg_Fleet .mw-headline}
 
-- 5 (1938) Heavy Cruisers (CA)
-- 2 Light Carriers (CVL)
-- 11 (1938) Light Cruisers with fire control (CL-FC)
+-   5 (1938) Heavy Cruisers (CA)
+-   2 Light Carriers (CVL)
+-   11 (1938) Light Cruisers with fire control (CL-FC)
 
 For a total of 18 Ships.
 
@@ -371,7 +374,7 @@ tactics](/wiki/Gamey_tactics "Gamey tactics") , but is certainly an
 effective killing machine. Usually, plain DD-fleets can close in to 5km
 range by the second hour of battle.
 
-- 60 - 90 DD
+-   60 - 90 DD
 
 ##### [ Cruizerg Fleets for Doomsday ]{#Cruizerg_Fleets_for_Doomsday .mw-headline}
 
@@ -379,25 +382,25 @@ Doomsday lacks naval brigades, so one has to use obsolete vessels to
 make the strategy work. There are two setups, one involving either all
 CA-IIs and CL-IVs or a mix of CA-IIs and CA-IIIs, the second consisting
 of all CA-IIIs and CL-VIs. Note that at least one of the CAs needs to be
-of one level _lower_ than the CLs, so that their range is identical.
+of one level *lower* than the CLs, so that their range is identical.
 CVLs are necessary as well, to ensure the fleet will close with CTFs. In
 Doomsday, CVLs can still magically close the combat range to their
 preferred range. This was rectified with the Armageddon 1.3beta patch.
 
 ###### [ Early-Game Composition ]{#Early-Game_Composition .mw-headline}
 
-- 2 CA-II (Absolutely necessary for the strategy to work to allow
-  CL-IV to be in range since the CVL will go to the lowest ranged
-  capital ship)
-- 4 CA-III (CA-II will work here as well)
-- 2 CVL
-- 10 CL-IV
+-   2 CA-II (Absolutely necessary for the strategy to work to allow
+    CL-IV to be in range since the CVL will go to the lowest ranged
+    capital ship)
+-   4 CA-III (CA-II will work here as well)
+-   2 CVL
+-   10 CL-IV
 
 ###### [ Late-Game Composition ]{#Late-Game_Composition .mw-headline}
 
-- 6 CA-III
-- 2 CVL
-- 10 CL-VI
+-   6 CA-III
+-   2 CVL
+-   10 CL-VI
 
 #### [ Hybrid Fleet Composition ]{#Hybrid_Fleet_Composition .mw-headline}
 
@@ -406,10 +409,10 @@ battle prowess superior to the the cruizerg, look no further. I\'ve
 taken down other human players using cruizerg fleets with this, but it
 can still be taken down by destroyer zerg fleets.
 
-- 4 BB-VII-FX (SHBB)
-- 2 BB-III (no FX, important\*)
-- 2 CVL
-- 10 CL-IV-FC(2)
+-   4 BB-VII-FX (SHBB)
+-   2 BB-III (no FX, important\*)
+-   2 CVL
+-   10 CL-IV-FC(2)
 
 \'\* BB-III and CL-IV-FC (with an upgraded FC) both have a range of 34,
 if you put a FX on the BB-III\'s, the light cruisers will not be able to
@@ -419,14 +422,14 @@ a much bigger punch.
 
 For later naval warfare:
 
-- 4 BB-IX-FX (SHBB2)
-- 2 BB)IV (no FX, same reason as above)
-- 2 CVL
-- 10 CL-VI-FC(2)
+-   4 BB-IX-FX (SHBB2)
+-   2 BB)IV (no FX, same reason as above)
+-   2 CVL
+-   10 CL-VI-FC(2)
 
 The engagement range here is 36 and has better firepower.
 
-### [ ]{#Marine*Amphibious_Force*(MAF)} [ [Marine Amphibious Force](/wiki/Marine_Amphibious_Force "Marine Amphibious Force") (MAF) ]{#Marine*Amphibious_Force*.28MAF.29 .mw-headline}
+### [ ]{#Marine_Amphibious_Force_(MAF)} [ [Marine Amphibious Force](/wiki/Marine_Amphibious_Force "Marine Amphibious Force") (MAF) ]{#Marine_Amphibious_Force_.28MAF.29 .mw-headline}
 
 A **Marine Amphibious Force** is a limited [Surface Action
 Group](/wiki/Surface_Action_Group "Surface Action Group") (SAG) with
@@ -449,22 +452,22 @@ of defeat or retreat, troops can retreat to the transports.
 
 Three philosophies are debated, currently.
 
-1.  _TP-only fleets_ : This playstyle argues that TPs should be left in
+1.  *TP-only fleets* : This playstyle argues that TPs should be left in
     TP-only fleets. The reason is that TP-only fleets have a optimal
     [combat
     range](/wiki/index.php?title=Naval_primer&action=edit&redlink=1 "Naval primer (page does not exist)"){.new}
     of 450+km and then flee. Adding even a single warship will decrease
     this and let the TPs participate in combat, where they can only
     lose.
-2.  _CV-protection_ : Followers of this idea argue that adding a CV to
+2.  *CV-protection* : Followers of this idea argue that adding a CV to
     the fleet will put the fleet at a distance to all surface fleets
     that do not contain carriers, thus protecting the TPs better than if
     they are sent out alone.
-3.  _Surface fleet_ : This is the \"old-school\" version of a MAF:
+3.  *Surface fleet* : This is the \"old-school\" version of a MAF:
     combine your TPs with a sufficiently strong SAG to defend the
     transports.
 
-### [ ]{#Anti-Submarine*Warfare_Group*(ASW*Group)} [ [Anti-Submarine Warfare Group](/wiki/Anti-Submarine_Warfare_Group "Anti-Submarine Warfare Group") (ASW Group) ]{#Anti-Submarine_Warfare_Group*.28ASW_Group.29 .mw-headline}
+### [ ]{#Anti-Submarine_Warfare_Group_(ASW_Group)} [ [Anti-Submarine Warfare Group](/wiki/Anti-Submarine_Warfare_Group "Anti-Submarine Warfare Group") (ASW Group) ]{#Anti-Submarine_Warfare_Group_.28ASW_Group.29 .mw-headline}
 
 An **Anti-Submarine Warfare Group** is a group of ships whose role is to
 hunt and sink enemy [subs](/wiki/Submarine "Submarine") . Since the
@@ -479,9 +482,9 @@ late-game, it is very deadly.
 
 Best is smaller numbers for increased range:
 
-- 2 CVLs
-- 2 CLs
-- 4 DDs (possibly with ASW naval brigade)
+-   2 CVLs
+-   2 CLs
+-   4 DDs (possibly with ASW naval brigade)
 
 ### [ Submarine [Wolfpack](/wiki/Wolfpack "Wolfpack") ]{#Submarine_Wolfpack .mw-headline}
 
@@ -501,7 +504,7 @@ The other requirement for Sub-fleet positioning is that together they
 must form a complete blockade-cordon, cutting the enemy capital from all
 possible convoy destinations. The AI will automatically shift the route
 of a Convoy that has suffered U-Boat or Air attack\... but this won\'t
-help it at all as long as _all possible_ Convoy-routes are covered by
+help it at all as long as *all possible* Convoy-routes are covered by
 subs.
 
 #### [ Doomsday and Armageddon ]{#Doomsday_and_Armageddon .mw-headline}
@@ -554,23 +557,23 @@ tactics you should use in dealing with it.
 
 **Basic facts:**
 
-- The higher your fleet\'s positioning, the more chance that your
-  ships will begin the battle in position to fire on the enemy and the
-  greater chance that your shorter ranged screening ships will be in
-  position to help defend the heavies;
-- The lower your positioning, the more chance you will have to spend
-  one or more rounds maneuvering before any of your ships can even
-  shoot at anything, and the less chance your screen will be in
-  position to defend your more valuable capital ships.
-- When there is no real positioning advantage, the opposing fleets
-  will tend to begin the engagement separated by a distance
-  approximately equal to the range of the longest-ranged ship in the
-  entire engagement and both sides\' screens will be slightly out of
-  position but not badly so.
+-   The higher your fleet\'s positioning, the more chance that your
+    ships will begin the battle in position to fire on the enemy and the
+    greater chance that your shorter ranged screening ships will be in
+    position to help defend the heavies;
+-   The lower your positioning, the more chance you will have to spend
+    one or more rounds maneuvering before any of your ships can even
+    shoot at anything, and the less chance your screen will be in
+    position to defend your more valuable capital ships.
+-   When there is no real positioning advantage, the opposing fleets
+    will tend to begin the engagement separated by a distance
+    approximately equal to the range of the longest-ranged ship in the
+    entire engagement and both sides\' screens will be slightly out of
+    position but not badly so.
 
 **What affects Positioning**
 
-- Suprise
+-   Suprise
 
 Having surprise on your side increases your positioning and lowers your
 enemy\'s, which will adjust that starting distance towards the range of
@@ -578,7 +581,7 @@ the longest ranged ship in your own fleet and put the enemy\'s screens
 further out of position allowing you to concentrate fire on the more
 valuable enemy targets.
 
-- Fleet Composition
+-   Fleet Composition
 
 That said, when dealing with a 30-ship fleet heavy with BBs, don\'t
 waste time trying to tweak your fleet composition to improve your chance
@@ -587,7 +590,7 @@ to best deal with the inevitably poor positioning it will have to endure
 most of the time. Generally this means including extra scorts who can
 absorb damage for your heavies and provide extra air defence.
 
-- Leadership
+-   Leadership
 
 Leadership also plays a role in positioning, with higher leadership
 values and certain traits imparting bonuses to positioning, but these
@@ -658,19 +661,19 @@ it became possible for an SAG with CVLs to close distance.
 **Combat Range** in Naval battles has an optimal value. This value is
 believed to be calculated as described below
 
-- [CV](/wiki/CV "CV"){.mw-redirect} is the highest class in
-  calculating optimal range.
-- [Capital Ship](/wiki/Capital_Ship "Capital Ship") or
-  [CVL](/wiki/CVL "CVL"){.mw-redirect} is the second highest class in
-  calculating optimal range.
-- [Screen Ship](/wiki/Screen_Ship "Screen Ship") is the lowest class
-  in calulating optimal range.
-- **Unique class\'s**
-  - [Submarine](/wiki/Submarine "Submarine") ONLY fleets will
-    attempt to be at 90% of the maximum range of the shortest range
-    submarine
-  - [Transport](/wiki/Transport "Transport") ONLY fleets will
-    attempt to be at 450+ km and then flee.
+-   [CV](/wiki/CV "CV"){.mw-redirect} is the highest class in
+    calculating optimal range.
+-   [Capital Ship](/wiki/Capital_Ship "Capital Ship") or
+    [CVL](/wiki/CVL "CVL"){.mw-redirect} is the second highest class in
+    calculating optimal range.
+-   [Screen Ship](/wiki/Screen_Ship "Screen Ship") is the lowest class
+    in calulating optimal range.
+-   **Unique class\'s**
+    -   [Submarine](/wiki/Submarine "Submarine") ONLY fleets will
+        attempt to be at 90% of the maximum range of the shortest range
+        submarine
+    -   [Transport](/wiki/Transport "Transport") ONLY fleets will
+        attempt to be at 450+ km and then flee.
 
 **Optimal Range** will always be **90%** of the **maximum** range of the
 **shortest** range of the **highest** ship class.
@@ -679,7 +682,7 @@ i.e. If you have two [Capital Ship](/wiki/Capital_Ship "Capital Ship")
 \'s in a fleet. One with a range of 30 and the other with a range of 28,
 the optimal range will be 90% of 28.
 
-_NOTE_ , Range of a lower class is ignored. If you have a [Capital
+*NOTE* , Range of a lower class is ignored. If you have a [Capital
 Ship](/wiki/Capital_Ship "Capital Ship") in a fleet with a range of 28
 and the rest of the fleet is [Screen
 Ship](/wiki/Screen_Ship "Screen Ship") \'s with ranges of 32 the optimal
@@ -693,109 +696,106 @@ Leadership has three main affects on your naval operations as do leader
 traits, and these can be very critical so care should be taken to
 consider all of these when assigning leaders.
 
-- _Command limit_ \-- a leader\'s rank determines how many ships he
-  may simultaneously command without suffering command penalties. This
-  works pretty much like land combat command limits except that the
-  number of units allowed is different per rank level, ranging from 6
-  to 30 instead of from 1 to 12. Also,
-  [HQs](/wiki/HQ "HQ"){.mw-redirect} have no effect on naval command,
-  so there is no naval equivalent of the HQ unit\'s \"doubling\"
-  effect on command limits as seen in land combat. When a leader ends
-  up in a position where he has more ships under his command than his
-  command limit allows, all ships beyond the limit get no benefits
-  from his leadership traits and suffer a 25% penalty to their
-  effectiveness to boot. Finally, just like land combat, one leader
-  must command _all_ the friendly forces in a particular battle, even
-  if they come from multiple fleets, or even from different allied
-  nationalities.
+-   *Command limit* \-- a leader\'s rank determines how many ships he
+    may simultaneously command without suffering command penalties. This
+    works pretty much like land combat command limits except that the
+    number of units allowed is different per rank level, ranging from 6
+    to 30 instead of from 1 to 12. Also,
+    [HQs](/wiki/HQ "HQ"){.mw-redirect} have no effect on naval command,
+    so there is no naval equivalent of the HQ unit\'s \"doubling\"
+    effect on command limits as seen in land combat. When a leader ends
+    up in a position where he has more ships under his command than his
+    command limit allows, all ships beyond the limit get no benefits
+    from his leadership traits and suffer a 25% penalty to their
+    effectiveness to boot. Finally, just like land combat, one leader
+    must command *all* the friendly forces in a particular battle, even
+    if they come from multiple fleets, or even from different allied
+    nationalities.
 
 ```{=html}
 <!-- -->
 ```
-
-- - **Transports & Large Fleets:** Unlike HoI 1, there is no free
-    ride for Transports. Every
-    [TP](/wiki/index.php?title=TP&action=edit&redlink=1 "TP (page does not exist)"){.new}
-    in the fleet counts against the command limit of the fleet\'s
-    leader. There is a loophole here, though. Since the game engine
-    ranks all combat vessels ahead of TPs when it arranges them for
-    effectiveness calculation, the TPs will be the first ones to get
-    the \"over command limit\" penalty of 25% and lose the leader\'s
-    bonuses. And since the TPs aren\'t fighting in the battle
-    anyway, this means your combatants can get away without the
-    penalty as long as their total number not counting the number of
-    TPs is within the leader\'s limit. Thus, a fleet of 30
-    combatants plus 30 TPs led by a Grand Admiral (command limit 30)
-    would suffer no penalty to its combat effectiveness from
-    leadership once engaged. There is a catch, of course: those TPs
-    would not benefit from such traits as Spotter or Blockade Runner
-    and would severely handicap the fleet\'s positioning value as a
-    result, plus non-TPs ships over the limit would still increase
-    the stacking penalty for _all_ ships in the group (see
-    [stacking](/wiki/Naval_Primer#stacking "Naval Primer") , below);
-    so you don\'t want to play fast and loose with the command
-    limit. Finally, large task forces are very likely to be
-    surprised, and thus suffer positioning penalties.
+-   -   **Transports & Large Fleets:** Unlike HoI 1, there is no free
+        ride for Transports. Every
+        [TP](/wiki/index.php?title=TP&action=edit&redlink=1 "TP (page does not exist)"){.new}
+        in the fleet counts against the command limit of the fleet\'s
+        leader. There is a loophole here, though. Since the game engine
+        ranks all combat vessels ahead of TPs when it arranges them for
+        effectiveness calculation, the TPs will be the first ones to get
+        the \"over command limit\" penalty of 25% and lose the leader\'s
+        bonuses. And since the TPs aren\'t fighting in the battle
+        anyway, this means your combatants can get away without the
+        penalty as long as their total number not counting the number of
+        TPs is within the leader\'s limit. Thus, a fleet of 30
+        combatants plus 30 TPs led by a Grand Admiral (command limit 30)
+        would suffer no penalty to its combat effectiveness from
+        leadership once engaged. There is a catch, of course: those TPs
+        would not benefit from such traits as Spotter or Blockade Runner
+        and would severely handicap the fleet\'s positioning value as a
+        result, plus non-TPs ships over the limit would still increase
+        the stacking penalty for *all* ships in the group (see
+        [stacking](/wiki/Naval_Primer#stacking "Naval Primer") , below);
+        so you don\'t want to play fast and loose with the command
+        limit. Finally, large task forces are very likely to be
+        surprised, and thus suffer positioning penalties.
 
 Also, leader traits aside, a task force that large would be pretty much
-impossible _not_ to surprise, so would constantly be at the short end of
-the positioning stick. Bottom line: if you don\'t _need_ to exceed the
+impossible *not* to surprise, so would constantly be at the short end of
+the positioning stick. Bottom line: if you don\'t *need* to exceed the
 command limit of a leader for some overriding reason, then don\'t.
 Remember also that just like land combat, units suffering the penalty
 are likely to break early due to org losses and force the entire fleet
 to retreat early as a result. And don\'t forget that,
 
-- _Leadership skill and positioning_ \-- The higher a leader\'s skill
-  rating, the better chance his force will enjoy better positioning at
-  the start of a battle. This effect is eclipsed, however, by
-  detection and visibility. For example, a skill 5 leader commanding a
-  fleet of [BBs](/wiki/BB "BB"){.mw-redirect} will still be
-  disadvantaged in positioning when encountering a skill 1 leader
-  commanding a couple of [CVs](/wiki/CV "CV"){.mw-redirect} and
-  [DDs](/wiki/DD "DD") . Fleet composition is far more important in
-  that regard. But don\'t ignore it, either!
+-   *Leadership skill and positioning* \-- The higher a leader\'s skill
+    rating, the better chance his force will enjoy better positioning at
+    the start of a battle. This effect is eclipsed, however, by
+    detection and visibility. For example, a skill 5 leader commanding a
+    fleet of [BBs](/wiki/BB "BB"){.mw-redirect} will still be
+    disadvantaged in positioning when encountering a skill 1 leader
+    commanding a couple of [CVs](/wiki/CV "CV"){.mw-redirect} and
+    [DDs](/wiki/DD "DD") . Fleet composition is far more important in
+    that regard. But don\'t ignore it, either!
 
 ```{=html}
 <!-- -->
 ```
-
-- _Leadership skill and combat effectiveness_ \-- this functions just
-  like land combat. The higher the leader\'s skill, the more effective
-  his ships will be in combat once engaged. Again, however, this is
-  often eclipsed by positioning. The same skill 5 leader commanding a
-  fleet of BBs will not get full use of his effectiveness bonus when a
-  skill 1 leader commanding a CTF engages him from a range of 200
-  miles, because his ships won\'t be able to shoot back anyway. They
-  will, however, enjoy a better chance to defend themselves from the
-  air attacks while they move into range of, or retreat from, the CTF.
-  So leader skill is still important, but by itself won\'t save you
-  from bad fleet composition.
+-   *Leadership skill and combat effectiveness* \-- this functions just
+    like land combat. The higher the leader\'s skill, the more effective
+    his ships will be in combat once engaged. Again, however, this is
+    often eclipsed by positioning. The same skill 5 leader commanding a
+    fleet of BBs will not get full use of his effectiveness bonus when a
+    skill 1 leader commanding a CTF engages him from a range of 200
+    miles, because his ships won\'t be able to shoot back anyway. They
+    will, however, enjoy a better chance to defend themselves from the
+    air attacks while they move into range of, or retreat from, the CTF.
+    So leader skill is still important, but by itself won\'t save you
+    from bad fleet composition.
 
 ```{=html}
 <!-- -->
 ```
-
-- _Leader traits_ \-- Because surprise is now handled pretty much the
-  same for everyone as simply a component of positioning, the leader
-  traits are now more universally useful. In HoI 1 the Spotter and
-  Blockade Runner traits were most effective for CTFs and MAFs, for
-  example, but are now useful to any fleet that has a need to improve
-  its positioning value. So just evaluate your fleet\'s mission and
-  composition, and then assign the leader with the skill and traits
-  that best augment its ability to carry out that mission. There is a
-  basic principle of warfare: always support strength, never support
-  weakness. In this context that means don\'t bother assigning a
-  Blockade Runner to command a force with pitiful positioning values.
-  His strength is wasted there because it will never overcome the
-  positioning deficit caused by the fleet\'s composition. If a fleet
-  is composed in such a way that it is going to suffer from a severe
-  positioning handicap, assign a leader with skill and traits that
-  will improve its ability to cope with that positioning handicap,
-  like Expert Tactician. If the fleet is marginal on positioning but
-  is on a mission where it requires good positioning to ensure
-  success, like ASW or interdiction missions, then assign a leader
-  with Spotter and/or Blockade Runner traits to give it that
-  positioning boost it needs.
+-   *Leader traits* \-- Because surprise is now handled pretty much the
+    same for everyone as simply a component of positioning, the leader
+    traits are now more universally useful. In HoI 1 the Spotter and
+    Blockade Runner traits were most effective for CTFs and MAFs, for
+    example, but are now useful to any fleet that has a need to improve
+    its positioning value. So just evaluate your fleet\'s mission and
+    composition, and then assign the leader with the skill and traits
+    that best augment its ability to carry out that mission. There is a
+    basic principle of warfare: always support strength, never support
+    weakness. In this context that means don\'t bother assigning a
+    Blockade Runner to command a force with pitiful positioning values.
+    His strength is wasted there because it will never overcome the
+    positioning deficit caused by the fleet\'s composition. If a fleet
+    is composed in such a way that it is going to suffer from a severe
+    positioning handicap, assign a leader with skill and traits that
+    will improve its ability to cope with that positioning handicap,
+    like Expert Tactician. If the fleet is marginal on positioning but
+    is on a mission where it requires good positioning to ensure
+    success, like ASW or interdiction missions, then assign a leader
+    with Spotter and/or Blockade Runner traits to give it that
+    positioning boost it needs.
 
 ### [ Stacking ]{#Stacking .mw-headline}
 
@@ -803,7 +803,7 @@ This is the only area in which TPs get a free ride. Stacking penalties,
 not to be confused with command limits, apply to any naval force in
 involved in combat that contains more than 2 non-transport vessels. The
 penalty takes the form of -1% effectiveness for each non-TP ship beyond
-the first two. This penalty is applied to the _entire fleet_ . So a
+the first two. This penalty is applied to the *entire fleet* . So a
 fleet with 10 combat surface ships, 2 subs and 18 transports would
 suffer a 10% effectiveness hit when engaged in combat (12 non-TP vessels
 minus the first two as freebies = 10). However, that fleet would suffer
@@ -827,7 +827,7 @@ things will be the logical next step:
     quickly. Be sure the port has capacity at the moment, though. A
     10-capacity port that already has 12 damaged ships in it is going to
     greatly slow the rate of all ship repairs done there if you go and
-    add another 12 damaged ships to its workload. Ships do _not_ need to
+    add another 12 damaged ships to its workload. Ships do *not* need to
     return to the port they are based at to repair, so just give them a
     move order to somewhere else nearby that has decent free port
     capacity. On a side note: port capacity is not terribly important in
@@ -849,4 +849,4 @@ things will be the logical next step:
 3.  If you don\'t need to repair and you need your ships to continue
     what they were doing before the combat happened, then do nothing.
     They will automatically continue executing their previous orders.
-    :::
+:::

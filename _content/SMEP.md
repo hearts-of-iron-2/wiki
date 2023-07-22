@@ -1,7 +1,6 @@
 ---
 title: SMEP
 ---
-
 ::: mw-parser-output
 SMEP leaves the core gameplay of Hearts of Iron II intact. However, some
 things were not up to snuff. These are the things SMEP attempts to

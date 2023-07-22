@@ -1,7 +1,6 @@
 ---
 title: Persia
 ---
-
 ::: mw-parser-output
 ::: {.eu4box style="width:330px; height:auto; float:right; clear:right"}
 ::: heading
@@ -14,7 +13,7 @@ title: Persia
 [Major powers](/wiki/Major_power "Major power"){.mw-redirect}
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [France](/wiki/France "France")\
@@ -30,7 +29,7 @@ title: Persia
 Regional powers
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [Argentina](/wiki/Argentina "Argentina")\
@@ -58,7 +57,7 @@ Regional powers
 [Minor powers](/wiki/Minor_power "Minor power"){.mw-redirect}
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [Austria](/wiki/Austria "Austria")\
@@ -81,7 +80,7 @@ Regional powers
 [Micro powers](/wiki/Micro_power "Micro power"){.mw-redirect}
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [Afghanistan](/wiki/Afghanistan "Afghanistan")\
@@ -134,13 +133,13 @@ military, and minimal technology.
 
 ## [ General Tips ]{#General_Tips .mw-headline}
 
-- Unless you enter war with the United Kingdom or the Soviet Union,
-  you will be pushed toward supporting the Allies. In Doomssay, you
-  will join the Allies as a UK puppet.
+-   Unless you enter war with the United Kingdom or the Soviet Union,
+    you will be pushed toward supporting the Allies. In Doomssay, you
+    will join the Allies as a UK puppet.
 
 ## [ Events ]{#Events .mw-headline}
 
-_Main article: [Persian events](/wiki/Persian_events "Persian events")_\
+*Main article: [Persian events](/wiki/Persian_events "Persian events")*\
 
 ## [ AI ]{#AI .mw-headline}
 

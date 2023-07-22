@@ -1,7 +1,6 @@
 ---
 title: Provinces_by_ID,_part_1
 ---
-
 ::: mw-parser-output
 This overview shows provinces with IDs ranging from **1** to **849**
 sorted numerically. Continued in [Part 2 ( **850** to **1699**
@@ -11,30 +10,29 @@ sorted numerically. Continued in [Part 2 ( **850** to **1699**
 
 ::: {#toc .toc aria-labelledby="mw-toc-heading" role="navigation"}
 ::: {.toctitle dir="ltr" lang="en"}
-
 ## Contents {#mw-toc-heading}
 
 [ ]{.toctogglespan}
 :::
 
-- [[ 1 ]{.tocnumber} [ 1 ]{.toctext}](#1)
-- [[ 2 ]{.tocnumber} [ 51 ]{.toctext}](#51)
-- [[ 3 ]{.tocnumber} [ 101 ]{.toctext}](#101)
-- [[ 4 ]{.tocnumber} [ 151 ]{.toctext}](#151)
-- [[ 5 ]{.tocnumber} [ 201 ]{.toctext}](#201)
-- [[ 6 ]{.tocnumber} [ 251 ]{.toctext}](#251)
-- [[ 7 ]{.tocnumber} [ 301 ]{.toctext}](#301)
-- [[ 8 ]{.tocnumber} [ 351 ]{.toctext}](#351)
-- [[ 9 ]{.tocnumber} [ 401 ]{.toctext}](#401)
-- [[ 10 ]{.tocnumber} [ 451 ]{.toctext}](#451)
-- [[ 11 ]{.tocnumber} [ 501 ]{.toctext}](#501)
-- [[ 12 ]{.tocnumber} [ 551 ]{.toctext}](#551)
-- [[ 13 ]{.tocnumber} [ 601 ]{.toctext}](#601)
-- [[ 14 ]{.tocnumber} [ 651 ]{.toctext}](#651)
-- [[ 15 ]{.tocnumber} [ 701 ]{.toctext}](#701)
-- [[ 16 ]{.tocnumber} [ 751 ]{.toctext}](#751)
-- [[ 17 ]{.tocnumber} [ 801 ]{.toctext}](#801)
-  :::
+-   [[ 1 ]{.tocnumber} [ 1 ]{.toctext}](#1)
+-   [[ 2 ]{.tocnumber} [ 51 ]{.toctext}](#51)
+-   [[ 3 ]{.tocnumber} [ 101 ]{.toctext}](#101)
+-   [[ 4 ]{.tocnumber} [ 151 ]{.toctext}](#151)
+-   [[ 5 ]{.tocnumber} [ 201 ]{.toctext}](#201)
+-   [[ 6 ]{.tocnumber} [ 251 ]{.toctext}](#251)
+-   [[ 7 ]{.tocnumber} [ 301 ]{.toctext}](#301)
+-   [[ 8 ]{.tocnumber} [ 351 ]{.toctext}](#351)
+-   [[ 9 ]{.tocnumber} [ 401 ]{.toctext}](#401)
+-   [[ 10 ]{.tocnumber} [ 451 ]{.toctext}](#451)
+-   [[ 11 ]{.tocnumber} [ 501 ]{.toctext}](#501)
+-   [[ 12 ]{.tocnumber} [ 551 ]{.toctext}](#551)
+-   [[ 13 ]{.tocnumber} [ 601 ]{.toctext}](#601)
+-   [[ 14 ]{.tocnumber} [ 651 ]{.toctext}](#651)
+-   [[ 15 ]{.tocnumber} [ 701 ]{.toctext}](#701)
+-   [[ 16 ]{.tocnumber} [ 751 ]{.toctext}](#751)
+-   [[ 17 ]{.tocnumber} [ 801 ]{.toctext}](#801)
+:::
 
 Data has been updated for version **1.1** .
 

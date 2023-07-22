@@ -1,41 +1,40 @@
 ---
 title: Armageddon
 ---
-
 ::: mw-parser-output
 Hearts of Iron 2 Armageddon (HOI2 ARMA), is a booster pack for the HOI2
 Doomsday game.
 
 ## [ New Features ]{#New_Features .mw-headline}
 
-- New [brigades for Naval
-  units](/wiki/Brigade_Strategy_Guide#Naval_Brigades "Brigade Strategy Guide")
-- Land units can now be built with brigades already attached
-- An Air Naval combat system that radically alters the combat balance
-- New damage algorithms for the Air combat system, making organization
-  more important and allowing air units to fight longer.
-- New color scheme system allowing player to differentiate between
-  air, armor and infantry units
-- The ability to see all your moving units (the arrows on the top
-  left)
-- Two new fantasy scenarios called Abyss and Armageddon
-- The ability to choose what country can and cannot send expeditionary
-  forces
-- Now able to give orders to units, even before 24 hours have passed
-- Modable values in CV combat modifiers
-- Improved air combat system
-- Improved amphibious landing AI
-- AI now is more effective and retreating
-- Button to auto-deploy attachments to ships. its in the auto-control
-  page.
+-   New [brigades for Naval
+    units](/wiki/Brigade_Strategy_Guide#Naval_Brigades "Brigade Strategy Guide")
+-   Land units can now be built with brigades already attached
+-   An Air Naval combat system that radically alters the combat balance
+-   New damage algorithms for the Air combat system, making organization
+    more important and allowing air units to fight longer.
+-   New color scheme system allowing player to differentiate between
+    air, armor and infantry units
+-   The ability to see all your moving units (the arrows on the top
+    left)
+-   Two new fantasy scenarios called Abyss and Armageddon
+-   The ability to choose what country can and cannot send expeditionary
+    forces
+-   Now able to give orders to units, even before 24 hours have passed
+-   Modable values in CV combat modifiers
+-   Improved air combat system
+-   Improved amphibious landing AI
+-   AI now is more effective and retreating
+-   Button to auto-deploy attachments to ships. its in the auto-control
+    page.
 
 ## [ New Options ]{#New_Options .mw-headline}
 
-- Extended end date to 1964
-- The option to absorb tech teams from annexed countries
-- The option to get full amount of IC from occupied provinces (still
-  only half resources)
-- Democracies can now declare war
+-   Extended end date to 1964
+-   The option to absorb tech teams from annexed countries
+-   The option to get full amount of IC from occupied provinces (still
+    only half resources)
+-   Democracies can now declare war
 
 ## [ Abyss and Armageddon Explained ]{#Abyss_and_Armageddon_Explained .mw-headline}
 
@@ -55,28 +54,28 @@ ideological alliances. Here are the alliances :
 
 **Axis - Nationalist Socialist**
 
-- Empire of Russia
-- Indian Republic
-- Indo China
-- Prussia
-- Confederates
-- The Ottomans
+-   Empire of Russia
+-   Indian Republic
+-   Indo China
+-   Prussia
+-   Confederates
+-   The Ottomans
 
 **Allies - Market Liberal**
 
-- Australasia
-- Bourbon
-- Republic of China
-- Sweden
-- Cossacks
-- USNA
+-   Australasia
+-   Bourbon
+-   Republic of China
+-   Sweden
+-   Cossacks
+-   USNA
 
 **Comintern - Stalinist**
 
-- APR (African People\'s Republic)
-- European Soviets
-- PRRS (People\'s Republic of the Rising Sun)
-- Republic of Persia
-- Roma
-- Libertadores (South America)
-  :::
+-   APR (African People\'s Republic)
+-   European Soviets
+-   PRRS (People\'s Republic of the Rising Sun)
+-   Republic of Persia
+-   Roma
+-   Libertadores (South America)
+:::

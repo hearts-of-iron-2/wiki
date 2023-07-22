@@ -1,7 +1,6 @@
 ---
 title: Sweden
 ---
-
 ::: mw-parser-output
 ::: {.eu4box style="width:330px; height:auto; float:right; clear:right"}
 ::: heading
@@ -14,7 +13,7 @@ title: Sweden
 [Major powers](/wiki/Major_power "Major power"){.mw-redirect}
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [France](/wiki/France "France")\
@@ -30,7 +29,7 @@ title: Sweden
 Regional powers
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [Argentina](/wiki/Argentina "Argentina")\
@@ -58,7 +57,7 @@ Regional powers
 [Minor powers](/wiki/Minor_power "Minor power"){.mw-redirect}
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [Austria](/wiki/Austria "Austria")\
@@ -81,7 +80,7 @@ Regional powers
 [Micro powers](/wiki/Micro_power "Micro power"){.mw-redirect}
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [Afghanistan](/wiki/Afghanistan "Afghanistan")\
@@ -134,20 +133,19 @@ the major powers against each other.
 
 ::: {#toc .toc aria-labelledby="mw-toc-heading" role="navigation"}
 ::: {.toctitle dir="ltr" lang="en"}
-
 ## Contents {#mw-toc-heading}
 
 [ ]{.toctogglespan}
 :::
 
-- [[ 1 ]{.tocnumber} [ Peacetime ]{.toctext}](#Peacetime)
-- [[ 2 ]{.tocnumber} [ Wartime ]{.toctext}](#Wartime)
-- [[ 3 ]{.tocnumber} [ The Waiting Game
-  ]{.toctext}](#The_Waiting_Game)
-- [[ 4 ]{.tocnumber} [ Neutrality ]{.toctext}](#Neutrality)
-- [[ 5 ]{.tocnumber} [ Use WWII to your advantage
-  ]{.toctext}](#Use_WWII_to_your_advantage)
-  :::
+-   [[ 1 ]{.tocnumber} [ Peacetime ]{.toctext}](#Peacetime)
+-   [[ 2 ]{.tocnumber} [ Wartime ]{.toctext}](#Wartime)
+-   [[ 3 ]{.tocnumber} [ The Waiting Game
+    ]{.toctext}](#The_Waiting_Game)
+-   [[ 4 ]{.tocnumber} [ Neutrality ]{.toctext}](#Neutrality)
+-   [[ 5 ]{.tocnumber} [ Use WWII to your advantage
+    ]{.toctext}](#Use_WWII_to_your_advantage)
+:::
 
 ## [ Peacetime ]{#Peacetime .mw-headline}
 
@@ -201,7 +199,8 @@ rather avoiding to interfere in any hostile actions. Why not try this
 strategy in HOI2?
 
 Before I can give you any hints you should notice that this strategy is
-different and dove compared to conventional gameplay of Hearts of Iron 2.
+different and dove compared to conventional gameplay of Hearts of Iron
+2.
 
 Sweden begins with only a few units on land and a practically
 non-existent airforce wich in case of war would not make significant

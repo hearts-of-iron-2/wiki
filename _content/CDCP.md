@@ -1,9 +1,7 @@
 ---
 title: CDCP
 ---
-
 ::: mw-parser-output
-
 ## [ Introduction ]{#Introduction .mw-headline}
 
 The Community Database Cleanup Project (CDCP) is a mod which sole
@@ -13,14 +11,14 @@ is the closest thing the HOI2 community has to an \"unofficial\" patch.
 This mod has since incorporated into the 1.3 patch so there is no need
 to download it.
 
-- Mod Forum: [Paradox
-  Forum](http://forum.paradoxplaza.com/forum/showthread.php?t=313755&page=1&pp=20){.external
-  .text rel="nofollow"}
-- Current Version: 1.0 (\"absolutely final version\")
-- Last Update: October, 2008
-- Popularity: _1,000 - 5,000 posts_
-- Compatibility: [HOI2, DD,
-  ARMA](/wiki/Abbreviations#H "Abbreviations")
+-   Mod Forum: [Paradox
+    Forum](http://forum.paradoxplaza.com/forum/showthread.php?t=313755&page=1&pp=20){.external
+    .text rel="nofollow"}
+-   Current Version: 1.0 (\"absolutely final version\")
+-   Last Update: October, 2008
+-   Popularity: *1,000 - 5,000 posts*
+-   Compatibility: [HOI2, DD,
+    ARMA](/wiki/Abbreviations#H "Abbreviations")
 
 ## [ Features ]{#Features .mw-headline}
 
@@ -31,7 +29,7 @@ major mods like TRP or CORE, will however be waste of time. These mods
 changes more or less everything, in doing so they remove all changes
 made by CDCP.
 
-- [Complete Change
-  Log](http://files.filefront.com/Changelog+v10txt/;12091985;/fileinfo.html){.external
-  .text rel="nofollow"}
-  :::
+-   [Complete Change
+    Log](http://files.filefront.com/Changelog+v10txt/;12091985;/fileinfo.html){.external
+    .text rel="nofollow"}
+:::

@@ -1,7 +1,6 @@
 ---
 title: Multiplayer_Nationalist_China_Strategy
 ---
-
 ::: mw-parser-output
 **I want to translate this strategy to English, but it will take
 sometime.**
@@ -35,18 +34,17 @@ doctrine. No one really has an upper hand in the beginning.
 
 ::: {#toc .toc aria-labelledby="mw-toc-heading" role="navigation"}
 ::: {.toctitle dir="ltr" lang="en"}
-
 ## Contents {#mw-toc-heading}
 
 [ ]{.toctogglespan}
 :::
 
-- [[ 1 ]{.tocnumber} [ Production: ]{.toctext}](#Production:)
-- [[ 2 ]{.tocnumber} [ Research ]{.toctext}](#Research)
-- [[ 3 ]{.tocnumber} [ The Human Wave Doctrine
-  ]{.toctext}](#The_Human_Wave_Doctrine)
-- [[ 4 ]{.tocnumber} [ Air Superiority ]{.toctext}](#Air_Superiority)
-  :::
+-   [[ 1 ]{.tocnumber} [ Production: ]{.toctext}](#Production:)
+-   [[ 2 ]{.tocnumber} [ Research ]{.toctext}](#Research)
+-   [[ 3 ]{.tocnumber} [ The Human Wave Doctrine
+    ]{.toctext}](#The_Human_Wave_Doctrine)
+-   [[ 4 ]{.tocnumber} [ Air Superiority ]{.toctext}](#Air_Superiority)
+:::
 
 ## [ Production: ]{#Production: .mw-headline}
 
@@ -211,7 +209,7 @@ For example:
 A B C\_\_\_\_\_\_\_Each has 23 inf and one HQ, B attack, A & C support
 Attack
 
-     ↘ ↓ ↙
+     ↘ ↓ ↙ 
 
 D E F\_\_\_\_\_\_\_Each has 36 inf and militia mixed army.
 
@@ -242,7 +240,7 @@ time\" and \"Winter attack\" methods:
 
 A B C\_\_\_\_\_\_Each has 23 inf and one HQ
 
-     ↗ ↑ ↖
+     ↗ ↑ ↖ 
 
 D E F\_\_\_\_\_\_Each has 36 inf and militia mixed army.
 
@@ -617,7 +615,8 @@ lot.
 因此，一次宣幾個國，要拿捏清楚，一般會送兵的軍閥，我建議是一個一個來，至於西藏和新疆，我建議兩個一起來。
 
 吞併幾個軍閥？吞併順序為何呢？
-基本上，達到80IC是主要目標，其他就看玩家本身了。 我就談幾個打法：1.開戰前，打贏蔣桂戰爭→西北→滇
+基本上，達到80IC是主要目標，其他就看玩家本身了。 我就談幾個打法：
+1.開戰前，打贏蔣桂戰爭→西北→滇
 這是最穩的打法，但要花比較多的時間打下西北軍閥和滇系軍閥。
 這種打法可以避免日本想要向中國宣戰，因為日本初期兵力不足。
 在吞併完滇系後，西藏和新疆可以在和日本開戰前打，也可以在開戰後打，這個放在哪個順位就看玩家自己。

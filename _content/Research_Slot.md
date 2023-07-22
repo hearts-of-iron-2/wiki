@@ -1,7 +1,6 @@
 ---
 title: Research_Slot
 ---
-
 ::: mw-parser-output
 A research slot is the number of teams a nation may have actively
 researching at any given time. A nation will get one tech slot for free.

@@ -1,7 +1,6 @@
 ---
 title: Micro_Power
 ---
-
 ::: mw-parser-output
 A **Micro Power** is used to define a
 [nation](/wiki/index.php?title=Nation&action=edit&redlink=1 "Nation (page does not exist)"){.new}

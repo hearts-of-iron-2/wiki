@@ -1,7 +1,6 @@
 ---
 title: Vietnam
 ---
-
 ::: mw-parser-output
 Vietnam War Version 4.0 by FRVP
 

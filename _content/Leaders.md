@@ -1,30 +1,29 @@
 ---
 title: Leaders
 ---
-
 ::: mw-parser-output
 +-----------------------------------+-----------------------------------+
-| ::: {style="width: 52px;"} | **This article is a |
-| [![Ambox | [Stub](/wi |
-| stub.png](https | ki/Template:Stub "Template:Stub") |
-| ://central.paradoxwikis.com/image | , which means that it does not |
-| s/thumb/c/c0/Ambox_stub.png/50px- | sufficiently cover its subject |
-| Ambox_stub.png){file-height="150" | matter.**\ |
-| file-width="150" | [Please help expand |
-| url="https://central.para | [this](https://ho |
+| ::: {style="width: 52px;"}        | **This article is a               |
+| [![Ambox                          | [Stub](/wi                        |
+| stub.png](https                   | ki/Template:Stub "Template:Stub") |
+| ://central.paradoxwikis.com/image | , which means that it does not    |
+| s/thumb/c/c0/Ambox_stub.png/50px- | sufficiently cover its subject    |
+| Ambox_stub.png){file-height="150" | matter.**\                        |
+| file-width="150"                  | [Please help expand               |
+| url="https://central.para         | [this](https://ho                 |
 | doxwikis.com/images/thumb/c/c0/Am | i2.paradoxwikis.com/index.php?tit |
-| box*stub.png/50px-Ambox_stub.png" | le=Leaders&action=edit){.external |
-| decoding="async" height="50" | .text rel="nofollow"} article if |
-| loading="lazy" | you can.]{.small} |
-| srcset="https://central.p | |
-| aradoxwikis.com/images/thumb/c/c0 | |
-| /Ambox_stub.png/75px-Ambox_stub.p | |
-| ng 1.5x, https://central.paradoxw | |
-| ikis.com/images/thumb/c/c0/Ambox* | |
-| stub.png/100px-Ambox_stub.png 2x" | |
-| width="50"}](/ | |
-| wiki/File:Ambox_stub.png){.image} | |
-| ::: | |
+| box_stub.png/50px-Ambox_stub.png" | le=Leaders&action=edit){.external |
+| decoding="async" height="50"      | .text rel="nofollow"} article if  |
+| loading="lazy"                    | you can.]{.small}                 |
+| srcset="https://central.p         |                                   |
+| aradoxwikis.com/images/thumb/c/c0 |                                   |
+| /Ambox_stub.png/75px-Ambox_stub.p |                                   |
+| ng 1.5x, https://central.paradoxw |                                   |
+| ikis.com/images/thumb/c/c0/Ambox_ |                                   |
+| stub.png/100px-Ambox_stub.png 2x" |                                   |
+| width="50"}](/                    |                                   |
+| wiki/File:Ambox_stub.png){.image} |                                   |
+| :::                               |                                   |
 +-----------------------------------+-----------------------------------+
 
 \

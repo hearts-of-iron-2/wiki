@@ -1,9 +1,7 @@
 ---
 title: Modding_misc.txt
 ---
-
 ::: mw-parser-output
-
 ## [ Economy ]{#Economy .mw-headline}
 
 **IC to TC ratio** - how much TC you get for every point of IC; Paradox
@@ -92,5 +90,4 @@ used).
 v1.1)
 
 ## [ Research ]{#Research .mw-headline}
-
 :::

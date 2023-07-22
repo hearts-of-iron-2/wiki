@@ -1,10 +1,8 @@
 ---
 title: Command_Penalty_Capacity
 ---
-
 ::: mw-parser-output
-
-## [ ]{#Command*Penalty_Capacity*(i.e._the_-75%_penalty)} [ [Command Penalty Capacity]{.mw-selflink .selflink} (i.e. the -75% penalty) ]{#Command_Penalty_Capacity_.28i.e._the_-75.25_penalty.29 .mw-headline}
+## [ ]{#Command_Penalty_Capacity_(i.e._the_-75%_penalty)} [ [Command Penalty Capacity]{.mw-selflink .selflink} (i.e. the -75% penalty) ]{#Command_Penalty_Capacity_.28i.e._the_-75.25_penalty.29 .mw-headline}
 
 1.  When you group your armies its essential that you understand that
     each leader has a Command Penalty Capacity (CPC).
@@ -16,10 +14,10 @@ title: Command_Penalty_Capacity
     receive a -75% penalty.
 4.  For each attacking stack, it is the capacity of the most senior
     leader in the stack.
-    - if the most senior leader is an FM, then it is 12
-    - if the most senior leader is an GEN, then it is 9
-    - if the most senior leader is an LT, then it is 3
-    - if the most senior leader is an MJ, then it is 1
+    -   if the most senior leader is an FM, then it is 12
+    -   if the most senior leader is an GEN, then it is 9
+    -   if the most senior leader is an LT, then it is 3
+    -   if the most senior leader is an MJ, then it is 1
 5.  For a defending stack it is the sum of all the leaders present in
     the stack. (Unless you are being attacked by aircraft- according to
     the manual defence from aircraft is handled as per attack- each
@@ -38,18 +36,16 @@ title: Command_Penalty_Capacity
     have to be present at the start of the combat - as soon as the HQ
     becomes adjacent to or present at an existing combat, the combat
     efficiency values alter accordingly.
-
-    - if the most senior leader is an FM, stack capacity is doubled to
-      24
-    - if the most senior leader is an GEN, stack capacity is doubled
-      to 18
-    - if the most senior leader is an LT, stack capacity doubled to 6
-    - if the most senior leader is an MJ, stack capacity is doubled to
-      2
+    -   if the most senior leader is an FM, stack capacity is doubled to
+        24
+    -   if the most senior leader is an GEN, stack capacity is doubled
+        to 18
+    -   if the most senior leader is an LT, stack capacity doubled to 6
+    -   if the most senior leader is an MJ, stack capacity is doubled to
+        2
 
     1.  Note that stack capacity and formation capacity are different
         things as explained below in the HQ, skills, and traits section.
-
 8.  Thus in the same situation, but with a HQ present as one of those 13
     units, we would have a CPC of 24 if one formation was commanded by a
     FM, and a CPC of 30, if a second formation was commanded by a LT. No
@@ -70,4 +66,4 @@ title: Command_Penalty_Capacity
     you have enough command capacity to cover all the units.
 13. There is no extra benefit for NOT using the full CPC - i.e. placing
     9 units under a FM (9/12).
-    :::
+:::

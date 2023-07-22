@@ -1,7 +1,6 @@
 ---
 title: Industrial_Capacity
 ---
-
 ::: mw-parser-output
 **Industrial Capacity** (IC) is a nation\'s total capacity for
 production.
@@ -10,19 +9,18 @@ production.
 
 ::: {#toc .toc aria-labelledby="mw-toc-heading" role="navigation"}
 ::: {.toctitle dir="ltr" lang="en"}
-
 ## Contents {#mw-toc-heading}
 
 [ ]{.toctogglespan}
 :::
 
-- [[ 1 ]{.tocnumber} [ Base IC ]{.toctext}](#Base_IC)
-- [[ 2 ]{.tocnumber} [ Minister Traits ]{.toctext}](#Minister_Traits)
-- [[ 3 ]{.tocnumber} [ Technology ]{.toctext}](#Technology)
-- [[ 4 ]{.tocnumber} [ Dissent ]{.toctext}](#Dissent)
-- [[ 5 ]{.tocnumber} [ Peacetime Modifier
-  ]{.toctext}](#Peacetime_Modifier)
-  :::
+-   [[ 1 ]{.tocnumber} [ Base IC ]{.toctext}](#Base_IC)
+-   [[ 2 ]{.tocnumber} [ Minister Traits ]{.toctext}](#Minister_Traits)
+-   [[ 3 ]{.tocnumber} [ Technology ]{.toctext}](#Technology)
+-   [[ 4 ]{.tocnumber} [ Dissent ]{.toctext}](#Dissent)
+-   [[ 5 ]{.tocnumber} [ Peacetime Modifier
+    ]{.toctext}](#Peacetime_Modifier)
+:::
 
 ## [ Base IC ]{#Base_IC .mw-headline}
 
@@ -36,11 +34,11 @@ not a national province of Shanxi.
 On top of Base IC your actual IC is based on many different factors, for
 example:
 
-- [Minister Traits](/wiki/Minister_Traits "Minister Traits")
-- [Technology](/wiki/Technology "Technology"){.mw-redirect}
-- [Dissent](/wiki/Dissent "Dissent")
-- [Peacetime
-  Modifier](/wiki/index.php?title=Peacetime_Modifier&action=edit&redlink=1 "Peacetime Modifier (page does not exist)"){.new}
+-   [Minister Traits](/wiki/Minister_Traits "Minister Traits")
+-   [Technology](/wiki/Technology "Technology"){.mw-redirect}
+-   [Dissent](/wiki/Dissent "Dissent")
+-   [Peacetime
+    Modifier](/wiki/index.php?title=Peacetime_Modifier&action=edit&redlink=1 "Peacetime Modifier (page does not exist)"){.new}
 
 ## [ Minister Traits ]{#Minister_Traits .mw-headline}
 

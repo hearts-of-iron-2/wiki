@@ -1,7 +1,6 @@
 ---
 title: Greece
 ---
-
 ::: mw-parser-output
 ::: {.eu4box style="width:330px; height:auto; float:right; clear:right"}
 ::: heading
@@ -14,7 +13,7 @@ title: Greece
 [Major powers](/wiki/Major_power "Major power"){.mw-redirect}
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [France](/wiki/France "France")\
@@ -30,7 +29,7 @@ title: Greece
 Regional powers
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [Argentina](/wiki/Argentina "Argentina")\
@@ -58,7 +57,7 @@ Regional powers
 [Minor powers](/wiki/Minor_power "Minor power"){.mw-redirect}
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [Austria](/wiki/Austria "Austria")\
@@ -81,7 +80,7 @@ Regional powers
 [Micro powers](/wiki/Micro_power "Micro power"){.mw-redirect}
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [Afghanistan](/wiki/Afghanistan "Afghanistan")\
@@ -134,27 +133,36 @@ and fun if played the right way. Expect an interesting but tough game!
 
 ::: {#toc .toc aria-labelledby="mw-toc-heading" role="navigation"}
 ::: {.toctitle dir="ltr" lang="en"}
-
 ## Contents {#mw-toc-heading}
 
 [ ]{.toctogglespan}
 :::
 
-- [[ 1 ]{.tocnumber} [ Summary ]{.toctext}](#Summary)
-- [[ 2 ]{.tocnumber} [ Detailed analysis
-  ]{.toctext}](#Detailed_analysis)
-- [[ 3 ]{.tocnumber} [ General advices ]{.toctext}](#General_advices)
-- [[ 4 ]{.tocnumber} [ Tips and strategies to take a good start
-  ]{.toctext}](#Tips_and_strategies_to_take_a_good_start) - [[ 4.1 ]{.tocnumber} [ Don\'t be a bully
-  ]{.toctext}](#Don.27t_be_a_bully) - [[ 4.2 ]{.tocnumber} [ Make friends ]{.toctext}](#Make_friends) - [[ 4.3 ]{.tocnumber} [ Industrialize
-  ]{.toctext}](#Industrialize) - [[ 4.4 ]{.tocnumber} [ Win the Spanish Civil War
-  ]{.toctext}](#Win_the_Spanish_Civil_War) - [[ 4.5 ]{.tocnumber} [ Fortress Greece
-  ]{.toctext}](#Fortress_Greece) - [[ 4.6 ]{.tocnumber} [ Don\'t forget the Navy!
-  ]{.toctext}](#Don.27t_forget_the_Navy.21) - [[ 4.7 ]{.tocnumber} [ Win the Battle of France
-  ]{.toctext}](#Win_the_Battle_of_France) - [[ 4.8 ]{.tocnumber} [ Aftermath ]{.toctext}](#Aftermath) - [[ 4.9 ]{.tocnumber} [ A word about land doctrines
-  ]{.toctext}](#A_word_about_land_doctrines) - [[ 4.10 ]{.tocnumber} [ A word about sliders
-  ]{.toctext}](#A_word_about_sliders)
-  :::
+-   [[ 1 ]{.tocnumber} [ Summary ]{.toctext}](#Summary)
+-   [[ 2 ]{.tocnumber} [ Detailed analysis
+    ]{.toctext}](#Detailed_analysis)
+-   [[ 3 ]{.tocnumber} [ General advices ]{.toctext}](#General_advices)
+-   [[ 4 ]{.tocnumber} [ Tips and strategies to take a good start
+    ]{.toctext}](#Tips_and_strategies_to_take_a_good_start)
+    -   [[ 4.1 ]{.tocnumber} [ Don\'t be a bully
+        ]{.toctext}](#Don.27t_be_a_bully)
+    -   [[ 4.2 ]{.tocnumber} [ Make friends ]{.toctext}](#Make_friends)
+    -   [[ 4.3 ]{.tocnumber} [ Industrialize
+        ]{.toctext}](#Industrialize)
+    -   [[ 4.4 ]{.tocnumber} [ Win the Spanish Civil War
+        ]{.toctext}](#Win_the_Spanish_Civil_War)
+    -   [[ 4.5 ]{.tocnumber} [ Fortress Greece
+        ]{.toctext}](#Fortress_Greece)
+    -   [[ 4.6 ]{.tocnumber} [ Don\'t forget the Navy!
+        ]{.toctext}](#Don.27t_forget_the_Navy.21)
+    -   [[ 4.7 ]{.tocnumber} [ Win the Battle of France
+        ]{.toctext}](#Win_the_Battle_of_France)
+    -   [[ 4.8 ]{.tocnumber} [ Aftermath ]{.toctext}](#Aftermath)
+    -   [[ 4.9 ]{.tocnumber} [ A word about land doctrines
+        ]{.toctext}](#A_word_about_land_doctrines)
+    -   [[ 4.10 ]{.tocnumber} [ A word about sliders
+        ]{.toctext}](#A_word_about_sliders)
+:::
 
 ## [ Summary ]{#Summary .mw-headline}
 
@@ -182,35 +190,35 @@ goes well\...
 
 **Advantages**
 
-- Greece starts with a quite respectable (though outdated) army.
-- A few good tech teams, especially in the industrial and naval
-  construction fields. Decent in land doctrines if you choose the
-  \"Grand Battle Plan Doctrine\" path.
-- Greece can choose any path between Allies, Axis or non-aligned.
-  Comintern would probably requier an important slider shift though
-  (not play-tested).
-- The many hill provinces in Greek homeland give a notable advantage
-  to the defensor.
-- Two border provinces start with level 5 land forts : Ioaninna and
-  Salonika.
-- A few good leaders with the \"offensive\" or \"defensive\" traits.
-  Even the 2 \"old guard\" generals can progress fairly quickly since
-  their \"optimal rank\" is field marshal.
-- Good ministers available after a few years.
+-   Greece starts with a quite respectable (though outdated) army.
+-   A few good tech teams, especially in the industrial and naval
+    construction fields. Decent in land doctrines if you choose the
+    \"Grand Battle Plan Doctrine\" path.
+-   Greece can choose any path between Allies, Axis or non-aligned.
+    Comintern would probably requier an important slider shift though
+    (not play-tested).
+-   The many hill provinces in Greek homeland give a notable advantage
+    to the defensor.
+-   Two border provinces start with level 5 land forts : Ioaninna and
+    Salonika.
+-   A few good leaders with the \"offensive\" or \"defensive\" traits.
+    Even the 2 \"old guard\" generals can progress fairly quickly since
+    their \"optimal rank\" is field marshal.
+-   Good ministers available after a few years.
 
 **Disadvantages**
 
-- Greece is located in Europe, at the crossroads of the 3 major
-  alliances. The future is dark if the game plays historically\...
-- Limited IC (starts with 15).
-- Thus, only one research slot in 1936.
-- Several traits lacking in your tech teams : under average concerning
-  infantry, artillery and aircrafts, almost inexistant concerning
-  naval doctrines and air doctrines.
-- The fleet you start with floats only because it\'s trendy. That may
-  not last.
-- A serious flaw in your defenses : Larisa is not fortified.
-- Many beaches to defend.
+-   Greece is located in Europe, at the crossroads of the 3 major
+    alliances. The future is dark if the game plays historically\...
+-   Limited IC (starts with 15).
+-   Thus, only one research slot in 1936.
+-   Several traits lacking in your tech teams : under average concerning
+    infantry, artillery and aircrafts, almost inexistant concerning
+    naval doctrines and air doctrines.
+-   The fleet you start with floats only because it\'s trendy. That may
+    not last.
+-   A serious flaw in your defenses : Larisa is not fortified.
+-   Many beaches to defend.
 
 ## [ General advices ]{#General_advices .mw-headline}
 
@@ -218,31 +226,31 @@ All general advices concerning minor powers apply to Greece, but since
 one major alliance will be after you sooner or later, it\'s especially
 vital to manage efficiently every resource you have.
 
-- Never research ahead of time, excepted if you have blueprints
-  beforehand (and only in vital fields, like infantry).
-- Don\'t try to upgrade your army to the latest model available
-  (unless it\'s a matter of life or death) : your IC is limited and
-  it\'s way cheaper to upgrade them when they are \"twice obsolete\"
-  (e.g. upgrade all your army to the 1936 standard when you have
-  researched the 1939 standard). Consequence : always research new
-  infantry models as soon as reasonably possible.
-- Don\'t build more infantry than you can use : if the war is
-  overseas, don\'t cripple your IC by building tens of divisions if
-  your navy can not ship them safely.
-- Watch carefully your manpower pool. As far as defense goes, good
-  land forts save you lots of manpower.
-- Be especially careful when engaging a country that enjoys a powerful
-  air force, since you probably won\'t have one. Never let one or two
-  divisions alone in the wild, or enemy CAS will bomb them into
-  oblivion instantly.
-- Use the gearing bonus! While virtue is its own reward, the gearing
-  bonus is the reward of a good planning. Plan things ahead, then run
-  the number of item you want to produce in one row with full IC
-  allowed to the construction. It\'s a lifesaver for minor countries!
-  For example, after the 7th item produced, you\'ll enjoy a 35%
-  discount on the build time for the rest of the series. Especially
-  useful for: garrison divisions, land forts (if you want to reach
-  level 10), destroyers, artillery brigades, infantry etc.
+-   Never research ahead of time, excepted if you have blueprints
+    beforehand (and only in vital fields, like infantry).
+-   Don\'t try to upgrade your army to the latest model available
+    (unless it\'s a matter of life or death) : your IC is limited and
+    it\'s way cheaper to upgrade them when they are \"twice obsolete\"
+    (e.g. upgrade all your army to the 1936 standard when you have
+    researched the 1939 standard). Consequence : always research new
+    infantry models as soon as reasonably possible.
+-   Don\'t build more infantry than you can use : if the war is
+    overseas, don\'t cripple your IC by building tens of divisions if
+    your navy can not ship them safely.
+-   Watch carefully your manpower pool. As far as defense goes, good
+    land forts save you lots of manpower.
+-   Be especially careful when engaging a country that enjoys a powerful
+    air force, since you probably won\'t have one. Never let one or two
+    divisions alone in the wild, or enemy CAS will bomb them into
+    oblivion instantly.
+-   Use the gearing bonus! While virtue is its own reward, the gearing
+    bonus is the reward of a good planning. Plan things ahead, then run
+    the number of item you want to produce in one row with full IC
+    allowed to the construction. It\'s a lifesaver for minor countries!
+    For example, after the 7th item produced, you\'ll enjoy a 35%
+    discount on the build time for the rest of the series. Especially
+    useful for: garrison divisions, land forts (if you want to reach
+    level 10), destroyers, artillery brigades, infantry etc.
 
 And naturally, check your available ministers every year : a few good
 ones kick in at mid-game\...
@@ -341,25 +349,25 @@ divert your army to offensive tasks!
 
 The Navy is an essential element of the Greek strategy.
 
-- If you\'re Allied or independent, the Wehrmacht will descend into
-  the Balkans in 1941, and, hopefully, stop at the gates of your
-  home-made Greek Maginot Line\... But there is no way that you can
-  succesfully counter-attack against the bulk of the Axis forces in
-  the Balkans - you\'ll have to accept the stalemate in Greece (for
-  now at least) and fight in Africa or in the \"soft underbelly of
-  Europe\", Italy (and later, eventually, in occupied France)
-- If you\'re Axis, you\'ll want to fight in Egypt and in the
-  Middle-East, or even land in the USSR (excepted if you\'re content
-  to be Germany\'s pawn during Barbarossa and only send footsoldiers).
+-   If you\'re Allied or independent, the Wehrmacht will descend into
+    the Balkans in 1941, and, hopefully, stop at the gates of your
+    home-made Greek Maginot Line\... But there is no way that you can
+    succesfully counter-attack against the bulk of the Axis forces in
+    the Balkans - you\'ll have to accept the stalemate in Greece (for
+    now at least) and fight in Africa or in the \"soft underbelly of
+    Europe\", Italy (and later, eventually, in occupied France)
+-   If you\'re Axis, you\'ll want to fight in Egypt and in the
+    Middle-East, or even land in the USSR (excepted if you\'re content
+    to be Germany\'s pawn during Barbarossa and only send footsoldiers).
 
 Let\'s face it: the war will be waged overseas, so, better be prepared.
 You may have no hope to defeat the Kriegsmarine/Royal Navy head on:
 basically, what you want is a navy strong enough to:
 
-- win a minor encounter while suffering minimal losses (e.g. a couple
-  of destroyers or subs marauding)
-- protect your transport during the first few hours of a major
-  encounter so that you can escape relatively safely.
+-   win a minor encounter while suffering minimal losses (e.g. a couple
+    of destroyers or subs marauding)
+-   protect your transport during the first few hours of a major
+    encounter so that you can escape relatively safely.
 
 Fortunately, you have a good tech team that will research new ship
 models quickly - even quicker if you could trade for blueprints. My

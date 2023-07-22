@@ -1,7 +1,6 @@
 ---
 title: Artillery_Brigade
 ---
-
 ::: mw-parser-output
 This artical refers to Artillary Brigades in the HOI2 expansions
 Doomsday and Armageddon. Refer to the end of the artical for other
@@ -9,57 +8,63 @@ versions of HOI2
 
 ::: {#toc .toc aria-labelledby="mw-toc-heading" role="navigation"}
 ::: {.toctitle dir="ltr" lang="en"}
-
 ## Contents {#mw-toc-heading}
 
 [ ]{.toctogglespan}
 :::
 
-- [[ 1 ]{.tocnumber} [ Artillary Brigade
-  ]{.toctext}](#Artillary_Brigade) - [[ 1.1 ]{.tocnumber} [ Effects ]{.toctext}](#Effects) - [[ 1.2 ]{.tocnumber} [ Technology ]{.toctext}](#Technology) - [[ 1.2.1 ]{.tocnumber} [ Armour and Artillery
-  ]{.toctext}](#Armour_and_Artillery) - [[ 1.2.2 ]{.tocnumber} [ Firepower Focus (Land Doctrine)
-  ]{.toctext}](#Firepower_Focus_.28Land_Doctrine.29) - [[ 1.2.3 ]{.tocnumber} [ Mobility Focus (Land Doctrine)
-  ]{.toctext}](#Mobility_Focus_.28Land_Doctrine.29) - [[ 1.2.4 ]{.tocnumber} [ Industry ]{.toctext}](#Industry) - [[ 1.3 ]{.tocnumber} [ Division ]{.toctext}](#Division) - [[ 1.4 ]{.tocnumber} [ Artillery Brigade Strategy Guide
-  ]{.toctext}](#Artillery_Brigade_Strategy_Guide) - [[ 1.5 ]{.tocnumber} [ Artillery Brigade (HOI2)
-  ]{.toctext}](#Artillery_Brigade_.28HOI2.29)
-  :::
+-   [[ 1 ]{.tocnumber} [ Artillary Brigade
+    ]{.toctext}](#Artillary_Brigade)
+    -   [[ 1.1 ]{.tocnumber} [ Effects ]{.toctext}](#Effects)
+    -   [[ 1.2 ]{.tocnumber} [ Technology ]{.toctext}](#Technology)
+        -   [[ 1.2.1 ]{.tocnumber} [ Armour and Artillery
+            ]{.toctext}](#Armour_and_Artillery)
+        -   [[ 1.2.2 ]{.tocnumber} [ Firepower Focus (Land Doctrine)
+            ]{.toctext}](#Firepower_Focus_.28Land_Doctrine.29)
+        -   [[ 1.2.3 ]{.tocnumber} [ Mobility Focus (Land Doctrine)
+            ]{.toctext}](#Mobility_Focus_.28Land_Doctrine.29)
+        -   [[ 1.2.4 ]{.tocnumber} [ Industry ]{.toctext}](#Industry)
+    -   [[ 1.3 ]{.tocnumber} [ Division ]{.toctext}](#Division)
+    -   [[ 1.4 ]{.tocnumber} [ Artillery Brigade Strategy Guide
+        ]{.toctext}](#Artillery_Brigade_Strategy_Guide)
+    -   [[ 1.5 ]{.tocnumber} [ Artillery Brigade (HOI2)
+        ]{.toctext}](#Artillery_Brigade_.28HOI2.29)
+:::
 
 ## [ Artillary Brigade ]{#Artillary_Brigade .mw-headline}
 
 Artillery pieces will increase the \'Soft Attack\' capability of your
 units, inflicting more damage on Infantry and Motorized units.
 
----
+  ---------------------------- --------- -------- -------- ------ -------- -------- --------- ---------- -------- -- ------ --------- ------- ------- -------- ------- ------- --------- --------- --------- -- -- -- --
+  Model                        Default   Morale   Air      Air    Soft     Hard     Tough-\   Defens-\   Soft-\      Cost   Build-\   Man-\   Max     Supply   Fuel    Supp.   Transp.   Upgrade   Upgrade            
+                               ORG                Attack   Def.   Attack   Attack   ness      iveness    ness               time      power   Speed   Cons.    Cons.           Weight    Time      Cost               
+                                                                                                                                                                                         Factor    Factor             
 
-Model Default Morale Air Air Soft Hard Tough-\ Defens-\ Soft-\ Cost Build-\ Man-\ Max Supply Fuel Supp. Transp. Upgrade Upgrade  
- ORG Attack Def. Attack Attack ness iveness ness time power Speed Cons. Cons. Weight Time Cost  
- Factor Factor
+  I. Great War Light Artillery                                    2        1                  2                      5      45        2       -1      0.6                                0.5       1.0                
 
-I. Great War Light Artillery 2 1 2 5 45 2 -1 0.6 0.5 1.0
+  II\.                                                            3        1                  2                      5      60        2       -1      0.8                                0.5       1.0                
+  Great War Medium Artillery                                                                                                                                                                                          
 
-II\. 3 1 2 5 60 2 -1 0.8 0.5 1.0  
- Great War Medium Artillery
+  III\.                                                           4        1                  2                      6      80        2       -2      1.1                                0.5       1.0                
+  Great War Heavy Artillery                                                                                                                                                                                           
 
-III\. 4 1 2 6 80 2 -2 1.1 0.5 1.0  
- Great War Heavy Artillery
+  IV\. Early Artillery                                            4        2                  3                      5      60        2       -1      1.0                                0.5       1.0                
 
-IV\. Early Artillery 4 2 3 5 60 2 -1 1.0 0.5 1.0
+  V. Basic Artillery                                              5        2                  4                      5      60        2       -1      1.1                                0.5       1.0                
 
-V. Basic Artillery 5 2 4 5 60 2 -1 1.1 0.5 1.0
+  VI\. Improved Artillery                                         6        2                  4                      6      60        2       -1      1.2                                0.5       1.0                
 
-VI\. Improved Artillery 6 2 4 6 60 2 -1 1.2 0.5 1.0
+  VII\. Advanced Artillery                                        7        2                  5                      7      60        2       -1      1.3                                0.5       1.0                
 
-VII\. Advanced Artillery 7 2 5 7 60 2 -1 1.3 0.5 1.0
-
-VIII\. 8 3 5 7 60 2 -1 1.4 0.5 1.0  
- Semi--Modern Artillery
-
----
+  VIII\.                                                          8        3                  5                      7      60        2       -1      1.4                                0.5       1.0                
+  Semi--Modern Artillery                                                                                                                                                                                              
+  ---------------------------- --------- -------- -------- ------ -------- -------- --------- ---------- -------- -- ------ --------- ------- ------- -------- ------- ------- --------- --------- --------- -- -- -- --
 
 ### [ Effects ]{#Effects .mw-headline}
 
-- All Artillery Brigades reduce the movement of the Division they are
-  attached to.
+-   All Artillery Brigades reduce the movement of the Division they are
+    attached to.
 
 ### [ Technology ]{#Technology .mw-headline}
 
@@ -125,7 +130,7 @@ Activates Artillery VIII.
 
 Deactivates Artillery VI.
 
-#### [ ]{#Firepower*Focus*(Land*Doctrine)} [ [Firepower Focus](/wiki/index.php?title=Firepower_Focus&action=edit&redlink=1 "Firepower Focus (page does not exist)"){.new} ( [Land Doctrine](/wiki/Land_Doctrine "Land Doctrine") ) ]{#Firepower_Focus*.28Land_Doctrine.29 .mw-headline}
+#### [ ]{#Firepower_Focus_(Land_Doctrine)} [ [Firepower Focus](/wiki/index.php?title=Firepower_Focus&action=edit&redlink=1 "Firepower Focus (page does not exist)"){.new} ( [Land Doctrine](/wiki/Land_Doctrine "Land Doctrine") ) ]{#Firepower_Focus_.28Land_Doctrine.29 .mw-headline}
 
 [Delay
 Doctrine](/wiki/index.php?title=Delay_Doctrine&action=edit&redlink=1 "Delay Doctrine (page does not exist)"){.new}
@@ -193,7 +198,7 @@ Depth](/wiki/index.php?title=Infiltration_in_Depth&action=edit&redlink=1 "Infilt
 
 Increases the night move of a Artillery (+40)
 
-#### [ ]{#Mobility*Focus*(Land*Doctrine)} [ [Mobility Focus](/wiki/index.php?title=Mobility_Focus&action=edit&redlink=1 "Mobility Focus (page does not exist)"){.new} ( [Land Doctrine](/wiki/Land_Doctrine "Land Doctrine") ) ]{#Mobility_Focus*.28Land_Doctrine.29 .mw-headline}
+#### [ ]{#Mobility_Focus_(Land_Doctrine)} [ [Mobility Focus](/wiki/index.php?title=Mobility_Focus&action=edit&redlink=1 "Mobility Focus (page does not exist)"){.new} ( [Land Doctrine](/wiki/Land_Doctrine "Land Doctrine") ) ]{#Mobility_Focus_.28Land_Doctrine.29 .mw-headline}
 
 [Delay
 Doctrine](/wiki/index.php?title=Delay_Doctrine&action=edit&redlink=1 "Delay Doctrine (page does not exist)"){.new}
@@ -225,23 +230,22 @@ Reduces the time of building Artillery (-20)
 The following are the list of Divisions that can have Artillery Brigades
 attached, and some notes on thier effects.
 
-- [Cavalry Division](/wiki/Cavalry_Division "Cavalry Division")
-- [HQ Division](/wiki/HQ_Division "HQ Division")
-- [Infantry Division](/wiki/Infantry_Division "Infantry Division")
-- [Motorized Division](/wiki/Motorized_Division "Motorized Division")
-- [Garrison Division](/wiki/Garrison_Division "Garrison Division")
-- [Mountain Division](/wiki/Mountain_Division "Mountain Division")
-- [Marine Division](/wiki/Marine_Division "Marine Division")
-- PAR
-- [Militia Division](/wiki/Militia_Division "Militia Division")
+-   [Cavalry Division](/wiki/Cavalry_Division "Cavalry Division")
+-   [HQ Division](/wiki/HQ_Division "HQ Division")
+-   [Infantry Division](/wiki/Infantry_Division "Infantry Division")
+-   [Motorized Division](/wiki/Motorized_Division "Motorized Division")
+-   [Garrison Division](/wiki/Garrison_Division "Garrison Division")
+-   [Mountain Division](/wiki/Mountain_Division "Mountain Division")
+-   [Marine Division](/wiki/Marine_Division "Marine Division")
+-   PAR
+-   [Militia Division](/wiki/Militia_Division "Militia Division")
 
 ### [ Artillery Brigade Strategy Guide ]{#Artillery_Brigade_Strategy_Guide .mw-headline}
 
-- Artillery Brigades are generally seen as good brigades to attach to
-  Divisions.
-- Further information **may** be found in the [Brigade Strategy
-  Guide](/wiki/Brigade_Strategy_Guide "Brigade Strategy Guide") .
+-   Artillery Brigades are generally seen as good brigades to attach to
+    Divisions.
+-   Further information **may** be found in the [Brigade Strategy
+    Guide](/wiki/Brigade_Strategy_Guide "Brigade Strategy Guide") .
 
-### [ ]{#Artillery*Brigade*(HOI2)} [ [Artillery Brigade (HOI2)](</wiki/Artillery_Brigade_(HOI2)> "Artillery Brigade (HOI2)") ]{#Artillery*Brigade*.28HOI2.29 .mw-headline}
-
+### [ ]{#Artillery_Brigade_(HOI2)} [ [Artillery Brigade (HOI2)](/wiki/Artillery_Brigade_(HOI2) "Artillery Brigade (HOI2)") ]{#Artillery_Brigade_.28HOI2.29 .mw-headline}
 :::

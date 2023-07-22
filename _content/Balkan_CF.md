@@ -1,7 +1,6 @@
 ---
 title: Balkan_CF
 ---
-
 ::: mw-parser-output
 [Template:ARMA
 v1.2](/wiki/index.php?title=Template:ARMA_v1.2&action=edit&redlink=1 "Template:ARMA v1.2 (page does not exist)"){.new}
@@ -12,8 +11,8 @@ are caused a web of independence guarantees in that area.
 
 How to avoid this:
 
-- The guarantees will expire at new year 1940, so stay out of the area
-  until then.
-- The Italy AI will become aggressive in Balkans when Paris falls, so
-  German players should wait with invading France until 1940.
-  :::
+-   The guarantees will expire at new year 1940, so stay out of the area
+    until then.
+-   The Italy AI will become aggressive in Balkans when Paris falls, so
+    German players should wait with invading France until 1940.
+:::

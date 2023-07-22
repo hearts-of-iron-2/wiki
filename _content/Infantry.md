@@ -1,7 +1,6 @@
 ---
 title: Infantry
 ---
-
 ::: mw-parser-output
 **Infantry** are soldiers who fight on foot.
 

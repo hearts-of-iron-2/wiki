@@ -1,7 +1,6 @@
 ---
 title: Italy
 ---
-
 ::: mw-parser-output
 [File:Ita-topbar.JPG](/wiki/index.php?title=Special:Upload&wpDestFile=Ita-topbar.JPG "File:Ita-topbar.JPG"){.new}
 
@@ -16,7 +15,7 @@ title: Italy
 [Major powers](/wiki/Major_power "Major power"){.mw-redirect}
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [France](/wiki/France "France")\
@@ -32,7 +31,7 @@ title: Italy
 Regional powers
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [Argentina](/wiki/Argentina "Argentina")\
@@ -60,7 +59,7 @@ Regional powers
 [Minor powers](/wiki/Minor_power "Minor power"){.mw-redirect}
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [Austria](/wiki/Austria "Austria")\
@@ -83,7 +82,7 @@ Regional powers
 [Micro powers](/wiki/Micro_power "Micro power"){.mw-redirect}
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [Afghanistan](/wiki/Afghanistan "Afghanistan")\
@@ -133,47 +132,52 @@ Arabia](/wiki/index.php?title=Saudi_Arabia&action=edit&redlink=1 "Saudi Arabia (
 
 ::: {#toc .toc aria-labelledby="mw-toc-heading" role="navigation"}
 ::: {.toctitle dir="ltr" lang="en"}
-
 ## Contents {#mw-toc-heading}
 
 [ ]{.toctogglespan}
 :::
 
-- [[ 1 ]{.tocnumber} [ Overview ]{.toctext}](#Overview)
-  - [[ 1.1 ]{.tocnumber} [ See also ]{.toctext}](#See_also)
-- [[ 2 ]{.tocnumber} [ Technology ]{.toctext}](#Technology)
-- [[ 3 ]{.tocnumber} [ Diplomacy ]{.toctext}](#Diplomacy)
-  - [[ 3.1 ]{.tocnumber} [ Alliances ]{.toctext}](#Alliances)
-  - [[ 3.2 ]{.tocnumber} [ Sliders ]{.toctext}](#Sliders)
-  - [[ 3.3 ]{.tocnumber} [ Ministers ]{.toctext}](#Ministers)
-- [[ 4 ]{.tocnumber} [ Economy ]{.toctext}](#Economy)
-  - [[ 4.1 ]{.tocnumber} [ Trading ]{.toctext}](#Trading)
-  - [[ 4.2 ]{.tocnumber} [ Industrial Production
-    ]{.toctext}](#Industrial_Production)
-- [[ 5 ]{.tocnumber} [ Military ]{.toctext}](#Military)
-  - [[ 5.1 ]{.tocnumber} [ Army ]{.toctext}](#Army)
-    - [[ 5.1.1 ]{.tocnumber} [ Leaders ]{.toctext}](#Leaders)
-  - [[ 5.2 ]{.tocnumber} [ Navy ]{.toctext}](#Navy)
-  - [[ 5.3 ]{.tocnumber} [ Air Force ]{.toctext}](#Air_Force)
-- [[ 6 ]{.tocnumber} [ War ]{.toctext}](#War)
-  - [[ 6.1 ]{.tocnumber} [ Italo-Ethiopian War
-    ]{.toctext}](#Italo-Ethiopian_War)
-  - [[ 6.2 ]{.tocnumber} [ Spanish Civil War
-    ]{.toctext}](#Spanish_Civil_War)
-  - [[ 6.3 ]{.tocnumber} [ Albanian Occupation
-    ]{.toctext}](#Albanian_Occupation)
-  - [[ 6.4 ]{.tocnumber} [ Early opportunities for war
-    ]{.toctext}](#Early_opportunities_for_war)
-  - [[ 6.5 ]{.tocnumber} [ Fall Weiss ]{.toctext}](#Fall_Weiss)
-  - [[ 6.6 ]{.tocnumber} [ Sitzkrieg ]{.toctext}](#Sitzkrieg)
-- [[ 7 ]{.tocnumber} [ Strategy ]{.toctext}](#Strategy) - [[ 7.1 ]{.tocnumber} [ Mediterranean Control
-  ]{.toctext}](#Mediterranean_Control) - [[ 7.2 ]{.tocnumber} [ European Strategy
-  ]{.toctext}](#European_Strategy) - [[ 7.3 ]{.tocnumber} [ African Strategy
-  ]{.toctext}](#African_Strategy) - [[ 7.4 ]{.tocnumber} [ Fortress Italy
-  ]{.toctext}](#Fortress_Italy) - [[ 7.5 ]{.tocnumber} [ Italy the Traitor
-  ]{.toctext}](#Italy_the_Traitor) - [[ 7.6 ]{.tocnumber} [ Roman Strategy
-  ]{.toctext}](#Roman_Strategy)
-  :::
+-   [[ 1 ]{.tocnumber} [ Overview ]{.toctext}](#Overview)
+    -   [[ 1.1 ]{.tocnumber} [ See also ]{.toctext}](#See_also)
+-   [[ 2 ]{.tocnumber} [ Technology ]{.toctext}](#Technology)
+-   [[ 3 ]{.tocnumber} [ Diplomacy ]{.toctext}](#Diplomacy)
+    -   [[ 3.1 ]{.tocnumber} [ Alliances ]{.toctext}](#Alliances)
+    -   [[ 3.2 ]{.tocnumber} [ Sliders ]{.toctext}](#Sliders)
+    -   [[ 3.3 ]{.tocnumber} [ Ministers ]{.toctext}](#Ministers)
+-   [[ 4 ]{.tocnumber} [ Economy ]{.toctext}](#Economy)
+    -   [[ 4.1 ]{.tocnumber} [ Trading ]{.toctext}](#Trading)
+    -   [[ 4.2 ]{.tocnumber} [ Industrial Production
+        ]{.toctext}](#Industrial_Production)
+-   [[ 5 ]{.tocnumber} [ Military ]{.toctext}](#Military)
+    -   [[ 5.1 ]{.tocnumber} [ Army ]{.toctext}](#Army)
+        -   [[ 5.1.1 ]{.tocnumber} [ Leaders ]{.toctext}](#Leaders)
+    -   [[ 5.2 ]{.tocnumber} [ Navy ]{.toctext}](#Navy)
+    -   [[ 5.3 ]{.tocnumber} [ Air Force ]{.toctext}](#Air_Force)
+-   [[ 6 ]{.tocnumber} [ War ]{.toctext}](#War)
+    -   [[ 6.1 ]{.tocnumber} [ Italo-Ethiopian War
+        ]{.toctext}](#Italo-Ethiopian_War)
+    -   [[ 6.2 ]{.tocnumber} [ Spanish Civil War
+        ]{.toctext}](#Spanish_Civil_War)
+    -   [[ 6.3 ]{.tocnumber} [ Albanian Occupation
+        ]{.toctext}](#Albanian_Occupation)
+    -   [[ 6.4 ]{.tocnumber} [ Early opportunities for war
+        ]{.toctext}](#Early_opportunities_for_war)
+    -   [[ 6.5 ]{.tocnumber} [ Fall Weiss ]{.toctext}](#Fall_Weiss)
+    -   [[ 6.6 ]{.tocnumber} [ Sitzkrieg ]{.toctext}](#Sitzkrieg)
+-   [[ 7 ]{.tocnumber} [ Strategy ]{.toctext}](#Strategy)
+    -   [[ 7.1 ]{.tocnumber} [ Mediterranean Control
+        ]{.toctext}](#Mediterranean_Control)
+    -   [[ 7.2 ]{.tocnumber} [ European Strategy
+        ]{.toctext}](#European_Strategy)
+    -   [[ 7.3 ]{.tocnumber} [ African Strategy
+        ]{.toctext}](#African_Strategy)
+    -   [[ 7.4 ]{.tocnumber} [ Fortress Italy
+        ]{.toctext}](#Fortress_Italy)
+    -   [[ 7.5 ]{.tocnumber} [ Italy the Traitor
+        ]{.toctext}](#Italy_the_Traitor)
+    -   [[ 7.6 ]{.tocnumber} [ Roman Strategy
+        ]{.toctext}](#Roman_Strategy)
+:::
 
 ## [ Overview ]{#Overview .mw-headline}
 
@@ -244,9 +248,9 @@ join.
 
 Italy can also create some early puppets through liberation:
 
-- Ethiopia
-- Libya
-- Somalia
+-   Ethiopia
+-   Libya
+-   Somalia
 
 Although Libya and Somalia have no factories with they will
 automatically have 5 IC (off map) when liberated. On first look,
@@ -299,11 +303,11 @@ means that without trade deals, Italy will immediately begin suffering
 shortages affecting Industry in February, 1936. Italy\'s best trading
 partners (in order):
 
-- Germany
-- Soviet Union
-- Sweden
-- Siam
-- Japan
+-   Germany
+-   Soviet Union
+-   Sweden
+-   Siam
+-   Japan
 
 ### [ Industrial Production ]{#Industrial_Production .mw-headline}
 
@@ -435,13 +439,13 @@ direct Italian units straight to the Ethiopian capital, Addis Ababa, and
 win the war. With Italian units in the capital, the player has two
 choices for resolving the war:
 
-- Annex Ethiopia outright, and gain two IC, and enough resources to
-  support those two IC.
-- Sue for peace with Ethiopia, and demand they become a puppet. This
-  avoids dissent caused by annexation and then liberation (DD & ARMA),
-  and it also keeps the Ethiopian army intact. This will allow
-  Ethiopia to have an army of around 15 divisions by the fall of 1939,
-  which can be military controlled by Italy.
+-   Annex Ethiopia outright, and gain two IC, and enough resources to
+    support those two IC.
+-   Sue for peace with Ethiopia, and demand they become a puppet. This
+    avoids dissent caused by annexation and then liberation (DD & ARMA),
+    and it also keeps the Ethiopian army intact. This will allow
+    Ethiopia to have an army of around 15 divisions by the fall of 1939,
+    which can be military controlled by Italy.
 
 If you don\'t mind the gamey-ness, keeping the war with Ethiopia going
 for a while has numerous benefits. Militia on militia action is
@@ -464,17 +468,17 @@ likely loose. Italy should always send help, via the in-game event, to
 Nationalist Spain to avoid 5 dissent and an isolationist move. Beyond
 that event, Italy has three practical choices:
 
-- Do nothing and let the Nationalists loose.
-- Assist the Nationalists in regaining their country by declaring war
-  on Republican Spain at the beginning of the war
-- Wait until the Nationalists have been defeated (between 6 - 18
-  months), and invade Republican Spain in order to annex it. An
-  annexed Spain will provide 8 IC, 39 energy, 18 rares, and 28 metal.
-  This is particularly helpful since Italy is short on all major
-  resources. Note that Spain is key to capturing Gibraltar, which is
-  imperative for achieving strategic control of the Mediterranean Sea.
-  Also note that Spain provides a second front against France when
-  Fall Weiss occurs.
+-   Do nothing and let the Nationalists loose.
+-   Assist the Nationalists in regaining their country by declaring war
+    on Republican Spain at the beginning of the war
+-   Wait until the Nationalists have been defeated (between 6 - 18
+    months), and invade Republican Spain in order to annex it. An
+    annexed Spain will provide 8 IC, 39 energy, 18 rares, and 28 metal.
+    This is particularly helpful since Italy is short on all major
+    resources. Note that Spain is key to capturing Gibraltar, which is
+    imperative for achieving strategic control of the Mediterranean Sea.
+    Also note that Spain provides a second front against France when
+    Fall Weiss occurs.
 
 ### [ Albanian Occupation ]{#Albanian_Occupation .mw-headline}
 
@@ -491,15 +495,15 @@ Italy has several nonaggression pacts with its neighbors, which
 considerably reduce Italy\'s opportunity for local war mongering. All
 these non-aggression pacts, however, will eventually expire:
 
-- January, 1939: Pact with Turkey expires. An Italy with a high
-  belligerence, however, will likely cause a Soviet DOW if Italy
-  decides to attack Turkey.
-- March, 1939: Pact with Greece expires. After the annexation of
-  Albania at the end of March, Greece is a fairly easy target. Romania
-  will likely declare war as a result.
-- June, 1939: Pact with France expires. Italy may find France
-  challenging if they are not in the Axis. If Italy is in the Axis,
-  and early war with France will spoil the war with Poland.
+-   January, 1939: Pact with Turkey expires. An Italy with a high
+    belligerence, however, will likely cause a Soviet DOW if Italy
+    decides to attack Turkey.
+-   March, 1939: Pact with Greece expires. After the annexation of
+    Albania at the end of March, Greece is a fairly easy target. Romania
+    will likely declare war as a result.
+-   June, 1939: Pact with France expires. Italy may find France
+    challenging if they are not in the Axis. If Italy is in the Axis,
+    and early war with France will spoil the war with Poland.
 
 ### [ Fall Weiss ]{#Fall_Weiss .mw-headline}
 
@@ -508,18 +512,19 @@ for Italy, either as an early warning of the wider war soon to come, or
 as the beginning of open conflict with the Allies due to an early join
 with the Axis. Italy has several important military objectives:
 
-- Secure the Mediterranean Sea by taking Gibraltar and Suez.
-- Defend Italian borders with France, possibly lead offensive assaults
-  into France.
-- Resolve North Africa strategy: abandon Libya and Egypt or engage in
-  a North African campaign
+-   Secure the Mediterranean Sea by taking Gibraltar and Suez.
+-   Defend Italian borders with France, possibly lead offensive assaults
+    into France.
+-   Resolve North Africa strategy: abandon Libya and Egypt or engage in
+    a North African campaign
 
 ### [ Sitzkrieg ]{#Sitzkrieg .mw-headline}
 
 After the invasion of Poland, Europe goes quiet for quite some time.
 Italy has a few options during this lull, starting with Yugoslavia.
 Italy has claims on Yugoslavian territories. Since Yugoslavia has
-several guarantees of independence, an early declaration of war (before 1939) is risky, and could embroil Italy into WWII with the Allies
+several guarantees of independence, an early declaration of war (before
+1939) is risky, and could embroil Italy into WWII with the Allies
 attacking, or could trigger war from Turkey, Greece, or even Germany.
 Therefore, war with Yugoslavia should only occur after Fall Weiss,
 and/or after Italy is prepared to go to war with the Allies. Full
@@ -540,8 +545,8 @@ manpower), landing will be difficult.
 
 Strategically, Italy has two primary objectives:
 
-- Control the Mediterranean Sea (Gibraltar & Suez).
-- Ensure the Soviet Union is defeated.
+-   Control the Mediterranean Sea (Gibraltar & Suez).
+-   Ensure the Soviet Union is defeated.
 
 An Italy that achieves both objectives can play a significant role in
 ensuring the Axis rules the world. If either objective fails, Italy is
@@ -598,23 +603,23 @@ next may take months!
 
 Africa has some strategic value:
 
-- Northern Africa has airbases that the Allies can be use to pester
-  your forces.
-- Northern Africa also has ports, and while the Royal Navy may be
-  trapped after Italy controls the Mediterranean Sea, they will still
-  be in supply, and able to harass the Italian navy.
-- Central and Southern Africa have some good resources, including
-  metals and rares.
+-   Northern Africa has airbases that the Allies can be use to pester
+    your forces.
+-   Northern Africa also has ports, and while the Royal Navy may be
+    trapped after Italy controls the Mediterranean Sea, they will still
+    be in supply, and able to harass the Italian navy.
+-   Central and Southern Africa have some good resources, including
+    metals and rares.
 
 An effective Africa strategy can be conducted with the following steps:
 
-- Ensure Ethiopia is a puppet, and take military control of their
-  armies. Use their armies to grab as much land in Africa as possible.
-- Limit Italian military involvement.
-- Use Infantry and Militia, don´t use MOT, MEC, ARM in the central
-  African jungles and never use CAV in Africa.
-- For Central Africa, use Marines if possible; for Southern Africa,
-  use Mountaineers.
+-   Ensure Ethiopia is a puppet, and take military control of their
+    armies. Use their armies to grab as much land in Africa as possible.
+-   Limit Italian military involvement.
+-   Use Infantry and Militia, don´t use MOT, MEC, ARM in the central
+    African jungles and never use CAV in Africa.
+-   For Central Africa, use Marines if possible; for Southern Africa,
+    use Mountaineers.
 
 ### [ Fortress Italy ]{#Fortress_Italy .mw-headline}
 

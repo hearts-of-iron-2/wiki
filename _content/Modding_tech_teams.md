@@ -1,20 +1,24 @@
 ---
 title: Modding_tech_teams
 ---
-
 ::: mw-parser-output
 ::: {#toc .toc aria-labelledby="mw-toc-heading" role="navigation"}
 ::: {.toctitle dir="ltr" lang="en"}
-
 ## Contents {#mw-toc-heading}
 
 [ ]{.toctogglespan}
 :::
 
-- [[ 1 ]{.tocnumber} [ Introduction ]{.toctext}](#Introduction)
-- [[ 2 ]{.tocnumber} [ Basic Structure ]{.toctext}](#Basic_Structure) - [[ 2.1 ]{.tocnumber} [ ID ]{.toctext}](#ID) - [[ 2.2 ]{.tocnumber} [ Name ]{.toctext}](#Name) - [[ 2.3 ]{.tocnumber} [ Picture ]{.toctext}](#Picture) - [[ 2.4 ]{.tocnumber} [ Skill level ]{.toctext}](#Skill_level) - [[ 2.5 ]{.tocnumber} [ Start and Endyear
-  ]{.toctext}](#Start_and_Endyear) - [[ 2.6 ]{.tocnumber} [ Specialities ]{.toctext}](#Specialities)
-  :::
+-   [[ 1 ]{.tocnumber} [ Introduction ]{.toctext}](#Introduction)
+-   [[ 2 ]{.tocnumber} [ Basic Structure ]{.toctext}](#Basic_Structure)
+    -   [[ 2.1 ]{.tocnumber} [ ID ]{.toctext}](#ID)
+    -   [[ 2.2 ]{.tocnumber} [ Name ]{.toctext}](#Name)
+    -   [[ 2.3 ]{.tocnumber} [ Picture ]{.toctext}](#Picture)
+    -   [[ 2.4 ]{.tocnumber} [ Skill level ]{.toctext}](#Skill_level)
+    -   [[ 2.5 ]{.tocnumber} [ Start and Endyear
+        ]{.toctext}](#Start_and_Endyear)
+    -   [[ 2.6 ]{.tocnumber} [ Specialities ]{.toctext}](#Specialities)
+:::
 
 ## [ Introduction ]{#Introduction .mw-headline}
 
@@ -23,7 +27,7 @@ system and one integral part of this are the tech teams. They outline
 the historical strengths and weaknesses of a country and add a lot of
 flavour. In best Paradox tradition they are totally modable.
 
-You can find the tech team files in the _/db/tech/teams/_ subfolder.
+You can find the tech team files in the */db/tech/teams/* subfolder.
 They are saved in Paradox\' usual csv format and can be easily edited
 with a text editor or Excel.
 
@@ -35,7 +39,7 @@ following lines list the tech teams.
 
 Example:
 
-    314;Supermarine;T314;9;1930;1970;aeronautics;technical_efficiency;artillery;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x
+    314;Supermarine;T314;9;1930;1970;aeronautics;technical_efficiency;artillery;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;x 
 
 ### [ ID ]{#ID .mw-headline}
 
@@ -54,7 +58,7 @@ file as they aren\'t language specific.
 
 The next column is the name of the picture for the tech team without the
 \".bmp\" extension. These pictures are stored in the
-_gfx/interface/pics/_ subfolder. They use a quasi-greyscale (just copy
+*gfx/interface/pics/* subfolder. They use a quasi-greyscale (just copy
 the palette of a tech team picture coming with the game) palette and are
 96x96 pixels in size. All the pictures that come with the game have a
 white margin of one pixel around them, but his margin isn\'t necessary.
@@ -86,15 +90,15 @@ component of this type.
 When you are making new research teams for an unmodded tech tree you
 should notice a few things:
 
-- Technical_efficiency is a very potent specialization as it is used
-  for ships, tanks and aircraft and is almost always of a relatively
-  high difficulty and double time so that it counts as much for this
-  tech as two normal matching specializations.
-- Electronics is used for a lot of stuff, including almost every
-  single vehicle, ship and aircraft. Giving a team electronics and
-  technical_efficiency should be well considered as it will often make
-  the team the best one for all three of these vital parts of the tech
-  tree.
+-   Technical_efficiency is a very potent specialization as it is used
+    for ships, tanks and aircraft and is almost always of a relatively
+    high difficulty and double time so that it counts as much for this
+    tech as two normal matching specializations.
+-   Electronics is used for a lot of stuff, including almost every
+    single vehicle, ship and aircraft. Giving a team electronics and
+    technical_efficiency should be well considered as it will often make
+    the team the best one for all three of these vital parts of the tech
+    tree.
 
 As a final point, be sure to add an blank new line by pressing enter if
 you are using a text editor. Otherwise the game will not recognize your

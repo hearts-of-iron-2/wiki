@@ -1,10 +1,8 @@
 ---
 title: Marine_Amphibious_Force
 ---
-
 ::: mw-parser-output
-
-### [ ]{#Marine*Amphibious_Force*(MAF)} [ [Marine Amphibious Force]{.mw-selflink .selflink} (MAF) ]{#Marine*Amphibious_Force*.28MAF.29 .mw-headline}
+### [ ]{#Marine_Amphibious_Force_(MAF)} [ [Marine Amphibious Force]{.mw-selflink .selflink} (MAF) ]{#Marine_Amphibious_Force_.28MAF.29 .mw-headline}
 
 A **Marine Amphibious Force** is a limited [Surface Action
 Group](/wiki/Surface_Action_Group "Surface Action Group") (SAG) with
@@ -27,18 +25,18 @@ of defeat or retreat, troops can retreat to the transports.
 
 Three philosophies are debated, currently.
 
-1.  _TP-only fleets_ : This playstyle argues that TPs should be left in
+1.  *TP-only fleets* : This playstyle argues that TPs should be left in
     TP-only fleets. The reason is that TP-only fleets have a optimal
     [combat
     range](/wiki/index.php?title=Naval_primer&action=edit&redlink=1 "Naval primer (page does not exist)"){.new}
     of 450+km and then flee. Adding even a single warship will decrease
     this and let the TPs participate in combat, where they can only
     lose.
-2.  _CV-protection_ : Followers of this idea argue that adding a CV to
+2.  *CV-protection* : Followers of this idea argue that adding a CV to
     the fleet will put the fleet at a distance to all surface fleets
     that do not contain carriers, thus protecting the TPs better than if
     they are sent out alone.
-3.  _Surface fleet_ : This is the \"old-school\" version of a MAF:
+3.  *Surface fleet* : This is the \"old-school\" version of a MAF:
     combine your TPs with a sufficiently strong SAG to defend the
     transports.
-    :::
+:::

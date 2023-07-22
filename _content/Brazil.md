@@ -1,7 +1,6 @@
 ---
 title: Brazil
 ---
-
 ::: mw-parser-output
 ::: {.eu4box style="width:330px; height:auto; float:right; clear:right"}
 ::: heading
@@ -14,7 +13,7 @@ title: Brazil
 [Major powers](/wiki/Major_power "Major power"){.mw-redirect}
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [France](/wiki/France "France")\
@@ -30,7 +29,7 @@ title: Brazil
 Regional powers
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [Argentina](/wiki/Argentina "Argentina")\
@@ -58,7 +57,7 @@ Regional powers
 [Minor powers](/wiki/Minor_power "Minor power"){.mw-redirect}
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [Austria](/wiki/Austria "Austria")\
@@ -81,7 +80,7 @@ Regional powers
 [Micro powers](/wiki/Micro_power "Micro power"){.mw-redirect}
 :::
 
----
+------------------------------------------------------------------------
 
 ::: {style="columns:105px 3; column-gap: 5px;-webkit-columns:105px 3; -webkit-column-gap: 5px;-moz-columns:105px 3; -moz-column-gap: 5px;"}
 [Afghanistan](/wiki/Afghanistan "Afghanistan")\
@@ -130,38 +129,46 @@ Arabia](/wiki/index.php?title=Saudi_Arabia&action=edit&redlink=1 "Saudi Arabia (
 :::
 
 +-----------------------------------+-----------------------------------+
-| ::: {style="width: 52px;"} | **This article is undergoing a |
+| ::: {style="width: 52px;"}        | **This article is undergoing a    |
 | ![Ambox warning blue              | major                             |
-| construction.png] | [reconstruction |
+| construction.png]                 | [reconstruction                   |
 | (https://central.paradoxwikis.com | ](/wiki/Template:Under_constructi |
 | /images/c/cd/Ambox_warning_blue_c | on "Template:Under construction") |
-| onstruction.png){file-height="44" | .**\ |
-| file-width="50" | [You are welcome to assist in its |
-| url="https://central | overhaul.]{.small} |
-| .paradoxwikis.com/images/c/cd/Amb | |
-| ox_warning_blue_construction.png" | |
-| decoding="async" height="44" | |
-| loading="lazy" width="50"} | |
-| ::: | |
+| onstruction.png){file-height="44" | .**\                              |
+| file-width="50"                   | [You are welcome to assist in its |
+| url="https://central              | overhaul.]{.small}                |
+| .paradoxwikis.com/images/c/cd/Amb |                                   |
+| ox_warning_blue_construction.png" |                                   |
+| decoding="async" height="44"      |                                   |
+| loading="lazy" width="50"}        |                                   |
+| :::                               |                                   |
 +-----------------------------------+-----------------------------------+
 
 \
 
 ::: {#toc .toc aria-labelledby="mw-toc-heading" role="navigation"}
 ::: {.toctitle dir="ltr" lang="en"}
-
 ## Contents {#mw-toc-heading}
 
 [ ]{.toctogglespan}
 :::
 
-- [[ 1 ]{.tocnumber} [ Brazil ]{.toctext}](#Brazil) - [[ 1.1 ]{.tocnumber} [ Focus ]{.toctext}](#Focus) - [[ 1.2 ]{.tocnumber} [ Key Data / Timeline
-  ]{.toctext}](#Key_Data_.2F_Timeline) - [[ 1.3 ]{.tocnumber} [ Startup ]{.toctext}](#Startup) - [[ 1.4 ]{.tocnumber} [ The road to war (1936-1938)
-  ]{.toctext}](#The_road_to_war_.281936-1938.29) - [[ 1.5 ]{.tocnumber} [ Brazil as a Major Player (1939-1942)
-  ]{.toctext}](#Brazil_as_a_Major_Player_.281939-1942.29) - [[ 1.6 ]{.tocnumber} [ Brazil in the Great War (\~1942-?)
-  ]{.toctext}](#Brazil_in_the_Great_War_.28.7E1942-.3F.29) - [[ 1.7 ]{.tocnumber} [ Fazit ]{.toctext}](#Fazit) - [[ 1.8 ]{.tocnumber} [ Research ]{.toctext}](#Research) - [[ 1.9 ]{.tocnumber} [ Politics & Events
-  ]{.toctext}](#Politics_.26_Events)
-  :::
+-   [[ 1 ]{.tocnumber} [ Brazil ]{.toctext}](#Brazil)
+    -   [[ 1.1 ]{.tocnumber} [ Focus ]{.toctext}](#Focus)
+    -   [[ 1.2 ]{.tocnumber} [ Key Data / Timeline
+        ]{.toctext}](#Key_Data_.2F_Timeline)
+    -   [[ 1.3 ]{.tocnumber} [ Startup ]{.toctext}](#Startup)
+    -   [[ 1.4 ]{.tocnumber} [ The road to war (1936-1938)
+        ]{.toctext}](#The_road_to_war_.281936-1938.29)
+    -   [[ 1.5 ]{.tocnumber} [ Brazil as a Major Player (1939-1942)
+        ]{.toctext}](#Brazil_as_a_Major_Player_.281939-1942.29)
+    -   [[ 1.6 ]{.tocnumber} [ Brazil in the Great War (\~1942-?)
+        ]{.toctext}](#Brazil_in_the_Great_War_.28.7E1942-.3F.29)
+    -   [[ 1.7 ]{.tocnumber} [ Fazit ]{.toctext}](#Fazit)
+    -   [[ 1.8 ]{.tocnumber} [ Research ]{.toctext}](#Research)
+    -   [[ 1.9 ]{.tocnumber} [ Politics & Events
+        ]{.toctext}](#Politics_.26_Events)
+:::
 
 ## [ Brazil ]{#Brazil .mw-headline}
 
@@ -177,24 +184,24 @@ mainly on all Infantry Types. Conquer South America as fast as it can be
 done (with no war coming from USA). USA has guarantees to all american
 continent countries! So, this is one (maybe the only?) tricky part.
 
-### [ ]{#Key*Data*/_Timeline} [ Key Data / Timeline ]{#Key_Data_.2F_Timeline .mw-headline}
+### [ ]{#Key_Data_/_Timeline} [ Key Data / Timeline ]{#Key_Data_.2F_Timeline .mw-headline}
 
 Key Facts at a glance:
 
-- Feb. \'36 - Annex Uruguay
-- Mar. \'36 - Annex Paraguay
-- Mar. \'36 - IC 40, Tech-Slot #3
-- Sep. \'36 - Annex Venezuela
-- Oct. \'37 - 11: Election-Event
-- Winter\'37 - IC 60, Tech-Slot #4
-- Summer\'39 - Annex Bolivia
-- Oct. \'39 - 11: Election-Event
-- Winter\'39 - IC 80, Tech-Slot #5
-- Summer\'40 - Annex Argentina
-- Summer\'41 - Annex Peru & Ecuador
-- Dec. \'41 - Policy Initiative Event
-- Summer\'42 - Annex Columbia
-- \...
+-   Feb. \'36 - Annex Uruguay
+-   Mar. \'36 - Annex Paraguay
+-   Mar. \'36 - IC 40, Tech-Slot #3
+-   Sep. \'36 - Annex Venezuela
+-   Oct. \'37 - 11: Election-Event
+-   Winter\'37 - IC 60, Tech-Slot #4
+-   Summer\'39 - Annex Bolivia
+-   Oct. \'39 - 11: Election-Event
+-   Winter\'39 - IC 80, Tech-Slot #5
+-   Summer\'40 - Annex Argentina
+-   Summer\'41 - Annex Peru & Ecuador
+-   Dec. \'41 - Policy Initiative Event
+-   Summer\'42 - Annex Columbia
+-   \...
 
 \...i have to prove some dates etc. - don\'t believe everything but you
 can take it as benchmark.
@@ -205,9 +212,9 @@ First: Kill your fleet (except the transporters). Produce 3 Militias
 (the should be ready by Feb.15). Check your research (industry &
 research).
 
-- With your bigger army travel to São Paulo - where your transporters
-  will wait for traveling to conquer Uruguay.
-- Your smaller army send directly to the Border to Asunción(Paraguay).
+-   With your bigger army travel to São Paulo - where your transporters
+    will wait for traveling to conquer Uruguay.
+-   Your smaller army send directly to the Border to Asunción(Paraguay).
 
 Try do this as fast and without timeloss as you can. **Conquer Uruguay**
 before the 10th of Febr. - for some reasons USA will less likely break
@@ -226,7 +233,7 @@ with USA.
 (since this actions are in the very beginning fast to play, you maybe
 want to try this several times too \....to get the perfect timing ;))
 
-### [ ]{#The*road_to_war*(1936-1938)} [ The road to war (1936-1938) ]{#The*road_to_war*.281936-1938.29 .mw-headline}
+### [ ]{#The_road_to_war_(1936-1938)} [ The road to war (1936-1938) ]{#The_road_to_war_.281936-1938.29 .mw-headline}
 
 About the 15th of March \'36 you should have annexed the both
 countries - watch out the techtree, you should now have an additional
@@ -276,7 +283,7 @@ some workers are striking\... but you don\'t sense that really do you?
 
 You want more\... !
 
-### [ ]{#Brazil*as_a_Major_Player*(1939-1942)} [ Brazil as a Major Player (1939-1942) ]{#Brazil*as_a_Major_Player*.281939-1942.29 .mw-headline}
+### [ ]{#Brazil_as_a_Major_Player_(1939-1942)} [ Brazil as a Major Player (1939-1942) ]{#Brazil_as_a_Major_Player_.281939-1942.29 .mw-headline}
 
 The next Targets are: Bolivia and Argentina.
 
@@ -331,12 +338,12 @@ shores.
 
 EDIT:
 
-- Maybe you should choose to attack Columbia first (have to try
-  that) - maybe even before bolivia.
+-   Maybe you should choose to attack Columbia first (have to try
+    that) - maybe even before bolivia.
 
 Whenever you\'re think you\'re ready let the great war begin\...
 
-### [ ]{#Brazil*in_the_Great_War*(~1942-?)} [ Brazil in the Great War (\~1942-?) ]{#Brazil*in_the_Great_War*.28.7E1942-.3F.29 .mw-headline}
+### [ ]{#Brazil_in_the_Great_War_(~1942-?)} [ Brazil in the Great War (\~1942-?) ]{#Brazil_in_the_Great_War_.28.7E1942-.3F.29 .mw-headline}
 
 If you did it until here. Relax. You can fight now ALL non-Allied
 Forces. Take everything in Amerika, (except Canada & USA, other allied
@@ -375,7 +382,7 @@ strategy with the positions described above, this works very well.
 
 Infantry, Land Doctrine, Industry - nothing else.
 
-### [ ]{#Politics*&\_Events} [ Politics & Events ]{#Politics*.26_Events .mw-headline}
+### [ ]{#Politics_&_Events} [ Politics & Events ]{#Politics_.26_Events .mw-headline}
 
 You have several events where you can switch from radical-left to
 democratic right, so you don\'t need to advance here.

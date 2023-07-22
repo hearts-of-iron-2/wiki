@@ -1,7 +1,6 @@
 ---
 title: SKIF
 ---
-
 ::: mw-parser-output
 SKIF provides \"icon\" mods: colorful unit pictures for land, air, and
 naval units. Eight nations have unique icons for all units, while 10
@@ -14,16 +13,16 @@ nations](/wiki/index.php?title=Special:Upload&wpDestFile=Skif-mnt.png "File:Skif
 :::
 :::
 
-- Forum: [SKIF - icons for
-  HoI2/DD/ARMA](http://forum.paradoxplaza.com/forum/showthread.php?t=236771){.external
-  .text rel="nofollow"}
-- Download:
-  [\[1\]](http://www.star.net.pl/~scytth/hoi2/page/down.html){.external
-  .autonumber rel="nofollow"}
-- Current Version: 1.5
-- Last Update: August, 2008
-- Popularity: _1,000 - 5,000 posts_
-- Compatibility: [HOI2](/wiki/HOI2 "HOI2"){.mw-redirect} ,
-  [Doomsday](/wiki/Doomsday "Doomsday") ,
-  [ARMA](/wiki/ARMA "ARMA"){.mw-redirect}
-  :::
+-   Forum: [SKIF - icons for
+    HoI2/DD/ARMA](http://forum.paradoxplaza.com/forum/showthread.php?t=236771){.external
+    .text rel="nofollow"}
+-   Download:
+    [\[1\]](http://www.star.net.pl/~scytth/hoi2/page/down.html){.external
+    .autonumber rel="nofollow"}
+-   Current Version: 1.5
+-   Last Update: August, 2008
+-   Popularity: *1,000 - 5,000 posts*
+-   Compatibility: [HOI2](/wiki/HOI2 "HOI2"){.mw-redirect} ,
+    [Doomsday](/wiki/Doomsday "Doomsday") ,
+    [ARMA](/wiki/ARMA "ARMA"){.mw-redirect}
+:::

@@ -1,22 +1,21 @@
 ---
 title: US_Strategy-_1939_Scenario
 ---
-
 ::: mw-parser-output
 +-----------------------------------+-----------------------------------+
-| ::: {style="width: 52px;"} | **This article may need to be |
-| [![Wikitext.png](https://c | formatted [following an |
-| entral.paradoxwikis.com/images/2/ | encyclopedic |
-| 2f/Wikitext.png){file-height="20" | style](/wiki/T |
-| file-width="50" | emplate:Wikify "Template:Wikify") |
-| url="https://central.paradoxwi | .**\ |
-| kis.com/images/2/2f/Wikitext.png" | [Please help improve |
-| decoding="async" height="20" | [th |
-| loading="lazy" | is](https://hoi2.paradoxwikis.com |
-| width="50"}] | /index.php?title=US_Strategy-\_193 |
+| ::: {style="width: 52px;"}        | **This article may need to be     |
+| [![Wikitext.png](https://c        | formatted [following an           |
+| entral.paradoxwikis.com/images/2/ | encyclopedic                      |
+| 2f/Wikitext.png){file-height="20" | style](/wiki/T                    |
+| file-width="50"                   | emplate:Wikify "Template:Wikify") |
+| url="https://central.paradoxwi    | .**\                              |
+| kis.com/images/2/2f/Wikitext.png" | [Please help improve              |
+| decoding="async" height="20"      | [th                               |
+| loading="lazy"                    | is](https://hoi2.paradoxwikis.com |
+| width="50"}]                      | /index.php?title=US_Strategy-_193 |
 | (/wiki/File:Wikitext.png){.image} | 9_Scenario&action=edit){.external |
-| ::: | .text rel="nofollow"} article if |
-| | you can.]{.small} |
+| :::                               | .text rel="nofollow"} article if  |
+|                                   | you can.]{.small}                 |
 +-----------------------------------+-----------------------------------+
 
 [Template:NonVanilla](/wiki/index.php?title=Template:NonVanilla&action=edit&redlink=1 "Template:NonVanilla (page does not exist)"){.new}
@@ -49,10 +48,10 @@ the U.S., unless you have physically occupied practically all of
 Japan\'s territorial gains in mainland Asia, Japan will retain those
 ill-gotten gains even after you\'ve dictated peace terms in Tokyo. From
 a historical perspective, that really grinds on my buzz. I want to shape
-the New World Order the way _I_ want it shaped, thank you very much.
+the New World Order the way *I* want it shaped, thank you very much.
 Consequently, I play to not only destroy Japan\'s military, but also to
 physically occupy her colonial holdings. By doing so, I can annex,
-puppet, and liberate nations according to _my_ wishes, not theirs.
+puppet, and liberate nations according to *my* wishes, not theirs.
 
 What this inevitably leads to is a reversal of the famous military maxim
 of \"never getting involved in a land war in Asia.\" It also means
@@ -65,31 +64,30 @@ in 1944.
 
 ::: {#toc .toc aria-labelledby="mw-toc-heading" role="navigation"}
 ::: {.toctitle dir="ltr" lang="en"}
-
 ## Contents {#mw-toc-heading}
 
 [ ]{.toctogglespan}
 :::
 
-- [[ 1 ]{.tocnumber} [ Strategy for production and research
-  ]{.toctext}](#Strategy_for_production_and_research)
-  - [[ 1.1 ]{.tocnumber} [ Pre-War production and research
-    ]{.toctext}](#Pre-War_production_and_research)
-  - [[ 1.2 ]{.tocnumber} [ Wartime production and research
-    ]{.toctext}](#Wartime_production_and_research)
-- [[ 2 ]{.tocnumber} [ Fighting Japan ]{.toctext}](#Fighting_Japan)
-  - [[ 2.1 ]{.tocnumber} [ Defend India ]{.toctext}](#Defend_India)
-  - [[ 2.2 ]{.tocnumber} [ Defend the Philippines
-    ]{.toctext}](#Defend_the_Philippines)
-  - [[ 2.3 ]{.tocnumber} [ Defend our Pacific holdings
-    ]{.toctext}](#Defend_our_Pacific_holdings)
-  - [[ 2.4 ]{.tocnumber} [ Capture the Japanese home islands ASAP
-    ]{.toctext}](#Capture_the_Japanese_home_islands_ASAP)
-  - [[ 2.5 ]{.tocnumber} [ The _Fabulous_ ground war in Asia!
-    ]{.toctext}](#The_Fabulous_ground_war_in_Asia.21)
-- [[ 3 ]{.tocnumber} [ Fighting Germany
-  ]{.toctext}](#Fighting_Germany)
-  :::
+-   [[ 1 ]{.tocnumber} [ Strategy for production and research
+    ]{.toctext}](#Strategy_for_production_and_research)
+    -   [[ 1.1 ]{.tocnumber} [ Pre-War production and research
+        ]{.toctext}](#Pre-War_production_and_research)
+    -   [[ 1.2 ]{.tocnumber} [ Wartime production and research
+        ]{.toctext}](#Wartime_production_and_research)
+-   [[ 2 ]{.tocnumber} [ Fighting Japan ]{.toctext}](#Fighting_Japan)
+    -   [[ 2.1 ]{.tocnumber} [ Defend India ]{.toctext}](#Defend_India)
+    -   [[ 2.2 ]{.tocnumber} [ Defend the Philippines
+        ]{.toctext}](#Defend_the_Philippines)
+    -   [[ 2.3 ]{.tocnumber} [ Defend our Pacific holdings
+        ]{.toctext}](#Defend_our_Pacific_holdings)
+    -   [[ 2.4 ]{.tocnumber} [ Capture the Japanese home islands ASAP
+        ]{.toctext}](#Capture_the_Japanese_home_islands_ASAP)
+    -   [[ 2.5 ]{.tocnumber} [ The *Fabulous* ground war in Asia!
+        ]{.toctext}](#The_Fabulous_ground_war_in_Asia.21)
+-   [[ 3 ]{.tocnumber} [ Fighting Germany
+    ]{.toctext}](#Fighting_Germany)
+:::
 
 ## [ Strategy for production and research ]{#Strategy_for_production_and_research .mw-headline}
 
@@ -131,7 +129,7 @@ continue building factories well into 1942 (albeit not as many after
 I\'m at war.) The last of my factories typically gets built in Sept/Oct
 \'42. I also feverishly work trade deals during peacetime (after all,
 what else is there to do?), and try to build up stocks of materials, in
-particular Rare Materials and Supplies. Every Rare _I_ get is one that
+particular Rare Materials and Supplies. Every Rare *I* get is one that
 Hitler isn\'t getting for the Wehrmacht, and that\'s worth giving up
 plenty of Energy, Oil, and supplies for.
 
@@ -142,11 +140,11 @@ and \$100 in the bank. That sucks. But starting in 1939 pays big
 dividends in this regard. By enduring the tedium of two years of peace,
 the U.S. player can come into June 1941 with resource pools of 500K
 Energy, 400K Metal, 38K Rare, 300K Oil, 25K in Supplies, and \$10K in
-the bank. You will also have a slightly greater IC, _and_ a larger
+the bank. You will also have a slightly greater IC, *and* a larger
 population to boot, and your military will be only slightly smaller (and
 even that mostly because I scrap all my Level I destroyers and
 battleships from the get-go to save their TC). You do the math. All in
-all, it\'s _well_ worth it to spend that extra hour in the game in order
+all, it\'s *well* worth it to spend that extra hour in the game in order
 to lay down that foundation.
 
 Naval units, of course, have very long build times, particularly
@@ -170,7 +168,7 @@ supply on the mainland.
 
 As soon as \"Ship Assembly Line\" is completed, I will lay down two
 groups of six carriers, typically a month or two apart. I will typically
-also lay down a couple _long_ serial runs of Fletcher-class destroyers.
+also lay down a couple *long* serial runs of Fletcher-class destroyers.
 And some submarines, too. All of this starts in late 1940/mid-1941,
 depending on the lead time of the item. Subs are fast to build: I start
 them last, because I want to be building more factories up to the last
@@ -211,7 +209,7 @@ American heartland and East Coast \*now\*, and get \'em into the West
 Coast. We need lots of Engineer brigades, because they increase
 movement, which is precious in both jungle and mountain settings.
 \"Speed Kills\" (especially when you\'re angling to grab a strategic
-piece of ground _before_ the enemy can retreat there, so you can put him
+piece of ground *before* the enemy can retreat there, so you can put him
 in a pocket and then murder him). So as war approaches, start streaming
 Engineers with long serial runs. Do a smaller run of SP Arty for some of
 the Arm. and Mech. Bear in mind that we don\'t want to have too many
@@ -239,10 +237,10 @@ Air is useful for initial defensive purposes in the Philippines, but you
 don\'t need many. Just a couple will likely suffice in keeping the
 Japanese out of the Philippines. We\'re going to destroy the rest of the
 Japanese Navy with our carriers and older battleships. And as with
-ships, of course, we aren\'t going to build _any_ aircraft until we\'ve
+ships, of course, we aren\'t going to build *any* aircraft until we\'ve
 researched Aircraft Assembly Line\--to do otherwise is to simply give
 away precious ICs that could be spent on building factories that can
-give us _more_ precious ICs during the war years. \"All in good time, my
+give us *more* precious ICs during the war years. \"All in good time, my
 pretty; all in good time.\"
 
 ### [ Wartime production and research ]{#Wartime_production_and_research .mw-headline}
@@ -267,7 +265,7 @@ During the war, it\'s important to be laying down at least some short
 runs of various weapons (Marines, Air Transport, maybe a few more DDs,
 or perhaps some SP Arty). Why? Because you want to have some elasticity
 in your production. There\'s nothing worse than being geared up with
-long serial runs on _everything,_ and not having the ability to
+long serial runs on *everything,* and not having the ability to
 introduce new weapons, emergency builds, or whatnot. So think carefully
 before you ratchet up your production with a long run of that new kind
 of armor\--if your production bonks, and a run goes into slowdown, you
@@ -359,7 +357,7 @@ divs. With that in place, there\'s no way the Japanese are going to take
 Luzon from you. M3\'s aren\'t great against the Germans, but with SP
 Arty brigades they work just fine against Japanese 41 Inf, thank you
 very much. Plus, once those forces are in Luzon, they\'re nicely
-positioned for use in China later on. All of this _must_ be
+positioned for use in China later on. All of this *must* be
 pre-positioned before October \'41, of course, because once the war
 starts the Pacific is just crawling with Japanese warships. I will also
 deploy the majority of my submarines forward to Manila or Clark in fall
@@ -385,7 +383,7 @@ chumps. We want Tokyo, and we want it NOW. Fortunately for us, we\'re
 getting twelve shiny new Essex-class carriers by March \'42. Mmmmmm,
 yummmy. And as soon as they hit the water, I group them into two more
 groups of six carriers apiece, with cruisers and DDs. Why do I use
-carriers en masse? Because the AI currently _doesn\'t,_ and six of my
+carriers en masse? Because the AI currently *doesn\'t,* and six of my
 flight decks will mop pretty much whatever is out there that I run into.
 By March \'42, my First Carrier Striking Force is probably done
 escorting the second troop convoy to Calcutta. We move him back to San
@@ -408,7 +406,7 @@ taken out completely by April/May \'42.
 After that, you\'re likely to get Peace offers from Japan in fairly
 short order. I turn them down, because if they capitulate at this point,
 the Japanese still will end up with all of China, etc. etc. The war
-ain\'t over til _I_ say it\'s over, Tojo, and I\'m making the world safe
+ain\'t over til *I* say it\'s over, Tojo, and I\'m making the world safe
 for democracy, damnit. Which brings us to\...
 
 ### [ ]{#The_Fabulous_ground_war_in_Asia!} [ The *Fabulous* ground war in Asia! ]{#The_Fabulous_ground_war_in_Asia.21 .mw-headline}
@@ -461,7 +459,7 @@ they ain\'t going anywhere. They can\'t possibly take on our Armor on
 the flat. This means we can cut them off from whatever supply they have
 left, feed them to the jungle attrition factory for a few months, and
 then annihilate them in \'43. It\'s a classic \"let the jungle kill
-\'em\" strategy _a la_ MacArthur in New Guinea.
+\'em\" strategy *a la* MacArthur in New Guinea.
 
 At the same time, I will put a picket line of mechanized troops across
 my northern flank, typically trailing west from Shanghai towards
@@ -485,8 +483,8 @@ into Japanese subs and smaller combatants lurking in places like Truk.
 Single-division assaults will clean up most of these garrisons;
 occasionally two divisions will be required for the larger places that
 have actual infantry divisions occcupying them (Truk and Kwajalein being
-typical examples). Don\'t forget to send one or two of the boys _way_ up
-north to nab Etorofu and the Kuriles. We want it all. \" _Everything_ is
+typical examples). Don\'t forget to send one or two of the boys *way* up
+north to nab Etorofu and the Kuriles. We want it all. \" *Everything* is
 going according to my Master Plan\...\"
 
 Come spring of \'43, we move a horde of mechanized troops out of Dalian,
@@ -522,7 +520,7 @@ in earnest. My experience has been that unlesss you\'ve developed your
 air doctrines (particularly those pertaining to fighters) the Germans
 will beat the snot out of your airgroups with their own highly developed
 interceptors and whatnot. So, much more so than in Asia, it behooves you
-to have lots of aircraft, and use them _en masse_ .
+to have lots of aircraft, and use them *en masse* .
 
 During the interim in 1943, I will have been researching some additional
 technologies, such as better Artillery and Tank Destroyers, as both of
@@ -548,7 +546,7 @@ But there\'s the rub! Moving all those divisions back from China and
 putting them in place to assault Festung Europe is going to take most of
 the winter of \'43/\'44 to accomplish. THIS is where building all those
 scads of Transports earlier in the war pays off. I want to be able to
-move literally dozens of divisions at at time, because it\'s a _long_
+move literally dozens of divisions at at time, because it\'s a *long*
 way to get those troops to the UK (or whereever) we\'re going to stage
 from. It\'s the transit time that will kill you, so you don\'t want to
 make too many trips. It\'s perfectly viable to ship your stuff west to
@@ -556,7 +554,7 @@ east, i.e. China → San Diego → Boston → UK, rather than China → India �
 Suez → Gibralter → UK (or worse, around the Cape of Good Hope and
 Africa). The Mediterranean may not necessarily be a friendly place to
 travel, so going back across the Pacific spares you from potential
-hassles. After all, the Pacific\'s _your_ lake now. Alternately, you can
+hassles. After all, the Pacific\'s *your* lake now. Alternately, you can
 just dump people in San Diego and have them Strategically redeployed to
 the east coast of the States, meaning you can focus your Transports on
 making shorter runs back and forth across the Pacific, and then moving

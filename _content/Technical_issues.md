@@ -1,54 +1,55 @@
 ---
 title: Technical_issues
 ---
-
 ::: mw-parser-output
 ::: {#toc .toc aria-labelledby="mw-toc-heading" role="navigation"}
 ::: {.toctitle dir="ltr" lang="en"}
-
 ## Contents {#mw-toc-heading}
 
 [ ]{.toctogglespan}
 :::
 
-- [[ 1 ]{.tocnumber} [ Updates ]{.toctext}](#Updates)
-- [[ 2 ]{.tocnumber} [ Bugs and Bug Reporting
-  ]{.toctext}](#Bugs_and_Bug_Reporting)
-- [[ 3 ]{.tocnumber} [ Configuring Routers for Multiplayer Games
-  ]{.toctext}](#Configuring_Routers_for_Multiplayer_Games)
-- [[ 4 ]{.tocnumber} [ Screen Issues ]{.toctext}](#Screen_Issues)
-  - [[ 4.1 ]{.tocnumber} [ Screen Flicker
-    ]{.toctext}](#Screen_Flicker)
-  - [[ 4.2 ]{.tocnumber} [ Screen Resolution
-    ]{.toctext}](#Screen_Resolution)
-  - [[ 4.3 ]{.tocnumber} [ Windowed Mode
-    ]{.toctext}](#Windowed_Mode)
-- [[ 5 ]{.tocnumber} [ Game Slow downs ]{.toctext}](#Game_Slow_downs)
-  - [[ 5.1 ]{.tocnumber} [ Helpful Fixes
-    ]{.toctext}](#Helpful_Fixes)
-    - [[ 5.1.1 ]{.tocnumber} [ Sprites ]{.toctext}](#Sprites)
-    - [[ 5.1.2 ]{.tocnumber} [ Ghost Fleets
-      ]{.toctext}](#Ghost_Fleets)
-    - [[ 5.1.3 ]{.tocnumber} [ Event History
-      ]{.toctext}](#Event_History)
-    - [[ 5.1.4 ]{.tocnumber} [ Delete all units
-      ]{.toctext}](#Delete_all_units)
-    - [[ 5.1.5 ]{.tocnumber} [ Movies ]{.toctext}](#Movies)
-- [[ 6 ]{.tocnumber} [ General problem Solving
-  ]{.toctext}](#General_problem_Solving)
-  :::
+-   [[ 1 ]{.tocnumber} [ Updates ]{.toctext}](#Updates)
+-   [[ 2 ]{.tocnumber} [ Bugs and Bug Reporting
+    ]{.toctext}](#Bugs_and_Bug_Reporting)
+-   [[ 3 ]{.tocnumber} [ Configuring Routers for Multiplayer Games
+    ]{.toctext}](#Configuring_Routers_for_Multiplayer_Games)
+-   [[ 4 ]{.tocnumber} [ Screen Issues ]{.toctext}](#Screen_Issues)
+    -   [[ 4.1 ]{.tocnumber} [ Screen Flicker
+        ]{.toctext}](#Screen_Flicker)
+    -   [[ 4.2 ]{.tocnumber} [ Screen Resolution
+        ]{.toctext}](#Screen_Resolution)
+    -   [[ 4.3 ]{.tocnumber} [ Windowed Mode
+        ]{.toctext}](#Windowed_Mode)
+-   [[ 5 ]{.tocnumber} [ Game Slow downs ]{.toctext}](#Game_Slow_downs)
+    -   [[ 5.1 ]{.tocnumber} [ Helpful Fixes
+        ]{.toctext}](#Helpful_Fixes)
+        -   [[ 5.1.1 ]{.tocnumber} [ Sprites ]{.toctext}](#Sprites)
+        -   [[ 5.1.2 ]{.tocnumber} [ Ghost Fleets
+            ]{.toctext}](#Ghost_Fleets)
+        -   [[ 5.1.3 ]{.tocnumber} [ Event History
+            ]{.toctext}](#Event_History)
+        -   [[ 5.1.4 ]{.tocnumber} [ Delete all units
+            ]{.toctext}](#Delete_all_units)
+        -   [[ 5.1.5 ]{.tocnumber} [ Movies ]{.toctext}](#Movies)
+-   [[ 6 ]{.tocnumber} [ General problem Solving
+    ]{.toctext}](#General_problem_Solving)
+:::
 
 ## [ Updates ]{#Updates .mw-headline}
 
 The following updates are the most recent updates released for the
 Hearts of Iron II series (as of September 30, 2009):
 
-- Original Hearts of Iron 2 (HoI2): [Update 1.3b (Apr, 2006)](https://forum.paradoxplaza.com/forum/index.php?threads/226786 "forum:226786"){.extiw}
-  Checksum: JLQC
-- Hearts of Iron 2, Doomsday (HoI2:DD): [Update 1.3a (March, 2007)](https://forum.paradoxplaza.com/forum/index.php?threads/293247 "forum:293247"){.extiw}
-  Checksum: JCJS
-- Hearts of Iron 2, Armageddon (HoI2:ARMA): [Update 1.3 beta2 (April, 2009)](https://forum.paradoxplaza.com/forum/index.php?threads/402220 "forum:402220"){.extiw}
-  Checksum: PHVR
+-   Original Hearts of Iron 2 (HoI2): [Update 1.3b (Apr,
+    2006)](https://forum.paradoxplaza.com/forum/index.php?threads/226786 "forum:226786"){.extiw}
+    Checksum: JLQC
+-   Hearts of Iron 2, Doomsday (HoI2:DD): [Update 1.3a (March,
+    2007)](https://forum.paradoxplaza.com/forum/index.php?threads/293247 "forum:293247"){.extiw}
+    Checksum: JCJS
+-   Hearts of Iron 2, Armageddon (HoI2:ARMA): [Update 1.3 beta2 (April,
+    2009)](https://forum.paradoxplaza.com/forum/index.php?threads/402220 "forum:402220"){.extiw}
+    Checksum: PHVR
 
 Note that Paradox has officially confirmed that HOI2 and HOI2:DD updates
 are the final updates for those games. The last one for Arma was not
@@ -144,19 +145,17 @@ Tibet, setting game speed to maximum, and timing how long it takes for
 one month of game time to elapse. Testing produced the following
 results:
 
----
-
-User Brand Type Speed Cache RAM Scenario time
-Lennartos Intel Quad Core 3.7 Ghz 12MB 4 GB 1 min, 25 s.
-SBR Intel Core 2 Duo 2.4 Ghz 8MB 2 GB 2 min, 26 s.
-Bholstege Intel Core 2 3.0 Ghz 1 MB 4 GB 2 min, 30 s.
-BBasgen AMD Athlon 64 2.2 Ghz 0.5 MB 2 GB 3 min, 28 s.
-forlath Intel Pentium M 2.0 Ghz 0.5 MB 1 GB 3 min, 30 s.
-The RC Intel Pentium 4 2.6 Ghz 0.5 MB 1.5 GB 5 min, 50 s.
-MacLeod Intel Pentium 4 2.4 Ghz 0.5 MB 1 GB 8 min, 18 s.
-forlath Intel Pentium 4 3.4 Ghz 0.5 MB 1 GB 9 min, 30 s.
-
----
+  ----------- ------- ------------ --------- -------- -------- ---------------
+  User        Brand   Type         Speed     Cache    RAM      Scenario time
+  Lennartos   Intel   Quad Core    3.7 Ghz   12MB     4 GB     1 min, 25 s.
+  SBR         Intel   Core 2 Duo   2.4 Ghz   8MB      2 GB     2 min, 26 s.
+  Bholstege   Intel   Core 2       3.0 Ghz   1 MB     4 GB     2 min, 30 s.
+  BBasgen     AMD     Athlon 64    2.2 Ghz   0.5 MB   2 GB     3 min, 28 s.
+  forlath     Intel   Pentium M    2.0 Ghz   0.5 MB   1 GB     3 min, 30 s.
+  The RC      Intel   Pentium 4    2.6 Ghz   0.5 MB   1.5 GB   5 min, 50 s.
+  MacLeod     Intel   Pentium 4    2.4 Ghz   0.5 MB   1 GB     8 min, 18 s.
+  forlath     Intel   Pentium 4    3.4 Ghz   0.5 MB   1 GB     9 min, 30 s.
+  ----------- ------- ------------ --------- -------- -------- ---------------
 
 ### [ Helpful Fixes ]{#Helpful_Fixes .mw-headline}
 
@@ -187,9 +186,9 @@ ships in a port. The sheer number of units involved creates enormous lag
 on the game engine: the main symptom being a delay at a certain hour of
 the day for seconds or even minutes.
 
-- [Download the Ghost Fleet save game
-  fixer](http://www.modhoi.com/index.php?option=com_content&task=view&id=54&Itemid=37){.external
-  .text rel="nofollow"}
+-   [Download the Ghost Fleet save game
+    fixer](http://www.modhoi.com/index.php?option=com_content&task=view&id=54&Itemid=37){.external
+    .text rel="nofollow"}
 
 #### [ Event History ]{#Event_History .mw-headline}
 
@@ -275,4 +274,4 @@ other games/programs too):
     at all. Exclude all duplicate messages pointing to one occasion for
     example do not log demand territory but log give-in/refuse of demand
     territory.
-    :::
+:::
