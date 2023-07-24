@@ -48,10 +48,10 @@ jobs:
 
   # Deployment job
   deploy:
+    runs-on: ubuntu-latest
     environment:
       name: github-pages
-      url: https://wiki.artificialstupidity.uk/
-    runs-on: ubuntu-latest
+      url: https://wiki.hoi2bunker.com/
     needs: build
     steps:
       - name: Deploy to GitHub Pages
