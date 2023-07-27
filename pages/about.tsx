@@ -1,14 +1,15 @@
-import WikiPage from "../components/wiki-page";
 import markdownStyles from "../components/markdown-styles.module.css";
+import WikiPage from "../components/wiki-page";
 import { getArticleTree, getReadmeHtml } from "../lib/api";
+
 type Props = {
-  articles: string[];
+  articleTree: string[];
   readme: string;
 };
 
-export default function App({ articles, readme }: Props) {
+export default function About({ readme, articleTree }: Props) {
   return (
-    <WikiPage articleTree={articles}>
+    <WikiPage articleTree={articleTree}>
       <div
         className={markdownStyles["markdown"]}
         dangerouslySetInnerHTML={{ __html: readme }}
@@ -20,7 +21,7 @@ export default function App({ articles, readme }: Props) {
 export async function getStaticProps() {
   return {
     props: {
-      articles: getArticleTree(),
+      articleTree: getArticleTree(),
       readme: getReadmeHtml(),
     },
   };

@@ -4,6 +4,7 @@ import matter from "gray-matter";
 import { globSync } from "glob";
 import directoryTree from "directory-tree";
 import ArticleType from "../interfaces/article";
+import { markdownFileToHtml } from "./markdownToHtml";
 
 const contentDirectory = "_content";
 
@@ -75,4 +76,8 @@ export function getAllArticles(fields: string[] = []) {
   const slugs = getArticleSlugs();
   const posts = slugs.map((slug) => getArticleBySlug(slug, fields));
   return posts;
+}
+
+export function getReadmeHtml() {
+  return markdownFileToHtml("./README.md");
 }

@@ -8,9 +8,10 @@ import MenuComponent from "./menu";
 type Props = {
   article?: ArticleType;
   articleTree: any;
+  children?: React.ReactNode;
 };
 
-export default function WikiPage({ article, articleTree }: Props) {
+export default function WikiPage({ article, articleTree, children }: Props) {
   return (
     <Layout>
       <Container>
@@ -29,6 +30,7 @@ export default function WikiPage({ article, articleTree }: Props) {
           </div>
           <div className="drawer-content flex flex-col items-end overflow-scroll lg:w-three-quarters peer-checked:hidden">
             <MenuComponent article={article} />
+            {children}
             <Article article={article} />
           </div>
         </div>

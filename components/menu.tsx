@@ -5,6 +5,7 @@ import {
   DiscordIcon,
   EditIcon,
   GitHubIcon,
+  InfoIcon,
   MenuIcon,
   SearchIcon,
   UserIcon,
@@ -16,6 +17,7 @@ type Props = {
 
 const MenuComponent = ({ article }: Props) => {
   const [authButton, setAuthButton] = useState(undefined);
+  const [isSignedIn, setSignedIn] = useState(false);
 
   useEffect(() => {
     const signIn = (
@@ -42,6 +44,7 @@ const MenuComponent = ({ article }: Props) => {
       .then((user) => {
         if (user !== undefined && user !== null) {
           setAuthButton(signOut);
+          setSignedIn(true);
         } else {
           setAuthButton(signIn);
         }
@@ -59,12 +62,17 @@ const MenuComponent = ({ article }: Props) => {
       <div className="drawer-side">
         <label htmlFor="menu-drawer" className="drawer-overlay"></label>
         <ul className="menu p-4 w-80 h-full bg-base-200 text-base-content">
-          <li className="mt-8">{authButton}</li>
+          <li className="mt-8">
+            <a href="/about" className="tooltip flex" data-tip="About">
+              <InfoIcon /> About
+            </a>
+          </li>
+          <li>{authButton}</li>
           <li>
             <a
               target="_blank"
               href={`/edit/${article?.slug}`}
-              className="tooltip flex"
+              className={`tooltip flex ${isSignedIn ? "" : "hidden"}`}
               data-tip="Edit content"
             >
               <EditIcon /> Edit current page
