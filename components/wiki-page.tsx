@@ -8,24 +8,29 @@ import MenuComponent from "./menu";
 type Props = {
   article?: ArticleType;
   articleTree: any;
+  children?: React.ReactNode;
 };
 
-export default function WikiPage({ article, articleTree }: Props) {
+export default function WikiPage({ article, articleTree, children }: Props) {
   return (
     <Layout>
       <Container>
         <div className="drawer drawer-end w-full lg:drawer-open lg:flex lg:flex-row">
           <input
-            id="my-drawer"
+            id="search-drawer"
             type="checkbox"
             className="drawer-toggle peer"
           />
           <div className="drawer-side lg:w-quarter">
-            <label htmlFor="my-drawer" className="drawer-overlay lg:hidden" />
+            <label
+              htmlFor="search-drawer"
+              className="drawer-overlay lg:hidden"
+            />
             <ArticleSearch articleTree={articleTree} />
           </div>
           <div className="drawer-content flex flex-col items-end overflow-scroll lg:w-three-quarters peer-checked:hidden">
             <MenuComponent article={article} />
+            {children}
             <Article article={article} />
           </div>
         </div>

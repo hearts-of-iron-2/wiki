@@ -8,5 +8,6 @@
   }
   if (isInIframe()) {
     document.documentElement.style.color = "azure";
+    document.documentElement.style.backgroundColor = "transparent";
   }
 })();

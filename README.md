@@ -1,49 +1,22 @@
-# Hearts of Iron 2 wiki source code
+## About
 
-### [Live here](https://www.hoi2bunker.com/hoi2-wiki)
+This is a wiki containing various Hearts of Iron 2 facts.
+The wiki was made based on the Hearts of Iron 2 base game.
+Arsenal of Democracy and Darkest Hour would have some major differences as they came later.
+As most players play either AOD or DH as they are the newer better games, we somehow one day need to add in the differences.
+To do that we would need the help of volunteers. Please don't hesitate to reach out on contact@hoi2bunker.com or using the [Discord server](https://discord.gg/RbBuPtVM)
 
-Written using [NextJS](https://nextjs.org/).
+## Edit instructions
 
----
+The recommended way is to visit [the GitHub repo](https://github.com/hearts-of-iron-2/wiki) and make changes there.
+Check out [CONTRIBUTING.md](https://github.com/hearts-of-iron-2/wiki/blob/main/CONTRIBUTING.md).
 
-# How to edit the content
 
-You can edit the content locally with git and your favourite text editor or you can do it inside your browser by pressing
-`DOT` `.` on your keyboard while browsing this repository on github.
+Alternatively, you can follow these steps:
 
-All the content files are located inside the `_content` directory at the root of this project. Content is written using
-[Markdown](https://www.markdownguide.org/). The meta attribute `title` (the text at the top of every file) is what gets put on the search menu.
+1. Create an account using [this link](/login).
+2. Request edit permissions using the above contact methods.
+3. Go to the wiki page you'd like to edit and press the menu button. Inside, the "Edit current page" button will take you to a different tab where you can edit the content and save it.
 
-# Styles
+Don't hesitate to ask any questions you may have.
 
-Styling is done with the help of [TailwindCSS](https://tailwindcss.com/) and [DaisyUI](https://daisyui.com/).
-The config for both is found inside the file [tailwind.config.js](tailwind.config.js) at the root of this project.
-
-The other styling files (css) are located inside the [styles](styles) directory and imported in the file [pages/\_app.tsx](pages/_app.tsx)
-like so `import "../styles/index.css";`.
-
-### Styling the content
-
-The file [components/markdown-styles.module.css](components/markdown-styles.module.css) is responsible for styling all the content.
-
-### Themes
-
-DaisyUI supports many themes, but they are all disabled in the tailwind config so that the site can be embedded in a transparent iFrame.
-
-# Deployments
-
-Currently the site gets automatically deployed on every commit to
-[gh-pages](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site)
-using github workflows. The file [.github/workflows/nextjs.yml](.github/workflows/nextjs.yml) describes the process.
-
-# Running locally
-
-You can run the dev server using node and npm/pnpm by following these steps:
-
-1. Install [git](https://git-scm.com/) and [NodeJS](https://nodejs.dev/en/).
-2. Run `git clone https://github.com/Heartsofiron2/hoi2-wiki` inside your terminal.
-3. After cloning, run `cd hoi2-wiki` to enter the project directory.
-4. Run `npm i` to install all dependencies.
-5. Run `npm run dev` to run the development server.
-
-This should start a server on `localhost:3000`.

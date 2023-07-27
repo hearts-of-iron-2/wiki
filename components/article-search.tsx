@@ -32,10 +32,9 @@ const ArticleSearch = ({ articleTree }: Props) => {
               node.path.replace(/_content\//, "").replace(/\.md/gm, "")
             }
             onClick={() => {
-              const drawerState = document.getElementById(
-                "my-drawer"
-              ) as HTMLInputElement;
-              drawerState.checked = false;
+              document
+                .querySelectorAll("[id*=drawer]")
+                .forEach((el) => ((el as HTMLInputElement).checked = false));
             }}
           >
             {node.name.replace(/_/gm, " ").replace(/\.md/gm, "")}
@@ -65,7 +64,7 @@ const ArticleSearch = ({ articleTree }: Props) => {
           }}
         />
         <label
-          htmlFor="my-drawer"
+          htmlFor="search-drawer"
           className="btn btn-primary drawer-button w-min lg:hidden"
         >
           <svg
