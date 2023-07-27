@@ -73,7 +73,7 @@ export const SearchIcon = () => {
 export const UserIcon = () => {
   return (
     <svg
-      className="w-6 h-6 text-gray-800 dark:text-white"
+      className={svgStyles["svg"]}
       aria-hidden="true"
       xmlns="http://www.w3.org/2000/svg"
       fill="currentColor"
@@ -87,7 +87,7 @@ export const UserIcon = () => {
 export const MenuIcon = () => {
   return (
     <svg
-      className="w-6 h-6 text-gray-800 dark:text-white"
+      className={svgStyles["svg"]}
       aria-hidden="true"
       xmlns="http://www.w3.org/2000/svg"
       fill="none"
@@ -107,7 +107,7 @@ export const MenuIcon = () => {
 export const InfoIcon = () => {
   return (
     <svg
-      className="w-6 h-6 text-gray-800 dark:text-white"
+      className={svgStyles["svg"]}
       aria-hidden="true"
       xmlns="http://www.w3.org/2000/svg"
       fill="currentColor"
