@@ -14,7 +14,7 @@
 }
 
 .markdown ol {
-  @apply px-40;
+  @apply px-20 lg:px-40;
   list-style-type: decimal;
 }
 

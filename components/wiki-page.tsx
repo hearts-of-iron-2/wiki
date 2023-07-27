@@ -30,7 +30,7 @@ export default function WikiPage({ article, articleTree, children }: Props) {
           </div>
           <div className="drawer-content flex flex-col items-end overflow-scroll lg:w-three-quarters peer-checked:hidden">
             <MenuComponent article={article} />
-            {children}
+            <div className="w-full">{children}</div>
             <Article article={article} />
           </div>
         </div>
