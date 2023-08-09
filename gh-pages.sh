@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 
-nix-shell --run "pnpm i && pnpm static" ./shell.nix
+nix develop --command bash -c "pnpm i && pnpm static"
 
