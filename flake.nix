@@ -46,8 +46,7 @@
           '';
         };
         packages.default = pkgs.buildNpmPackage {
-          inherit version buildInputs npmDepsHash nativeBuildInputs;
-          pname = "wiki.hoi2bunker.com";
+          inherit pname version buildInputs npmDepsHash nativeBuildInputs;
           src = ./.;
           postInstall = ''
             mkdir -p $out/bin
